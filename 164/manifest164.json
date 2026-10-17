@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-16",
+  "scope": "Separate cartoon164 candidate; owner aesthetic approval pending",
+  "before": 163,
+  "public_preview": "https://recdpz.github.io/ravedio-avatar-previews/164/",
+  "saved_candidates": 11,
+  "render_count": 66,
+  "angles": [
+    "front",
+    "threequarter",
+    "profile",
+    "rightprofile",
+    "rear",
+    "top"
+  ],
+  "glb_count": 13,
+  "glb_checks": [
+    {
+      "file": "Feminine-bandeau-top.glb",
+      "sha256": "703823591c4729d57983fbf87bff0ec6ebbe2f0809035104e27ef234552a701b",
+      "bytes": 2007896
+    },
+    {
+      "file": "Feminine-base.glb",
+      "sha256": "4c7fab36d47bd5e731eb9bce6a12757c1873bdf1fa14aab1df20aeab60bc271a",
+      "bytes": 5138328
+    },
+    {
+      "file": "Feminine-jersey-top.glb",
+      "sha256": "7036af9e88519548dd573bdfc8117e90d05789959be3b01ae31c6ef465a00eff",
+      "bytes": 5520716
+    },
+    {
+      "file": "Feminine-open-top.glb",
+      "sha256": "afd9cf9caecc96be1b83b2797708e1efda5a5c244685ad4e970e0b94e35087d3",
+      "bytes": 6015272
+    },
+    {
+      "file": "Feminine-strappy-top.glb",
+      "sha256": "5c4e7e42c53a372f509f406834ec1003e51c946149fe701ebc0ef8c8541ef467",
+      "bytes": 2716652
+    },
+    {
+      "file": "Feminine-sweatshirt-top.glb",
+      "sha256": "fe2703326278dabe5aaf9d51cb9681ec65ff7942045fe07640444215045cae0e",
+      "bytes": 4639136
+    },
+    {
+      "file": "Feminine-tank-top.glb",
+      "sha256": "418381bec7a6d23f37c8978a4e69e952e6d6df36062c50a8c668b321456b81ac",
+      "bytes": 2669952
+    },
+    {
+      "file": "Feminine-triangle-top.glb",
+      "sha256": "590f429c67b50a463bad094cbd7b24783629712b9776be7a38a86a43698f2d3a",
+      "bytes": 4739564
+    },
+    {
+      "file": "Feminine-tshirt-top.glb",
+      "sha256": "312858ba05fea3d74b734006ca1f55d3617ff1613bc160c6c458709bf8059ab7",
+      "bytes": 4077512
+    },
+    {
+      "file": "Masculine-base.glb",
+      "sha256": "31e58fd5a11f0a811696000a4f89bc4775c9806b78d9a9b1b562420abcf3b08c",
+      "bytes": 5248544
+    },
+    {
+      "file": "Masculine-jersey-top.glb",
+      "sha256": "6496f93683c2ce1e88e5bd95de41c587bbc5be9dee9995fafd7ab63ce00e05eb",
+      "bytes": 5530352
+    },
+    {
+      "file": "Masculine-sweatshirt-top.glb",
+      "sha256": "ecd4e5fb0bf9a63d4d68b038164baf3cb26839258d9b62d0dd73f3e626f78635",
+      "bytes": 4641704
+    },
+    {
+      "file": "Masculine-tank-top.glb",
+      "sha256": "1aa48873d3a44da7e17722abb4b51e36f2a5275ec89f6e511e6a710c0c575029",
+      "bytes": 2178576
+    }
+  ],
+  "source_files": [
+    {
+      "path": "E:\\Ravedio-Avatar\\outfits164\\model164.py",
+      "sha256": "d635e9cad7bb6cf02914b80f84ce411cedfa1d2490ed88e23804c48619799e8d"
+    },
+    {
+      "path": "E:\\Ravedio-Avatar\\outfits164\\verify164.py",
+      "sha256": "f2b7af27a8c3c04ad00c413f4777a0005efb3fdd694bc2b73fa6a11dbecb1548"
+    },
+    {
+      "path": "E:\\Ravedio-Avatar\\outfits164\\package164.py",
+      "sha256": "7a6420ecec7b823d872a1b4651504635e3bf45ee00ae0d1564dd38557e4937fc"
+    },
+    {
+      "path": "E:\\Ravedio-Avatar\\outfits164\\details164.py",
+      "sha256": "041cd78fdfea752cdb5c23267a01ddfa91ac11e0e78f0e53e96fa0d7bad1807a"
+    },
+    {
+      "path": "E:\\Ravedio-Avatar\\outfits164\\normalize-ui164.py",
+      "sha256": "620df2018eca853b3de7301c7f154487821a516975b2f720d6aed2d9bd61ccf3"
+    }
+  ],
+  "coordinate_space": "Final-world saved163 donors; body and garments rebuilt once. No previous Z/support transform replay.",
+  "technical_verification": "fit-verification164.json",
+  "protected_verification": [
+    {
+      "build": "Feminine",
+      "protected163_neighbors_exact": true,
+      "upper_hair_roots_exact": true,
+      "objects": 16
+    },
+    {
+      "build": "Masculine",
+      "protected163_neighbors_exact": true,
+      "upper_hair_roots_exact": true,
+      "objects": 36
+    }
+  ],
+  "visual_review": "visual-review164.json",
+  "studio_available": false,
+  "main_master_changed": false,
+  "profile_contract_changed": false,
+  "skin_palette": {
+    "revision": 151,
+    "sha256": "dea8b653c34170c1890b7cd9b8629efbfa0a2ffcda19693c00b2c721e60f5a09"
+  },
+  "changes": [
+    "Continuous smooth torso and broader rounded feminine bust, gradual under-bust-to-belly transition",
+    "Waist-following tops and ordinary rear envelope instead of cylindrical garment shelves",
+    "Open sleeve surfaces attached at armholes; no deep Boolean tube bore through torso; smoothed boundary vertices",
+    "Seated necklines and falling open-shirt collar, fitted straps and shorts waist coverage",
+    "Sweatshirt alias now Hoodie with lowered rounded hood, drawcords, cuff binding and kangaroo pocket",
+    "Stable descending rear/lateral hair tips; upper groom roots and face remain exact",
+    "Ravedio logos and original EDM pattern assets preserved byte-for-byte"
+  ],
+  "render_presentation": "Same matched cameras,1024px Cycles40 samples; garment glossy-ray visibility disabled to avoid sharp cloth reflections beneath chin and better match environment-lit browser",
+  "recovery": "RECOVERY164.txt",
+  "limitations": [
+    "Only11 displayed outfits and two shown hair/build combinations reviewed; full hairstyle/headwear catalogue unverified",
+    "Live lighting approximates offline Cycles; physical phone touch not tested",
+    "Prototype keeps stylized compact sleeves and floating hands",
+    "Owner aesthetic acceptance remains pending"
+  ],
+  "references": [
+    {
+      "url": "https://www.uniqlo.com/us/en/products/E482839-000/00?colorDisplayCode=00",
+      "observed": "Actual worn tank images: seated straps, continuous shoulder connection, fabric returns toward waist below bust"
+    },
+    {
+      "url": "https://www.uniqlo.com/uk/en/products/E459787-000/00",
+      "observed": "Actual hoodie and detail images: rounded hood attachment, drawcord region, rib cuffs, pocket placement"
+    }
+  ],
+  "browser_verification": "browser-local164.json"
+}
