@@ -1,0 +1,174 @@
+{
+  "date": "2026-10-16",
+  "scope": "Separate cartoon167 candidate; owner aesthetic approval pending",
+  "before": 166,
+  "public_preview": "https://recdpz.github.io/ravedio-avatar-previews/167/",
+  "saved_candidates": 11,
+  "render_count": 66,
+  "new_feminine_renders": 48,
+  "unchanged_masculine_renders_reused": 18,
+  "angles": [
+    "front",
+    "threequarter",
+    "profile",
+    "rightprofile",
+    "rear",
+    "top"
+  ],
+  "glb_count": 13,
+  "glb_checks": [
+    {
+      "file": "Feminine-bandeau-top.glb",
+      "sha256": "f21b490a874b33fc5da7f74b4a6a366edd8cfa8380c66b3cb177c84eb64c1d86",
+      "bytes": 2007904
+    },
+    {
+      "file": "Feminine-base.glb",
+      "sha256": "52b2a797b3d6b2a1f43171f17a71c81ff71b7bc436c1bf41455396cca4c8bfcb",
+      "bytes": 5138328
+    },
+    {
+      "file": "Feminine-jersey-top.glb",
+      "sha256": "5ec3deb1e3065321fb78a6ebcbf048aaba7e7c6427e5133c08438b8fbad67e4c",
+      "bytes": 5803544
+    },
+    {
+      "file": "Feminine-open-top.glb",
+      "sha256": "c1999495033017e38870a6b4eddd89dae04b6c565b91cfa180b3654d9a0f0111",
+      "bytes": 6202060
+    },
+    {
+      "file": "Feminine-strappy-top.glb",
+      "sha256": "f83867ad9efbcd9e6e60776d51ece085949eff16522479f99e16fbb9716e3296",
+      "bytes": 2713292
+    },
+    {
+      "file": "Feminine-sweatshirt-top.glb",
+      "sha256": "53519f888fd3eb22797365bf9696b0f761a29d32dbb013d21552945811fa2d51",
+      "bytes": 4837312
+    },
+    {
+      "file": "Feminine-tank-top.glb",
+      "sha256": "3d2b16cbf620c05a3500a0aa2a2ea54fc441a20d57ebf3ae3abc9e1ebc03231f",
+      "bytes": 2670112
+    },
+    {
+      "file": "Feminine-triangle-top.glb",
+      "sha256": "ae95e045b4019e8da2481d2cafd502303bb8f70f8ef8fc28c40dc424646b02ee",
+      "bytes": 4792300
+    },
+    {
+      "file": "Feminine-tshirt-top.glb",
+      "sha256": "c953a306d304fdb6974bb302113fa52aad713405115f84dea776bc6503a9c441",
+      "bytes": 4260520
+    },
+    {
+      "file": "Masculine-base.glb",
+      "sha256": "3262c552756fad41d0c1ec6b061864aeb324706b6dfc3225d9e4a44f692f8398",
+      "bytes": 5248548
+    },
+    {
+      "file": "Masculine-jersey-top.glb",
+      "sha256": "951ee7a0f4b3d391e7593562b45b0e6a7f3e3818b8be1b07b3168afad997196e",
+      "bytes": 5852932
+    },
+    {
+      "file": "Masculine-sweatshirt-top.glb",
+      "sha256": "cdb3977766b794704a2fa72f1b40cbc4528351513468fa11093f9ce5972067f5",
+      "bytes": 4861220
+    },
+    {
+      "file": "Masculine-tank-top.glb",
+      "sha256": "366244e63970b5c0aeff6752df73de5993b0a69c6990811d45119d04d5a01612",
+      "bytes": 2411076
+    }
+  ],
+  "source_files": [
+    {
+      "path": "E:\\Ravedio-Avatar\\outfits167\\model167.py",
+      "sha256": "abfae5ae6342d89f23e04ebd872e2c27e85a011849bff796ffb8a6ddaf4085c0"
+    },
+    {
+      "path": "E:\\Ravedio-Avatar\\outfits167\\verify167.py",
+      "sha256": "34c83d1b52f9124ed6a9b52f5c675ca28ec2bb113d5a4633cabcfca8ef11d78c"
+    },
+    {
+      "path": "E:\\Ravedio-Avatar\\outfits167\\package167.py",
+      "sha256": "0b9c1d06b62ae5790d392c00f51da5ae892accf51e033b8a7481cbe5a14a34c6"
+    },
+    {
+      "path": "E:\\Ravedio-Avatar\\outfits167\\details167.py",
+      "sha256": "c2dafb4507d6187f6390d8f5b099bf0c3507164e89b41981fa02dab2e016f7db"
+    },
+    {
+      "path": "E:\\Ravedio-Avatar\\outfits167\\normalize-ui167.py",
+      "sha256": "e197a5c5c4002dc362cd4ad1ea2c946acfa828c444e4efbe4f74225fb8457c4d"
+    }
+  ],
+  "coordinate_space": "Final-world saved166 donors. Feminine torso and displayed tops revised once; masculine torso and all other base parts exact. No old support transforms replayed.",
+  "technical_verification": "fit-verification167.json",
+  "protected_verification": [
+    {
+      "build": "Feminine",
+      "protected166_neighbors_exact": true,
+      "objects": 39
+    },
+    {
+      "build": "Masculine",
+      "protected166_neighbors_exact": true,
+      "objects": 37
+    }
+  ],
+  "visual_review": "visual-review167.json",
+  "studio_available": false,
+  "main_master_changed": false,
+  "profile_contract_changed": false,
+  "skin_palette": {
+    "revision": 151,
+    "sha256": "dea8b653c34170c1890b7cd9b8629efbfa0a2ffcda19693c00b2c721e60f5a09"
+  },
+  "changes": [
+    "Reduced feminine chest forward offset by9%",
+    "Settled rounded fullness about .012 model units lower without moving the torso",
+    "Broadened upper, lateral and underside blend; retained rounded lower fullness",
+    "Refitted all eight feminine tops to updated support",
+    "Masculine models, heads, eyes, grooms, hands, legs, shorts and151 palette exact to166"
+  ],
+  "render_presentation": "Same matched cameras,1024px Cycles40 samples; garment glossy-ray visibility disabled to avoid sharp cloth reflections beneath chin and better match environment-lit browser",
+  "recovery": "RECOVERY167.txt",
+  "limitations": [
+    "Only11 displayed outfits and two shown hair/build combinations reviewed; full hairstyle/headwear catalogue unverified",
+    "Live lighting approximates offline Cycles; physical phone touch not tested",
+    "Prototype keeps stylized compact sleeves and floating hands",
+    "Owner aesthetic acceptance remains pending"
+  ],
+  "references": [
+    {
+      "url": "https://www.uniqlo.com/us/en/products/E482195-000/00",
+      "observed": "Actual worn bra-top images: curved upper chest, distinct garment opening, fitted waist below the bust"
+    },
+    {
+      "url": "https://www.uniqlo.com/uk/en/products/E459787-000/00",
+      "observed": "Actual hoodie and detail images: rounded hood attachment, drawcord region, rib cuffs, pocket placement"
+    }
+  ],
+  "browser_verification": "browser-local167.json",
+  "detail_comparison": "fit-comparison167.jpg",
+  "saved_shape_measurements": {
+    "samples": [
+      {
+        "revision": 166,
+        "peak_z": 1.253854748603352,
+        "front_y": -0.2919747829437256
+      },
+      {
+        "revision": 167,
+        "peak_z": 1.2448044692737432,
+        "front_y": -0.2813599705696106
+      }
+    ],
+    "reduced_projection": 0.01061481237411499,
+    "settling": -0.009050279329608779,
+    "rear_exact": true
+  }
+}
