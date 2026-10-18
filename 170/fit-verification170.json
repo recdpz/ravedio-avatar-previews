@@ -1,0 +1,317 @@
+[
+  {
+    "case": "Feminine-bandeau",
+    "saved_signature_exact": true,
+    "head_hair_original_eyes_hands_legs_shorts_exact": true,
+    "lower_chest_exact": true,
+    "base_consistent": true,
+    "hand_clearance": [
+      0.125653475522995,
+      0.1267809420824051
+    ],
+    "sampled_supported_fabric": [
+      {
+        "name": "Clothing / Bandeau",
+        "min_signed": 0.0032305376807926223
+      }
+    ]
+  },
+  {
+    "case": "Feminine-triangle",
+    "saved_signature_exact": true,
+    "head_hair_original_eyes_hands_legs_shorts_exact": true,
+    "lower_chest_exact": true,
+    "base_consistent": true,
+    "hand_clearance": [
+      0.11901779472827911,
+      0.11583788692951202
+    ],
+    "sampled_supported_fabric": [
+      {
+        "name": "Clothing / Triangle underband",
+        "min_signed": 0.0011291215414530598
+      },
+      {
+        "name": "Clothing / triangle cup -1",
+        "min_signed": 0.005997080821543932
+      },
+      {
+        "name": "Clothing / Triangle strap -1",
+        "min_signed": 0.0024709822610020638
+      },
+      {
+        "name": "Clothing / triangle cup 1",
+        "min_signed": 0.006455862487200648
+      },
+      {
+        "name": "Clothing / Triangle strap 1",
+        "min_signed": 0.0024626063532195985
+      }
+    ]
+  },
+  {
+    "case": "Feminine-strappy",
+    "saved_signature_exact": true,
+    "head_hair_original_eyes_hands_legs_shorts_exact": true,
+    "lower_chest_exact": true,
+    "base_consistent": true,
+    "hand_clearance": [
+      0.12231475859880447,
+      0.12201403081417084
+    ],
+    "sampled_supported_fabric": [
+      {
+        "name": "Clothing / strappy body",
+        "min_signed": 0.0025396886594535317
+      },
+      {
+        "name": "Clothing / strappy strap -1",
+        "min_signed": 0.002512052044039592
+      },
+      {
+        "name": "Clothing / strappy strap 1",
+        "min_signed": 0.0024829077010508627
+      }
+    ]
+  },
+  {
+    "case": "Feminine-tshirt",
+    "saved_signature_exact": true,
+    "head_hair_original_eyes_hands_legs_shorts_exact": true,
+    "lower_chest_exact": true,
+    "base_consistent": true,
+    "hand_clearance": [
+      0.014611102640628815,
+      0.01607832871377468
+    ],
+    "sampled_supported_fabric": [
+      {
+        "name": "Clothing / tshirt",
+        "min_signed": 0.00230930105317384
+      }
+    ]
+  },
+  {
+    "case": "Feminine-jersey",
+    "saved_signature_exact": true,
+    "head_hair_original_eyes_hands_legs_shorts_exact": true,
+    "lower_chest_exact": true,
+    "base_consistent": true,
+    "hand_clearance": [
+      0.014638875611126423,
+      0.016105711460113525
+    ],
+    "sampled_supported_fabric": [
+      {
+        "name": "Clothing / jersey",
+        "min_signed": 0.0015617911049048416
+      },
+      {
+        "name": "Jersey / button",
+        "min_signed": 0.035587421259606344
+      },
+      {
+        "name": "Jersey / button.001",
+        "min_signed": 0.03363063947472256
+      },
+      {
+        "name": "Jersey / button.002",
+        "min_signed": 0.037922487026662566
+      },
+      {
+        "name": "Jersey / button.003",
+        "min_signed": 0.03628885105717927
+      },
+      {
+        "name": "Jersey / printed front",
+        "min_signed": 0.008513203385518864
+      },
+      {
+        "name": "Jersey / printed back",
+        "min_signed": 0.015815856953850016
+      }
+    ]
+  },
+  {
+    "case": "Feminine-open",
+    "saved_signature_exact": true,
+    "head_hair_original_eyes_hands_legs_shorts_exact": true,
+    "lower_chest_exact": true,
+    "base_consistent": true,
+    "hand_clearance": [
+      0.014680139720439911,
+      0.01614643819630146
+    ],
+    "sampled_supported_fabric": [
+      {
+        "name": "Clothing / Bandeau underlayer",
+        "min_signed": 0.0032838923561939737
+      },
+      {
+        "name": "Clothing / open",
+        "min_signed": 0.002934811604063725
+      },
+      {
+        "name": "Open shirt / continuous falling collar",
+        "min_signed": 0.006755644564691465
+      }
+    ]
+  },
+  {
+    "case": "Feminine-tank",
+    "saved_signature_exact": true,
+    "head_hair_original_eyes_hands_legs_shorts_exact": true,
+    "lower_chest_exact": true,
+    "base_consistent": true,
+    "hand_clearance": [
+      0.09975434839725494,
+      0.10249056667089462
+    ],
+    "sampled_supported_fabric": [
+      {
+        "name": "Clothing / tank body",
+        "min_signed": 0.0025479840260231867
+      },
+      {
+        "name": "Clothing / tank strap -1",
+        "min_signed": 0.002446432481519878
+      },
+      {
+        "name": "Clothing / tank strap 1",
+        "min_signed": 0.002462553675286472
+      }
+    ]
+  },
+  {
+    "case": "Feminine-sweatshirt",
+    "saved_signature_exact": true,
+    "head_hair_original_eyes_hands_legs_shorts_exact": true,
+    "lower_chest_exact": true,
+    "base_consistent": true,
+    "hand_clearance": [
+      0.004743345081806183,
+      0.006570248864591122
+    ],
+    "sampled_supported_fabric": [
+      {
+        "name": "Clothing / sweatshirt",
+        "min_signed": 0.005156078899744898
+      },
+      {
+        "name": "Hoodie / attached opening",
+        "min_signed": 0.0075851827568840235
+      },
+      {
+        "name": "Hoodie / resting hood",
+        "min_signed": 0.00861785834422335
+      },
+      {
+        "name": "Hoodie / kangaroo pocket",
+        "min_signed": 0.034926754247862846
+      },
+      {
+        "name": "Hoodie / ribbed hem",
+        "min_signed": 0.029923090711236
+      }
+    ]
+  },
+  {
+    "case": "Masculine-tank",
+    "saved_signature_exact": true,
+    "head_hair_original_eyes_hands_legs_shorts_exact": true,
+    "lower_chest_exact": true,
+    "base_consistent": true,
+    "hand_clearance": [
+      0.06978396326303482,
+      0.06887129694223404
+    ],
+    "sampled_supported_fabric": [
+      {
+        "name": "Clothing / tank",
+        "min_signed": 0.0041511073877700255
+      }
+    ]
+  },
+  {
+    "case": "Masculine-jersey",
+    "saved_signature_exact": true,
+    "head_hair_original_eyes_hands_legs_shorts_exact": true,
+    "lower_chest_exact": true,
+    "base_consistent": true,
+    "hand_clearance": [
+      0.021726304665207863,
+      0.023099925369024277
+    ],
+    "sampled_supported_fabric": [
+      {
+        "name": "Clothing / jersey",
+        "min_signed": 0.003999352365383402
+      },
+      {
+        "name": "Jersey / button",
+        "min_signed": 0.030357620530139684
+      },
+      {
+        "name": "Jersey / button.001",
+        "min_signed": 0.030283299109214568
+      },
+      {
+        "name": "Jersey / button.002",
+        "min_signed": 0.030374073941402457
+      },
+      {
+        "name": "Jersey / button.003",
+        "min_signed": 0.030175162883097073
+      },
+      {
+        "name": "Jersey / printed front",
+        "min_signed": 0.008480224147206172
+      },
+      {
+        "name": "Jersey / printed back",
+        "min_signed": 0.016842848883243278
+      }
+    ]
+  },
+  {
+    "case": "Masculine-sweatshirt",
+    "saved_signature_exact": true,
+    "head_hair_original_eyes_hands_legs_shorts_exact": true,
+    "lower_chest_exact": true,
+    "base_consistent": true,
+    "hand_clearance": [
+      0.01273052766919136,
+      0.01445039827376604
+    ],
+    "sampled_supported_fabric": [
+      {
+        "name": "Clothing / sweatshirt",
+        "min_signed": 0.005770114707047469
+      },
+      {
+        "name": "Hoodie / attached opening",
+        "min_signed": 0.010766738608424475
+      },
+      {
+        "name": "Hoodie / resting hood",
+        "min_signed": 0.007818123325705528
+      },
+      {
+        "name": "Hoodie / aglet -1",
+        "min_signed": 0.036397046114871046
+      },
+      {
+        "name": "Hoodie / aglet 1",
+        "min_signed": 0.03639683025448903
+      },
+      {
+        "name": "Hoodie / kangaroo pocket",
+        "min_signed": 0.03441384576581186
+      },
+      {
+        "name": "Hoodie / ribbed hem",
+        "min_signed": 0.030084421043284237
+      }
+    ]
+  }
+]
