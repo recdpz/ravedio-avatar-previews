@@ -1,0 +1,96 @@
+{
+  "source": "E:\\Ravedio-Avatar\\refinement173",
+  "preview": "https://recdpz.github.io/ravedio-avatar-previews/173/",
+  "source_revisions": [
+    170,
+    172
+  ],
+  "status": "Candidate saved and self-reviewed; owner review pending",
+  "owner_acceptance": "Pending173",
+  "scope": "Connected bikini, mini skirt, fitted pants, button-up collars and feminine half-buttoned shirt, clearer crop strap, masculine hair overlap, removal of white-eye experiment",
+  "coordinate_space": "Saved final-world source components; no historical anatomy fields replayed",
+  "top_counts": {
+    "Feminine": 8,
+    "Masculine": 5
+  },
+  "bottom_choices": {
+    "Masculine": [
+      "Shorts",
+      "Pants"
+    ],
+    "Feminine": [
+      "Shorts",
+      "Skirt",
+      "Bikini bottoms",
+      "Pants"
+    ]
+  },
+  "eyes": [
+    "Original",
+    "Round",
+    "Almond",
+    "Soft square"
+  ],
+  "eye_finishes": [
+    "Dark"
+  ],
+  "bottom_colors": 8,
+  "fit_combinations": 42,
+  "manifest": "E:\\Ravedio-Avatar\\refinement173\\manifest173.json",
+  "technical": "E:\\Ravedio-Avatar\\refinement173\\technical-verification173.json",
+  "visual_review": "E:\\Ravedio-Avatar\\refinement173\\visual-review173.json",
+  "recovery": "E:\\Ravedio-Avatar\\refinement173\\RECOVERY173.txt",
+  "main_master_studio_changed": false,
+  "profile_contract_changed": false,
+  "assets": {
+    "assets": [
+      {
+        "file": "Feminine-bottom-bikini.glb",
+        "bytes": 2492640,
+        "sha256": "754ffe8f5e43d1b430341f8e7f7effd75fa15197bdc24c4832a256f7dae984ff"
+      },
+      {
+        "file": "Feminine-bottom-pants.glb",
+        "bytes": 898444,
+        "sha256": "008f25f9c841a66f865574ab82aa5882d11f50cf679dd5d5900f03a738f9f334"
+      },
+      {
+        "file": "Feminine-bottom-skirt.glb",
+        "bytes": 1158980,
+        "sha256": "e7d9b3c66ed8479c3cc43a14ed9bdbcc10e2568d7e03771fd0a81acf33dd3f3c"
+      },
+      {
+        "file": "Feminine-buttonup.glb",
+        "bytes": 4582740,
+        "sha256": "c7fd926594e73fee2ac738bbd158a992a3bbf449a85071db3cbc0810f0e4ed80"
+      },
+      {
+        "file": "Feminine-strappy.glb",
+        "bytes": 4370792,
+        "sha256": "ab322f7a521db261bbff20a34c95361fa24bdcd4e2964da0c7aa1f1314e4b381"
+      },
+      {
+        "file": "Masculine-bottom-pants.glb",
+        "bytes": 898444,
+        "sha256": "9c0b3d3bcf71642ba35746794ffbfcc13d2f92a9fed622d5a6a442699d929c51"
+      },
+      {
+        "file": "Masculine-buttonup.glb",
+        "bytes": 4601520,
+        "sha256": "81252a90de8237e80f9bea3b3bc075931ad835cc2306bf5aece2437703ec16f0"
+      },
+      {
+        "file": "Masculine-hair.glb",
+        "bytes": 2848532,
+        "sha256": "a3ba26add53a8e17865310900c813df5f4e21600f7c6dc15557c3a61085c1535"
+      }
+    ]
+  },
+  "reused": {
+    "shorts": "172",
+    "feminine_hair": "172",
+    "dark_eyes": "170 Original/Round/Almond; 172 Soft square",
+    "unchanged_tops": "170 and172"
+  },
+  "reference": "https://blog.megannielsen.com/2019/05/cottesloe-sewalong-views-c-d-bikini-construction/"
+}
