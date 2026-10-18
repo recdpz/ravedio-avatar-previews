@@ -1,0 +1,46 @@
+{
+  "baseline": 168,
+  "owner_acceptance": "Pending;168 is the owner-liked starting point",
+  "first_pass": {
+    "evidence": [
+      "first-pass-body169.jpg",
+      "first-Feminine-eyes-review169.jpg",
+      "first-Masculine-eyes-review169.jpg"
+    ],
+    "findings": [
+      "First almond and low-arc eyes too narrow/squinty",
+      "Normal-direction eye extrusion widened screen placement",
+      "First hood lower tip too pointed",
+      "Tank strap meridian missed narrowed outer cap"
+    ],
+    "corrections": [
+      "Opened almond and low-arc shapes while preserving four distinct families",
+      "Extruded eye depth along Y, retaining original X centers",
+      "Rounded lower hood into a U-shaped cloth pouch",
+      "Used top-ray support across full strap width"
+    ]
+  },
+  "second_pass": {
+    "evidence": [
+      "second-pass-body169.jpg",
+      "Feminine-eyes-review169.jpg",
+      "Masculine-eyes-review169.jpg",
+      "rendered/Feminine-turnarounds.jpg",
+      "rendered/Masculine-turnarounds.jpg",
+      "rendered/Feminine-details169.jpg",
+      "rendered/Masculine-details169.jpg",
+      "rendered/Feminine-portraits169.png",
+      "rendered/Masculine-portraits169.png"
+    ],
+    "coverage": "Eleven displayed outfits at front, threequarter, both profiles, rear and above; all eight eye/build pairs at front,threequarter,profile; actual32/48/64/128px portraits; separate bare matte torso diagnostics",
+    "findings": "Original retains its taller oval. Soft is rounder, Almond slightly wider and Low arc shorter. Shoulder roll is localized and joins the central upper torso without changing the accepted chest/bust. Garment silhouettes, sleeve terminations, armholes, neckline and shorts clearance reviewed. Hoodie now has a settled pouch, raised opening, visible cords, pocket and rib borders.",
+    "followup": "Saved-geometry diagnostics caught hidden lower-hood fan penetration and a local hem-ray jump. Refit the fan against actual garment and rebuilt hem in uniform angular order on final support. Fresh full-quality six-angle hood renders reviewed after this correction; technical clearance rechecked."
+  },
+  "aesthetic_assessment": "Acceptable self-reviewed candidate for owner comparison; new eye expressions and hoodie design remain artistic choices for owner review.",
+  "limits": [
+    "Displayed cartoon assemblies only; full hair/headwear/accessory catalogue separate",
+    "Browser lighting approximates Cycles",
+    "Responsive browser checks are not physical-device performance tests",
+    "Human master and Avatar Studio unchanged"
+  ]
+}
