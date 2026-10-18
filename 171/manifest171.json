@@ -1,0 +1,107 @@
+{
+  "revision": 171,
+  "date": "2026-10-18",
+  "source_revision": 170,
+  "scope": "Two masculine tops, four modular bottom shapes and eight bottom colors",
+  "top_counts": {
+    "Feminine": 8,
+    "Masculine": 5
+  },
+  "bottom_choices": [
+    "Short shorts",
+    "Shorts",
+    "Trousers",
+    "Skirt"
+  ],
+  "bottom_colors": [
+    "Charcoal",
+    "Cream",
+    "Coral",
+    "Teal",
+    "Lilac",
+    "Blue",
+    "Olive",
+    "Burgundy"
+  ],
+  "eye_choices": [
+    "Original",
+    "Round",
+    "Almond",
+    "Narrow"
+  ],
+  "eye_source": 170,
+  "native_candidates": 10,
+  "full_quality_renders": 60,
+  "fit_combinations": 52,
+  "fit_review_renders": 156,
+  "render_quality": "Individual:1024px Cycles40. Combination:448px Cycles16, actual geometry/materials.",
+  "assets": [
+    {
+      "file": "Feminine-base.glb",
+      "bytes": 2743704,
+      "sha256": "9163cdb0a8fefbcbae383c9dbc59f795957f65298304bbdbb7d58e3f1b0d90d2"
+    },
+    {
+      "file": "Feminine-bottom-shorts-bottom.glb",
+      "bytes": 814812,
+      "sha256": "8fa5d0dcc9f976a14193427253fd381f0e9e0ede6b8c956c6e87af3bbe21c03b"
+    },
+    {
+      "file": "Feminine-bottom-shortshorts-bottom.glb",
+      "bytes": 782248,
+      "sha256": "6b48f0aeb70cb83b494991f30577f622cfef0d03016dd7212d3627d2d2c1b728"
+    },
+    {
+      "file": "Feminine-bottom-skirt-bottom.glb",
+      "bytes": 1251240,
+      "sha256": "ef2794516839f05fae7d8ec619912192f1f0fe736001f10e229aa655d4ed7dbe"
+    },
+    {
+      "file": "Feminine-bottom-trousers-bottom.glb",
+      "bytes": 1011144,
+      "sha256": "99ec8558004c4280e06853d89157e3eb0a93f54489ebd5fa5838f5bd207f4309"
+    },
+    {
+      "file": "Masculine-base.glb",
+      "bytes": 2848540,
+      "sha256": "570a41a43dec64b4149abbcebddd7a70aa10984328169eb6b338ac9fe78a5cfb"
+    },
+    {
+      "file": "Masculine-bottom-shorts-bottom.glb",
+      "bytes": 815388,
+      "sha256": "b10e46dfd085870de57653b3c0c78291600ee290be2e539a3512146463b62669"
+    },
+    {
+      "file": "Masculine-bottom-shortshorts-bottom.glb",
+      "bytes": 782828,
+      "sha256": "75fb004bd856e834351ecfcd22102ffba06ddd1966fff55ef8a1d22dcc14df48"
+    },
+    {
+      "file": "Masculine-bottom-skirt-bottom.glb",
+      "bytes": 1251240,
+      "sha256": "3cd4b6e928db401c1a70fda1025854be1f0eef381ac2b382d95845f6abdb4192"
+    },
+    {
+      "file": "Masculine-bottom-trousers-bottom.glb",
+      "bytes": 1011724,
+      "sha256": "246342c966ad8d337df9ec224e9901122c168e57215e2136e2cecee46e4c134a"
+    },
+    {
+      "file": "Masculine-open-top.glb",
+      "bytes": 4368804,
+      "sha256": "5e4fb54689ba7a145a63a9a6539ba0ae562545c5311ded70ed8e514b7d5f96b7"
+    },
+    {
+      "file": "Masculine-tshirt-top.glb",
+      "bytes": 4295112,
+      "sha256": "ca3047704bc878dce8bfe44d8ae39600a79432adaefa2df752c725f3367a242f"
+    }
+  ],
+  "technical": "technical-verification171.json",
+  "visual": "visual-review171.json",
+  "protected": "170 heads, eyes, hair, anatomy, body proportions, hands, legs, skin material/palette and lighting",
+  "owner_acceptance": "pending",
+  "studio_changed": false,
+  "profile_contract_changed": false,
+  "option_id_assignment": "Local candidate aliases only; no wire IDs assigned by display order"
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "case": "Feminine-bottom-shortshorts",
+    "saved_signature_exact": true,
+    "source170_head_eyes_hair_body_hands_legs_materials_exact": true,
+    "lighting_exact": true,
+    "evaluated_vertices": 20778,
+    "sampled_clearance": [
+      {
+        "name": "Bottom / shortshorts",
+        "min_signed": 0.0004198550886940211,
+        "negative_samples": 0,
+        "examples": []
+      }
+    ]
+  },
+  {
+    "case": "Feminine-bottom-shorts",
+    "saved_signature_exact": true,
+    "source170_head_eyes_hair_body_hands_legs_materials_exact": true,
+    "lighting_exact": true,
+    "evaluated_vertices": 21468,
+    "sampled_clearance": [
+      {
+        "name": "Bottom / shorts",
+        "min_signed": 0.0004715919494628906,
+        "negative_samples": 0,
+        "examples": []
+      }
+    ]
+  },
+  {
+    "case": "Feminine-bottom-trousers",
+    "saved_signature_exact": true,
+    "source170_head_eyes_hair_body_hands_legs_materials_exact": true,
+    "lighting_exact": true,
+    "evaluated_vertices": 26921,
+    "sampled_clearance": [
+      {
+        "name": "Bottom / trousers",
+        "min_signed": -1.239391156548919e-05,
+        "negative_samples": 0,
+        "examples": []
+      }
+    ]
+  },
+  {
+    "case": "Feminine-bottom-skirt",
+    "saved_signature_exact": true,
+    "source170_head_eyes_hair_body_hands_legs_materials_exact": true,
+    "lighting_exact": true,
+    "evaluated_vertices": 34078,
+    "sampled_clearance": [
+      {
+        "name": "Bottom / skirt",
+        "min_signed": 0.0006362187341437675,
+        "negative_samples": 0,
+        "examples": []
+      }
+    ]
+  },
+  {
+    "case": "Masculine-bottom-shortshorts",
+    "saved_signature_exact": true,
+    "source170_head_eyes_hair_body_hands_legs_materials_exact": true,
+    "lighting_exact": true,
+    "evaluated_vertices": 20794,
+    "sampled_clearance": [
+      {
+        "name": "Bottom / shortshorts",
+        "min_signed": 0.000561493422537751,
+        "negative_samples": 0,
+        "examples": []
+      }
+    ]
+  },
+  {
+    "case": "Masculine-bottom-shorts",
+    "saved_signature_exact": true,
+    "source170_head_eyes_hair_body_hands_legs_materials_exact": true,
+    "lighting_exact": true,
+    "evaluated_vertices": 21484,
+    "sampled_clearance": [
+      {
+        "name": "Bottom / shorts",
+        "min_signed": 0.000562339679163415,
+        "negative_samples": 0,
+        "examples": []
+      }
+    ]
+  },
+  {
+    "case": "Masculine-bottom-trousers",
+    "saved_signature_exact": true,
+    "source170_head_eyes_hair_body_hands_legs_materials_exact": true,
+    "lighting_exact": true,
+    "evaluated_vertices": 26937,
+    "sampled_clearance": [
+      {
+        "name": "Bottom / trousers",
+        "min_signed": 0.0005591078688667039,
+        "negative_samples": 0,
+        "examples": []
+      }
+    ]
+  },
+  {
+    "case": "Masculine-bottom-skirt",
+    "saved_signature_exact": true,
+    "source170_head_eyes_hair_body_hands_legs_materials_exact": true,
+    "lighting_exact": true,
+    "evaluated_vertices": 34078,
+    "sampled_clearance": [
+      {
+        "name": "Bottom / skirt",
+        "min_signed": 0.0005464447053782351,
+        "negative_samples": 0,
+        "examples": []
+      }
+    ]
+  },
+  {
+    "case": "Masculine-tshirt",
+    "saved_signature_exact": true,
+    "source170_head_eyes_hair_body_hands_legs_materials_exact": true,
+    "lighting_exact": true,
+    "evaluated_vertices": 92041,
+    "sampled_clearance": [
+      {
+        "name": "Clothing / tshirt",
+        "min_signed": 0.00397365024974583,
+        "negative_samples": 0,
+        "examples": []
+      }
+    ]
+  },
+  {
+    "case": "Masculine-open",
+    "saved_signature_exact": true,
+    "source170_head_eyes_hair_body_hands_legs_materials_exact": true,
+    "lighting_exact": true,
+    "evaluated_vertices": 96994,
+    "sampled_clearance": [
+      {
+        "name": "Open shirt / inset underlayer",
+        "min_signed": 0.0028163596580270678,
+        "negative_samples": 0,
+        "examples": []
+      },
+      {
+        "name": "Clothing / open",
+        "min_signed": 0.003980447458515002,
+        "negative_samples": 0,
+        "examples": []
+      },
+      {
+        "name": "Open shirt / continuous falling collar",
+        "min_signed": 0.006731466241035378,
+        "negative_samples": 0,
+        "examples": []
+      },
+      {
+        "name": "Open shirt / button",
+        "min_signed": 0.023882139550551074,
+        "negative_samples": 0,
+        "examples": []
+      }
+    ]
+  }
+]
