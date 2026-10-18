@@ -1,0 +1,335 @@
+{
+  "url": "http://127.0.0.1:8175/175/",
+  "switches": [
+    {
+      "build": "Feminine",
+      "top": "bandeau",
+      "arms": "swept",
+      "rendered_png": "web-Feminine-bandeau-swept.png"
+    },
+    {
+      "build": "Feminine",
+      "top": "bandeau",
+      "arms": "curved",
+      "rendered_png": "web-Feminine-bandeau-curved.png"
+    },
+    {
+      "build": "Feminine",
+      "top": "bandeau",
+      "arms": "compact",
+      "rendered_png": "web-Feminine-bandeau-compact.png"
+    },
+    {
+      "build": "Feminine",
+      "top": "bandeau",
+      "arms": "hands",
+      "rendered_png": "web-Feminine-bandeau-hands.png"
+    },
+    {
+      "build": "Feminine",
+      "top": "triangle",
+      "arms": "swept",
+      "rendered_png": "web-Feminine-triangle-swept.png"
+    },
+    {
+      "build": "Feminine",
+      "top": "triangle",
+      "arms": "curved",
+      "rendered_png": "web-Feminine-triangle-curved.png"
+    },
+    {
+      "build": "Feminine",
+      "top": "triangle",
+      "arms": "compact",
+      "rendered_png": "web-Feminine-triangle-compact.png"
+    },
+    {
+      "build": "Feminine",
+      "top": "triangle",
+      "arms": "hands",
+      "rendered_png": "web-Feminine-triangle-hands.png"
+    },
+    {
+      "build": "Feminine",
+      "top": "strappy",
+      "arms": "swept",
+      "rendered_png": "web-Feminine-strappy-swept.png"
+    },
+    {
+      "build": "Feminine",
+      "top": "strappy",
+      "arms": "curved",
+      "rendered_png": "web-Feminine-strappy-curved.png"
+    },
+    {
+      "build": "Feminine",
+      "top": "strappy",
+      "arms": "compact",
+      "rendered_png": "web-Feminine-strappy-compact.png"
+    },
+    {
+      "build": "Feminine",
+      "top": "strappy",
+      "arms": "hands",
+      "rendered_png": "web-Feminine-strappy-hands.png"
+    },
+    {
+      "build": "Feminine",
+      "top": "tshirt",
+      "arms": "swept",
+      "rendered_png": "web-Feminine-tshirt-swept.png"
+    },
+    {
+      "build": "Feminine",
+      "top": "tshirt",
+      "arms": "curved",
+      "rendered_png": "web-Feminine-tshirt-curved.png"
+    },
+    {
+      "build": "Feminine",
+      "top": "tshirt",
+      "arms": "compact",
+      "rendered_png": "web-Feminine-tshirt-compact.png"
+    },
+    {
+      "build": "Feminine",
+      "top": "tshirt",
+      "arms": "hands",
+      "rendered_png": "web-Feminine-tshirt-hands.png"
+    },
+    {
+      "build": "Feminine",
+      "top": "jersey",
+      "arms": "swept",
+      "rendered_png": "web-Feminine-jersey-swept.png"
+    },
+    {
+      "build": "Feminine",
+      "top": "jersey",
+      "arms": "curved",
+      "rendered_png": "web-Feminine-jersey-curved.png"
+    },
+    {
+      "build": "Feminine",
+      "top": "jersey",
+      "arms": "compact",
+      "rendered_png": "web-Feminine-jersey-compact.png"
+    },
+    {
+      "build": "Feminine",
+      "top": "jersey",
+      "arms": "hands",
+      "rendered_png": "web-Feminine-jersey-hands.png"
+    },
+    {
+      "build": "Feminine",
+      "top": "open",
+      "arms": "swept",
+      "rendered_png": "web-Feminine-open-swept.png"
+    },
+    {
+      "build": "Feminine",
+      "top": "open",
+      "arms": "curved",
+      "rendered_png": "web-Feminine-open-curved.png"
+    },
+    {
+      "build": "Feminine",
+      "top": "open",
+      "arms": "compact",
+      "rendered_png": "web-Feminine-open-compact.png"
+    },
+    {
+      "build": "Feminine",
+      "top": "open",
+      "arms": "hands",
+      "rendered_png": "web-Feminine-open-hands.png"
+    },
+    {
+      "build": "Feminine",
+      "top": "tank",
+      "arms": "swept",
+      "rendered_png": "web-Feminine-tank-swept.png"
+    },
+    {
+      "build": "Feminine",
+      "top": "tank",
+      "arms": "curved",
+      "rendered_png": "web-Feminine-tank-curved.png"
+    },
+    {
+      "build": "Feminine",
+      "top": "tank",
+      "arms": "compact",
+      "rendered_png": "web-Feminine-tank-compact.png"
+    },
+    {
+      "build": "Feminine",
+      "top": "tank",
+      "arms": "hands",
+      "rendered_png": "web-Feminine-tank-hands.png"
+    },
+    {
+      "build": "Feminine",
+      "top": "sweatshirt",
+      "arms": "swept",
+      "rendered_png": "web-Feminine-sweatshirt-swept.png"
+    },
+    {
+      "build": "Feminine",
+      "top": "sweatshirt",
+      "arms": "curved",
+      "rendered_png": "web-Feminine-sweatshirt-curved.png"
+    },
+    {
+      "build": "Feminine",
+      "top": "sweatshirt",
+      "arms": "compact",
+      "rendered_png": "web-Feminine-sweatshirt-compact.png"
+    },
+    {
+      "build": "Feminine",
+      "top": "sweatshirt",
+      "arms": "hands",
+      "rendered_png": "web-Feminine-sweatshirt-hands.png"
+    },
+    {
+      "build": "Masculine",
+      "top": "tank",
+      "arms": "swept",
+      "rendered_png": "web-Masculine-tank-swept.png"
+    },
+    {
+      "build": "Masculine",
+      "top": "tank",
+      "arms": "curved",
+      "rendered_png": "web-Masculine-tank-curved.png"
+    },
+    {
+      "build": "Masculine",
+      "top": "tank",
+      "arms": "compact",
+      "rendered_png": "web-Masculine-tank-compact.png"
+    },
+    {
+      "build": "Masculine",
+      "top": "tank",
+      "arms": "hands",
+      "rendered_png": "web-Masculine-tank-hands.png"
+    },
+    {
+      "build": "Masculine",
+      "top": "tshirt",
+      "arms": "swept",
+      "rendered_png": "web-Masculine-tshirt-swept.png"
+    },
+    {
+      "build": "Masculine",
+      "top": "tshirt",
+      "arms": "curved",
+      "rendered_png": "web-Masculine-tshirt-curved.png"
+    },
+    {
+      "build": "Masculine",
+      "top": "tshirt",
+      "arms": "compact",
+      "rendered_png": "web-Masculine-tshirt-compact.png"
+    },
+    {
+      "build": "Masculine",
+      "top": "tshirt",
+      "arms": "hands",
+      "rendered_png": "web-Masculine-tshirt-hands.png"
+    },
+    {
+      "build": "Masculine",
+      "top": "jersey",
+      "arms": "swept",
+      "rendered_png": "web-Masculine-jersey-swept.png"
+    },
+    {
+      "build": "Masculine",
+      "top": "jersey",
+      "arms": "curved",
+      "rendered_png": "web-Masculine-jersey-curved.png"
+    },
+    {
+      "build": "Masculine",
+      "top": "jersey",
+      "arms": "compact",
+      "rendered_png": "web-Masculine-jersey-compact.png"
+    },
+    {
+      "build": "Masculine",
+      "top": "jersey",
+      "arms": "hands",
+      "rendered_png": "web-Masculine-jersey-hands.png"
+    },
+    {
+      "build": "Masculine",
+      "top": "buttonup",
+      "arms": "swept",
+      "rendered_png": "web-Masculine-buttonup-swept.png"
+    },
+    {
+      "build": "Masculine",
+      "top": "buttonup",
+      "arms": "curved",
+      "rendered_png": "web-Masculine-buttonup-curved.png"
+    },
+    {
+      "build": "Masculine",
+      "top": "buttonup",
+      "arms": "compact",
+      "rendered_png": "web-Masculine-buttonup-compact.png"
+    },
+    {
+      "build": "Masculine",
+      "top": "buttonup",
+      "arms": "hands",
+      "rendered_png": "web-Masculine-buttonup-hands.png"
+    },
+    {
+      "build": "Masculine",
+      "top": "sweatshirt",
+      "arms": "swept",
+      "rendered_png": "web-Masculine-sweatshirt-swept.png"
+    },
+    {
+      "build": "Masculine",
+      "top": "sweatshirt",
+      "arms": "curved",
+      "rendered_png": "web-Masculine-sweatshirt-curved.png"
+    },
+    {
+      "build": "Masculine",
+      "top": "sweatshirt",
+      "arms": "compact",
+      "rendered_png": "web-Masculine-sweatshirt-compact.png"
+    },
+    {
+      "build": "Masculine",
+      "top": "sweatshirt",
+      "arms": "hands",
+      "rendered_png": "web-Masculine-sweatshirt-hands.png"
+    }
+  ],
+  "saved": {
+    "build": "Feminine",
+    "top": "tank",
+    "bottom": "skirt",
+    "bottomColor": "0",
+    "eyes": "original",
+    "skin": "1",
+    "arms": "swept",
+    "lighting": "studio",
+    "angle": "threequarter"
+  },
+  "mobile": {
+    "oneCanvas": true,
+    "noHorizontalOverflow": true
+  },
+  "errors": [],
+  "png": true,
+  "render_pacing": "Wait for a rendered PNG after each selection on the software GPU"
+}

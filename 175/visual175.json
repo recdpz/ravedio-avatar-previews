@@ -1,0 +1,40 @@
+{
+  "revision": 175,
+  "review": "self",
+  "owner_acceptance": "Pending",
+  "initial_findings": [
+    "174 arms had blunt capsule ends and an almost vertical, tubular silhouette, unlike the original138 swept forms.",
+    "The first175 Bent draft was only a curved oval and did not provide a sufficiently different option.",
+    "174 skirt decoration was too small and low-contrast at normal character framing."
+  ],
+  "corrections": [
+    "Rebuilt the arms as closed mirrored shapes with flowing tangent-aligned cross-sections. A / Swept uses the original138 direction at current proportions; B / Bent adds a continuous elbow-like gesture and forward end; C / Compact is a shorter rounded option. Original round hands remain available.",
+    "Made a second Bent iteration with a clearer, smoothly curved path. Kept sleeve and sleeveless positioning contextual; no exposed connecting stubs.",
+    "Kept the174 skirt cloth vertices and contained underlayer exactly. Enlarged the lower hem diamond motif, increased stitch thickness and contrast, and made contrasting accent color follow the selected skirt color."
+  ],
+  "second_visual_pass": {
+    "views": [
+      "front",
+      "threequarter",
+      "left profile",
+      "right profile",
+      "rear",
+      "above"
+    ],
+    "arm_components": 6,
+    "skirt_components": 1,
+    "quality": "1024px Cycles40 full-body;800px Cycles32 details",
+    "top_arm_combinations": 39,
+    "context_images": 117,
+    "context_views": [
+      "front",
+      "profile",
+      "rear"
+    ],
+    "assessment": "A reads closest to the original tapered floating-arm experiment and is the default. B provides an intentional bent gesture; C is the most compact and closest to the existing simple hands. Reviewed contact sheets and assembled context renders show deliberate separation from the torso and sleeve endings, with no new visible garment/arm intersections. The stronger skirt band is readable around the hem without changing its silhouette. These are stylized arm options for owner comparison, not an approved anatomical arm model."
+  },
+  "protected": "Body, head, eyes, hair, skin finish, lighting,174 skirt cloth and existing pants/collars retained. Human master/Avatar Studio, application and profile contracts unchanged.",
+  "browser": "browser175.json",
+  "technical": "technical175.json",
+  "remaining": "Owner choice among the three arm styles and round hands."
+}
