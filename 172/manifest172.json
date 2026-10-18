@@ -1,0 +1,159 @@
+{
+  "revision": 172,
+  "date": "2026-10-18",
+  "source_revisions": [
+    170,
+    171
+  ],
+  "scope": "Contextual wardrobe, Soft square eye option, optional white sclera with dark pupils, localized hair corrections and bikini hip fit",
+  "top_counts": {
+    "Feminine": 8,
+    "Masculine": 5
+  },
+  "bottom_choices": {
+    "Masculine": [
+      "Shorts",
+      "Pants"
+    ],
+    "Feminine": [
+      "Shorts",
+      "Skirt",
+      "Bikini bottoms",
+      "Flared pants"
+    ]
+  },
+  "bottom_colors": [
+    "Black",
+    "White",
+    "Gray",
+    "Navy",
+    "Blue",
+    "Khaki",
+    "Red",
+    "Pink"
+  ],
+  "eye_choices": [
+    "Original",
+    "Round",
+    "Almond",
+    "Soft square"
+  ],
+  "eye_finishes": [
+    "Dark",
+    "Whites + pupils"
+  ],
+  "native_candidates": 20,
+  "full_quality_renders": 90,
+  "fit_combinations": 42,
+  "fit_review_renders": 126,
+  "render_quality": "Individual 1024px Cycles40; fit sheets 448px Cycles16 with actual geometry and materials.",
+  "assets": [
+    {
+      "file": "Feminine-bottom-bikini.glb",
+      "bytes": 2190364,
+      "sha256": "4d95d6f38375ec133c6fc891c7fe5ebf39c963aa4ce2971eb4f6ecfac27c9e58"
+    },
+    {
+      "file": "Feminine-bottom-flared.glb",
+      "bytes": 1017772,
+      "sha256": "976630614ccee085eece44f24c9fc1537b3e91619d0b0d93bbdecdeff65efbfd"
+    },
+    {
+      "file": "Feminine-bottom-shorts.glb",
+      "bytes": 782248,
+      "sha256": "c9dfaa1fec5493a74476a87c894e0546f671b4ce3935c32e577af2d9b18ec32e"
+    },
+    {
+      "file": "Feminine-bottom-skirt.glb",
+      "bytes": 1251244,
+      "sha256": "7ece6af910cb3673ea21c76bdd3377461293d4448f541056d8a10be3996ee25e"
+    },
+    {
+      "file": "Feminine-eyes-almond_white.glb",
+      "bytes": 483204,
+      "sha256": "3c612e7a87f95a38fa17441427e996b8ab109b190d0c33834808ed5f3f547a07"
+    },
+    {
+      "file": "Feminine-eyes-original_white.glb",
+      "bytes": 483220,
+      "sha256": "640a67d699b60b900431a5ac660659dd9c413a86b2f6c67c4dc2feb402dca19c"
+    },
+    {
+      "file": "Feminine-eyes-soft_white.glb",
+      "bytes": 483192,
+      "sha256": "00763c4381243cea72b76620d8fd755963fcd11fd8fdb7c25836d777480e10ce"
+    },
+    {
+      "file": "Feminine-eyes-square_dark.glb",
+      "bytes": 321084,
+      "sha256": "5127f4d604325d21f4743b54e3ef95636ad86884080081380e171f046bd3e074"
+    },
+    {
+      "file": "Feminine-eyes-square_white.glb",
+      "bytes": 483200,
+      "sha256": "ce0edf4c9203679a8718ec47befb3ebf6e0de0f5cf84bc2cfa3b8f870912f611"
+    },
+    {
+      "file": "Feminine-hair.glb",
+      "bytes": 2645700,
+      "sha256": "cfe3695b5d12972532fcbc01db24c25f891321df5af46004291a1cca63c2c5c4"
+    },
+    {
+      "file": "Masculine-bottom-pants.glb",
+      "bytes": 1011724,
+      "sha256": "d4832388af469e5c2630e95054c7a54e6f3425f2b82e93375f3e5c1d79a96284"
+    },
+    {
+      "file": "Masculine-bottom-shorts.glb",
+      "bytes": 815392,
+      "sha256": "65827b19316e71ecdba225299a5957e3b32aa93377e47370807df11416b6a200"
+    },
+    {
+      "file": "Masculine-buttonup.glb",
+      "bytes": 4554792,
+      "sha256": "44807e6ab1f9c7f9662fab053238074db2da847e369fd6de031d115c4df7222b"
+    },
+    {
+      "file": "Masculine-eyes-almond_white.glb",
+      "bytes": 483204,
+      "sha256": "9875780608f0974972dbb00cd1d547ba71d02d41b7f8a32dc24c384233675679"
+    },
+    {
+      "file": "Masculine-eyes-original_white.glb",
+      "bytes": 483220,
+      "sha256": "a44e7c2175de2639be311bf2ffd15969c9ad13db7da7c7bb0ebcc6f673a1cb20"
+    },
+    {
+      "file": "Masculine-eyes-soft_white.glb",
+      "bytes": 483196,
+      "sha256": "d1aa51fda773cea095035a80ccb790357f16b5b0ffa0c6bf6d23e23acc4f0ddb"
+    },
+    {
+      "file": "Masculine-eyes-square_dark.glb",
+      "bytes": 321088,
+      "sha256": "3cde01225f369fd3e663816bcf1e7c9aedb73118f684e85fcfeb7d68260f6cf9"
+    },
+    {
+      "file": "Masculine-eyes-square_white.glb",
+      "bytes": 483204,
+      "sha256": "ba1739f923cd75b4ed217c8eb989bf744c82d3d357be3933878936e889ef98a6"
+    },
+    {
+      "file": "Masculine-hair.glb",
+      "bytes": 2848528,
+      "sha256": "91a0675bd15d80e77ca12d4915dc5a12177a6421ac9ae0de967270b3dcb26fa2"
+    },
+    {
+      "file": "Masculine-tshirt.glb",
+      "bytes": 4294712,
+      "sha256": "61fc4604374067d7d61571cc3943009b8d2c449af178b32fea7baf7216339ddb"
+    }
+  ],
+  "technical": "technical-verification172.json",
+  "visual": "visual-review172.json",
+  "protected": "Original170 body mesh data, heads, hands, skin palette and lighting. Bikini has an option-local visible hip/thigh replacement; original leg copies are hidden only with this option.",
+  "owner_acceptance": "pending",
+  "studio_changed": false,
+  "profile_contract_changed": false,
+  "option_id_assignment": "Local display aliases only; no new wire IDs or fields assigned."
+}
