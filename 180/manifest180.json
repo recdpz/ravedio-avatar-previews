@@ -1,0 +1,23 @@
+{
+  "revision": 180,
+  "status": "Representative arm study; owner review pending",
+  "comparison": "179 shorter bent arms rejected",
+  "scope": "Both builds, bare and T-shirt only; full wardrobe refit pending",
+  "geometry_source": 178,
+  "protected": [
+    "Head",
+    "Eyes",
+    "Hair",
+    "Central chest",
+    "Exposed legs",
+    "Palette"
+  ],
+  "bottom_assembly": "Explicit clean base; one selected bottom",
+  "files": {
+    "Feminine-base.glb": "1f6b8167e664e4ca05638ce6ba284d54c348adf3514d43cd58e13a9c47bace21",
+    "Feminine-skirt.glb": "db655965378a5ff6795fad8b08a05a8e2f99fccc5f300d1f3e4efb31f35fbf5a",
+    "Feminine-tshirt-top.glb": "fda23b08bdf8b5c3f11c211a2f57893467299c0ba8299979f6eb983cf038f638",
+    "Masculine-base.glb": "b2d0e8519f19af629a9ee066176211bd4db6853c036f971ca6e7330f57c836da",
+    "Masculine-tshirt-top.glb": "d36a8164adc17a0db184fa6351832cf6a3919da6e1150274c287180d241c6209"
+  }
+}
