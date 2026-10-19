@@ -19,7 +19,7 @@ function menu(){for(const [id,list,value] of [['top',sets[build],top],['bottom',
 function display(){
  const refAngle=angle==='top'?'front':['underarm','lowrear','underside'].includes(angle)?'profile':angle;
  const poster=showTop?build+'-'+top+'-'+refAngle+'.webp':'../181/'+build+'-bare-'+refAngle+'.webp';
- if(cover.dataset.poster!==poster){cover.dataset.poster=poster;const im=new Image();im.onload=()=>{if(cover.dataset.poster===poster){cover.src=poster;cover.alt=build+' '+label(sets[build],top)+' Â· Rendered top reference';}};im.src=poster;}
+ if(cover.dataset.poster!==poster){cover.dataset.poster=poster;const im=new Image();im.onload=()=>{if(cover.dataset.poster===poster){cover.src=poster;cover.alt=build+' '+label(sets[build],top)+' · Rendered top reference';}};im.src=poster;}
  cover.style.transform=mode==='face'?'scale(1.8)':mode==='outfit'?'scale(2.0)':'none';cover.style.transformOrigin=mode==='face'?'50% 28%':'50% 55%';
  for(const key of ['body','outfit','face'])$(key).setAttribute('aria-pressed',String(mode===key));
  $('full').href=poster;$('full').textContent='Open top reference';
@@ -32,13 +32,13 @@ function clone(part){const c=part.clone(true);c.traverse(o=>{if(o.isMesh)o.mater
 function release(root){if(!root)return;root.traverse(o=>{if(o.isMesh)for(const mat of(Array.isArray(o.material)?o.material:[o.material]))mat.dispose();});}
 function draw(){if(!live)return;const {r,s,c}=live,w=hero.clientWidth,h=hero.clientHeight;r.setSize(w,h,false);const span=(mode==='face'?1.50:mode==='outfit'?1.25:2.70)/live.zoom,y=mode==='face'?1.88:mode==='outfit'?1.12:1.28;c.left=-span*w/h/2;c.right=span*w/h/2;c.top=span/2;c.bottom=-span/2;c.updateProjectionMatrix();c.position.set(6*Math.sin(live.yaw)*Math.cos(live.pitch),y+6*Math.sin(live.pitch),6*Math.cos(live.yaw)*Math.cos(live.pitch));c.lookAt(0,y,0);r.render(s,c);}
 function orient(){if(!live)return;live.yaw={front:0,threequarter:-.464,profile:-Math.PI/2,rightprofile:Math.PI/2,rear:Math.PI,top:0,underside:0,underarm:-.65,lowrear:Math.PI}[angle];live.pitch=angle==='top'?1.07:angle==='underside'?-1.05:angle==='underarm'||angle==='lowrear'?-.50:0;live.zoom=1;draw();}
-async function loadSelection(){if(!live)return start();const id=++generation,p=paths();$('status').textContent='Loading '+build+' '+label(sets[build],top)+' / '+label(bottoms[build],bottom)+'â€¦';$('png').disabled=true;
+async function loadSelection(){if(!live)return start();const id=++generation,p=paths();$('status').textContent='Loading '+build+' '+label(sets[build],top)+' / '+label(bottoms[build],bottom)+'…';$('png').disabled=true;
  try{const parts=await Promise.all([p.base,p.top,p.eye,p.bottom,p.nose,p.mouth,p.groom].map(component));if(id!==generation)return;const root=new THREE.Group(),base=clone(parts[0]),topRoot=clone(parts[1]),eyeRoot=clone(parts[2]),bottomRoot=clone(parts[3]),noseRoot=clone(parts[4]),mouthRoot=clone(parts[5]),groomRoot=clone(parts[6]);root.add(base,topRoot,eyeRoot,bottomRoot,noseRoot,mouthRoot,groomRoot);const previous=live.root;live.root=root;live.baseRoot=base;live.topRoot=topRoot;live.eyeRoot=eyeRoot;live.bottomRoot=bottomRoot;live.noseRoot=noseRoot;live.mouthRoot=mouthRoot;live.groomRoot=groomRoot;live.pick={build,top,eye,bottom,arms,nose,mouth,groom};live.s.add(root);if(previous){live.s.remove(previous);release(previous);}cover.style.visibility='hidden';live.r.domElement.style.visibility='visible';$('png').disabled=false;display();$('status').textContent='3D ready. Drag to rotate; scroll or pinch to zoom. Tops and bottoms can be mixed independently.';
  }catch(e){if(id===generation){$('status').textContent='Could not load that selection. The previous model or rendered reference remains visible.';$('start').hidden=false;}}}
 async function swap(kind){
  const pick={build,top,bottom,eye,arms,nose,mouth,groom};
  if(!live?.root||!live.pick||['build','top','bottom','eye','arms','nose','mouth','groom'].some(k=>k!==kind&&live.pick[k]!==pick[k]))return loadSelection();
- const target=live.root,id=++generation;const slot=kind+'Root';$('png').disabled=true;$('status').textContent='Updating '+kind+'â€¦';
+ const target=live.root,id=++generation;const slot=kind+'Root';$('png').disabled=true;$('status').textContent='Updating '+kind+'…';
  try{const part=await component(paths()[kind]);if(id!==generation||live.root!==target)return;const replacement=clone(part),previous=live[slot];target.add(replacement);target.remove(previous);release(previous);live[slot]=replacement;live.pick=pick;$('png').disabled=false;display();$('status').textContent=({eye:'Eyes',top:'Top',arms:'Arms',bottom:'Bottom',nose:'Nose',mouth:'Mouth',groom:'Facial hair'})[kind]+' updated. The remaining model and camera stay in place.';}
  catch(e){if(id===generation)$('status').textContent='Could not load that option. The previous component remains visible.';}
 }
