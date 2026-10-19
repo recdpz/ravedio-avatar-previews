@@ -1,0 +1,33 @@
+{
+  "revision": 189,
+  "status": "Candidate; native and exported second visual passes completed; owner aesthetic review pending",
+  "source": 188,
+  "male_base": "Shared189 subtle pectoral support; arms unchanged188",
+  "female_base": "Exact188",
+  "shirtless": "New local unencoded choice",
+  "profile_contract_changed": false,
+  "files": {
+    "Feminine-jersey-top.glb": "f01752acb3aba043d8af0fc01ee9f1c8df68ff5f5e993a05b4ec70fd65ddc134",
+    "Feminine-open-top.glb": "519544372edea4d8e68398bb0f21731be46162b0ca6b54d9ecb2c5e5173bff5f",
+    "Feminine-sweatshirt-top.glb": "10f3111844b54e3b1c48670fa279a7b549f76fade32cdd3967e3b5e4e2e640e1",
+    "Masculine-base.glb": "af58d739537c171ae54595e2d2bee12f03b51eef3294363c301aaba73965532f",
+    "Masculine-buttonup-top.glb": "a42247f61fea2232d5b53251b131b0b476d4933b2029156712824f454674d6b9",
+    "Masculine-groom-long.glb": "353c701cfff3b8a7e0385057f0e2a3ad145337c92e34758a59e61c2bc2f11ff8",
+    "Masculine-jersey-top.glb": "3185fa6b8e1a9ba8a55d21f7288ae9f35eb434ff5133d5500e19a9af9f01f814",
+    "Masculine-sweatshirt-top.glb": "8474f11df43f5bb6601718cd13037185c63b455f24d1f8bdf1d10880c9a66ddd",
+    "Masculine-tank-top.glb": "0faebb036a18730c5d70d465402c6bd55f854ac779e77ad04d14fde894c088fe",
+    "Masculine-tshirt-top.glb": "4146422611439a0cdd2fb7ffcf95876711f220a80e16585f47fc2352fbb4cf38"
+  },
+  "verification": {
+    "outfit_combinations": 44,
+    "top_counts": {
+      "Masculine": 6,
+      "Feminine": 8
+    },
+    "saved_reopened": true,
+    "female_bust_exact188": true,
+    "male_shared_support": true,
+    "fixed_lighting": true,
+    "mobile_png_export": true
+  }
+}
