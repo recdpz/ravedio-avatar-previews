@@ -1,0 +1,67 @@
+{
+  "revision": 186,
+  "status": "186 review candidate; technical and two visual passes complete; owner aesthetic review pending",
+  "source": 185,
+  "support": 181,
+  "protected": "181 head/eyes/hair/body,185 default Smile,palette151,fixed181 lighting",
+  "profile_contract_changed": false,
+  "top_counts": {
+    "Feminine": 8,
+    "Masculine": 5
+  },
+  "files": {
+    "Feminine-bandeau-top.glb": "efb40a055a894030b464d8e7e51e8faedd487e0bd88fe551041532ce080e2124",
+    "Feminine-jersey-top.glb": "8935a133707a35c8a42d5c260f9717139bab545a83331d6ae6cafa96a3d3200d",
+    "Feminine-mouth-lips.glb": "1ac1b64b80027359b3396c4a84b06bb6668dd1961e46eae05c25318b103ca574",
+    "Feminine-mouth-smile.glb": "0e9515c5f0e99a1789a4630f96d0c9e19e5cf5e2495628be38ea39f23b1c64c2",
+    "Feminine-nose-rounded.glb": "dfaeb1b6b1910ec9172c8feabc8b06bf91953970f5dfadfdf87047a6ae206195",
+    "Feminine-open-top.glb": "11ce61bc3f228689147d9cb1b27a52572e68686eec077f258b7ba6aea612170a",
+    "Feminine-pants.glb": "b054f8f7fb61d63d2b5ef7bcee3c5848038cca845b6303a163649762d5f3b105",
+    "Feminine-strappy-top.glb": "5f560374c94ee26e5ba53c84ebe24b4c29ae1ceb82db8d10fb92093914db0507",
+    "Feminine-sweatshirt-top.glb": "b052209ac1a50c8b24e663d073503a5f61c726a620126c05af01f9fc52eb93a9",
+    "Feminine-tank-top.glb": "d6f2aabb3aad2557279027822b8d33d1cf0f37cc0edc92c4b672ef4919b235da",
+    "Feminine-triangle-top.glb": "e0ccae320324dece2fac8ecf46982092750d571a095a69e74ad731c49f091ff0",
+    "Feminine-tshirt-top.glb": "342d2d413af3a56c482eab98b28d72efffff760eaaea2b28b75cff92369c8760",
+    "Masculine-buttonup-top.glb": "c44d9194301ccdf00719d74325efc95715d2d1e0a584b42c8fa8272018cbdb8f",
+    "Masculine-groom-full.glb": "64b2612ae661035a4f66e4eb4d1bae0531ba063ac58c9f0c2224986a9439274c",
+    "Masculine-groom-long.glb": "9472fdd5858be1965216aa5e619ade07aa47f9bdb2484df758efc9658f7532e6",
+    "Masculine-groom-patch.glb": "2559fa44f4d7a1f628f39ac97b5ef8ee0dce9468fc5e44a15e394ad1401ce0dc",
+    "Masculine-groom-short.glb": "e76717edd11ea87ad30aa630965aa5102513c9693847ba87b5742c4ada59e7f4",
+    "Masculine-jersey-top.glb": "747b88c4ebfafe54369aa2658674aa55e78652440f4afb2166669ee494688e2b",
+    "Masculine-mouth-lips.glb": "4b98a7c69e37c764b123a437434affeff77b840609ace9baed5d69f69e0ac297",
+    "Masculine-mouth-smile.glb": "2da9a9a2ac98a7d2084ddbd9ae9f914c4f08954e8652a1e51e35123d41360b18",
+    "Masculine-nose-rounded.glb": "8d5438822a1510021f3f3e014016143120c8eb6425a4fd573522fcfd3a113d57",
+    "Masculine-pants.glb": "42008dc9203ed7e0b3a9363b07c9a6334fbceae86972414ef608b63927323c93",
+    "Masculine-shorts.glb": "b62691f30730e4204a812adc434d15eadc849851f3919d73266f3d2851d06588",
+    "Masculine-sweatshirt-top.glb": "dd8ea928e674e159806aaf8e885a38ac0c56d992c96bb81b18bf0508e47bd986",
+    "Masculine-tank-top.glb": "9ac78a5e2260ab4651cdea8f358ee8b20243c007e6c535ddb2a437f547753f8b",
+    "Masculine-tshirt-top.glb": "82125b06bce5e32d3a2a8bd9a1e91621a01bb8fa12b2c01cba7760737f42016e"
+  },
+  "review": {
+    "wardrobe_combinations": 42,
+    "tops": 13,
+    "both_profiles": true,
+    "rear_and_underarm": true,
+    "native_quality": "1024px /40samples",
+    "portraits": [
+      32,
+      48,
+      64,
+      128
+    ],
+    "new_groom_volume": "beard-final186.json supersedes initial186 volume proof"
+  },
+  "sources": {
+    "base": 181,
+    "default_smile": 185,
+    "nose_and_alternative_mouths": 186,
+    "groom_stubble_mustache_goatee": 185,
+    "groom_short_full_long_patch": 186,
+    "tops": 186,
+    "pants": 186,
+    "masculine_shorts": "172 silhouette /186 lowered waistband",
+    "feminine_shorts": 172,
+    "feminine_skirt": 181,
+    "feminine_bikini": 178
+  }
+}
