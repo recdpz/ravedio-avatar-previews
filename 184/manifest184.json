@@ -1,0 +1,55 @@
+{
+  "revision": 184,
+  "status": "Beard refinement candidates; owner review pending",
+  "support": 181,
+  "face_shapes": 182,
+  "nose_shape": 181,
+  "placement": {
+    "mouth_lower_than183": 0.015,
+    "rounded_nose_lower_than183": 0.01,
+    "eyes_unchanged": true
+  },
+  "source_direction": [
+    78,
+    79
+  ],
+  "changes": [
+    "Tapered sideburn growth",
+    "Smaller rounded goatee",
+    "Compact round-ended Long beard",
+    "Lower fitted mouth/nose placement"
+  ],
+  "unchanged": "Head, eye placement, scalp hair, body, T-shirt, palette and fixed3D lighting",
+  "profile_contract_changed": false,
+  "files": {
+    "Feminine-mouth-line.glb": "6bae763f18f311b91d7dcdcc2442a221c2876d3a2c3cb2129ee969cc04f0030a",
+    "Feminine-mouth-lips.glb": "0eb55eff29c3776ea4fc593628726e3de26fb9e55a02bd4c8cf09225c72354a2",
+    "Feminine-mouth-smile.glb": "703de27fc4d9847ec75d651abcfcb448b3d1cede595d7e55f4377c434fcf6d90",
+    "Feminine-nose-rounded.glb": "e2cfa1b2d2e6698cb486187624ab98a161dbc2188c3ec71d1164c48e96c85dfe",
+    "Masculine-groom-full.glb": "67e82f6568194fb3c60d6084e6e905de781dad428f5e97cf1b8d99f3837c6cc3",
+    "Masculine-groom-goatee.glb": "fbb4a1f78c272ec00bc10696047f444beaba956ba94af9856fbf86f51d9f1dde",
+    "Masculine-groom-long.glb": "7b97119f6a81314b1438f291fd7ef75ea092d754724738dd0c1c35478471c902",
+    "Masculine-groom-mustache.glb": "0c6cc5655b0a4044203567cbb11d05b0b9974bbe56e60d23fab2d68ada791f25",
+    "Masculine-groom-short.glb": "0389ef4d907fbd7eacd2d3808986538545ab70c305afe57ca06dc1619616c812",
+    "Masculine-groom-stubble.glb": "2487989cfcf9ce3c8f4dfbc9455ea579f51d3fc4da094e02ab068e28113cced1",
+    "Masculine-mouth-line.glb": "da637f65ab2bec5d69d085f776e0a466763fb3bece3b497079da7e75c3bf60df",
+    "Masculine-mouth-lips.glb": "34ab850027e86d2756d0a2bb8132ee34f8c353c341d3307f1094f69093ade240",
+    "Masculine-mouth-smile.glb": "0b06e7a0abf65031b04b900975f182543bcee4ea7c5c3622ae923e25eef6585e",
+    "Masculine-nose-rounded.glb": "900630684adb331ec4485320017ded836a7748182b00e41ed68aed46c0ba0cf5"
+  },
+  "visual_review": "Two deliberate passes plus exported-assembly recheck; owner acceptance pending",
+  "groom_material": {
+    "roughness": 0.42,
+    "coat": 0.06,
+    "embedded_root_density_texture": true
+  },
+  "recommendation": "No nose + Smile; Short beard strongest starting point; Long remains exploratory",
+  "verification": {
+    "native_files": 18,
+    "masculine_face_groom_combinations": 56,
+    "feminine_face_combinations": 8,
+    "final_materials_rechecked": true,
+    "four_tones": true,
+    "png_and_mobile_layout": true
+  }
+}
