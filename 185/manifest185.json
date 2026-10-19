@@ -1,0 +1,27 @@
+{
+  "revision": 185,
+  "status": "Mouth placement candidate; owner review pending",
+  "source": 184,
+  "support": 181,
+  "default_mouth_centre": 1.67,
+  "previous_mouth_centre": 1.72,
+  "default_mouth_half_width": 0.089,
+  "previous_half_width": 0.079,
+  "nose_source": 184,
+  "protected": "181 head/eyes/hair/body/T-shirt,184 nose,palette,fixed lighting",
+  "profile_contract_changed": false,
+  "files": {
+    "Feminine-mouth-line.glb": "27a42967eba1eb13001c8a6d4c399189ef19a00b64bcd0592c699a7fdb6daabe",
+    "Feminine-mouth-lips.glb": "7435d8886df4c00e88c9bdcc108b5b5ed2a9f4c4eb1fcb85ef6711d65355dd89",
+    "Feminine-mouth-smile.glb": "e6270f9c83b57ff87474f95d9bee8f5870e56b85e6c5bcd4a5e67053d0ed5f7f",
+    "Masculine-groom-full.glb": "f5bd1085bd52c45269512cb888f90413b5dfe19dcf76e30d943aff73b71bfd0f",
+    "Masculine-groom-goatee.glb": "2b56ec12bc99f280803e71cfe55a0a53c293c4f562873d05a397c37de00eb394",
+    "Masculine-groom-long.glb": "294edb4ad6d23f7141ee0ecf33240031b726532dc6d621fad95fda8d43253d0a",
+    "Masculine-groom-mustache.glb": "3e0ef704d474866c0e27e86c69959428af5926a4e59105143e709433cd0aeab1",
+    "Masculine-groom-short.glb": "230794464c170d4da777e38ceeb8218feeba74c3828da77b54ca9f23fe9a8646",
+    "Masculine-groom-stubble.glb": "95d4198b5484717a6db75f86f923ec1d95edc947b4fb7ee98c9d1ce5b8602e8a",
+    "Masculine-mouth-line.glb": "e3249c366d4923c8a87e447be57cbde5621fde98c4cfefb22ae71f71acca34eb",
+    "Masculine-mouth-lips.glb": "a555fd79eeec6f9696a08a09b10267c6e4bbefcb496c9a054923890fe1f38e22",
+    "Masculine-mouth-smile.glb": "5529dc26b162cd075b3a52952163698e01b5074ef379022f22ab1c2f0a32a2dc"
+  }
+}
