@@ -1,0 +1,152 @@
+{
+  "url": "http://127.0.0.1:8176/176/",
+  "checks": [
+    {
+      "build": "Feminine",
+      "top": "bandeau",
+      "arms": "before"
+    },
+    {
+      "build": "Feminine",
+      "top": "bandeau",
+      "arms": "swept"
+    },
+    {
+      "build": "Feminine",
+      "top": "triangle",
+      "arms": "before"
+    },
+    {
+      "build": "Feminine",
+      "top": "triangle",
+      "arms": "swept"
+    },
+    {
+      "build": "Feminine",
+      "top": "strappy",
+      "arms": "before"
+    },
+    {
+      "build": "Feminine",
+      "top": "strappy",
+      "arms": "swept"
+    },
+    {
+      "build": "Feminine",
+      "top": "tshirt",
+      "arms": "before"
+    },
+    {
+      "build": "Feminine",
+      "top": "tshirt",
+      "arms": "swept"
+    },
+    {
+      "build": "Feminine",
+      "top": "jersey",
+      "arms": "before"
+    },
+    {
+      "build": "Feminine",
+      "top": "jersey",
+      "arms": "swept"
+    },
+    {
+      "build": "Feminine",
+      "top": "open",
+      "arms": "before"
+    },
+    {
+      "build": "Feminine",
+      "top": "open",
+      "arms": "swept"
+    },
+    {
+      "build": "Feminine",
+      "top": "tank",
+      "arms": "before"
+    },
+    {
+      "build": "Feminine",
+      "top": "tank",
+      "arms": "swept"
+    },
+    {
+      "build": "Feminine",
+      "top": "sweatshirt",
+      "arms": "before"
+    },
+    {
+      "build": "Feminine",
+      "top": "sweatshirt",
+      "arms": "swept"
+    },
+    {
+      "build": "Masculine",
+      "top": "tank",
+      "arms": "before"
+    },
+    {
+      "build": "Masculine",
+      "top": "tank",
+      "arms": "swept"
+    },
+    {
+      "build": "Masculine",
+      "top": "tshirt",
+      "arms": "before"
+    },
+    {
+      "build": "Masculine",
+      "top": "tshirt",
+      "arms": "swept"
+    },
+    {
+      "build": "Masculine",
+      "top": "jersey",
+      "arms": "before"
+    },
+    {
+      "build": "Masculine",
+      "top": "jersey",
+      "arms": "swept"
+    },
+    {
+      "build": "Masculine",
+      "top": "buttonup",
+      "arms": "before"
+    },
+    {
+      "build": "Masculine",
+      "top": "buttonup",
+      "arms": "swept"
+    },
+    {
+      "build": "Masculine",
+      "top": "sweatshirt",
+      "arms": "before"
+    },
+    {
+      "build": "Masculine",
+      "top": "sweatshirt",
+      "arms": "swept"
+    }
+  ],
+  "errors": [],
+  "saved": {
+    "build": "Feminine",
+    "top": "tank",
+    "bottom": "shorts",
+    "bottomColor": "0",
+    "eyes": "original",
+    "skin": "1",
+    "arms": "swept",
+    "lighting": "studio",
+    "angle": "threequarter"
+  },
+  "mobile": {
+    "oneCanvas": true,
+    "noHorizontalOverflow": true
+  },
+  "png": true
+}

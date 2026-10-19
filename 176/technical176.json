@@ -1,0 +1,24 @@
+{
+  "cases": [
+    {
+      "build": "Feminine",
+      "save_reopen_exact": true,
+      "protected_exact": true,
+      "lighting_exact": true,
+      "arm_shape_preserved_by_rigid_translation": true,
+      "inward_each_arm": 0.055,
+      "sleeved_total_inward": 0.07500000000000001,
+      "sleeved_extra_lowering": 0.012
+    },
+    {
+      "build": "Masculine",
+      "save_reopen_exact": true,
+      "protected_exact": true,
+      "lighting_exact": true,
+      "arm_shape_preserved_by_rigid_translation": true,
+      "inward_each_arm": 0.055,
+      "sleeved_total_inward": 0.07500000000000001,
+      "sleeved_extra_lowering": 0.012
+    }
+  ]
+}
