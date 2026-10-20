@@ -1,0 +1,20 @@
+{
+  "revision": 199,
+  "baseline": 198,
+  "scope": "Tank fit, hidden-side garment fairing and upper skirt/shorts waistband seating only",
+  "arms": 178,
+  "anatomy": 198,
+  "lighting": 181,
+  "palette": 151,
+  "complete_wardrobe": 193,
+  "owner_approval": "Pending for199",
+  "technical": "Saved/reopened; protected anatomy exact; garment openings; native and browser visual review",
+  "files": {
+    "Feminine-base.glb": "b93a588e868cab96c5da05f38707615993dec1259830da6dc4cab7c14bc209cf",
+    "Feminine-skirt-bottom.glb": "5c353916efde1d0348c621856f5ed52b0203be6f68ec0446256f693b5203670a",
+    "Feminine-tank-top.glb": "c15514156fd7a0855ed66b0ab562e8dceeff6a21f1ac5078cb90dd49d2cd5663",
+    "Masculine-base.glb": "8ce1e85deed75925f6decf0ff812102a56046630cac95460cc1393aeb39b64fe",
+    "Masculine-shorts-bottom.glb": "b2e45c642cdc8e293a2181c0278cfcd493b2ba5c7096fcee22422224978620fa",
+    "Masculine-tank-top.glb": "d593e344d1913e549988f8fd498b75e8d56fa188ba824dd91d585d86564b1c12"
+  }
+}
