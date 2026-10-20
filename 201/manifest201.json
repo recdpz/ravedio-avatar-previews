@@ -1,0 +1,129 @@
+{
+  "revision": 201,
+  "baseline": 200,
+  "owner_review": "Pending",
+  "scope": "14 tops and6 bottoms; independent full-wrap sleeves on178 arms; bounded feminine back repair and subtle cleavage drawing",
+  "base_anatomy": 198,
+  "feminine_back_and_cleavage_drawing": 201,
+  "arms": 178,
+  "sleeve_fabric": 201,
+  "palette": 151,
+  "lighting": 181,
+  "original_studio": 78,
+  "contextual_tops": {
+    "Feminine": [
+      [
+        "bandeau",
+        "Pasties"
+      ],
+      [
+        "triangle",
+        "Triangle top"
+      ],
+      [
+        "strappy",
+        "Strappy crop"
+      ],
+      [
+        "tshirt",
+        "T-shirt"
+      ],
+      [
+        "jersey",
+        "Jersey"
+      ],
+      [
+        "open",
+        "Button-up"
+      ],
+      [
+        "tank",
+        "Tank"
+      ],
+      [
+        "sweatshirt",
+        "Hoodie"
+      ]
+    ],
+    "Masculine": [
+      [
+        "shirtless",
+        "Shirtless"
+      ],
+      [
+        "tank",
+        "Tank"
+      ],
+      [
+        "tshirt",
+        "T-shirt"
+      ],
+      [
+        "jersey",
+        "Jersey"
+      ],
+      [
+        "buttonup",
+        "Button-up"
+      ],
+      [
+        "sweatshirt",
+        "Hoodie"
+      ]
+    ]
+  },
+  "contextual_bottoms": {
+    "Feminine": [
+      [
+        "shorts",
+        "Shorts"
+      ],
+      [
+        "skirt",
+        "Skirt"
+      ],
+      [
+        "bikini",
+        "Bikini bottoms"
+      ],
+      [
+        "pants",
+        "Pants"
+      ]
+    ],
+    "Masculine": [
+      [
+        "shorts",
+        "Shorts"
+      ],
+      [
+        "pants",
+        "Pants"
+      ]
+    ]
+  },
+  "files": {
+    "Feminine-bandeau-top.glb": "2c8506601d93b94c2bfb85b86d7f7c850fec825c0cbfe22080d042bf143859a2",
+    "Feminine-base.glb": "490b663a064b9fc5f155155068da8a21707089bffa96a8b891051399c085e4d8",
+    "Feminine-bikini-bottom.glb": "674989c16d4413c6aea4d65e1fbd3d2c8b4d9daf61ad74e00250ee7249617a3a",
+    "Feminine-jersey-top.glb": "fc8ed946735f39fa76fb372cf11c229130d4b77dc8510081e85e55e88c5d11a6",
+    "Feminine-open-top.glb": "73d8cd37d31f86132f6b793315a61fc0a2bb150c541d939d41318107d4f5cc67",
+    "Feminine-pants-bottom.glb": "294ff0640b8b7cd1b1c22f1a9ba71ba096c109acd3c7bbdc5dc93387837bb22d",
+    "Feminine-shorts-bottom.glb": "0cb2383d20d599f05706404b2414728ef8c3d60028d4cb858ccb00e611fc612d",
+    "Feminine-skirt-bottom.glb": "c37c500677a8e95d9c05f45322bc326bd042ca79eeb55432b4914fe84f5c9367",
+    "Feminine-strappy-top.glb": "3895e710df41094f18bb615678a75ebb5561d856493033c3893bf839c7b9eb02",
+    "Feminine-sweatshirt-top.glb": "f1f4f4208cf20efb39cba8add9b6900f3e65548d5e80df26e7bff168636447d2",
+    "Feminine-tank-top.glb": "98031c26dcb05c1033104f1ba671ef7ab305a83310658308760f00f6b93df3a7",
+    "Feminine-triangle-top.glb": "fff1f3e4d4f18b76d42685f6fe3c370a550122a1aaf52349c79e5857c050c783",
+    "Feminine-tshirt-top.glb": "a1d86d3b1c5c240a1819c3418884133b7b4ea660a5c363f2fc74710f838f92d1",
+    "Masculine-buttonup-top.glb": "98e114fa04c1e1df55b7453d9f0a91a4cd696dfa92384f663cce942792d0c684",
+    "Masculine-jersey-top.glb": "1a3404a04d7937073fe0477297b4408025c0c21d45e7a14bcb630a9e48ecd37c",
+    "Masculine-pants-bottom.glb": "0b305ca3af39ab4c721bdc095cbb9298ca3e991cccfa6ec84fb58a6058156f41",
+    "Masculine-shirtless-base.glb": "ca653bc17fbd80ba4d15c43e6c23d26eec58d2921c7a46b9d55e5fc3f607a931",
+    "Masculine-shorts-bottom.glb": "f3025857ec0bf49780af78830d5b2498a8fcdf1248972950b08f50cddc1b6a2f",
+    "Masculine-sweatshirt-top.glb": "1d0ce2b700589a00a815bb44359e4e8a72fcf1b24e62767b36f9ec5f29bbaabe",
+    "Masculine-tank-top.glb": "6e0243087db6ee0b5c367d99841dee47964ce58580700b7cadf02e0ba9746597",
+    "Masculine-tshirt-top.glb": "3a27de45b950b2543a4982ab1bf6832885bc1598d367976e83a780efb089059e",
+    "../199/Masculine-base.glb": "8ce1e85deed75925f6decf0ff812102a56046630cac95460cc1393aeb39b64fe"
+  }
+}
