@@ -1,0 +1,61 @@
+{
+  "revision": 193,
+  "comparison": 192,
+  "status": "Two deliberate self visual passes complete; owner aesthetic approval pending",
+  "pass1": {
+    "evidence": [
+      "recovery/pilot1",
+      "native-all-tops193.jpg",
+      "renders/Feminine-bandeau-matte-detail-front.png",
+      "renders/Feminine-bandeau-matte-detail-profile.png",
+      "renders/*quality*.png"
+    ],
+    "findings_and_corrections": [
+      "192 side view had a pinched under/outer transition and upper fullness projecting fairly horizontally. Refaired the anterior surface broadly, settled the fullness lower and reduced forward projection.",
+      "First candidate softened the side but merged the front too much. Second contour defined the inner breast transitions and upper-center separation without a painted crease or separate spherical attachments.",
+      "Revisited native front, three-quarter, both profiles, rear and top for all8 feminine tops. Closed cloth uses a smoother transport field to bridge the center; fitted tops follow the body more closely. Pasties were reseated lower on the actual revised surface.",
+      "Final native full-quality front/profile representatives for Pasties, Tank and Jersey plus matte diagnostics were inspected. No further local contour/fit correction was warranted by this pass."
+    ]
+  },
+  "pass2": {
+    "evidence": [
+      "compare193.jpg",
+      "tops193.jpg",
+      "tones193.jpg",
+      "audit193-export-tops.jpg",
+      "audit193-openings.jpg",
+      "audit193-pairs.jpg",
+      "audit193-hands.jpg",
+      "audit193-hand-bases.jpg"
+    ],
+    "coverage": "172 actual exported captures: all8 tops through six angles;32 top/bottom front pairs;24 hand/top front pairs; four hand bases through six angles; all four skin tones; close details and matched192 before views.",
+    "findings": [
+      "Upper-center contour reads more distinctly in the front/three-quarter views. Side fullness is lower with a gentler upper slope and rounder lower join; the old sharp side/under band is softened.",
+      "Reviewed both profiles and rear/top/underarm views for neckline, strap, cup-edge, placket, sleeve and hem continuity. No newly introduced obvious clipping, gaps or repeated shading bands were found in these inspected views.",
+      "Checked every top/bottom front combination and all optional hand versions. No additional edit was justified by the fresh exported review."
+    ]
+  },
+  "technical_separate_from_aesthetics": {
+    "evidence": [
+      "technical193.json",
+      "consistency193.log",
+      "source193.json",
+      "browser193.json",
+      "mobile193.json"
+    ],
+    "result": "Same chest geometry across all8 tops and all4 hand bases; protected objects/material indices/opening topology retained;192 donor hashes unchanged; mobile selection/memory/PNG and12 exact asset hashes passed."
+  },
+  "reference_images": [
+    {
+      "page": "https://training.seer.cancer.gov/breast/anatomy.html",
+      "use": "Chest-wall attachment and broad sloped/rounded form; actual primary diagram inspected privately."
+    },
+    {
+      "page": "https://www.victoriassecret.com/us/vs/bras-catalog/5000011201?choice=54A2&genericId=11272907",
+      "use": "Inner-contour separation and triangle-bralette fit; actual primary photo inspected privately."
+    }
+  ],
+  "presentation": "Fixed181 browser lighting and151 skin palette retained.1024px/40sample native representatives accompany the browser views; these are separate rendering presentations.",
+  "unresolved_visual_issues_in_inspected_scope": [],
+  "owner_acceptance": "Pending; technical verification and self visual review are not owner approval. No product/profile contract or original Studio78 changes."
+}

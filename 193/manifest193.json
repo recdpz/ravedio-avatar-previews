@@ -1,0 +1,126 @@
+{
+  "revision": 193,
+  "source": 192,
+  "status": "193 self-reviewed and locally verified; publication pending",
+  "scope": "Feminine anterior chest and eight top fits",
+  "masculine": "Unchanged192",
+  "palette": 151,
+  "lighting": 181,
+  "protected": [
+    "Head/hair/face",
+    "Arms/hands",
+    "Back/neck/waist/bottoms"
+  ],
+  "product_contract_changed": false,
+  "files": {
+    "Feminine-bandeau-top.glb": "a8abe639bf307ea25588d793bd4c85ccc866c8ce8c2ea95ecc03f4c2065ab5b0",
+    "Feminine-base.glb": "24f5beddda60fe2b8fd7af814d713661efa13850e70927db4300e40eef0e26d3",
+    "Feminine-hands-mitten-base.glb": "855cd39cd365a3992116342b56a01fff88fc61ec3d4086877fb9900eb336a2f4",
+    "Feminine-hands-paddle-base.glb": "df56e70f37a0988e28e4cc828c20ad7ef7f51b1bde49c586b272a71d3562346b",
+    "Feminine-hands-round-base.glb": "aaf2850da87951430ea8ea67b54868e982b09388b08093d928eb8da8fa58759c",
+    "Feminine-jersey-top.glb": "7c2e5d0a084fe8feec756e80542266b1530c463017f78c5b8edf1d4a0e11435e",
+    "Feminine-open-top.glb": "87ad474ede0a053bc8ee5d4e5bd168acc75149fd54e21eedc14da7fa42d5adf8",
+    "Feminine-strappy-top.glb": "00647709e57c934fa3298d9c76faa0855ea403c1ad940c02e211e1c0cf7f9e75",
+    "Feminine-sweatshirt-top.glb": "1df40aea30088366452926a61b770218c6d918348ea8a1d3a15bd302f45b91ea",
+    "Feminine-tank-top.glb": "2ad7e9391af103b7a52e657ec745e874ddc0e6eac220cc72c948ef4a92bd5910",
+    "Feminine-triangle-top.glb": "aafc4df07ec8fdb6db01c01aa00fc8074f13ea4a8d2cc996c39107219492f462",
+    "Feminine-tshirt-top.glb": "dd8c49ec7deeee46c700cdb453c325aab8057efd14c6172ec1e941dd7b82dd3c"
+  },
+  "profile_metrics": {
+    "192": [
+      {
+        "x": 0,
+        "peak_z": 1.2299665551839465,
+        "peak_y": -0.25725221633911133
+      },
+      {
+        "x": 0.1,
+        "peak_z": 1.2425752508361203,
+        "peak_y": -0.27292609214782715
+      },
+      {
+        "x": 0.15,
+        "peak_z": 1.244515050167224,
+        "peak_y": -0.2627187967300415
+      }
+    ],
+    "193": [
+      {
+        "x": 0,
+        "peak_z": 1.1863210702341138,
+        "peak_y": -0.2404872179031372
+      },
+      {
+        "x": 0.1,
+        "peak_z": 1.2192976588628763,
+        "peak_y": -0.26380062103271484
+      },
+      {
+        "x": 0.15,
+        "peak_z": 1.2222073578595318,
+        "peak_y": -0.25320684909820557
+      }
+    ]
+  },
+  "visual_review": {
+    "revision": 193,
+    "comparison": 192,
+    "status": "Two deliberate self visual passes complete; owner aesthetic approval pending",
+    "pass1": {
+      "evidence": [
+        "recovery/pilot1",
+        "native-all-tops193.jpg",
+        "renders/Feminine-bandeau-matte-detail-front.png",
+        "renders/Feminine-bandeau-matte-detail-profile.png",
+        "renders/*quality*.png"
+      ],
+      "findings_and_corrections": [
+        "192 side view had a pinched under/outer transition and upper fullness projecting fairly horizontally. Refaired the anterior surface broadly, settled the fullness lower and reduced forward projection.",
+        "First candidate softened the side but merged the front too much. Second contour defined the inner breast transitions and upper-center separation without a painted crease or separate spherical attachments.",
+        "Revisited native front, three-quarter, both profiles, rear and top for all8 feminine tops. Closed cloth uses a smoother transport field to bridge the center; fitted tops follow the body more closely. Pasties were reseated lower on the actual revised surface.",
+        "Final native full-quality front/profile representatives for Pasties, Tank and Jersey plus matte diagnostics were inspected. No further local contour/fit correction was warranted by this pass."
+      ]
+    },
+    "pass2": {
+      "evidence": [
+        "compare193.jpg",
+        "tops193.jpg",
+        "tones193.jpg",
+        "audit193-export-tops.jpg",
+        "audit193-openings.jpg",
+        "audit193-pairs.jpg",
+        "audit193-hands.jpg",
+        "audit193-hand-bases.jpg"
+      ],
+      "coverage": "172 actual exported captures: all8 tops through six angles;32 top/bottom front pairs;24 hand/top front pairs; four hand bases through six angles; all four skin tones; close details and matched192 before views.",
+      "findings": [
+        "Upper-center contour reads more distinctly in the front/three-quarter views. Side fullness is lower with a gentler upper slope and rounder lower join; the old sharp side/under band is softened.",
+        "Reviewed both profiles and rear/top/underarm views for neckline, strap, cup-edge, placket, sleeve and hem continuity. No newly introduced obvious clipping, gaps or repeated shading bands were found in these inspected views.",
+        "Checked every top/bottom front combination and all optional hand versions. No additional edit was justified by the fresh exported review."
+      ]
+    },
+    "technical_separate_from_aesthetics": {
+      "evidence": [
+        "technical193.json",
+        "consistency193.log",
+        "source193.json",
+        "browser193.json",
+        "mobile193.json"
+      ],
+      "result": "Same chest geometry across all8 tops and all4 hand bases; protected objects/material indices/opening topology retained;192 donor hashes unchanged; mobile selection/memory/PNG and12 exact asset hashes passed."
+    },
+    "reference_images": [
+      {
+        "page": "https://training.seer.cancer.gov/breast/anatomy.html",
+        "use": "Chest-wall attachment and broad sloped/rounded form; actual primary diagram inspected privately."
+      },
+      {
+        "page": "https://www.victoriassecret.com/us/vs/bras-catalog/5000011201?choice=54A2&genericId=11272907",
+        "use": "Inner-contour separation and triangle-bralette fit; actual primary photo inspected privately."
+      }
+    ],
+    "presentation": "Fixed181 browser lighting and151 skin palette retained.1024px/40sample native representatives accompany the browser views; these are separate rendering presentations.",
+    "unresolved_visual_issues_in_inspected_scope": [],
+    "owner_acceptance": "Pending; technical verification and self visual review are not owner approval. No product/profile contract or original Studio78 changes."
+  }
+}
