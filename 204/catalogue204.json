@@ -1,0 +1,230 @@
+{
+  "revision": 204,
+  "baseline": 203,
+  "scope": "Cartoon catalogue only; original Studio78 remains separate",
+  "current": {
+    "builds": [
+      "Feminine",
+      "Masculine"
+    ],
+    "skin_tones": 4,
+    "eyes": [
+      "Original",
+      "Round",
+      "Almond",
+      "Soft square"
+    ],
+    "noses": [
+      "None",
+      "Rounded"
+    ],
+    "mouths": [
+      "None",
+      "Smile",
+      "Open smile",
+      "Closed mouth"
+    ],
+    "facial_hair": [
+      "None",
+      "Stubble",
+      "Mustache",
+      "Goatee",
+      "Mustache + patch",
+      "Short beard",
+      "Long beard"
+    ],
+    "tops": {
+      "Feminine": [
+        [
+          "bandeau",
+          "Pasties"
+        ],
+        [
+          "triangle",
+          "Triangle top"
+        ],
+        [
+          "strappy",
+          "Strappy crop"
+        ],
+        [
+          "tshirt",
+          "T-shirt"
+        ],
+        [
+          "jersey",
+          "Jersey"
+        ],
+        [
+          "open",
+          "Button-up"
+        ],
+        [
+          "tank",
+          "Tank"
+        ],
+        [
+          "sweatshirt",
+          "Hoodie"
+        ]
+      ],
+      "Masculine": [
+        [
+          "shirtless",
+          "Shirtless"
+        ],
+        [
+          "tank",
+          "Tank"
+        ],
+        [
+          "tshirt",
+          "T-shirt"
+        ],
+        [
+          "jersey",
+          "Jersey"
+        ],
+        [
+          "buttonup",
+          "Button-up"
+        ],
+        [
+          "sweatshirt",
+          "Hoodie"
+        ]
+      ]
+    },
+    "bottoms": {
+      "Feminine": [
+        [
+          "shorts",
+          "Shorts"
+        ],
+        [
+          "skirt",
+          "Skirt"
+        ],
+        [
+          "bikini",
+          "Bikini bottoms"
+        ],
+        [
+          "pants",
+          "Pants"
+        ]
+      ],
+      "Masculine": [
+        [
+          "shorts",
+          "Shorts"
+        ],
+        [
+          "pants",
+          "Pants"
+        ]
+      ]
+    },
+    "bottom_colors": [
+      "Black",
+      "White",
+      "Gray",
+      "Navy",
+      "Blue",
+      "Khaki",
+      "Red",
+      "Pink"
+    ],
+    "hair": {
+      "Feminine": "Bob",
+      "Masculine": "Side part",
+      "selector": false
+    },
+    "headwear": {
+      "selector": false,
+      "integrated": 0
+    },
+    "glasses": {
+      "selector": false,
+      "integrated": 0
+    }
+  },
+  "verified_now": [
+    "Both177-reference hoodies saved/reopened; unchanged bodies and floating arms",
+    "Black detailed pasties with unchanged coverage",
+    "Four eye types and skin tones, face zoom, PNG and independent saved choices",
+    "Wardrobe/bottom combinations and short/long beard neckline fit"
+  ],
+  "next_modeling": [
+    {
+      "order": 1,
+      "batch": "Hair",
+      "items": [
+        "Masculine taper",
+        "Feminine ponytail"
+      ],
+      "direction": "Rebuild from selected prior cartoon references as sculpted glossy locks; preserve current scalp/head, clean roots/nape, no direct realistic groom port",
+      "sources": [
+        "refinement153",
+        "exploration156"
+      ],
+      "checks": [
+        "Front,both sides,rear,top",
+        "Scalp coverage and shoulder/hood clearance",
+        "Face zoom and32/48/64/128px portraits"
+      ]
+    },
+    {
+      "order": 2,
+      "batch": "Glasses",
+      "items": [
+        "Sunglasses",
+        "Round glasses"
+      ],
+      "direction": "Two simple readable frames with real bridge and temple attachments on the selected head",
+      "checks": [
+        "Eyebrow/eye clearance",
+        "Side temple contact",
+        "Portrait readability across all four tones"
+      ]
+    },
+    {
+      "order": 3,
+      "batch": "Headwear",
+      "items": [
+        "Cap",
+        "Beanie",
+        "Bucket hat",
+        "Cowboy hat"
+      ],
+      "direction": "Use prior accepted shape refinements as references; remodel for cartoon head and chosen hair, with separate covered-hair components",
+      "checks": [
+        "Cap pitch separate from bill curve",
+        "Ponytail exit",
+        "No scalp strips or ear-cut halos",
+        "Front/both sides/rear/top"
+      ]
+    }
+  ],
+  "contracts": {
+    "native_mobile_changed": false,
+    "firmware_changed": false,
+    "profile_bit_layout_changed": false,
+    "option_ids_assigned": false
+  },
+  "note": "Existing older native hairstyle/accessory variants are design references, not integrated or fit-certified current cartoon options. Self verification is separate from owner aesthetic acceptance.",
+  "hair_preflight": {
+    "Masculine-taper": {
+      "selected_scene": "153 Taper sculpt review",
+      "head_vertices": 10642,
+      "current_head_exact": false,
+      "required_next": "Rebuild native cartoon locks on selected current scalp; root/nape/hood fit requires a new candidate review"
+    },
+    "Feminine-ponytail": {
+      "selected_scene": "156 Feminine-ponytail",
+      "head_vertices": 10642,
+      "current_head_exact": true,
+      "required_next": "Use native cartoon locks with bounded root/nape/hood fit checks; no anatomy replacement"
+    }
+  }
+}

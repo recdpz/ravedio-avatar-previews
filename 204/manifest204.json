@@ -1,0 +1,132 @@
+{
+  "revision": 204,
+  "baseline": 203,
+  "owner_review": "Pending",
+  "scope": "Both177-referenced hoodies and black detailed pasties; body/arms/palette/lighting exact203",
+  "base_anatomy": 202,
+  "feminine_transition_fairing": 202,
+  "body_geometry_frozen": 202,
+  "hood_volume_reference": 177,
+  "arms": 178,
+  "sleeve_fabric": 201,
+  "hoodie_cuffs": 202,
+  "palette": 151,
+  "lighting": 181,
+  "original_studio": 78,
+  "contextual_tops": {
+    "Feminine": [
+      [
+        "bandeau",
+        "Pasties"
+      ],
+      [
+        "triangle",
+        "Triangle top"
+      ],
+      [
+        "strappy",
+        "Strappy crop"
+      ],
+      [
+        "tshirt",
+        "T-shirt"
+      ],
+      [
+        "jersey",
+        "Jersey"
+      ],
+      [
+        "open",
+        "Button-up"
+      ],
+      [
+        "tank",
+        "Tank"
+      ],
+      [
+        "sweatshirt",
+        "Hoodie"
+      ]
+    ],
+    "Masculine": [
+      [
+        "shirtless",
+        "Shirtless"
+      ],
+      [
+        "tank",
+        "Tank"
+      ],
+      [
+        "tshirt",
+        "T-shirt"
+      ],
+      [
+        "jersey",
+        "Jersey"
+      ],
+      [
+        "buttonup",
+        "Button-up"
+      ],
+      [
+        "sweatshirt",
+        "Hoodie"
+      ]
+    ]
+  },
+  "contextual_bottoms": {
+    "Feminine": [
+      [
+        "shorts",
+        "Shorts"
+      ],
+      [
+        "skirt",
+        "Skirt"
+      ],
+      [
+        "bikini",
+        "Bikini bottoms"
+      ],
+      [
+        "pants",
+        "Pants"
+      ]
+    ],
+    "Masculine": [
+      [
+        "shorts",
+        "Shorts"
+      ],
+      [
+        "pants",
+        "Pants"
+      ]
+    ]
+  },
+  "files": {
+    "Feminine-bandeau-top.glb": "f29aa7b0edacb30ed35c35244cfef31ca1502a9c00df19c2f5fff81bb642cff4",
+    "../203/Feminine-base.glb": "c905cba23ead54a01bd2b63b40acc1ace6861307456ec70826fb24989615b223",
+    "../203/Feminine-bikini-bottom.glb": "13570441f261d76407fa90086934de7bc9ef4c32f8eb2e767107148d93224ad4",
+    "../203/Feminine-jersey-top.glb": "cb1f2e021467fbd350cedbbe75759a37ff8bff165c3197fde68830a1f3432b8d",
+    "../203/Feminine-open-top.glb": "61c6aae49aedb28223e9c7cfe1569000ddc2400257566f40d23eb155ee63cd5f",
+    "../203/Feminine-pants-bottom.glb": "4d58c63be2b617f0248f864323ce0b6efef24a63e445f0720525cadf16f5a802",
+    "../203/Feminine-shorts-bottom.glb": "056dab129053c179052a2630a90ea48617ba2080e3e3781a49d5d69e7c168e4d",
+    "../203/Feminine-skirt-bottom.glb": "1d26f35f625009e9ceb4311044da5389e39c8e05c5b70b037e5b9914b9bb9507",
+    "../203/Feminine-strappy-top.glb": "8ae74e8df0b023796faff9a3446a7dbf3e66f4b0785ae01273a5cebf1888540d",
+    "Feminine-sweatshirt-top.glb": "20e6a811dcf09fd82eb80be85727b72ff7706051654b44ae300493eeb09c9c15",
+    "../203/Feminine-tank-top.glb": "16a0bb988edbd082a8adec92dd7c4970ee85eed25b1e98160f1d282fcca7e57d",
+    "../203/Feminine-triangle-top.glb": "8d92b3bb8dee3992f1468d7c7030fcb49464ead901d90910871769a4aa406a23",
+    "../203/Feminine-tshirt-top.glb": "53c13f90a57301a7270f7c31a837fc3d522a83cf1b4b14bfdf3d6df5259b270f",
+    "../203/Masculine-buttonup-top.glb": "ec323f0a9d7fc6fb988a6b6fbb440ba43e07f39a8f97cf1fae606921f52f041b",
+    "../203/Masculine-jersey-top.glb": "897220a480e72e9c695f8ef4b490c8ebd3665f1a2e5ecd7aa79c5b91ee763d3a",
+    "../203/Masculine-pants-bottom.glb": "21e93f5f59eab7c9e5d223b32623e89ff31685397ab04c6dbaa8ce834fa7e94c",
+    "../203/Masculine-shirtless-base.glb": "000b1f86315e6d858318f184afd9aba9e257c93bf1545b301fa4f8c5a8ac4f3b",
+    "../203/Masculine-shorts-bottom.glb": "4adf9f1b46d780cf01771febfc9711676af8ccc9ba9d524ec4b85355b9e54d74",
+    "Masculine-sweatshirt-top.glb": "e4b146e348492ef14d892c7f56e46ec2904db05e2002875bbfd1932e8c27b9cf",
+    "../203/Masculine-tank-top.glb": "4dfbcefee5a366f883c08529aac8eda2a499688d0bde8ee6bc36e6f5f5980a59",
+    "../203/Masculine-tshirt-top.glb": "5ab4f6bcc9a98cc8fc19505db95ff8270945fa08bd99c1e427f959455c42ce2c",
+    "../199/Masculine-base.glb": "8ce1e85deed75925f6decf0ff812102a56046630cac95460cc1393aeb39b64fe"
+  }
+}
