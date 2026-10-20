@@ -1,0 +1,111 @@
+{
+  "revision": 192,
+  "source": 191,
+  "status": "Self-reviewed candidate; owner review pending",
+  "hands": [
+    "Rounded ends",
+    "Round",
+    "Mitten",
+    "Paddle"
+  ],
+  "rejected_hands": [
+    "Grip",
+    "Detailed Glove/Fist",
+    "First192 excessive arm length"
+  ],
+  "skin_palette": 151,
+  "lighting": 181,
+  "pasties_alias": "bandeau",
+  "product_contract_changed": false,
+  "files": {
+    "Feminine-bandeau-top.glb": "9ccba240d53068c2a9a1d0211350286d3cfce056cdc39a631734140cdbf5d596",
+    "Feminine-base.glb": "47248db5f8981e62ceabe4e9e3037042ad61eca579f35bff6e543f71b67c3a60",
+    "Feminine-eyes-almond.glb": "8925e70d880ccbbe223c94c9224d57083e38b8dcd184b3e1ea521f339538b37b",
+    "Feminine-hands-mitten-base.glb": "8fa1205c4f2f45515ab49346658f35af97aa565e8c662bbad6d4c0e33a95c451",
+    "Feminine-hands-paddle-base.glb": "e8da1ff09c3e7abcc5f34d6e4cdd7779467decb2f412739f2bd12119c8fe24ec",
+    "Feminine-hands-round-base.glb": "7ebd9090a243b7b459f7143f5a56070414b05c3e9b01eedf5906ef98dd8f9e65",
+    "Feminine-jersey-top.glb": "1271f8e7d008b8342e3f9ff3a33b7cf37a64623e1548abc42a85b104d6554ce3",
+    "Feminine-open-top.glb": "bf9e7d39d319bf382c80d6f25849d5ae6b1b99e32cb8efd4ed68b15ab1d1d653",
+    "Feminine-pants-bottom.glb": "83cb354723eeb8aeda697536dffd3584a774d5526b0d5da3b720bb6855543a27",
+    "Feminine-shorts-bottom.glb": "2419c1b250122d264cb4b7eaa67d31e51064514529391026850548ad7302c35c",
+    "Feminine-strappy-top.glb": "db0c10c097b47befee3ea985950391811fb2da447edf212d51de6eb16629e14d",
+    "Feminine-sweatshirt-top.glb": "35821700f52d6e2cac1b0b6a2aa43a7367575abd494b8324491b92eb2481d216",
+    "Feminine-tank-top.glb": "8165fece3473bb23ec0c80a225d44fcabff16d703e5f9f2d0c5b87fa0528e55c",
+    "Feminine-triangle-top.glb": "e7d454e395968f839cc6d4ac6ac019241f0608615e828439849af0f99da21cfd",
+    "Feminine-tshirt-top.glb": "f8b74c600f55bc0556f9df4d052f1af812b568a28273b90b805c2bc3ac959f3f",
+    "Masculine-base.glb": "0d29c9a4c67c6f320ecb4e611f8437f52adcbda6c96b219f3bb3e64d73e2b23a",
+    "Masculine-buttonup-top.glb": "3441c06e4fd488292f2e72f552c677fe0fc155df52de87ed422f63de27360da9",
+    "Masculine-eyes-almond.glb": "d8a6a09736c1858a34384ac2e7bdac64501eec3f7bc5848b2d5569cad170a835",
+    "Masculine-hands-mitten-base.glb": "8007ba19264148176d1209535446b3c83b1d1e5451dafdde68e867f2508cf20c",
+    "Masculine-hands-paddle-base.glb": "72c66d8a3145a76b0dd01c14e419530e131b6b58b9f91f570c546c6b61effdb1",
+    "Masculine-hands-round-base.glb": "8cd10ab40122c951939e83e26ebf322648de81bdff5f942774cf45a556f09870",
+    "Masculine-jersey-top.glb": "db7a080ff6fa90a7bf9890a007403cc2a5191baa1862b00459208602c3805422",
+    "Masculine-shirtless-base.glb": "bfa0fca8714a5bd56576208db7f2f777a62a4ea9fd720d580b5a3003215419b9",
+    "Masculine-shirtless-hands-mitten-base.glb": "91158ea488c7860362627f7b077af26f8767a83c2a725e32086a9971517c714c",
+    "Masculine-shirtless-hands-paddle-base.glb": "73717285832dc2fda6da1f1d74591bf90f6eea9f9762b7e3a610d225935e4787",
+    "Masculine-shirtless-hands-round-base.glb": "169bbb0b30ee515cb4e62e1e24087c7df72557e4cff233ba36445120e207e9df",
+    "Masculine-sweatshirt-top.glb": "248c687d045a4e0508179a20f2b9cac61a05906e1db0ad06860992cd329846c2",
+    "Masculine-tank-top.glb": "ffa75a61f2aa942836cfd2cea2f076dcffe7a7163ece129799e9daedf9e89d4b",
+    "Masculine-tshirt-top.glb": "7f78312211cf7f6f835f9cadb29ca3a6dcf28f6e4c0f8a088bdfbdaf7637ad97"
+  },
+  "arm_tip_z": 0.8767,
+  "comparison191_tip_z": 0.91,
+  "first_rejected192_tip_z": 0.836,
+  "review": "review192.json; technical checks separate from owner aesthetic approval",
+  "visual_review": {
+    "revision": 192,
+    "comparison": 191,
+    "status": "Self visual review complete; owner aesthetic approval pending",
+    "recommendation": "Round hands are the simplest match to the current character style; Mitten and Paddle remain selectable studies.",
+    "pass1": {
+      "evidence": [
+        "owner-shorter-pilot192.jpg",
+        "native-review-Masculine192.jpg",
+        "native-review-Feminine192.jpg",
+        "renders/*quality*.png"
+      ],
+      "findings_and_corrections": [
+        "Owner rejected first192 arm length and human-like hands. Shortened the trial arms, retaining a modest increase over191 and fuller lower volume.",
+        "Removed fingers, knuckles, separated digits and grip shapes. Built continuous Round, Mitten and Paddle palms.",
+        "First abstract palms were too similar at ordinary scale. Improved the silhouettes through a local wrist taper and greater palm width; no additional long appendage.",
+        "Reviewed saved/reopened native fronts, both profiles and rears of all14 tops; representative hand fronts, profiles, rear and underside. No additional sleeve penetration or broken wrist join observed."
+      ]
+    },
+    "pass2": {
+      "evidence": [
+        "audit192-wardrobe.jpg",
+        "audit192-combinations-Masculine.jpg",
+        "audit192-combinations-Feminine.jpg",
+        "audit192-hands-Masculine.jpg",
+        "audit192-hands-Feminine.jpg",
+        "audit192-openings.jpg",
+        "audit192-eyes.jpg",
+        "audit192-tones.jpg",
+        "audit192-waist-tops.jpg",
+        "waists192.jpg",
+        "pasties192.jpg",
+        "hands192.jpg",
+        "chat192.png"
+      ],
+      "findings_and_corrections": [
+        "Inspected exported assemblies: all14 tops from five angles,44 top/bottom front pairs,42 hand/top front pairs, and all three hand studies on both builds from five angles.",
+        "Close rear review caught lateral waistband flare on lowered female Shorts/Pants. Garment rays had reached attached arms. Replaced that support query with torso-only geometry and corrected only the waistband sides.",
+        "An initial smoothed waist correction left a small lateral residual. Direct torso fitting removed it; final16-direction clearance checks passed. Waist heights, lower geometry, crotch, hems and body remain unchanged by this correction.",
+        "Recaptured65 affected views after the final waist fix, including all8 female tops with both lowered bottoms from front, side and rear, plus pasties and bare waistband views. Rechecked native full-quality side/rear renders and the exported assemblies. No remaining obvious flare, gaps or adjacent intersections observed in those views.",
+        "Checked all four eye shapes on both builds, Almond at additional angles and all four skin tones, pasties through seven views/four tones, and32/48/64/128px portraits. Original/Round/Soft square unchanged; revised Almond retains the dark cartoon finish."
+      ]
+    },
+    "quality": "Representative saved/reopened Blender renders at1024px/40samples. Exported assemblies reviewed with the unchanged181 WebGL lighting; native and browser rendering are separate presentations.",
+    "technical_evidence": [
+      "technical192.json",
+      "preservation192.json",
+      "browser192.json",
+      "waist-update192.json",
+      "waist-final-proof192.log",
+      "gallery192.json"
+    ],
+    "protected": "Heads, hair, mouths/noses, central torso and bust,151 skin palette and181 lighting; Skirt/Bikini and male bottoms191 retained. No firmware/mobile/cloud/profile contract edits.",
+    "unresolved_visual_issues_in_reviewed_scope": [],
+    "owner_acceptance": "Pending; hand preference is an artistic decision. Technical checks and self-review are not owner approval."
+  }
+}
