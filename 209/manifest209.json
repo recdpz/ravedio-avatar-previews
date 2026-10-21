@@ -1,0 +1,166 @@
+{
+  "revision": 209,
+  "baseline": 208,
+  "owner_review": "Pending",
+  "scope": "Stubble stroke weight and skin-aware mouth/stubble contrast; no anatomy, feature placement or lighting change",
+  "base_anatomy": 202,
+  "feminine_transition_fairing": 202,
+  "body_geometry_frozen": 206,
+  "arms": 178,
+  "sleeve_fabric": 201,
+  "hoodie_cuffs": 202,
+  "palette": 151,
+  "lighting": 181,
+  "original_studio": 78,
+  "contextual_tops": {
+    "Feminine": [
+      [
+        "bandeau",
+        "Pasties"
+      ],
+      [
+        "triangle",
+        "Triangle top"
+      ],
+      [
+        "strappy",
+        "Strappy crop"
+      ],
+      [
+        "tshirt",
+        "T-shirt"
+      ],
+      [
+        "jersey",
+        "Jersey"
+      ],
+      [
+        "open",
+        "Button-up"
+      ],
+      [
+        "tank",
+        "Tank"
+      ],
+      [
+        "sweatshirt",
+        "Hoodie"
+      ]
+    ],
+    "Masculine": [
+      [
+        "shirtless",
+        "Shirtless"
+      ],
+      [
+        "tank",
+        "Tank"
+      ],
+      [
+        "tshirt",
+        "T-shirt"
+      ],
+      [
+        "jersey",
+        "Jersey"
+      ],
+      [
+        "buttonup",
+        "Button-up"
+      ],
+      [
+        "sweatshirt",
+        "Hoodie"
+      ]
+    ]
+  },
+  "contextual_bottoms": {
+    "Feminine": [
+      [
+        "shorts",
+        "Shorts"
+      ],
+      [
+        "skirt",
+        "Skirt"
+      ],
+      [
+        "bikini",
+        "Bikini bottoms"
+      ],
+      [
+        "pants",
+        "Pants"
+      ]
+    ],
+    "Masculine": [
+      [
+        "shorts",
+        "Shorts"
+      ],
+      [
+        "pants",
+        "Pants"
+      ]
+    ]
+  },
+  "files": {
+    "../204/Feminine-bandeau-top.glb": "f29aa7b0edacb30ed35c35244cfef31ca1502a9c00df19c2f5fff81bb642cff4",
+    "../208/Feminine-base.glb": "db69b7b5d11fae7b1085055150a45140456cebb5f15cec3f5f9af87db6c79397",
+    "../203/Feminine-bikini-bottom.glb": "13570441f261d76407fa90086934de7bc9ef4c32f8eb2e767107148d93224ad4",
+    "../203/Feminine-jersey-top.glb": "cb1f2e021467fbd350cedbbe75759a37ff8bff165c3197fde68830a1f3432b8d",
+    "../208/Feminine-open-top.glb": "cdb021a7bd0df3170b4c71c11d3b49880ff12182d57227ab1412e900f160f249",
+    "../203/Feminine-pants-bottom.glb": "4d58c63be2b617f0248f864323ce0b6efef24a63e445f0720525cadf16f5a802",
+    "../203/Feminine-shorts-bottom.glb": "056dab129053c179052a2630a90ea48617ba2080e3e3781a49d5d69e7c168e4d",
+    "../203/Feminine-skirt-bottom.glb": "1d26f35f625009e9ceb4311044da5389e39c8e05c5b70b037e5b9914b9bb9507",
+    "../208/Feminine-strappy-top.glb": "3fbcb7cbc9f4c2575b3cbc77dfb71b094887731f28bd3686cb9618614f0223f8",
+    "../206/Feminine-sweatshirt-top.glb": "702d50c9b56353de6110ee6d6859c8061c3fb38fa9656a3520e2de24b01f1509",
+    "../208/Feminine-tank-top.glb": "682df89a3e96fc596a5a4e4d54b089b77383d28886814cfd24b27cd54831799e",
+    "../203/Feminine-triangle-top.glb": "8d92b3bb8dee3992f1468d7c7030fcb49464ead901d90910871769a4aa406a23",
+    "../203/Feminine-tshirt-top.glb": "53c13f90a57301a7270f7c31a837fc3d522a83cf1b4b14bfdf3d6df5259b270f",
+    "../208/Masculine-buttonup-top.glb": "70016fbd39a7a01ba6500c27118e81d545ca242ebf01346a9503c49cb534af08",
+    "../203/Masculine-jersey-top.glb": "897220a480e72e9c695f8ef4b490c8ebd3665f1a2e5ecd7aa79c5b91ee763d3a",
+    "../203/Masculine-pants-bottom.glb": "21e93f5f59eab7c9e5d223b32623e89ff31685397ab04c6dbaa8ce834fa7e94c",
+    "../208/Masculine-shirtless-base.glb": "ffe539ac8ecee8709ec05fea1ec4b666efb85f4dfe01d0295cca026443ac7185",
+    "../203/Masculine-shorts-bottom.glb": "4adf9f1b46d780cf01771febfc9711676af8ccc9ba9d524ec4b85355b9e54d74",
+    "../206/Masculine-sweatshirt-top.glb": "8c4e3236a4fb35048ca114ce66c47bf04d5641ab1a36471b3e9637f18a794fec",
+    "../208/Masculine-tank-top.glb": "f1e92ace7e8af79ca1cc09f18175353b69202af0913195f66327c232cae41c37",
+    "../203/Masculine-tshirt-top.glb": "5ab4f6bcc9a98cc8fc19505db95ff8270945fa08bd99c1e427f959455c42ce2c",
+    "../208/Masculine-base.glb": "810e48794fd933bae48e3112375ab300a5cff59d094a2840edca907025733d20",
+    "../208/Feminine-hair.glb": "8a0bfb6cdfdd739f05f82c441ba19c8cbabbc5d8366d60dea38a81de4c8b936f",
+    "../208/Masculine-groom-goatee.glb": "1289cc6653bec2a6f6c76dca17081521747034cd527365c629d01c73098460d5",
+    "../208/Masculine-groom-long.glb": "cfda5568683611d0658c123fb4d363fb2aef2b542b44cb6fd16ea594f9ffa12f",
+    "../208/Masculine-groom-mustache.glb": "4d792ec9b5fb3f717698e1b3fa91a7e46e85c009c50e51a24290e81f997d17de",
+    "../208/Masculine-groom-patch.glb": "ad5128d43819b02adde950ade9ebd8dfeeb31e33096e2224313efa3c8aaf7c54",
+    "../208/Masculine-groom-short.glb": "5edddcc2030d212d80922eda11a961c16770997cb99ec6662d59e81c05f3e31b",
+    "../208/Masculine-hair.glb": "b57722cd34bc88291fda0ff38152567a90717fc6efb9159ff8eaa09a0069e48f",
+    "../208/runtime/Feminine-base.glb": "b40d0c0fc34f21ed64ec5753b3ed91ee4b5a235cc79703a8ef8d74e0705f52e5",
+    "../208/runtime/Feminine-hair.glb": "1dc9df194c40d25164010f21b4194a6466f1654365174198faee3c67fa738592",
+    "../208/runtime/Feminine-skirt-bottom.glb": "12b819bda5d48561962f8043163b330b5c9a3d81f20924e6c814421ba9b71ce4",
+    "../208/runtime/Feminine-triangle-top.glb": "2b3efee3e8e3929ea128858deb9334997ea8c019670717d2e207a72d9477cd80",
+    "../181/Feminine-eyes-original.glb": "c5e9d35a439db8b51f1e3eb3d3e92a9454187a2c0620128c86a0bdcabb6a09ac",
+    "../181/Feminine-eyes-soft.glb": "b544c3dbd53518e0701a79295ea35f9eb477ca24f74264717d131f48da260a75",
+    "../192/Feminine-eyes-almond.glb": "8925e70d880ccbbe223c94c9224d57083e38b8dcd184b3e1ea521f339538b37b",
+    "../181/Feminine-eyes-square.glb": "c4e273c02a10bfcf2a7bdf570541391472fddf06d74439136cbab2fcc5b56e36",
+    "../190/Feminine-nose-rounded.glb": "a54411add0e6b61078da6da4230477ee3a17fdcc54a7db549f861d5ac221d532",
+    "../181/Masculine-eyes-original.glb": "7678b41b81afe5a13571f2943d72412a06f27bb8956bbb19dfb482233730ec0d",
+    "../181/Masculine-eyes-soft.glb": "060de2aabf74764360e3e58b838aa2527c932dd87d086d3fa517204f52b8ee58",
+    "../192/Masculine-eyes-almond.glb": "d8a6a09736c1858a34384ac2e7bdac64501eec3f7bc5848b2d5569cad170a835",
+    "../181/Masculine-eyes-square.glb": "37ced59c9b295193dbce929ef34907edb6d00a625adf76c86b4ea89d68d10724",
+    "../190/Masculine-nose-rounded.glb": "3192df5ef183f87a36dc541c4591dd370f7ee1a273dee3150b09ae0c448425ec",
+    "Feminine-mouth-line.glb": "075fb169ebb51441febd7656008caf71dd4edbc5f3f49514f1cc4d874c69b114",
+    "Feminine-mouth-lips.glb": "e0be6b99a407046360f8fbb6698c26c4c5d98f3905ee83d0320bfa5eae033f59",
+    "Feminine-mouth-smile.glb": "45f65ed1c140e8347adaa5abe266b864dd856590ad417f632e85e72227bba469",
+    "Masculine-groom-stubble.glb": "9d44772d47c5dd7d503323d9562ec7938eb13df10902926e79c8b4b0a2f29853",
+    "Masculine-mouth-line.glb": "873b11550f5bbce567aac077b4fbefcbf04b3793813678f35e1a416a19447872",
+    "Masculine-mouth-lips.glb": "fb87ada731f786899a154c8d653ce64f0668eb990f979ce7309b169c0e000482",
+    "Masculine-mouth-smile.glb": "1d2c01fc31c45a68a0143101204f5e1d53b6927813daae0e8a679953213857eb",
+    "face-palette209.json": "c9b12b47255628a76293279e05030cbf09706bf183265872ce6698ebe8f66f69"
+  },
+  "hood_construction": 206,
+  "feminine_cloth_fit_frozen": 205,
+  "hair_component": 208,
+  "protected206_hoods": true,
+  "art_audit": 207,
+  "source": "refinement209/verification209.json"
+}
