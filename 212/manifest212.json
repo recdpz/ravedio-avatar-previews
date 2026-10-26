@@ -109,7 +109,7 @@
     "final-audit212.json": "147ed76c042eae2dd9126108cabf758b3c34bf913c91a1971f93b7982dbb041a",
     "glasses-context-proof.json": "f2be01b9a9375bdec1c1d600cead2b787ccbd39024e7a88eb1508fb5fbf88d9e",
     "handoff.md": "6f5da9fb4043c8c89c8d90ce7796efb20a9f85a4ccc381c1a9d4944897885f65",
-    "index.html": "357b29999cf32eae65a54bc58c1ad5b18e8ac4a0304aae7542226e80be7e9f3c",
+    "index.html": "03aed04cef4f6be66a6350dc2ef12155cb02cedd322435b1332494939c4e4f09",
     "Masculine-extra.glb": "5b1e18dde8c683327aeda1dfef7c5d9ba9af19934f2240b3da374add2aabbb0a",
     "Masculine-glasses.glb": "9ac77e662c2e57964ec7e1053623759bb305bc96987e2b8ac02be33a48690eec",
     "Masculine-headgear.glb": "78d0359e839d0eaa5a7ee4da417605e441923c7ae0d196a0d4a6efefa02e1c72",
@@ -153,7 +153,7 @@
     "small-portrait-check.png": "cd74dd0674d1ab7cd8f4b8d4bcfbe6021bd058d639d9b0d5df8b931f08d43a70",
     "sources212.json": "c382089563ded69f30a4ec9e7374c68cbbef01bd103d6b0a2bc3f8a9a2d7f629",
     "technical-summary.json": "eca813a55a76ecca74b46b531480fc6963cee1dbaab3140a2b1064a8a5ab2694",
-    "viewer212.js": "e4cf89a0b125e92a2359efa8eb1c02df44c485eb7716a320144a074ce8978eb2",
+    "viewer212.js": "05bc085f1cc75876271e572f90e11dc4f11bfbd17b60ccaae1aaec37a6bc4497",
     "visual-review.json": "80f863bfc0ad5f7de19315839d145bdd5252403d19816c23dd9ad71f36256038",
     "vendor/LICENSE": "bfe119ea4fd413f5f7ca3fcd63adb0c4a073ed39daa2fe7d3e6b769e21272601",
     "vendor/provenance.json": "74338b6f0ce030ec180171e54353abbf9e9c653623eb4c7016cbc7614f852281",
@@ -161,5 +161,6 @@
     "vendor/three.module.js": "c8211c69345d2e9949dc7a8ac969380497aa0600a5a8ac6a459c8cd02dd9cb8a",
     "vendor/loaders/GLTFLoader.js": "67ac5551fdafa6e349bd80c8f8e5e39c136d6b2fb1ad647db9abb21dc86f9e4a",
     "vendor/utils/BufferGeometryUtils.js": "fda7e946b8e0b5ab39b779206589e7a1079a22eb24efb89d7223e03fdfb1f751"
-  }
+  },
+  "compatibility_fix214": "Viewer reads actual Fade in COLOR_1 when COLOR_0 is the opaque dummy. No source geometry, GLB, material artwork or reference render changed."
 }

@@ -1,0 +1,290 @@
+{
+  "revision": 214,
+  "baseline": 213,
+  "taper_baseline": 212,
+  "state": "Self-reviewed candidate; owner acceptance pending",
+  "preview": "https://recdpz.github.io/ravedio-avatar-previews/214/",
+  "scope": [
+    "Restore actual212 taper fade in source exports/live rendering; refine long-bank ends and projecting back crown",
+    "Raise ponytail front and temples; soften a narrow slicked-root boundary",
+    "Four parameterized ponytails, with separate tight gathered roots/tie",
+    "Tilted contoured cap with curved visor, adjustable brim/crown and original RVD/signal graphics",
+    "Rebuild triangle cups/back band on current support; continuously smooth T-shirt/button-up/hoodie cloth"
+  ],
+  "parameters": {
+    "ponytail": {
+      "anchors": [
+        [
+          -0.00016539532225579023,
+          0.34265920519828796,
+          2.165325164794922
+        ],
+        [
+          -0.0001444826921215281,
+          0.29892683029174805,
+          2.2191574573516846
+        ]
+      ],
+      "presets": {
+        "relaxed": {
+          "length": 0.61,
+          "fullness": 0.205,
+          "arc": 0.16,
+          "bend": 0.07,
+          "side": 0.28,
+          "height": 0.35
+        },
+        "high": {
+          "length": 0.65,
+          "fullness": 0.22,
+          "arc": 0.2,
+          "bend": 0.06,
+          "side": 0.12,
+          "height": 1.0
+        },
+        "compact": {
+          "length": 0.46,
+          "fullness": 0.18,
+          "arc": 0.12,
+          "bend": 0.045,
+          "side": 0.2,
+          "height": 0.2
+        },
+        "full": {
+          "length": 0.72,
+          "fullness": 0.275,
+          "arc": 0.18,
+          "bend": 0.09,
+          "side": 0.38,
+          "height": 0.65
+        }
+      },
+      "default": {
+        "length": 0.61,
+        "fullness": 0.205,
+        "arc": 0.16,
+        "bend": 0.07,
+        "side": 0.28,
+        "height": 0.35
+      },
+      "hairline": "Raised front and temple/ear boundary; narrow vertex-alpha edge and backward directional relief",
+      "root_morph": "TieHeight"
+    },
+    "cap": {
+      "default": {
+        "tilt": 8.0,
+        "curve": 0.095,
+        "length": 0.285,
+        "crown": 0.0,
+        "turn": 0.0
+      },
+      "profile": [
+        [
+          8.637400904645456e-17,
+          -0.39774080962062414,
+          1.0
+        ],
+        [
+          0.015388853940551221,
+          -0.3976356524643097,
+          0.999371001586054
+        ],
+        [
+          0.030784041411491176,
+          -0.39727270562710804,
+          0.9974828985003076
+        ],
+        [
+          0.046177359215785536,
+          -0.3965398382141343,
+          0.9943323530652942
+        ],
+        [
+          0.06154370069997946,
+          -0.39532619735461527,
+          0.989913754882781
+        ],
+        [
+          0.07685084720949156,
+          -0.39357353303013737,
+          0.984219147828527
+        ],
+        [
+          0.0920709880957641,
+          -0.3912834703383465,
+          0.9772381245434946
+        ],
+        [
+          0.1071850656234309,
+          -0.38849111515506524,
+          0.9689576848809642
+        ],
+        [
+          0.12217993412947664,
+          -0.3852347333814997,
+          0.9593620533896997
+        ],
+        [
+          0.1370437987472486,
+          -0.3815407865988271,
+          0.9484324492082982
+        ],
+        [
+          0.15176388145544362,
+          -0.37742392554171744,
+          0.9361467995783009
+        ],
+        [
+          0.1663263927719489,
+          -0.3728924862476705,
+          0.9224793853630571
+        ],
+        [
+          0.18071723959309863,
+          -0.36795279833754896,
+          0.9074004032142381
+        ],
+        [
+          0.19492250916344125,
+          -0.3626110258073616,
+          0.8908754239628461
+        ],
+        [
+          0.20892864625819796,
+          -0.3568736376522281,
+          0.8728647198389633
+        ],
+        [
+          0.22272249975127106,
+          -0.3507474585079537,
+          0.8533224233532474
+        ],
+        [
+          0.23629133840737512,
+          -0.3442396446432942,
+          0.8321954667228523
+        ],
+        [
+          0.24962286002863054,
+          -0.33735765242751625,
+          0.8094222304068883
+        ],
+        [
+          0.2627051966587928,
+          -0.3301092062158558,
+          0.784930799074828
+        ],
+        [
+          0.27552691593941675,
+          -0.3225022663071325,
+          0.7586366772198124
+        ],
+        [
+          0.2880770184257202,
+          -0.3145449971320423,
+          0.7304397443930962
+        ],
+        [
+          0.300344925678574,
+          -0.30624573065871863,
+          0.700220113351644
+        ],
+        [
+          0.31232040367092234,
+          -0.2976128733486064,
+          0.6678323591804415
+        ],
+        [
+          0.323993120571284,
+          -0.288654506198369,
+          0.6330972471844112
+        ],
+        [
+          0.33535095488803784,
+          -0.2793770584281642,
+          0.5957894650817374
+        ],
+        [
+          0.34637587003829323,
+          -0.2697825441257922,
+          0.5556186596425432
+        ],
+        [
+          0.3570381284434349,
+          -0.25986571345596904,
+          0.5121985728316311
+        ],
+        [
+          0.3672948648602899,
+          -0.2496157184799067,
+          0.46499338624712816
+        ],
+        [
+          0.3771028576655403,
+          -0.2390271550102988,
+          0.4132159080708423
+        ],
+        [
+          0.386448242065635,
+          -0.22811787009665602,
+          0.35560914289860013
+        ],
+        [
+          0.39537646008129523,
+          -0.21693960138615026,
+          0.2898809577325793
+        ],
+        [
+          0.40399166408875775,
+          -0.2055659762416701,
+          0.21065205417787825
+        ],
+        [
+          0.41240943004917346,
+          -0.19405881782219656,
+          0.08
+        ]
+      ]
+    },
+    "review_only": true,
+    "profile_bits_assigned": false,
+    "storage": "Device-local choices plus downloadable JSON; not sent to server",
+    "native_reproduction": "reproduce214.py + parameters214.py: independent packed scenes; --choices JSON or --preset relaxed/high/compact/full"
+  },
+  "compatibility": {
+    "212": "Viewer now reads real Fade from COLOR_1 instead of opaque dummy COLOR_0. Original212 scenes, GLBs and reference renders are preserved. Its index cache key and manifest changed.",
+    "214": "Authored named RGBA fields are baked into standard COLOR_0, including the secondary hairline material; no custom fade shader required.",
+    "alpha": "BLEND coverage for hairline/fade/tips. This is opacity, not physical transmission.213 glass/lens components remain separate and unchanged.",
+    "cap_fit": "Separate covered masculine taper; ponytail cap has a tall narrow rear port for the range of tie heights. No glasses/head/face displacement.",
+    "controls": "CPU parameter construction is a review tool, not a production native renderer implementation."
+  },
+  "protected": [
+    "Both bodies, head/face/eyes/mouth and209 stubble",
+    "178 floating arms and independent sleeves/cuffs",
+    "Bottoms,151 skin palette,181 fixed lighting",
+    "Original humanoid Studio and product/protocol repositories"
+  ],
+  "review": {
+    "passes": "Construction review and fresh saved/exported review; affected checks reopened after changes",
+    "evidence": [
+      "review1/",
+      "review2/",
+      "browser-captures/",
+      "audit214.json",
+      "browser214.json",
+      "parameter-reference214.json"
+    ],
+    "browser_captures": 103,
+    "native_cases": 10,
+    "actual_native_apps_or_physical_phones": false,
+    "limits": [
+      "Owner aesthetic approval remains pending",
+      "No full catalogue cross-product or native performance qualification",
+      "Standard glTF/Three materials do not reproduce the entire Cycles/AgX lighting pipeline"
+    ]
+  },
+  "coordinates": "Shared Blender Z-up/front -Y; native glTF conversion to Y-up/front +Z. Components stay in shared world coordinates.",
+  "lighting": "Fixed181 source studio/color management, preserved in saved scenes; same fixed browser lighting approximation, no lighting choice.",
+  "source_manifest": "sources214.json",
+  "source_folder": "E:\\Ravedio-Avatar\\refinement214"
+}

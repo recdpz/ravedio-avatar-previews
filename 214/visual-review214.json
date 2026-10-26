@@ -1,0 +1,28 @@
+{
+  "first_pass_findings": [
+    "212 opaque dummy color channel",
+    "Existing triangle topology was not a shirt grid",
+    "Closed-top derivative jump across cups",
+    "Buried cap graphics and covered-hair intersection",
+    "White exported edge material despite colored native shader"
+  ],
+  "corrections": [
+    "Standard RGBA bake by exact source vertex, plus legacy212 viewer repair",
+    "Clean actual-support cup patches/continuous back band",
+    "Continuous cloth profile, unchanged body",
+    "Seated graphics, fitted covered hair and tall ponytail rear opening",
+    "Final actual-browser review after standard COLOR_0 bake"
+  ],
+  "second_pass": {
+    "source_saved_reopened": true,
+    "cases": 10,
+    "browser_captures": 103,
+    "all_four_tails_distinct": true,
+    "slider_limits": true,
+    "reset_without_accumulation": true,
+    "cap_graphics_nonempty": true,
+    "choices_export_and_persistence": true,
+    "protected_exact": true
+  },
+  "owner_accepted": false
+}
