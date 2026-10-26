@@ -32,20 +32,34 @@ function sync214(){
 }
 const sm214=x=>{x=Math.max(0,Math.min(1,x));return x*x*(3-2*x)};
 const mix214=(a,b,t)=>a.map((x,i)=>x*(1-t)+b[i]*t),add214=(a,b)=>a.map((x,i)=>x+b[i]),scale214=(a,t)=>a.map(x=>x*t),dot214=(a,b)=>a.reduce((r,x,i)=>r+x*b[i],0),norm214=a=>scale214(a,1/Math.max(1e-10,Math.hypot(...a))),cross214=(a,b)=>[a[1]*b[2]-a[2]*b[1],a[2]*b[0]-a[0]*b[2],a[0]*b[1]-a[1]*b[0]];
-function points214(p,j){
+let pointPose214='',pointCache214=new Map();
+function rawPoints214(p,j){
  const g=mix214(CONFIG214.anchors[0],CONFIG214.anchors[1],p.height),axis=norm214(mix214([0,.78,.63],[0,.68,.74],p.height)),cross=[0,-axis[2],axis[1]],phase=2*Math.PI*j/7,offset=add214([Math.cos(phase)*p.fullness*.19,0,0],scale214(cross,Math.sin(phase)*p.fullness*.15));const L=p.length,A=p.arc,B=p.bend,S=p.side;
  const out=[add214(g,scale214(axis,-.010)),add214(g,scale214(axis,.062)),add214(g,[S*.18,A*.90,.065]),add214(g,[S*.70,A+B,-L*.25]),add214(g,[S,A*.66-B*.15,-L*.58]),add214(g,[S*.98,A*.55+B*.25,-L*.82]),add214(g,[S*.86,A*.70+B*.85,-L])];
  return out.map((x,i)=>{const o=add214(x,scale214(offset,[.15,.36,.90,1,.92,.75,.37][i]));if(i===6)o[2]+=.018*Math.sin(j*1.5);return o});
 }
-function hermite214(points,t){
- t=Math.max(0,Math.min(1,t));const seg=Math.min(t*6,6-1e-8),j=Math.floor(seg),u=seg-j;const tangent=i=>i===0?points[1].map((x,k)=>x-points[0][k]):i===6?points[6].map((x,k)=>x-points[5][k]):scale214(points[i+1].map((x,k)=>x-points[i-1][k]),.5);const a=tangent(j),b=tangent(j+1);
- return points[j].map((x,k)=>(2*u**3-3*u*u+1)*x+(u**3-2*u*u+u)*a[k]+(-2*u**3+3*u*u)*points[j+1][k]+(u**3-u*u)*b[k]);
+function points214(p,j){
+ const key=Object.values(p).join(':');if(key===pointPose214&&pointCache214.has(j))return pointCache214.get(j);pointPose214=key;pointCache214.clear();const controls=Array.from({length:7},(_,k)=>rawPoints214(p,k)),paths=controls.map(pts=>Array.from({length:73},(_,i)=>rawHermite214(pts,i/72)));let amount=0;
+ for(let iteration=0;iteration<4;iteration++){
+  let needed=0;for(const path of paths){const shifted=path.map((v,i)=>[v[0],v[1]+amount*sm214(i/72/.32),v[2]]);
+   for(let i=11;i<=72;i++){const t=i/72,axis=norm214(shifted[Math.min(72,i+1)].map((x,k)=>x-shifted[Math.max(0,i-1)][k])),side=norm214([1,0,0].map((x,k)=>x-axis[k]*axis[0])),normal=cross214(axis,side),F=p.fullness,env=(.25+.75*sm214(t/.28))*(1-.85*sm214((t-.70)/.30))*Math.sqrt(Math.max(0,1-sm214((t-.94)/.06)**2));
+    for(let phase=0;phase<24;phase++){const angle=phase*2*Math.PI/24,v=add214(add214(shifted[i],scale214(side,F*.65*.5*env*Math.sin(angle))),scale214(normal,F*.48*.5*env*Math.cos(angle))),inside=1-(v[0]/.490)**2-((v[2]-1.88)/.465)**2;if(inside>0)needed=Math.max(needed,Math.max(0,.015+.420*Math.sqrt(inside)+.004-v[1])/sm214(t/.32));}
+   }
+  }amount+=needed;if(needed<1e-6)break;
+ }
+ controls.forEach((pts,k)=>{pts.outward214=amount;pointCache214.set(k,pts)});return pointCache214.get(j);
 }
+function rawHermite214(points,t){
+ t=Math.max(0,Math.min(1,t));const seg=Math.min(t*6,6-1e-8),j=Math.floor(seg),u=seg-j;const tangent=i=>i===0?points[1].map((x,k)=>x-points[0][k]):i===6?points[6].map((x,k)=>x-points[5][k]):scale214(points[i+1].map((x,k)=>x-points[i-1][k]),.5);const a=tangent(j),b=tangent(j+1);
+ const point=points[j].map((x,k)=>(2*u**3-3*u*u+1)*x+(u**3-2*u*u+u)*a[k]+(-2*u**3+3*u*u)*points[j+1][k]+(u**3-u*u)*b[k]);
+ return point;
+}
+function hermite214(points,t,p){const point=rawHermite214(points,t);point[1]+=(points.outward214||0)*sm214(t/.32);return point;}
 function tailVertex214(p,j,t,phase){
- const pts=points214(p,j),center=hermite214(pts,t);if(t<.00001||t>.99999)return center;
- const tangent=norm214(hermite214(pts,Math.min(1,t+1/72)).map((x,k)=>x-hermite214(pts,Math.max(0,t-1/72))[k])),side=norm214([1,0,0].map((x,k)=>x-tangent[k]*tangent[0])),normal=cross214(tangent,side),sx=Math.sin(phase),out=Math.cos(phase);
+ const pts=points214(p,j),center=hermite214(pts,t,p);if(t<.00001||t>.99999)return center;
+ const tangent=norm214(hermite214(pts,Math.min(1,t+1/72),p).map((x,k)=>x-hermite214(pts,Math.max(0,t-1/72),p)[k])),side=norm214([1,0,0].map((x,k)=>x-tangent[k]*tangent[0])),normal=cross214(tangent,side),sx=Math.sin(phase),out=Math.cos(phase);
  const groove=.00085*[-.52,.05,.59].reduce((r,g)=>r+Math.exp(-(((sx-g)/.12)**2)),0)*Math.max(out,0)**2;
- let env=(.25+.75*sm214(t/.16))*(1-.85*sm214((t-.70)/.30));env*=Math.sqrt(Math.max(0,1-sm214((t-.94)/.06)**2));
+ let env=(.25+.75*sm214(t/.28))*(1-.85*sm214((t-.70)/.30));env*=Math.sqrt(Math.max(0,1-sm214((t-.94)/.06)**2));
  return add214(add214(center,scale214(side,p.fullness*.65*.5*sx*env)),scale214(normal,(p.fullness*.48*.5*out-groove)*env));
 }
 function capVertex214(point,p){
@@ -123,7 +137,7 @@ function display(){
  if(live?.root){live.root.traverse(o=>{if(o.isMesh)for(const mat of(Array.isArray(o.material)?o.material:[o.material])){if(mat.name.startsWith('Skin'))mat.color.setRGB(...skins[tone]);if(mat.name.startsWith('Chest / shade191')){const f=Number(mat.name.split(' ').pop());mat.color.setRGB(...skins[tone].map(x=>x*f));}if(mat.name.startsWith('Face / ink209'))mat.color.setRGB(...faceColors.ink[tone]);if(mat.name.startsWith('Face / lip209'))mat.color.setRGB(...faceColors.lip[tone]);if(mat.name.startsWith('Groom / stubble209'))mat.color.setRGB(...faceColors.stubble[tone]);if(mat.name.startsWith('Bottom / fabric'))mat.color.set(palette[color][1]);if(mat.name.startsWith('Bottom / accent'))mat.color.set(palette[color][1]).lerp(new THREE.Color(.72,.75,.82),.50);if(mat.name.startsWith('Bottom / accent')&&[1,2,5,7].includes(color))mat.color.set(palette[color][1]).multiplyScalar(.32);if(mat.name.startsWith('Bottom / stitch'))mat.color.set(palette[color][1]).multiplyScalar(.85);mat.envMapIntensity=.7;}});live.hairRoot.visible=$('showHair').checked;live.topRoot.visible=showTop;live.topRoot.traverse(o=>{if(/^Sleeve/i.test(o.name))o.visible=showArms;});live.baseRoot.traverse(o=>{if(/soft.oval.head/i.test(o.name))o.visible=true;if(/Skin.*swept.*arm/i.test(o.name))o.visible=showArms;if(/Skin.*leg.*blob/.test(o.name))o.visible=!(live.pick?.bottom==='pants'||(live.pick?.build==='Feminine'&&live.pick?.bottom==='bikini'));});topColor();apply214();draw();}
  $('hint').textContent=live?.root?'3D - '+build+' - '+label(sets[build],top)+' / '+label(bottoms[build],bottom)+' - '+label(grooms,groom):'Rendered top reference - '+build+' / '+label(sets[build],top);
 }
-function component(path){if(!path)return Promise.resolve(new THREE.Group());if(!cache.has(path))cache.set(path,new Promise((resolve,reject)=>new THREE.GLTFLoader().load(path+'.glb',g=>resolve(g.scene),undefined,reject)).catch(e=>{cache.delete(path);throw e;}));return cache.get(path);}
+function component(path){if(!path)return Promise.resolve(new THREE.Group());if(!cache.has(path))cache.set(path,new Promise((resolve,reject)=>new THREE.GLTFLoader().load(path+'.glb'+(!path.startsWith('../')?'?guide=2':''),g=>resolve(g.scene),undefined,reject)).catch(e=>{cache.delete(path);throw e;}));return cache.get(path);}
 function clone(part){const c=part.clone(true);c.traverse(o=>{if(!o.isMesh)return;o.material=Array.isArray(o.material)?o.material.map(m=>m.clone()):o.material.clone();if(['tail','cap'].includes(o.userData.param214)){o.geometry=o.geometry.clone();o.userData.ownsGeometry214=true;}const ms=Array.isArray(o.material)?o.material:[o.material];if(ms.some(m=>/Hair.*fade/i.test(m.name))){const actual=o.geometry.getAttribute('color_1');if(actual){o.geometry=o.geometry.clone();o.geometry.setAttribute('color',actual);o.userData.ownsGeometry214=true;}for(const m of ms){m.vertexColors=true;m.transparent=true;m.depthWrite=false;m.needsUpdate=true;}}});return c;}
 function release(root){if(!root)return;root.traverse(o=>{if(o.isMesh){if(o.userData.ownsGeometry214)o.geometry.dispose();for(const mat of(Array.isArray(o.material)?o.material:[o.material]))mat.dispose();}});}
 function draw(){if(!live)return;const {r,s,c}=live,w=hero.clientWidth,h=hero.clientHeight;r.setSize(w,h,false);const span=(angle==='hood'?.92:mode==='face'?1.50:mode==='outfit'?1.25:2.70)/live.zoom,y=angle==='hood'?1.31:mode==='face'?1.88:mode==='outfit'?1.12:1.28;c.left=-span*w/h/2;c.right=span*w/h/2;c.top=span/2;c.bottom=-span/2;c.updateProjectionMatrix();c.position.set(6*Math.sin(live.yaw)*Math.cos(live.pitch),y+6*Math.sin(live.pitch),6*Math.cos(live.yaw)*Math.cos(live.pitch));c.lookAt(0,y,0);r.render(s,c);}

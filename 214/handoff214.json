@@ -249,7 +249,8 @@
     "review_only": true,
     "profile_bits_assigned": false,
     "storage": "Device-local choices plus downloadable JSON; not sent to server",
-    "native_reproduction": "reproduce214.py + parameters214.py: independent packed scenes; --choices JSON or --preset relaxed/high/compact/full"
+    "native_reproduction": "reproduce214.py + parameters214.py: independent packed scenes; --choices JSON or --preset relaxed/high/compact/full",
+    "head_clearance": "A shared smooth departure guide checks the bundle envelope against the head; width develops after the tight root. It does not shrinkwrap free lengths. Blender/portable evaluator and live controls share this construction."
   },
   "compatibility": {
     "212": "Viewer now reads real Fade from COLOR_1 instead of opaque dummy COLOR_0. Original212 scenes, GLBs and reference renders are preserved. Its index cache key and manifest changed.",
@@ -281,7 +282,9 @@
       "Owner aesthetic approval remains pending",
       "No full catalogue cross-product or native performance qualification",
       "Standard glTF/Three materials do not reproduce the entire Cycles/AgX lighting pipeline"
-    ]
+    ],
+    "head_clearance_cases": 101,
+    "head_clearance_result": "No interior samples in the four presets, tight-center case and96 slider-bound combinations; explicit fitted-root zone excluded."
   },
   "coordinates": "Shared Blender Z-up/front -Y; native glTF conversion to Y-up/front +Z. Components stay in shared world coordinates.",
   "lighting": "Fixed181 source studio/color management, preserved in saved scenes; same fixed browser lighting approximation, no lighting choice.",
