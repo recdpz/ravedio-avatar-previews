@@ -1,0 +1,50 @@
+{
+  "revision": 213,
+  "state": "Final packed scenes and exports self-reviewed; local browser checks passed; owner acceptance pending",
+  "baseline": 212,
+  "accepted_reference": "209 scoped face/stubble acceptance; candidate art is not blanket owner approval",
+  "scope": [
+    "Rebuild masculine short taper on actual current scalp with styled top and a genuine temple/nape length-density transition",
+    "Shorten glasses temples for both builds without moving lenses/frame",
+    "Raise feminine front hairline and gathered ponytail anchor; tight scalp-seated tie/bundle, rounded backward-S free tail",
+    "Slightly clearer paired middle chest contour without extra projection",
+    "Independent feminine garment ease/drape; smooth tank/crop sides, shirt back and jersey/hoodie underside",
+    "Selectable top colors for both builds, retaining jersey artwork and hardware"
+  ],
+  "verification": "final-audit213.json",
+  "components": "components/",
+  "scenes": "scenes/",
+  "build": "build213.py; model213.py. Each load starts from a frozen212/209 source; never replay fields on213 output.",
+  "color_recipe": "top-colors213.json; colors/*.png. Default GLBs retain authored colors. Jersey atlas includes original vector art directly on cloth, with matching palette variants; no overlapping decal meshes.",
+  "color_rules": "Change only top fabric and coordinated hood lining/cuffs; preserve hardware, cords, skin and face. Light jerseys use contrasting original vector artwork. These review choices do not assign new profile bytes.",
+  "coordinates": "Shared Blender Z-up/front -Y; standard glTF Y-up/front +Z conversion. Never recenter components independently.",
+  "lighting": "Same fixed181 source studio/AgX settings; browser fixed lighting remains a separate approximation. No lighting choice.",
+  "limits": [
+    "Owner art approval pending",
+    "Native app and physical-phone rendering/performance not tested in this art correction",
+    "Standard glTF does not reproduce the complete Cycles/AgX/light transport pipeline",
+    "Future headbands/pashminas and catalogue cross product remain outside this reviewed slice"
+  ],
+  "protected": [
+    "Heads, face/eyes/mouth and209 stubble",
+    "Masculine anatomy and clothes",
+    "178 arms and independent sleeves/cuffs",
+    "Bottoms, skin palette and lighting",
+    "Original Studio and product/protocol/profile-byte source unchanged"
+  ],
+  "viewer_checks": "browser213.json (109 captures: catalogue, four tones, eight fabric colors for both builds, PNG export and selection persistence); final-browser213.json records fresh corrected exports",
+  "visual_review": "visual-review213.json",
+  "source_cases": 17,
+  "reference_examples": [
+    "Prior real ponytail/tendril construction photographs in refinement212/reference-pony.png and reference-tendrils.png",
+    "Refinement153 earlier cartoon style serves as design history only; new213 taper is constructed on current support"
+  ],
+  "browser_checks": {
+    "full_captures": 109,
+    "fresh_final_captures": 14,
+    "javascript_errors": 0,
+    "http_errors": 0,
+    "mobile_layout": "390x844 desktop emulation; not a physical phone",
+    "publication": "Verified separately in publication213.json and public-browser213.json"
+  }
+}

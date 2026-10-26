@@ -1,0 +1,49 @@
+{
+  "revision": 213,
+  "review": "self; owner acceptance pending",
+  "pass1": {
+    "coverage": "Front, three-quarter, both profiles, rear and top for hair/accessories; feminine tops with arms/sleeves hidden",
+    "findings": [
+      "Detached capped taper crown ends and an unrelated dark forehead band",
+      "Over-strong coarse short-hair marks",
+      "Jersey print meshes retained old curvature and intersected thick cloth",
+      "Old hem pinning left a lower front ridge"
+    ],
+    "corrections": [
+      "Rebuilt continuous rooted sculpted banks with temple/nape taper on the actual current head, shortened part and fair crown join",
+      "Shorter finer texture marks with actual graded side/nape volume",
+      "Put original vector prints directly into the jersey cloth UV atlas",
+      "Independent clean garment ease/drape outside the same body, including a smooth fitted lower hem"
+    ]
+  },
+  "pass2": {
+    "coverage": "Fresh reopened final scenes; all relevant angles plus hidden contacts, cap/glasses contexts, four skin tones and32/48/64/128px portraits",
+    "followup_correction": "Detected mirrored back wordmark in the new UV atlas; reversed only the back artwork mapping and reopened the jersey views/exports. No body/face changes during this correction.",
+    "evidence": "review2/ and final-audit213.json",
+    "additional_correction": "Restored fullness of free ponytail lengths after tightening the gathered root; regenerated all three ponytail contexts and their final views. The gathered bundle/tie stays small and scalp seated."
+  },
+  "frozen": [
+    "Faces/head placement and209 stubble",
+    "Masculine anatomy/clothes",
+    "178 arms, independent sleeve wraps and cuffs",
+    "Bottoms,151 palette and181 lighting"
+  ],
+  "limits": [
+    "Visual self review does not replace owner acceptance",
+    "Browser shading differs from Cycles; not native-phone proof",
+    "No full catalogue cross-product certification"
+  ],
+  "final_browser": {
+    "full_captures": 109,
+    "fresh_final_captures": 14,
+    "errors": 0,
+    "http_errors": 0,
+    "visually_reviewed": [
+      "Ponytail front and profile",
+      "Cap/glasses/ponytail/hoodie side contact",
+      "Taper profile",
+      "Jersey back wordmark and white fabric",
+      "Four-tone small portrait sheet"
+    ]
+  }
+}
