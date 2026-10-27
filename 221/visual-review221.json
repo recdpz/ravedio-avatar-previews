@@ -1,0 +1,73 @@
+{
+  "revision": 221,
+  "owner_approval": false,
+  "first_pass": [
+    "Reduced lower side curl toward torso instead of preserving the rejected deep C return",
+    "Length now samples a fixed arc-length path, with fixed physical width, wave spacing and terminal taper",
+    "Added scalp-seated Tie side offset; it moves gathered roots, tie and tail together",
+    "First source review caught immutable shape-input keys summing into scalp: set them explicitly to zero and re-exported",
+    "Viewer clones root/tie geometry before editing; repeated selections restore identical geometry"
+  ],
+  "second_pass": [
+    "Saved/reopened final bare/cap scenes and actual GLB browser",
+    "Front,three-quarter,both profiles,rear,top; short/long and both side offsets",
+    "Four skin tones and32/48/64/128/512px source portraits",
+    "Repeated cap/uncovered and hairstyle/build switches; fixed cap aperture and glasses retained",
+    "Native/browser tail, scalp and front math agree; saved choices, persistence and PNG work"
+  ],
+  "verification": {
+    "base": {
+      "saved_scene_sha256": "825967ffdfe5e6f4619b2d39ccdfd12bdc8bd5d52e8e246c85673875320d1493",
+      "frozen_sources_unchanged": true,
+      "protected_exact": 25,
+      "all_nonhair_exact": true,
+      "front_locks_exact": true,
+      "fixed_studio_exact": true,
+      "native_parameter_error": 1.210576058124894e-07,
+      "tail_boundary_cases": 36,
+      "root_fit_cases": 35,
+      "owner_accepted": false
+    },
+    "length_prefix_error": 1.4988010832439613e-15,
+    "flow": {
+      "relaxed": {
+        "inward_return": 0.0
+      },
+      "high": {
+        "inward_return": 0.0
+      },
+      "compact": {
+        "inward_return": 0.0
+      },
+      "full": {
+        "inward_return": 0.0002982768925180457
+      },
+      "left": {
+        "inward_return": 0.0
+      },
+      "right": {
+        "inward_return": 0.0
+      },
+      "covered": {
+        "inward_return": 0.0016104428509311486
+      }
+    },
+    "root_states": 35,
+    "cap_cases": 36,
+    "browser": {
+      "side_offset_moves_scalp_and_tie": true,
+      "length_preserves_gather_geometry": true,
+      "cap_preserves_requested_offset_and_cache_inputs": true,
+      "native_browser_math": {
+        "tail": 6.029809849850675e-14,
+        "gather": 4.443059973708341e-16,
+        "front": 5.600302130988762e-15
+      },
+      "choice_download": true,
+      "persistence": true,
+      "png_download": true
+    }
+  },
+  "root_review_scope": "Visible scalp follows220 sampled surface gate; final seated gather transition beneath tie remains an intentional embedded attachment zone.",
+  "native_phone_qualification": false
+}
