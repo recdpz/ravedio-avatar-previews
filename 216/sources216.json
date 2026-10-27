@@ -1,0 +1,31 @@
+{
+  "revision": 216,
+  "baseline": 215,
+  "sources": {
+    "E:\\Ravedio-Avatar\\refinement215\\scenes\\Feminine-ponytail.blend": "0df1875a754075ee526ed37c40ed97f6069ab976dd808693e37331e201d04e84",
+    "E:\\Ravedio-Avatar\\refinement215\\scenes\\Feminine-shorts.blend": "fea90634a07554bd7a596c8030f2ea7450cefe1b960de81df4e26025f5cff167",
+    "E:\\Ravedio-Avatar\\refinement215\\scenes\\Feminine-skirt.blend": "e49faf8c355c4703c4f3b7aef5d9e9def1a51f11bfbb4b7d2eaab80dcbc00863",
+    "E:\\Ravedio-Avatar\\refinement215\\scenes\\Feminine-pants.blend": "6e56fb03079084a9cd7591e43f3741a32d0b1fd1c01e8f2a542adea3af5288b1",
+    "E:\\Ravedio-Avatar\\refinement203\\Feminine-bottom-shorts.blend": "512e10820dabd4e9fdf9d2cd13d9ee7c15b051a53f87664186f7a35a7bf60ff1",
+    "E:\\Ravedio-Avatar\\refinement203\\Feminine-bottom-skirt.blend": "e8538b85ed53ee17b5117af28b8a082ab1a067e1ade4293bf56fad03d0b9e150",
+    "E:\\Ravedio-Avatar\\refinement203\\Feminine-bottom-pants.blend": "9b22df41bbfd9d55ec46d43866371f17bd42ed87b4427f18ea4920a050ae7f15"
+  },
+  "scope": [
+    "Simple flush feminine shorts/skirt/pants waist edges; no returns",
+    "Ponytail continuous flow and differentiated locks",
+    "Front lock controls",
+    "Rooted pulled-back hairline detail"
+  ],
+  "protected": [
+    "Bodies/heads/faces/arms",
+    "Other garments/accessories",
+    "151 palette and181 studio",
+    "Product/protocol repositories"
+  ],
+  "recipes": {
+    "model216.py": "e6fc040ab612d765882b0a2cb4fc99550bf6cdeb18a8a0436331e45903e519f3",
+    "parameters216.py": "dd48e8d100d50f278797bd00dc44888c574e303b35e685763db05cd924601fa1",
+    "flow216.js": "59977cf1af1038040eb1adb8b8ae4dd2a88de95b6b4c1240881690c63005d9b5",
+    "site216.py": "26a0d3c0316bde66e1dca76a79528eb8ed231531a68a693b5b465dabe70b8621"
+  }
+}
