@@ -1,0 +1,28 @@
+{
+  "revision": 218,
+  "baseline": 217,
+  "sources": {
+    "E:\\Ravedio-Avatar\\refinement217\\scenes\\Feminine-ponytail.blend": "d587794f493a6a9b90fc60e26c5a03d2ebc525839382df64d6d708d87f56f4e6"
+  },
+  "scope": [
+    "Individual flowing locks within retained C/S guide",
+    "Root volume and directional slicked-back transition without blur",
+    "Tail review controls retained and optional lock-flow amount"
+  ],
+  "protected": [
+    "All non-hair geometry/materials/camera/lighting",
+    "Existing independent front locks",
+    "Bodies, waists, clothes, faces, arms, palette and other accessories"
+  ],
+  "recipes": {
+    "model218.py": "09ddabc5c397ee9e3c5c2fef4a3939e3483e6d75c80cc53723442f7e0ca6524b",
+    "parameters218.py": "5e9000c748cb22f0e448a47467d53e766cfd365f20e534bd596306268e38645f",
+    "flow218.js": "ce511a0f406a2cce2f981817229bc631a9f0ccf44def60e6fc8d30eea111752b",
+    "site218.py": "28cd200e74995e8449daffe13c44b07409e9875b7f90df561a0126a943224b85"
+  },
+  "construction_reference": {
+    "page": "https://www.ghdhair.com/hairstyles/wavy/how-to-hairstyles-wavy-ponytail",
+    "photo": "https://amplience.ghdhair.com/i/ghd/WavyPony_Final_UKIE?fmt=jpg&w=900",
+    "observed": "Controlled gathered roots, directional crown sheen and broader overlapping wave groups with rounded cohesive ends. Photo inspected locally; not redistributed."
+  }
+}
