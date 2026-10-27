@@ -1,0 +1,149 @@
+{
+  "root_pose_penetration": {
+    "-1.5": 0,
+    "-1.125": 0,
+    "-0.75": 0,
+    "-0.375": 0.0005713568752492848,
+    "0": 0,
+    "0.25": 0,
+    "0.5": 0,
+    "0.75": 0,
+    "1": 0,
+    "1.175": 0,
+    "1.35": 0,
+    "1.525": 0,
+    "1.7": 0,
+    "1.9": 0,
+    "2.1": 0,
+    "2.3": 0,
+    "2.5": 0
+  },
+  "cap_front_bill_points_exact214": 6751,
+  "glasses_exact214": true,
+  "cap_rear": "Rounded standard opening without high-tail notch or crown cutout",
+  "cap_tail_crossings": {
+    "default--1.5-0-False": [],
+    "default--1.5-0-True": [],
+    "default--1.5-0.24-False": [],
+    "default--1.5-0.24-True": [],
+    "default--0.75-0-False": [],
+    "default--0.75-0-True": [],
+    "default--0.75-0.24-False": [],
+    "default--0.75-0.24-True": [],
+    "default--0.5-0-False": [],
+    "default--0.5-0-True": [],
+    "default--0.5-0.24-False": [],
+    "default--0.5-0.24-True": [],
+    "default-2.5-0-False": [],
+    "default-2.5-0-True": [],
+    "default-2.5-0.24-False": [],
+    "default-2.5-0.24-True": [],
+    "low_pitch--1.5-0-False": [],
+    "low_pitch--1.5-0-True": [],
+    "low_pitch--1.5-0.24-False": [],
+    "low_pitch--1.5-0.24-True": [],
+    "low_pitch--0.75-0-False": [],
+    "low_pitch--0.75-0-True": [],
+    "low_pitch--0.75-0.24-False": [],
+    "low_pitch--0.75-0.24-True": [],
+    "low_pitch--0.5-0-False": [],
+    "low_pitch--0.5-0-True": [],
+    "low_pitch--0.5-0.24-False": [],
+    "low_pitch--0.5-0.24-True": [],
+    "low_pitch-2.5-0-False": [],
+    "low_pitch-2.5-0-True": [],
+    "low_pitch-2.5-0.24-False": [],
+    "low_pitch-2.5-0.24-True": [],
+    "high_pitch--1.5-0-False": [],
+    "high_pitch--1.5-0-True": [],
+    "high_pitch--1.5-0.24-False": [],
+    "high_pitch--1.5-0.24-True": [],
+    "high_pitch--0.75-0-False": [],
+    "high_pitch--0.75-0-True": [],
+    "high_pitch--0.75-0.24-False": [],
+    "high_pitch--0.75-0.24-True": [],
+    "high_pitch--0.5-0-False": [],
+    "high_pitch--0.5-0-True": [],
+    "high_pitch--0.5-0.24-False": [],
+    "high_pitch--0.5-0.24-True": [],
+    "high_pitch-2.5-0-False": [],
+    "high_pitch-2.5-0-True": [],
+    "high_pitch-2.5-0.24-False": [],
+    "high_pitch-2.5-0.24-True": [],
+    "high_crown--1.5-0-False": [],
+    "high_crown--1.5-0-True": [],
+    "high_crown--1.5-0.24-False": [],
+    "high_crown--1.5-0.24-True": [],
+    "high_crown--0.75-0-False": [],
+    "high_crown--0.75-0-True": [],
+    "high_crown--0.75-0.24-False": [],
+    "high_crown--0.75-0.24-True": [],
+    "high_crown--0.5-0-False": [],
+    "high_crown--0.5-0-True": [],
+    "high_crown--0.5-0.24-False": [],
+    "high_crown--0.5-0.24-True": [],
+    "high_crown-2.5-0-False": [],
+    "high_crown-2.5-0-True": [],
+    "high_crown-2.5-0.24-False": [],
+    "high_crown-2.5-0.24-True": [],
+    "high_crown_pitch--1.5-0-False": [],
+    "high_crown_pitch--1.5-0-True": [],
+    "high_crown_pitch--1.5-0.24-False": [],
+    "high_crown_pitch--1.5-0.24-True": [],
+    "high_crown_pitch--0.75-0-False": [],
+    "high_crown_pitch--0.75-0-True": [],
+    "high_crown_pitch--0.75-0.24-False": [],
+    "high_crown_pitch--0.75-0.24-True": [],
+    "high_crown_pitch--0.5-0-False": [],
+    "high_crown_pitch--0.5-0-True": [],
+    "high_crown_pitch--0.5-0.24-False": [],
+    "high_crown_pitch--0.5-0.24-True": [],
+    "high_crown_pitch-2.5-0-False": [],
+    "high_crown_pitch-2.5-0-True": [],
+    "high_crown_pitch-2.5-0.24-False": [],
+    "high_crown_pitch-2.5-0.24-True": []
+  },
+  "cap_fit": {
+    "height_max": -0.75,
+    "scope": "Only with cap: seat tie within conventional rear opening; preserve uncovered selection",
+    "departure": "Gathered stem passes rear opening before upper arc rises",
+    "covered": true
+  },
+  "cap_bounds": {
+    "tilt": [
+      0.0,
+      14.0
+    ],
+    "curve": [
+      0.02,
+      0.16
+    ],
+    "length": [
+      0.22,
+      0.36
+    ],
+    "crown": [
+      0.0,
+      0.035
+    ]
+  },
+  "source_sha256": "8da9ecc5ea6cf3196c59a5ce659d36a97c228f8ce3d2e4bd75c0dbbc211189a8",
+  "upper_arc": {
+    "relaxed": {
+      "rise": 0.0764613316996341,
+      "end_return": 0.2869100593428892
+    },
+    "high": {
+      "rise": 0.08479160433500477,
+      "end_return": 0.12009829613749362
+    },
+    "compact": {
+      "rise": 0.07436549069654363,
+      "end_return": 0.287617969123804
+    },
+    "full": {
+      "rise": 0.08245743057572996,
+      "end_return": 0.287114404236248
+    }
+  }
+}

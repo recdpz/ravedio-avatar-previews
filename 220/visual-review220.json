@@ -1,0 +1,68 @@
+{
+  "revision": 220,
+  "owner_approval": false,
+  "first_pass": [
+    "219 crown opening rejected by owner: restored rounded standard rear opening, removing214 high-tail notch and219 crown cutout",
+    "Nine scalp-authored attachment states extend tie height downward to-1.5",
+    "Initial220 tall arch was rejected in self review after owner asked for a more natural curve; reduced rise and softened fall",
+    "Short rounded departure, weighted fall and restrained inward return; rear S retained"
+  ],
+  "second_pass": [
+    "Saved/reopened final scenes, actual exports in mobile-width browser, matched219 cap comparison",
+    "Front,three-quarter,both profiles,rear,top; lower/highest ties and arch limits",
+    "Four skin tones and32/48/64/128/512px source views",
+    "Protected nonhair/front objects, actual-head clearance, all root knots/midpoints, cap fit bounds",
+    "Controls, persistence, JSON choice export, PNG export and matching native/browser evaluators"
+  ],
+  "verification": {
+    "base": {
+      "saved_scene_sha256": "2c33b9dbea5f88812f90b93af30b8da249d833d8dfd56a72b96331dc62036671",
+      "frozen_sources_unchanged": true,
+      "protected_exact": 25,
+      "all_nonhair_exact": true,
+      "front_locks_exact": true,
+      "fixed_studio_exact": true,
+      "native_parameter_error": 1.1994156475735263e-07,
+      "tail_boundary_cases": 64,
+      "tail_head_clearance": true,
+      "owner_accepted": false
+    },
+    "root_states": 17,
+    "cap_fit_cases": 80,
+    "cap_front_bill_points_exact214": 6751,
+    "glasses_exact214": true,
+    "upper_arc": {
+      "relaxed": {
+        "rise": 0.0764613316996341,
+        "end_return": 0.2869100593428892
+      },
+      "high": {
+        "rise": 0.08479160433500477,
+        "end_return": 0.12009829613749362
+      },
+      "compact": {
+        "rise": 0.07436549069654363,
+        "end_return": 0.287617969123804
+      },
+      "full": {
+        "rise": 0.08245743057572996,
+        "end_return": 0.287114404236248
+      }
+    },
+    "browser": {
+      "higher_tie_maximum": 2.5,
+      "lower_tie_minimum": -1.5,
+      "minimum_departure_curves": true,
+      "independent_depth_geometry": true,
+      "individual_lock_flow_geometry": true,
+      "tail_lift_geometry": true,
+      "front_controls_retained": true,
+      "cap_context_retains_uncovered_selection": true,
+      "parameter_parity": 2.2765071683066613e-14,
+      "choice_download": true,
+      "persistence": true,
+      "png_download": true
+    }
+  },
+  "native_phone_qualification": false
+}

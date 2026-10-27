@@ -1,0 +1,35 @@
+{
+  "revision": 220,
+  "baseline": 219,
+  "sources": {
+    "E:\\Ravedio-Avatar\\refinement219\\scenes\\Feminine-ponytail.blend": "7462173eedc20066268da36eb0bbe88c0fd38dccd443237fb3aad5c7cdb0aaee",
+    "E:\\Ravedio-Avatar\\refinement219\\scenes\\Feminine-ponytail-cap.blend": "7c0e77768873a83a036170383942998b4187eea42bb475082a62cab23097c594",
+    "E:\\Ravedio-Avatar\\refinement219\\pony-parameters219.json": "ad870821e4866e54d47ccd7b65ad0b097060cf1d1cfe30173fa55a05c8735eb9",
+    "E:\\Ravedio-Avatar\\refinement214\\scenes\\Feminine-cap-glasses.blend": "8a236f51ac29ea7d557cfe504248525fbf44c8e6d2853d284faae7c905dcc5f9"
+  },
+  "scope": [
+    "Conventional cap with contextual lower ponytail",
+    "Lower tie range and fuller rising side arch; rear S retained"
+  ],
+  "protected": [
+    "all nonhair base geometry",
+    "front locks",
+    "face",
+    "clothes",
+    "arms",
+    "palette",
+    "lighting",
+    "glasses"
+  ],
+  "recipes": {
+    "model220.py": "9b074c7e1a9567683e76159dba9ddf4ad731e90fe213e92175cc9e8a622505ce",
+    "parameters220.py": "ec7949cdec62c39955f1ffdb3ff7d2700497a94780d0aa06b134cdefc15d092e",
+    "flow220.js": "77560d811feb9fac1377100f269efc23d475d99e728994eb365a5d344dc1880e",
+    "site220.py": "d394fa517c03635ed07de1268fbcca1380ad5674bad46ab575970795fef1e85d"
+  },
+  "reference": {
+    "page": "https://www.ponytailacademy.com/ponytail-lift-technique-dr-chia-chi-kao",
+    "image": "https://images.squarespace-cdn.com/content/v1/66fef8905ba1b316cb695145/91cec98e-3bc0-4c6a-9b8c-6da6ef49d456/AdobeStock_269519683.jpg",
+    "observation": "Actual profile photograph inspected for short rounded departure, weight-led fall and coherent bundle. Reference image retained only locally; not redistributed."
+  }
+}
