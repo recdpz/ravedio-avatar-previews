@@ -1,0 +1,27 @@
+{
+  "revision": 222,
+  "baseline": 221,
+  "sources": {
+    "E:\\Ravedio-Avatar\\refinement221\\scenes\\Feminine-ponytail.blend": "825967ffdfe5e6f4619b2d39ccdfd12bdc8bd5d52e8e246c85673875320d1493",
+    "E:\\Ravedio-Avatar\\refinement221\\scenes\\Feminine-ponytail-cap.blend": "26df04038886bb9310c645cfc35670c2ae5b427b769ceda3dc863bb147200fb6",
+    "E:\\Ravedio-Avatar\\refinement221\\pony-parameters221.json": "36fad6ee8d26394749595e6063cbacd70ab1b15f2706bb6d2719fc9fee5b3495",
+    "E:\\Ravedio-Avatar\\refinement221\\components\\Feminine-ponytail-cap.glb": "179bfcb054ecc31f1edd7d0413579c2983e10e30f02ce9f5db54cb62c4480670"
+  },
+  "scope": [
+    "Front lock texture and natural short seated roots",
+    "Physical-length front lock extension/trim",
+    "Higher root range with coherent surface fitting"
+  ],
+  "protected": [
+    "all nonfront meshes/materials",
+    "221 ponytail/gather/tie",
+    "body/face/clothes/arms/palette/studio",
+    "normal cap/glasses"
+  ],
+  "recipes": {
+    "model222.py": "47d1a95559c81cda910b80d420c44d445cc3b460ced67f35f8415592fedc7188",
+    "parameters222.py": "39d5f31683f7f472039dc5395c74de0dad86ff55f9a9af9d1983cc75333f8bc0",
+    "front222.js": "9955607cb83e035d70c482ff50875a6d422829810de4726d4a59d7106f59347c",
+    "site222.py": "fa78572bafdf4058a7c738015e2e62fdc2b4a7905bb5491630e4da353cff6cfa"
+  }
+}
