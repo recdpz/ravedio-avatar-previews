@@ -1,0 +1,70 @@
+{
+  "revision": 219,
+  "owner_approval": false,
+  "first_pass": [
+    "Removed59 small root ribbons while preserving the opaque swept scalp and front locks",
+    "Moved the suggested tie to the back crown and added independently adjustable upper-tail lift",
+    "At high ties, adaptive mid-curve depth retains an actual side C return around the head",
+    "A raised polar hem pinched the stem near the crown; replaced with an actual finite-width oval opening through the cap",
+    "Cap button and seam pieces within the opening removed; fabric walls remain closed"
+  ],
+  "second_pass": [
+    "Saved/reopened bare and cap source scenes, fresh GLB viewer and matched218 comparisons",
+    "Front,three-quarter,both profiles,rear,top; lower tie, high tie and lift controls",
+    "Four skin tones and32/48/64/128/512px face views",
+    "Root poses at all knots and midpoints, real-head tail clearance, cap pitch/crown geometry checks",
+    "New final cap checked separately after its geometry changed; legacy Bob/Masculine caps retained",
+    "Controls, persistence, saved choices, PNG and native/browser evaluator parity"
+  ],
+  "verification": {
+    "base": {
+      "saved_scene_sha256": "7462173eedc20066268da36eb0bbe88c0fd38dccd443237fb3aad5c7cdb0aaee",
+      "frozen_sources_unchanged": true,
+      "protected_exact": 25,
+      "all_nonhair_exact": true,
+      "front_locks_exact": true,
+      "fixed_studio_exact": true,
+      "native_parameter_error": 1.195427715348378e-07,
+      "tail_boundary_cases": 112,
+      "tail_head_clearance": true,
+      "owner_accepted": false
+    },
+    "root_states": 13,
+    "cap_fit_cases": 80,
+    "cap_front_points_exact": 6751,
+    "glasses_exact": true,
+    "cap_bounds": {
+      "tilt": [
+        0.0,
+        14.0
+      ],
+      "curve": [
+        0.02,
+        0.16
+      ],
+      "length": [
+        0.22,
+        0.36
+      ],
+      "crown": [
+        0.0,
+        0.035
+      ]
+    },
+    "browser": {
+      "higher_tie_maximum": 2.5,
+      "minimum_departure_curves": true,
+      "independent_depth_geometry": true,
+      "individual_lock_flow_geometry": true,
+      "tail_lift_geometry": true,
+      "front_controls_retained": true,
+      "parameter_parity": 2.6702973457709672e-14,
+      "choice_download": true,
+      "persistence": true,
+      "png_download": true
+    },
+    "final_cap_sha256": "08e5112f15757a46888ca3fe026c27f261ee551f3d3e0d0209f3474c37801113"
+  },
+  "process_note": "Fit gates use actual editor bounds from cap-parameters219.json. Out-of-range stress poses are separate diagnostics and not supported control combinations.",
+  "native_phone_qualification": false
+}

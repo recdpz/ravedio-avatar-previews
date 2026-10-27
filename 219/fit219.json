@@ -1,0 +1,154 @@
+{
+  "root_pose_penetration": {
+    "0": 0,
+    "0.25": 0,
+    "0.5": 0,
+    "0.75": 0,
+    "1": 0,
+    "1.175": 0,
+    "1.35": 0,
+    "1.525": 0,
+    "1.7": 0,
+    "1.9": 0,
+    "2.1": 0,
+    "2.3": 0,
+    "2.5": 0
+  },
+  "cap_front_bill_points_exact": 6751,
+  "glasses_exact": true,
+  "cap_tail_crossings": {
+    "default-0-0-False": [],
+    "default-0-0-True": [],
+    "default-0-0.16-False": [],
+    "default-0-0.16-True": [],
+    "default-1.7-0-False": [],
+    "default-1.7-0-True": [],
+    "default-1.7-0.16-False": [],
+    "default-1.7-0.16-True": [],
+    "default-2.1-0-False": [],
+    "default-2.1-0-True": [],
+    "default-2.1-0.16-False": [],
+    "default-2.1-0.16-True": [],
+    "default-2.5-0-False": [],
+    "default-2.5-0-True": [],
+    "default-2.5-0.16-False": [],
+    "default-2.5-0.16-True": [],
+    "low_pitch-0-0-False": [],
+    "low_pitch-0-0-True": [],
+    "low_pitch-0-0.16-False": [],
+    "low_pitch-0-0.16-True": [],
+    "low_pitch-1.7-0-False": [],
+    "low_pitch-1.7-0-True": [],
+    "low_pitch-1.7-0.16-False": [],
+    "low_pitch-1.7-0.16-True": [],
+    "low_pitch-2.1-0-False": [],
+    "low_pitch-2.1-0-True": [],
+    "low_pitch-2.1-0.16-False": [],
+    "low_pitch-2.1-0.16-True": [],
+    "low_pitch-2.5-0-False": [],
+    "low_pitch-2.5-0-True": [],
+    "low_pitch-2.5-0.16-False": [],
+    "low_pitch-2.5-0.16-True": [],
+    "high_pitch-0-0-False": [],
+    "high_pitch-0-0-True": [],
+    "high_pitch-0-0.16-False": [],
+    "high_pitch-0-0.16-True": [],
+    "high_pitch-1.7-0-False": [],
+    "high_pitch-1.7-0-True": [],
+    "high_pitch-1.7-0.16-False": [],
+    "high_pitch-1.7-0.16-True": [],
+    "high_pitch-2.1-0-False": [],
+    "high_pitch-2.1-0-True": [],
+    "high_pitch-2.1-0.16-False": [],
+    "high_pitch-2.1-0.16-True": [],
+    "high_pitch-2.5-0-False": [],
+    "high_pitch-2.5-0-True": [],
+    "high_pitch-2.5-0.16-False": [],
+    "high_pitch-2.5-0.16-True": [],
+    "high_crown-0-0-False": [],
+    "high_crown-0-0-True": [],
+    "high_crown-0-0.16-False": [],
+    "high_crown-0-0.16-True": [],
+    "high_crown-1.7-0-False": [],
+    "high_crown-1.7-0-True": [],
+    "high_crown-1.7-0.16-False": [],
+    "high_crown-1.7-0.16-True": [],
+    "high_crown-2.1-0-False": [],
+    "high_crown-2.1-0-True": [],
+    "high_crown-2.1-0.16-False": [],
+    "high_crown-2.1-0.16-True": [],
+    "high_crown-2.5-0-False": [],
+    "high_crown-2.5-0-True": [],
+    "high_crown-2.5-0.16-False": [],
+    "high_crown-2.5-0.16-True": [],
+    "high_crown_pitch-0-0-False": [],
+    "high_crown_pitch-0-0-True": [],
+    "high_crown_pitch-0-0.16-False": [],
+    "high_crown_pitch-0-0.16-True": [],
+    "high_crown_pitch-1.7-0-False": [],
+    "high_crown_pitch-1.7-0-True": [],
+    "high_crown_pitch-1.7-0.16-False": [],
+    "high_crown_pitch-1.7-0.16-True": [],
+    "high_crown_pitch-2.1-0-False": [],
+    "high_crown_pitch-2.1-0-True": [],
+    "high_crown_pitch-2.1-0.16-False": [],
+    "high_crown_pitch-2.1-0.16-True": [],
+    "high_crown_pitch-2.5-0-False": [],
+    "high_crown_pitch-2.5-0-True": [],
+    "high_crown_pitch-2.5-0.16-False": [],
+    "high_crown_pitch-2.5-0.16-True": []
+  },
+  "cap_bounds": {
+    "tilt": [
+      0.0,
+      14.0
+    ],
+    "curve": [
+      0.02,
+      0.16
+    ],
+    "length": [
+      0.22,
+      0.36
+    ],
+    "crown": [
+      0.0,
+      0.035
+    ]
+  },
+  "base_scene_sha256": "7462173eedc20066268da36eb0bbe88c0fd38dccd443237fb3aad5c7cdb0aaee",
+  "cap_scene_sha256": "7c0e77768873a83a036170383942998b4187eea42bb475082a62cab23097c594",
+  "material_repair": {
+    "filled_empty_cut_wall_slots": [
+      [
+        "Cap / sewn crown and curved bill212",
+        1
+      ],
+      [
+        "Cap / panel seam212 0",
+        1
+      ],
+      [
+        "Cap / panel seam212 1",
+        1
+      ],
+      [
+        "Cap / panel seam212 2",
+        1
+      ],
+      [
+        "Cap / panel seam212 4",
+        1
+      ],
+      [
+        "Cap / panel seam212 5",
+        1
+      ],
+      [
+        "Cap / sewn lower edge212",
+        1
+      ]
+    ],
+    "all_mesh_and_morph_geometry_exact": true
+  }
+}
