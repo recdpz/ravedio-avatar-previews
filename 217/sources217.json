@@ -1,0 +1,25 @@
+{
+  "revision": 217,
+  "baseline": 216,
+  "sources": {
+    "E:\\Ravedio-Avatar\\refinement216\\scenes\\Feminine-ponytail.blend": "31b5aa3f0b55b36ae9582db9617f0d69c33460ceb05b49958d07f89185deedda",
+    "E:\\Ravedio-Avatar\\refinement214\\scenes\\Feminine-cap-glasses.blend": "8a236f51ac29ea7d557cfe504248525fbf44c8e6d2853d284faae7c905dcc5f9"
+  },
+  "scope": [
+    "Rounded side C-return and increased tail depth",
+    "Higher tie on actual scalp",
+    "Opaque crisp pulled-back hairline",
+    "Necessary cap fit only if higher tie conflicts"
+  ],
+  "protected": [
+    "All heads/faces/bodies/arms/waists/tops/palette/lighting",
+    "Existing front-lock shape and controls",
+    "Other hair/accessories and product repositories"
+  ],
+  "recipes": {
+    "model217.py": "9d17398c9488139ff042842c4ee9cfc8be69a2b445e469ef7f3fd39c19e9004e",
+    "parameters217.py": "0d0d779e575d454fb3bd0408ccbc564ea1c6550552c247735acf6fdfd66a754f",
+    "flow217.js": "2be8f74cb3b2b94e9841abc6b4946c9829e85fff5e8c31d4791c132d19de1376",
+    "site217.py": "657f87cd3f0e06e160d9526ab0d6f9f31d2b3750d0e3eb7bfda954b7c8aafbf3"
+  }
+}

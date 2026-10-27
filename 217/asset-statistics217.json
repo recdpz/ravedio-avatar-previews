@@ -1,0 +1,118 @@
+{
+  "Feminine-ponytail-hair.glb": {
+    "bytes": 3970388,
+    "sha256": "5c8c18de9a41ca8ef41a91afdb6c73a8a406499b0d98e6044ff7e9149d2ff543",
+    "triangles": 84536,
+    "mesh_nodes": 10,
+    "primitives": 10,
+    "materials": 5,
+    "material_details": [
+      {
+        "name": "Hair / chestnut212 0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.21294040977954865,
+          0.07010369747877121,
+          0.030939150601625443,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / crisp pulled roots217",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.21952620148658752,
+          0.07227185368537903,
+          0.03189603239297867,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.30000001192092896,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / chestnut212 1",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.21952620148658752,
+          0.07227185368537903,
+          0.03189603239297867,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / chestnut212 2",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.2261119931936264,
+          0.07444000989198685,
+          0.032852914184331894,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / fitted tie214",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.024000000208616257,
+          0.014999999664723873,
+          0.017000000923871994,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.46000000834465027,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.03999999910593033,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      }
+    ],
+    "textures": [],
+    "extensions_used": [
+      "KHR_materials_clearcoat"
+    ],
+    "extensions_required": [],
+    "self_contained": true
+  }
+}

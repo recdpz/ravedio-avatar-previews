@@ -1,0 +1,330 @@
+{
+  "revision": 217,
+  "baseline": 216,
+  "state": "Self-reviewed hair correction candidate; owner approval pending",
+  "preview": "https://recdpz.github.io/ravedio-avatar-previews/217/",
+  "source_folder": "E:\\Ravedio-Avatar\\refinement217",
+  "scope": [
+    "Deeper five-lock ponytail cross sections with independent side-volume slider",
+    "Natural side C arc at every departure setting, with inward-returning ends and retained broad rear wave",
+    "Tie height0..1.7 using five current-head gathered-root/tie poses",
+    "Crisp opaque hairline with pulled-back directional relief and37 actual root ribbons"
+  ],
+  "retained": [
+    "All non-hair source objects and fixed studio settings exact216",
+    "Existing front-lock geometry and paired/independent controls",
+    "Heads/faces/eyes/mouth/stubble, bodies/waists/178 arms, all tops/bottoms",
+    "151 skin palette,181 studio,214 caps/taper,213 glasses,212 HOT",
+    "Historical humanoid Studio and all product repositories/profile contracts"
+  ],
+  "audit": {
+    "saved_scene_sha256": "d587794f493a6a9b90fc60e26c5a03d2ebc525839382df64d6d708d87f56f4e6",
+    "frozen_sources_unchanged": true,
+    "protected_exact": 25,
+    "all_nonhair_exact": true,
+    "front_locks_exact": true,
+    "fixed_studio_exact": true,
+    "native_parameter_error": 1.198988144205379e-07,
+    "tail_boundary_cases": 196,
+    "tail_head_clearance": true,
+    "owner_accepted": false
+  },
+  "parameters": {
+    "anchors": [
+      [
+        -0.00016539532225579023,
+        0.34265920519828796,
+        2.165325164794922
+      ],
+      [
+        -0.00015761061513330787,
+        0.3217116892337799,
+        2.1931793689727783
+      ],
+      [
+        -0.0001444826921215281,
+        0.29892683029174805,
+        2.2191574573516846
+      ],
+      [
+        -0.00012963078916072845,
+        0.26283082365989685,
+        2.252922296524048
+      ],
+      [
+        -0.0001072507948265411,
+        0.22024096548557281,
+        2.28411865234375
+      ]
+    ],
+    "presets": {
+      "relaxed": {
+        "length": 0.72,
+        "fullness": 0.23,
+        "arc": 0.08,
+        "bend": 0.14,
+        "side": 0.035,
+        "height": 0.6,
+        "depth": 1.1
+      },
+      "high": {
+        "length": 0.68,
+        "fullness": 0.21,
+        "arc": 0.05,
+        "bend": 0.11,
+        "side": 0.035,
+        "height": 1.5,
+        "depth": 1.1
+      },
+      "compact": {
+        "length": 0.52,
+        "fullness": 0.2,
+        "arc": 0.06,
+        "bend": 0.08,
+        "side": 0.08,
+        "height": 0.7,
+        "depth": 1.0
+      },
+      "full": {
+        "length": 0.77,
+        "fullness": 0.27,
+        "arc": 0.1,
+        "bend": 0.16,
+        "side": 0.09,
+        "height": 1.2,
+        "depth": 1.25
+      }
+    },
+    "default": {
+      "length": 0.72,
+      "fullness": 0.23,
+      "arc": 0.08,
+      "bend": 0.14,
+      "side": 0.035,
+      "height": 0.6,
+      "depth": 1.1
+    },
+    "hairline": "Opaque clean edge with directional sculpted root relief and37 rooted ribbons; no alpha feather",
+    "root_morph": "Gather217_1..4",
+    "gesture": "Rounded side C-return at every scalp-departure value; rear S-wave retained. Side volume is independent of front/back width.",
+    "front_default": {
+      "length": 0.29,
+      "volume": 0.052,
+      "curl": 0.025,
+      "spread": 0.008,
+      "root": 0.5
+    },
+    "bounds": {
+      "length": [
+        0.48,
+        0.82
+      ],
+      "fullness": [
+        0.16,
+        0.3
+      ],
+      "arc": [
+        0,
+        0.22
+      ],
+      "bend": [
+        0,
+        0.2
+      ],
+      "side": [
+        -0.3,
+        0.35
+      ],
+      "height": [
+        0,
+        1.7
+      ],
+      "depth": [
+        0.8,
+        1.6
+      ]
+    },
+    "front_bounds": {
+      "length": [
+        0.2,
+        0.38
+      ],
+      "volume": [
+        0.035,
+        0.07
+      ],
+      "curl": [
+        0,
+        0.06
+      ],
+      "spread": [
+        -0.005,
+        0.045
+      ],
+      "root": [
+        0,
+        1
+      ]
+    },
+    "front_anchors": {
+      "-1": [
+        [
+          [
+            -0.1625368297100067,
+            -0.15013271570205688,
+            2.2461776733398438
+          ],
+          [
+            -0.22934490442276,
+            -0.21959730982780457,
+            2.171555757522583
+          ],
+          [
+            -0.27525606751441956,
+            -0.268017053604126,
+            2.080955743789673
+          ],
+          [
+            -0.2949749529361725,
+            -0.28935253620147705,
+            2.0207746028900146
+          ]
+        ],
+        [
+          [
+            -0.14166025817394257,
+            -0.12886281311511993,
+            2.2644317150115967
+          ],
+          [
+            -0.2128724306821823,
+            -0.20276705920696259,
+            2.1974422931671143
+          ],
+          [
+            -0.26363518834114075,
+            -0.25606510043144226,
+            2.1122994422912598
+          ],
+          [
+            -0.2866523265838623,
+            -0.2807695269584656,
+            2.054419755935669
+          ]
+        ]
+      ],
+      "1": [
+        [
+          [
+            0.1625368744134903,
+            -0.15013279020786285,
+            2.2461776733398438
+          ],
+          [
+            0.2293452024459839,
+            -0.21959760785102844,
+            2.171555995941162
+          ],
+          [
+            0.2752561867237091,
+            -0.26801711320877075,
+            2.080955743789673
+          ],
+          [
+            0.2949749529361725,
+            -0.28935253620147705,
+            2.0207746028900146
+          ]
+        ],
+        [
+          [
+            0.14166024327278137,
+            -0.1288628727197647,
+            2.2644317150115967
+          ],
+          [
+            0.2128724902868271,
+            -0.20276711881160736,
+            2.1974422931671143
+          ],
+          [
+            0.26363512873649597,
+            -0.2560650408267975,
+            2.1122994422912598
+          ],
+          [
+            0.2866523265838623,
+            -0.2807695269584656,
+            2.054419755935669
+          ]
+        ]
+      ]
+    },
+    "height_knots": [
+      0,
+      0.5,
+      1,
+      1.35,
+      1.7
+    ],
+    "attach_axes": [
+      [
+        -0.0003806760443017455,
+        0.7541447267839615,
+        0.656708143812526
+      ],
+      [
+        -0.0003595517647936432,
+        0.6996910014821698,
+        0.7144455004879006
+      ],
+      [
+        -0.00032665138536475217,
+        0.6419114365547128,
+        0.7667787170488871
+      ],
+      [
+        -0.0002895079781319901,
+        0.5534873400145804,
+        0.8328575392158701
+      ],
+      [
+        -0.00023662602477523862,
+        0.45282045566588836,
+        0.8916016929877723
+      ]
+    ]
+  },
+  "construction": {
+    "tail": "Quintic Bezier side C arc. Minimum departure still has built-in curvature. Back X/Z quintic wave follows actual downward fall. Cross-section depth is independent of X width. Shared bundle clearance preserves coherent shape.",
+    "gather": "Five poses at0,.5,1,1.35,1.7; piecewise weights between surface-authored knots. No extrapolation beyond the original two poses.",
+    "hairline": "No vertex alpha ramp, translucent strip, skin-color paint or image blur. All hair GLB materials OPAQUE. Same mean boundary height, geometric edge variation and directional relief.",
+    "cap": "Existing214 actual opening reviewed at default and maximum tie with glasses and hoodie. No cap, head or glasses position change.",
+    "front": "Geometry exact216; free lengths use existing evaluator; t<=.54 is intentionally seated root zone."
+  },
+  "rendering": {
+    "coordinates": "Blender Z-up/front -Y; GLB Y-up/front +Z",
+    "studio": "Fixed181 settings exact216. Browser retains its existing fixed approximation; no lighting selector.",
+    "portable": "Packed scene plus standalone parameters217/reproduce217/export217. Local authoring recipe uses retained historical art-kit helper modules.",
+    "alpha": "All ponytail materials opaque; actual geometry detail. Existing lenses unchanged.",
+    "choices": "Review-only controls; no new wire/profile-byte assignments."
+  },
+  "inherited": {
+    "base_and_bottoms": "216, bikini215",
+    "tops": "Same216 resolver to215/214/213/208/206/203",
+    "masculine": "Unchanged216 dependencies",
+    "caps_and_taper": "214 unchanged",
+    "glasses": "213 unchanged",
+    "HOT": "212 unchanged"
+  },
+  "review": {
+    "self_review_only": true,
+    "owner_accepted": false,
+    "source_saved_reopened": true,
+    "second_visual_pass": true,
+    "browser_report": "browser217.json",
+    "tail_boundary_cases": 196,
+    "native_apps_or_phones_tested": false
+  },
+  "next": "Owner reviews217 hair and controls. No implicit catalogue/body acceptance or native renderer qualification."
+}
