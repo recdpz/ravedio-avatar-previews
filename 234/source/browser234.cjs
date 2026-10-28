@@ -1,0 +1,26 @@
+const fs=require('fs'),assert=require('assert');const{chromium}=require('C:/Users/Ronnie/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');const P='E:/Ravedio-Avatar/refinement234',url=process.argv.find(x=>/^https?:/.test(x))||'http://127.0.0.1:9228/234/';
+(async()=>{const browser=await chromium.launch({executablePath:'C:/Users/Ronnie/AppData/Local/ms-playwright/chromium_headless_shell-1228/chrome-headless-shell-win64/chrome-headless-shell.exe',args:['--enable-webgl','--use-gl=angle','--use-angle=swiftshader','--enable-unsafe-swiftshader']});const errors=[],http=[],checks=[];try{
+ const page=await browser.newPage({viewport:{width:430,height:950}});page.on('pageerror',e=>errors.push(e.message));page.on('response',r=>{if(r.status()>=400)http.push([r.status(),r.url()])});
+ await page.addInitScript(()=>localStorage.setItem('ravedio-controls234',JSON.stringify({build:'Feminine',memory:{Feminine:{nose:'rounded',mouth:'smile'},Masculine:{nose:'rounded',mouth:'lips'}}})));
+ await page.goto(url);async function ready(){for(let i=0;i<180;i++){assert.deepEqual(errors,[]);if(await page.evaluate(()=>!!window.review234?.ready()))return;await page.waitForTimeout(300)}throw Error('Preview not ready')}
+ await ready();const shot=async(name)=>{const data=await page.locator('canvas').evaluate(c=>c.toDataURL());fs.writeFileSync(P+'/browser/'+name+'.png',Buffer.from(data.split(',')[1],'base64'))};
+ for(const build of ['Feminine','Masculine']){
+  await page.locator('#build').selectOption(build);await ready();await page.locator('#angle').selectOption('front');
+  const approved=await page.evaluate(()=>window.review234.state());assert.equal(approved.features.nose,'none');assert.equal(approved.features.mouth,'line');assert(!approved.components.nose);assert(approved.components.mouth.includes('-mouth-line.glb'));assert(!(await page.locator('#nose').isVisible()));assert(!(await page.locator('#mouth').isVisible()));
+  for(const key of ['original','almond','tapered','hooded','bean','squint']){
+   await page.locator('[data-eye="'+key+'"]').click();await ready();const state=await page.evaluate(()=>window.review234.state()),on=await page.evaluate(()=>window.review234.inspect().geometry);
+   if(build==='Feminine'){
+    assert(state.components.lashes);assert(state.eyelashes);assert(await page.locator('#show-lashes').isChecked());
+    await page.locator('#show-lashes').uncheck();await ready();const off=await page.evaluate(()=>window.review234.inspect().geometry),offState=await page.evaluate(()=>window.review234.state());assert(!offState.components.lashes);assert(!off.lashes);assert.deepEqual(offState.features,state.features);assert.equal(offState.yaw,state.yaw);for(const k of Object.keys(off))assert.deepEqual(off[k],on[k]);await shot(key+'-without-lashes');
+    await page.locator('#show-lashes').check();await ready();
+    for(const tone of ['0','1','2','3']){await page.locator('#skin').selectOption(tone);await ready();await shot(key+'-tone'+tone)}await page.locator('#skin').selectOption('1');await ready();
+   }else{assert(!state.components.lashes);assert(!state.eyelashes);assert(!(await page.locator('#lash-toggle').isVisible()));await shot('Masculine-'+key)}
+   checks.push(build+':'+key);
+  }
+  await page.waitForFunction(()=>['original','almond','tapered','hooded','bean','squint'].every(k=>{const i=document.getElementById('compare-'+k);return i.complete&&i.naturalWidth>0}));
+ }
+ await page.locator('#build').selectOption('Feminine');await ready();await page.locator('[data-eye=tapered]').click();await ready();await page.locator('#glasses').selectOption('rectangular');await ready();await shot('tapered-rectangular');await page.locator('#headwear').selectOption('cap');await ready();await shot('tapered-cap-glasses');await page.locator('#headwear').selectOption('none');await ready();await page.locator('#glasses').selectOption('none');await ready();await page.locator('#hair').selectOption('bob');await ready();await page.locator('#angle').selectOption('threequarter');await shot('tapered-bob-threequarter');await page.locator('#hair').selectOption('ponytail');await ready();await page.locator('#angle').selectOption('front');await page.screenshot({path:P+'/browser/mobile234.png'});
+ await page.locator('#show-lashes').uncheck();await ready();const download=page.waitForEvent('download');await page.locator('#png').click();assert((await download).suggestedFilename().includes('without-lashes'));await page.locator('#show-lashes').check();await ready();
+ assert.deepEqual(errors,[]);assert.deepEqual(http,[]);assert(!(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth)));assert.equal(await page.locator('canvas').count(),1);
+ fs.writeFileSync(P+'/browser234'+(url.startsWith('https')?'-public':'')+'.json',JSON.stringify({url,checks,errors,http,acceptedFaceEnforced:true,eyeGeometryUnchangedByLashToggle:true,masculineHasNoLashes:true,representativeFits:['rectangular glasses','ponytail+cap+glasses','bob threequarter'],pngVersionLabel:true,mobileLayout:true},null,2));console.log('234: all eye styles, lash isolation, face choices, four tones and representative fits verified.');
+}finally{await browser.close()}})().catch(e=>{console.error(e);process.exit(1)});

@@ -1,0 +1,553 @@
+{
+  "revision": 234,
+  "status": "No-nose / regular-smile face approved; feminine lash candidate awaiting owner review",
+  "owner_direction": [
+    "No nose and regular smile only on both builds",
+    "Feminine lashes fitting every current eye shape and established cartoon style",
+    "Prefer some visibility in small portraits"
+  ],
+  "face_approval": {
+    "schema": 1,
+    "id": "owner-no-nose-regular-smile-234",
+    "date": "2026-10-28",
+    "owner_statement": "i also accept no nose on models and regular smile only.",
+    "status": "approved",
+    "scope": "Both builds use no nose component and the existing regular line smile only. Other mouth/nose candidates retire from the current selector.",
+    "assets": {
+      "Feminine": {
+        "nose": "none",
+        "mouth": "line",
+        "mouth_asset": "209/Feminine-mouth-line.glb",
+        "mouth_sha256": "075fb169ebb51441febd7656008caf71dd4edbc5f3f49514f1cc4d874c69b114"
+      },
+      "Masculine": {
+        "nose": "none",
+        "mouth": "line",
+        "mouth_asset": "209/Masculine-mouth-line.glb",
+        "mouth_sha256": "873b11550f5bbce567aac077b4fbefcbf04b3793813678f35e1a416a19447872"
+      }
+    },
+    "source": "Direct owner message in this chat",
+    "eyelashes": "Requested new feminine lash study; not yet approved",
+    "no_profile_wire_change": true,
+    "recorded_utc": "2026-10-28T23:12:09.117746+00:00"
+  },
+  "implemented": [
+    "Fitted separate lash component for each of six feminine eyes",
+    "Two tapered swept strokes per eye, projected to actual eye/head support; roots overlap eye edge",
+    "Lashes default on for feminine, comparison toggle changes lash component only",
+    "Nose and mouth choices locked to none / existing line smile; hidden single-value fields preserve viewer state compatibility",
+    "Masculine has no lash component; all approved eye GLBs reused unchanged"
+  ],
+  "source": {
+    "original": {
+      "source": "E:\\Ravedio-Avatar\\refinement234\\output\\sources\\Feminine-original-lashes.blend",
+      "source_sha256": "9268fb45211f6dea854d72be8d3609ac7235c2351d17f77b2acaa6bae0c6b62c",
+      "glb": "E:\\Ravedio-Avatar\\refinement234\\output\\components\\Feminine-original-lashes.glb",
+      "glb_sha256": "665b381eba46fd04b7269ac05ba7ef28f6202ed3c96c4164ee3839a4f91f603c",
+      "eye_source": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\181\\Feminine-eyes-original.glb",
+      "eye_sha256": "c5e9d35a439db8b51f1e3eb3d3e92a9454187a2c0620128c86a0bdcabb6a09ac",
+      "mouth_source": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\209\\Feminine-mouth-line.glb",
+      "mouth_sha256": "075fb169ebb51441febd7656008caf71dd4edbc5f3f49514f1cc4d874c69b114",
+      "protected_neighbors_exact": true,
+      "anchors": [
+        {
+          "side": -1,
+          "stroke": 0,
+          "root": [
+            -0.18800000280141832,
+            1.948448616453279
+          ],
+          "tip": [
+            -0.2280000028014183,
+            1.989448616453279
+          ],
+          "root_eye_hit": true
+        },
+        {
+          "side": -1,
+          "stroke": 1,
+          "root": [
+            -0.17000000253319741,
+            1.971378893373463
+          ],
+          "tip": [
+            -0.1920000025331974,
+            2.005378893373463
+          ],
+          "root_eye_hit": true
+        },
+        {
+          "side": 1,
+          "stroke": 0,
+          "root": [
+            0.18800000280141832,
+            1.948448616453279
+          ],
+          "tip": [
+            0.2280000028014183,
+            1.989448616453279
+          ],
+          "root_eye_hit": true
+        },
+        {
+          "side": 1,
+          "stroke": 1,
+          "root": [
+            0.17000000253319741,
+            1.971378893373463
+          ],
+          "tip": [
+            0.1920000025331974,
+            2.005378893373463
+          ],
+          "root_eye_hit": true
+        }
+      ],
+      "style": "Two short swept tapered strokes per eye, seated on actual eye/head support. Separate optional review component."
+    },
+    "almond": {
+      "source": "E:\\Ravedio-Avatar\\refinement234\\output\\sources\\Feminine-almond-lashes.blend",
+      "source_sha256": "c405cf3e8fc12dcfeb097251f435cd7d577f844d2ab624de5e3da7c8db8af537",
+      "glb": "E:\\Ravedio-Avatar\\refinement234\\output\\components\\Feminine-almond-lashes.glb",
+      "glb_sha256": "6055170b6b04a808bf11e2d81022184e8e7fd935e1fabb1d209646da2d90d0fc",
+      "eye_source": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\192\\Feminine-eyes-almond.glb",
+      "eye_sha256": "8925e70d880ccbbe223c94c9224d57083e38b8dcd184b3e1ea521f339538b37b",
+      "mouth_source": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\209\\Feminine-mouth-line.glb",
+      "mouth_sha256": "075fb169ebb51441febd7656008caf71dd4edbc5f3f49514f1cc4d874c69b114",
+      "protected_neighbors_exact": true,
+      "anchors": [
+        {
+          "side": -1,
+          "stroke": 0,
+          "root": [
+            -0.2062400057911873,
+            1.9264185192438357
+          ],
+          "tip": [
+            -0.2462400057911873,
+            1.9674185192438356
+          ],
+          "root_eye_hit": true
+        },
+        {
+          "side": -1,
+          "stroke": 1,
+          "root": [
+            -0.17960000410676003,
+            1.9417373796494044
+          ],
+          "tip": [
+            -0.20160000410676002,
+            1.9757373796494044
+          ],
+          "root_eye_hit": true
+        },
+        {
+          "side": 1,
+          "stroke": 0,
+          "root": [
+            0.2062400057911873,
+            1.9264185192438357
+          ],
+          "tip": [
+            0.2462400057911873,
+            1.9674185192438356
+          ],
+          "root_eye_hit": true
+        },
+        {
+          "side": 1,
+          "stroke": 1,
+          "root": [
+            0.17960000410676003,
+            1.9417373796494044
+          ],
+          "tip": [
+            0.20160000410676002,
+            1.9757373796494044
+          ],
+          "root_eye_hit": true
+        }
+      ],
+      "style": "Two short swept tapered strokes per eye, seated on actual eye/head support. Separate optional review component."
+    },
+    "squint": {
+      "source": "E:\\Ravedio-Avatar\\refinement234\\output\\sources\\Feminine-squint-lashes.blend",
+      "source_sha256": "50fbc0ab3ec6edaf35bb9394ac6fba8f81164a48fbc02fef70018725bb2b5e09",
+      "glb": "E:\\Ravedio-Avatar\\refinement234\\output\\components\\Feminine-squint-lashes.glb",
+      "glb_sha256": "384689d5cc9698e4c42f3439c0705ed63d3781fd954cd6aae7ebd607c0e61348",
+      "eye_source": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\232\\components\\Feminine-eyes-squint.glb",
+      "eye_sha256": "e7803a7f406dcc2874f881638729d4dc3337e3b729e1be8ec425534c91fea6d5",
+      "mouth_source": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\209\\Feminine-mouth-line.glb",
+      "mouth_sha256": "075fb169ebb51441febd7656008caf71dd4edbc5f3f49514f1cc4d874c69b114",
+      "protected_neighbors_exact": true,
+      "anchors": [
+        {
+          "side": -1,
+          "stroke": 0,
+          "root": [
+            -0.20700447022914886,
+            1.914838771284047
+          ],
+          "tip": [
+            -0.24700447022914887,
+            1.9558387712840468
+          ],
+          "root_eye_hit": true
+        },
+        {
+          "side": -1,
+          "stroke": 1,
+          "root": [
+            -0.17998773753643035,
+            1.9409812378797808
+          ],
+          "tip": [
+            -0.20198773753643035,
+            1.9749812378797809
+          ],
+          "root_eye_hit": true
+        },
+        {
+          "side": 1,
+          "stroke": 0,
+          "root": [
+            0.20700447022914886,
+            1.914838771284047
+          ],
+          "tip": [
+            0.24700447022914887,
+            1.9558387712840468
+          ],
+          "root_eye_hit": true
+        },
+        {
+          "side": 1,
+          "stroke": 1,
+          "root": [
+            0.17998773753643035,
+            1.9409812378797808
+          ],
+          "tip": [
+            0.20198773753643035,
+            1.9749812378797809
+          ],
+          "root_eye_hit": true
+        }
+      ],
+      "style": "Two short swept tapered strokes per eye, seated on actual eye/head support. Separate optional review component."
+    },
+    "tapered": {
+      "source": "E:\\Ravedio-Avatar\\refinement234\\output\\sources\\Feminine-tapered-lashes.blend",
+      "source_sha256": "270da00ec7d8e6d3c260b6b80e88fd5f75ffb1b4a890cf9343cd4a7d5b5aaf8c",
+      "glb": "E:\\Ravedio-Avatar\\refinement234\\output\\components\\Feminine-tapered-lashes.glb",
+      "glb_sha256": "688dfbe8b211db57e2dd35e9413329f4678cb1ae7edce591e7c4a93693489550",
+      "eye_source": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\233\\components\\Feminine-eyes-tapered.glb",
+      "eye_sha256": "bb1a4f177265567d23d08c79d1fcf65fafae034a4b2029b326f78da30c9fad91",
+      "mouth_source": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\209\\Feminine-mouth-line.glb",
+      "mouth_sha256": "075fb169ebb51441febd7656008caf71dd4edbc5f3f49514f1cc4d874c69b114",
+      "protected_neighbors_exact": true,
+      "anchors": [
+        {
+          "side": -1,
+          "stroke": 0,
+          "root": [
+            -0.21488498091697694,
+            1.9222752769177232
+          ],
+          "tip": [
+            -0.248,
+            1.963275276917723
+          ],
+          "root_eye_hit": true
+        },
+        {
+          "side": -1,
+          "stroke": 1,
+          "root": [
+            -0.19033159166574476,
+            1.9422198260519543
+          ],
+          "tip": [
+            -0.21233159166574478,
+            1.9762198260519543
+          ],
+          "root_eye_hit": true
+        },
+        {
+          "side": 1,
+          "stroke": 0,
+          "root": [
+            0.21488498091697694,
+            1.9222752769177232
+          ],
+          "tip": [
+            0.248,
+            1.963275276917723
+          ],
+          "root_eye_hit": true
+        },
+        {
+          "side": 1,
+          "stroke": 1,
+          "root": [
+            0.19033159166574476,
+            1.9422198260519543
+          ],
+          "tip": [
+            0.21233159166574478,
+            1.9762198260519543
+          ],
+          "root_eye_hit": true
+        }
+      ],
+      "style": "Two short swept tapered strokes per eye, seated on actual eye/head support. Separate optional review component."
+    },
+    "hooded": {
+      "source": "E:\\Ravedio-Avatar\\refinement234\\output\\sources\\Feminine-hooded-lashes.blend",
+      "source_sha256": "83153852883b30574365321754d5343f750808863de7d762109e2cb4016dd049",
+      "glb": "E:\\Ravedio-Avatar\\refinement234\\output\\components\\Feminine-hooded-lashes.glb",
+      "glb_sha256": "787861068049c97e7ba0c72157d5ba65d44597e52b8352de7eda37513086e720",
+      "eye_source": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\232\\components\\Feminine-eyes-hooded.glb",
+      "eye_sha256": "91abcb82a30c4d037ebf33390027a07d450d7c05233d0e4803cde131fc580ea6",
+      "mouth_source": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\209\\Feminine-mouth-line.glb",
+      "mouth_sha256": "075fb169ebb51441febd7656008caf71dd4edbc5f3f49514f1cc4d874c69b114",
+      "protected_neighbors_exact": true,
+      "anchors": [
+        {
+          "side": -1,
+          "stroke": 0,
+          "root": [
+            -0.19006498485803602,
+            1.930868957470018
+          ],
+          "tip": [
+            -0.23006498485803603,
+            1.971868957470018
+          ],
+          "root_eye_hit": true
+        },
+        {
+          "side": -1,
+          "stroke": 1,
+          "root": [
+            -0.17078806534409524,
+            1.9349025245692657
+          ],
+          "tip": [
+            -0.19278806534409523,
+            1.9689025245692657
+          ],
+          "root_eye_hit": true
+        },
+        {
+          "side": 1,
+          "stroke": 0,
+          "root": [
+            0.19006498485803602,
+            1.930868957470018
+          ],
+          "tip": [
+            0.23006498485803603,
+            1.971868957470018
+          ],
+          "root_eye_hit": true
+        },
+        {
+          "side": 1,
+          "stroke": 1,
+          "root": [
+            0.17078806534409524,
+            1.9349025245692657
+          ],
+          "tip": [
+            0.19278806534409523,
+            1.9689025245692657
+          ],
+          "root_eye_hit": true
+        }
+      ],
+      "style": "Two short swept tapered strokes per eye, seated on actual eye/head support. Separate optional review component."
+    },
+    "bean": {
+      "source": "E:\\Ravedio-Avatar\\refinement234\\output\\sources\\Feminine-bean-lashes.blend",
+      "source_sha256": "af2cd56c2265ecadf43fb88b312313fd49e7f718156712bd40098d45a2a89471",
+      "glb": "E:\\Ravedio-Avatar\\refinement234\\output\\components\\Feminine-bean-lashes.glb",
+      "glb_sha256": "c3b9f4d34d23fd1eeeae9655abef85041e470a22b7ff1c95b59ab29659575c9d",
+      "eye_source": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\233\\components\\Feminine-eyes-bean.glb",
+      "eye_sha256": "eec54fa919eb53da0a6764aec3666ef769e046362445a8a014c4aba4874afa52",
+      "mouth_source": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\209\\Feminine-mouth-line.glb",
+      "mouth_sha256": "075fb169ebb51441febd7656008caf71dd4edbc5f3f49514f1cc4d874c69b114",
+      "protected_neighbors_exact": true,
+      "anchors": [
+        {
+          "side": -1,
+          "stroke": 0,
+          "root": [
+            -0.200711430311203,
+            1.9419194222482064
+          ],
+          "tip": [
+            -0.240711430311203,
+            1.9829194222482063
+          ],
+          "root_eye_hit": true
+        },
+        {
+          "side": -1,
+          "stroke": 1,
+          "root": [
+            -0.17777856737375258,
+            1.958857853479245
+          ],
+          "tip": [
+            -0.19977856737375257,
+            1.992857853479245
+          ],
+          "root_eye_hit": true
+        },
+        {
+          "side": 1,
+          "stroke": 0,
+          "root": [
+            0.200711430311203,
+            1.9419194222482064
+          ],
+          "tip": [
+            0.240711430311203,
+            1.9829194222482063
+          ],
+          "root_eye_hit": true
+        },
+        {
+          "side": 1,
+          "stroke": 1,
+          "root": [
+            0.17777856737375258,
+            1.958857853479245
+          ],
+          "tip": [
+            0.19977856737375257,
+            1.992857853479245
+          ],
+          "root_eye_hit": true
+        }
+      ],
+      "style": "Two short swept tapered strokes per eye, seated on actual eye/head support. Separate optional review component."
+    }
+  },
+  "exports": {
+    "original": {
+      "max_bidirectional_world_error": 0.0,
+      "bytes": 60548,
+      "triangles": 3072,
+      "materials": 1,
+      "source_sha256": "9268fb45211f6dea854d72be8d3609ac7235c2351d17f77b2acaa6bae0c6b62c",
+      "glb_sha256": "665b381eba46fd04b7269ac05ba7ef28f6202ed3c96c4164ee3839a4f91f603c",
+      "protected_neighbors_exact": true,
+      "compression": false
+    },
+    "almond": {
+      "max_bidirectional_world_error": 0.0,
+      "bytes": 60552,
+      "triangles": 3072,
+      "materials": 1,
+      "source_sha256": "c405cf3e8fc12dcfeb097251f435cd7d577f844d2ab624de5e3da7c8db8af537",
+      "glb_sha256": "6055170b6b04a808bf11e2d81022184e8e7fd935e1fabb1d209646da2d90d0fc",
+      "protected_neighbors_exact": true,
+      "compression": false
+    },
+    "squint": {
+      "max_bidirectional_world_error": 0.0,
+      "bytes": 60548,
+      "triangles": 3072,
+      "materials": 1,
+      "source_sha256": "50fbc0ab3ec6edaf35bb9394ac6fba8f81164a48fbc02fef70018725bb2b5e09",
+      "glb_sha256": "384689d5cc9698e4c42f3439c0705ed63d3781fd954cd6aae7ebd607c0e61348",
+      "protected_neighbors_exact": true,
+      "compression": false
+    },
+    "tapered": {
+      "max_bidirectional_world_error": 0.0,
+      "bytes": 60552,
+      "triangles": 3072,
+      "materials": 1,
+      "source_sha256": "270da00ec7d8e6d3c260b6b80e88fd5f75ffb1b4a890cf9343cd4a7d5b5aaf8c",
+      "glb_sha256": "688dfbe8b211db57e2dd35e9413329f4678cb1ae7edce591e7c4a93693489550",
+      "protected_neighbors_exact": true,
+      "compression": false
+    },
+    "hooded": {
+      "max_bidirectional_world_error": 0.0,
+      "bytes": 60552,
+      "triangles": 3072,
+      "materials": 1,
+      "source_sha256": "83153852883b30574365321754d5343f750808863de7d762109e2cb4016dd049",
+      "glb_sha256": "787861068049c97e7ba0c72157d5ba65d44597e52b8352de7eda37513086e720",
+      "protected_neighbors_exact": true,
+      "compression": false
+    },
+    "bean": {
+      "max_bidirectional_world_error": 0.0,
+      "bytes": 60548,
+      "triangles": 3072,
+      "materials": 1,
+      "source_sha256": "af2cd56c2265ecadf43fb88b312313fd49e7f718156712bd40098d45a2a89471",
+      "glb_sha256": "c3b9f4d34d23fd1eeeae9655abef85041e470a22b7ff1c95b59ab29659575c9d",
+      "protected_neighbors_exact": true,
+      "compression": false
+    }
+  },
+  "browser": {
+    "url": "http://127.0.0.1:9228/234/",
+    "checks": [
+      "Feminine:original",
+      "Feminine:almond",
+      "Feminine:tapered",
+      "Feminine:hooded",
+      "Feminine:bean",
+      "Feminine:squint",
+      "Masculine:original",
+      "Masculine:almond",
+      "Masculine:tapered",
+      "Masculine:hooded",
+      "Masculine:bean",
+      "Masculine:squint"
+    ],
+    "errors": [],
+    "http": [],
+    "acceptedFaceEnforced": true,
+    "eyeGeometryUnchangedByLashToggle": true,
+    "masculineHasNoLashes": true,
+    "representativeFits": [
+      "rectangular glasses",
+      "ponytail+cap+glasses",
+      "bob threequarter"
+    ],
+    "pngVersionLabel": true,
+    "mobileLayout": true
+  },
+  "protected": [
+    "All approved eye component bytes and placements",
+    "Existing regular smile component bytes",
+    "All non-lash source geometry after composing approved face",
+    "Masculine geometry, materials, palette, fixed lighting, wardrobe, selected hair/cap and floating arms"
+  ],
+  "visual_review": {
+    "pass1": "Initial tips too fine in small portraits; increased stroke weight and curl while retaining two restrained flicks.",
+    "pass2": "Final exported front, three-quarter, both profiles, top and underside checked for six eyes; four-tone128px renders and32/48/64 reductions reviewed. Browser output and rectangular glasses, ponytail/cap/glasses, bob-threequarter screenshots reviewed.",
+    "readability": "Visible lash cue in64/128px portraits; individual strokes are subtle and resolution-limited at32/48. No guarantee of distinct fibers at minimum size.",
+    "observed_existing_limit": "Retained browser transmission lenses soften the eyes. Lash geometry fits behind the retained frames; lens/native material parity remains separate.",
+    "scope": "Lashes are a new candidate. Other eye shapes retain prior acceptance statuses; Curved squint remains undecided. Native-phone qualification remains pending."
+  },
+  "requirements": {
+    "opacity": "Opaque meshes; no alpha cards or transmission",
+    "materials_per_component": 1,
+    "textures": 0,
+    "component_group": "eyelashes",
+    "profile_encoding": "Contextual feminine rendering detail; no new profile field assigned"
+  },
+  "url": "https://recdpz.github.io/ravedio-avatar-previews/234/",
+  "no_profile_wire_change": true
+}
