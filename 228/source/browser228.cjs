@@ -1,0 +1,26 @@
+const fs=require('fs'),assert=require('assert');const{chromium}=require('C:/Users/Ronnie/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
+const P='E:/Ravedio-Avatar/refinement228',url=process.argv.find(x=>/^https?:/.test(x))||'http://127.0.0.1:9228/228/';
+(async()=>{const browser=await chromium.launch({executablePath:'C:/Users/Ronnie/AppData/Local/ms-playwright/chromium_headless_shell-1228/chrome-headless-shell-win64/chrome-headless-shell.exe',args:['--enable-webgl','--use-gl=angle','--use-angle=swiftshader','--enable-unsafe-swiftshader']});const errors=[],http=[],checks=[];fs.mkdirSync(P+'/browser',{recursive:true});try{
+const page=await browser.newPage({viewport:{width:1200,height:1000}});page.on('pageerror',e=>errors.push(e.message));page.on('response',r=>{if(r.status()>=400)http.push([r.status(),r.url()])});await page.goto(url);const ready=()=>page.waitForFunction(()=>window.review228?.ready(),null,{timeout:90000});await ready();const select=async(id,value)=>{if(await page.locator('#'+id).isDisabled()){assert.equal(await page.locator('#'+id).inputValue(),value);return;}await page.locator('#'+id).selectOption(value);await ready();assert.equal((await page.evaluate(()=>window.review228.state())).features[id]??(await page.evaluate(()=>window.review228.state()))[id],['skin'].includes(id)?Number(value):value)};
+for(const build of ['Feminine','Masculine']){
+ await select('build',build);await select('headwear','none');
+ for(const field of ['top','bottom','eyes','nose','mouth','groom','hair','glasses','detail']){
+  if(await page.locator('#'+field).isDisabled())continue;
+  const options=await page.locator('#'+field+' option').evaluateAll(os=>os.filter(o=>!o.disabled).map(o=>o.value));
+  for(const opt of options){const before=await page.evaluate(()=>window.review228.state());const geo=await page.evaluate(()=>window.review228.inspect().geometry);await select(field,opt);const after=await page.evaluate(()=>window.review228.state());for(const k of Object.keys(before.features))if(k!==field)assert.deepEqual(after.features[k],before.features[k],field+' reset '+k);assert.equal(after.yaw,before.yaw);if(field==='eyes')assert.deepEqual((await page.evaluate(()=>window.review228.inspect().geometry)).base,geo.base);checks.push(build+':'+field+':'+opt);}
+  console.log('SELECTORS228',build,field);
+ }
+ await select('hair',build==='Feminine'?'straight':'curly-top');
+ for(const hat of ['cap','beanie','bucket','cowboy','headband','ears','pashmina','none'])await select('headwear',hat);
+ for(const field of ['skin','hairColor','headgearColor','topColor','bottomColor']){
+  if(field==='headgearColor')await select('headwear','cap');if(field==='topColor')await select('top','jersey');
+  for(const opt of await page.locator('#'+field+' option').evaluateAll(os=>os.map(o=>o.value)))await select(field,opt);
+  if(field==='headgearColor')await select('headwear','none');
+ }
+ await select('hair',build==='Feminine'?'ponytail':'taper');await select('skin','1');for(const field of ['hairColor','topColor','bottomColor'])await select(field,'default');await select('top',build==='Feminine'?'open':'tank');await select('glasses','none');await select('detail','none');await select('nose','none');await select('mouth','line');await select('groom',build==='Masculine'?'stubble':'none');await select('eyes','squint');
+ for(const angle of ['front','threequarter','profile','rear','top']){await page.locator('#angle').selectOption(angle);const png=await page.locator('canvas').evaluate(c=>c.toDataURL());fs.writeFileSync(P+'/browser/'+build+'-'+angle+'.png',Buffer.from(png.split(',')[1],'base64'));}
+}
+const saved=await page.evaluate(()=>window.review228.state());await page.reload();await ready();assert.deepEqual((await page.evaluate(()=>window.review228.state())).features,saved.features);await select('build','Feminine');assert.equal((await page.evaluate(()=>window.review228.state())).features.hair,'ponytail');
+const download=page.waitForEvent('download');await page.locator('#save').click();await(await download).saveAs(P+'/browser/saved-choices.json');assert.equal(JSON.parse(fs.readFileSync(P+'/browser/saved-choices.json')).revision,228);
+const png=page.waitForEvent('download');await page.locator('#png').click();await(await png).saveAs(P+'/browser/saved.png');await page.setViewportSize({width:430,height:950});await page.locator('#angle').selectOption('front');assert(!(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth)));assert.equal(await page.locator('canvas').count(),1);await page.screenshot({path:P+'/browser/mobile.png',fullPage:true});assert.deepEqual(errors,[]);assert.deepEqual(http,[]);assert((await page.evaluate(()=>window.review228.cacheSize()))<=18);fs.writeFileSync(P+'/browser228.json',JSON.stringify({url,checks,errors,http,passed:['independent selectors','no collateral selection reset','camera preserved','eye changes preserve base geometry','all colors','authored headwear fit selection','per-build persistence','PNG and JSON export','single canvas','mobile width','bounded component cache'],native_phone_tested:false},null,2));
+}finally{await browser.close()}})().catch(e=>{console.error(e);process.exit(1)});
