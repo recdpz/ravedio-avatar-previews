@@ -1,0 +1,427 @@
+{
+  "Feminine-beanie": {
+    "label": "Feminine \u00b7 Beanie",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-beanie-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-beanie-headgear.glb"
+    },
+    "build": "Feminine",
+    "style": "beanie",
+    "portraits": true,
+    "note": "Correction candidate. Fixed224 body, face, wardrobe, skin palette and studio. New components are not yet owner-approved or native-phone-qualified.",
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Feminine-beanie.blend"
+  },
+  "Feminine-box-braids": {
+    "label": "Feminine \u00b7 Box braids",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-box-braids-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb"
+    },
+    "build": "Feminine",
+    "style": "box-braids",
+    "portraits": true,
+    "note": "Correction candidate. Fixed224 body, face, wardrobe, skin palette and studio. New components are not yet owner-approved or native-phone-qualified.",
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Feminine-box-braids.blend"
+  },
+  "Feminine-bucket": {
+    "label": "Feminine \u00b7 Bucket hat",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-bucket-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-bucket-headgear.glb"
+    },
+    "build": "Feminine",
+    "style": "bucket",
+    "portraits": true,
+    "note": "Correction candidate. Fixed224 body, face, wardrobe, skin palette and studio. New components are not yet owner-approved or native-phone-qualified. Review: Fit reviewed. Crown and brim still look rather rigid; fabric character needs further refinement before catalogue acceptance.",
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Feminine-bucket.blend"
+  },
+  "Feminine-cat-eye": {
+    "label": "Feminine \u00b7 Cat-eye glasses",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "../224/components/Feminine-uncovered-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "glasses": "components/Feminine-cat-eye-glasses.glb",
+      "lenses": "components/Feminine-cat-eye-lenses.glb"
+    },
+    "build": "Feminine",
+    "style": "cat-eye",
+    "portraits": true,
+    "note": "Correction candidate. Fixed224 body, face, wardrobe, skin palette and studio. New components are not yet owner-approved or native-phone-qualified.",
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Feminine-cat-eye.blend"
+  },
+  "Feminine-cowboy": {
+    "label": "Feminine \u00b7 Cowboy hat",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-cowboy-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-cowboy-headgear.glb"
+    },
+    "build": "Feminine",
+    "style": "cowboy",
+    "portraits": true,
+    "note": "Correction candidate. Fixed224 body, face, wardrobe, skin palette and studio. New components are not yet owner-approved or native-phone-qualified. Review: Fit reviewed. Crown reads as a simplified dress-hat form; cowboy crease and brim character need further refinement before catalogue acceptance.",
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Feminine-cowboy.blend"
+  },
+  "Feminine-curls": {
+    "label": "Feminine \u00b7 Curls",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-curls-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb"
+    },
+    "build": "Feminine",
+    "style": "curls",
+    "portraits": true,
+    "note": "Correction candidate. Fixed224 body, face, wardrobe, skin palette and studio. New components are not yet owner-approved or native-phone-qualified. Review: Coverage and attachment corrected, but this reads as broad sculpted waves rather than a sufficiently distinct curly style. Further artistic revision required before catalogue acceptance.",
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Feminine-curls.blend"
+  },
+  "Feminine-ears": {
+    "label": "Feminine \u00b7 Animal ears",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-ears-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-ears-headgear.glb"
+    },
+    "build": "Feminine",
+    "style": "ears",
+    "portraits": true,
+    "note": "Correction candidate. Fixed224 body, face, wardrobe, skin palette and studio. New components are not yet owner-approved or native-phone-qualified.",
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Feminine-ears.blend"
+  },
+  "Feminine-gems": {
+    "label": "Feminine \u00b7 Face gems",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "../224/components/Feminine-uncovered-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "extra": "components/Feminine-gems-extra.glb"
+    },
+    "build": "Feminine",
+    "style": "gems",
+    "portraits": true,
+    "note": "Correction candidate. Fixed224 body, face, wardrobe, skin palette and studio. New components are not yet owner-approved or native-phone-qualified. Review: Visible at larger sizes; individual gem details are not reliably legible at32px.",
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Feminine-gems.blend"
+  },
+  "Feminine-headband": {
+    "label": "Feminine \u00b7 Headband",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-headband-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-headband-headgear.glb"
+    },
+    "build": "Feminine",
+    "style": "headband",
+    "portraits": true,
+    "note": "Correction candidate. Fixed224 body, face, wardrobe, skin palette and studio. New components are not yet owner-approved or native-phone-qualified.",
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Feminine-headband.blend"
+  },
+  "Feminine-heart": {
+    "label": "Feminine \u00b7 Heart glasses",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "../224/components/Feminine-uncovered-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "glasses": "components/Feminine-heart-glasses.glb",
+      "lenses": "components/Feminine-heart-lenses.glb"
+    },
+    "build": "Feminine",
+    "style": "heart",
+    "portraits": true,
+    "note": "Correction candidate. Fixed224 body, face, wardrobe, skin palette and studio. New components are not yet owner-approved or native-phone-qualified.",
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Feminine-heart.blend"
+  },
+  "Feminine-kaleidoscope": {
+    "label": "Feminine \u00b7 Faceted frames",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "../224/components/Feminine-uncovered-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "glasses": "components/Feminine-kaleidoscope-glasses.glb",
+      "lenses": "components/Feminine-kaleidoscope-lenses.glb"
+    },
+    "build": "Feminine",
+    "style": "kaleidoscope",
+    "portraits": true,
+    "note": "Correction candidate. Fixed224 body, face, wardrobe, skin palette and studio. New components are not yet owner-approved or native-phone-qualified. Review: Displayed as Faceted frames. This is a frame silhouette only, not kaleidoscope optics.",
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Feminine-kaleidoscope.blend"
+  },
+  "Feminine-pashmina": {
+    "label": "Feminine \u00b7 Pashmina",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-pashmina-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-pashmina-headgear.glb"
+    },
+    "build": "Feminine",
+    "style": "pashmina",
+    "portraits": true,
+    "note": "Correction candidate. Fixed224 body, face, wardrobe, skin palette and studio. New components are not yet owner-approved or native-phone-qualified. Review: Continuous coverage and hair clipping repaired. The silhouette still reads more like a hood/cape than soft folded fabric. Further fold refinement required before catalogue acceptance.",
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Feminine-pashmina.blend"
+  },
+  "Feminine-reading": {
+    "label": "Feminine \u00b7 Reading glasses",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "../224/components/Feminine-uncovered-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "glasses": "components/Feminine-reading-glasses.glb",
+      "lenses": "components/Feminine-reading-lenses.glb"
+    },
+    "build": "Feminine",
+    "style": "reading",
+    "portraits": true,
+    "note": "Correction candidate. Fixed224 body, face, wardrobe, skin palette and studio. New components are not yet owner-approved or native-phone-qualified.",
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Feminine-reading.blend"
+  },
+  "Feminine-side-sweep": {
+    "label": "Feminine \u00b7 Side sweep",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-side-sweep-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb"
+    },
+    "build": "Feminine",
+    "style": "side-sweep",
+    "portraits": true,
+    "note": "Correction candidate. Fixed224 body, face, wardrobe, skin palette and studio. New components are not yet owner-approved or native-phone-qualified.",
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Feminine-side-sweep.blend"
+  },
+  "Feminine-space-buns": {
+    "label": "Feminine \u00b7 Space buns",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-space-buns-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb"
+    },
+    "build": "Feminine",
+    "style": "space-buns",
+    "portraits": true,
+    "note": "Correction candidate. Fixed224 body, face, wardrobe, skin palette and studio. New components are not yet owner-approved or native-phone-qualified.",
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Feminine-space-buns.blend"
+  },
+  "Feminine-sprout": {
+    "label": "Feminine \u00b7 Sprout",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "../224/components/Feminine-uncovered-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "extra": "components/Feminine-sprout-extra.glb"
+    },
+    "build": "Feminine",
+    "style": "sprout",
+    "portraits": true,
+    "note": "Correction candidate. Fixed224 body, face, wardrobe, skin palette and studio. New components are not yet owner-approved or native-phone-qualified. Review: Silhouette readable; the thin stem/detail is subtle at32px.",
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Feminine-sprout.blend"
+  },
+  "Feminine-straight": {
+    "label": "Feminine \u00b7 Straight",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-straight-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb"
+    },
+    "build": "Feminine",
+    "style": "straight",
+    "portraits": true,
+    "note": "Correction candidate. Fixed224 body, face, wardrobe, skin palette and studio. New components are not yet owner-approved or native-phone-qualified.",
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Feminine-straight.blend"
+  },
+  "Feminine-twin-braids": {
+    "label": "Feminine \u00b7 Twin braids",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-twin-braids-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb"
+    },
+    "build": "Feminine",
+    "style": "twin-braids",
+    "portraits": true,
+    "note": "Correction candidate. Fixed224 body, face, wardrobe, skin palette and studio. New components are not yet owner-approved or native-phone-qualified.",
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Feminine-twin-braids.blend"
+  },
+  "Feminine-wayfarer": {
+    "label": "Feminine \u00b7 Rectangular glasses",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "../224/components/Feminine-uncovered-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "glasses": "components/Feminine-wayfarer-glasses.glb",
+      "lenses": "components/Feminine-wayfarer-lenses.glb"
+    },
+    "build": "Feminine",
+    "style": "wayfarer",
+    "portraits": true,
+    "note": "Correction candidate. Fixed224 body, face, wardrobe, skin palette and studio. New components are not yet owner-approved or native-phone-qualified.",
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Feminine-wayfarer.blend"
+  },
+  "Feminine-wraparound": {
+    "label": "Feminine \u00b7 Sport glasses",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "../224/components/Feminine-uncovered-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "glasses": "components/Feminine-wraparound-glasses.glb",
+      "lenses": "components/Feminine-wraparound-lenses.glb"
+    },
+    "build": "Feminine",
+    "style": "wraparound",
+    "portraits": true,
+    "note": "Correction candidate. Fixed224 body, face, wardrobe, skin palette and studio. New components are not yet owner-approved or native-phone-qualified.",
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Feminine-wraparound.blend"
+  },
+  "Masculine-afro": {
+    "label": "Masculine \u00b7 Afro",
+    "components": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "bottom": "../224/components/Masculine-taper-bottom.glb",
+      "eyes": "../224/components/Masculine-taper-eyes.glb",
+      "groom": "../224/components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-afro-hair.glb",
+      "mouth": "../224/components/Masculine-taper-mouth.glb",
+      "top": "../224/components/Masculine-taper-top.glb"
+    },
+    "build": "Masculine",
+    "style": "afro",
+    "portraits": true,
+    "note": "Correction candidate. Fixed224 body, face, wardrobe, skin palette and studio. New components are not yet owner-approved or native-phone-qualified. Review: No exposed support skirt or crown penetration in the reviewed fits. Dense curl geometry is an art source, not a mobile derivative; close-up curl regularity remains an artistic refinement opportunity.",
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Masculine-afro.blend"
+  },
+  "Masculine-buzz": {
+    "label": "Masculine \u00b7 Buzz",
+    "components": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "bottom": "../224/components/Masculine-taper-bottom.glb",
+      "eyes": "../224/components/Masculine-taper-eyes.glb",
+      "groom": "../224/components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-buzz-hair.glb",
+      "mouth": "../224/components/Masculine-taper-mouth.glb",
+      "top": "../224/components/Masculine-taper-top.glb"
+    },
+    "build": "Masculine",
+    "style": "buzz",
+    "portraits": true,
+    "note": "Correction candidate. Fixed224 body, face, wardrobe, skin palette and studio. New components are not yet owner-approved or native-phone-qualified.",
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Masculine-buzz.blend"
+  },
+  "Masculine-curly-top": {
+    "label": "Masculine \u00b7 Curly top",
+    "components": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "bottom": "../224/components/Masculine-taper-bottom.glb",
+      "eyes": "../224/components/Masculine-taper-eyes.glb",
+      "groom": "../224/components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-curly-top-hair.glb",
+      "mouth": "../224/components/Masculine-taper-mouth.glb",
+      "top": "../224/components/Masculine-taper-top.glb"
+    },
+    "build": "Masculine",
+    "style": "curly-top",
+    "portraits": true,
+    "note": "Correction candidate. Fixed224 body, face, wardrobe, skin palette and studio. New components are not yet owner-approved or native-phone-qualified. Review: Actual head-following taper and curl coverage repaired. Dense curl geometry needs a visually compared mobile derivative; no performance approval.",
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Masculine-curly-top.blend"
+  },
+  "Masculine-flow": {
+    "label": "Masculine \u00b7 Flow",
+    "components": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "bottom": "../224/components/Masculine-taper-bottom.glb",
+      "eyes": "../224/components/Masculine-taper-eyes.glb",
+      "groom": "../224/components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-flow-hair.glb",
+      "mouth": "../224/components/Masculine-taper-mouth.glb",
+      "top": "../224/components/Masculine-taper-top.glb"
+    },
+    "build": "Masculine",
+    "style": "flow",
+    "portraits": true,
+    "note": "Correction candidate. Fixed224 body, face, wardrobe, skin palette and studio. New components are not yet owner-approved or native-phone-qualified. Review: Surface intersection/checkerboard removed. The silhouette remains close to the feminine short bob; needs a more distinct masculine flow direction before catalogue acceptance.",
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Masculine-flow.blend"
+  },
+  "Masculine-locs": {
+    "label": "Masculine \u00b7 Locs",
+    "components": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "bottom": "../224/components/Masculine-taper-bottom.glb",
+      "eyes": "../224/components/Masculine-taper-eyes.glb",
+      "groom": "../224/components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-locs-hair.glb",
+      "mouth": "../224/components/Masculine-taper-mouth.glb",
+      "top": "../224/components/Masculine-taper-top.glb"
+    },
+    "build": "Masculine",
+    "style": "locs",
+    "portraits": true,
+    "note": "Correction candidate. Fixed224 body, face, wardrobe, skin palette and studio. New components are not yet owner-approved or native-phone-qualified. Review: Ends and root coverage repaired. Locks are still too regular and parallel, especially from the side and crown. Further artistic revision required before catalogue acceptance.",
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Masculine-locs.blend"
+  }
+}

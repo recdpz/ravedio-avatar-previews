@@ -1,0 +1,710 @@
+{
+  "Feminine-beanie": {
+    "headgear": {
+      "bytes": 689616,
+      "triangles": 37824,
+      "nodes": 2,
+      "materials": 2,
+      "textures": [],
+      "extensions": [],
+      "alpha_modes": [
+        "OPAQUE",
+        "OPAQUE"
+      ],
+      "transmission": [
+        null,
+        null
+      ]
+    },
+    "hair": {
+      "bytes": 1383792,
+      "triangles": 95168,
+      "nodes": 4,
+      "materials": 4,
+      "textures": [],
+      "extensions": [
+        "KHR_materials_clearcoat"
+      ],
+      "alpha_modes": [
+        "OPAQUE",
+        "OPAQUE",
+        "OPAQUE",
+        "OPAQUE"
+      ],
+      "transmission": [
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Feminine-box-braids": {
+    "hair": {
+      "bytes": 10278180,
+      "triangles": 433748,
+      "nodes": 2,
+      "materials": 2,
+      "textures": [],
+      "extensions": [],
+      "alpha_modes": [
+        "OPAQUE",
+        "OPAQUE"
+      ],
+      "transmission": [
+        null,
+        null
+      ]
+    }
+  },
+  "Feminine-bucket": {
+    "headgear": {
+      "bytes": 888816,
+      "triangles": 49032,
+      "nodes": 2,
+      "materials": 2,
+      "textures": [],
+      "extensions": [],
+      "alpha_modes": [
+        "OPAQUE",
+        "OPAQUE"
+      ],
+      "transmission": [
+        null,
+        null
+      ]
+    },
+    "hair": {
+      "bytes": 1383792,
+      "triangles": 95168,
+      "nodes": 4,
+      "materials": 4,
+      "textures": [],
+      "extensions": [
+        "KHR_materials_clearcoat"
+      ],
+      "alpha_modes": [
+        "OPAQUE",
+        "OPAQUE",
+        "OPAQUE",
+        "OPAQUE"
+      ],
+      "transmission": [
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Feminine-cat-eye": {
+    "glasses": {
+      "bytes": 89496,
+      "triangles": 4692,
+      "nodes": 1,
+      "materials": 1,
+      "textures": [],
+      "extensions": [],
+      "alpha_modes": [
+        "OPAQUE"
+      ],
+      "transmission": [
+        null
+      ]
+    },
+    "lenses": {
+      "bytes": 36288,
+      "triangles": 640,
+      "nodes": 1,
+      "materials": 1,
+      "textures": [],
+      "extensions": [
+        "KHR_materials_transmission",
+        "KHR_materials_ior"
+      ],
+      "alpha_modes": [
+        "OPAQUE"
+      ],
+      "transmission": [
+        {
+          "transmissionFactor": 1
+        }
+      ]
+    }
+  },
+  "Feminine-cowboy": {
+    "headgear": {
+      "bytes": 930548,
+      "triangles": 51348,
+      "nodes": 2,
+      "materials": 2,
+      "textures": [],
+      "extensions": [],
+      "alpha_modes": [
+        "OPAQUE",
+        "OPAQUE"
+      ],
+      "transmission": [
+        null,
+        null
+      ]
+    },
+    "hair": {
+      "bytes": 1383792,
+      "triangles": 95168,
+      "nodes": 4,
+      "materials": 4,
+      "textures": [],
+      "extensions": [
+        "KHR_materials_clearcoat"
+      ],
+      "alpha_modes": [
+        "OPAQUE",
+        "OPAQUE",
+        "OPAQUE",
+        "OPAQUE"
+      ],
+      "transmission": [
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Feminine-curls": {
+    "hair": {
+      "bytes": 1383780,
+      "triangles": 95168,
+      "nodes": 4,
+      "materials": 4,
+      "textures": [],
+      "extensions": [
+        "KHR_materials_clearcoat"
+      ],
+      "alpha_modes": [
+        "OPAQUE",
+        "OPAQUE",
+        "OPAQUE",
+        "OPAQUE"
+      ],
+      "transmission": [
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Feminine-ears": {
+    "headgear": {
+      "bytes": 39248,
+      "triangles": 1846,
+      "nodes": 2,
+      "materials": 2,
+      "textures": [],
+      "extensions": [],
+      "alpha_modes": [
+        "OPAQUE",
+        "OPAQUE"
+      ],
+      "transmission": [
+        null,
+        null
+      ]
+    },
+    "hair": {
+      "bytes": 1383792,
+      "triangles": 95168,
+      "nodes": 4,
+      "materials": 4,
+      "textures": [],
+      "extensions": [
+        "KHR_materials_clearcoat"
+      ],
+      "alpha_modes": [
+        "OPAQUE",
+        "OPAQUE",
+        "OPAQUE",
+        "OPAQUE"
+      ],
+      "transmission": [
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Feminine-gems": {
+    "extra": {
+      "bytes": 22072,
+      "triangles": 160,
+      "nodes": 2,
+      "materials": 2,
+      "textures": [],
+      "extensions": [],
+      "alpha_modes": [
+        "OPAQUE",
+        "OPAQUE"
+      ],
+      "transmission": [
+        null,
+        null
+      ]
+    }
+  },
+  "Feminine-headband": {
+    "headgear": {
+      "bytes": 247532,
+      "triangles": 13416,
+      "nodes": 2,
+      "materials": 2,
+      "textures": [],
+      "extensions": [],
+      "alpha_modes": [
+        "OPAQUE",
+        "OPAQUE"
+      ],
+      "transmission": [
+        null,
+        null
+      ]
+    },
+    "hair": {
+      "bytes": 1383792,
+      "triangles": 95168,
+      "nodes": 4,
+      "materials": 4,
+      "textures": [],
+      "extensions": [
+        "KHR_materials_clearcoat"
+      ],
+      "alpha_modes": [
+        "OPAQUE",
+        "OPAQUE",
+        "OPAQUE",
+        "OPAQUE"
+      ],
+      "transmission": [
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Feminine-heart": {
+    "glasses": {
+      "bytes": 89492,
+      "triangles": 4692,
+      "nodes": 1,
+      "materials": 1,
+      "textures": [],
+      "extensions": [],
+      "alpha_modes": [
+        "OPAQUE"
+      ],
+      "transmission": [
+        null
+      ]
+    },
+    "lenses": {
+      "bytes": 37584,
+      "triangles": 640,
+      "nodes": 1,
+      "materials": 1,
+      "textures": [],
+      "extensions": [
+        "KHR_materials_transmission",
+        "KHR_materials_ior"
+      ],
+      "alpha_modes": [
+        "OPAQUE"
+      ],
+      "transmission": [
+        {
+          "transmissionFactor": 1
+        }
+      ]
+    }
+  },
+  "Feminine-kaleidoscope": {
+    "glasses": {
+      "bytes": 89500,
+      "triangles": 4692,
+      "nodes": 1,
+      "materials": 1,
+      "textures": [],
+      "extensions": [],
+      "alpha_modes": [
+        "OPAQUE"
+      ],
+      "transmission": [
+        null
+      ]
+    },
+    "lenses": {
+      "bytes": 23088,
+      "triangles": 640,
+      "nodes": 1,
+      "materials": 1,
+      "textures": [],
+      "extensions": [
+        "KHR_materials_transmission",
+        "KHR_materials_ior"
+      ],
+      "alpha_modes": [
+        "OPAQUE"
+      ],
+      "transmission": [
+        {
+          "transmissionFactor": 1
+        }
+      ]
+    }
+  },
+  "Feminine-pashmina": {
+    "headgear": {
+      "bytes": 1658500,
+      "triangles": 91690,
+      "nodes": 2,
+      "materials": 2,
+      "textures": [],
+      "extensions": [],
+      "alpha_modes": [
+        "OPAQUE",
+        "OPAQUE"
+      ],
+      "transmission": [
+        null,
+        null
+      ]
+    },
+    "hair": {
+      "bytes": 1383792,
+      "triangles": 95168,
+      "nodes": 4,
+      "materials": 4,
+      "textures": [],
+      "extensions": [
+        "KHR_materials_clearcoat"
+      ],
+      "alpha_modes": [
+        "OPAQUE",
+        "OPAQUE",
+        "OPAQUE",
+        "OPAQUE"
+      ],
+      "transmission": [
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Feminine-reading": {
+    "glasses": {
+      "bytes": 90512,
+      "triangles": 4692,
+      "nodes": 2,
+      "materials": 2,
+      "textures": [],
+      "extensions": [],
+      "alpha_modes": [
+        "OPAQUE",
+        "OPAQUE"
+      ],
+      "transmission": [
+        null,
+        null
+      ]
+    },
+    "lenses": {
+      "bytes": 37152,
+      "triangles": 640,
+      "nodes": 1,
+      "materials": 1,
+      "textures": [],
+      "extensions": [
+        "KHR_materials_transmission",
+        "KHR_materials_ior"
+      ],
+      "alpha_modes": [
+        "OPAQUE"
+      ],
+      "transmission": [
+        {
+          "transmissionFactor": 1
+        }
+      ]
+    }
+  },
+  "Feminine-side-sweep": {
+    "hair": {
+      "bytes": 1383796,
+      "triangles": 95168,
+      "nodes": 4,
+      "materials": 4,
+      "textures": [],
+      "extensions": [
+        "KHR_materials_clearcoat"
+      ],
+      "alpha_modes": [
+        "OPAQUE",
+        "OPAQUE",
+        "OPAQUE",
+        "OPAQUE"
+      ],
+      "transmission": [
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Feminine-space-buns": {
+    "hair": {
+      "bytes": 1189564,
+      "triangles": 53446,
+      "nodes": 1,
+      "materials": 1,
+      "textures": [],
+      "extensions": [],
+      "alpha_modes": [
+        "OPAQUE"
+      ],
+      "transmission": [
+        null
+      ]
+    }
+  },
+  "Feminine-sprout": {
+    "extra": {
+      "bytes": 54968,
+      "triangles": 2780,
+      "nodes": 1,
+      "materials": 1,
+      "textures": [],
+      "extensions": [],
+      "alpha_modes": [
+        "OPAQUE"
+      ],
+      "transmission": [
+        null
+      ]
+    }
+  },
+  "Feminine-straight": {
+    "hair": {
+      "bytes": 1383792,
+      "triangles": 95168,
+      "nodes": 4,
+      "materials": 4,
+      "textures": [],
+      "extensions": [
+        "KHR_materials_clearcoat"
+      ],
+      "alpha_modes": [
+        "OPAQUE",
+        "OPAQUE",
+        "OPAQUE",
+        "OPAQUE"
+      ],
+      "transmission": [
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Feminine-twin-braids": {
+    "hair": {
+      "bytes": 969520,
+      "triangles": 53390,
+      "nodes": 2,
+      "materials": 2,
+      "textures": [],
+      "extensions": [],
+      "alpha_modes": [
+        "OPAQUE",
+        "OPAQUE"
+      ],
+      "transmission": [
+        null,
+        null
+      ]
+    }
+  },
+  "Feminine-wayfarer": {
+    "glasses": {
+      "bytes": 89496,
+      "triangles": 4692,
+      "nodes": 1,
+      "materials": 1,
+      "textures": [],
+      "extensions": [],
+      "alpha_modes": [
+        "OPAQUE"
+      ],
+      "transmission": [
+        null
+      ]
+    },
+    "lenses": {
+      "bytes": 36768,
+      "triangles": 640,
+      "nodes": 1,
+      "materials": 1,
+      "textures": [],
+      "extensions": [
+        "KHR_materials_transmission",
+        "KHR_materials_ior"
+      ],
+      "alpha_modes": [
+        "OPAQUE"
+      ],
+      "transmission": [
+        {
+          "transmissionFactor": 1
+        }
+      ]
+    }
+  },
+  "Feminine-wraparound": {
+    "glasses": {
+      "bytes": 89496,
+      "triangles": 4692,
+      "nodes": 1,
+      "materials": 1,
+      "textures": [],
+      "extensions": [],
+      "alpha_modes": [
+        "OPAQUE"
+      ],
+      "transmission": [
+        null
+      ]
+    },
+    "lenses": {
+      "bytes": 32116,
+      "triangles": 640,
+      "nodes": 1,
+      "materials": 1,
+      "textures": [],
+      "extensions": [
+        "KHR_materials_transmission",
+        "KHR_materials_ior"
+      ],
+      "alpha_modes": [
+        "OPAQUE"
+      ],
+      "transmission": [
+        {
+          "transmissionFactor": 1
+        }
+      ]
+    }
+  },
+  "Masculine-afro": {
+    "hair": {
+      "bytes": 20869644,
+      "triangles": 852472,
+      "nodes": 3,
+      "materials": 3,
+      "textures": [],
+      "extensions": [],
+      "alpha_modes": [
+        "BLEND",
+        "OPAQUE",
+        "OPAQUE"
+      ],
+      "transmission": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Masculine-buzz": {
+    "hair": {
+      "bytes": 2542764,
+      "triangles": 57008,
+      "nodes": 2,
+      "materials": 2,
+      "textures": [],
+      "extensions": [],
+      "alpha_modes": [
+        "BLEND",
+        "OPAQUE"
+      ],
+      "transmission": [
+        null,
+        null
+      ]
+    }
+  },
+  "Masculine-curly-top": {
+    "hair": {
+      "bytes": 9512840,
+      "triangles": 380312,
+      "nodes": 3,
+      "materials": 3,
+      "textures": [],
+      "extensions": [],
+      "alpha_modes": [
+        "BLEND",
+        "OPAQUE",
+        "OPAQUE"
+      ],
+      "transmission": [
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Masculine-flow": {
+    "hair": {
+      "bytes": 1381616,
+      "triangles": 95168,
+      "nodes": 4,
+      "materials": 4,
+      "textures": [],
+      "extensions": [
+        "KHR_materials_clearcoat"
+      ],
+      "alpha_modes": [
+        "OPAQUE",
+        "OPAQUE",
+        "OPAQUE",
+        "OPAQUE"
+      ],
+      "transmission": [
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  "Masculine-locs": {
+    "hair": {
+      "bytes": 4892452,
+      "triangles": 203644,
+      "nodes": 1,
+      "materials": 1,
+      "textures": [],
+      "extensions": [],
+      "alpha_modes": [
+        "OPAQUE"
+      ],
+      "transmission": [
+        null
+      ]
+    }
+  }
+}
