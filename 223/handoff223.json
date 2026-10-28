@@ -1,0 +1,338 @@
+{
+  "revision": 223,
+  "baseline": 222,
+  "state": "Saved owner choices applied; cap controls and original graphic emblems self-reviewed; new graphic owner review pending",
+  "preview": "https://recdpz.github.io/ravedio-avatar-previews/223/",
+  "cap_preview": "https://recdpz.github.io/ravedio-avatar-previews/223/#cap",
+  "owner_choices": {
+    "file": "owner-choices222.json",
+    "sha256": "c161f0acce05f9ab548229b14430944165386d7b097aceb913678f259a1120e1",
+    "exact_except": "cap.design wordmark replaced by orbit as requested",
+    "not_overwritten": "Original file and all222 assets retained"
+  },
+  "scope": [
+    "Use owner-supplied choices as the starting look",
+    "Restore always-accessible cap controls",
+    "Replace cap lettering with original geometric emblems"
+  ],
+  "protected": [
+    "222 hair geometry, physical-length and root fit math",
+    "All non-graphic cap geometry",
+    "Body/face/clothing/arms/palette/studio/glasses",
+    "No product or profile-bit changes"
+  ],
+  "sources": {
+    "C:\\Users\\Ronnie\\Downloads\\Ravedio222-choices.json": "c161f0acce05f9ab548229b14430944165386d7b097aceb913678f259a1120e1",
+    "E:\\Ravedio-Avatar\\refinement222\\scenes\\Feminine-ponytail-cap.blend": "815ab27a19af1eb69cde1dcdebad50c1cb4bea25dc9fbfcc9541b9420cfdf23b",
+    "E:\\Ravedio-Avatar\\refinement214\\scenes\\Feminine-cap.blend": "b7d2f290f6a7180163ac95e860c3d1c407ede68d112e0fb022ff779db080180d",
+    "E:\\Ravedio-Avatar\\refinement214\\scenes\\Masculine-cap.blend": "64ea357198091a43026a650e6c64fa6dd4175b1ec8253a47238f8adbb64ae6cd",
+    "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\222\\viewer222.js": "8542cd1c657bfa7028a23375f521b7cd086dddbf24403d508905d7741ab2309d"
+  },
+  "source_audit": {
+    "Feminine-ponytail-cap": {
+      "source": "E:\\Ravedio-Avatar\\refinement222\\scenes\\Feminine-ponytail-cap.blend",
+      "protected_meshes_exact": 45,
+      "saved_reopened": true,
+      "scene_sha256": "92e65f66b2ef07df726a9cc19cc139498406dc633ef9749f093a774c1c4dde30"
+    },
+    "Feminine-cap": {
+      "source": "E:\\Ravedio-Avatar\\refinement214\\scenes\\Feminine-cap.blend",
+      "protected_meshes_exact": 45,
+      "saved_reopened": true,
+      "scene_sha256": "742033333bef9d430f9d900b7b161ba23ffc98fdb027f51fcac8ab7e9af9768e"
+    },
+    "Masculine-cap": {
+      "source": "E:\\Ravedio-Avatar\\refinement214\\scenes\\Masculine-cap.blend",
+      "protected_meshes_exact": 43,
+      "saved_reopened": true,
+      "scene_sha256": "e17cf4778922c81d2ad17c43f3d6c250d382316e78fd7a731d45984a74d39068"
+    }
+  },
+  "graphics": {
+    "orbit": "Original two broken tilted ellipse arcs with a centered diamond",
+    "pulse": "Original compact angular signal emblem",
+    "none": "Plain cap; both graphics hidden",
+    "construction": "Opaque seated embroidered-style sculpted curves with CapOriginal morph basis; no font, alpha blur, decal plane or brand tracing"
+  },
+  "controls": {
+    "always_visible": true,
+    "auto_preview_cap_on_edit": true,
+    "restore_uploaded_look": true,
+    "ranges": {
+      "tilt": [
+        0.0,
+        14.0
+      ],
+      "curve": [
+        0.02,
+        0.16
+      ],
+      "length": [
+        0.22,
+        0.36
+      ],
+      "crown": [
+        0.0,
+        0.035
+      ]
+    },
+    "colors": [
+      "navy",
+      "black",
+      "cream",
+      "purple",
+      "red"
+    ],
+    "tail_and_front_math": "Exact222; covered constraints retained, requested uncovered values preserved"
+  },
+  "components": {
+    "Feminine-cap.glb": {
+      "bytes": 1967900,
+      "sha256": "3955558df9e81a4a3385e275a9a16389963418500dcc30b2b674d26c0ad1ea87",
+      "triangles": 59584,
+      "mesh_nodes": 17,
+      "primitives": 17,
+      "materials": 3,
+      "material_details": [
+        {
+          "name": "Cap / subtle sewing212",
+          "alphaMode": "OPAQUE",
+          "alphaCutoff": null,
+          "doubleSided": true,
+          "baseColorFactor": [
+            0.04600000008940697,
+            0.07800000160932541,
+            0.10499999672174454,
+            1
+          ],
+          "metallic": 0,
+          "roughness": 0.7400000095367432,
+          "extensions": {
+            "KHR_materials_clearcoat": {
+              "clearcoatRoughnessFactor": 0.20000000298023224
+            }
+          }
+        },
+        {
+          "name": "Cap / midnight cotton212",
+          "alphaMode": "OPAQUE",
+          "alphaCutoff": null,
+          "doubleSided": true,
+          "baseColorFactor": [
+            0.026000000536441803,
+            0.05299999937415123,
+            0.07999999821186066,
+            1
+          ],
+          "metallic": 0,
+          "roughness": 0.6899999976158142,
+          "extensions": {
+            "KHR_materials_clearcoat": {
+              "clearcoatRoughnessFactor": 0.20000000298023224
+            },
+            "KHR_materials_specular": {
+              "specularFactor": 0.36000001430511475
+            }
+          }
+        },
+        {
+          "name": "Cap / ivory emblem223",
+          "alphaMode": "OPAQUE",
+          "alphaCutoff": null,
+          "doubleSided": true,
+          "baseColorFactor": [
+            0.7799999713897705,
+            0.8299999833106995,
+            0.8100000023841858,
+            1
+          ],
+          "metallic": 0,
+          "roughness": 0.5199999809265137,
+          "extensions": {}
+        }
+      ],
+      "textures": [],
+      "extensions_used": [
+        "KHR_materials_clearcoat",
+        "KHR_materials_specular"
+      ],
+      "extensions_required": [],
+      "self_contained": true
+    },
+    "Feminine-ponytail-cap.glb": {
+      "bytes": 1967448,
+      "sha256": "c9c06ab1f95530544f11b86b53efa86f14b30a60ac2d59e80f6f157a4728627b",
+      "triangles": 59568,
+      "mesh_nodes": 17,
+      "primitives": 17,
+      "materials": 3,
+      "material_details": [
+        {
+          "name": "Cap / subtle sewing212",
+          "alphaMode": "OPAQUE",
+          "alphaCutoff": null,
+          "doubleSided": true,
+          "baseColorFactor": [
+            0.04600000008940697,
+            0.07800000160932541,
+            0.10499999672174454,
+            1
+          ],
+          "metallic": 0,
+          "roughness": 0.7400000095367432,
+          "extensions": {
+            "KHR_materials_clearcoat": {
+              "clearcoatRoughnessFactor": 0.20000000298023224
+            }
+          }
+        },
+        {
+          "name": "Cap / midnight cotton212",
+          "alphaMode": "OPAQUE",
+          "alphaCutoff": null,
+          "doubleSided": true,
+          "baseColorFactor": [
+            0.026000000536441803,
+            0.05299999937415123,
+            0.07999999821186066,
+            1
+          ],
+          "metallic": 0,
+          "roughness": 0.6899999976158142,
+          "extensions": {
+            "KHR_materials_clearcoat": {
+              "clearcoatRoughnessFactor": 0.20000000298023224
+            },
+            "KHR_materials_specular": {
+              "specularFactor": 0.36000001430511475
+            }
+          }
+        },
+        {
+          "name": "Cap / ivory emblem223",
+          "alphaMode": "OPAQUE",
+          "alphaCutoff": null,
+          "doubleSided": true,
+          "baseColorFactor": [
+            0.7799999713897705,
+            0.8299999833106995,
+            0.8100000023841858,
+            1
+          ],
+          "metallic": 0,
+          "roughness": 0.5199999809265137,
+          "extensions": {}
+        }
+      ],
+      "textures": [],
+      "extensions_used": [
+        "KHR_materials_clearcoat",
+        "KHR_materials_specular"
+      ],
+      "extensions_required": [],
+      "self_contained": true
+    },
+    "Masculine-cap.glb": {
+      "bytes": 1966724,
+      "sha256": "3d6a883d96e57af4665ad23f446af778b834e52e3e40d347fd18b931034a6bd8",
+      "triangles": 59568,
+      "mesh_nodes": 17,
+      "primitives": 17,
+      "materials": 3,
+      "material_details": [
+        {
+          "name": "Cap / subtle sewing212",
+          "alphaMode": "OPAQUE",
+          "alphaCutoff": null,
+          "doubleSided": true,
+          "baseColorFactor": [
+            0.04600000008940697,
+            0.07800000160932541,
+            0.10499999672174454,
+            1
+          ],
+          "metallic": 0,
+          "roughness": 0.7400000095367432,
+          "extensions": {
+            "KHR_materials_clearcoat": {
+              "clearcoatRoughnessFactor": 0.20000000298023224
+            }
+          }
+        },
+        {
+          "name": "Cap / midnight cotton212",
+          "alphaMode": "OPAQUE",
+          "alphaCutoff": null,
+          "doubleSided": true,
+          "baseColorFactor": [
+            0.026000000536441803,
+            0.05299999937415123,
+            0.07999999821186066,
+            1
+          ],
+          "metallic": 0,
+          "roughness": 0.6899999976158142,
+          "extensions": {
+            "KHR_materials_clearcoat": {
+              "clearcoatRoughnessFactor": 0.20000000298023224
+            },
+            "KHR_materials_specular": {
+              "specularFactor": 0.36000001430511475
+            }
+          }
+        },
+        {
+          "name": "Cap / ivory emblem223",
+          "alphaMode": "OPAQUE",
+          "alphaCutoff": null,
+          "doubleSided": true,
+          "baseColorFactor": [
+            0.7799999713897705,
+            0.8299999833106995,
+            0.8100000023841858,
+            1
+          ],
+          "metallic": 0,
+          "roughness": 0.5199999809265137,
+          "extensions": {}
+        }
+      ],
+      "textures": [],
+      "extensions_used": [
+        "KHR_materials_clearcoat",
+        "KHR_materials_specular"
+      ],
+      "extensions_required": [],
+      "self_contained": true
+    }
+  },
+  "review": {
+    "revision": 223,
+    "first_pass": [
+      "Native orbit/pulse logo silhouette, curve seating and placement on both builds",
+      "Retained cap surface/bill/opening, glass placement and222 hair math"
+    ],
+    "second_pass": [
+      "Fresh saved/reopened cap source renders: front, three-quarter, both profiles, rear and above",
+      "Four skin tones at32/48/64/128/512px",
+      "Actual exported browser components, both builds/all current hair choices, caps with glasses",
+      "Exact uploaded default parameters; cap-toggle and saved-look restore; all cap shape controls, graphic/color selection, persistence, JSON/PNG exports"
+    ],
+    "owner_approved_new_graphics": false,
+    "native_phone_qualified": false,
+    "browser": {
+      "owner_choices_exact_except_requested_graphic": true,
+      "graphic_selection": true,
+      "all_cap_parameters_move_geometry": true,
+      "saved_look_and_uncovered_geometry_restore": true,
+      "controls_auto_preview_cap": true,
+      "both_builds_and_all_current_hairs": true,
+      "choices_download": true,
+      "persistence": true,
+      "png_download": true,
+      "direct_cap_link": true
+    }
+  },
+  "assembly_note": "Live starts at owner saved button-up/red-skirt look. Source cap scenes show retained reference tank assembly; exact complete owner outfit is not claimed as a new packed Blender master. Source scenes,222 hair math and choices are provided separately.",
+  "next": "Owner reviews graphics and cap choices; no automatic catalogue promotion, product changes or phone-render qualification."
+}

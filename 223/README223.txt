@@ -1,0 +1,7 @@
+Review223 preserves the owner-selected settings in owner-choices222.json. The only intentional change to that saved look is wordmark -> orbit emblem. The live preview defaults to the saved uncovered look. #cap opens its covered variant, while retaining uncovered front/tail choices. Cap controls are always visible and auto-show the cap when edited. Restore your saved look resets the uploaded choices.
+
+The cap authoring scenes contain two original embossed graphic options and Plain (hide both). No text or real brand is used. Existing cap geometry/fit is preserved. Shared coordinates and CapOriginal morph basis retain the existing cap controls on both builds and all four current hairstyle options.
+
+The source scene views demonstrate cap placement in the retained reference assembly; they are not claimed as a packed source scene of the owner's complete button-up/red-skirt outfit. Live review uses the exact current components for that outfit. Native/browser lighting approximations and native-phone qualification remain separately tracked. No new profile-bit mapping or renderer implementation.
+
+parameters222.py and its JSON config retain the exact222 hair fitting/math. To apply a cap graphic in Blender: import parameters222; parameters222.apply(scene, {"cap": {"design": "orbit", "tilt":8, "curve":0.095, "length":0.285, "crown":0, "color":"navy"}}). Other choices can use the owner file. Front and tail geometry recipes are unchanged.

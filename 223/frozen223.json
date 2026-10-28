@@ -1,0 +1,22 @@
+{
+  "revision": 223,
+  "baseline": 222,
+  "sources": {
+    "C:\\Users\\Ronnie\\Downloads\\Ravedio222-choices.json": "c161f0acce05f9ab548229b14430944165386d7b097aceb913678f259a1120e1",
+    "E:\\Ravedio-Avatar\\refinement222\\scenes\\Feminine-ponytail-cap.blend": "815ab27a19af1eb69cde1dcdebad50c1cb4bea25dc9fbfcc9541b9420cfdf23b",
+    "E:\\Ravedio-Avatar\\refinement214\\scenes\\Feminine-cap.blend": "b7d2f290f6a7180163ac95e860c3d1c407ede68d112e0fb022ff779db080180d",
+    "E:\\Ravedio-Avatar\\refinement214\\scenes\\Masculine-cap.blend": "64ea357198091a43026a650e6c64fa6dd4175b1ec8253a47238f8adbb64ae6cd",
+    "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\222\\viewer222.js": "8542cd1c657bfa7028a23375f521b7cd086dddbf24403d508905d7741ab2309d"
+  },
+  "scope": [
+    "Use owner-supplied choices as the starting look",
+    "Restore always-accessible cap controls",
+    "Replace cap lettering with original geometric emblems"
+  ],
+  "protected": [
+    "222 hair geometry, physical-length and root fit math",
+    "All non-graphic cap geometry",
+    "Body/face/clothing/arms/palette/studio/glasses",
+    "No product or profile-bit changes"
+  ]
+}

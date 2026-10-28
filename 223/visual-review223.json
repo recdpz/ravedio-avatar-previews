@@ -1,0 +1,27 @@
+{
+  "revision": 223,
+  "first_pass": [
+    "Native orbit/pulse logo silhouette, curve seating and placement on both builds",
+    "Retained cap surface/bill/opening, glass placement and222 hair math"
+  ],
+  "second_pass": [
+    "Fresh saved/reopened cap source renders: front, three-quarter, both profiles, rear and above",
+    "Four skin tones at32/48/64/128/512px",
+    "Actual exported browser components, both builds/all current hair choices, caps with glasses",
+    "Exact uploaded default parameters; cap-toggle and saved-look restore; all cap shape controls, graphic/color selection, persistence, JSON/PNG exports"
+  ],
+  "owner_approved_new_graphics": false,
+  "native_phone_qualified": false,
+  "browser": {
+    "owner_choices_exact_except_requested_graphic": true,
+    "graphic_selection": true,
+    "all_cap_parameters_move_geometry": true,
+    "saved_look_and_uncovered_geometry_restore": true,
+    "controls_auto_preview_cap": true,
+    "both_builds_and_all_current_hairs": true,
+    "choices_download": true,
+    "persistence": true,
+    "png_download": true,
+    "direct_cap_link": true
+  }
+}
