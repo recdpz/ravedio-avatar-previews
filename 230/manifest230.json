@@ -1,0 +1,178 @@
+{
+  "catalogue230.json": {
+    "sha256": "07f9c397b6195e17354c616720c0727f0084bea7ab4cc5e4ec0a79dc0c0b6427",
+    "bytes": 30642
+  },
+  "face-palette209.json": {
+    "sha256": "306fc2640a76c0b2f188bfd4fe272c6d045698054bfde7e0ed21ea3c6e67ef50",
+    "bytes": 1337
+  },
+  "handoff230.json": {
+    "sha256": "fd095a8721e2c2a6c47b4d9b3b19e3bac2f1a02647adb5450d2e6cbf45da0c04",
+    "bytes": 9344
+  },
+  "index.html": {
+    "sha256": "8a3fe848699985e6b84be8e4d592f514987f8a2496b4b2f76bba357c00340ff8",
+    "bytes": 6066
+  },
+  "README230.txt": {
+    "sha256": "b8e89b6290798e9fdd58aad61b13e611119093b208836355ffc630ffd4dbc61e",
+    "bytes": 542
+  },
+  "viewer230.js": {
+    "sha256": "19f14eff73fd8b24cdfa5192f433edc762b1ab26785f3f4de83ae2be476daa9f",
+    "bytes": 13785
+  },
+  "components/Feminine-eyes-squint.glb": {
+    "sha256": "38c49913f3e2c9a0ce3ddcbf3d842dbe9b97d8505a3969e21c28e3d5ee41eff8",
+    "bytes": 373960
+  },
+  "components/Masculine-eyes-squint.glb": {
+    "sha256": "79d103844726e90364070db4142df478239063d60c9e16717debfa2dd8968cd1",
+    "bytes": 371808
+  },
+  "references/angles-0.jpg": {
+    "sha256": "9741bb5c1b05d98f7c37a13e8fffb84216a1708e3c9fa173bac316cce8c84ae3",
+    "bytes": 45894
+  },
+  "references/angles-1.jpg": {
+    "sha256": "5a94964b5e660927771e9d55d10bfe3732f06143b2c351a632ea1eeb078dc5c4",
+    "bytes": 48506
+  },
+  "references/Feminine-export-front.png": {
+    "sha256": "4c6bf20e0b6f1916b4a6e2b85e1f5e669fbda8c140404da78846c7dc0630de47",
+    "bytes": 183814
+  },
+  "references/Feminine-export-profile.png": {
+    "sha256": "c02836c584f1f322f3930039937a5599ac73208e39fa284ad5b9cd8d60b25435",
+    "bytes": 188047
+  },
+  "references/Feminine-export-rear.png": {
+    "sha256": "0b35bcb908e93f612036d1a658749a019163f5d0e848a3f9be29a29c7a5a065d",
+    "bytes": 197533
+  },
+  "references/Feminine-export-rightprofile.png": {
+    "sha256": "069bb53a265b9c3ccaa389f47cb8fc377526b834cf03f2720dbcf27c7796fe47",
+    "bytes": 186105
+  },
+  "references/Feminine-export-threequarter.png": {
+    "sha256": "fab0a1cbe134eaaafdfd936aba70213e769d15dec0ca7d1ecc40d60201e9998b",
+    "bytes": 186411
+  },
+  "references/Feminine-export-top.png": {
+    "sha256": "57a03b951dad81a8805920b986ef90dd334ed8acf7f7105d9ad23bbab17f34d6",
+    "bytes": 202741
+  },
+  "references/Feminine-export-underside.png": {
+    "sha256": "2f812eb45023432bd180788ba9c1254a2022210cf7b5d18fb553d4a374c6f713",
+    "bytes": 187638
+  },
+  "references/Feminine-original-front.png": {
+    "sha256": "e88d65b32236bc7fb696f1f726d83e23bf3ecc126d434c5488f38a4a29cbd47a",
+    "bytes": 184145
+  },
+  "references/Feminine-tone0.png": {
+    "sha256": "d6eb8a805aa9b810d530dcb1fd5e4990fc10af293fdd39c7cebe7146e81b2b83",
+    "bytes": 26222
+  },
+  "references/Feminine-tone1.png": {
+    "sha256": "a12a9089c90bea08b5ab9a1ddfc34a58a90f98b49c0835bab42789fe95e89a8f",
+    "bytes": 26393
+  },
+  "references/Feminine-tone2.png": {
+    "sha256": "365e2e30a94f46f9dc674816bb32408bb8ea5b8f6805d271d0431facd8abed87",
+    "bytes": 26329
+  },
+  "references/Feminine-tone3.png": {
+    "sha256": "318b9c92d88b371a2460fd17f6fb3724fb3cc607d051c2b785d35294d322a59d",
+    "bytes": 26265
+  },
+  "references/Masculine-export-front.png": {
+    "sha256": "10b2ae81216fddd2524cb951e12e63c9aa2dfa8e0527247e4b4d4c6d64a38552",
+    "bytes": 204078
+  },
+  "references/Masculine-export-profile.png": {
+    "sha256": "2232f29a7230092371b796a9bbe41995745ee7befa51d344cace0716a8cda3af",
+    "bytes": 191104
+  },
+  "references/Masculine-export-rear.png": {
+    "sha256": "d8e109e1e075df7e685670da05d4aad536b5eaf8bc8d51aba0bfd6b626f6a78e",
+    "bytes": 186309
+  },
+  "references/Masculine-export-rightprofile.png": {
+    "sha256": "b00ca6ae9787659d4e3205054aa58bb3bc1bb231daf1a0059796b48a342e7704",
+    "bytes": 190049
+  },
+  "references/Masculine-export-threequarter.png": {
+    "sha256": "43b2c33588760a11be6d5d5d5f5b913b572966c9da4863a378d5d85621f90e68",
+    "bytes": 203210
+  },
+  "references/Masculine-export-top.png": {
+    "sha256": "99d9d3bffdbf831bce68b5cbb1fd1abafc669157cd2846adbbabd20facaec6a9",
+    "bytes": 186687
+  },
+  "references/Masculine-export-underside.png": {
+    "sha256": "f09b04c10b2b88130c316db1f499daf2d449b3e050c16c4431d81366f9f7dffc",
+    "bytes": 208259
+  },
+  "references/Masculine-original-front.png": {
+    "sha256": "fe776bcf519a3a776b7a38c52f3634b61d6f47566cddb8bfbb2bf324d76655b5",
+    "bytes": 204059
+  },
+  "references/Masculine-tone0.png": {
+    "sha256": "c99c1dbb8be1f75b4176dbd7b19afb08ef77c9107facc78cf8c751c89776972f",
+    "bytes": 26290
+  },
+  "references/Masculine-tone1.png": {
+    "sha256": "a3c4f849af66a89aa6f8c93b60cedcfff290b7020e763b056bfa74712ec85829",
+    "bytes": 26578
+  },
+  "references/Masculine-tone2.png": {
+    "sha256": "9c535dd95277d67c2d5baf6a7894755e355f185277fc753c43cba7f17f54b860",
+    "bytes": 26504
+  },
+  "references/Masculine-tone3.png": {
+    "sha256": "a2e0a45acce27ca1d00f1f3274585968263684a40e60b38b8417acb75200112c",
+    "bytes": 26219
+  },
+  "references/small230.jpg": {
+    "sha256": "281ecddf3fd588b340cf40694981937cd9db8cac0a428b411c7e3a939a8e4d91",
+    "bytes": 43202
+  },
+  "source/catalogue230.py": {
+    "sha256": "97bbf326aa4a84a73fb92e3342b35760409d9aee50d8683094b7cdc24331cb0f",
+    "bytes": 6376
+  },
+  "source/controls230.js": {
+    "sha256": "a0128d2e71a5f1e882982a4e7cd4bf18017a2405264d9fa0e4fa63ce1c77b304",
+    "bytes": 11979
+  },
+  "source/eyes230.py": {
+    "sha256": "2fb3b4d41d088224a6d9b1773ed4f919c89900b7db952aa44ffb6fe9473135b9",
+    "bytes": 6307
+  },
+  "source/final-browser230.cjs": {
+    "sha256": "6a3f32e8f09859efc90e489d629b3665ae4fa0219c841df767959d4332a92085",
+    "bytes": 2739
+  },
+  "source/outline-proof230.py": {
+    "sha256": "a4fe6e0bbd00704ec46169461fc170b69fffff4aa363c8f8794d16c35b4536aa",
+    "bytes": 909
+  },
+  "source/package230.py": {
+    "sha256": "a1e02b7cd38b830f4502e9ca5afd66be7876bf2c5d8f2b807dbc7815805bfda3",
+    "bytes": 7133
+  },
+  "source/record230.py": {
+    "sha256": "c2fe93115800e03e74f26327bac1c7b147ac113ecf84c40186edcc8f0ee8c0b6",
+    "bytes": 4220
+  },
+  "source/sheets230.py": {
+    "sha256": "6fa45d8b034738b7533ccd83798b79d91ba663e92a41b7605abda7384b3a67ec",
+    "bytes": 987
+  },
+  "source/verify-eyes230.py": {
+    "sha256": "a78418ee19d6df196c3c6e9c498dd0c7b680d3e2b41189f5be3eabbb3828162d",
+    "bytes": 1394
+  }
+}
