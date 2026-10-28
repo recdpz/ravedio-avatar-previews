@@ -1,0 +1,270 @@
+{
+  "catalogue233.json": {
+    "sha256": "b71b5077fdb53acb7a7c072edff5222fe5b4afda6a3e11c7981d2f6546ba4aa1",
+    "bytes": 30620
+  },
+  "face-palette209.json": {
+    "sha256": "306fc2640a76c0b2f188bfd4fe272c6d045698054bfde7e0ed21ea3c6e67ef50",
+    "bytes": 1337
+  },
+  "handoff233.json": {
+    "sha256": "0ef38c671e252b666800a1a6121c6515ff1216d2589553f25c714d2e7d6e35a0",
+    "bytes": 10887
+  },
+  "index.html": {
+    "sha256": "16722ca0138541aaa493db2cfe6e3a5e94a9a646bd7c20ec5cb5f46e594e4850",
+    "bytes": 7855
+  },
+  "README233.txt": {
+    "sha256": "36f22cb11560164493d88e95ff0f0e82ccf9c182c23200505a8d78c17dc6aef4",
+    "bytes": 765
+  },
+  "viewer233.js": {
+    "sha256": "5dd3ed223dcc18f3ff8a7ff2dd8ce16558c8722a84f73189c507436c3900d779",
+    "bytes": 14731
+  },
+  "components/Feminine-eyes-bean.glb": {
+    "sha256": "eec54fa919eb53da0a6764aec3666ef769e046362445a8a014c4aba4874afa52",
+    "bytes": 289040
+  },
+  "components/Feminine-eyes-tapered.glb": {
+    "sha256": "bb1a4f177265567d23d08c79d1fcf65fafae034a4b2029b326f78da30c9fad91",
+    "bytes": 282864
+  },
+  "components/Masculine-eyes-bean.glb": {
+    "sha256": "23f99c854f6cc6cccae0e37bea0735e73c26424401c2a2e127fe0c060ac842a1",
+    "bytes": 286884
+  },
+  "components/Masculine-eyes-tapered.glb": {
+    "sha256": "88e9a5d9172cf38006763a68d357d4cafa813d3bfe729615f23a698c771160d8",
+    "bytes": 280708
+  },
+  "references/angles-bean.jpg": {
+    "sha256": "1ee3518d9e8136c5c66f08185df7df4c2714cd53d6971ea4885f4e3b627e3071",
+    "bytes": 57508
+  },
+  "references/angles-tapered.jpg": {
+    "sha256": "f6324b653fef47e7b81c64068c83cdc1084e5cc7cb6e7fa8d18242071cba1ef7",
+    "bytes": 57968
+  },
+  "references/comparison-front.jpg": {
+    "sha256": "8edd3c40e9d05bf3ea093abdcaada4c34d6cf713d95210bd0812d415a30b7517",
+    "bytes": 61411
+  },
+  "references/comparison-threequarter.jpg": {
+    "sha256": "0b539cb3be3582779e1eadabdd3fffb0eaaef3f39d489293beb45a8fa4a0e9d1",
+    "bytes": 61659
+  },
+  "references/Feminine-bean-export-front.png": {
+    "sha256": "89536cb97d11a45b6bd80e5861d0c314c3acdce3c47d031de2cfc39b917079e4",
+    "bytes": 184092
+  },
+  "references/Feminine-bean-export-profile.png": {
+    "sha256": "a2e1a1c05a2646a3f16e640e9b18dd88508c56d0494520952034b9b97d82997c",
+    "bytes": 188295
+  },
+  "references/Feminine-bean-export-rightprofile.png": {
+    "sha256": "4f0c6f167a906954d8a8a1dd53a00dffc9779814854ebd58cee62a92efed44ce",
+    "bytes": 186254
+  },
+  "references/Feminine-bean-export-threequarter.png": {
+    "sha256": "22e07e1e806d4533d146d92e725645c0d3aac30f451965ea4160b879019bcd2a",
+    "bytes": 186722
+  },
+  "references/Feminine-bean-export-top.png": {
+    "sha256": "9731e2bc3af60ee033f9fb853a93c57fac14a472dcec3492d9d0de81bf8326e1",
+    "bytes": 202970
+  },
+  "references/Feminine-bean-export-underside.png": {
+    "sha256": "ddd027756db2d8e31c6a5b34766ed6584df1b0e3a44dc22beb2b67ceeb6aa972",
+    "bytes": 187922
+  },
+  "references/Feminine-bean-tone0.png": {
+    "sha256": "bd233e14308ab6042227e1d71308afb821d6ae0aa702450eae0c9eeb43657f52",
+    "bytes": 26557
+  },
+  "references/Feminine-bean-tone1.png": {
+    "sha256": "d8de9d223438f96595c111b16dfeabc98057f398f6306d2e09441fa7b13997a4",
+    "bytes": 26699
+  },
+  "references/Feminine-bean-tone2.png": {
+    "sha256": "944bb6b5532b053b757b0019b1e220df7ec273461190e1b92d944151c5f678c0",
+    "bytes": 26561
+  },
+  "references/Feminine-bean-tone3.png": {
+    "sha256": "b3b84b21a0c4af864c7befcddb422cff2107c016273960352cdb657ec752ef84",
+    "bytes": 26455
+  },
+  "references/Feminine-original-front.png": {
+    "sha256": "2f6570087f0e639a159129352227111a197731583c83dbf5926d0c2cf6f34170",
+    "bytes": 184070
+  },
+  "references/Feminine-tapered-export-front.png": {
+    "sha256": "295800866e68e2c328f1178a3e6908b89006217f97cb40c6ce21e0bc90222a23",
+    "bytes": 184022
+  },
+  "references/Feminine-tapered-export-profile.png": {
+    "sha256": "0da21a0fbb0a20f619b13e383e1a3ea847ac491656025d2eafa6a58fe91cb641",
+    "bytes": 188280
+  },
+  "references/Feminine-tapered-export-rightprofile.png": {
+    "sha256": "1d7432b229d1b3338267c7d612539f150107a5bdd042245d3ac55165027a81a8",
+    "bytes": 186081
+  },
+  "references/Feminine-tapered-export-threequarter.png": {
+    "sha256": "92f1138e7b5bf01a1f1ba0d0fdd59e32e36f5923d727b6524202539c7f853a24",
+    "bytes": 186685
+  },
+  "references/Feminine-tapered-export-top.png": {
+    "sha256": "5c976931d97e5447ccac491cfd961b3f6f57d6954a14670e643360081202994b",
+    "bytes": 202861
+  },
+  "references/Feminine-tapered-export-underside.png": {
+    "sha256": "834f4761159a09a7a6019d82ad2d57fc0f4545680be4af2aa325d83aacff39f6",
+    "bytes": 187922
+  },
+  "references/Feminine-tapered-tone0.png": {
+    "sha256": "e2fa232e6e0a392f10387c6fd32a01d315d84d2c6dfa4b710ffe4de0ea14713b",
+    "bytes": 26587
+  },
+  "references/Feminine-tapered-tone1.png": {
+    "sha256": "ef102bf615a6159101b8770f46012655934982128fbeaff621c58a85b5374153",
+    "bytes": 26691
+  },
+  "references/Feminine-tapered-tone2.png": {
+    "sha256": "c0ad2a36d2dab3e9777239e3c2d58e4e464c0726007b555749ad06bb4f69e2b6",
+    "bytes": 26601
+  },
+  "references/Feminine-tapered-tone3.png": {
+    "sha256": "d22baa57e6de80bf42f1f04ae76042dbbebdc60dea0459aa40ad90bd5aa822f6",
+    "bytes": 26585
+  },
+  "references/Masculine-bean-export-front.png": {
+    "sha256": "f1a67b08322a00d0965bab689ebc70bf51e5c64fdc37d9ce08464e9a51683afe",
+    "bytes": 204325
+  },
+  "references/Masculine-bean-export-profile.png": {
+    "sha256": "7f3a1aa0ea01c1492d39762553839b4f2f8a3b403dfc4ea4e1256baaaebaa375",
+    "bytes": 191246
+  },
+  "references/Masculine-bean-export-rightprofile.png": {
+    "sha256": "95223106d0a29895940d26092c3d1771577569a108b45969b4c524145f46b8bf",
+    "bytes": 190301
+  },
+  "references/Masculine-bean-export-threequarter.png": {
+    "sha256": "76ec05f56157d252006ce34163bc867e23c0ecaabdcb646af74be113a24d6f0c",
+    "bytes": 203424
+  },
+  "references/Masculine-bean-export-top.png": {
+    "sha256": "8700b3339007973eeb86d932ac7376ad62c43f62de56af07938889fd420419bb",
+    "bytes": 186985
+  },
+  "references/Masculine-bean-export-underside.png": {
+    "sha256": "66a43e7baac0d0be029314b37d022f7e99b3b127d01858e27aa3aa7888e39b9a",
+    "bytes": 208961
+  },
+  "references/Masculine-bean-tone0.png": {
+    "sha256": "8e140b95f841c5d094a61e71ee3b0be2bfc8afd3ec47832c93389262fdbafef4",
+    "bytes": 26492
+  },
+  "references/Masculine-bean-tone1.png": {
+    "sha256": "ac5587c7fc8641d7e5a59aac1d4d1d4b33154078650fd60500b502c93acf72dd",
+    "bytes": 26823
+  },
+  "references/Masculine-bean-tone2.png": {
+    "sha256": "2cf68164a233283ad66f2891ec4a3168070f06908472ca49cfb6d11eea958390",
+    "bytes": 26713
+  },
+  "references/Masculine-bean-tone3.png": {
+    "sha256": "d12f66c61ead00bd8217624813c677cc32b6ba32defa34effaf99430b5910fee",
+    "bytes": 26274
+  },
+  "references/Masculine-original-front.png": {
+    "sha256": "c3bbe9fcdb5798f84c1a931bd3c7bff1b8c86ac90da704e48c8634b5cc06bf97",
+    "bytes": 204763
+  },
+  "references/Masculine-tapered-export-front.png": {
+    "sha256": "c5a3da42f570f960da76f54077570c370fcfa3e95fbc8677cbb21c0605165e09",
+    "bytes": 204182
+  },
+  "references/Masculine-tapered-export-profile.png": {
+    "sha256": "17ae4df627869604ca373c21289338b49a21aeefdf4ae6ca1800e76a6dd6b968",
+    "bytes": 191443
+  },
+  "references/Masculine-tapered-export-rightprofile.png": {
+    "sha256": "0f963a2dd13691239c87491e388534657d39d44813ecc69043fb16c5e4155e02",
+    "bytes": 190122
+  },
+  "references/Masculine-tapered-export-threequarter.png": {
+    "sha256": "05acf700433b4b184993e69728807cbee9522b2f94e8d5cdf878201ca3f787f6",
+    "bytes": 203455
+  },
+  "references/Masculine-tapered-export-top.png": {
+    "sha256": "fba09996fc83f97048e733ec4a2ce9ef25a11ce678a43e5a34788aa6800d96e7",
+    "bytes": 186765
+  },
+  "references/Masculine-tapered-export-underside.png": {
+    "sha256": "e6aaa2a4f41519fc771d204d42ac3e411d731c8c0f3208300cbe5ab3d0de55ed",
+    "bytes": 208735
+  },
+  "references/Masculine-tapered-tone0.png": {
+    "sha256": "8474ba5fdce7abff6127b57dc1a220c6c417deba0cbc8db88b0641d158729643",
+    "bytes": 26589
+  },
+  "references/Masculine-tapered-tone1.png": {
+    "sha256": "2c2c413fcc0a457af792dc66cd36b8f57afe4d4622df26302a2693e1b085cffb",
+    "bytes": 26821
+  },
+  "references/Masculine-tapered-tone2.png": {
+    "sha256": "632797e7d6ff7ce5decb569b6f1cb1e63f3be898635928c2acef13201c81578f",
+    "bytes": 26664
+  },
+  "references/Masculine-tapered-tone3.png": {
+    "sha256": "c1a35c298d83e920663dc3801721db20350a5023f7936425c5fca168318f4ab9",
+    "bytes": 26318
+  },
+  "references/outlines233.svg": {
+    "sha256": "071664110d5a9c3bdfddf160fd78b3b89a137f34c65b1dcc4292895a2e8404b7",
+    "bytes": 1888
+  },
+  "references/small-bean.jpg": {
+    "sha256": "b976c16242414e1a0f40c470bf2e07142494f07a76f6cbeab72c8ecda0e56d38",
+    "bytes": 45004
+  },
+  "references/small-tapered.jpg": {
+    "sha256": "7a17c07857b18bef35ea6dda957ed3afe73e45919bfec54766eefcd5a7660b33",
+    "bytes": 45587
+  },
+  "source/browser233.cjs": {
+    "sha256": "85faf84a84ca53c5515e75dd5b372887b3ae51cdf74981d8de51034dc12ef6f1",
+    "bytes": 5166
+  },
+  "source/catalogue233.py": {
+    "sha256": "dad5758fc339c3a0ad2d7f4da4fef35a1ac620e80a49573cf608eb93c200d7a3",
+    "bytes": 6399
+  },
+  "source/controls233.js": {
+    "sha256": "478f7b5882409685a7c3ecc4853498bec1d03ed89431fa275760044c028b94af",
+    "bytes": 12925
+  },
+  "source/eyes233.py": {
+    "sha256": "a7c1d8f73803531a19ad00f93bea89fef655a791d7a9191634afc59cb208c877",
+    "bytes": 6619
+  },
+  "source/package233.py": {
+    "sha256": "dad1326d14fc4fdca148fd218f513518985431aad662085522ab9494587159b1",
+    "bytes": 4285
+  },
+  "source/record233.py": {
+    "sha256": "012f0af52017e4507e42199b35c3c47ecf1d36bb69fd490d303dc2f9631d1aa7",
+    "bytes": 5272
+  },
+  "source/sheets233.py": {
+    "sha256": "1c9f25f5db5c5c128943f1375b23e61d10ef38bbeca7e928599fcfe69210a8d1",
+    "bytes": 2656
+  },
+  "source/verify233.py": {
+    "sha256": "a3ab0b078f570d019497f4f17908e1b89c1e88238d1ff8f6f71cf8613e1bf743",
+    "bytes": 1477
+  }
+}
