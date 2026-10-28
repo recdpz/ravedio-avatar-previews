@@ -1,0 +1,154 @@
+{
+  "schema": 1,
+  "slice": 225,
+  "status": "Requirements recorded; no optimized candidate or native/portrait result created",
+  "source_checkpoint": 224,
+  "source_commit": "95b38cb01ea7759b3e2a8f2197498053035ef214",
+  "source_manifest_sha256": "d54035bc9c3a0de0ff701f2d9fd19e718ab096e087f13b989069485ef3e20634",
+  "scope": "Two ordinary-GLB optimization derivatives from immutable224 references, with complete-chain validation required before acceptance",
+  "primary_assemblies": {
+    "Feminine-hoodie": {
+      "source_case": "Feminine-hoodie",
+      "scene": "scenes/Feminine-hoodie.blend",
+      "assembly": "assemblies/Feminine-hoodie.glb",
+      "components": {
+        "base": "components/Feminine-uncovered-base.glb",
+        "bottom": "components/Feminine-uncovered-bottom.glb",
+        "extra": "components/Feminine-details-extra.glb",
+        "eyes": "components/Feminine-uncovered-eyes.glb",
+        "glasses": "components/Feminine-details-glasses.glb",
+        "hair": "components/Feminine-cap-hair.glb",
+        "headgear": "components/Feminine-cap-headgear.glb",
+        "lenses": "components/Feminine-details-lenses.glb",
+        "mouth": "components/Feminine-uncovered-mouth.glb",
+        "top": "components/Feminine-hoodie-top.glb"
+      },
+      "baseline_triangles": 962002,
+      "files": {
+        "scenes/Feminine-hoodie.blend": "31cf7283a8cadbf6298b0df5528cd8b1df95aaf1fdb39781cd1e22515c10aab3",
+        "assemblies/Feminine-hoodie.glb": "36725484e0345709b9aefbd95ce142d21d7f28e72048ba59af7c3b4676071aeb",
+        "components/Feminine-uncovered-base.glb": "ba31ace282c894e81591f46a7460ace0104541be1bd97af41097200566641c20",
+        "components/Feminine-uncovered-bottom.glb": "dc5815e281e4c72a7f5c3e58237f524000c7fbc6b385d398f4238a29e7eb271b",
+        "components/Feminine-details-extra.glb": "b505e82ea6406cd913db8df5b294461c103d5f90241e4321e21a9f8e7b7ac0e9",
+        "components/Feminine-uncovered-eyes.glb": "3d2216f351447fe7aa420ce91de9aa1831124915678e29bec7a152fdab1254f3",
+        "components/Feminine-details-glasses.glb": "a610ee328d592e184ade84ca96c23978f3d0fb87b317c04da16054224cf7963a",
+        "components/Feminine-cap-hair.glb": "fb2f42dddf1b7b270acd0a2682414f946e69f6dd85839f1dd311e94f1e2cc938",
+        "components/Feminine-cap-headgear.glb": "0222ced6bfbc8665767725631993396c68a77e6d0fbbf2ca0f09c10a375456c7",
+        "components/Feminine-details-lenses.glb": "b76da971e4b13c8d8ae15aa23b7c716ad8e2c0259ad30fc2f88c724f3b47c6dc",
+        "components/Feminine-uncovered-mouth.glb": "01c743f54cbd8c955b8c33a03db78675ba6378feab582a37f5ff7530ebcd5c2c",
+        "components/Feminine-hoodie-top.glb": "0fca861a7890d41fcc938aea8ca13dbfd2c94a45247a341a3f1ae277705b1887"
+      }
+    },
+    "Masculine-taper": {
+      "source_case": "Masculine-taper",
+      "scene": "scenes/Masculine-taper.blend",
+      "assembly": "assemblies/Masculine-taper.glb",
+      "components": {
+        "base": "components/Masculine-taper-base.glb",
+        "bottom": "components/Masculine-taper-bottom.glb",
+        "eyes": "components/Masculine-taper-eyes.glb",
+        "groom": "components/Masculine-taper-groom.glb",
+        "hair": "components/Masculine-taper-hair.glb",
+        "mouth": "components/Masculine-taper-mouth.glb",
+        "top": "components/Masculine-taper-top.glb"
+      },
+      "baseline_triangles": 732114,
+      "files": {
+        "scenes/Masculine-taper.blend": "161d7f5eaa922e19ab1cf8be9ec12a8241dccd91fa4bacaf01c60d276f55dabd",
+        "assemblies/Masculine-taper.glb": "c236e1cf9e57dc95fe1f3d8d4e3eda061f77e58e6a39163be9acf4f6c2ece7e6",
+        "components/Masculine-taper-base.glb": "a6583aefdb3193e24dc31dbacc93505a8494b38584f144ca60da8764182a7352",
+        "components/Masculine-taper-bottom.glb": "86ccbdf2cb46b35a9649b53adc8c8be6827e82f7ff7181e80c99f0f2d008638a",
+        "components/Masculine-taper-eyes.glb": "bd546a5424ad2e8b08b5ae33869b8e7e485d0412a9abc369d624fccd5821ab5a",
+        "components/Masculine-taper-groom.glb": "94a521cda1dddcaf9c4fee627d3707c18d217f029c675f036ba2a8255bece409",
+        "components/Masculine-taper-hair.glb": "336203b17cabe6057f244428b9987bf592463b6ba53513fb6cf5522c8d9e68ca",
+        "components/Masculine-taper-mouth.glb": "8b102d3c8690d632b1afa07e84983b30c9fb0015eb2d356d7c3a8ca1122a0ff7",
+        "components/Masculine-taper-top.glb": "eb32d9a45642ee07a4988d5e611db1c4dae95488d5aa8e7ce00e4958d3b0db94"
+      }
+    }
+  },
+  "requirements": [
+    {
+      "id": "shared_coordinates",
+      "required": "Preserve original shared world coordinates, scale, origins and attachment alignment. No per-component centering/resizing. Validate normals, winding and degenerate geometry; equal-sized triangles are not a goal.",
+      "evidence": "Source/output transform and world-space attachment comparison; reassemble original-coordinate components."
+    },
+    {
+      "id": "selectability_and_color_controls",
+      "required": "Keep hair, body, garments, headgear, frame, lens, facial-hair and HOT roles independently addressable. Preserve separate recolor groups and frame/lens materials even if values currently match. Merge only compatible subparts inside the same control boundary. Preserve component identity/extras and COLOR_0 RGBA semantics.",
+      "evidence": "Before/after semantic component/material/color-control inventory and independent hide/recolor checks. Array indices may change only with a validated role mapping; names/IDs used by consumers must remain usable."
+    },
+    {
+      "id": "silhouette_and_attachment_boundaries",
+      "required": "Protect hair coverage, hairline/root/contact regions, garment openings/straps/hems/necklines, cap opening/bill fit, glasses placement and silhouettes. Do not remove geometry merely hidden by a selected camera/outfit. Attribute-aware simplification and explicit protected boundaries are required.",
+      "evidence": "All-angle source/output views, four tones, both full-body and face framing; inspect contacts with arms/sleeves hidden and with relevant clothing/headwear toggled."
+    },
+    {
+      "id": "paired_color_depth",
+      "required": "Regenerate each portrait color/depth pair in one versioned bake job from the same geometry/pose, camera, resolution, projection and depth convention. Existing depth maps cannot be mixed with altered geometry. No dependency on original triangle count or vertex numbering.",
+      "evidence": "Atomic bake-bundle manifest with geometry/component hashes, appearance/material version, camera/projection/resolution, depth units/encoding/near-far/background convention, baker version and output hashes. Reject mismatched bundles before use."
+    },
+    {
+      "id": "transmission_gate",
+      "required": "Treat real lenses as a separate rendering test. Detect actual transmission/extensions rather than alphaMode alone. Preserve the source opacity1/transmission1/IOR1.25 lens behavior and independent frames. Do not hide/remove lenses, paint opacity or mark nearest-opaque output faithful. Test coverage alpha on taper separately.",
+      "evidence": "Opaque/coverage-alpha/transmission classification plus visible-eyes/ordering/reflection comparisons in native3D and portrait paths. Lens portrait support remains unresolved until demonstrated or an explicit owner-approved alternative exists."
+    },
+    {
+      "id": "ordinary_glb_first",
+      "required": "First outputs are ordinary GLBs with unchanged supported material behavior and floating-point geometry, no new mesh compression, quantization, instancing requirement or decoder dependency. Both native renderer and offline portrait baker must consume them before a later encoding pass.",
+      "evidence": "Inspect extensions/attribute types, decode/load in both consumers, report unsupported features explicitly. Compression/quantization is a separate later decision."
+    },
+    {
+      "id": "multidimensional_acceptance",
+      "required": "50,000-100,000 triangles is an exploratory target, never a pass threshold. Evaluate appearance, peak loading memory, decoded CPU/GPU geometry memory, materials/primitives/actual draw passes, responsiveness and real-phone performance together. Mesh reduction does not inherently reduce fixed-resolution decoded portrait/depth memory or engine overhead.",
+      "evidence": "Per-stage measurements and matched224 source -> optimized model -> native3D -> lightweight portrait comparisons, with exact input/build/device identities."
+    }
+  ],
+  "consumer_constraints": {
+    "provenance": "Owner-supplied limitations; verify exact native/baker build before implementation or capability claims",
+    "portrait_prototype": "Nearest opaque surface selection cannot faithfully represent transmitting lenses; geometry reduction cannot fix that rendering limitation.",
+    "offline_baker": "Compression/quantization decoding is not currently supported; ordinary GLBs are mandatory for the first pass."
+  },
+  "pipeline": [
+    {
+      "stage": "Source224",
+      "pass": "Pinned untouched scenes, components, material roles, choices and comparison images"
+    },
+    {
+      "stage": "Optimized asset",
+      "pass": "Ordinary GLBs, preserved coordinates/control boundaries, all-angle and recolor comparisons, no asset-driven appearance regressions"
+    },
+    {
+      "stage": "Native3D",
+      "pass": "Both platform imports and source/optimized comparisons; loading/decoded-memory/material/draw measurements"
+    },
+    {
+      "stage": "Lightweight portrait",
+      "pass": "Fresh matched color/depth bundles, proper coverage handling, separate transmitting-lens result and real app workload tests"
+    }
+  ],
+  "stage_policy": "Record pass/fail/pending per assembly and stage. Asset-stage success never substitutes for native, portrait or phone qualification. Do not claim full-chain success while a lens/decoder/composition gap remains.",
+  "rendering_reviews": "Two deliberate visual reviews minimum, source and actual exported result; any correction reopens affected checks. Preserve normals/shading discontinuities as well as positions and alpha coverage.",
+  "optimizer_policy": {
+    "tool_versions": "Pin versions and record exact options before running any optimizer. Do not use in-place/global defaults.",
+    "gltfpack_notes": "Current docs describe node/mesh merging, material merging, extras pruning and default quantization. Evaluate preserve-name/material/extras controls (-kn/-km/-ke) and disable quantization (-noq) if gltfpack is used; these flags are not themselves proof that semantic boundaries survived.",
+    "meshoptimizer_notes": "Use attribute-aware simplification with explicit border/vertex locks where applicable; protect critical seams/anchors beyond only topological mesh borders."
+  },
+  "sources_for_tool_behavior": [
+    "https://github.com/zeux/meshoptimizer/blob/master/gltf/README.md",
+    "https://github.com/zeux/meshoptimizer/blob/master/README.md",
+    "https://github.com/KhronosGroup/glTF/blob/main/extensions/2.0/Khronos/KHR_materials_transmission/README.md"
+  ],
+  "scope_boundaries": [
+    "No224 master or published artifact changes",
+    "No new catalogue styles or profile-byte assignments",
+    "No native renderer or baker replacement silently bundled with asset optimization",
+    "Native/product work must follow its own current repository/phase rules; no phone result is inferred from browser/Blender tests"
+  ],
+  "deliverables": [
+    "Source/output component-control and material-role maps",
+    "Ordinary per-component and assembled GLBs",
+    "Source/output all-angle/skin/color/attachment comparisons",
+    "Metrics and paired color/depth bake contract with no stale depth reuse",
+    "Native-agent handoff identifying platform/portrait/lens gates still pending"
+  ]
+}
