@@ -1,0 +1,53 @@
+{
+  "revision": 224,
+  "state": "Owner-selected feminine looks baked, developed accessory fixtures and faithful rendering handoff self-reviewed",
+  "preview": "https://recdpz.github.io/ravedio-avatar-previews/224/",
+  "baseline_authority": "baseline-authority224.json",
+  "owner_choices": {
+    "uncovered-choices.json": "c161f0acce05f9ab548229b14430944165386d7b097aceb913678f259a1120e1",
+    "cap-choices.json": "4fd49d3d608bf49e26c535f5b0fb2756911bb5fc9ed184b178fa7530d6adc675"
+  },
+  "scope": [
+    "Bake exact222 uncovered selection and223 red Pulse-cap selection",
+    "Compose selected button-up/red-skirt outfit from current native component sources",
+    "Supply separate frames, transmitting lenses, original HOT detail and cap/hoodie fit fixtures",
+    "Render/review saved sources and fresh actual GLB exports from all relevant angles; keep fixed studio",
+    "Package baseline120/512, static selected/component GLBs, packed scenes, technical inventory, camera/material requirements and native-agent handoff"
+  ],
+  "protected": [
+    "Historical source files and209 baseline bytes",
+    "Bodies, faces, clothing shapes,178 arms,201 sleeves,202 cuffs, palette/studio",
+    "Exact selected hair geometry/parameters except localized fit fixes only if a real intersection is demonstrated"
+  ],
+  "source_manifest": "plan224.json",
+  "assemblies": "assembly224.json",
+  "source_settings": "rendering-requirements224.json",
+  "statistics": "asset-statistics224.json",
+  "native_agent": "native-agent-handoff224.txt",
+  "baseline_package": {
+    "published_url": "https://recdpz.github.io/ravedio-avatar-previews/211/ravedio-baseline209.zip",
+    "sha256": "e92880ec6be06a86dfb4fe6af17574dd2634e126cba3367dc75e3f9e0c2213d3",
+    "bytes": 76816622,
+    "unchanged": true
+  },
+  "baked": {
+    "active_morphs": 0,
+    "runtime_fitting_required": false,
+    "component_files": 25,
+    "distinct_assemblies": 7,
+    "coordinate_max_error": 0
+  },
+  "visual_review": "visual-review224.json",
+  "portable_smoke": {
+    "scene": "Feminine-cap",
+    "tools": "Local reproduce224.py/utils224.py/palette and packed scene, isolated folder, CPU512 render",
+    "image": "portable-smoke/selected-cap.png",
+    "completed": true
+  },
+  "limits": [
+    "Full authoring geometry, not a mobile LOD or measured runtime budget",
+    "GLB geometry parity is verified; Cycles/AgX/area-light/ray-flag differences remain explicit in comparisons",
+    "Owner parameter selections are recorded; no whole-catalogue approval or native-phone parity/performance is inferred"
+  ],
+  "next": "Native agent compares faithful baseline and accessory cases in actual apps, then measures workloads and any separately versioned reductions. No profile/wire/product change is included."
+}

@@ -1,0 +1,60 @@
+{
+  "revision": 224,
+  "fixtures": {
+    "Feminine-uncovered": {
+      "triangles": 815020,
+      "materials": 19,
+      "bytes": 18570932,
+      "components": 6,
+      "textures": []
+    },
+    "Feminine-cap": {
+      "triangles": 872756,
+      "materials": 22,
+      "bytes": 19701068,
+      "components": 7,
+      "textures": []
+    },
+    "Feminine-details": {
+      "triangles": 889212,
+      "materials": 26,
+      "bytes": 20017052,
+      "components": 10,
+      "textures": []
+    },
+    "Feminine-hoodie": {
+      "triangles": 962002,
+      "materials": 34,
+      "bytes": 21152144,
+      "components": 10,
+      "textures": []
+    },
+    "Masculine-taper": {
+      "triangles": 732114,
+      "materials": 22,
+      "bytes": 17631684,
+      "components": 7,
+      "textures": []
+    },
+    "Masculine-details": {
+      "triangles": 808022,
+      "materials": 29,
+      "bytes": 19136956,
+      "components": 11,
+      "textures": []
+    },
+    "Masculine-hoodie": {
+      "triangles": 841436,
+      "materials": 38,
+      "bytes": 19205656,
+      "components": 11,
+      "textures": []
+    }
+  },
+  "unique_components": 25,
+  "unique_component_bytes": 61874888,
+  "full_quality_reference_only": true,
+  "runtime_memory_not_inferred_from_file_size": true,
+  "native_optimization_pending": true,
+  "no_product_or_profile_changes": true
+}

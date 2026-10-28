@@ -1,0 +1,277 @@
+{
+  "Feminine-uncovered": {
+    "static_geometry_exact": true,
+    "closed_lenses": [],
+    "external_blend_libraries": 0,
+    "packed_images": true,
+    "active_geometry_controls": 0,
+    "components": {
+      "base": "components/Feminine-uncovered-base.glb",
+      "bottom": "components/Feminine-uncovered-bottom.glb",
+      "eyes": "components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-uncovered-hair.glb",
+      "mouth": "components/Feminine-uncovered-mouth.glb",
+      "top": "components/Feminine-uncovered-top.glb"
+    },
+    "world_bounds": {
+      "0": [
+        -0.5201935768127441,
+        0.5201935768127441
+      ],
+      "1": [
+        -0.3964233994483948,
+        0.5259373188018799
+      ],
+      "2": [
+        0.5389999747276306,
+        2.418973445892334
+      ]
+    }
+  },
+  "Feminine-cap": {
+    "static_geometry_exact": true,
+    "closed_lenses": [],
+    "external_blend_libraries": 0,
+    "packed_images": true,
+    "active_geometry_controls": 0,
+    "components": {
+      "base": "components/Feminine-uncovered-base.glb",
+      "bottom": "components/Feminine-uncovered-bottom.glb",
+      "eyes": "components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-cap-hair.glb",
+      "headgear": "components/Feminine-cap-headgear.glb",
+      "mouth": "components/Feminine-uncovered-mouth.glb",
+      "top": "components/Feminine-uncovered-top.glb"
+    },
+    "world_bounds": {
+      "0": [
+        -0.5201935768127441,
+        0.5201935768127441
+      ],
+      "1": [
+        -0.6901759505271912,
+        0.7260152101516724
+      ],
+      "2": [
+        0.5389999747276306,
+        2.383547306060791
+      ]
+    }
+  },
+  "Feminine-details": {
+    "static_geometry_exact": true,
+    "closed_lenses": [
+      {
+        "name": "Glasses / rectangular lens212 1",
+        "closed_manifold": true,
+        "vertices": 1282,
+        "polygons": 1360
+      },
+      {
+        "name": "Glasses / rectangular lens212 -1",
+        "closed_manifold": true,
+        "vertices": 1282,
+        "polygons": 1360
+      }
+    ],
+    "external_blend_libraries": 0,
+    "packed_images": true,
+    "active_geometry_controls": 0,
+    "components": {
+      "base": "components/Feminine-uncovered-base.glb",
+      "bottom": "components/Feminine-uncovered-bottom.glb",
+      "extra": "components/Feminine-details-extra.glb",
+      "eyes": "components/Feminine-uncovered-eyes.glb",
+      "glasses": "components/Feminine-details-glasses.glb",
+      "hair": "components/Feminine-cap-hair.glb",
+      "headgear": "components/Feminine-cap-headgear.glb",
+      "lenses": "components/Feminine-details-lenses.glb",
+      "mouth": "components/Feminine-uncovered-mouth.glb",
+      "top": "components/Feminine-uncovered-top.glb"
+    },
+    "world_bounds": {
+      "0": [
+        -0.5201935768127441,
+        0.5201935768127441
+      ],
+      "1": [
+        -0.6901759505271912,
+        0.7260152101516724
+      ],
+      "2": [
+        0.5389999747276306,
+        2.383547306060791
+      ]
+    }
+  },
+  "Feminine-hoodie": {
+    "static_geometry_exact": true,
+    "closed_lenses": [
+      {
+        "name": "Glasses / rectangular lens212 1",
+        "closed_manifold": true,
+        "vertices": 1282,
+        "polygons": 1360
+      },
+      {
+        "name": "Glasses / rectangular lens212 -1",
+        "closed_manifold": true,
+        "vertices": 1282,
+        "polygons": 1360
+      }
+    ],
+    "external_blend_libraries": 0,
+    "packed_images": true,
+    "active_geometry_controls": 0,
+    "components": {
+      "base": "components/Feminine-uncovered-base.glb",
+      "bottom": "components/Feminine-uncovered-bottom.glb",
+      "extra": "components/Feminine-details-extra.glb",
+      "eyes": "components/Feminine-uncovered-eyes.glb",
+      "glasses": "components/Feminine-details-glasses.glb",
+      "hair": "components/Feminine-cap-hair.glb",
+      "headgear": "components/Feminine-cap-headgear.glb",
+      "lenses": "components/Feminine-details-lenses.glb",
+      "mouth": "components/Feminine-uncovered-mouth.glb",
+      "top": "components/Feminine-hoodie-top.glb"
+    },
+    "world_bounds": {
+      "0": [
+        -0.5276429057121277,
+        0.5276429057121277
+      ],
+      "1": [
+        -0.6901759505271912,
+        0.7260152101516724
+      ],
+      "2": [
+        0.5389999747276306,
+        2.383547306060791
+      ]
+    }
+  },
+  "Masculine-taper": {
+    "static_geometry_exact": true,
+    "closed_lenses": [],
+    "external_blend_libraries": 0,
+    "packed_images": true,
+    "active_geometry_controls": 0,
+    "components": {
+      "base": "components/Masculine-taper-base.glb",
+      "bottom": "components/Masculine-taper-bottom.glb",
+      "eyes": "components/Masculine-taper-eyes.glb",
+      "groom": "components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-taper-hair.glb",
+      "mouth": "components/Masculine-taper-mouth.glb",
+      "top": "components/Masculine-taper-top.glb"
+    },
+    "world_bounds": {
+      "0": [
+        -0.5373193025588989,
+        0.5373193025588989
+      ],
+      "1": [
+        -0.3964233994483948,
+        0.4325088858604431
+      ],
+      "2": [
+        0.5389999747276306,
+        2.403229236602783
+      ]
+    }
+  },
+  "Masculine-details": {
+    "static_geometry_exact": true,
+    "closed_lenses": [
+      {
+        "name": "Glasses / rectangular lens212 1",
+        "closed_manifold": true,
+        "vertices": 1282,
+        "polygons": 1360
+      },
+      {
+        "name": "Glasses / rectangular lens212 -1",
+        "closed_manifold": true,
+        "vertices": 1282,
+        "polygons": 1360
+      }
+    ],
+    "external_blend_libraries": 0,
+    "packed_images": true,
+    "active_geometry_controls": 0,
+    "components": {
+      "base": "components/Masculine-taper-base.glb",
+      "bottom": "components/Masculine-taper-bottom.glb",
+      "extra": "components/Masculine-details-extra.glb",
+      "eyes": "components/Masculine-taper-eyes.glb",
+      "glasses": "components/Masculine-details-glasses.glb",
+      "groom": "components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-details-hair.glb",
+      "headgear": "components/Masculine-details-headgear.glb",
+      "lenses": "components/Masculine-details-lenses.glb",
+      "mouth": "components/Masculine-taper-mouth.glb",
+      "top": "components/Masculine-taper-top.glb"
+    },
+    "world_bounds": {
+      "0": [
+        -0.5373193025588989,
+        0.5373193025588989
+      ],
+      "1": [
+        -0.6562820672988892,
+        0.46784788370132446
+      ],
+      "2": [
+        0.5389999747276306,
+        2.37257981300354
+      ]
+    }
+  },
+  "Masculine-hoodie": {
+    "static_geometry_exact": true,
+    "closed_lenses": [
+      {
+        "name": "Glasses / rectangular lens212 1",
+        "closed_manifold": true,
+        "vertices": 1282,
+        "polygons": 1360
+      },
+      {
+        "name": "Glasses / rectangular lens212 -1",
+        "closed_manifold": true,
+        "vertices": 1282,
+        "polygons": 1360
+      }
+    ],
+    "external_blend_libraries": 0,
+    "packed_images": true,
+    "active_geometry_controls": 0,
+    "components": {
+      "base": "components/Masculine-taper-base.glb",
+      "bottom": "components/Masculine-taper-bottom.glb",
+      "extra": "components/Masculine-details-extra.glb",
+      "eyes": "components/Masculine-taper-eyes.glb",
+      "glasses": "components/Masculine-details-glasses.glb",
+      "groom": "components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-details-hair.glb",
+      "headgear": "components/Masculine-details-headgear.glb",
+      "lenses": "components/Masculine-details-lenses.glb",
+      "mouth": "components/Masculine-taper-mouth.glb",
+      "top": "components/Masculine-hoodie-top.glb"
+    },
+    "world_bounds": {
+      "0": [
+        -0.5456429123878479,
+        0.5456429123878479
+      ],
+      "1": [
+        -0.6562820672988892,
+        0.46784788370132446
+      ],
+      "2": [
+        0.5389999747276306,
+        2.37257981300354
+      ]
+    }
+  }
+}

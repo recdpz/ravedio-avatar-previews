@@ -1,0 +1,88 @@
+{
+  "revision": 223,
+  "build": "Feminine",
+  "hair": "ponytail",
+  "headwear": "cap",
+  "pony": {
+    "length": 0.6,
+    "fullness": 0.23,
+    "arc": 0.08,
+    "bend": 0,
+    "side": -0.135,
+    "height": 0.17,
+    "depth": 1.01,
+    "flow": 0.43,
+    "lift": 0.24,
+    "rootSide": -0.145
+  },
+  "effectivePony": {
+    "length": 0.6,
+    "fullness": 0.23,
+    "arc": 0.08,
+    "bend": 0,
+    "side": -0.135,
+    "height": -0.75,
+    "depth": 1.01,
+    "flow": 0.43,
+    "lift": 0.24,
+    "rootSide": -0.05,
+    "covered": true
+  },
+  "ponyPreset": "custom",
+  "front": {
+    "1": {
+      "length": 0.325,
+      "volume": 0.04,
+      "curl": 0.06,
+      "spread": 0.005,
+      "root": 0.355
+    },
+    "-1": {
+      "length": 0.325,
+      "volume": 0.04,
+      "curl": 0.06,
+      "spread": 0.005,
+      "root": 0.355
+    }
+  },
+  "frontSelection": "both",
+  "effectiveFront": {
+    "1": {
+      "length": 0.325,
+      "volume": 0.04,
+      "curl": 0.06,
+      "spread": 0.005,
+      "root": 0.2296875,
+      "covered": true
+    },
+    "-1": {
+      "length": 0.325,
+      "volume": 0.04,
+      "curl": 0.06,
+      "spread": 0.005,
+      "root": 0.2296875,
+      "covered": true
+    }
+  },
+  "cap": {
+    "tilt": 7,
+    "curve": 0.16,
+    "length": 0.315,
+    "crown": 0.01,
+    "turn": 0,
+    "design": "pulse",
+    "color": "red"
+  },
+  "top": "open",
+  "topColor": "default",
+  "skin": 1,
+  "eyes": "original",
+  "nose": "none",
+  "mouth": "line",
+  "facialHair": "none",
+  "bottom": "skirt",
+  "bottomColor": 6,
+  "glasses": "none",
+  "extra": "none",
+  "scope": "Review choices; no production profile-bit assignment"
+}

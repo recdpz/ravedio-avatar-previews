@@ -1,0 +1,34 @@
+{
+  "revision": 224,
+  "first_review": [
+    "Native rooted flow, cap rear opening, shared-coordinate outfit/accessory assembly and protected neighbors",
+    "Two distinct exact owner selections retained"
+  ],
+  "second_review": [
+    "Reopened packed sources and actual static GLB reimports",
+    "Seven fixture assemblies: front,three-quarter,both profiles,rear,above,underside and body",
+    "Behind floating arms and sleeves, restored afterward",
+    "Four skin tones and120/512 renders with32/48/64/128 crops",
+    "Source/native round-trip comparison preserves observable Blender-only reflection differences"
+  ],
+  "corrections": [
+    "Floor initially blocked underside camera; corrected diagnostic, rerendered all source/import undersides, restored floor flag",
+    "Browser arm visibility matched normalized glTF object names after a control check caught the mismatch; actual assets unchanged"
+  ],
+  "verification": {
+    "geometry": "Exact evaluated mesh positions before/after bake and GLB reimport",
+    "active_morphs": 0,
+    "closed_manifold_lenses": true,
+    "browser": {
+      "selected_cap_default": true,
+      "seven_static_assemblies_all_relevant_angles": true,
+      "tone_changes_preserve_geometry": true,
+      "real_transmission_separate_frames_lenses_and_hidden_sides": true,
+      "four_tone_readability_views": true,
+      "four_original_reference_image_pairs": true,
+      "png_and_view_exports": true
+    }
+  },
+  "owner_scope": "Exact selected settings; no new whole-catalogue acceptance claimed",
+  "native_app_parity_or_performance": "Not tested; native-agent handoff defines next work"
+}

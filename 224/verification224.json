@@ -1,0 +1,480 @@
+{
+  "Feminine-uncovered": {
+    "source_geometry_unchanged": true,
+    "saved_scene_sha256": "21c9c5fce3fcfc22d782923ecc971f660d3d09e1ce3a0a26c2ffef6aa1c81330",
+    "static_export_no_active_morphs": true,
+    "glb_reimport_world_geometry": {
+      "base": {
+        "source_vertices": 47376,
+        "imported_vertices": 47896,
+        "max_nearest_world_error": 0
+      },
+      "eyes": {
+        "source_vertices": 5960,
+        "imported_vertices": 5960,
+        "max_nearest_world_error": 0
+      },
+      "mouth": {
+        "source_vertices": 1152,
+        "imported_vertices": 1152,
+        "max_nearest_world_error": 0
+      },
+      "hair": {
+        "source_vertices": 48226,
+        "imported_vertices": 48333,
+        "max_nearest_world_error": 0
+      },
+      "top": {
+        "source_vertices": 119718,
+        "imported_vertices": 120011,
+        "max_nearest_world_error": 0
+      },
+      "bottom": {
+        "source_vertices": 185598,
+        "imported_vertices": 186255,
+        "max_nearest_world_error": 0
+      }
+    },
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "roundtrip_angles": [
+      "front",
+      "profile",
+      "rear",
+      "top"
+    ],
+    "blender_only_ray_flags_restored_to_import": false,
+    "classification": "Self visual review and source/GLB verification; native app parity is separate"
+  },
+  "Feminine-cap": {
+    "source_geometry_unchanged": true,
+    "saved_scene_sha256": "08bcb1edd32b13c747092fcd1a5554ef42c29a6449aaae28fed5d7deffebce04",
+    "static_export_no_active_morphs": true,
+    "glb_reimport_world_geometry": {
+      "base": {
+        "source_vertices": 47376,
+        "imported_vertices": 47896,
+        "max_nearest_world_error": 0
+      },
+      "eyes": {
+        "source_vertices": 5960,
+        "imported_vertices": 5960,
+        "max_nearest_world_error": 0
+      },
+      "mouth": {
+        "source_vertices": 1152,
+        "imported_vertices": 1152,
+        "max_nearest_world_error": 0
+      },
+      "hair": {
+        "source_vertices": 48226,
+        "imported_vertices": 48333,
+        "max_nearest_world_error": 0
+      },
+      "headgear": {
+        "source_vertices": 29094,
+        "imported_vertices": 30779,
+        "max_nearest_world_error": 0
+      },
+      "top": {
+        "source_vertices": 119718,
+        "imported_vertices": 120011,
+        "max_nearest_world_error": 0
+      },
+      "bottom": {
+        "source_vertices": 185598,
+        "imported_vertices": 186255,
+        "max_nearest_world_error": 0
+      }
+    },
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "roundtrip_angles": [
+      "front",
+      "profile",
+      "rear",
+      "top"
+    ],
+    "blender_only_ray_flags_restored_to_import": false,
+    "classification": "Self visual review and source/GLB verification; native app parity is separate"
+  },
+  "Feminine-details": {
+    "source_geometry_unchanged": true,
+    "saved_scene_sha256": "f70c01e4c0285448594d5644f63ef621245ef69cf92b00134585dd4b4a0f95f1",
+    "static_export_no_active_morphs": true,
+    "glb_reimport_world_geometry": {
+      "base": {
+        "source_vertices": 47376,
+        "imported_vertices": 47896,
+        "max_nearest_world_error": 0
+      },
+      "eyes": {
+        "source_vertices": 5960,
+        "imported_vertices": 5960,
+        "max_nearest_world_error": 0
+      },
+      "mouth": {
+        "source_vertices": 1152,
+        "imported_vertices": 1152,
+        "max_nearest_world_error": 0
+      },
+      "hair": {
+        "source_vertices": 48226,
+        "imported_vertices": 48333,
+        "max_nearest_world_error": 0
+      },
+      "headgear": {
+        "source_vertices": 29094,
+        "imported_vertices": 30779,
+        "max_nearest_world_error": 0
+      },
+      "top": {
+        "source_vertices": 119718,
+        "imported_vertices": 120011,
+        "max_nearest_world_error": 0
+      },
+      "bottom": {
+        "source_vertices": 185598,
+        "imported_vertices": 186255,
+        "max_nearest_world_error": 0
+      },
+      "extra": {
+        "source_vertices": 3942,
+        "imported_vertices": 3942,
+        "max_nearest_world_error": 0
+      },
+      "lenses": {
+        "source_vertices": 2564,
+        "imported_vertices": 2564,
+        "max_nearest_world_error": 0
+      },
+      "glasses": {
+        "source_vertices": 1890,
+        "imported_vertices": 2069,
+        "max_nearest_world_error": 0
+      }
+    },
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "roundtrip_angles": [
+      "front",
+      "profile",
+      "rear",
+      "top"
+    ],
+    "blender_only_ray_flags_restored_to_import": false,
+    "classification": "Self visual review and source/GLB verification; native app parity is separate"
+  },
+  "Feminine-hoodie": {
+    "source_geometry_unchanged": true,
+    "saved_scene_sha256": "31cf7283a8cadbf6298b0df5528cd8b1df95aaf1fdb39781cd1e22515c10aab3",
+    "static_export_no_active_morphs": true,
+    "glb_reimport_world_geometry": {
+      "base": {
+        "source_vertices": 47376,
+        "imported_vertices": 47896,
+        "max_nearest_world_error": 0
+      },
+      "eyes": {
+        "source_vertices": 5960,
+        "imported_vertices": 5960,
+        "max_nearest_world_error": 0
+      },
+      "mouth": {
+        "source_vertices": 1152,
+        "imported_vertices": 1152,
+        "max_nearest_world_error": 0
+      },
+      "hair": {
+        "source_vertices": 48226,
+        "imported_vertices": 48333,
+        "max_nearest_world_error": 0
+      },
+      "headgear": {
+        "source_vertices": 29094,
+        "imported_vertices": 30779,
+        "max_nearest_world_error": 0
+      },
+      "top": {
+        "source_vertices": 156217,
+        "imported_vertices": 158273,
+        "max_nearest_world_error": 0
+      },
+      "bottom": {
+        "source_vertices": 185598,
+        "imported_vertices": 186255,
+        "max_nearest_world_error": 0
+      },
+      "extra": {
+        "source_vertices": 3942,
+        "imported_vertices": 3942,
+        "max_nearest_world_error": 0
+      },
+      "lenses": {
+        "source_vertices": 2564,
+        "imported_vertices": 2564,
+        "max_nearest_world_error": 0
+      },
+      "glasses": {
+        "source_vertices": 1890,
+        "imported_vertices": 2069,
+        "max_nearest_world_error": 0
+      }
+    },
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "roundtrip_angles": [
+      "front",
+      "profile",
+      "rear",
+      "top"
+    ],
+    "blender_only_ray_flags_restored_to_import": false,
+    "classification": "Self visual review and source/GLB verification; native app parity is separate"
+  },
+  "Masculine-taper": {
+    "source_geometry_unchanged": true,
+    "saved_scene_sha256": "161d7f5eaa922e19ab1cf8be9ec12a8241dccd91fa4bacaf01c60d276f55dabd",
+    "static_export_no_active_morphs": true,
+    "glb_reimport_world_geometry": {
+      "base": {
+        "source_vertices": 46604,
+        "imported_vertices": 46604,
+        "max_nearest_world_error": 0
+      },
+      "eyes": {
+        "source_vertices": 5960,
+        "imported_vertices": 5960,
+        "max_nearest_world_error": 0
+      },
+      "mouth": {
+        "source_vertices": 1152,
+        "imported_vertices": 1152,
+        "max_nearest_world_error": 0
+      },
+      "top": {
+        "source_vertices": 139379,
+        "imported_vertices": 140121,
+        "max_nearest_world_error": 0
+      },
+      "groom": {
+        "source_vertices": 46572,
+        "imported_vertices": 46572,
+        "max_nearest_world_error": 0
+      },
+      "hair": {
+        "source_vertices": 115039,
+        "imported_vertices": 115039,
+        "max_nearest_world_error": 0
+      },
+      "bottom": {
+        "source_vertices": 20338,
+        "imported_vertices": 25659,
+        "max_nearest_world_error": 0
+      }
+    },
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "roundtrip_angles": [
+      "front",
+      "profile",
+      "rear",
+      "top"
+    ],
+    "blender_only_ray_flags_restored_to_import": false,
+    "classification": "Self visual review and source/GLB verification; native app parity is separate"
+  },
+  "Masculine-details": {
+    "source_geometry_unchanged": true,
+    "saved_scene_sha256": "b38727d5f7911da597323f6649fdb26b340b9e185a22d66c4d21f8255d981a08",
+    "static_export_no_active_morphs": true,
+    "glb_reimport_world_geometry": {
+      "base": {
+        "source_vertices": 46604,
+        "imported_vertices": 46604,
+        "max_nearest_world_error": 0
+      },
+      "eyes": {
+        "source_vertices": 5960,
+        "imported_vertices": 5960,
+        "max_nearest_world_error": 0
+      },
+      "mouth": {
+        "source_vertices": 1152,
+        "imported_vertices": 1152,
+        "max_nearest_world_error": 0
+      },
+      "top": {
+        "source_vertices": 139379,
+        "imported_vertices": 140121,
+        "max_nearest_world_error": 0
+      },
+      "groom": {
+        "source_vertices": 46572,
+        "imported_vertices": 46572,
+        "max_nearest_world_error": 0
+      },
+      "hair": {
+        "source_vertices": 115039,
+        "imported_vertices": 115039,
+        "max_nearest_world_error": 0
+      },
+      "headgear": {
+        "source_vertices": 29974,
+        "imported_vertices": 31756,
+        "max_nearest_world_error": 0
+      },
+      "bottom": {
+        "source_vertices": 20338,
+        "imported_vertices": 25659,
+        "max_nearest_world_error": 0
+      },
+      "extra": {
+        "source_vertices": 3942,
+        "imported_vertices": 3942,
+        "max_nearest_world_error": 0
+      },
+      "lenses": {
+        "source_vertices": 2564,
+        "imported_vertices": 2564,
+        "max_nearest_world_error": 0
+      },
+      "glasses": {
+        "source_vertices": 1890,
+        "imported_vertices": 2069,
+        "max_nearest_world_error": 0
+      }
+    },
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "roundtrip_angles": [
+      "front",
+      "profile",
+      "rear",
+      "top"
+    ],
+    "blender_only_ray_flags_restored_to_import": false,
+    "classification": "Self visual review and source/GLB verification; native app parity is separate"
+  },
+  "Masculine-hoodie": {
+    "source_geometry_unchanged": true,
+    "saved_scene_sha256": "83dc280a71ea9d04f9a5918b603d4cc3f61186d348894fe37436ba2ded3f1a92",
+    "static_export_no_active_morphs": true,
+    "glb_reimport_world_geometry": {
+      "base": {
+        "source_vertices": 46604,
+        "imported_vertices": 46604,
+        "max_nearest_world_error": 0
+      },
+      "eyes": {
+        "source_vertices": 5960,
+        "imported_vertices": 5960,
+        "max_nearest_world_error": 0
+      },
+      "mouth": {
+        "source_vertices": 1152,
+        "imported_vertices": 1152,
+        "max_nearest_world_error": 0
+      },
+      "groom": {
+        "source_vertices": 46572,
+        "imported_vertices": 46572,
+        "max_nearest_world_error": 0
+      },
+      "hair": {
+        "source_vertices": 115039,
+        "imported_vertices": 115039,
+        "max_nearest_world_error": 0
+      },
+      "headgear": {
+        "source_vertices": 29974,
+        "imported_vertices": 31756,
+        "max_nearest_world_error": 0
+      },
+      "bottom": {
+        "source_vertices": 20338,
+        "imported_vertices": 25659,
+        "max_nearest_world_error": 0
+      },
+      "top": {
+        "source_vertices": 156212,
+        "imported_vertices": 158272,
+        "max_nearest_world_error": 0
+      },
+      "extra": {
+        "source_vertices": 3942,
+        "imported_vertices": 3942,
+        "max_nearest_world_error": 0
+      },
+      "lenses": {
+        "source_vertices": 2564,
+        "imported_vertices": 2564,
+        "max_nearest_world_error": 0
+      },
+      "glasses": {
+        "source_vertices": 1890,
+        "imported_vertices": 2069,
+        "max_nearest_world_error": 0
+      }
+    },
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "roundtrip_angles": [
+      "front",
+      "profile",
+      "rear",
+      "top"
+    ],
+    "blender_only_ray_flags_restored_to_import": false,
+    "classification": "Self visual review and source/GLB verification; native app parity is separate"
+  }
+}

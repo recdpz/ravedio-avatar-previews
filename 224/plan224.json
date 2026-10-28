@@ -1,0 +1,208 @@
+{
+  "revision": 224,
+  "state": "Preparing static selected asset checkpoint and faithful rendering handoff",
+  "baseline": "Exact four209 references retained from211 baseline;209 scoped face/stubble approval, not blanket acceptance of later catalogue",
+  "scope": [
+    "Bake exact222 uncovered selection and223 red Pulse-cap selection",
+    "Compose selected button-up/red-skirt outfit from current native component sources",
+    "Supply separate frames, transmitting lenses, original HOT detail and cap/hoodie fit fixtures",
+    "Render/review saved sources and fresh actual GLB exports from all relevant angles; keep fixed studio",
+    "Package baseline120/512, static selected/component GLBs, packed scenes, technical inventory, camera/material requirements and native-agent handoff"
+  ],
+  "protected": [
+    "Historical source files and209 baseline bytes",
+    "Bodies, faces, clothing shapes,178 arms,201 sleeves,202 cuffs, palette/studio",
+    "Exact selected hair geometry/parameters except localized fit fixes only if a real intersection is demonstrated"
+  ],
+  "pass_fail": [
+    "Static exported positions match evaluated saved source, no active morphs or runtime fitting requirement",
+    "Separate components reassemble in shared coordinates without per-part normalization",
+    "Selected cap shows red Pulse and retains normal rear opening; no hidden alternate graphic or cap in uncovered look",
+    "No unexplained spikes, root gaps, clippings or floating frames/hood interactions in source and export views",
+    "Eyes remain visible through real transmitting alpha1 lenses; opacity vs transmission documented",
+    "Framing matches across120/512; baseline checksums stay exact; renderer differences stated without altering source art"
+  ],
+  "out_of_scope": [
+    "New catalogue styles, profile-bit assignment, product/native renderer code, native-phone performance claims",
+    "Whole catalogue art approval"
+  ],
+  "sources": {
+    "E:\\Ravedio-Avatar\\refinement222\\scenes\\Feminine-ponytail.blend": {
+      "bytes": 6711210,
+      "sha256": "f1a0a15c72df17ebbc8fc7027757730cd7c598b5d87c489d367b66f68f7b0c04"
+    },
+    "E:\\Ravedio-Avatar\\refinement223\\scenes\\Feminine-ponytail-cap.blend": {
+      "bytes": 7827153,
+      "sha256": "92e65f66b2ef07df726a9cc19cc139498406dc633ef9749f093a774c1c4dde30"
+    },
+    "E:\\Ravedio-Avatar\\refinement223\\scenes\\Masculine-cap.blend": {
+      "bytes": 8767699,
+      "sha256": "e17cf4778922c81d2ad17c43f3d6c250d382316e78fd7a731d45984a74d39068"
+    },
+    "E:\\Ravedio-Avatar\\refinement214\\scenes\\Masculine-taper.blend": {
+      "bytes": 7637191,
+      "sha256": "40edf623df2e48912c06bb2c42462947eea0e732848e118fafe685cfaf3f1b0a"
+    },
+    "E:\\Ravedio-Avatar\\refinement215\\scenes\\Feminine-open.blend": {
+      "bytes": 3737763,
+      "sha256": "abfc74d60e60b5aabc3d28a965e9141de9a98f01380f6c30440d6e1f6ff45910"
+    },
+    "E:\\Ravedio-Avatar\\refinement215\\scenes\\Feminine-sweatshirt.blend": {
+      "bytes": 4515711,
+      "sha256": "740bb834f6cddfcab5ed4089a099c1272e980eec4790964edc4719917ca96c3a"
+    },
+    "E:\\Ravedio-Avatar\\refinement215\\scenes\\Masculine-sweatshirt.blend": {
+      "bytes": 3817521,
+      "sha256": "6895e052c0a9dd2237a624a29e922def06589828ed35db069d792d0a6a6715f6"
+    },
+    "E:\\Ravedio-Avatar\\refinement216\\scenes\\Feminine-skirt.blend": {
+      "bytes": 4139288,
+      "sha256": "d91b2c4fc34c47ec1093e11c3c1d41acb5cb8b9fda81d20a3820202437f8372d"
+    },
+    "E:\\Ravedio-Avatar\\refinement213\\scenes\\Feminine-ponytail-cap-glasses-hot-hoodie.blend": {
+      "bytes": 4938972,
+      "sha256": "6b2698c4bf061e2c80a4bcbc4c1d79cf8925db581cdea78c7c82dcec3637cb3d"
+    },
+    "E:\\Ravedio-Avatar\\refinement213\\scenes\\Masculine-taper-cap-glasses-hot-hoodie.blend": {
+      "bytes": 13773077,
+      "sha256": "c12b3210896b3e33764b269f7d0258f9d6b913e529bc5a33437399e537848090"
+    },
+    "E:\\Ravedio-Avatar\\refinement223\\owner-choices222.json": {
+      "bytes": 1619,
+      "sha256": "c161f0acce05f9ab548229b14430944165386d7b097aceb913678f259a1120e1"
+    },
+    "E:\\Ravedio-Avatar\\refinement223\\owner-choices223.json": {
+      "bytes": 1623,
+      "sha256": "4fd49d3d608bf49e26c535f5b0fb2756911bb5fc9ed184b178fa7530d6adc675"
+    },
+    "E:\\Ravedio-Avatar\\refinement211\\baseline\\Feminine-brown-120.png": {
+      "bytes": 24672,
+      "sha256": "f0536f8802ba50d22e56a9a96e47ce30092d2eff05081ab80f3688df33bd72de"
+    },
+    "E:\\Ravedio-Avatar\\refinement211\\baseline\\Feminine-brown-512.png": {
+      "bytes": 323512,
+      "sha256": "43c3376faf3ab7c282804ce65321327c8ec8da9f6c37bb0c2cb67057b5382434"
+    },
+    "E:\\Ravedio-Avatar\\refinement211\\baseline\\Feminine-brown-settings.json": {
+      "bytes": 4905,
+      "sha256": "73a71e4120d23a85888edd5a5dad474b50b54af9de4f8973631b96a52667f0f1"
+    },
+    "E:\\Ravedio-Avatar\\refinement211\\baseline\\Feminine-brown.blend": {
+      "bytes": 3566430,
+      "sha256": "dbbcf4cd69deab60f341bbfb1158332df43216d05bf6592a2016543ce4c69716"
+    },
+    "E:\\Ravedio-Avatar\\refinement211\\baseline\\Feminine-brown.glb": {
+      "bytes": 15922612,
+      "sha256": "e5517455dfef115f0061c81057f9c1ac3722a7ea617e1e200b1a0bdbd2168018"
+    },
+    "E:\\Ravedio-Avatar\\refinement211\\baseline\\Feminine-fair-120.png": {
+      "bytes": 24585,
+      "sha256": "d87976a59f235271949a3fe4243b42d7cbdc9aa778f6bda0b469d231159b5b69"
+    },
+    "E:\\Ravedio-Avatar\\refinement211\\baseline\\Feminine-fair-512.png": {
+      "bytes": 324120,
+      "sha256": "a458ace05489e39f9ceef3621fbceee3205992a2bfa91250b86a06366860b2a9"
+    },
+    "E:\\Ravedio-Avatar\\refinement211\\baseline\\Feminine-fair-profile.png": {
+      "bytes": 311218,
+      "sha256": "a6941dfa838e6b9fe269a46a8b30bcc3310dbf96e55691ebfce404769bccee18"
+    },
+    "E:\\Ravedio-Avatar\\refinement211\\baseline\\Feminine-fair-rear.png": {
+      "bytes": 320401,
+      "sha256": "20be76bf1a240bd780e8d944ebf70859050d38b9b937a96d0fe4415caa523c89"
+    },
+    "E:\\Ravedio-Avatar\\refinement211\\baseline\\Feminine-fair-rightprofile.png": {
+      "bytes": 312393,
+      "sha256": "d4f665e20ad40fc1624825cb3faf3178df5bb4417f89b69c870704c0f81709fe"
+    },
+    "E:\\Ravedio-Avatar\\refinement211\\baseline\\Feminine-fair-settings.json": {
+      "bytes": 4905,
+      "sha256": "73a71e4120d23a85888edd5a5dad474b50b54af9de4f8973631b96a52667f0f1"
+    },
+    "E:\\Ravedio-Avatar\\refinement211\\baseline\\Feminine-fair-threequarter.png": {
+      "bytes": 331180,
+      "sha256": "dedc2ee8676029a4a7622df6ca0b3a1a6a0f1f5298613afe478c8a5fd6955dd5"
+    },
+    "E:\\Ravedio-Avatar\\refinement211\\baseline\\Feminine-fair-top.png": {
+      "bytes": 320118,
+      "sha256": "29ace29edaaa2ff921508ca874c9b1acdf09e9136e8999f796e68ca5a924d672"
+    },
+    "E:\\Ravedio-Avatar\\refinement211\\baseline\\Feminine-fair.blend": {
+      "bytes": 3566351,
+      "sha256": "da662d37e52c9cf1b7d877d3e97fbfd302014fabd4ede16b7a2a8bce059b864c"
+    },
+    "E:\\Ravedio-Avatar\\refinement211\\baseline\\Feminine-fair.glb": {
+      "bytes": 15922608,
+      "sha256": "d430edc2464390165fa2e25c7faf55edcbcbd161fbf05b0862bfa2ef6288b53a"
+    },
+    "E:\\Ravedio-Avatar\\refinement211\\baseline\\manifest.json": {
+      "bytes": 5764,
+      "sha256": "6cb0bb5f17c96284020741a67147cba9d468aa13212b66ac259ae92b12b0ae07"
+    },
+    "E:\\Ravedio-Avatar\\refinement211\\baseline\\Masculine-brown-120.png": {
+      "bytes": 24296,
+      "sha256": "24afb90d8d211133ee48eca81d6c6f4e37139e0fab1ea7be7ed8c18147e410d9"
+    },
+    "E:\\Ravedio-Avatar\\refinement211\\baseline\\Masculine-brown-512.png": {
+      "bytes": 342404,
+      "sha256": "8fc0120309db1a3ec71612abf47861110c0939cb71efd7f676ad819b24db5f1e"
+    },
+    "E:\\Ravedio-Avatar\\refinement211\\baseline\\Masculine-brown-settings.json": {
+      "bytes": 4905,
+      "sha256": "73a71e4120d23a85888edd5a5dad474b50b54af9de4f8973631b96a52667f0f1"
+    },
+    "E:\\Ravedio-Avatar\\refinement211\\baseline\\Masculine-brown.blend": {
+      "bytes": 5079433,
+      "sha256": "57241f6d6ceb40803e1edd29bcfe447a8d6b71e7ae06d5fd3154f2ce93126dd3"
+    },
+    "E:\\Ravedio-Avatar\\refinement211\\baseline\\Masculine-brown.glb": {
+      "bytes": 12276496,
+      "sha256": "d2251d65eb6d8b1ffc0e4a4ab8d63a4e6b65ad5acc0f5855084d138eabd643f6"
+    },
+    "E:\\Ravedio-Avatar\\refinement211\\baseline\\Masculine-fair-120.png": {
+      "bytes": 24231,
+      "sha256": "76f068d1d254a25412829896aa1f5fcdb634889b57c47a88e2b99425fe7afed2"
+    },
+    "E:\\Ravedio-Avatar\\refinement211\\baseline\\Masculine-fair-512.png": {
+      "bytes": 350047,
+      "sha256": "9fb0f4bee7e88436f0ca9fa6acb290c2f78e91ff18a36f6844009fcb8ce6f157"
+    },
+    "E:\\Ravedio-Avatar\\refinement211\\baseline\\Masculine-fair-profile.png": {
+      "bytes": 324238,
+      "sha256": "12b43fe977b4d3bb5c684a9ae792b68e5c5229cc7a87b37c4facb89f5bc45238"
+    },
+    "E:\\Ravedio-Avatar\\refinement211\\baseline\\Masculine-fair-rear.png": {
+      "bytes": 314710,
+      "sha256": "779f9830bb078e6d11b19f6566af9c6fc69e262f69eb2befc97990bae065d8e1"
+    },
+    "E:\\Ravedio-Avatar\\refinement211\\baseline\\Masculine-fair-rightprofile.png": {
+      "bytes": 322926,
+      "sha256": "e7c242e4bc8e62f1f07458ca54e9ad4851a336b9f5aa9c9d771cde547710fea4"
+    },
+    "E:\\Ravedio-Avatar\\refinement211\\baseline\\Masculine-fair-settings.json": {
+      "bytes": 4905,
+      "sha256": "73a71e4120d23a85888edd5a5dad474b50b54af9de4f8973631b96a52667f0f1"
+    },
+    "E:\\Ravedio-Avatar\\refinement211\\baseline\\Masculine-fair-threequarter.png": {
+      "bytes": 349852,
+      "sha256": "8b7fdbfd8b1f346e555ffa646360ffa1e6c22e194d54c10c5a1519d683b03265"
+    },
+    "E:\\Ravedio-Avatar\\refinement211\\baseline\\Masculine-fair-top.png": {
+      "bytes": 312868,
+      "sha256": "20a4a0c8ba9c8434e0bd232c6a04f2386638b3a2d4ae890e0debc2d568b36b5e"
+    },
+    "E:\\Ravedio-Avatar\\refinement211\\baseline\\Masculine-fair.blend": {
+      "bytes": 5082771,
+      "sha256": "c9d6f891925f518a17c6ca91c25ae205502bf24eba81e3e52c7403ef830f455b"
+    },
+    "E:\\Ravedio-Avatar\\refinement211\\baseline\\Masculine-fair.glb": {
+      "bytes": 12276488,
+      "sha256": "0d360d63823fa7f6e5ad5a0597ad2e409c905640d7796e6f2ba152cd7178138a"
+    },
+    "E:\\Ravedio-Avatar\\refinement215\\scenes\\Masculine-shorts.blend": {
+      "bytes": 4516636,
+      "sha256": "e7c54963ee93d88d220c475c5686bf83551725d1a0672693a2e75265b815f621"
+    }
+  },
+  "source_recovery": "All inputs stay in place; one packed scene per distinct look, not per camera"
+}

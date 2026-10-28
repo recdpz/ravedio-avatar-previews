@@ -1,0 +1,282 @@
+{
+  "reference_revision": 209,
+  "scope": "Owner-approved face/stubble and preserved reference composite; not promotion of later body/hair candidates",
+  "source": "refinement211/baseline, byte-exact retained209 reference assets",
+  "looks": {
+    "Feminine-fair": {
+      "selection": {
+        "source": "E:\\Ravedio-Avatar\\refinement209\\Feminine-mouth-line.blend",
+        "source_sha256": "a65223f1924af6f6ef592cced6d3eaf60f69b47bbec18ccad388a4941abe60ff",
+        "scene": "209 Reference Feminine-fair",
+        "skin": 0,
+        "eyes": "Original",
+        "nose": "None",
+        "mouth": "Smile",
+        "hair": "Bob",
+        "top": "Tank",
+        "bottom": "Skirt",
+        "groom": "None",
+        "no_geometry_edit": true,
+        "no_decimation": true,
+        "protected_objects_exact": 36,
+        "files": {
+          "Feminine-fair-120.png": {
+            "sha256": "d87976a59f235271949a3fe4243b42d7cbdc9aa778f6bda0b469d231159b5b69",
+            "bytes": 24585
+          },
+          "Feminine-fair-512.png": {
+            "sha256": "a458ace05489e39f9ceef3621fbceee3205992a2bfa91250b86a06366860b2a9",
+            "bytes": 324120
+          },
+          "Feminine-fair-settings.json": {
+            "sha256": "73a71e4120d23a85888edd5a5dad474b50b54af9de4f8973631b96a52667f0f1",
+            "bytes": 4905
+          },
+          "Feminine-fair.blend": {
+            "sha256": "da662d37e52c9cf1b7d877d3e97fbfd302014fabd4ede16b7a2a8bce059b864c",
+            "bytes": 3566351
+          },
+          "Feminine-fair.glb": {
+            "sha256": "d430edc2464390165fa2e25c7faf55edcbcbd161fbf05b0862bfa2ef6288b53a",
+            "bytes": 15922608
+          }
+        }
+      },
+      "prior_verification": {
+        "all_mesh_geometry_exact": true,
+        "objects": 43,
+        "saved_reopened": true,
+        "packed_dependencies": true,
+        "glb_reimported_in_reference_lighting": true
+      },
+      "files": {
+        "Feminine-fair-120.png": {
+          "sha256": "d87976a59f235271949a3fe4243b42d7cbdc9aa778f6bda0b469d231159b5b69",
+          "bytes": 24585
+        },
+        "Feminine-fair-512.png": {
+          "sha256": "a458ace05489e39f9ceef3621fbceee3205992a2bfa91250b86a06366860b2a9",
+          "bytes": 324120
+        },
+        "Feminine-fair-settings.json": {
+          "sha256": "73a71e4120d23a85888edd5a5dad474b50b54af9de4f8973631b96a52667f0f1",
+          "bytes": 4905
+        },
+        "Feminine-fair.blend": {
+          "sha256": "da662d37e52c9cf1b7d877d3e97fbfd302014fabd4ede16b7a2a8bce059b864c",
+          "bytes": 3566351
+        },
+        "Feminine-fair.glb": {
+          "sha256": "d430edc2464390165fa2e25c7faf55edcbcbd161fbf05b0862bfa2ef6288b53a",
+          "bytes": 15922608
+        }
+      }
+    },
+    "Feminine-brown": {
+      "selection": {
+        "source": "E:\\Ravedio-Avatar\\refinement209\\Feminine-mouth-line.blend",
+        "source_sha256": "a65223f1924af6f6ef592cced6d3eaf60f69b47bbec18ccad388a4941abe60ff",
+        "scene": "209 Reference Feminine-brown",
+        "skin": 3,
+        "eyes": "Original",
+        "nose": "None",
+        "mouth": "Smile",
+        "hair": "Bob",
+        "top": "Tank",
+        "bottom": "Skirt",
+        "groom": "None",
+        "no_geometry_edit": true,
+        "no_decimation": true,
+        "protected_objects_exact": 36,
+        "files": {
+          "Feminine-brown-120.png": {
+            "sha256": "f0536f8802ba50d22e56a9a96e47ce30092d2eff05081ab80f3688df33bd72de",
+            "bytes": 24672
+          },
+          "Feminine-brown-512.png": {
+            "sha256": "43c3376faf3ab7c282804ce65321327c8ec8da9f6c37bb0c2cb67057b5382434",
+            "bytes": 323512
+          },
+          "Feminine-brown-settings.json": {
+            "sha256": "73a71e4120d23a85888edd5a5dad474b50b54af9de4f8973631b96a52667f0f1",
+            "bytes": 4905
+          },
+          "Feminine-brown.blend": {
+            "sha256": "dbbcf4cd69deab60f341bbfb1158332df43216d05bf6592a2016543ce4c69716",
+            "bytes": 3566430
+          },
+          "Feminine-brown.glb": {
+            "sha256": "e5517455dfef115f0061c81057f9c1ac3722a7ea617e1e200b1a0bdbd2168018",
+            "bytes": 15922612
+          }
+        }
+      },
+      "prior_verification": {
+        "all_mesh_geometry_exact": true,
+        "objects": 43,
+        "saved_reopened": true,
+        "packed_dependencies": true
+      },
+      "files": {
+        "Feminine-brown-120.png": {
+          "sha256": "f0536f8802ba50d22e56a9a96e47ce30092d2eff05081ab80f3688df33bd72de",
+          "bytes": 24672
+        },
+        "Feminine-brown-512.png": {
+          "sha256": "43c3376faf3ab7c282804ce65321327c8ec8da9f6c37bb0c2cb67057b5382434",
+          "bytes": 323512
+        },
+        "Feminine-brown-settings.json": {
+          "sha256": "73a71e4120d23a85888edd5a5dad474b50b54af9de4f8973631b96a52667f0f1",
+          "bytes": 4905
+        },
+        "Feminine-brown.blend": {
+          "sha256": "dbbcf4cd69deab60f341bbfb1158332df43216d05bf6592a2016543ce4c69716",
+          "bytes": 3566430
+        },
+        "Feminine-brown.glb": {
+          "sha256": "e5517455dfef115f0061c81057f9c1ac3722a7ea617e1e200b1a0bdbd2168018",
+          "bytes": 15922612
+        }
+      }
+    },
+    "Masculine-fair": {
+      "selection": {
+        "source": "E:\\Ravedio-Avatar\\refinement209\\Masculine-groom-stubble.blend",
+        "source_sha256": "0868e083567816c8dc4290c1f96b909e0188f8c2ca38fee7118e7c30b4572252",
+        "scene": "209 Reference Masculine-fair",
+        "skin": 0,
+        "eyes": "Original",
+        "nose": "None",
+        "mouth": "Smile",
+        "hair": "Side part",
+        "top": "Tank",
+        "bottom": "Shorts",
+        "groom": "Stubble",
+        "no_geometry_edit": true,
+        "no_decimation": true,
+        "protected_objects_exact": 37,
+        "files": {
+          "Masculine-fair-120.png": {
+            "sha256": "76f068d1d254a25412829896aa1f5fcdb634889b57c47a88e2b99425fe7afed2",
+            "bytes": 24231
+          },
+          "Masculine-fair-512.png": {
+            "sha256": "9fb0f4bee7e88436f0ca9fa6acb290c2f78e91ff18a36f6844009fcb8ce6f157",
+            "bytes": 350047
+          },
+          "Masculine-fair-settings.json": {
+            "sha256": "73a71e4120d23a85888edd5a5dad474b50b54af9de4f8973631b96a52667f0f1",
+            "bytes": 4905
+          },
+          "Masculine-fair.blend": {
+            "sha256": "c9d6f891925f518a17c6ca91c25ae205502bf24eba81e3e52c7403ef830f455b",
+            "bytes": 5082771
+          },
+          "Masculine-fair.glb": {
+            "sha256": "0d360d63823fa7f6e5ad5a0597ad2e409c905640d7796e6f2ba152cd7178138a",
+            "bytes": 12276488
+          }
+        }
+      },
+      "prior_verification": {
+        "all_mesh_geometry_exact": true,
+        "objects": 39,
+        "saved_reopened": true,
+        "packed_dependencies": true,
+        "glb_reimported_in_reference_lighting": true
+      },
+      "files": {
+        "Masculine-fair-120.png": {
+          "sha256": "76f068d1d254a25412829896aa1f5fcdb634889b57c47a88e2b99425fe7afed2",
+          "bytes": 24231
+        },
+        "Masculine-fair-512.png": {
+          "sha256": "9fb0f4bee7e88436f0ca9fa6acb290c2f78e91ff18a36f6844009fcb8ce6f157",
+          "bytes": 350047
+        },
+        "Masculine-fair-settings.json": {
+          "sha256": "73a71e4120d23a85888edd5a5dad474b50b54af9de4f8973631b96a52667f0f1",
+          "bytes": 4905
+        },
+        "Masculine-fair.blend": {
+          "sha256": "c9d6f891925f518a17c6ca91c25ae205502bf24eba81e3e52c7403ef830f455b",
+          "bytes": 5082771
+        },
+        "Masculine-fair.glb": {
+          "sha256": "0d360d63823fa7f6e5ad5a0597ad2e409c905640d7796e6f2ba152cd7178138a",
+          "bytes": 12276488
+        }
+      }
+    },
+    "Masculine-brown": {
+      "selection": {
+        "source": "E:\\Ravedio-Avatar\\refinement209\\Masculine-groom-stubble.blend",
+        "source_sha256": "0868e083567816c8dc4290c1f96b909e0188f8c2ca38fee7118e7c30b4572252",
+        "scene": "209 Reference Masculine-brown",
+        "skin": 3,
+        "eyes": "Original",
+        "nose": "None",
+        "mouth": "Smile",
+        "hair": "Side part",
+        "top": "Tank",
+        "bottom": "Shorts",
+        "groom": "Stubble",
+        "no_geometry_edit": true,
+        "no_decimation": true,
+        "protected_objects_exact": 37,
+        "files": {
+          "Masculine-brown-120.png": {
+            "sha256": "24afb90d8d211133ee48eca81d6c6f4e37139e0fab1ea7be7ed8c18147e410d9",
+            "bytes": 24296
+          },
+          "Masculine-brown-512.png": {
+            "sha256": "8fc0120309db1a3ec71612abf47861110c0939cb71efd7f676ad819b24db5f1e",
+            "bytes": 342404
+          },
+          "Masculine-brown-settings.json": {
+            "sha256": "73a71e4120d23a85888edd5a5dad474b50b54af9de4f8973631b96a52667f0f1",
+            "bytes": 4905
+          },
+          "Masculine-brown.blend": {
+            "sha256": "57241f6d6ceb40803e1edd29bcfe447a8d6b71e7ae06d5fd3154f2ce93126dd3",
+            "bytes": 5079433
+          },
+          "Masculine-brown.glb": {
+            "sha256": "d2251d65eb6d8b1ffc0e4a4ab8d63a4e6b65ad5acc0f5855084d138eabd643f6",
+            "bytes": 12276496
+          }
+        }
+      },
+      "prior_verification": {
+        "all_mesh_geometry_exact": true,
+        "objects": 39,
+        "saved_reopened": true,
+        "packed_dependencies": true
+      },
+      "files": {
+        "Masculine-brown-120.png": {
+          "sha256": "24afb90d8d211133ee48eca81d6c6f4e37139e0fab1ea7be7ed8c18147e410d9",
+          "bytes": 24296
+        },
+        "Masculine-brown-512.png": {
+          "sha256": "8fc0120309db1a3ec71612abf47861110c0939cb71efd7f676ad819b24db5f1e",
+          "bytes": 342404
+        },
+        "Masculine-brown-settings.json": {
+          "sha256": "73a71e4120d23a85888edd5a5dad474b50b54af9de4f8973631b96a52667f0f1",
+          "bytes": 4905
+        },
+        "Masculine-brown.blend": {
+          "sha256": "57241f6d6ceb40803e1edd29bcfe447a8d6b71e7ae06d5fd3154f2ce93126dd3",
+          "bytes": 5079433
+        },
+        "Masculine-brown.glb": {
+          "sha256": "d2251d65eb6d8b1ffc0e4a4ab8d63a4e6b65ad5acc0f5855084d138eabd643f6",
+          "bytes": 12276496
+        }
+      }
+    }
+  },
+  "no_native_derivative_used": true
+}

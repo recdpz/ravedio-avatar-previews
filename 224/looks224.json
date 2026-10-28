@@ -1,0 +1,495 @@
+{
+  "Feminine-uncovered": {
+    "label": "Feminine \u00b7 Selected ponytail",
+    "components": {
+      "base": "components/Feminine-uncovered-base.glb",
+      "bottom": "components/Feminine-uncovered-bottom.glb",
+      "eyes": "components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-uncovered-hair.glb",
+      "mouth": "components/Feminine-uncovered-mouth.glb",
+      "top": "components/Feminine-uncovered-top.glb"
+    },
+    "assembly": "assemblies/Feminine-uncovered.glb",
+    "choices": {
+      "revision": 222,
+      "build": "Feminine",
+      "hair": "ponytail",
+      "headwear": "none",
+      "pony": {
+        "length": 0.6,
+        "fullness": 0.23,
+        "arc": 0.02,
+        "bend": 0,
+        "side": -0.3,
+        "height": 1.77,
+        "depth": 1.295,
+        "flow": 0.81,
+        "lift": 0.24,
+        "rootSide": -0.145
+      },
+      "effectivePony": {
+        "length": 0.6,
+        "fullness": 0.23,
+        "arc": 0.02,
+        "bend": 0,
+        "side": -0.3,
+        "height": 1.77,
+        "depth": 1.295,
+        "flow": 0.81,
+        "lift": 0.24,
+        "rootSide": -0.145,
+        "covered": false
+      },
+      "ponyPreset": "custom",
+      "front": {
+        "1": {
+          "length": 0.325,
+          "volume": 0.04,
+          "curl": 0.06,
+          "spread": 0.005,
+          "root": 0.355
+        },
+        "-1": {
+          "length": 0.325,
+          "volume": 0.04,
+          "curl": 0.06,
+          "spread": 0.005,
+          "root": 0.355
+        }
+      },
+      "frontSelection": "both",
+      "effectiveFront": {
+        "1": {
+          "length": 0.325,
+          "volume": 0.04,
+          "curl": 0.06,
+          "spread": 0.005,
+          "root": 0.355,
+          "covered": false
+        },
+        "-1": {
+          "length": 0.325,
+          "volume": 0.04,
+          "curl": 0.06,
+          "spread": 0.005,
+          "root": 0.355,
+          "covered": false
+        }
+      },
+      "cap": {
+        "tilt": 8,
+        "curve": 0.095,
+        "length": 0.285,
+        "crown": 0,
+        "turn": 0,
+        "design": "wordmark",
+        "color": "navy"
+      },
+      "top": "open",
+      "topColor": "default",
+      "skin": 1,
+      "eyes": "original",
+      "nose": "none",
+      "mouth": "line",
+      "facialHair": "none",
+      "bottom": "skirt",
+      "bottomColor": 6,
+      "glasses": "none",
+      "extra": "none",
+      "scope": "Review choices; no production profile-bit assignment"
+    },
+    "portraits": true,
+    "note": "Exact owner selection baked into static geometry."
+  },
+  "Feminine-cap": {
+    "label": "Feminine \u00b7 Selected red cap",
+    "components": {
+      "base": "components/Feminine-uncovered-base.glb",
+      "bottom": "components/Feminine-uncovered-bottom.glb",
+      "eyes": "components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-cap-hair.glb",
+      "headgear": "components/Feminine-cap-headgear.glb",
+      "mouth": "components/Feminine-uncovered-mouth.glb",
+      "top": "components/Feminine-uncovered-top.glb"
+    },
+    "assembly": "assemblies/Feminine-cap.glb",
+    "choices": {
+      "revision": 223,
+      "build": "Feminine",
+      "hair": "ponytail",
+      "headwear": "cap",
+      "pony": {
+        "length": 0.6,
+        "fullness": 0.23,
+        "arc": 0.08,
+        "bend": 0,
+        "side": -0.135,
+        "height": 0.17,
+        "depth": 1.01,
+        "flow": 0.43,
+        "lift": 0.24,
+        "rootSide": -0.145
+      },
+      "effectivePony": {
+        "length": 0.6,
+        "fullness": 0.23,
+        "arc": 0.08,
+        "bend": 0,
+        "side": -0.135,
+        "height": -0.75,
+        "depth": 1.01,
+        "flow": 0.43,
+        "lift": 0.24,
+        "rootSide": -0.05,
+        "covered": true
+      },
+      "ponyPreset": "custom",
+      "front": {
+        "1": {
+          "length": 0.325,
+          "volume": 0.04,
+          "curl": 0.06,
+          "spread": 0.005,
+          "root": 0.355
+        },
+        "-1": {
+          "length": 0.325,
+          "volume": 0.04,
+          "curl": 0.06,
+          "spread": 0.005,
+          "root": 0.355
+        }
+      },
+      "frontSelection": "both",
+      "effectiveFront": {
+        "1": {
+          "length": 0.325,
+          "volume": 0.04,
+          "curl": 0.06,
+          "spread": 0.005,
+          "root": 0.2296875,
+          "covered": true
+        },
+        "-1": {
+          "length": 0.325,
+          "volume": 0.04,
+          "curl": 0.06,
+          "spread": 0.005,
+          "root": 0.2296875,
+          "covered": true
+        }
+      },
+      "cap": {
+        "tilt": 7,
+        "curve": 0.16,
+        "length": 0.315,
+        "crown": 0.01,
+        "turn": 0,
+        "design": "pulse",
+        "color": "red"
+      },
+      "top": "open",
+      "topColor": "default",
+      "skin": 1,
+      "eyes": "original",
+      "nose": "none",
+      "mouth": "line",
+      "facialHair": "none",
+      "bottom": "skirt",
+      "bottomColor": 6,
+      "glasses": "none",
+      "extra": "none",
+      "scope": "Review choices; no production profile-bit assignment"
+    },
+    "portraits": true,
+    "note": "Exact owner selection baked into static geometry."
+  },
+  "Feminine-details": {
+    "label": "Feminine \u00b7 Cap, glasses and HOT",
+    "components": {
+      "base": "components/Feminine-uncovered-base.glb",
+      "bottom": "components/Feminine-uncovered-bottom.glb",
+      "extra": "components/Feminine-details-extra.glb",
+      "eyes": "components/Feminine-uncovered-eyes.glb",
+      "glasses": "components/Feminine-details-glasses.glb",
+      "hair": "components/Feminine-cap-hair.glb",
+      "headgear": "components/Feminine-cap-headgear.glb",
+      "lenses": "components/Feminine-details-lenses.glb",
+      "mouth": "components/Feminine-uncovered-mouth.glb",
+      "top": "components/Feminine-uncovered-top.glb"
+    },
+    "assembly": "assemblies/Feminine-details.glb",
+    "choices": {
+      "revision": 223,
+      "build": "Feminine",
+      "hair": "ponytail",
+      "headwear": "cap",
+      "pony": {
+        "length": 0.6,
+        "fullness": 0.23,
+        "arc": 0.08,
+        "bend": 0,
+        "side": -0.135,
+        "height": 0.17,
+        "depth": 1.01,
+        "flow": 0.43,
+        "lift": 0.24,
+        "rootSide": -0.145
+      },
+      "effectivePony": {
+        "length": 0.6,
+        "fullness": 0.23,
+        "arc": 0.08,
+        "bend": 0,
+        "side": -0.135,
+        "height": -0.75,
+        "depth": 1.01,
+        "flow": 0.43,
+        "lift": 0.24,
+        "rootSide": -0.05,
+        "covered": true
+      },
+      "ponyPreset": "custom",
+      "front": {
+        "1": {
+          "length": 0.325,
+          "volume": 0.04,
+          "curl": 0.06,
+          "spread": 0.005,
+          "root": 0.355
+        },
+        "-1": {
+          "length": 0.325,
+          "volume": 0.04,
+          "curl": 0.06,
+          "spread": 0.005,
+          "root": 0.355
+        }
+      },
+      "frontSelection": "both",
+      "effectiveFront": {
+        "1": {
+          "length": 0.325,
+          "volume": 0.04,
+          "curl": 0.06,
+          "spread": 0.005,
+          "root": 0.2296875,
+          "covered": true
+        },
+        "-1": {
+          "length": 0.325,
+          "volume": 0.04,
+          "curl": 0.06,
+          "spread": 0.005,
+          "root": 0.2296875,
+          "covered": true
+        }
+      },
+      "cap": {
+        "tilt": 7,
+        "curve": 0.16,
+        "length": 0.315,
+        "crown": 0.01,
+        "turn": 0,
+        "design": "pulse",
+        "color": "red"
+      },
+      "top": "open",
+      "topColor": "default",
+      "skin": 1,
+      "eyes": "original",
+      "nose": "none",
+      "mouth": "line",
+      "facialHair": "none",
+      "bottom": "skirt",
+      "bottomColor": 6,
+      "glasses": "none",
+      "extra": "none",
+      "scope": "Review choices; no production profile-bit assignment"
+    },
+    "portraits": false,
+    "note": "Existing developed components assembled as a technical fit fixture; self review is separate from whole-catalogue approval."
+  },
+  "Feminine-hoodie": {
+    "label": "Feminine \u00b7 Cap, glasses, HOT and hoodie",
+    "components": {
+      "base": "components/Feminine-uncovered-base.glb",
+      "bottom": "components/Feminine-uncovered-bottom.glb",
+      "extra": "components/Feminine-details-extra.glb",
+      "eyes": "components/Feminine-uncovered-eyes.glb",
+      "glasses": "components/Feminine-details-glasses.glb",
+      "hair": "components/Feminine-cap-hair.glb",
+      "headgear": "components/Feminine-cap-headgear.glb",
+      "lenses": "components/Feminine-details-lenses.glb",
+      "mouth": "components/Feminine-uncovered-mouth.glb",
+      "top": "components/Feminine-hoodie-top.glb"
+    },
+    "assembly": "assemblies/Feminine-hoodie.glb",
+    "choices": {
+      "revision": 223,
+      "build": "Feminine",
+      "hair": "ponytail",
+      "headwear": "cap",
+      "pony": {
+        "length": 0.6,
+        "fullness": 0.23,
+        "arc": 0.08,
+        "bend": 0,
+        "side": -0.135,
+        "height": 0.17,
+        "depth": 1.01,
+        "flow": 0.43,
+        "lift": 0.24,
+        "rootSide": -0.145
+      },
+      "effectivePony": {
+        "length": 0.6,
+        "fullness": 0.23,
+        "arc": 0.08,
+        "bend": 0,
+        "side": -0.135,
+        "height": -0.75,
+        "depth": 1.01,
+        "flow": 0.43,
+        "lift": 0.24,
+        "rootSide": -0.05,
+        "covered": true
+      },
+      "ponyPreset": "custom",
+      "front": {
+        "1": {
+          "length": 0.325,
+          "volume": 0.04,
+          "curl": 0.06,
+          "spread": 0.005,
+          "root": 0.355
+        },
+        "-1": {
+          "length": 0.325,
+          "volume": 0.04,
+          "curl": 0.06,
+          "spread": 0.005,
+          "root": 0.355
+        }
+      },
+      "frontSelection": "both",
+      "effectiveFront": {
+        "1": {
+          "length": 0.325,
+          "volume": 0.04,
+          "curl": 0.06,
+          "spread": 0.005,
+          "root": 0.2296875,
+          "covered": true
+        },
+        "-1": {
+          "length": 0.325,
+          "volume": 0.04,
+          "curl": 0.06,
+          "spread": 0.005,
+          "root": 0.2296875,
+          "covered": true
+        }
+      },
+      "cap": {
+        "tilt": 7,
+        "curve": 0.16,
+        "length": 0.315,
+        "crown": 0.01,
+        "turn": 0,
+        "design": "pulse",
+        "color": "red"
+      },
+      "top": "open",
+      "topColor": "default",
+      "skin": 1,
+      "eyes": "original",
+      "nose": "none",
+      "mouth": "line",
+      "facialHair": "none",
+      "bottom": "skirt",
+      "bottomColor": 6,
+      "glasses": "none",
+      "extra": "none",
+      "scope": "Review choices; no production profile-bit assignment"
+    },
+    "portraits": true,
+    "note": "Existing developed components assembled as a technical fit fixture; self review is separate from whole-catalogue approval."
+  },
+  "Masculine-taper": {
+    "label": "Masculine \u00b7 Taper",
+    "components": {
+      "base": "components/Masculine-taper-base.glb",
+      "bottom": "components/Masculine-taper-bottom.glb",
+      "eyes": "components/Masculine-taper-eyes.glb",
+      "groom": "components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-taper-hair.glb",
+      "mouth": "components/Masculine-taper-mouth.glb",
+      "top": "components/Masculine-taper-top.glb"
+    },
+    "assembly": "assemblies/Masculine-taper.glb",
+    "choices": {},
+    "portraits": false,
+    "note": "Existing developed components assembled as a technical fit fixture; self review is separate from whole-catalogue approval."
+  },
+  "Masculine-details": {
+    "label": "Masculine \u00b7 Cap, glasses and HOT",
+    "components": {
+      "base": "components/Masculine-taper-base.glb",
+      "bottom": "components/Masculine-taper-bottom.glb",
+      "extra": "components/Masculine-details-extra.glb",
+      "eyes": "components/Masculine-taper-eyes.glb",
+      "glasses": "components/Masculine-details-glasses.glb",
+      "groom": "components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-details-hair.glb",
+      "headgear": "components/Masculine-details-headgear.glb",
+      "lenses": "components/Masculine-details-lenses.glb",
+      "mouth": "components/Masculine-taper-mouth.glb",
+      "top": "components/Masculine-taper-top.glb"
+    },
+    "assembly": "assemblies/Masculine-details.glb",
+    "choices": {
+      "cap": {
+        "tilt": 8.0,
+        "curve": 0.095,
+        "length": 0.285,
+        "crown": 0.0,
+        "turn": 0.0,
+        "design": "orbit",
+        "color": "navy"
+      }
+    },
+    "portraits": false,
+    "note": "Existing developed components assembled as a technical fit fixture; self review is separate from whole-catalogue approval."
+  },
+  "Masculine-hoodie": {
+    "label": "Masculine \u00b7 Cap, glasses, HOT and hoodie",
+    "components": {
+      "base": "components/Masculine-taper-base.glb",
+      "bottom": "components/Masculine-taper-bottom.glb",
+      "extra": "components/Masculine-details-extra.glb",
+      "eyes": "components/Masculine-taper-eyes.glb",
+      "glasses": "components/Masculine-details-glasses.glb",
+      "groom": "components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-details-hair.glb",
+      "headgear": "components/Masculine-details-headgear.glb",
+      "lenses": "components/Masculine-details-lenses.glb",
+      "mouth": "components/Masculine-taper-mouth.glb",
+      "top": "components/Masculine-hoodie-top.glb"
+    },
+    "assembly": "assemblies/Masculine-hoodie.glb",
+    "choices": {
+      "cap": {
+        "tilt": 8.0,
+        "curve": 0.095,
+        "length": 0.285,
+        "crown": 0.0,
+        "turn": 0.0,
+        "design": "orbit",
+        "color": "navy"
+      }
+    },
+    "portraits": true,
+    "note": "Existing developed components assembled as a technical fit fixture; self review is separate from whole-catalogue approval."
+  }
+}
