@@ -1,0 +1,29 @@
+{
+  "revision": 237,
+  "url": "https://recdpz.github.io/ravedio-avatar-previews/237/",
+  "status": "Owner-review correction candidate",
+  "baseline_commit": "901515ff2604d10e5c69974343f1e4883ef76a01",
+  "scope": "Pashmina neck wrap and slightly narrower crossing ends only",
+  "changes": [
+    "Continue the hood nape into one coherent wrap around the back and sides of the neck.",
+    "Turn the wrap front edges beneath the crossing ends, with seated shoulder contact.",
+    "Narrow crossing sections by approximately12percent and hanging ends by10percent.",
+    "Retain all14 top-specific major-form fits, the upper hood, colors and all existing hair."
+  ],
+  "protected": "All236 heads, bodies, wardrobe, face/eyes, palette, fixed studio, covered/uncovered hair and all other headwear unchanged.",
+  "coordinates": "Unchanged shared coordinates; Blender Z-up/front-Y, standard glTF Y-up/front+Z conversion only. Never independently recenter or resize components.",
+  "selection": "pashminaTops[build][top] selects an authored lower-wrap fit; hair and clothing remain separate selectable/recolorable parts. previousPashminaFits and previousPashminaTops restore236 for the review checkbox, using the same selected top.",
+  "assemblies": {
+    "Feminine": "assemblies/Feminine-pashmina237.blend",
+    "Masculine": "assemblies/Masculine-pashmina237.blend"
+  },
+  "reference_framing": "120 and512 front portraits use exactly the same camera transform and orthographic scale. Full settings are in fixtures237.json.",
+  "materials": "Retain235 woven pattern and physically authored0.12 sheen intensity; map Blender weight to linear KHR_materials_sheen color factor. Ordinary uncompressed GLBs. No transmission or refraction in cloth. Existing clear glasses remain separate thin opacity panes.",
+  "fit_support": "Retain236 radial major-form support, and extend the existing hood nape into a shoulder-seated wrap with front edges tucked below the crossing ends. Cloth follows major shoulders/chest and bridges small garment openings. No runtime physics. The broad fit does not authorize changing garment/body shapes.",
+  "portable_sources": "Both assembled Blender scenes include their imported components and packed dependencies. Generator scripts also depend on the retained local235/224/226 authoring libraries; scenes do not require replaying those generators.",
+  "browser_vs_blender": "Fixed reference Blender studio retained. Live browser PBR remains an approximation; color/depth portrait outputs must be rebaked together for the same geometry/camera/version.",
+  "technical": "technical237.json",
+  "fixtures": "fixtures237.json",
+  "review": "review237.json",
+  "qualification": "No native parity, transmission-aware portrait composition or real-phone benchmark claim. No profile-byte or product repository changes."
+}
