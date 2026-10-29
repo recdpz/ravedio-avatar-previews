@@ -1,0 +1,20 @@
+{
+  "status": "Replacements implemented; owner review pending",
+  "owner_rejections": {
+    "buzz": "Must look nearly bald with normal tidy hairline and clean edges, not a dense brown cap",
+    "bandana": "Current outer-hair overlay looks wrong on every style; do not follow individual lumps",
+    "pashmina": "Side silhouette, drape logic and neck wrap do not resemble real rave pashmina behavior"
+  },
+  "next_construction": {
+    "buzz": "Very shallow hair shadow and tiny cut grain, actual head contour, tidy frontal/temple/nape edges",
+    "bandana": "Smooth tensioned folded cloth with paisley-like pattern, visible nape knot/tails; fitted hair beneath the narrow contact band instead of a lumpy overlay",
+    "pashmina": "Gather rear hood into the nape with no free curtain/hem; wider hood sides converge into a loose chest-supported knot and two ends. Follow the major bust/shoulder forms and bridge small hollows/crop gaps"
+  },
+  "preserve": "All unrelated approved234 features/bodies/wardrobe/palette, selected224 ponytail/cap,233 eyes; retain other235 fixes but do not publish rejected constructions",
+  "review": "Prototype the three revised constructions on representative masculine/feminine hairstyles and dark/light tones before spending another full catalogue export pass",
+  "owner_bandana_direction": {
+    "Masculine": "Folded forehead band, not too thin, tied at the back",
+    "Feminine": "Triangular scarf covering part of the crown"
+  },
+  "hood_retention": "Owner liked the upper hood, then explicitly requested a gathered nape instead of a free rear curtain and wider converging side folds into a loose chest knot. The original sources remain intact; the new lower hood/scarf is a review candidate."
+}
