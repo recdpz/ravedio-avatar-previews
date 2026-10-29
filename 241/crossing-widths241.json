@@ -1,0 +1,1014 @@
+{
+  "Feminine": {
+    "open": {
+      "source": "E:\\Ravedio-Avatar\\catalogue241\\sources\\Feminine-open-pashmina241.blend",
+      "component": "components/Feminine-open-pashmina241-headgear.glb",
+      "top": "open",
+      "protected_neighbors_exact": true,
+      "joined_surface": {
+        "surface_islands": 1,
+        "shared_boundary_vertices": 283,
+        "internal_seam_edges": 280,
+        "open_seam_edges": 0,
+        "upper_hood_exact": true,
+        "continuous_uv": true,
+        "single_thickness": true,
+        "inner_corners": {
+          "method": "Continuous inner-edge fillets with local geodesic surface relaxation",
+          "corners": [
+            {
+              "side": -1,
+              "rounded_boundary_vertices": 28,
+              "root_before": [
+                -0.1812959611415863,
+                -0.09192404896020889,
+                1.377668023109436
+              ],
+              "root_after": [
+                -0.15371760725975037,
+                -0.07179658114910126,
+                1.4253822565078735
+              ]
+            },
+            {
+              "side": 1,
+              "rounded_boundary_vertices": 28,
+              "root_before": [
+                0.18136458098888397,
+                -0.09184353053569794,
+                1.3776620626449585
+              ],
+              "root_after": [
+                0.1536802351474762,
+                -0.07104290276765823,
+                1.422081470489502
+              ]
+            }
+          ],
+          "affected_vertices": 1415,
+          "max_displacement": 0.0709901898735256,
+          "radius": 0.062
+        }
+      },
+      "hood_and_joins_exact": true,
+      "inner_top_edges_exact": true,
+      "lower_ends_exact239": true,
+      "fringe_exact239": true,
+      "unchanged_main_vertices": 48066,
+      "crossing_widths": {
+        "-1": {
+          "at_t": 0.3937007874015748,
+          "before": 0.14589838279457548,
+          "after": 0.11540386597751781,
+          "ratio": 0.7909879723616
+        },
+        "1": {
+          "at_t": 0.3937007874015748,
+          "before": 0.14775106486571735,
+          "after": 0.1163354014803869,
+          "ratio": 0.787374369085716
+        }
+      },
+      "width_factor": 0.78,
+      "method": "One-sided row resampling toward the upper/inner edge between t0.20 and0.72. All lower-end vertices and fringe remain exactly239."
+    },
+    "bandeau": {
+      "source": "E:\\Ravedio-Avatar\\catalogue241\\sources\\Feminine-bandeau-pashmina241.blend",
+      "component": "components/Feminine-bandeau-pashmina241-headgear.glb",
+      "top": "bandeau",
+      "protected_neighbors_exact": true,
+      "joined_surface": {
+        "surface_islands": 1,
+        "shared_boundary_vertices": 283,
+        "internal_seam_edges": 280,
+        "open_seam_edges": 0,
+        "upper_hood_exact": true,
+        "continuous_uv": true,
+        "single_thickness": true,
+        "inner_corners": {
+          "method": "Continuous inner-edge fillets with local geodesic surface relaxation",
+          "corners": [
+            {
+              "side": -1,
+              "rounded_boundary_vertices": 28,
+              "root_before": [
+                -0.15470564365386963,
+                -0.07881642132997513,
+                1.3778386116027832
+              ],
+              "root_after": [
+                -0.13828232884407043,
+                -0.06390208005905151,
+                1.4231226444244385
+              ]
+            },
+            {
+              "side": 1,
+              "rounded_boundary_vertices": 28,
+              "root_before": [
+                0.15476717054843903,
+                -0.07874976098537445,
+                1.3778343200683594
+              ],
+              "root_after": [
+                0.1377771943807602,
+                -0.062399618327617645,
+                1.4194750785827637
+              ]
+            }
+          ],
+          "affected_vertices": 1549,
+          "max_displacement": 0.06052520868050682,
+          "radius": 0.062
+        }
+      },
+      "hood_and_joins_exact": true,
+      "inner_top_edges_exact": true,
+      "lower_ends_exact239": true,
+      "fringe_exact239": true,
+      "unchanged_main_vertices": 48066,
+      "crossing_widths": {
+        "-1": {
+          "at_t": 0.3937007874015748,
+          "before": 0.15232023262411773,
+          "after": 0.12236278686819343,
+          "ratio": 0.8033258928257377
+        },
+        "1": {
+          "at_t": 0.3937007874015748,
+          "before": 0.15389921455471792,
+          "after": 0.12288138637082598,
+          "ratio": 0.798453629060831
+        }
+      },
+      "width_factor": 0.78,
+      "method": "One-sided row resampling toward the upper/inner edge between t0.20 and0.72. All lower-end vertices and fringe remain exactly239."
+    },
+    "triangle": {
+      "source": "E:\\Ravedio-Avatar\\catalogue241\\sources\\Feminine-triangle-pashmina241.blend",
+      "component": "components/Feminine-triangle-pashmina241-headgear.glb",
+      "top": "triangle",
+      "protected_neighbors_exact": true,
+      "joined_surface": {
+        "surface_islands": 1,
+        "shared_boundary_vertices": 283,
+        "internal_seam_edges": 280,
+        "open_seam_edges": 0,
+        "upper_hood_exact": true,
+        "continuous_uv": true,
+        "single_thickness": true,
+        "inner_corners": {
+          "method": "Continuous inner-edge fillets with local geodesic surface relaxation",
+          "corners": [
+            {
+              "side": -1,
+              "rounded_boundary_vertices": 28,
+              "root_before": [
+                -0.1671418845653534,
+                -0.08447454869747162,
+                1.377577781677246
+              ],
+              "root_after": [
+                -0.15285345911979675,
+                -0.0716836005449295,
+                1.4240353107452393
+              ]
+            },
+            {
+              "side": 1,
+              "rounded_boundary_vertices": 28,
+              "root_before": [
+                0.16719943284988403,
+                -0.08439737558364868,
+                1.37757408618927
+              ],
+              "root_after": [
+                0.15253035724163055,
+                -0.06989723443984985,
+                1.4202070236206055
+              ]
+            }
+          ],
+          "affected_vertices": 1619,
+          "max_displacement": 0.057952095416121445,
+          "radius": 0.062
+        }
+      },
+      "hood_and_joins_exact": true,
+      "inner_top_edges_exact": true,
+      "lower_ends_exact239": true,
+      "fringe_exact239": true,
+      "unchanged_main_vertices": 48066,
+      "crossing_widths": {
+        "-1": {
+          "at_t": 0.3937007874015748,
+          "before": 0.15666480808202388,
+          "after": 0.12788816453373456,
+          "ratio": 0.8163171174139955
+        },
+        "1": {
+          "at_t": 0.3937007874015748,
+          "before": 0.15939962588936088,
+          "after": 0.12881783185848972,
+          "ratio": 0.8081438782541562
+        }
+      },
+      "width_factor": 0.78,
+      "method": "One-sided row resampling toward the upper/inner edge between t0.20 and0.72. All lower-end vertices and fringe remain exactly239."
+    },
+    "strappy": {
+      "source": "E:\\Ravedio-Avatar\\catalogue241\\sources\\Feminine-strappy-pashmina241.blend",
+      "component": "components/Feminine-strappy-pashmina241-headgear.glb",
+      "top": "strappy",
+      "protected_neighbors_exact": true,
+      "joined_surface": {
+        "surface_islands": 1,
+        "shared_boundary_vertices": 283,
+        "internal_seam_edges": 280,
+        "open_seam_edges": 0,
+        "upper_hood_exact": true,
+        "continuous_uv": true,
+        "single_thickness": true,
+        "inner_corners": {
+          "method": "Continuous inner-edge fillets with local geodesic surface relaxation",
+          "corners": [
+            {
+              "side": -1,
+              "rounded_boundary_vertices": 28,
+              "root_before": [
+                -0.1617124080657959,
+                -0.08187487721443176,
+                1.3778162002563477
+              ],
+              "root_after": [
+                -0.1415034830570221,
+                -0.06490179896354675,
+                1.423952341079712
+              ]
+            },
+            {
+              "side": 1,
+              "rounded_boundary_vertices": 28,
+              "root_before": [
+                0.16167199611663818,
+                -0.08176509290933609,
+                1.3778152465820312
+              ],
+              "root_after": [
+                0.14088259637355804,
+                -0.06337974965572357,
+                1.4202985763549805
+              ]
+            }
+          ],
+          "affected_vertices": 1554,
+          "max_displacement": 0.0628095399176287,
+          "radius": 0.062
+        }
+      },
+      "hood_and_joins_exact": true,
+      "inner_top_edges_exact": true,
+      "lower_ends_exact239": true,
+      "fringe_exact239": true,
+      "unchanged_main_vertices": 48066,
+      "crossing_widths": {
+        "-1": {
+          "at_t": 0.3937007874015748,
+          "before": 0.15527428320888315,
+          "after": 0.1256486534948318,
+          "ratio": 0.8092045308353002
+        },
+        "1": {
+          "at_t": 0.3937007874015748,
+          "before": 0.1577726633124212,
+          "after": 0.12644952097601483,
+          "ratio": 0.801466605945668
+        }
+      },
+      "width_factor": 0.78,
+      "method": "One-sided row resampling toward the upper/inner edge between t0.20 and0.72. All lower-end vertices and fringe remain exactly239."
+    },
+    "tshirt": {
+      "source": "E:\\Ravedio-Avatar\\catalogue241\\sources\\Feminine-tshirt-pashmina241.blend",
+      "component": "components/Feminine-tshirt-pashmina241-headgear.glb",
+      "top": "tshirt",
+      "protected_neighbors_exact": true,
+      "joined_surface": {
+        "surface_islands": 1,
+        "shared_boundary_vertices": 283,
+        "internal_seam_edges": 280,
+        "open_seam_edges": 0,
+        "upper_hood_exact": true,
+        "continuous_uv": true,
+        "single_thickness": true,
+        "inner_corners": {
+          "method": "Continuous inner-edge fillets with local geodesic surface relaxation",
+          "corners": [
+            {
+              "side": -1,
+              "rounded_boundary_vertices": 28,
+              "root_before": [
+                -0.17057697474956512,
+                -0.0864911824464798,
+                1.378349781036377
+              ],
+              "root_after": [
+                -0.14847588539123535,
+                -0.06717444211244583,
+                1.4259101152420044
+              ]
+            },
+            {
+              "side": 1,
+              "rounded_boundary_vertices": 28,
+              "root_before": [
+                0.1707700788974762,
+                -0.0864163264632225,
+                1.3783634901046753
+              ],
+              "root_after": [
+                0.1481364518404007,
+                -0.06580495089292526,
+                1.4222759008407593
+              ]
+            }
+          ],
+          "affected_vertices": 1206,
+          "max_displacement": 0.07547777785701829,
+          "radius": 0.062
+        }
+      },
+      "hood_and_joins_exact": true,
+      "inner_top_edges_exact": true,
+      "lower_ends_exact239": true,
+      "fringe_exact239": true,
+      "unchanged_main_vertices": 48066,
+      "crossing_widths": {
+        "-1": {
+          "at_t": 0.3937007874015748,
+          "before": 0.1520500500366818,
+          "after": 0.12155398606475482,
+          "ratio": 0.7994340418528645
+        },
+        "1": {
+          "at_t": 0.3937007874015748,
+          "before": 0.15491556516408442,
+          "after": 0.12312066423944003,
+          "ratio": 0.7947598042135555
+        }
+      },
+      "width_factor": 0.78,
+      "method": "One-sided row resampling toward the upper/inner edge between t0.20 and0.72. All lower-end vertices and fringe remain exactly239."
+    },
+    "jersey": {
+      "source": "E:\\Ravedio-Avatar\\catalogue241\\sources\\Feminine-jersey-pashmina241.blend",
+      "component": "components/Feminine-jersey-pashmina241-headgear.glb",
+      "top": "jersey",
+      "protected_neighbors_exact": true,
+      "joined_surface": {
+        "surface_islands": 1,
+        "shared_boundary_vertices": 283,
+        "internal_seam_edges": 280,
+        "open_seam_edges": 0,
+        "upper_hood_exact": true,
+        "continuous_uv": true,
+        "single_thickness": true,
+        "inner_corners": {
+          "method": "Continuous inner-edge fillets with local geodesic surface relaxation",
+          "corners": [
+            {
+              "side": -1,
+              "rounded_boundary_vertices": 28,
+              "root_before": [
+                -0.16793763637542725,
+                -0.0852830782532692,
+                1.3779078722000122
+              ],
+              "root_after": [
+                -0.15719649195671082,
+                -0.08070336282253265,
+                1.4191352128982544
+              ]
+            },
+            {
+              "side": 1,
+              "rounded_boundary_vertices": 28,
+              "root_before": [
+                0.1679752916097641,
+                -0.08517305552959442,
+                1.3779122829437256
+              ],
+              "root_after": [
+                0.1563291698694229,
+                -0.07888732850551605,
+                1.4163204431533813
+              ]
+            }
+          ],
+          "affected_vertices": 1540,
+          "max_displacement": 0.050019426257739384,
+          "radius": 0.062
+        }
+      },
+      "hood_and_joins_exact": true,
+      "inner_top_edges_exact": true,
+      "lower_ends_exact239": true,
+      "fringe_exact239": true,
+      "unchanged_main_vertices": 48066,
+      "crossing_widths": {
+        "-1": {
+          "at_t": 0.3937007874015748,
+          "before": 0.15280889451760302,
+          "after": 0.1227428221876464,
+          "ratio": 0.8032439641365698
+        },
+        "1": {
+          "at_t": 0.3937007874015748,
+          "before": 0.15494241833281144,
+          "after": 0.1234224435709208,
+          "ratio": 0.7965697508723097
+        }
+      },
+      "width_factor": 0.78,
+      "method": "One-sided row resampling toward the upper/inner edge between t0.20 and0.72. All lower-end vertices and fringe remain exactly239."
+    },
+    "tank": {
+      "source": "E:\\Ravedio-Avatar\\catalogue241\\sources\\Feminine-tank-pashmina241.blend",
+      "component": "components/Feminine-tank-pashmina241-headgear.glb",
+      "top": "tank",
+      "protected_neighbors_exact": true,
+      "joined_surface": {
+        "surface_islands": 1,
+        "shared_boundary_vertices": 283,
+        "internal_seam_edges": 280,
+        "open_seam_edges": 0,
+        "upper_hood_exact": true,
+        "continuous_uv": true,
+        "single_thickness": true,
+        "inner_corners": {
+          "method": "Continuous inner-edge fillets with local geodesic surface relaxation",
+          "corners": [
+            {
+              "side": -1,
+              "rounded_boundary_vertices": 28,
+              "root_before": [
+                -0.15997181832790375,
+                -0.08149843662977219,
+                1.3779783248901367
+              ],
+              "root_after": [
+                -0.1407265067100525,
+                -0.06464634835720062,
+                1.4238426685333252
+              ]
+            },
+            {
+              "side": 1,
+              "rounded_boundary_vertices": 28,
+              "root_before": [
+                0.16003504395484924,
+                -0.08141989260911942,
+                1.3779723644256592
+              ],
+              "root_after": [
+                0.1402672529220581,
+                -0.06317123770713806,
+                1.4202326536178589
+              ]
+            }
+          ],
+          "affected_vertices": 1495,
+          "max_displacement": 0.06426395847762252,
+          "radius": 0.062
+        }
+      },
+      "hood_and_joins_exact": true,
+      "inner_top_edges_exact": true,
+      "lower_ends_exact239": true,
+      "fringe_exact239": true,
+      "unchanged_main_vertices": 48066,
+      "crossing_widths": {
+        "-1": {
+          "at_t": 0.3937007874015748,
+          "before": 0.15625511175973128,
+          "after": 0.12653830688504378,
+          "ratio": 0.809818670634071
+        },
+        "1": {
+          "at_t": 0.3937007874015748,
+          "before": 0.15880964129403524,
+          "after": 0.12729466785424584,
+          "ratio": 0.8015550366905018
+        }
+      },
+      "width_factor": 0.78,
+      "method": "One-sided row resampling toward the upper/inner edge between t0.20 and0.72. All lower-end vertices and fringe remain exactly239."
+    },
+    "sweatshirt": {
+      "source": "E:\\Ravedio-Avatar\\catalogue241\\sources\\Feminine-sweatshirt-pashmina241.blend",
+      "component": "components/Feminine-sweatshirt-pashmina241-headgear.glb",
+      "top": "sweatshirt",
+      "protected_neighbors_exact": true,
+      "joined_surface": {
+        "surface_islands": 1,
+        "shared_boundary_vertices": 283,
+        "internal_seam_edges": 280,
+        "open_seam_edges": 0,
+        "upper_hood_exact": true,
+        "continuous_uv": true,
+        "single_thickness": true,
+        "inner_corners": {
+          "method": "Continuous inner-edge fillets with local geodesic surface relaxation",
+          "corners": [
+            {
+              "side": -1,
+              "rounded_boundary_vertices": 28,
+              "root_before": [
+                -0.18442580103874207,
+                -0.09343335777521133,
+                1.3784236907958984
+              ],
+              "root_after": [
+                -0.1516246199607849,
+                -0.06832228600978851,
+                1.42648184299469
+              ]
+            },
+            {
+              "side": 1,
+              "rounded_boundary_vertices": 28,
+              "root_before": [
+                0.18454569578170776,
+                -0.09337584674358368,
+                1.3784199953079224
+              ],
+              "root_after": [
+                0.1512891948223114,
+                -0.06712760031223297,
+                1.4228228330612183
+              ]
+            }
+          ],
+          "affected_vertices": 1231,
+          "max_displacement": 0.08096852160613534,
+          "radius": 0.062
+        }
+      },
+      "hood_and_joins_exact": true,
+      "inner_top_edges_exact": true,
+      "lower_ends_exact239": true,
+      "fringe_exact239": true,
+      "unchanged_main_vertices": 48066,
+      "crossing_widths": {
+        "-1": {
+          "at_t": 0.3937007874015748,
+          "before": 0.15955336786018698,
+          "after": 0.1330686257590339,
+          "ratio": 0.834007000564469
+        },
+        "1": {
+          "at_t": 0.3937007874015748,
+          "before": 0.16322410178882427,
+          "after": 0.13487086169465712,
+          "ratio": 0.8262925647411438
+        }
+      },
+      "width_factor": 0.78,
+      "method": "One-sided row resampling toward the upper/inner edge between t0.20 and0.72. All lower-end vertices and fringe remain exactly239."
+    }
+  },
+  "Masculine": {
+    "shirtless": {
+      "source": "E:\\Ravedio-Avatar\\catalogue241\\sources\\Masculine-shirtless-pashmina241.blend",
+      "component": "components/Masculine-shirtless-pashmina241-headgear.glb",
+      "top": "shirtless",
+      "protected_neighbors_exact": true,
+      "joined_surface": {
+        "surface_islands": 1,
+        "shared_boundary_vertices": 283,
+        "internal_seam_edges": 280,
+        "open_seam_edges": 0,
+        "upper_hood_exact": true,
+        "continuous_uv": true,
+        "single_thickness": true,
+        "inner_corners": {
+          "method": "Continuous inner-edge fillets with local geodesic surface relaxation",
+          "corners": [
+            {
+              "side": -1,
+              "rounded_boundary_vertices": 28,
+              "root_before": [
+                -0.16744478046894073,
+                -0.08494214713573456,
+                1.3780527114868164
+              ],
+              "root_after": [
+                -0.14618034660816193,
+                -0.067513108253479,
+                1.4241002798080444
+              ]
+            },
+            {
+              "side": 1,
+              "rounded_boundary_vertices": 28,
+              "root_before": [
+                0.16739603877067566,
+                -0.08499213308095932,
+                1.3780388832092285
+              ],
+              "root_after": [
+                0.14534781873226166,
+                -0.06597868353128433,
+                1.420361876487732
+              ]
+            }
+          ],
+          "affected_vertices": 1375,
+          "max_displacement": 0.06660151348783418,
+          "radius": 0.062
+        }
+      },
+      "hood_and_joins_exact": true,
+      "inner_top_edges_exact": true,
+      "lower_ends_exact239": true,
+      "fringe_exact239": true,
+      "unchanged_main_vertices": 48066,
+      "crossing_widths": {
+        "-1": {
+          "at_t": 0.3937007874015748,
+          "before": 0.12313146796051218,
+          "after": 0.09950080967144194,
+          "ratio": 0.8080859533271503
+        },
+        "1": {
+          "at_t": 0.3937007874015748,
+          "before": 0.1269298087313065,
+          "after": 0.10200422310939729,
+          "ratio": 0.803627013456915
+        }
+      },
+      "width_factor": 0.78,
+      "method": "One-sided row resampling toward the upper/inner edge between t0.20 and0.72. All lower-end vertices and fringe remain exactly239."
+    },
+    "tank": {
+      "source": "E:\\Ravedio-Avatar\\catalogue241\\sources\\Masculine-tank-pashmina241.blend",
+      "component": "components/Masculine-tank-pashmina241-headgear.glb",
+      "top": "tank",
+      "protected_neighbors_exact": true,
+      "joined_surface": {
+        "surface_islands": 1,
+        "shared_boundary_vertices": 283,
+        "internal_seam_edges": 280,
+        "open_seam_edges": 0,
+        "upper_hood_exact": true,
+        "continuous_uv": true,
+        "single_thickness": true,
+        "inner_corners": {
+          "method": "Continuous inner-edge fillets with local geodesic surface relaxation",
+          "corners": [
+            {
+              "side": -1,
+              "rounded_boundary_vertices": 28,
+              "root_before": [
+                -0.16923996806144714,
+                -0.0858367308974266,
+                1.3781960010528564
+              ],
+              "root_after": [
+                -0.14854393899440765,
+                -0.06829741597175598,
+                1.4248770475387573
+              ]
+            },
+            {
+              "side": 1,
+              "rounded_boundary_vertices": 28,
+              "root_before": [
+                0.16918706893920898,
+                -0.08588561415672302,
+                1.3781821727752686
+              ],
+              "root_after": [
+                0.14769122004508972,
+                -0.06676498800516129,
+                1.4211478233337402
+              ]
+            }
+          ],
+          "affected_vertices": 1284,
+          "max_displacement": 0.07068768544777762,
+          "radius": 0.062
+        }
+      },
+      "hood_and_joins_exact": true,
+      "inner_top_edges_exact": true,
+      "lower_ends_exact239": true,
+      "fringe_exact239": true,
+      "unchanged_main_vertices": 48066,
+      "crossing_widths": {
+        "-1": {
+          "at_t": 0.3937007874015748,
+          "before": 0.12958612966712962,
+          "after": 0.10533994186796558,
+          "ratio": 0.812895192861723
+        },
+        "1": {
+          "at_t": 0.3937007874015748,
+          "before": 0.13358561333478047,
+          "after": 0.10736061972313067,
+          "ratio": 0.8036839974232327
+        }
+      },
+      "width_factor": 0.78,
+      "method": "One-sided row resampling toward the upper/inner edge between t0.20 and0.72. All lower-end vertices and fringe remain exactly239."
+    },
+    "tshirt": {
+      "source": "E:\\Ravedio-Avatar\\catalogue241\\sources\\Masculine-tshirt-pashmina241.blend",
+      "component": "components/Masculine-tshirt-pashmina241-headgear.glb",
+      "top": "tshirt",
+      "protected_neighbors_exact": true,
+      "joined_surface": {
+        "surface_islands": 1,
+        "shared_boundary_vertices": 283,
+        "internal_seam_edges": 280,
+        "open_seam_edges": 0,
+        "upper_hood_exact": true,
+        "continuous_uv": true,
+        "single_thickness": true,
+        "inner_corners": {
+          "method": "Continuous inner-edge fillets with local geodesic surface relaxation",
+          "corners": [
+            {
+              "side": -1,
+              "rounded_boundary_vertices": 28,
+              "root_before": [
+                -0.1810569167137146,
+                -0.09183559566736221,
+                1.3777459859848022
+              ],
+              "root_after": [
+                -0.15424063801765442,
+                -0.07037603110074997,
+                1.4257173538208008
+              ]
+            },
+            {
+              "side": 1,
+              "rounded_boundary_vertices": 28,
+              "root_before": [
+                0.1810021847486496,
+                -0.09188854694366455,
+                1.3777319192886353
+              ],
+              "root_after": [
+                0.1535368114709854,
+                -0.0689769834280014,
+                1.4219229221343994
+              ]
+            }
+          ],
+          "affected_vertices": 1340,
+          "max_displacement": 0.07159998855198012,
+          "radius": 0.062
+        }
+      },
+      "hood_and_joins_exact": true,
+      "inner_top_edges_exact": true,
+      "lower_ends_exact239": true,
+      "fringe_exact239": true,
+      "unchanged_main_vertices": 48066,
+      "crossing_widths": {
+        "-1": {
+          "at_t": 0.3937007874015748,
+          "before": 0.12381854930339309,
+          "after": 0.10007150064066513,
+          "ratio": 0.8082108957314589
+        },
+        "1": {
+          "at_t": 0.3937007874015748,
+          "before": 0.1275748138317784,
+          "after": 0.10251257474836475,
+          "ratio": 0.8035486916997504
+        }
+      },
+      "width_factor": 0.78,
+      "method": "One-sided row resampling toward the upper/inner edge between t0.20 and0.72. All lower-end vertices and fringe remain exactly239."
+    },
+    "jersey": {
+      "source": "E:\\Ravedio-Avatar\\catalogue241\\sources\\Masculine-jersey-pashmina241.blend",
+      "component": "components/Masculine-jersey-pashmina241-headgear.glb",
+      "top": "jersey",
+      "protected_neighbors_exact": true,
+      "joined_surface": {
+        "surface_islands": 1,
+        "shared_boundary_vertices": 283,
+        "internal_seam_edges": 280,
+        "open_seam_edges": 0,
+        "upper_hood_exact": true,
+        "continuous_uv": true,
+        "single_thickness": true,
+        "inner_corners": {
+          "method": "Continuous inner-edge fillets with local geodesic surface relaxation",
+          "corners": [
+            {
+              "side": -1,
+              "rounded_boundary_vertices": 28,
+              "root_before": [
+                -0.17884089052677155,
+                -0.09055624157190323,
+                1.3780083656311035
+              ],
+              "root_after": [
+                -0.16624435782432556,
+                -0.08608831465244293,
+                1.4197139739990234
+              ]
+            },
+            {
+              "side": 1,
+              "rounded_boundary_vertices": 28,
+              "root_before": [
+                0.17879797518253326,
+                -0.09061969816684723,
+                1.3779925107955933
+              ],
+              "root_after": [
+                0.1650402545928955,
+                -0.08427639305591583,
+                1.4170622825622559
+              ]
+            }
+          ],
+          "affected_vertices": 1456,
+          "max_displacement": 0.05284306850270955,
+          "radius": 0.062
+        }
+      },
+      "hood_and_joins_exact": true,
+      "inner_top_edges_exact": true,
+      "lower_ends_exact239": true,
+      "fringe_exact239": true,
+      "unchanged_main_vertices": 48066,
+      "crossing_widths": {
+        "-1": {
+          "at_t": 0.3937007874015748,
+          "before": 0.12338628770391437,
+          "after": 0.09958056893545256,
+          "ratio": 0.8070634978046545
+        },
+        "1": {
+          "at_t": 0.3937007874015748,
+          "before": 0.1270817774186554,
+          "after": 0.10206041507331004,
+          "ratio": 0.803108180782556
+        }
+      },
+      "width_factor": 0.78,
+      "method": "One-sided row resampling toward the upper/inner edge between t0.20 and0.72. All lower-end vertices and fringe remain exactly239."
+    },
+    "buttonup": {
+      "source": "E:\\Ravedio-Avatar\\catalogue241\\sources\\Masculine-buttonup-pashmina241.blend",
+      "component": "components/Masculine-buttonup-pashmina241-headgear.glb",
+      "top": "buttonup",
+      "protected_neighbors_exact": true,
+      "joined_surface": {
+        "surface_islands": 1,
+        "shared_boundary_vertices": 283,
+        "internal_seam_edges": 280,
+        "open_seam_edges": 0,
+        "upper_hood_exact": true,
+        "continuous_uv": true,
+        "single_thickness": true,
+        "inner_corners": {
+          "method": "Continuous inner-edge fillets with local geodesic surface relaxation",
+          "corners": [
+            {
+              "side": -1,
+              "rounded_boundary_vertices": 28,
+              "root_before": [
+                -0.16744478046894073,
+                -0.08494214713573456,
+                1.3780527114868164
+              ],
+              "root_after": [
+                -0.14617745578289032,
+                -0.06751137226819992,
+                1.4240999221801758
+              ]
+            },
+            {
+              "side": 1,
+              "rounded_boundary_vertices": 28,
+              "root_before": [
+                0.16739603877067566,
+                -0.08499213308095932,
+                1.3780388832092285
+              ],
+              "root_after": [
+                0.14534559845924377,
+                -0.06597724556922913,
+                1.4203606843948364
+              ]
+            }
+          ],
+          "affected_vertices": 1375,
+          "max_displacement": 0.06660364855998041,
+          "radius": 0.062
+        }
+      },
+      "hood_and_joins_exact": true,
+      "inner_top_edges_exact": true,
+      "lower_ends_exact239": true,
+      "fringe_exact239": true,
+      "unchanged_main_vertices": 48066,
+      "crossing_widths": {
+        "-1": {
+          "at_t": 0.3937007874015748,
+          "before": 0.12308194686215802,
+          "after": 0.09950372876293848,
+          "ratio": 0.8084347973011405
+        },
+        "1": {
+          "at_t": 0.3937007874015748,
+          "before": 0.1268269159120862,
+          "after": 0.10200825802302643,
+          "ratio": 0.8043107986142031
+        }
+      },
+      "width_factor": 0.78,
+      "method": "One-sided row resampling toward the upper/inner edge between t0.20 and0.72. All lower-end vertices and fringe remain exactly239."
+    },
+    "sweatshirt": {
+      "source": "E:\\Ravedio-Avatar\\catalogue241\\sources\\Masculine-sweatshirt-pashmina241.blend",
+      "component": "components/Masculine-sweatshirt-pashmina241-headgear.glb",
+      "top": "sweatshirt",
+      "protected_neighbors_exact": true,
+      "joined_surface": {
+        "surface_islands": 1,
+        "shared_boundary_vertices": 283,
+        "internal_seam_edges": 280,
+        "open_seam_edges": 0,
+        "upper_hood_exact": true,
+        "continuous_uv": true,
+        "single_thickness": true,
+        "inner_corners": {
+          "method": "Continuous inner-edge fillets with local geodesic surface relaxation",
+          "corners": [
+            {
+              "side": -1,
+              "rounded_boundary_vertices": 28,
+              "root_before": [
+                -0.17991459369659424,
+                -0.09119345247745514,
+                1.37831711769104
+              ],
+              "root_after": [
+                -0.1507108509540558,
+                -0.06908940523862839,
+                1.4252700805664062
+              ]
+            },
+            {
+              "side": 1,
+              "rounded_boundary_vertices": 28,
+              "root_before": [
+                0.17986050248146057,
+                -0.09124678373336792,
+                1.3783031702041626
+              ],
+              "root_after": [
+                0.14986181259155273,
+                -0.06757629662752151,
+                1.4215970039367676
+              ]
+            }
+          ],
+          "affected_vertices": 1298,
+          "max_displacement": 0.07362180401144763,
+          "radius": 0.062
+        }
+      },
+      "hood_and_joins_exact": true,
+      "inner_top_edges_exact": true,
+      "lower_ends_exact239": true,
+      "fringe_exact239": true,
+      "unchanged_main_vertices": 48066,
+      "crossing_widths": {
+        "-1": {
+          "at_t": 0.3937007874015748,
+          "before": 0.12726603559959943,
+          "after": 0.10408954385476676,
+          "ratio": 0.817889418526795
+        },
+        "1": {
+          "at_t": 0.3937007874015748,
+          "before": 0.13181219814401293,
+          "after": 0.1070717317796071,
+          "ratio": 0.8123051833383785
+        }
+      },
+      "width_factor": 0.78,
+      "method": "One-sided row resampling toward the upper/inner edge between t0.20 and0.72. All lower-end vertices and fringe remain exactly239."
+    }
+  }
+}
