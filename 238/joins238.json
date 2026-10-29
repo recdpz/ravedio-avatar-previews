@@ -1,0 +1,132 @@
+{
+  "Feminine": {
+    "open": {
+      "surface_islands": 1,
+      "shared_boundary_vertices": 283,
+      "internal_seam_edges": 280,
+      "open_seam_edges": 0,
+      "upper_hood_exact": true,
+      "continuous_uv": true,
+      "single_thickness": true
+    },
+    "bandeau": {
+      "surface_islands": 1,
+      "shared_boundary_vertices": 283,
+      "internal_seam_edges": 280,
+      "open_seam_edges": 0,
+      "upper_hood_exact": true,
+      "continuous_uv": true,
+      "single_thickness": true
+    },
+    "triangle": {
+      "surface_islands": 1,
+      "shared_boundary_vertices": 283,
+      "internal_seam_edges": 280,
+      "open_seam_edges": 0,
+      "upper_hood_exact": true,
+      "continuous_uv": true,
+      "single_thickness": true
+    },
+    "strappy": {
+      "surface_islands": 1,
+      "shared_boundary_vertices": 283,
+      "internal_seam_edges": 280,
+      "open_seam_edges": 0,
+      "upper_hood_exact": true,
+      "continuous_uv": true,
+      "single_thickness": true
+    },
+    "tshirt": {
+      "surface_islands": 1,
+      "shared_boundary_vertices": 283,
+      "internal_seam_edges": 280,
+      "open_seam_edges": 0,
+      "upper_hood_exact": true,
+      "continuous_uv": true,
+      "single_thickness": true
+    },
+    "jersey": {
+      "surface_islands": 1,
+      "shared_boundary_vertices": 283,
+      "internal_seam_edges": 280,
+      "open_seam_edges": 0,
+      "upper_hood_exact": true,
+      "continuous_uv": true,
+      "single_thickness": true
+    },
+    "tank": {
+      "surface_islands": 1,
+      "shared_boundary_vertices": 283,
+      "internal_seam_edges": 280,
+      "open_seam_edges": 0,
+      "upper_hood_exact": true,
+      "continuous_uv": true,
+      "single_thickness": true
+    },
+    "sweatshirt": {
+      "surface_islands": 1,
+      "shared_boundary_vertices": 283,
+      "internal_seam_edges": 280,
+      "open_seam_edges": 0,
+      "upper_hood_exact": true,
+      "continuous_uv": true,
+      "single_thickness": true
+    }
+  },
+  "Masculine": {
+    "tank": {
+      "surface_islands": 1,
+      "shared_boundary_vertices": 283,
+      "internal_seam_edges": 280,
+      "open_seam_edges": 0,
+      "upper_hood_exact": true,
+      "continuous_uv": true,
+      "single_thickness": true
+    },
+    "shirtless": {
+      "surface_islands": 1,
+      "shared_boundary_vertices": 283,
+      "internal_seam_edges": 280,
+      "open_seam_edges": 0,
+      "upper_hood_exact": true,
+      "continuous_uv": true,
+      "single_thickness": true
+    },
+    "tshirt": {
+      "surface_islands": 1,
+      "shared_boundary_vertices": 283,
+      "internal_seam_edges": 280,
+      "open_seam_edges": 0,
+      "upper_hood_exact": true,
+      "continuous_uv": true,
+      "single_thickness": true
+    },
+    "jersey": {
+      "surface_islands": 1,
+      "shared_boundary_vertices": 283,
+      "internal_seam_edges": 280,
+      "open_seam_edges": 0,
+      "upper_hood_exact": true,
+      "continuous_uv": true,
+      "single_thickness": true
+    },
+    "buttonup": {
+      "surface_islands": 1,
+      "shared_boundary_vertices": 283,
+      "internal_seam_edges": 280,
+      "open_seam_edges": 0,
+      "upper_hood_exact": true,
+      "continuous_uv": true,
+      "single_thickness": true
+    },
+    "sweatshirt": {
+      "surface_islands": 1,
+      "shared_boundary_vertices": 283,
+      "internal_seam_edges": 280,
+      "open_seam_edges": 0,
+      "upper_hood_exact": true,
+      "continuous_uv": true,
+      "single_thickness": true
+    }
+  }
+}
