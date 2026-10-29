@@ -1,0 +1,27 @@
+{
+  "revision": 240,
+  "url": "https://recdpz.github.io/ravedio-avatar-previews/240/",
+  "status": "Owner-review tail-width refinement",
+  "baseline_commit": "f860bb0abc5c1367adbe15fffcd47528f3a8432c",
+  "scope": "Narrow the two hanging pashmina ends only",
+  "changes": [
+    "Both free ends are22 percent narrower, easing in below the upper crossing.",
+    "Existing fabric row curves are resampled, retaining length, torso contact and drape.",
+    "Fringe anchors follow the narrower fabric while individual tassel shapes stay unchanged."
+  ],
+  "protected": "Approved239 hood, inner neck corners, wrap and upper crossing remain exactly unchanged. All nonheadgear components, colors, materials and fixed studio are retained.",
+  "coordinates": "Shared coordinates unchanged; native Blender Z-up to glTF Y-up conversion only. No independent component recentering/resizing.",
+  "selection": "Independent controls retained. pashminaTops[build][top] selects the fit; Compare239 swaps only headgear with the same outfit and view.",
+  "assemblies": {
+    "Feminine": "assemblies/Feminine-pashmina240.blend",
+    "Masculine": "assemblies/Masculine-pashmina240.blend"
+  },
+  "reference_framing": "120 and512 portraits have the same transform and orthographic scale; exact studio/camera/color settings in fixtures240.json.",
+  "materials": "Exact239 woven texture, opaque cloth and0.12 sheen mapping. Ordinary uncompressed GLBs; no new transparency or refraction.",
+  "portable_sources": "Two packed scenes include their imported components. narrow240.py starts from preserved239 per-top authoring scenes and uses retained235/224 helper libraries.",
+  "qualification": "No native parity, depth-composition or phone-performance claim. No profile-byte or product-repository changes.",
+  "technical": "technical240.json",
+  "fixtures": "fixtures240.json",
+  "review": "review240.json",
+  "approval": "approval239.json"
+}
