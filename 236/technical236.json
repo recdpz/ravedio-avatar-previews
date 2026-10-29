@@ -1,0 +1,376 @@
+[
+  {
+    "path": "components/Feminine-bandeau-pashmina236-headgear.glb",
+    "bytes": 4638256,
+    "sha256": "abc39e68b15579ac721e5037171b47c1aae748659c412196c945afc80a47506e",
+    "triangles": 163816,
+    "materials": 3,
+    "textures": [
+      {
+        "width": 512,
+        "height": 256,
+        "bytes": 5364
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "extensions": [
+      "KHR_materials_specular",
+      "KHR_materials_sheen"
+    ]
+  },
+  {
+    "path": "components/Feminine-bob-covered-hair236.glb",
+    "bytes": 1383492,
+    "sha256": "9fab3e168f8c3df77fc4b317774b95de59dac184b764d8c23002962f97487959",
+    "triangles": 95168,
+    "materials": 4,
+    "textures": [],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "extensions": [
+      "KHR_materials_clearcoat"
+    ]
+  },
+  {
+    "path": "components/Feminine-box-braids-covered-hair236.glb",
+    "bytes": 10278248,
+    "sha256": "ff04809c96848d679c6db3d5c62159329587818f2b0a925358449710b224ed7b",
+    "triangles": 433748,
+    "materials": 2,
+    "textures": [],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "extensions": []
+  },
+  {
+    "path": "components/Feminine-curls-covered-hair236.glb",
+    "bytes": 1383864,
+    "sha256": "4095dcb4016be19f748134b004d7dbadec4a13665b76da5db994cb11b7e6a937",
+    "triangles": 95168,
+    "materials": 4,
+    "textures": [],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "extensions": [
+      "KHR_materials_clearcoat"
+    ]
+  },
+  {
+    "path": "components/Feminine-jersey-pashmina236-headgear.glb",
+    "bytes": 4638256,
+    "sha256": "44c508fa9cf718a66ef66ef574141318e3bd9745c3920ffe52afdebf14ee7d87",
+    "triangles": 163816,
+    "materials": 3,
+    "textures": [
+      {
+        "width": 512,
+        "height": 256,
+        "bytes": 5364
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "extensions": [
+      "KHR_materials_specular",
+      "KHR_materials_sheen"
+    ]
+  },
+  {
+    "path": "components/Feminine-open-pashmina236-headgear.glb",
+    "bytes": 4638256,
+    "sha256": "c8a021206eca4cd805fa107866bd0aec94f98a324a0bfa7bc5491895117582ff",
+    "triangles": 163816,
+    "materials": 3,
+    "textures": [
+      {
+        "width": 512,
+        "height": 256,
+        "bytes": 5364
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "extensions": [
+      "KHR_materials_specular",
+      "KHR_materials_sheen"
+    ]
+  },
+  {
+    "path": "components/Feminine-side-sweep-covered-hair236.glb",
+    "bytes": 1383860,
+    "sha256": "6faf1528f41560ad5e6d6524c3c5669a0824c88b126506e4b39cedb03f03df2b",
+    "triangles": 95168,
+    "materials": 4,
+    "textures": [],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "extensions": [
+      "KHR_materials_clearcoat"
+    ]
+  },
+  {
+    "path": "components/Feminine-straight-covered-hair236.glb",
+    "bytes": 1553416,
+    "sha256": "147f1634ab567867ff3d54d15ca53a26f5e98bb827e786be827b39793c27b734",
+    "triangles": 95168,
+    "materials": 4,
+    "textures": [],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "extensions": [
+      "KHR_materials_clearcoat"
+    ]
+  },
+  {
+    "path": "components/Feminine-strappy-pashmina236-headgear.glb",
+    "bytes": 4638260,
+    "sha256": "48ddf2192f0eeaf1d73dc6bf40ff458d4c4f8ff2cc3acc809946071ea00b9aec",
+    "triangles": 163816,
+    "materials": 3,
+    "textures": [
+      {
+        "width": 512,
+        "height": 256,
+        "bytes": 5364
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "extensions": [
+      "KHR_materials_specular",
+      "KHR_materials_sheen"
+    ]
+  },
+  {
+    "path": "components/Feminine-sweatshirt-pashmina236-headgear.glb",
+    "bytes": 4638260,
+    "sha256": "cba9bdfb894ba496376ae509f6e34d505b28855fa4f6f133fc42884ec6e68dba",
+    "triangles": 163816,
+    "materials": 3,
+    "textures": [
+      {
+        "width": 512,
+        "height": 256,
+        "bytes": 5364
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "extensions": [
+      "KHR_materials_specular",
+      "KHR_materials_sheen"
+    ]
+  },
+  {
+    "path": "components/Feminine-tank-pashmina236-headgear.glb",
+    "bytes": 4638256,
+    "sha256": "088d832886deb693e79275cc89f28f49e86eee6d6453701df57258196a9f21a9",
+    "triangles": 163816,
+    "materials": 3,
+    "textures": [
+      {
+        "width": 512,
+        "height": 256,
+        "bytes": 5364
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "extensions": [
+      "KHR_materials_specular",
+      "KHR_materials_sheen"
+    ]
+  },
+  {
+    "path": "components/Feminine-triangle-pashmina236-headgear.glb",
+    "bytes": 4638256,
+    "sha256": "aaf4b13701546cc53498b1b70043f876da4cd54f55d6925921531366b58edfa0",
+    "triangles": 163816,
+    "materials": 3,
+    "textures": [
+      {
+        "width": 512,
+        "height": 256,
+        "bytes": 5364
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "extensions": [
+      "KHR_materials_specular",
+      "KHR_materials_sheen"
+    ]
+  },
+  {
+    "path": "components/Feminine-tshirt-pashmina236-headgear.glb",
+    "bytes": 4638256,
+    "sha256": "d97219a391018c3cc525bd9b4198b399bcf2076f2f34fa9c5078dfd1ad2beb60",
+    "triangles": 163816,
+    "materials": 3,
+    "textures": [
+      {
+        "width": 512,
+        "height": 256,
+        "bytes": 5364
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "extensions": [
+      "KHR_materials_specular",
+      "KHR_materials_sheen"
+    ]
+  },
+  {
+    "path": "components/Feminine-twin-braids-covered-hair236.glb",
+    "bytes": 989228,
+    "sha256": "29dbe4c0790a4004323ac91c0044b6d9fa0938a789e901b0ae9b500dd91fb59d",
+    "triangles": 53390,
+    "materials": 2,
+    "textures": [],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "extensions": []
+  },
+  {
+    "path": "components/Masculine-buttonup-pashmina236-headgear.glb",
+    "bytes": 4636104,
+    "sha256": "5f8eaae01f2ef56c9eae6e11fded8131313b450705f18c2e8a8636c0f407c90d",
+    "triangles": 163816,
+    "materials": 3,
+    "textures": [
+      {
+        "width": 512,
+        "height": 256,
+        "bytes": 5364
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "extensions": [
+      "KHR_materials_specular",
+      "KHR_materials_sheen"
+    ]
+  },
+  {
+    "path": "components/Masculine-jersey-pashmina236-headgear.glb",
+    "bytes": 4636100,
+    "sha256": "67c103ec2a4088aa02bd06ed7aecc3828234efc012d9920a9f22f51e48e5f618",
+    "triangles": 163816,
+    "materials": 3,
+    "textures": [
+      {
+        "width": 512,
+        "height": 256,
+        "bytes": 5364
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "extensions": [
+      "KHR_materials_specular",
+      "KHR_materials_sheen"
+    ]
+  },
+  {
+    "path": "components/Masculine-shirtless-pashmina236-headgear.glb",
+    "bytes": 4636100,
+    "sha256": "0c817de9d8fdc9fed97032c93a4704aad5ad772c886248591571b4953cd7464a",
+    "triangles": 163816,
+    "materials": 3,
+    "textures": [
+      {
+        "width": 512,
+        "height": 256,
+        "bytes": 5364
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "extensions": [
+      "KHR_materials_specular",
+      "KHR_materials_sheen"
+    ]
+  },
+  {
+    "path": "components/Masculine-sweatshirt-pashmina236-headgear.glb",
+    "bytes": 4636456,
+    "sha256": "29883fb0a44fc60ea93c1562826108aafd78f7c7fd41c3a19a6faf3d3ded24bc",
+    "triangles": 163816,
+    "materials": 3,
+    "textures": [
+      {
+        "width": 512,
+        "height": 256,
+        "bytes": 5364
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "extensions": [
+      "KHR_materials_specular",
+      "KHR_materials_sheen"
+    ]
+  },
+  {
+    "path": "components/Masculine-tank-pashmina236-headgear.glb",
+    "bytes": 4636100,
+    "sha256": "012cf1e1e63bd92e20926468775b3fe9593d1f127417d4c80752ed52ce0ee281",
+    "triangles": 163816,
+    "materials": 3,
+    "textures": [
+      {
+        "width": 512,
+        "height": 256,
+        "bytes": 5364
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "extensions": [
+      "KHR_materials_specular",
+      "KHR_materials_sheen"
+    ]
+  },
+  {
+    "path": "components/Masculine-tshirt-pashmina236-headgear.glb",
+    "bytes": 4636104,
+    "sha256": "dea303e7d57789ddb135844f5c1b0558dc2430f8db8f600aa4cffd867cd4ac6a",
+    "triangles": 163816,
+    "materials": 3,
+    "textures": [
+      {
+        "width": 512,
+        "height": 256,
+        "bytes": 5364
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "extensions": [
+      "KHR_materials_specular",
+      "KHR_materials_sheen"
+    ]
+  }
+]
