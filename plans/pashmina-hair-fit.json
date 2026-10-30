@@ -1,5 +1,5 @@
 {
-  "status": "Proposed fitting strategy; no248 model or new preview authored",
+  "status": "Implemented248 artwork candidate; owner review pending",
   "baseline_revision": 247,
   "baseline_commit": "af32ff053b847395d65944af502a5366b4806bab",
   "scope": "Relax rear nape drape and author coherent pashmina/long-hair fits while preserving accepted front crossing",
@@ -117,5 +117,14 @@
     "https://www.scummybears.com/blogs/news/the-best-rave-pashmina",
     "https://iheartraves.com/collections/raver-gear/products/flashbang-matrix-pashmina"
   ],
-  "recorded_utc": "2026-10-30T08:14:00.878018+00:00"
+  "recorded_utc": "2026-10-30T08:14:00.878018+00:00",
+  "implementation": {
+    "revision": 248,
+    "handoff": "248/handoff248.json",
+    "manifest_sha256": "eb0e571255eff6856cccd6cb9fa5e8c222a542b6b66bbc03cd8fd2156ba99729",
+    "cloth_fits": 38,
+    "covered_styles": 16,
+    "source_and_final_exports_reviewed": true,
+    "native_phone_qualified": false
+  }
 }

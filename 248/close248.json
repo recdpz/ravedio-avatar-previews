@@ -1,0 +1,70 @@
+{
+  "assemblies": 11,
+  "looks": [
+    [
+      "Feminine",
+      "ponytail",
+      "open"
+    ],
+    [
+      "Feminine",
+      "ponytail",
+      "jersey"
+    ],
+    [
+      "Feminine",
+      "ponytail",
+      "sweatshirt"
+    ],
+    [
+      "Feminine",
+      "straight",
+      "open"
+    ],
+    [
+      "Feminine",
+      "straight",
+      "sweatshirt"
+    ],
+    [
+      "Feminine",
+      "straight",
+      "jersey"
+    ],
+    [
+      "Feminine",
+      "curls",
+      "sweatshirt"
+    ],
+    [
+      "Feminine",
+      "box-braids",
+      "sweatshirt"
+    ],
+    [
+      "Masculine",
+      "taper",
+      "tank"
+    ],
+    [
+      "Masculine",
+      "taper",
+      "jersey"
+    ],
+    [
+      "Masculine",
+      "taper",
+      "sweatshirt"
+    ]
+  ],
+  "angles": [
+    "front",
+    "threequarter",
+    "profile",
+    "rightprofile",
+    "rear",
+    "rearquarter",
+    "underside"
+  ],
+  "errors": []
+}
