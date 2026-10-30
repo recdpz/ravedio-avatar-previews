@@ -1,0 +1,398 @@
+{
+  "Feminine": {
+    "open": {
+      "closed_surface": true,
+      "protected_neighbors_exact": true,
+      "approved_strips_exact246_from_row34": true,
+      "upper_hood_and_neck_wrap_exact246": true,
+      "free_ends_and_fringe_exact246": true,
+      "changed_rows": [
+        0,
+        33
+      ],
+      "root_metrics": {
+        "-1": {
+          "sewn_root_continuous": true,
+          "approved_row34_exact": true,
+          "max_depth_guard": 0.0,
+          "bridge_rows": 34
+        },
+        "1": {
+          "sewn_root_continuous": true,
+          "approved_row34_exact": true,
+          "max_depth_guard": 0.0,
+          "bridge_rows": 34
+        }
+      },
+      "thickness": 0.002999987199606944,
+      "local_hood_join_vertices": 220,
+      "hem_rings": 51
+    },
+    "bandeau": {
+      "closed_surface": true,
+      "protected_neighbors_exact": true,
+      "approved_strips_exact246_from_row34": true,
+      "upper_hood_and_neck_wrap_exact246": true,
+      "free_ends_and_fringe_exact246": true,
+      "changed_rows": [
+        0,
+        33
+      ],
+      "root_metrics": {
+        "-1": {
+          "sewn_root_continuous": true,
+          "approved_row34_exact": true,
+          "max_depth_guard": 0.0,
+          "bridge_rows": 34
+        },
+        "1": {
+          "sewn_root_continuous": true,
+          "approved_row34_exact": true,
+          "max_depth_guard": 0.0,
+          "bridge_rows": 34
+        }
+      },
+      "thickness": 0.002999986529029301,
+      "local_hood_join_vertices": 220,
+      "hem_rings": 50
+    },
+    "triangle": {
+      "closed_surface": true,
+      "protected_neighbors_exact": true,
+      "approved_strips_exact246_from_row34": true,
+      "upper_hood_and_neck_wrap_exact246": true,
+      "free_ends_and_fringe_exact246": true,
+      "changed_rows": [
+        0,
+        33
+      ],
+      "root_metrics": {
+        "-1": {
+          "sewn_root_continuous": true,
+          "approved_row34_exact": true,
+          "max_depth_guard": 0.006442069030887433,
+          "bridge_rows": 34
+        },
+        "1": {
+          "sewn_root_continuous": true,
+          "approved_row34_exact": true,
+          "max_depth_guard": 0.00816444842046938,
+          "bridge_rows": 34
+        }
+      },
+      "thickness": 0.002999987087992044,
+      "local_hood_join_vertices": 220,
+      "hem_rings": 50
+    },
+    "strappy": {
+      "closed_surface": true,
+      "protected_neighbors_exact": true,
+      "approved_strips_exact246_from_row34": true,
+      "upper_hood_and_neck_wrap_exact246": true,
+      "free_ends_and_fringe_exact246": true,
+      "changed_rows": [
+        0,
+        33
+      ],
+      "root_metrics": {
+        "-1": {
+          "sewn_root_continuous": true,
+          "approved_row34_exact": true,
+          "max_depth_guard": 0.0,
+          "bridge_rows": 34
+        },
+        "1": {
+          "sewn_root_continuous": true,
+          "approved_row34_exact": true,
+          "max_depth_guard": 0.0,
+          "bridge_rows": 34
+        }
+      },
+      "thickness": 0.0029999857663765765,
+      "local_hood_join_vertices": 220,
+      "hem_rings": 50
+    },
+    "tshirt": {
+      "closed_surface": true,
+      "protected_neighbors_exact": true,
+      "approved_strips_exact246_from_row34": true,
+      "upper_hood_and_neck_wrap_exact246": true,
+      "free_ends_and_fringe_exact246": true,
+      "changed_rows": [
+        0,
+        33
+      ],
+      "root_metrics": {
+        "-1": {
+          "sewn_root_continuous": true,
+          "approved_row34_exact": true,
+          "max_depth_guard": 0.0,
+          "bridge_rows": 34
+        },
+        "1": {
+          "sewn_root_continuous": true,
+          "approved_row34_exact": true,
+          "max_depth_guard": 0.0,
+          "bridge_rows": 34
+        }
+      },
+      "thickness": 0.00299998957371705,
+      "local_hood_join_vertices": 220,
+      "hem_rings": 48
+    },
+    "jersey": {
+      "closed_surface": true,
+      "protected_neighbors_exact": true,
+      "approved_strips_exact246_from_row34": true,
+      "upper_hood_and_neck_wrap_exact246": true,
+      "free_ends_and_fringe_exact246": true,
+      "changed_rows": [
+        0,
+        33
+      ],
+      "root_metrics": {
+        "-1": {
+          "sewn_root_continuous": true,
+          "approved_row34_exact": true,
+          "max_depth_guard": 0.010597496616284653,
+          "bridge_rows": 34
+        },
+        "1": {
+          "sewn_root_continuous": true,
+          "approved_row34_exact": true,
+          "max_depth_guard": 0.007892092795728042,
+          "bridge_rows": 34
+        }
+      },
+      "thickness": 0.002999986177309047,
+      "local_hood_join_vertices": 220,
+      "hem_rings": 52
+    },
+    "tank": {
+      "closed_surface": true,
+      "protected_neighbors_exact": true,
+      "approved_strips_exact246_from_row34": true,
+      "upper_hood_and_neck_wrap_exact246": true,
+      "free_ends_and_fringe_exact246": true,
+      "changed_rows": [
+        0,
+        33
+      ],
+      "root_metrics": {
+        "-1": {
+          "sewn_root_continuous": true,
+          "approved_row34_exact": true,
+          "max_depth_guard": 0.0,
+          "bridge_rows": 34
+        },
+        "1": {
+          "sewn_root_continuous": true,
+          "approved_row34_exact": true,
+          "max_depth_guard": 0.0,
+          "bridge_rows": 34
+        }
+      },
+      "thickness": 0.002999987680113481,
+      "local_hood_join_vertices": 220,
+      "hem_rings": 50
+    },
+    "sweatshirt": {
+      "closed_surface": true,
+      "protected_neighbors_exact": true,
+      "approved_strips_exact246_from_row34": true,
+      "upper_hood_and_neck_wrap_exact246": true,
+      "free_ends_and_fringe_exact246": true,
+      "changed_rows": [
+        0,
+        33
+      ],
+      "root_metrics": {
+        "-1": {
+          "sewn_root_continuous": true,
+          "approved_row34_exact": true,
+          "max_depth_guard": 0.0,
+          "bridge_rows": 34
+        },
+        "1": {
+          "sewn_root_continuous": true,
+          "approved_row34_exact": true,
+          "max_depth_guard": 0.0,
+          "bridge_rows": 34
+        }
+      },
+      "thickness": 0.002999987580637088,
+      "local_hood_join_vertices": 220,
+      "hem_rings": 48
+    }
+  },
+  "Masculine": {
+    "shirtless": {
+      "closed_surface": true,
+      "protected_neighbors_exact": true,
+      "approved_strips_exact246_from_row34": true,
+      "upper_hood_and_neck_wrap_exact246": true,
+      "free_ends_and_fringe_exact246": true,
+      "changed_rows": [
+        0,
+        33
+      ],
+      "root_metrics": {
+        "-1": {
+          "sewn_root_continuous": true,
+          "approved_row34_exact": true,
+          "max_depth_guard": 0.0,
+          "bridge_rows": 34
+        },
+        "1": {
+          "sewn_root_continuous": true,
+          "approved_row34_exact": true,
+          "max_depth_guard": 0.0,
+          "bridge_rows": 34
+        }
+      },
+      "thickness": 0.0029999863727091934,
+      "local_hood_join_vertices": 220,
+      "hem_rings": 50
+    },
+    "tank": {
+      "closed_surface": true,
+      "protected_neighbors_exact": true,
+      "approved_strips_exact246_from_row34": true,
+      "upper_hood_and_neck_wrap_exact246": true,
+      "free_ends_and_fringe_exact246": true,
+      "changed_rows": [
+        0,
+        33
+      ],
+      "root_metrics": {
+        "-1": {
+          "sewn_root_continuous": true,
+          "approved_row34_exact": true,
+          "max_depth_guard": 0.0,
+          "bridge_rows": 34
+        },
+        "1": {
+          "sewn_root_continuous": true,
+          "approved_row34_exact": true,
+          "max_depth_guard": 0.0,
+          "bridge_rows": 34
+        }
+      },
+      "thickness": 0.002999989072782639,
+      "local_hood_join_vertices": 220,
+      "hem_rings": 50
+    },
+    "tshirt": {
+      "closed_surface": true,
+      "protected_neighbors_exact": true,
+      "approved_strips_exact246_from_row34": true,
+      "upper_hood_and_neck_wrap_exact246": true,
+      "free_ends_and_fringe_exact246": true,
+      "changed_rows": [
+        0,
+        33
+      ],
+      "root_metrics": {
+        "-1": {
+          "sewn_root_continuous": true,
+          "approved_row34_exact": true,
+          "max_depth_guard": 0.0,
+          "bridge_rows": 34
+        },
+        "1": {
+          "sewn_root_continuous": true,
+          "approved_row34_exact": true,
+          "max_depth_guard": 0.0,
+          "bridge_rows": 34
+        }
+      },
+      "thickness": 0.0029999865716620563,
+      "local_hood_join_vertices": 220,
+      "hem_rings": 50
+    },
+    "jersey": {
+      "closed_surface": true,
+      "protected_neighbors_exact": true,
+      "approved_strips_exact246_from_row34": true,
+      "upper_hood_and_neck_wrap_exact246": true,
+      "free_ends_and_fringe_exact246": true,
+      "changed_rows": [
+        0,
+        33
+      ],
+      "root_metrics": {
+        "-1": {
+          "sewn_root_continuous": true,
+          "approved_row34_exact": true,
+          "max_depth_guard": 0.022854154737735687,
+          "bridge_rows": 34
+        },
+        "1": {
+          "sewn_root_continuous": true,
+          "approved_row34_exact": true,
+          "max_depth_guard": 0.018972477592863607,
+          "bridge_rows": 34
+        }
+      },
+      "thickness": 0.0029999881159147837,
+      "local_hood_join_vertices": 220,
+      "hem_rings": 52
+    },
+    "buttonup": {
+      "closed_surface": true,
+      "protected_neighbors_exact": true,
+      "approved_strips_exact246_from_row34": true,
+      "upper_hood_and_neck_wrap_exact246": true,
+      "free_ends_and_fringe_exact246": true,
+      "changed_rows": [
+        0,
+        33
+      ],
+      "root_metrics": {
+        "-1": {
+          "sewn_root_continuous": true,
+          "approved_row34_exact": true,
+          "max_depth_guard": 0.0,
+          "bridge_rows": 34
+        },
+        "1": {
+          "sewn_root_continuous": true,
+          "approved_row34_exact": true,
+          "max_depth_guard": 0.0,
+          "bridge_rows": 34
+        }
+      },
+      "thickness": 0.0029999865029759504,
+      "local_hood_join_vertices": 220,
+      "hem_rings": 50
+    },
+    "sweatshirt": {
+      "closed_surface": true,
+      "protected_neighbors_exact": true,
+      "approved_strips_exact246_from_row34": true,
+      "upper_hood_and_neck_wrap_exact246": true,
+      "free_ends_and_fringe_exact246": true,
+      "changed_rows": [
+        0,
+        33
+      ],
+      "root_metrics": {
+        "-1": {
+          "sewn_root_continuous": true,
+          "approved_row34_exact": true,
+          "max_depth_guard": 0.0,
+          "bridge_rows": 34
+        },
+        "1": {
+          "sewn_root_continuous": true,
+          "approved_row34_exact": true,
+          "max_depth_guard": 0.0,
+          "bridge_rows": 34
+        }
+      },
+      "thickness": 0.0029999872135217987,
+      "local_hood_join_vertices": 220,
+      "hem_rings": 48
+    }
+  }
+}
