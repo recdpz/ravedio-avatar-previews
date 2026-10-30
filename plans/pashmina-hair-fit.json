@@ -1,0 +1,121 @@
+{
+  "status": "Proposed fitting strategy; no248 model or new preview authored",
+  "baseline_revision": 247,
+  "baseline_commit": "af32ff053b847395d65944af502a5366b4806bab",
+  "scope": "Relax rear nape drape and author coherent pashmina/long-hair fits while preserving accepted front crossing",
+  "findings": [
+    "Current viewer selects one pashmina cloth fit per build/top regardless of hairstyle.",
+    "Covered hair components still originate in235/236. Those fits use per-vertex radial projection into older cloth envelopes.",
+    "Fresh enlarged profile/rear/rear-quarter views of six existing looks show a tight rear gather, abrupt hair emergence and angular/stretched upper portions of visible locks.",
+    "Previous247 all-angle review failed to reject these inherited hair/cloth fit problems. Mesh closure and retained-input hashes did not establish joint artistic fit."
+  ],
+  "evidence": {
+    "local_directory": "E:\\Ravedio-Avatar\\pashmina-fit-review247\\images",
+    "looks": [
+      {
+        "build": "Feminine",
+        "hair": "ponytail",
+        "hair_component": "../235/components/Feminine-ponytail-pashmina-hair.glb",
+        "angles": [
+          "profile",
+          "rear",
+          "rear-quarter"
+        ],
+        "assets_modified": false
+      },
+      {
+        "build": "Feminine",
+        "hair": "straight",
+        "hair_component": "../236/components/Feminine-straight-covered-hair236.glb",
+        "angles": [
+          "profile",
+          "rear",
+          "rear-quarter"
+        ],
+        "assets_modified": false
+      },
+      {
+        "build": "Feminine",
+        "hair": "curls",
+        "hair_component": "../236/components/Feminine-curls-covered-hair236.glb",
+        "angles": [
+          "profile",
+          "rear",
+          "rear-quarter"
+        ],
+        "assets_modified": false
+      },
+      {
+        "build": "Feminine",
+        "hair": "box-braids",
+        "hair_component": "../236/components/Feminine-box-braids-covered-hair236.glb",
+        "angles": [
+          "profile",
+          "rear",
+          "rear-quarter"
+        ],
+        "assets_modified": false
+      },
+      {
+        "build": "Masculine",
+        "hair": "taper",
+        "hair_component": "../235/components/Masculine-taper-pashmina-hair.glb",
+        "angles": [
+          "profile",
+          "rear",
+          "rear-quarter"
+        ],
+        "assets_modified": false
+      },
+      {
+        "build": "Masculine",
+        "hair": "flow",
+        "hair_component": "../235/components/Masculine-flow-pashmina-hair.glb",
+        "angles": [
+          "profile",
+          "rear",
+          "rear-quarter"
+        ],
+        "assets_modified": false
+      }
+    ],
+    "assets_modified": false
+  },
+  "recommendation": {
+    "rear_drape": "Add a shallow, continuous reserve of cloth over the nape and upper shoulders; preserve tension toward accepted front crossing. Avoid a tight neck ring or a large free rear cape.",
+    "hair_exit": "Use a relaxed natural lower hood edge with continuous overlap and modest lift where hair emerges. Avoid punched holes, transparent masks or locks passing through cloth.",
+    "families": [
+      "Compact/tucked hair",
+      "Loose long lengths",
+      "Bulky curls, braids or gathered hair"
+    ],
+    "hair_authoring": "Each style gets an authored covered arrangement and individual fit review. Preserve uncovered styles; shape whole locks/bundles with continuous tangents rather than pointwise pushing into cloth. Hide only genuinely concealed crown volume. Share compatible cloth drapes.",
+    "routing": {
+      "loose_lengths": "Emerge gradually below the rear/lateral lower edge; keep existing front/back hairstyle distribution and broad flow.",
+      "braids_locs": "Preserve strand/bundle identity, diameter and natural bends; route under the edge and settle on shoulders without a jagged ring of exits.",
+      "ponytail": "Use a believable low, hood-specific gather if the tail is exposed. Covered high roots remain inside the hood; no cap-style rear hole or protrusion through cloth.",
+      "voluminous_hair": "Use a modestly fuller cloth envelope that bridges curl valleys rather than tracing every curl."
+    }
+  },
+  "next_slice": [
+    "Lock247 accepted front crossing/joins, face, body, wardrobe, palettes, coordinates and materials.",
+    "Author the relaxed rear cloth first against compact hair, preserving front geometry.",
+    "Prove joint fitting with Straight, Curls, Box braids and Ponytail plus a masculine short-hair control; include masculine Locs when assigning every style.",
+    "Review source and freshly reopened exports in enlarged rear/rear-quarter/both-side/underside views, then normal body and small portrait framing. Iterate both hair and cloth together.",
+    "Assign and individually review all16 covered styles using shared drape families where they actually fit; retain per-top garment support and test hoodie/jersey/light-top boundaries.",
+    "Publish selectable matched comparisons only once the representative arrangements pass; then update the rendering handoff and rebake matching color/depth outputs."
+  ],
+  "acceptance": [
+    "No visible hair penetration in cloth-covered regions. Hair emerges only at intentional open boundaries with convincing overlap and shadow.",
+    "Visible locks retain thickness, curvature, texture and coherent roots without radial projection kinks or chopped collars.",
+    "Rear cloth has modest slack and shoulder support without neck pinching, a floating ring or a bulky cape.",
+    "Accepted247 front crossing and joins remain protected.",
+    "Author-reviewed source/export/browser evidence covers the affected hair/cloth/top boundaries."
+  ],
+  "runtime": "Preauthored component selection from existing build/hair/headwear/top choices. No added profile bits or runtime cloth physics proposed.",
+  "references": [
+    "https://www.scummybears.com/blogs/news/the-best-rave-pashmina",
+    "https://iheartraves.com/collections/raver-gear/products/flashbang-matrix-pashmina"
+  ],
+  "recorded_utc": "2026-10-30T08:14:00.878018+00:00"
+}
