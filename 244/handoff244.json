@@ -1,0 +1,27 @@
+{
+  "revision": 244,
+  "url": "https://recdpz.github.io/ravedio-avatar-previews/244/",
+  "status": "Owner-review clean neck transition",
+  "baseline_commit": "8df4ee2d3e1fff42c8cb264e7cf3d939aa92f6ea",
+  "scope": "Remove inherited wavy neck tabs while retaining243 higher knot and outward drape",
+  "changes": [
+    "The lower hood, neck return and early end roots gather into one narrower continuous neck fold.",
+    "Outward shoulder tabs are removed from the actual cloth silhouette; no additional covering panel is added.",
+    "The243 knot and outward falling lengths after t0.27 remain exact, as do the fringe and all non-headgear components."
+  ],
+  "protected": "Upper hood above1.49,243 free drape after t0.27, body/face/hair/wardrobe/materials/studio and shared coordinates.",
+  "coordinates": "Shared coordinates unchanged; native Blender Z-up to glTF Y-up conversion only. No independent component recentering/resizing.",
+  "selection": "Independent controls retained. pashminaTops[build][top] selects the authored fit; Compare243 swaps only headgear with the same outfit and view.",
+  "assemblies": {
+    "Feminine": "assemblies/Feminine-pashmina244.blend",
+    "Masculine": "assemblies/Masculine-pashmina244.blend"
+  },
+  "reference_framing": "120 and512 portraits share camera transform and orthographic scale; exact studio/camera/color settings in fixtures244.json.",
+  "materials": "Retained woven texture, opaque cloth and0.12 sheen mapping. Ordinary uncompressed GLBs; no new transparency or refraction.",
+  "portable_sources": "Two packed scenes include their imported components. clean244.py starts from243 per-top authoring scenes and uses retained235/224 helper libraries.",
+  "qualification": "No native parity, depth-composition or phone-performance claim. No profile-byte or product-repository changes.",
+  "technical": "technical244.json",
+  "fixtures": "fixtures244.json",
+  "review": "review244.json",
+  "approval": "approval239.json"
+}

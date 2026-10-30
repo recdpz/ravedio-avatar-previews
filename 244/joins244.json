@@ -1,0 +1,104 @@
+{
+  "Feminine": {
+    "open": {
+      "closed_surface": true,
+      "upper_hood_exact_above": 1.49,
+      "free_drape_exact243_after_t": 0.27,
+      "protected_neighbors_exact": true,
+      "moved_vertices": 24460
+    },
+    "bandeau": {
+      "closed_surface": true,
+      "upper_hood_exact_above": 1.49,
+      "free_drape_exact243_after_t": 0.27,
+      "protected_neighbors_exact": true,
+      "moved_vertices": 24462
+    },
+    "triangle": {
+      "closed_surface": true,
+      "upper_hood_exact_above": 1.49,
+      "free_drape_exact243_after_t": 0.27,
+      "protected_neighbors_exact": true,
+      "moved_vertices": 24462
+    },
+    "strappy": {
+      "closed_surface": true,
+      "upper_hood_exact_above": 1.49,
+      "free_drape_exact243_after_t": 0.27,
+      "protected_neighbors_exact": true,
+      "moved_vertices": 24462
+    },
+    "tshirt": {
+      "closed_surface": true,
+      "upper_hood_exact_above": 1.49,
+      "free_drape_exact243_after_t": 0.27,
+      "protected_neighbors_exact": true,
+      "moved_vertices": 24462
+    },
+    "jersey": {
+      "closed_surface": true,
+      "upper_hood_exact_above": 1.49,
+      "free_drape_exact243_after_t": 0.27,
+      "protected_neighbors_exact": true,
+      "moved_vertices": 24462
+    },
+    "tank": {
+      "closed_surface": true,
+      "upper_hood_exact_above": 1.49,
+      "free_drape_exact243_after_t": 0.27,
+      "protected_neighbors_exact": true,
+      "moved_vertices": 24462
+    },
+    "sweatshirt": {
+      "closed_surface": true,
+      "upper_hood_exact_above": 1.49,
+      "free_drape_exact243_after_t": 0.27,
+      "protected_neighbors_exact": true,
+      "moved_vertices": 24462
+    }
+  },
+  "Masculine": {
+    "shirtless": {
+      "closed_surface": true,
+      "upper_hood_exact_above": 1.49,
+      "free_drape_exact243_after_t": 0.27,
+      "protected_neighbors_exact": true,
+      "moved_vertices": 24434
+    },
+    "tank": {
+      "closed_surface": true,
+      "upper_hood_exact_above": 1.49,
+      "free_drape_exact243_after_t": 0.27,
+      "protected_neighbors_exact": true,
+      "moved_vertices": 24434
+    },
+    "tshirt": {
+      "closed_surface": true,
+      "upper_hood_exact_above": 1.49,
+      "free_drape_exact243_after_t": 0.27,
+      "protected_neighbors_exact": true,
+      "moved_vertices": 24432
+    },
+    "jersey": {
+      "closed_surface": true,
+      "upper_hood_exact_above": 1.49,
+      "free_drape_exact243_after_t": 0.27,
+      "protected_neighbors_exact": true,
+      "moved_vertices": 24434
+    },
+    "buttonup": {
+      "closed_surface": true,
+      "upper_hood_exact_above": 1.49,
+      "free_drape_exact243_after_t": 0.27,
+      "protected_neighbors_exact": true,
+      "moved_vertices": 24434
+    },
+    "sweatshirt": {
+      "closed_surface": true,
+      "upper_hood_exact_above": 1.49,
+      "free_drape_exact243_after_t": 0.27,
+      "protected_neighbors_exact": true,
+      "moved_vertices": 24434
+    }
+  }
+}
