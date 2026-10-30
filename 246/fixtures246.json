@@ -1,0 +1,2236 @@
+{
+  "Feminine": {
+    "source": "E:\\Ravedio-Avatar\\catalogue246\\sources\\Feminine-pashmina-assembly246.blend",
+    "packed": true,
+    "body_reference": {
+      "scene": "224 Feminine-uncovered",
+      "settings": {
+        "blender": "5.2.0 LTS",
+        "coordinates": "Blender right-handed Z-up; front -Y. GLB right-handed Y-up; front +Z. Native glTF export conversion only; all components retain common world coordinates.",
+        "camera": {
+          "matrix_world": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              -1.6292068494294654e-07,
+              -1.0,
+              -8.0
+            ],
+            [
+              0.0,
+              1.0,
+              -1.6292068494294654e-07,
+              1.2799999713897705
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "type": "ORTHO",
+          "ortho_scale": 2.700000047683716,
+          "clip_start": 0.10000000149011612,
+          "clip_end": 1000.0,
+          "portrait_target": [
+            0,
+            0,
+            1.88
+          ],
+          "resolution": [
+            512,
+            512
+          ],
+          "pixel_aspect": [
+            1.0,
+            1.0
+          ]
+        },
+        "render": {
+          "engine": "CYCLES",
+          "samples": 64,
+          "device": "CPU",
+          "denoising": true,
+          "transparent": false,
+          "seed": 42
+        },
+        "color": {
+          "display_device": "sRGB",
+          "view_transform": "AgX",
+          "look": "None",
+          "exposure": 0.0,
+          "gamma": 1.0
+        },
+        "lights": [
+          {
+            "name": "Key",
+            "matrix_world": [
+              [
+                0.7999999523162842,
+                0.35058289766311646,
+                -0.48692068457603455,
+                -3.0
+              ],
+              [
+                -0.6000000834465027,
+                0.46744364500045776,
+                -0.649227499961853,
+                -4.0
+              ],
+              [
+                -7.590178086047672e-08,
+                0.8115344047546387,
+                0.584304690361023,
+                5.0
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "type": "AREA",
+            "energy_W": 380.0,
+            "color_linear": [
+              1.0,
+              0.9399999976158142,
+              0.8600000143051147
+            ],
+            "shape": "DISK",
+            "size": 4.0,
+            "size_y": 0.25
+          },
+          {
+            "name": "Blue",
+            "matrix_world": [
+              [
+                -0.2425357848405838,
+                0.3509708046913147,
+                -0.9044312834739685,
+                -4.0
+              ],
+              [
+                -0.9701424837112427,
+                -0.08774279803037643,
+                0.22610795497894287,
+                1.0
+              ],
+              [
+                -3.904946410671073e-08,
+                0.9322664141654968,
+                0.36177244782447815,
+                3.0
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "type": "AREA",
+            "energy_W": 160.0,
+            "color_linear": [
+              0.5799999833106995,
+              0.7200000286102295,
+              1.0
+            ],
+            "shape": "DISK",
+            "size": 3.0,
+            "size_y": 0.25
+          },
+          {
+            "name": "Lilac",
+            "matrix_world": [
+              [
+                -0.3162277638912201,
+                -0.6025006771087646,
+                0.7327980399131775,
+                3.0
+              ],
+              [
+                0.9486833214759827,
+                -0.20083355903625488,
+                0.24426601827144623,
+                1.0
+              ],
+              [
+                -1.0610615497341769e-08,
+                0.7724369168281555,
+                0.6350914835929871,
+                4.0
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "type": "AREA",
+            "energy_W": 190.0,
+            "color_linear": [
+              0.800000011920929,
+              0.6399999856948853,
+              1.0
+            ],
+            "shape": "DISK",
+            "size": 3.0,
+            "size_y": 0.25
+          },
+          {
+            "name": "Front",
+            "matrix_world": [
+              [
+                0.9701424837112427,
+                -0.03492620587348938,
+                0.24000772833824158,
+                1.0
+              ],
+              [
+                0.24253566563129425,
+                0.1397048681974411,
+                -0.960030734539032,
+                -4.0
+              ],
+              [
+                -1.657950576827716e-08,
+                0.989577054977417,
+                0.1440044790506363,
+                2.0
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "type": "AREA",
+            "energy_W": 55.0,
+            "color_linear": [
+              0.8799999952316284,
+              0.9300000071525574,
+              1.0
+            ],
+            "shape": "DISK",
+            "size": 3.0,
+            "size_y": 0.25
+          }
+        ],
+        "world": [
+          {
+            "name": "Background",
+            "type": "BACKGROUND",
+            "inputs": {
+              "Color": [
+                0.07500000298023224,
+                0.10000000149011612,
+                0.17000000178813934,
+                1.0
+              ],
+              "Strength": 0.4000000059604645,
+              "Weight": 0.0
+            }
+          },
+          {
+            "name": "World Output",
+            "type": "OUTPUT_WORLD",
+            "inputs": {}
+          }
+        ],
+        "world_links": [
+          [
+            "Background",
+            "Background",
+            "World Output",
+            "Surface"
+          ]
+        ],
+        "compositor": []
+      },
+      "ray_visibility": {
+        "Chest / subtle cleavage201 1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Chest / subtle cleavage201 -1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Skin / leg blob 1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Skin / leg blob -1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Skin / rounded torso": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Skin / soft oval head": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Skin / swept arm 1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Skin / swept arm -1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Button-up / button202": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Button-up / button202.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Button-up / button202.002": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Button-up / button202.003": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Button-up / button202.004": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Button-up / button202.005": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Button-up / sewn placket202.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Clothing / repaired202 open.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Shirt / flush hem201.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Sleeve / full fabric wrap201 1.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Sleeve / full fabric wrap201 -1.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Sleeve / sewn cuff201 1.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Sleeve / sewn cuff201 -1.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Bottom / clean skirt underlayer201.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Bottom / flowing skirt201.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Bottom / hem201 1.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Bottom / hem201 2.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Bottom / quiet skirt hem201.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Face / relaxed smile185": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Eye / dark oval 1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Eye / dark oval -1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Eye highlight / main 1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Eye highlight / main -1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Eye highlight / small 1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Eye highlight / small -1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "226 hair / Hair / chestnut226": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "226 hair / Hair / crisp pulled roots220.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "226 hair / Hair / sculpted front locks222.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "226 headgear / Headwear / continuous woven pashmina239": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "226 headgear / Headwear / face edge239": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "226 headgear / Headwear / fine fringe239": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "226 eyelashes / Lashes / charcoal234": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        }
+      },
+      "images": [
+        {
+          "name": "Continuous pashmina weave235",
+          "dimensions": [
+            512,
+            256
+          ],
+          "packed": true,
+          "source": "FILE"
+        },
+        {
+          "name": "Continuous pashmina weave235.001",
+          "dimensions": [
+            512,
+            256
+          ],
+          "packed": true,
+          "source": "FILE"
+        },
+        {
+          "name": "Headwear / woven pashmina235 woven design",
+          "dimensions": [
+            256,
+            256
+          ],
+          "packed": true,
+          "source": "FILE"
+        }
+      ]
+    },
+    "portrait_settings": {
+      "120": {
+        "blender": "5.2.0 LTS",
+        "coordinates": "Blender right-handed Z-up; front -Y. GLB right-handed Y-up; front +Z. Native glTF export conversion only; all components retain common world coordinates.",
+        "camera": {
+          "matrix_world": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              -1.6292068494294654e-07,
+              -1.0,
+              -8.0
+            ],
+            [
+              0.0,
+              1.0,
+              -1.6292068494294654e-07,
+              1.8799999952316284
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "type": "ORTHO",
+          "ortho_scale": 1.5,
+          "clip_start": 0.10000000149011612,
+          "clip_end": 1000.0,
+          "portrait_target": [
+            0,
+            0,
+            1.88
+          ],
+          "resolution": [
+            120,
+            120
+          ],
+          "pixel_aspect": [
+            1.0,
+            1.0
+          ]
+        },
+        "render": {
+          "engine": "CYCLES",
+          "samples": 32,
+          "device": "CPU",
+          "denoising": true,
+          "transparent": false,
+          "seed": 42
+        },
+        "color": {
+          "display_device": "sRGB",
+          "view_transform": "AgX",
+          "look": "None",
+          "exposure": 0.0,
+          "gamma": 1.0
+        },
+        "lights": [
+          {
+            "name": "Key",
+            "matrix_world": [
+              [
+                0.7999999523162842,
+                0.35058289766311646,
+                -0.48692068457603455,
+                -3.0
+              ],
+              [
+                -0.6000000834465027,
+                0.46744364500045776,
+                -0.649227499961853,
+                -4.0
+              ],
+              [
+                -7.590178086047672e-08,
+                0.8115344047546387,
+                0.584304690361023,
+                5.0
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "type": "AREA",
+            "energy_W": 380.0,
+            "color_linear": [
+              1.0,
+              0.9399999976158142,
+              0.8600000143051147
+            ],
+            "shape": "DISK",
+            "size": 4.0,
+            "size_y": 0.25
+          },
+          {
+            "name": "Blue",
+            "matrix_world": [
+              [
+                -0.2425357848405838,
+                0.3509708046913147,
+                -0.9044312834739685,
+                -4.0
+              ],
+              [
+                -0.9701424837112427,
+                -0.08774279803037643,
+                0.22610795497894287,
+                1.0
+              ],
+              [
+                -3.904946410671073e-08,
+                0.9322664141654968,
+                0.36177244782447815,
+                3.0
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "type": "AREA",
+            "energy_W": 160.0,
+            "color_linear": [
+              0.5799999833106995,
+              0.7200000286102295,
+              1.0
+            ],
+            "shape": "DISK",
+            "size": 3.0,
+            "size_y": 0.25
+          },
+          {
+            "name": "Lilac",
+            "matrix_world": [
+              [
+                -0.3162277638912201,
+                -0.6025006771087646,
+                0.7327980399131775,
+                3.0
+              ],
+              [
+                0.9486833214759827,
+                -0.20083355903625488,
+                0.24426601827144623,
+                1.0
+              ],
+              [
+                -1.0610615497341769e-08,
+                0.7724369168281555,
+                0.6350914835929871,
+                4.0
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "type": "AREA",
+            "energy_W": 190.0,
+            "color_linear": [
+              0.800000011920929,
+              0.6399999856948853,
+              1.0
+            ],
+            "shape": "DISK",
+            "size": 3.0,
+            "size_y": 0.25
+          },
+          {
+            "name": "Front",
+            "matrix_world": [
+              [
+                0.9701424837112427,
+                -0.03492620587348938,
+                0.24000772833824158,
+                1.0
+              ],
+              [
+                0.24253566563129425,
+                0.1397048681974411,
+                -0.960030734539032,
+                -4.0
+              ],
+              [
+                -1.657950576827716e-08,
+                0.989577054977417,
+                0.1440044790506363,
+                2.0
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "type": "AREA",
+            "energy_W": 55.0,
+            "color_linear": [
+              0.8799999952316284,
+              0.9300000071525574,
+              1.0
+            ],
+            "shape": "DISK",
+            "size": 3.0,
+            "size_y": 0.25
+          }
+        ],
+        "world": [
+          {
+            "name": "Background",
+            "type": "BACKGROUND",
+            "inputs": {
+              "Color": [
+                0.07500000298023224,
+                0.10000000149011612,
+                0.17000000178813934,
+                1.0
+              ],
+              "Strength": 0.4000000059604645,
+              "Weight": 0.0
+            }
+          },
+          {
+            "name": "World Output",
+            "type": "OUTPUT_WORLD",
+            "inputs": {}
+          }
+        ],
+        "world_links": [
+          [
+            "Background",
+            "Background",
+            "World Output",
+            "Surface"
+          ]
+        ],
+        "compositor": []
+      },
+      "512": {
+        "blender": "5.2.0 LTS",
+        "coordinates": "Blender right-handed Z-up; front -Y. GLB right-handed Y-up; front +Z. Native glTF export conversion only; all components retain common world coordinates.",
+        "camera": {
+          "matrix_world": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              -1.6292068494294654e-07,
+              -1.0,
+              -8.0
+            ],
+            [
+              0.0,
+              1.0,
+              -1.6292068494294654e-07,
+              1.8799999952316284
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "type": "ORTHO",
+          "ortho_scale": 1.5,
+          "clip_start": 0.10000000149011612,
+          "clip_end": 1000.0,
+          "portrait_target": [
+            0,
+            0,
+            1.88
+          ],
+          "resolution": [
+            512,
+            512
+          ],
+          "pixel_aspect": [
+            1.0,
+            1.0
+          ]
+        },
+        "render": {
+          "engine": "CYCLES",
+          "samples": 32,
+          "device": "CPU",
+          "denoising": true,
+          "transparent": false,
+          "seed": 42
+        },
+        "color": {
+          "display_device": "sRGB",
+          "view_transform": "AgX",
+          "look": "None",
+          "exposure": 0.0,
+          "gamma": 1.0
+        },
+        "lights": [
+          {
+            "name": "Key",
+            "matrix_world": [
+              [
+                0.7999999523162842,
+                0.35058289766311646,
+                -0.48692068457603455,
+                -3.0
+              ],
+              [
+                -0.6000000834465027,
+                0.46744364500045776,
+                -0.649227499961853,
+                -4.0
+              ],
+              [
+                -7.590178086047672e-08,
+                0.8115344047546387,
+                0.584304690361023,
+                5.0
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "type": "AREA",
+            "energy_W": 380.0,
+            "color_linear": [
+              1.0,
+              0.9399999976158142,
+              0.8600000143051147
+            ],
+            "shape": "DISK",
+            "size": 4.0,
+            "size_y": 0.25
+          },
+          {
+            "name": "Blue",
+            "matrix_world": [
+              [
+                -0.2425357848405838,
+                0.3509708046913147,
+                -0.9044312834739685,
+                -4.0
+              ],
+              [
+                -0.9701424837112427,
+                -0.08774279803037643,
+                0.22610795497894287,
+                1.0
+              ],
+              [
+                -3.904946410671073e-08,
+                0.9322664141654968,
+                0.36177244782447815,
+                3.0
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "type": "AREA",
+            "energy_W": 160.0,
+            "color_linear": [
+              0.5799999833106995,
+              0.7200000286102295,
+              1.0
+            ],
+            "shape": "DISK",
+            "size": 3.0,
+            "size_y": 0.25
+          },
+          {
+            "name": "Lilac",
+            "matrix_world": [
+              [
+                -0.3162277638912201,
+                -0.6025006771087646,
+                0.7327980399131775,
+                3.0
+              ],
+              [
+                0.9486833214759827,
+                -0.20083355903625488,
+                0.24426601827144623,
+                1.0
+              ],
+              [
+                -1.0610615497341769e-08,
+                0.7724369168281555,
+                0.6350914835929871,
+                4.0
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "type": "AREA",
+            "energy_W": 190.0,
+            "color_linear": [
+              0.800000011920929,
+              0.6399999856948853,
+              1.0
+            ],
+            "shape": "DISK",
+            "size": 3.0,
+            "size_y": 0.25
+          },
+          {
+            "name": "Front",
+            "matrix_world": [
+              [
+                0.9701424837112427,
+                -0.03492620587348938,
+                0.24000772833824158,
+                1.0
+              ],
+              [
+                0.24253566563129425,
+                0.1397048681974411,
+                -0.960030734539032,
+                -4.0
+              ],
+              [
+                -1.657950576827716e-08,
+                0.989577054977417,
+                0.1440044790506363,
+                2.0
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "type": "AREA",
+            "energy_W": 55.0,
+            "color_linear": [
+              0.8799999952316284,
+              0.9300000071525574,
+              1.0
+            ],
+            "shape": "DISK",
+            "size": 3.0,
+            "size_y": 0.25
+          }
+        ],
+        "world": [
+          {
+            "name": "Background",
+            "type": "BACKGROUND",
+            "inputs": {
+              "Color": [
+                0.07500000298023224,
+                0.10000000149011612,
+                0.17000000178813934,
+                1.0
+              ],
+              "Strength": 0.4000000059604645,
+              "Weight": 0.0
+            }
+          },
+          {
+            "name": "World Output",
+            "type": "OUTPUT_WORLD",
+            "inputs": {}
+          }
+        ],
+        "world_links": [
+          [
+            "Background",
+            "Background",
+            "World Output",
+            "Surface"
+          ]
+        ],
+        "compositor": []
+      }
+    },
+    "top": "open",
+    "hair": "ponytail",
+    "skin_index": 1,
+    "headgear": "pashmina",
+    "shared_coordinates": true
+  },
+  "Masculine": {
+    "source": "E:\\Ravedio-Avatar\\catalogue246\\sources\\Masculine-pashmina-assembly246.blend",
+    "packed": true,
+    "body_reference": {
+      "scene": "224 Masculine-taper",
+      "settings": {
+        "blender": "5.2.0 LTS",
+        "coordinates": "Blender right-handed Z-up; front -Y. GLB right-handed Y-up; front +Z. Native glTF export conversion only; all components retain common world coordinates.",
+        "camera": {
+          "matrix_world": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              -1.6292068494294654e-07,
+              -1.0,
+              -8.0
+            ],
+            [
+              0.0,
+              1.0,
+              -1.6292068494294654e-07,
+              1.2799999713897705
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "type": "ORTHO",
+          "ortho_scale": 2.700000047683716,
+          "clip_start": 0.10000000149011612,
+          "clip_end": 1000.0,
+          "portrait_target": [
+            0,
+            0,
+            1.88
+          ],
+          "resolution": [
+            512,
+            512
+          ],
+          "pixel_aspect": [
+            1.0,
+            1.0
+          ]
+        },
+        "render": {
+          "engine": "CYCLES",
+          "samples": 64,
+          "device": "CPU",
+          "denoising": true,
+          "transparent": false,
+          "seed": 42
+        },
+        "color": {
+          "display_device": "sRGB",
+          "view_transform": "AgX",
+          "look": "None",
+          "exposure": 0.0,
+          "gamma": 1.0
+        },
+        "lights": [
+          {
+            "name": "Key",
+            "matrix_world": [
+              [
+                0.7999999523162842,
+                0.35058289766311646,
+                -0.48692068457603455,
+                -3.0
+              ],
+              [
+                -0.6000000834465027,
+                0.46744364500045776,
+                -0.649227499961853,
+                -4.0
+              ],
+              [
+                -7.590178086047672e-08,
+                0.8115344047546387,
+                0.584304690361023,
+                5.0
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "type": "AREA",
+            "energy_W": 380.0,
+            "color_linear": [
+              1.0,
+              0.9399999976158142,
+              0.8600000143051147
+            ],
+            "shape": "DISK",
+            "size": 4.0,
+            "size_y": 0.25
+          },
+          {
+            "name": "Blue",
+            "matrix_world": [
+              [
+                -0.2425357848405838,
+                0.3509708046913147,
+                -0.9044312834739685,
+                -4.0
+              ],
+              [
+                -0.9701424837112427,
+                -0.08774279803037643,
+                0.22610795497894287,
+                1.0
+              ],
+              [
+                -3.904946410671073e-08,
+                0.9322664141654968,
+                0.36177244782447815,
+                3.0
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "type": "AREA",
+            "energy_W": 160.0,
+            "color_linear": [
+              0.5799999833106995,
+              0.7200000286102295,
+              1.0
+            ],
+            "shape": "DISK",
+            "size": 3.0,
+            "size_y": 0.25
+          },
+          {
+            "name": "Lilac",
+            "matrix_world": [
+              [
+                -0.3162277638912201,
+                -0.6025006771087646,
+                0.7327980399131775,
+                3.0
+              ],
+              [
+                0.9486833214759827,
+                -0.20083355903625488,
+                0.24426601827144623,
+                1.0
+              ],
+              [
+                -1.0610615497341769e-08,
+                0.7724369168281555,
+                0.6350914835929871,
+                4.0
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "type": "AREA",
+            "energy_W": 190.0,
+            "color_linear": [
+              0.800000011920929,
+              0.6399999856948853,
+              1.0
+            ],
+            "shape": "DISK",
+            "size": 3.0,
+            "size_y": 0.25
+          },
+          {
+            "name": "Front",
+            "matrix_world": [
+              [
+                0.9701424837112427,
+                -0.03492620587348938,
+                0.24000772833824158,
+                1.0
+              ],
+              [
+                0.24253566563129425,
+                0.1397048681974411,
+                -0.960030734539032,
+                -4.0
+              ],
+              [
+                -1.657950576827716e-08,
+                0.989577054977417,
+                0.1440044790506363,
+                2.0
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "type": "AREA",
+            "energy_W": 55.0,
+            "color_linear": [
+              0.8799999952316284,
+              0.9300000071525574,
+              1.0
+            ],
+            "shape": "DISK",
+            "size": 3.0,
+            "size_y": 0.25
+          }
+        ],
+        "world": [
+          {
+            "name": "Background",
+            "type": "BACKGROUND",
+            "inputs": {
+              "Color": [
+                0.07500000298023224,
+                0.10000000149011612,
+                0.17000000178813934,
+                1.0
+              ],
+              "Strength": 0.4000000059604645,
+              "Weight": 0.0
+            }
+          },
+          {
+            "name": "World Output",
+            "type": "OUTPUT_WORLD",
+            "inputs": {}
+          }
+        ],
+        "world_links": [
+          [
+            "Background",
+            "Background",
+            "World Output",
+            "Surface"
+          ]
+        ],
+        "compositor": []
+      },
+      "ray_visibility": {
+        "Skin / leg blob 1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Skin / leg blob -1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Skin / rounded torso": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Skin / soft oval head": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Skin / swept arm 1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Skin / swept arm -1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Clothing / Tank189": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Tank / vertical sewn armhole208 0 export": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Tank / vertical sewn armhole208 1 export": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Bottom / shorts front seam.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Bottom / shorts hem 1.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Bottom / shorts hem -1.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Bottom / shorts pocket 1.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Bottom / shorts pocket -1.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Bottom / shorts.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Face / relaxed smile185": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Eye / dark oval 1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Eye / dark oval -1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Eye highlight / main 1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Eye highlight / main -1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Eye highlight / small 1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Eye highlight / small -1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "226 hair / Hair / blended back crown214.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "226 hair / Hair / cut grain235.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "226 hair / Hair / neutral coverage235.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "226 hair / Hair / sculpted 0.003 / blended tips214.003": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "226 hair / Hair / sculpted 0.003 / blended tips214.004": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "226 hair / Hair / sculpted 0.003 / blended tips214.005": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "226 hair / Hair / sculpted 1.002 / blended tips214.003": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "226 hair / Hair / sculpted 1.002 / blended tips214.004": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "226 hair / Hair / sculpted 1.002 / blended tips214.005": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "226 hair / Hair / sculpted 2.003 / blended tips214.003": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "226 hair / Hair / sculpted 2.003 / blended tips214.004": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "226 hair / Hair / sculpted 2.003 / blended tips214.005": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "226 headgear / Headwear / continuous woven pashmina239": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "226 headgear / Headwear / face edge239": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "226 headgear / Headwear / fine fringe239": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Groom / clean stubble184": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Groom / upper lip stubble191": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        }
+      },
+      "images": [
+        {
+          "name": "Continuous pashmina weave235",
+          "dimensions": [
+            512,
+            256
+          ],
+          "packed": true,
+          "source": "FILE"
+        },
+        {
+          "name": "Continuous pashmina weave235.001",
+          "dimensions": [
+            512,
+            256
+          ],
+          "packed": true,
+          "source": "FILE"
+        },
+        {
+          "name": "Headwear / woven pashmina235 woven design",
+          "dimensions": [
+            256,
+            256
+          ],
+          "packed": true,
+          "source": "FILE"
+        }
+      ]
+    },
+    "portrait_settings": {
+      "120": {
+        "blender": "5.2.0 LTS",
+        "coordinates": "Blender right-handed Z-up; front -Y. GLB right-handed Y-up; front +Z. Native glTF export conversion only; all components retain common world coordinates.",
+        "camera": {
+          "matrix_world": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              -1.6292068494294654e-07,
+              -1.0,
+              -8.0
+            ],
+            [
+              0.0,
+              1.0,
+              -1.6292068494294654e-07,
+              1.8799999952316284
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "type": "ORTHO",
+          "ortho_scale": 1.5,
+          "clip_start": 0.10000000149011612,
+          "clip_end": 1000.0,
+          "portrait_target": [
+            0,
+            0,
+            1.88
+          ],
+          "resolution": [
+            120,
+            120
+          ],
+          "pixel_aspect": [
+            1.0,
+            1.0
+          ]
+        },
+        "render": {
+          "engine": "CYCLES",
+          "samples": 32,
+          "device": "CPU",
+          "denoising": true,
+          "transparent": false,
+          "seed": 42
+        },
+        "color": {
+          "display_device": "sRGB",
+          "view_transform": "AgX",
+          "look": "None",
+          "exposure": 0.0,
+          "gamma": 1.0
+        },
+        "lights": [
+          {
+            "name": "Key",
+            "matrix_world": [
+              [
+                0.7999999523162842,
+                0.35058289766311646,
+                -0.48692068457603455,
+                -3.0
+              ],
+              [
+                -0.6000000834465027,
+                0.46744364500045776,
+                -0.649227499961853,
+                -4.0
+              ],
+              [
+                -7.590178086047672e-08,
+                0.8115344047546387,
+                0.584304690361023,
+                5.0
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "type": "AREA",
+            "energy_W": 380.0,
+            "color_linear": [
+              1.0,
+              0.9399999976158142,
+              0.8600000143051147
+            ],
+            "shape": "DISK",
+            "size": 4.0,
+            "size_y": 0.25
+          },
+          {
+            "name": "Blue",
+            "matrix_world": [
+              [
+                -0.2425357848405838,
+                0.3509708046913147,
+                -0.9044312834739685,
+                -4.0
+              ],
+              [
+                -0.9701424837112427,
+                -0.08774279803037643,
+                0.22610795497894287,
+                1.0
+              ],
+              [
+                -3.904946410671073e-08,
+                0.9322664141654968,
+                0.36177244782447815,
+                3.0
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "type": "AREA",
+            "energy_W": 160.0,
+            "color_linear": [
+              0.5799999833106995,
+              0.7200000286102295,
+              1.0
+            ],
+            "shape": "DISK",
+            "size": 3.0,
+            "size_y": 0.25
+          },
+          {
+            "name": "Lilac",
+            "matrix_world": [
+              [
+                -0.3162277638912201,
+                -0.6025006771087646,
+                0.7327980399131775,
+                3.0
+              ],
+              [
+                0.9486833214759827,
+                -0.20083355903625488,
+                0.24426601827144623,
+                1.0
+              ],
+              [
+                -1.0610615497341769e-08,
+                0.7724369168281555,
+                0.6350914835929871,
+                4.0
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "type": "AREA",
+            "energy_W": 190.0,
+            "color_linear": [
+              0.800000011920929,
+              0.6399999856948853,
+              1.0
+            ],
+            "shape": "DISK",
+            "size": 3.0,
+            "size_y": 0.25
+          },
+          {
+            "name": "Front",
+            "matrix_world": [
+              [
+                0.9701424837112427,
+                -0.03492620587348938,
+                0.24000772833824158,
+                1.0
+              ],
+              [
+                0.24253566563129425,
+                0.1397048681974411,
+                -0.960030734539032,
+                -4.0
+              ],
+              [
+                -1.657950576827716e-08,
+                0.989577054977417,
+                0.1440044790506363,
+                2.0
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "type": "AREA",
+            "energy_W": 55.0,
+            "color_linear": [
+              0.8799999952316284,
+              0.9300000071525574,
+              1.0
+            ],
+            "shape": "DISK",
+            "size": 3.0,
+            "size_y": 0.25
+          }
+        ],
+        "world": [
+          {
+            "name": "Background",
+            "type": "BACKGROUND",
+            "inputs": {
+              "Color": [
+                0.07500000298023224,
+                0.10000000149011612,
+                0.17000000178813934,
+                1.0
+              ],
+              "Strength": 0.4000000059604645,
+              "Weight": 0.0
+            }
+          },
+          {
+            "name": "World Output",
+            "type": "OUTPUT_WORLD",
+            "inputs": {}
+          }
+        ],
+        "world_links": [
+          [
+            "Background",
+            "Background",
+            "World Output",
+            "Surface"
+          ]
+        ],
+        "compositor": []
+      },
+      "512": {
+        "blender": "5.2.0 LTS",
+        "coordinates": "Blender right-handed Z-up; front -Y. GLB right-handed Y-up; front +Z. Native glTF export conversion only; all components retain common world coordinates.",
+        "camera": {
+          "matrix_world": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              -1.6292068494294654e-07,
+              -1.0,
+              -8.0
+            ],
+            [
+              0.0,
+              1.0,
+              -1.6292068494294654e-07,
+              1.8799999952316284
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "type": "ORTHO",
+          "ortho_scale": 1.5,
+          "clip_start": 0.10000000149011612,
+          "clip_end": 1000.0,
+          "portrait_target": [
+            0,
+            0,
+            1.88
+          ],
+          "resolution": [
+            512,
+            512
+          ],
+          "pixel_aspect": [
+            1.0,
+            1.0
+          ]
+        },
+        "render": {
+          "engine": "CYCLES",
+          "samples": 32,
+          "device": "CPU",
+          "denoising": true,
+          "transparent": false,
+          "seed": 42
+        },
+        "color": {
+          "display_device": "sRGB",
+          "view_transform": "AgX",
+          "look": "None",
+          "exposure": 0.0,
+          "gamma": 1.0
+        },
+        "lights": [
+          {
+            "name": "Key",
+            "matrix_world": [
+              [
+                0.7999999523162842,
+                0.35058289766311646,
+                -0.48692068457603455,
+                -3.0
+              ],
+              [
+                -0.6000000834465027,
+                0.46744364500045776,
+                -0.649227499961853,
+                -4.0
+              ],
+              [
+                -7.590178086047672e-08,
+                0.8115344047546387,
+                0.584304690361023,
+                5.0
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "type": "AREA",
+            "energy_W": 380.0,
+            "color_linear": [
+              1.0,
+              0.9399999976158142,
+              0.8600000143051147
+            ],
+            "shape": "DISK",
+            "size": 4.0,
+            "size_y": 0.25
+          },
+          {
+            "name": "Blue",
+            "matrix_world": [
+              [
+                -0.2425357848405838,
+                0.3509708046913147,
+                -0.9044312834739685,
+                -4.0
+              ],
+              [
+                -0.9701424837112427,
+                -0.08774279803037643,
+                0.22610795497894287,
+                1.0
+              ],
+              [
+                -3.904946410671073e-08,
+                0.9322664141654968,
+                0.36177244782447815,
+                3.0
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "type": "AREA",
+            "energy_W": 160.0,
+            "color_linear": [
+              0.5799999833106995,
+              0.7200000286102295,
+              1.0
+            ],
+            "shape": "DISK",
+            "size": 3.0,
+            "size_y": 0.25
+          },
+          {
+            "name": "Lilac",
+            "matrix_world": [
+              [
+                -0.3162277638912201,
+                -0.6025006771087646,
+                0.7327980399131775,
+                3.0
+              ],
+              [
+                0.9486833214759827,
+                -0.20083355903625488,
+                0.24426601827144623,
+                1.0
+              ],
+              [
+                -1.0610615497341769e-08,
+                0.7724369168281555,
+                0.6350914835929871,
+                4.0
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "type": "AREA",
+            "energy_W": 190.0,
+            "color_linear": [
+              0.800000011920929,
+              0.6399999856948853,
+              1.0
+            ],
+            "shape": "DISK",
+            "size": 3.0,
+            "size_y": 0.25
+          },
+          {
+            "name": "Front",
+            "matrix_world": [
+              [
+                0.9701424837112427,
+                -0.03492620587348938,
+                0.24000772833824158,
+                1.0
+              ],
+              [
+                0.24253566563129425,
+                0.1397048681974411,
+                -0.960030734539032,
+                -4.0
+              ],
+              [
+                -1.657950576827716e-08,
+                0.989577054977417,
+                0.1440044790506363,
+                2.0
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "type": "AREA",
+            "energy_W": 55.0,
+            "color_linear": [
+              0.8799999952316284,
+              0.9300000071525574,
+              1.0
+            ],
+            "shape": "DISK",
+            "size": 3.0,
+            "size_y": 0.25
+          }
+        ],
+        "world": [
+          {
+            "name": "Background",
+            "type": "BACKGROUND",
+            "inputs": {
+              "Color": [
+                0.07500000298023224,
+                0.10000000149011612,
+                0.17000000178813934,
+                1.0
+              ],
+              "Strength": 0.4000000059604645,
+              "Weight": 0.0
+            }
+          },
+          {
+            "name": "World Output",
+            "type": "OUTPUT_WORLD",
+            "inputs": {}
+          }
+        ],
+        "world_links": [
+          [
+            "Background",
+            "Background",
+            "World Output",
+            "Surface"
+          ]
+        ],
+        "compositor": []
+      }
+    },
+    "top": "tank",
+    "hair": "taper",
+    "skin_index": 1,
+    "headgear": "pashmina",
+    "shared_coordinates": true
+  }
+}
