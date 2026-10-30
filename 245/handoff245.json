@@ -1,0 +1,28 @@
+{
+  "revision": 245,
+  "url": "https://recdpz.github.io/ravedio-avatar-previews/245/",
+  "status": "Owner-review plain crossing at accepted placement",
+  "baseline_commit": "ffb33aa31b246ce4dec49e9028a621383bd3a54a",
+  "scope": "Simple overlapping pashmina ends at the accepted244 high placement; remove knot-like tuck",
+  "changes": [
+    "Remove the central reversing tucked path, pinch and raised gather.",
+    "The two lengths cross once, with a small thickness clearance establishing over/under order.",
+    "Keep244 clean hood/neck transition, outward free drape, tips and fringe exact."
+  ],
+  "protected": "All244 cloth outside t0.185..0.615 of the crossed lengths; all other objects, materials, shared coordinates and studio.",
+  "coordinates": "Shared coordinates unchanged; native Blender Z-up to glTF Y-up conversion only. No independent component recentering/resizing.",
+  "selection": "Independent controls retained. pashminaTops[build][top] selects the authored fit; Compare244 swaps only headgear with the same outfit and view.",
+  "assemblies": {
+    "Feminine": "assemblies/Feminine-pashmina245.blend",
+    "Masculine": "assemblies/Masculine-pashmina245.blend"
+  },
+  "reference_framing": "120 and512 portraits share camera transform and orthographic scale; exact studio/camera/color settings in fixtures245.json.",
+  "materials": "Retained woven texture, opaque cloth and0.12 sheen mapping. Ordinary uncompressed GLBs; no new transparency or refraction.",
+  "portable_sources": "Two packed scenes include their imported components. cross245.py starts from244 per-top authoring scenes and uses retained235/224 helper libraries.",
+  "qualification": "No native parity, depth-composition or phone-performance claim. No profile-byte or product-repository changes.",
+  "technical": "technical245.json",
+  "fixtures": "fixtures245.json",
+  "review": "review245.json",
+  "approval": "approval239.json",
+  "placement_approval": "approval244.json"
+}
