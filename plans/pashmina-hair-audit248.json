@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-02",
+  "baseline_commit": "cc3d03d9caf726bc0406338a9a60579dba2b3ab4",
+  "revision": 248,
+  "scope": "Owner-reported feminine pashmina hair coverage and hairstyle identity defects",
+  "method": "Reopened actual catalogue GLBs. All eight feminine styles: uncovered, pashmina assembly, and covered hair with cloth hidden. Identical front, three-quarter, profile and rear cameras; 96 matched renders.",
+  "findings": [
+    "Covered crowns contain extensive bare-looking areas. Inherited crown fitting and subsequent clearance projection have pressed much of the hair inside the head surface. This was not a deliberate bald hairstyle.",
+    "Bob, Straight, Curls and Side sweep lose rooted front/temple volume, leaving an unnaturally flat narrow band above the forehead.",
+    "248 replaced visible Straight, Curls and Side sweep lengths with nearly shared generic lock construction. Curly wave form and Side sweep framing are not faithfully retained.",
+    "Box braids has an abrupt horizontal transition from clipped upper braids into sparse replacement face braids. Rear lengths read as an appended short curtain.",
+    "Ponytail uses a much smaller and flatter replacement low tail. Its exposed form differs from the selected uncovered tail.",
+    "The previous 248 self review overstated visual success. Clearance, export counts and protected-neighbor checks did not establish coverage or hairstyle identity."
+  ],
+  "repair_requirements": [
+    "Start from intact uncovered hairstyles and preserve their visible strand geometry, curl wavelength, braid pattern, gloss, framing and length hierarchy.",
+    "Keep rooted coverage outside the actual retained head surface. Do not use stale ellipsoid supports or push hair beneath skin to solve cloth intersections.",
+    "Author localized concealed root/gather adjustments and fit the cloth to broad hair volume without imprinting every strand or breaking accepted front crossings.",
+    "Give each hair exit a continuous origin and natural layering. Avoid blunt eye-level cuts, detached front strings and a uniform row of replacement tips.",
+    "Require matched uncovered/covered comparisons, temporary cloth-hidden views, enlarged hair exits and fresh GLB review before calling a repair successful."
+  ],
+  "status": "Audit complete; hair fitting requires repair. No replacement model is claimed by this audit.",
+  "protected": "Uncovered hair, accepted front crossings, body, face, wardrobe, palette and studio.",
+  "evidence": "E:/Ravedio-Avatar/pashmina-hair-audit248/",
+  "native_phone_qualified": false
+}
