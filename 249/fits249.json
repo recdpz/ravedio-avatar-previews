@@ -1,0 +1,4218 @@
+{
+  "Feminine-bob-open": {
+    "modified_outer_vertices": 9832,
+    "max_hood_displacement": 0.1524180769920349,
+    "support_points": 45691,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "bob",
+    "top": "open",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\208\\Feminine-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue249\\sources\\Feminine-bob-open-pashmina249.blend",
+    "headgear": "components/Feminine-bob-open-pashmina249-headgear.glb",
+    "hair": "../208/Feminine-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-bob-pashmina249-sprout.glb",
+      "anchor": [
+        0.13085231184959412,
+        0.019960135221481323,
+        2.4033358097076416
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4004597663879395
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    }
+  },
+  "Feminine-straight-open": {
+    "modified_outer_vertices": 15077,
+    "max_hood_displacement": 0.28559160232543945,
+    "support_points": 39638,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "straight",
+    "top": "open",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-straight-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue249\\sources\\Feminine-straight-open-pashmina249.blend",
+    "headgear": "components/Feminine-straight-open-pashmina249-headgear.glb",
+    "hair": "../227/components/Feminine-straight-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-straight-pashmina249-sprout.glb",
+      "anchor": [
+        0.13085226714611053,
+        0.019960135221481323,
+        2.4033358097076416
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4004597663879395
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    }
+  },
+  "Feminine-curls-open": {
+    "modified_outer_vertices": 15077,
+    "max_hood_displacement": 0.33251214027404785,
+    "support_points": 42565,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "curls",
+    "top": "open",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-curls-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue249\\sources\\Feminine-curls-open-pashmina249.blend",
+    "headgear": "components/Feminine-curls-open-pashmina249-headgear.glb",
+    "hair": "../227/components/Feminine-curls-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-curls-pashmina249-sprout.glb",
+      "anchor": [
+        0.13078579306602478,
+        0.019964858889579773,
+        2.404722213745117
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.401827096939087
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    }
+  },
+  "Feminine-ponytail-open": {
+    "modified_outer_vertices": 14153,
+    "max_hood_displacement": 0.2581205368041992,
+    "support_points": 31381,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "ponytail",
+    "top": "open",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\224\\components\\Feminine-uncovered-hair.glb",
+    "localized_gathers": [
+      "Hair / swept roots220:low gather roots 4612",
+      "Hair / rounded tail220 0",
+      "Hair / rounded tail220 1",
+      "Hair / rounded tail220 2",
+      "Hair / rounded tail220 3",
+      "Hair / rounded tail220 4",
+      "Hair / tie220"
+    ],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue249\\sources\\Feminine-ponytail-open-pashmina249.blend",
+    "headgear": "components/Feminine-ponytail-open-pashmina249-headgear.glb",
+    "hair": "components/Feminine-ponytail-gather249-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-ponytail-pashmina249-sprout.glb",
+      "anchor": [
+        0.13063329458236694,
+        0.020201241597533226,
+        2.370587110519409
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.367661714553833
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    }
+  },
+  "Feminine-side-sweep-open": {
+    "modified_outer_vertices": 15077,
+    "max_hood_displacement": 0.25849661231040955,
+    "support_points": 40777,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "side-sweep",
+    "top": "open",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-side-sweep-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue249\\sources\\Feminine-side-sweep-open-pashmina249.blend",
+    "headgear": "components/Feminine-side-sweep-open-pashmina249-headgear.glb",
+    "hair": "../227/components/Feminine-side-sweep-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-side-sweep-pashmina249-sprout.glb",
+      "anchor": [
+        0.13089367747306824,
+        0.01991882175207138,
+        2.40228271484375
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3994200229644775
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    }
+  },
+  "Feminine-space-buns-open": {
+    "modified_outer_vertices": 9832,
+    "max_hood_displacement": 0.10845646262168884,
+    "support_points": 27057,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "space-buns",
+    "top": "open",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-space-buns-hair.glb",
+    "localized_gathers": [
+      "226 hair / Hair / chestnut226:bun island 11792",
+      "226 hair / Hair / chestnut226:bun island 12483",
+      "226 hair / Hair / chestnut226:bun island 13443",
+      "226 hair / Hair / chestnut226:bun island 14403",
+      "226 hair / Hair / chestnut226:bun island 15363",
+      "226 hair / Hair / chestnut226:bun island 19395",
+      "226 hair / Hair / chestnut226:bun island 20086",
+      "226 hair / Hair / chestnut226:bun island 21046",
+      "226 hair / Hair / chestnut226:bun island 22006",
+      "226 hair / Hair / chestnut226:bun island 22966"
+    ],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue249\\sources\\Feminine-space-buns-open-pashmina249.blend",
+    "headgear": "components/Feminine-space-buns-open-pashmina249-headgear.glb",
+    "hair": "components/Feminine-space-buns-gather249-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-space-buns-pashmina249-sprout.glb",
+      "anchor": [
+        0.1304621696472168,
+        0.020051734521985054,
+        2.36826491355896
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3653011322021484
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    }
+  },
+  "Feminine-twin-braids-open": {
+    "modified_outer_vertices": 9832,
+    "max_hood_displacement": 0.20438255369663239,
+    "support_points": 24885,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "twin-braids",
+    "top": "open",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-twin-braids-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue249\\sources\\Feminine-twin-braids-open-pashmina249.blend",
+    "headgear": "components/Feminine-twin-braids-open-pashmina249-headgear.glb",
+    "hair": "../227/components/Feminine-twin-braids-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-twin-braids-pashmina249-sprout.glb",
+      "anchor": [
+        0.13045839965343475,
+        0.02005128189921379,
+        2.3683359622955322
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3653717041015625
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    }
+  },
+  "Feminine-box-braids-open": {
+    "modified_outer_vertices": 15077,
+    "max_hood_displacement": 0.315231055021286,
+    "support_points": 110695,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "box-braids",
+    "top": "open",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-box-braids-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue249\\sources\\Feminine-box-braids-open-pashmina249.blend",
+    "headgear": "components/Feminine-box-braids-open-pashmina249-headgear.glb",
+    "hair": "../227/components/Feminine-box-braids-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-box-braids-pashmina249-sprout.glb",
+      "anchor": [
+        0.1303829550743103,
+        0.019984927028417587,
+        2.3910560607910156
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.388080596923828
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    }
+  },
+  "Masculine-sidepart-tank": {
+    "modified_outer_vertices": 9827,
+    "max_hood_displacement": 0.08046496659517288,
+    "support_points": 47559,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "sidepart",
+    "top": "tank",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\208\\Masculine-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue249\\sources\\Masculine-sidepart-tank-pashmina249.blend",
+    "headgear": "components/Masculine-sidepart-tank-pashmina249-headgear.glb",
+    "hair": "../208/Masculine-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-sidepart-pashmina249-sprout.glb",
+      "anchor": [
+        0.1309489607810974,
+        0.020046502351760864,
+        2.4106812477111816
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4078357219696045
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    }
+  },
+  "Masculine-taper-tank": {
+    "modified_outer_vertices": 9827,
+    "max_hood_displacement": 0.06675677001476288,
+    "support_points": 43089,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "taper",
+    "top": "tank",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-taper-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue249\\sources\\Masculine-taper-tank-pashmina249.blend",
+    "headgear": "components/Masculine-taper-tank-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-taper-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-taper-pashmina249-sprout.glb",
+      "anchor": [
+        0.1306777447462082,
+        0.02014588750898838,
+        2.4156665802001953
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.412747859954834
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    }
+  },
+  "Masculine-buzz-tank": {
+    "modified_outer_vertices": 9788,
+    "max_hood_displacement": 0.012556994333863258,
+    "support_points": 21639,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "buzz",
+    "top": "tank",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-buzz-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue249\\sources\\Masculine-buzz-tank-pashmina249.blend",
+    "headgear": "components/Masculine-buzz-tank-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-buzz-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-buzz-pashmina249-sprout.glb",
+      "anchor": [
+        0.1306421160697937,
+        0.020162928849458694,
+        2.3514723777770996
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3485465049743652
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    }
+  },
+  "Masculine-curly-top-tank": {
+    "modified_outer_vertices": 9827,
+    "max_hood_displacement": 0.10747943818569183,
+    "support_points": 68010,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "curly-top",
+    "top": "tank",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-curly-top-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue249\\sources\\Masculine-curly-top-tank-pashmina249.blend",
+    "headgear": "components/Masculine-curly-top-tank-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-curly-top-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-curly-top-pashmina249-sprout.glb",
+      "anchor": [
+        0.13067679107189178,
+        0.02005721814930439,
+        2.454366445541382
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.451444387435913
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    }
+  },
+  "Masculine-afro-tank": {
+    "modified_outer_vertices": 9827,
+    "max_hood_displacement": 0.1523853987455368,
+    "support_points": 93323,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "afro",
+    "top": "tank",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-afro-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue249\\sources\\Masculine-afro-tank-pashmina249.blend",
+    "headgear": "components/Masculine-afro-tank-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-afro-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-afro-pashmina249-sprout.glb",
+      "anchor": [
+        0.13063085079193115,
+        0.01996556855738163,
+        2.5023467540740967
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4994139671325684
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    }
+  },
+  "Masculine-flow-tank": {
+    "modified_outer_vertices": 9827,
+    "max_hood_displacement": 0.16643397510051727,
+    "support_points": 41538,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "flow",
+    "top": "tank",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-flow-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue249\\sources\\Masculine-flow-tank-pashmina249.blend",
+    "headgear": "components/Masculine-flow-tank-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-flow-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-flow-pashmina249-sprout.glb",
+      "anchor": [
+        0.13078613579273224,
+        0.020477809011936188,
+        2.433548927307129
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4306933879852295
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    }
+  },
+  "Masculine-locs-tank": {
+    "modified_outer_vertices": 9827,
+    "max_hood_displacement": 0.11751293390989304,
+    "support_points": 52312,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "locs",
+    "top": "tank",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-locs-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue249\\sources\\Masculine-locs-tank-pashmina249.blend",
+    "headgear": "components/Masculine-locs-tank-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-locs-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-locs-pashmina249-sprout.glb",
+      "anchor": [
+        0.13027380406856537,
+        0.020109569653868675,
+        2.4125468730926514
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4095613956451416
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    }
+  },
+  "Masculine-middle-part-tank": {
+    "modified_outer_vertices": 9827,
+    "max_hood_displacement": 0.12349370867013931,
+    "support_points": 52996,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "middle-part",
+    "top": "tank",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-middle-part-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue249\\sources\\Masculine-middle-part-tank-pashmina249.blend",
+    "headgear": "components/Masculine-middle-part-tank-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-middle-part-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-middle-part-pashmina249-sprout.glb",
+      "anchor": [
+        0.1301853507757187,
+        0.020097216591238976,
+        2.399967670440674
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.396975040435791
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    }
+  },
+  "Feminine-bob-bandeau": {
+    "modified_outer_vertices": 9824,
+    "max_hood_displacement": 0.1524180769920349,
+    "support_points": 45691,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "bob",
+    "top": "bandeau",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\208\\Feminine-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-bandeau-compact-pashmina248.blend",
+    "headgear": "components/Feminine-bob-bandeau-pashmina249-headgear.glb",
+    "hair": "../208/Feminine-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-bob-pashmina249-sprout.glb",
+      "anchor": [
+        0.13085231184959412,
+        0.019960135221481323,
+        2.4033358097076416
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4004597663879395
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "04ba1b6792603c13414ca96ddb1f7c66bf478f888c7baa434f0697b1756c873d",
+    "source_is_frozen248_with_field": true
+  },
+  "Feminine-bob-triangle": {
+    "modified_outer_vertices": 9832,
+    "max_hood_displacement": 0.15239748358726501,
+    "support_points": 45691,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "bob",
+    "top": "triangle",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\208\\Feminine-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-triangle-compact-pashmina248.blend",
+    "headgear": "components/Feminine-bob-triangle-pashmina249-headgear.glb",
+    "hair": "../208/Feminine-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-bob-pashmina249-sprout.glb",
+      "anchor": [
+        0.13085231184959412,
+        0.019960135221481323,
+        2.4033358097076416
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4004597663879395
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "04ba1b6792603c13414ca96ddb1f7c66bf478f888c7baa434f0697b1756c873d",
+    "source_is_frozen248_with_field": true
+  },
+  "Feminine-bob-strappy": {
+    "modified_outer_vertices": 9827,
+    "max_hood_displacement": 0.1524180769920349,
+    "support_points": 45691,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "bob",
+    "top": "strappy",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\208\\Feminine-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-strappy-compact-pashmina248.blend",
+    "headgear": "components/Feminine-bob-strappy-pashmina249-headgear.glb",
+    "hair": "../208/Feminine-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-bob-pashmina249-sprout.glb",
+      "anchor": [
+        0.13085231184959412,
+        0.019960135221481323,
+        2.4033358097076416
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4004597663879395
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "04ba1b6792603c13414ca96ddb1f7c66bf478f888c7baa434f0697b1756c873d",
+    "source_is_frozen248_with_field": true
+  },
+  "Feminine-bob-tshirt": {
+    "modified_outer_vertices": 9829,
+    "max_hood_displacement": 0.1524180769920349,
+    "support_points": 45691,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "bob",
+    "top": "tshirt",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\208\\Feminine-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-tshirt-compact-pashmina248.blend",
+    "headgear": "components/Feminine-bob-tshirt-pashmina249-headgear.glb",
+    "hair": "../208/Feminine-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-bob-pashmina249-sprout.glb",
+      "anchor": [
+        0.13085231184959412,
+        0.019960135221481323,
+        2.4033358097076416
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4004597663879395
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "04ba1b6792603c13414ca96ddb1f7c66bf478f888c7baa434f0697b1756c873d",
+    "source_is_frozen248_with_field": true
+  },
+  "Feminine-bob-jersey": {
+    "modified_outer_vertices": 9820,
+    "max_hood_displacement": 0.15163563191890717,
+    "support_points": 45691,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "bob",
+    "top": "jersey",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\208\\Feminine-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-jersey-compact-pashmina248.blend",
+    "headgear": "components/Feminine-bob-jersey-pashmina249-headgear.glb",
+    "hair": "../208/Feminine-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-bob-pashmina249-sprout.glb",
+      "anchor": [
+        0.13085231184959412,
+        0.019960135221481323,
+        2.4033358097076416
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4004597663879395
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "04ba1b6792603c13414ca96ddb1f7c66bf478f888c7baa434f0697b1756c873d",
+    "source_is_frozen248_with_field": true
+  },
+  "Feminine-bob-tank": {
+    "modified_outer_vertices": 9824,
+    "max_hood_displacement": 0.1524180769920349,
+    "support_points": 45691,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "bob",
+    "top": "tank",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\208\\Feminine-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-tank-compact-pashmina248.blend",
+    "headgear": "components/Feminine-bob-tank-pashmina249-headgear.glb",
+    "hair": "../208/Feminine-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-bob-pashmina249-sprout.glb",
+      "anchor": [
+        0.13085231184959412,
+        0.019960135221481323,
+        2.4033358097076416
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4004597663879395
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "04ba1b6792603c13414ca96ddb1f7c66bf478f888c7baa434f0697b1756c873d",
+    "source_is_frozen248_with_field": true
+  },
+  "Feminine-bob-sweatshirt": {
+    "modified_outer_vertices": 9829,
+    "max_hood_displacement": 0.1524180769920349,
+    "support_points": 45691,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "bob",
+    "top": "sweatshirt",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\208\\Feminine-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-sweatshirt-compact-pashmina248.blend",
+    "headgear": "components/Feminine-bob-sweatshirt-pashmina249-headgear.glb",
+    "hair": "../208/Feminine-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-bob-pashmina249-sprout.glb",
+      "anchor": [
+        0.13085231184959412,
+        0.019960135221481323,
+        2.4033358097076416
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4004597663879395
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "04ba1b6792603c13414ca96ddb1f7c66bf478f888c7baa434f0697b1756c873d",
+    "source_is_frozen248_with_field": true
+  },
+  "Feminine-ponytail-bandeau": {
+    "modified_outer_vertices": 14202,
+    "max_hood_displacement": 0.2581232190132141,
+    "support_points": 31381,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "ponytail",
+    "top": "bandeau",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\224\\components\\Feminine-uncovered-hair.glb",
+    "localized_gathers": [
+      "Hair / swept roots220:low gather roots 4612",
+      "Hair / rounded tail220 0",
+      "Hair / rounded tail220 1",
+      "Hair / rounded tail220 2",
+      "Hair / rounded tail220 3",
+      "Hair / rounded tail220 4",
+      "Hair / tie220"
+    ],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-bandeau-gathered-pashmina248.blend",
+    "headgear": "components/Feminine-ponytail-bandeau-pashmina249-headgear.glb",
+    "hair": "components/Feminine-ponytail-gather249-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-ponytail-pashmina249-sprout.glb",
+      "anchor": [
+        0.13063329458236694,
+        0.020201241597533226,
+        2.370587110519409
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.367661714553833
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "eaddf1f3dcfa7353ab6e49096fca179abec9a68953e52ba393a5e918fe8a32ec",
+    "source_is_frozen248_with_field": true
+  },
+  "Feminine-ponytail-triangle": {
+    "modified_outer_vertices": 14196,
+    "max_hood_displacement": 0.25812509655952454,
+    "support_points": 31381,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "ponytail",
+    "top": "triangle",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\224\\components\\Feminine-uncovered-hair.glb",
+    "localized_gathers": [
+      "Hair / swept roots220:low gather roots 4612",
+      "Hair / rounded tail220 0",
+      "Hair / rounded tail220 1",
+      "Hair / rounded tail220 2",
+      "Hair / rounded tail220 3",
+      "Hair / rounded tail220 4",
+      "Hair / tie220"
+    ],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-triangle-gathered-pashmina248.blend",
+    "headgear": "components/Feminine-ponytail-triangle-pashmina249-headgear.glb",
+    "hair": "components/Feminine-ponytail-gather249-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-ponytail-pashmina249-sprout.glb",
+      "anchor": [
+        0.13063329458236694,
+        0.020201241597533226,
+        2.370587110519409
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.367661714553833
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "eaddf1f3dcfa7353ab6e49096fca179abec9a68953e52ba393a5e918fe8a32ec",
+    "source_is_frozen248_with_field": true
+  },
+  "Feminine-ponytail-strappy": {
+    "modified_outer_vertices": 14201,
+    "max_hood_displacement": 0.25812333822250366,
+    "support_points": 31381,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "ponytail",
+    "top": "strappy",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\224\\components\\Feminine-uncovered-hair.glb",
+    "localized_gathers": [
+      "Hair / swept roots220:low gather roots 4612",
+      "Hair / rounded tail220 0",
+      "Hair / rounded tail220 1",
+      "Hair / rounded tail220 2",
+      "Hair / rounded tail220 3",
+      "Hair / rounded tail220 4",
+      "Hair / tie220"
+    ],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-strappy-gathered-pashmina248.blend",
+    "headgear": "components/Feminine-ponytail-strappy-pashmina249-headgear.glb",
+    "hair": "components/Feminine-ponytail-gather249-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-ponytail-pashmina249-sprout.glb",
+      "anchor": [
+        0.13063329458236694,
+        0.020201241597533226,
+        2.370587110519409
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.367661714553833
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "eaddf1f3dcfa7353ab6e49096fca179abec9a68953e52ba393a5e918fe8a32ec",
+    "source_is_frozen248_with_field": true
+  },
+  "Feminine-ponytail-tshirt": {
+    "modified_outer_vertices": 14143,
+    "max_hood_displacement": 0.2581220269203186,
+    "support_points": 31381,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "ponytail",
+    "top": "tshirt",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\224\\components\\Feminine-uncovered-hair.glb",
+    "localized_gathers": [
+      "Hair / swept roots220:low gather roots 4612",
+      "Hair / rounded tail220 0",
+      "Hair / rounded tail220 1",
+      "Hair / rounded tail220 2",
+      "Hair / rounded tail220 3",
+      "Hair / rounded tail220 4",
+      "Hair / tie220"
+    ],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-tshirt-gathered-pashmina248.blend",
+    "headgear": "components/Feminine-ponytail-tshirt-pashmina249-headgear.glb",
+    "hair": "components/Feminine-ponytail-gather249-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-ponytail-pashmina249-sprout.glb",
+      "anchor": [
+        0.13063329458236694,
+        0.020201241597533226,
+        2.370587110519409
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.367661714553833
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "eaddf1f3dcfa7353ab6e49096fca179abec9a68953e52ba393a5e918fe8a32ec",
+    "source_is_frozen248_with_field": true
+  },
+  "Feminine-ponytail-jersey": {
+    "modified_outer_vertices": 14208,
+    "max_hood_displacement": 0.2581206262111664,
+    "support_points": 31381,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "ponytail",
+    "top": "jersey",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\224\\components\\Feminine-uncovered-hair.glb",
+    "localized_gathers": [
+      "Hair / swept roots220:low gather roots 4612",
+      "Hair / rounded tail220 0",
+      "Hair / rounded tail220 1",
+      "Hair / rounded tail220 2",
+      "Hair / rounded tail220 3",
+      "Hair / rounded tail220 4",
+      "Hair / tie220"
+    ],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-jersey-gathered-pashmina248.blend",
+    "headgear": "components/Feminine-ponytail-jersey-pashmina249-headgear.glb",
+    "hair": "components/Feminine-ponytail-gather249-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-ponytail-pashmina249-sprout.glb",
+      "anchor": [
+        0.13063329458236694,
+        0.020201241597533226,
+        2.370587110519409
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.367661714553833
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "eaddf1f3dcfa7353ab6e49096fca179abec9a68953e52ba393a5e918fe8a32ec",
+    "source_is_frozen248_with_field": true
+  },
+  "Feminine-ponytail-tank": {
+    "modified_outer_vertices": 14191,
+    "max_hood_displacement": 0.25812333822250366,
+    "support_points": 31381,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "ponytail",
+    "top": "tank",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\224\\components\\Feminine-uncovered-hair.glb",
+    "localized_gathers": [
+      "Hair / swept roots220:low gather roots 4612",
+      "Hair / rounded tail220 0",
+      "Hair / rounded tail220 1",
+      "Hair / rounded tail220 2",
+      "Hair / rounded tail220 3",
+      "Hair / rounded tail220 4",
+      "Hair / tie220"
+    ],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-tank-gathered-pashmina248.blend",
+    "headgear": "components/Feminine-ponytail-tank-pashmina249-headgear.glb",
+    "hair": "components/Feminine-ponytail-gather249-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-ponytail-pashmina249-sprout.glb",
+      "anchor": [
+        0.13063329458236694,
+        0.020201241597533226,
+        2.370587110519409
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.367661714553833
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "eaddf1f3dcfa7353ab6e49096fca179abec9a68953e52ba393a5e918fe8a32ec",
+    "source_is_frozen248_with_field": true
+  },
+  "Feminine-ponytail-sweatshirt": {
+    "modified_outer_vertices": 14151,
+    "max_hood_displacement": 0.2581205666065216,
+    "support_points": 31381,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "ponytail",
+    "top": "sweatshirt",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\224\\components\\Feminine-uncovered-hair.glb",
+    "localized_gathers": [
+      "Hair / swept roots220:low gather roots 4612",
+      "Hair / rounded tail220 0",
+      "Hair / rounded tail220 1",
+      "Hair / rounded tail220 2",
+      "Hair / rounded tail220 3",
+      "Hair / rounded tail220 4",
+      "Hair / tie220"
+    ],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-sweatshirt-gathered-pashmina248.blend",
+    "headgear": "components/Feminine-ponytail-sweatshirt-pashmina249-headgear.glb",
+    "hair": "components/Feminine-ponytail-gather249-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-ponytail-pashmina249-sprout.glb",
+      "anchor": [
+        0.13063329458236694,
+        0.020201241597533226,
+        2.370587110519409
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.367661714553833
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "eaddf1f3dcfa7353ab6e49096fca179abec9a68953e52ba393a5e918fe8a32ec",
+    "source_is_frozen248_with_field": true
+  },
+  "Feminine-straight-bandeau": {
+    "modified_outer_vertices": 15077,
+    "max_hood_displacement": 0.28561604022979736,
+    "support_points": 39638,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "straight",
+    "top": "bandeau",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-straight-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-bandeau-long-pashmina248.blend",
+    "headgear": "components/Feminine-straight-bandeau-pashmina249-headgear.glb",
+    "hair": "../227/components/Feminine-straight-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-straight-pashmina249-sprout.glb",
+      "anchor": [
+        0.13085226714611053,
+        0.019960135221481323,
+        2.4033358097076416
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4004597663879395
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "7560f23e1757922d4f6d9c0f432d65c8a4f208662b0dc01bcd85c3ca4e1013fa",
+    "source_is_frozen248_with_field": true
+  },
+  "Feminine-straight-triangle": {
+    "modified_outer_vertices": 15077,
+    "max_hood_displacement": 0.2852986752986908,
+    "support_points": 39638,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "straight",
+    "top": "triangle",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-straight-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-triangle-long-pashmina248.blend",
+    "headgear": "components/Feminine-straight-triangle-pashmina249-headgear.glb",
+    "hair": "../227/components/Feminine-straight-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-straight-pashmina249-sprout.glb",
+      "anchor": [
+        0.13085226714611053,
+        0.019960135221481323,
+        2.4033358097076416
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4004597663879395
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "7560f23e1757922d4f6d9c0f432d65c8a4f208662b0dc01bcd85c3ca4e1013fa",
+    "source_is_frozen248_with_field": true
+  },
+  "Feminine-straight-strappy": {
+    "modified_outer_vertices": 15077,
+    "max_hood_displacement": 0.2857436239719391,
+    "support_points": 39638,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "straight",
+    "top": "strappy",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-straight-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-strappy-long-pashmina248.blend",
+    "headgear": "components/Feminine-straight-strappy-pashmina249-headgear.glb",
+    "hair": "../227/components/Feminine-straight-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-straight-pashmina249-sprout.glb",
+      "anchor": [
+        0.13085226714611053,
+        0.019960135221481323,
+        2.4033358097076416
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4004597663879395
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "7560f23e1757922d4f6d9c0f432d65c8a4f208662b0dc01bcd85c3ca4e1013fa",
+    "source_is_frozen248_with_field": true
+  },
+  "Feminine-straight-tshirt": {
+    "modified_outer_vertices": 15081,
+    "max_hood_displacement": 0.2852770984172821,
+    "support_points": 39638,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "straight",
+    "top": "tshirt",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-straight-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-tshirt-long-pashmina248.blend",
+    "headgear": "components/Feminine-straight-tshirt-pashmina249-headgear.glb",
+    "hair": "../227/components/Feminine-straight-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-straight-pashmina249-sprout.glb",
+      "anchor": [
+        0.13085226714611053,
+        0.019960135221481323,
+        2.4033358097076416
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4004597663879395
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "7560f23e1757922d4f6d9c0f432d65c8a4f208662b0dc01bcd85c3ca4e1013fa",
+    "source_is_frozen248_with_field": true
+  },
+  "Feminine-straight-jersey": {
+    "modified_outer_vertices": 15077,
+    "max_hood_displacement": 0.2855839431285858,
+    "support_points": 39638,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "straight",
+    "top": "jersey",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-straight-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-jersey-long-pashmina248.blend",
+    "headgear": "components/Feminine-straight-jersey-pashmina249-headgear.glb",
+    "hair": "../227/components/Feminine-straight-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-straight-pashmina249-sprout.glb",
+      "anchor": [
+        0.13085226714611053,
+        0.019960135221481323,
+        2.4033358097076416
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4004597663879395
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "7560f23e1757922d4f6d9c0f432d65c8a4f208662b0dc01bcd85c3ca4e1013fa",
+    "source_is_frozen248_with_field": true
+  },
+  "Feminine-straight-tank": {
+    "modified_outer_vertices": 15077,
+    "max_hood_displacement": 0.28567346930503845,
+    "support_points": 39638,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "straight",
+    "top": "tank",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-straight-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-tank-long-pashmina248.blend",
+    "headgear": "components/Feminine-straight-tank-pashmina249-headgear.glb",
+    "hair": "../227/components/Feminine-straight-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-straight-pashmina249-sprout.glb",
+      "anchor": [
+        0.13085226714611053,
+        0.019960135221481323,
+        2.4033358097076416
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4004597663879395
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "7560f23e1757922d4f6d9c0f432d65c8a4f208662b0dc01bcd85c3ca4e1013fa",
+    "source_is_frozen248_with_field": true
+  },
+  "Feminine-straight-sweatshirt": {
+    "modified_outer_vertices": 15081,
+    "max_hood_displacement": 0.2854199707508087,
+    "support_points": 39638,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "straight",
+    "top": "sweatshirt",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-straight-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-sweatshirt-long-pashmina248.blend",
+    "headgear": "components/Feminine-straight-sweatshirt-pashmina249-headgear.glb",
+    "hair": "../227/components/Feminine-straight-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-straight-pashmina249-sprout.glb",
+      "anchor": [
+        0.13085226714611053,
+        0.019960135221481323,
+        2.4033358097076416
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4004597663879395
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "7560f23e1757922d4f6d9c0f432d65c8a4f208662b0dc01bcd85c3ca4e1013fa",
+    "source_is_frozen248_with_field": true
+  },
+  "Feminine-curls-bandeau": {
+    "modified_outer_vertices": 15077,
+    "max_hood_displacement": 0.3325270414352417,
+    "support_points": 42565,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "curls",
+    "top": "bandeau",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-curls-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-bandeau-volume-pashmina248.blend",
+    "headgear": "components/Feminine-curls-bandeau-pashmina249-headgear.glb",
+    "hair": "../227/components/Feminine-curls-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-curls-pashmina249-sprout.glb",
+      "anchor": [
+        0.13078579306602478,
+        0.019964858889579773,
+        2.404722213745117
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.401827096939087
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "50b7cbc2801db644e130ce6a11d968daf8bfd8744c57f21785056389429e4e09",
+    "source_is_frozen248_with_field": true
+  },
+  "Feminine-curls-triangle": {
+    "modified_outer_vertices": 15077,
+    "max_hood_displacement": 0.33225366473197937,
+    "support_points": 42565,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "curls",
+    "top": "triangle",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-curls-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-triangle-volume-pashmina248.blend",
+    "headgear": "components/Feminine-curls-triangle-pashmina249-headgear.glb",
+    "hair": "../227/components/Feminine-curls-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-curls-pashmina249-sprout.glb",
+      "anchor": [
+        0.13078579306602478,
+        0.019964858889579773,
+        2.404722213745117
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.401827096939087
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "50b7cbc2801db644e130ce6a11d968daf8bfd8744c57f21785056389429e4e09",
+    "source_is_frozen248_with_field": true
+  },
+  "Feminine-curls-strappy": {
+    "modified_outer_vertices": 15077,
+    "max_hood_displacement": 0.33264079689979553,
+    "support_points": 42565,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "curls",
+    "top": "strappy",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-curls-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-strappy-volume-pashmina248.blend",
+    "headgear": "components/Feminine-curls-strappy-pashmina249-headgear.glb",
+    "hair": "../227/components/Feminine-curls-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-curls-pashmina249-sprout.glb",
+      "anchor": [
+        0.13078579306602478,
+        0.019964858889579773,
+        2.404722213745117
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.401827096939087
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "50b7cbc2801db644e130ce6a11d968daf8bfd8744c57f21785056389429e4e09",
+    "source_is_frozen248_with_field": true
+  },
+  "Feminine-curls-tshirt": {
+    "modified_outer_vertices": 15081,
+    "max_hood_displacement": 0.3322172164916992,
+    "support_points": 42565,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "curls",
+    "top": "tshirt",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-curls-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-tshirt-volume-pashmina248.blend",
+    "headgear": "components/Feminine-curls-tshirt-pashmina249-headgear.glb",
+    "hair": "../227/components/Feminine-curls-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-curls-pashmina249-sprout.glb",
+      "anchor": [
+        0.13078579306602478,
+        0.019964858889579773,
+        2.404722213745117
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.401827096939087
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "50b7cbc2801db644e130ce6a11d968daf8bfd8744c57f21785056389429e4e09",
+    "source_is_frozen248_with_field": true
+  },
+  "Feminine-curls-jersey": {
+    "modified_outer_vertices": 15077,
+    "max_hood_displacement": 0.3324911296367645,
+    "support_points": 42565,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "curls",
+    "top": "jersey",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-curls-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-jersey-volume-pashmina248.blend",
+    "headgear": "components/Feminine-curls-jersey-pashmina249-headgear.glb",
+    "hair": "../227/components/Feminine-curls-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-curls-pashmina249-sprout.glb",
+      "anchor": [
+        0.13078579306602478,
+        0.019964858889579773,
+        2.404722213745117
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.401827096939087
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "50b7cbc2801db644e130ce6a11d968daf8bfd8744c57f21785056389429e4e09",
+    "source_is_frozen248_with_field": true
+  },
+  "Feminine-curls-tank": {
+    "modified_outer_vertices": 15077,
+    "max_hood_displacement": 0.33257222175598145,
+    "support_points": 42565,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "curls",
+    "top": "tank",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-curls-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-tank-volume-pashmina248.blend",
+    "headgear": "components/Feminine-curls-tank-pashmina249-headgear.glb",
+    "hair": "../227/components/Feminine-curls-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-curls-pashmina249-sprout.glb",
+      "anchor": [
+        0.13078579306602478,
+        0.019964858889579773,
+        2.404722213745117
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.401827096939087
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "50b7cbc2801db644e130ce6a11d968daf8bfd8744c57f21785056389429e4e09",
+    "source_is_frozen248_with_field": true
+  },
+  "Feminine-curls-sweatshirt": {
+    "modified_outer_vertices": 15081,
+    "max_hood_displacement": 0.33235612511634827,
+    "support_points": 42565,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "curls",
+    "top": "sweatshirt",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-curls-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-sweatshirt-volume-pashmina248.blend",
+    "headgear": "components/Feminine-curls-sweatshirt-pashmina249-headgear.glb",
+    "hair": "../227/components/Feminine-curls-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-curls-pashmina249-sprout.glb",
+      "anchor": [
+        0.13078579306602478,
+        0.019964858889579773,
+        2.404722213745117
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.401827096939087
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "50b7cbc2801db644e130ce6a11d968daf8bfd8744c57f21785056389429e4e09",
+    "source_is_frozen248_with_field": true
+  },
+  "Feminine-side-sweep-bandeau": {
+    "modified_outer_vertices": 15077,
+    "max_hood_displacement": 0.25852081179618835,
+    "support_points": 40777,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "side-sweep",
+    "top": "bandeau",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-side-sweep-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-bandeau-long-pashmina248.blend",
+    "headgear": "components/Feminine-side-sweep-bandeau-pashmina249-headgear.glb",
+    "hair": "../227/components/Feminine-side-sweep-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-side-sweep-pashmina249-sprout.glb",
+      "anchor": [
+        0.13089367747306824,
+        0.01991882175207138,
+        2.40228271484375
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3994200229644775
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "dbed5e6cfde71767d43693ade6230af9284e56294c4d282779e92f08cb06d79f",
+    "source_is_frozen248_with_field": true
+  },
+  "Feminine-side-sweep-triangle": {
+    "modified_outer_vertices": 15077,
+    "max_hood_displacement": 0.25824660062789917,
+    "support_points": 40777,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "side-sweep",
+    "top": "triangle",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-side-sweep-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-triangle-long-pashmina248.blend",
+    "headgear": "components/Feminine-side-sweep-triangle-pashmina249-headgear.glb",
+    "hair": "../227/components/Feminine-side-sweep-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-side-sweep-pashmina249-sprout.glb",
+      "anchor": [
+        0.13089367747306824,
+        0.01991882175207138,
+        2.40228271484375
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3994200229644775
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "dbed5e6cfde71767d43693ade6230af9284e56294c4d282779e92f08cb06d79f",
+    "source_is_frozen248_with_field": true
+  },
+  "Feminine-side-sweep-strappy": {
+    "modified_outer_vertices": 15077,
+    "max_hood_displacement": 0.2586192488670349,
+    "support_points": 40777,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "side-sweep",
+    "top": "strappy",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-side-sweep-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-strappy-long-pashmina248.blend",
+    "headgear": "components/Feminine-side-sweep-strappy-pashmina249-headgear.glb",
+    "hair": "../227/components/Feminine-side-sweep-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-side-sweep-pashmina249-sprout.glb",
+      "anchor": [
+        0.13089367747306824,
+        0.01991882175207138,
+        2.40228271484375
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3994200229644775
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "dbed5e6cfde71767d43693ade6230af9284e56294c4d282779e92f08cb06d79f",
+    "source_is_frozen248_with_field": true
+  },
+  "Feminine-side-sweep-tshirt": {
+    "modified_outer_vertices": 15081,
+    "max_hood_displacement": 0.25824663043022156,
+    "support_points": 40777,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "side-sweep",
+    "top": "tshirt",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-side-sweep-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-tshirt-long-pashmina248.blend",
+    "headgear": "components/Feminine-side-sweep-tshirt-pashmina249-headgear.glb",
+    "hair": "../227/components/Feminine-side-sweep-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-side-sweep-pashmina249-sprout.glb",
+      "anchor": [
+        0.13089367747306824,
+        0.01991882175207138,
+        2.40228271484375
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3994200229644775
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "dbed5e6cfde71767d43693ade6230af9284e56294c4d282779e92f08cb06d79f",
+    "source_is_frozen248_with_field": true
+  },
+  "Feminine-side-sweep-jersey": {
+    "modified_outer_vertices": 15077,
+    "max_hood_displacement": 0.25849321484565735,
+    "support_points": 40777,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "side-sweep",
+    "top": "jersey",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-side-sweep-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-jersey-long-pashmina248.blend",
+    "headgear": "components/Feminine-side-sweep-jersey-pashmina249-headgear.glb",
+    "hair": "../227/components/Feminine-side-sweep-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-side-sweep-pashmina249-sprout.glb",
+      "anchor": [
+        0.13089367747306824,
+        0.01991882175207138,
+        2.40228271484375
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3994200229644775
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "dbed5e6cfde71767d43693ade6230af9284e56294c4d282779e92f08cb06d79f",
+    "source_is_frozen248_with_field": true
+  },
+  "Feminine-side-sweep-tank": {
+    "modified_outer_vertices": 15077,
+    "max_hood_displacement": 0.2585703134536743,
+    "support_points": 40777,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "side-sweep",
+    "top": "tank",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-side-sweep-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-tank-long-pashmina248.blend",
+    "headgear": "components/Feminine-side-sweep-tank-pashmina249-headgear.glb",
+    "hair": "../227/components/Feminine-side-sweep-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-side-sweep-pashmina249-sprout.glb",
+      "anchor": [
+        0.13089367747306824,
+        0.01991882175207138,
+        2.40228271484375
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3994200229644775
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "dbed5e6cfde71767d43693ade6230af9284e56294c4d282779e92f08cb06d79f",
+    "source_is_frozen248_with_field": true
+  },
+  "Feminine-side-sweep-sweatshirt": {
+    "modified_outer_vertices": 15081,
+    "max_hood_displacement": 0.25835031270980835,
+    "support_points": 40777,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "side-sweep",
+    "top": "sweatshirt",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-side-sweep-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue249\\sources\\Feminine-side-sweep-sweatshirt-pashmina249.blend",
+    "headgear": "components/Feminine-side-sweep-sweatshirt-pashmina249-headgear.glb",
+    "hair": "../227/components/Feminine-side-sweep-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-side-sweep-pashmina249-sprout.glb",
+      "anchor": [
+        0.13089367747306824,
+        0.01991882175207138,
+        2.40228271484375
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3994200229644775
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false
+  },
+  "Feminine-space-buns-bandeau": {
+    "modified_outer_vertices": 9824,
+    "max_hood_displacement": 0.10845646262168884,
+    "support_points": 27057,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "space-buns",
+    "top": "bandeau",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-space-buns-hair.glb",
+    "localized_gathers": [
+      "226 hair / Hair / chestnut226:bun island 11792",
+      "226 hair / Hair / chestnut226:bun island 12483",
+      "226 hair / Hair / chestnut226:bun island 13443",
+      "226 hair / Hair / chestnut226:bun island 14403",
+      "226 hair / Hair / chestnut226:bun island 15363",
+      "226 hair / Hair / chestnut226:bun island 19395",
+      "226 hair / Hair / chestnut226:bun island 20086",
+      "226 hair / Hair / chestnut226:bun island 21046",
+      "226 hair / Hair / chestnut226:bun island 22006",
+      "226 hair / Hair / chestnut226:bun island 22966"
+    ],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue249\\sources\\Feminine-space-buns-bandeau-pashmina249.blend",
+    "headgear": "components/Feminine-space-buns-bandeau-pashmina249-headgear.glb",
+    "hair": "components/Feminine-space-buns-gather249-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-space-buns-pashmina249-sprout.glb",
+      "anchor": [
+        0.1304621696472168,
+        0.020051734521985054,
+        2.36826491355896
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3653011322021484
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false
+  },
+  "Feminine-space-buns-triangle": {
+    "modified_outer_vertices": 9832,
+    "max_hood_displacement": 0.10845646262168884,
+    "support_points": 27057,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "space-buns",
+    "top": "triangle",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-space-buns-hair.glb",
+    "localized_gathers": [
+      "226 hair / Hair / chestnut226:bun island 11792",
+      "226 hair / Hair / chestnut226:bun island 12483",
+      "226 hair / Hair / chestnut226:bun island 13443",
+      "226 hair / Hair / chestnut226:bun island 14403",
+      "226 hair / Hair / chestnut226:bun island 15363",
+      "226 hair / Hair / chestnut226:bun island 19395",
+      "226 hair / Hair / chestnut226:bun island 20086",
+      "226 hair / Hair / chestnut226:bun island 21046",
+      "226 hair / Hair / chestnut226:bun island 22006",
+      "226 hair / Hair / chestnut226:bun island 22966"
+    ],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue249\\sources\\Feminine-space-buns-triangle-pashmina249.blend",
+    "headgear": "components/Feminine-space-buns-triangle-pashmina249-headgear.glb",
+    "hair": "components/Feminine-space-buns-gather249-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-space-buns-pashmina249-sprout.glb",
+      "anchor": [
+        0.1304621696472168,
+        0.020051734521985054,
+        2.36826491355896
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3653011322021484
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false
+  },
+  "Feminine-space-buns-strappy": {
+    "modified_outer_vertices": 9827,
+    "max_hood_displacement": 0.10845646262168884,
+    "support_points": 27057,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "space-buns",
+    "top": "strappy",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-space-buns-hair.glb",
+    "localized_gathers": [
+      "226 hair / Hair / chestnut226:bun island 11792",
+      "226 hair / Hair / chestnut226:bun island 12483",
+      "226 hair / Hair / chestnut226:bun island 13443",
+      "226 hair / Hair / chestnut226:bun island 14403",
+      "226 hair / Hair / chestnut226:bun island 15363",
+      "226 hair / Hair / chestnut226:bun island 19395",
+      "226 hair / Hair / chestnut226:bun island 20086",
+      "226 hair / Hair / chestnut226:bun island 21046",
+      "226 hair / Hair / chestnut226:bun island 22006",
+      "226 hair / Hair / chestnut226:bun island 22966"
+    ],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue249\\sources\\Feminine-space-buns-strappy-pashmina249.blend",
+    "headgear": "components/Feminine-space-buns-strappy-pashmina249-headgear.glb",
+    "hair": "components/Feminine-space-buns-gather249-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-space-buns-pashmina249-sprout.glb",
+      "anchor": [
+        0.1304621696472168,
+        0.020051734521985054,
+        2.36826491355896
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3653011322021484
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false
+  },
+  "Feminine-space-buns-tshirt": {
+    "modified_outer_vertices": 9829,
+    "max_hood_displacement": 0.10845646262168884,
+    "support_points": 27057,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "space-buns",
+    "top": "tshirt",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-space-buns-hair.glb",
+    "localized_gathers": [
+      "226 hair / Hair / chestnut226:bun island 11792",
+      "226 hair / Hair / chestnut226:bun island 12483",
+      "226 hair / Hair / chestnut226:bun island 13443",
+      "226 hair / Hair / chestnut226:bun island 14403",
+      "226 hair / Hair / chestnut226:bun island 15363",
+      "226 hair / Hair / chestnut226:bun island 19395",
+      "226 hair / Hair / chestnut226:bun island 20086",
+      "226 hair / Hair / chestnut226:bun island 21046",
+      "226 hair / Hair / chestnut226:bun island 22006",
+      "226 hair / Hair / chestnut226:bun island 22966"
+    ],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue249\\sources\\Feminine-space-buns-tshirt-pashmina249.blend",
+    "headgear": "components/Feminine-space-buns-tshirt-pashmina249-headgear.glb",
+    "hair": "components/Feminine-space-buns-gather249-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-space-buns-pashmina249-sprout.glb",
+      "anchor": [
+        0.1304621696472168,
+        0.020051734521985054,
+        2.36826491355896
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3653011322021484
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false
+  },
+  "Feminine-space-buns-jersey": {
+    "modified_outer_vertices": 9820,
+    "max_hood_displacement": 0.10845646262168884,
+    "support_points": 27057,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "space-buns",
+    "top": "jersey",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-space-buns-hair.glb",
+    "localized_gathers": [
+      "226 hair / Hair / chestnut226:bun island 11792",
+      "226 hair / Hair / chestnut226:bun island 12483",
+      "226 hair / Hair / chestnut226:bun island 13443",
+      "226 hair / Hair / chestnut226:bun island 14403",
+      "226 hair / Hair / chestnut226:bun island 15363",
+      "226 hair / Hair / chestnut226:bun island 19395",
+      "226 hair / Hair / chestnut226:bun island 20086",
+      "226 hair / Hair / chestnut226:bun island 21046",
+      "226 hair / Hair / chestnut226:bun island 22006",
+      "226 hair / Hair / chestnut226:bun island 22966"
+    ],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue249\\sources\\Feminine-space-buns-jersey-pashmina249.blend",
+    "headgear": "components/Feminine-space-buns-jersey-pashmina249-headgear.glb",
+    "hair": "components/Feminine-space-buns-gather249-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-space-buns-pashmina249-sprout.glb",
+      "anchor": [
+        0.1304621696472168,
+        0.020051734521985054,
+        2.36826491355896
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3653011322021484
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false
+  },
+  "Feminine-space-buns-tank": {
+    "modified_outer_vertices": 9824,
+    "max_hood_displacement": 0.10845646262168884,
+    "support_points": 27057,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "space-buns",
+    "top": "tank",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-space-buns-hair.glb",
+    "localized_gathers": [
+      "226 hair / Hair / chestnut226:bun island 11792",
+      "226 hair / Hair / chestnut226:bun island 12483",
+      "226 hair / Hair / chestnut226:bun island 13443",
+      "226 hair / Hair / chestnut226:bun island 14403",
+      "226 hair / Hair / chestnut226:bun island 15363",
+      "226 hair / Hair / chestnut226:bun island 19395",
+      "226 hair / Hair / chestnut226:bun island 20086",
+      "226 hair / Hair / chestnut226:bun island 21046",
+      "226 hair / Hair / chestnut226:bun island 22006",
+      "226 hair / Hair / chestnut226:bun island 22966"
+    ],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue249\\sources\\Feminine-space-buns-tank-pashmina249.blend",
+    "headgear": "components/Feminine-space-buns-tank-pashmina249-headgear.glb",
+    "hair": "components/Feminine-space-buns-gather249-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-space-buns-pashmina249-sprout.glb",
+      "anchor": [
+        0.1304621696472168,
+        0.020051734521985054,
+        2.36826491355896
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3653011322021484
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false
+  },
+  "Feminine-space-buns-sweatshirt": {
+    "modified_outer_vertices": 9829,
+    "max_hood_displacement": 0.10845646262168884,
+    "support_points": 27057,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "space-buns",
+    "top": "sweatshirt",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-space-buns-hair.glb",
+    "localized_gathers": [
+      "226 hair / Hair / chestnut226:bun island 11792",
+      "226 hair / Hair / chestnut226:bun island 12483",
+      "226 hair / Hair / chestnut226:bun island 13443",
+      "226 hair / Hair / chestnut226:bun island 14403",
+      "226 hair / Hair / chestnut226:bun island 15363",
+      "226 hair / Hair / chestnut226:bun island 19395",
+      "226 hair / Hair / chestnut226:bun island 20086",
+      "226 hair / Hair / chestnut226:bun island 21046",
+      "226 hair / Hair / chestnut226:bun island 22006",
+      "226 hair / Hair / chestnut226:bun island 22966"
+    ],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue249\\sources\\Feminine-space-buns-sweatshirt-pashmina249.blend",
+    "headgear": "components/Feminine-space-buns-sweatshirt-pashmina249-headgear.glb",
+    "hair": "components/Feminine-space-buns-gather249-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-space-buns-pashmina249-sprout.glb",
+      "anchor": [
+        0.1304621696472168,
+        0.020051734521985054,
+        2.36826491355896
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3653011322021484
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false
+  },
+  "Feminine-twin-braids-bandeau": {
+    "modified_outer_vertices": 9824,
+    "max_hood_displacement": 0.20682041347026825,
+    "support_points": 24885,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "twin-braids",
+    "top": "bandeau",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-twin-braids-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue249\\sources\\Feminine-twin-braids-bandeau-pashmina249.blend",
+    "headgear": "components/Feminine-twin-braids-bandeau-pashmina249-headgear.glb",
+    "hair": "../227/components/Feminine-twin-braids-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-twin-braids-pashmina249-sprout.glb",
+      "anchor": [
+        0.13045839965343475,
+        0.02005128189921379,
+        2.3683359622955322
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3653717041015625
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false
+  },
+  "Feminine-twin-braids-triangle": {
+    "modified_outer_vertices": 9832,
+    "max_hood_displacement": 0.19851979613304138,
+    "support_points": 24885,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "twin-braids",
+    "top": "triangle",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-twin-braids-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue249\\sources\\Feminine-twin-braids-triangle-pashmina249.blend",
+    "headgear": "components/Feminine-twin-braids-triangle-pashmina249-headgear.glb",
+    "hair": "../227/components/Feminine-twin-braids-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-twin-braids-pashmina249-sprout.glb",
+      "anchor": [
+        0.13045839965343475,
+        0.02005128189921379,
+        2.3683359622955322
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3653717041015625
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false
+  },
+  "Feminine-twin-braids-strappy": {
+    "modified_outer_vertices": 9827,
+    "max_hood_displacement": 0.203884556889534,
+    "support_points": 24885,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "twin-braids",
+    "top": "strappy",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-twin-braids-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue249\\sources\\Feminine-twin-braids-strappy-pashmina249.blend",
+    "headgear": "components/Feminine-twin-braids-strappy-pashmina249-headgear.glb",
+    "hair": "../227/components/Feminine-twin-braids-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-twin-braids-pashmina249-sprout.glb",
+      "anchor": [
+        0.13045839965343475,
+        0.02005128189921379,
+        2.3683359622955322
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3653717041015625
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false
+  },
+  "Feminine-twin-braids-tshirt": {
+    "modified_outer_vertices": 9829,
+    "max_hood_displacement": 0.20639464259147644,
+    "support_points": 24885,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "twin-braids",
+    "top": "tshirt",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-twin-braids-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue249\\sources\\Feminine-twin-braids-tshirt-pashmina249.blend",
+    "headgear": "components/Feminine-twin-braids-tshirt-pashmina249-headgear.glb",
+    "hair": "../227/components/Feminine-twin-braids-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-twin-braids-pashmina249-sprout.glb",
+      "anchor": [
+        0.13045839965343475,
+        0.02005128189921379,
+        2.3683359622955322
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3653717041015625
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false
+  },
+  "Feminine-twin-braids-jersey": {
+    "modified_outer_vertices": 9820,
+    "max_hood_displacement": 0.19886015355587006,
+    "support_points": 24885,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "twin-braids",
+    "top": "jersey",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-twin-braids-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue249\\sources\\Feminine-twin-braids-jersey-pashmina249.blend",
+    "headgear": "components/Feminine-twin-braids-jersey-pashmina249-headgear.glb",
+    "hair": "../227/components/Feminine-twin-braids-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-twin-braids-pashmina249-sprout.glb",
+      "anchor": [
+        0.13045839965343475,
+        0.02005128189921379,
+        2.3683359622955322
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3653717041015625
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false
+  },
+  "Feminine-twin-braids-tank": {
+    "modified_outer_vertices": 9824,
+    "max_hood_displacement": 0.20577728748321533,
+    "support_points": 24885,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "twin-braids",
+    "top": "tank",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-twin-braids-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue249\\sources\\Feminine-twin-braids-tank-pashmina249.blend",
+    "headgear": "components/Feminine-twin-braids-tank-pashmina249-headgear.glb",
+    "hair": "../227/components/Feminine-twin-braids-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-twin-braids-pashmina249-sprout.glb",
+      "anchor": [
+        0.13045839965343475,
+        0.02005128189921379,
+        2.3683359622955322
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3653717041015625
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false
+  },
+  "Feminine-twin-braids-sweatshirt": {
+    "modified_outer_vertices": 9829,
+    "max_hood_displacement": 0.20521685481071472,
+    "support_points": 24885,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "twin-braids",
+    "top": "sweatshirt",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-twin-braids-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue249\\sources\\Feminine-twin-braids-sweatshirt-pashmina249.blend",
+    "headgear": "components/Feminine-twin-braids-sweatshirt-pashmina249-headgear.glb",
+    "hair": "../227/components/Feminine-twin-braids-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-twin-braids-pashmina249-sprout.glb",
+      "anchor": [
+        0.13045839965343475,
+        0.02005128189921379,
+        2.3683359622955322
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3653717041015625
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false
+  },
+  "Feminine-box-braids-bandeau": {
+    "modified_outer_vertices": 15077,
+    "max_hood_displacement": 0.31506142020225525,
+    "support_points": 110695,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "box-braids",
+    "top": "bandeau",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-box-braids-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue249\\sources\\Feminine-box-braids-bandeau-pashmina249.blend",
+    "headgear": "components/Feminine-box-braids-bandeau-pashmina249-headgear.glb",
+    "hair": "../227/components/Feminine-box-braids-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-box-braids-pashmina249-sprout.glb",
+      "anchor": [
+        0.1303829550743103,
+        0.019984927028417587,
+        2.3910560607910156
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.388080596923828
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false
+  },
+  "Feminine-box-braids-triangle": {
+    "modified_outer_vertices": 15077,
+    "max_hood_displacement": 0.3151855170726776,
+    "support_points": 110695,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "box-braids",
+    "top": "triangle",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-box-braids-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-triangle-volume-pashmina248.blend",
+    "headgear": "components/Feminine-box-braids-triangle-pashmina249-headgear.glb",
+    "hair": "../227/components/Feminine-box-braids-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-box-braids-pashmina249-sprout.glb",
+      "anchor": [
+        0.1303829550743103,
+        0.019984927028417587,
+        2.3910560607910156
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.388080596923828
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "cd1aaf66d0182945ef830366767f2a3309ffecd59938db02c37ee78414ff2652",
+    "source_is_frozen248_with_field": true
+  },
+  "Feminine-box-braids-strappy": {
+    "modified_outer_vertices": 15077,
+    "max_hood_displacement": 0.3151416480541229,
+    "support_points": 110695,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "box-braids",
+    "top": "strappy",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-box-braids-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-strappy-volume-pashmina248.blend",
+    "headgear": "components/Feminine-box-braids-strappy-pashmina249-headgear.glb",
+    "hair": "../227/components/Feminine-box-braids-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-box-braids-pashmina249-sprout.glb",
+      "anchor": [
+        0.1303829550743103,
+        0.019984927028417587,
+        2.3910560607910156
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.388080596923828
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "cd1aaf66d0182945ef830366767f2a3309ffecd59938db02c37ee78414ff2652",
+    "source_is_frozen248_with_field": true
+  },
+  "Feminine-box-braids-tshirt": {
+    "modified_outer_vertices": 15081,
+    "max_hood_displacement": 0.31504255533218384,
+    "support_points": 110695,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "box-braids",
+    "top": "tshirt",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-box-braids-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-tshirt-volume-pashmina248.blend",
+    "headgear": "components/Feminine-box-braids-tshirt-pashmina249-headgear.glb",
+    "hair": "../227/components/Feminine-box-braids-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-box-braids-pashmina249-sprout.glb",
+      "anchor": [
+        0.1303829550743103,
+        0.019984927028417587,
+        2.3910560607910156
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.388080596923828
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "cd1aaf66d0182945ef830366767f2a3309ffecd59938db02c37ee78414ff2652",
+    "source_is_frozen248_with_field": true
+  },
+  "Feminine-box-braids-jersey": {
+    "modified_outer_vertices": 15077,
+    "max_hood_displacement": 0.3150901198387146,
+    "support_points": 110695,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "box-braids",
+    "top": "jersey",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-box-braids-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-jersey-volume-pashmina248.blend",
+    "headgear": "components/Feminine-box-braids-jersey-pashmina249-headgear.glb",
+    "hair": "../227/components/Feminine-box-braids-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-box-braids-pashmina249-sprout.glb",
+      "anchor": [
+        0.1303829550743103,
+        0.019984927028417587,
+        2.3910560607910156
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.388080596923828
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "cd1aaf66d0182945ef830366767f2a3309ffecd59938db02c37ee78414ff2652",
+    "source_is_frozen248_with_field": true
+  },
+  "Feminine-box-braids-tank": {
+    "modified_outer_vertices": 15077,
+    "max_hood_displacement": 0.31513622403144836,
+    "support_points": 110695,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "box-braids",
+    "top": "tank",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-box-braids-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-tank-volume-pashmina248.blend",
+    "headgear": "components/Feminine-box-braids-tank-pashmina249-headgear.glb",
+    "hair": "../227/components/Feminine-box-braids-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-box-braids-pashmina249-sprout.glb",
+      "anchor": [
+        0.1303829550743103,
+        0.019984927028417587,
+        2.3910560607910156
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.388080596923828
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "cd1aaf66d0182945ef830366767f2a3309ffecd59938db02c37ee78414ff2652",
+    "source_is_frozen248_with_field": true
+  },
+  "Feminine-box-braids-sweatshirt": {
+    "modified_outer_vertices": 15081,
+    "max_hood_displacement": 0.3151247799396515,
+    "support_points": 110695,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Feminine",
+    "style": "box-braids",
+    "top": "sweatshirt",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\227\\components\\Feminine-box-braids-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-sweatshirt-volume-pashmina248.blend",
+    "headgear": "components/Feminine-box-braids-sweatshirt-pashmina249-headgear.glb",
+    "hair": "../227/components/Feminine-box-braids-hair.glb",
+    "sprout": {
+      "path": "components/Feminine-box-braids-pashmina249-sprout.glb",
+      "anchor": [
+        0.1303829550743103,
+        0.019984927028417587,
+        2.3910560607910156
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.388080596923828
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "cd1aaf66d0182945ef830366767f2a3309ffecd59938db02c37ee78414ff2652",
+    "source_is_frozen248_with_field": true
+  },
+  "Masculine-sidepart-shirtless": {
+    "modified_outer_vertices": 9828,
+    "max_hood_displacement": 0.08046496659517288,
+    "support_points": 47559,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "sidepart",
+    "top": "shirtless",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\208\\Masculine-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-shirtless-compact-pashmina248.blend",
+    "headgear": "components/Masculine-sidepart-shirtless-pashmina249-headgear.glb",
+    "hair": "../208/Masculine-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-sidepart-pashmina249-sprout.glb",
+      "anchor": [
+        0.1309489607810974,
+        0.020046502351760864,
+        2.4106812477111816
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4078357219696045
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "df1ae03b6262b0d45c7057bceafadefd2b4a635637c852c22913c3194736107c",
+    "source_is_frozen248_with_field": true
+  },
+  "Masculine-sidepart-tshirt": {
+    "modified_outer_vertices": 9830,
+    "max_hood_displacement": 0.08046496659517288,
+    "support_points": 47559,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "sidepart",
+    "top": "tshirt",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\208\\Masculine-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-tshirt-compact-pashmina248.blend",
+    "headgear": "components/Masculine-sidepart-tshirt-pashmina249-headgear.glb",
+    "hair": "../208/Masculine-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-sidepart-pashmina249-sprout.glb",
+      "anchor": [
+        0.1309489607810974,
+        0.020046502351760864,
+        2.4106812477111816
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4078357219696045
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "df1ae03b6262b0d45c7057bceafadefd2b4a635637c852c22913c3194736107c",
+    "source_is_frozen248_with_field": true
+  },
+  "Masculine-sidepart-jersey": {
+    "modified_outer_vertices": 9819,
+    "max_hood_displacement": 0.08046496659517288,
+    "support_points": 47559,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "sidepart",
+    "top": "jersey",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\208\\Masculine-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-jersey-compact-pashmina248.blend",
+    "headgear": "components/Masculine-sidepart-jersey-pashmina249-headgear.glb",
+    "hair": "../208/Masculine-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-sidepart-pashmina249-sprout.glb",
+      "anchor": [
+        0.1309489607810974,
+        0.020046502351760864,
+        2.4106812477111816
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4078357219696045
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "df1ae03b6262b0d45c7057bceafadefd2b4a635637c852c22913c3194736107c",
+    "source_is_frozen248_with_field": true
+  },
+  "Masculine-sidepart-buttonup": {
+    "modified_outer_vertices": 9828,
+    "max_hood_displacement": 0.08046496659517288,
+    "support_points": 47559,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "sidepart",
+    "top": "buttonup",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\208\\Masculine-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-buttonup-compact-pashmina248.blend",
+    "headgear": "components/Masculine-sidepart-buttonup-pashmina249-headgear.glb",
+    "hair": "../208/Masculine-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-sidepart-pashmina249-sprout.glb",
+      "anchor": [
+        0.1309489607810974,
+        0.020046502351760864,
+        2.4106812477111816
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4078357219696045
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "df1ae03b6262b0d45c7057bceafadefd2b4a635637c852c22913c3194736107c",
+    "source_is_frozen248_with_field": true
+  },
+  "Masculine-sidepart-sweatshirt": {
+    "modified_outer_vertices": 9830,
+    "max_hood_displacement": 0.08046496659517288,
+    "support_points": 47559,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "sidepart",
+    "top": "sweatshirt",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\208\\Masculine-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-sweatshirt-compact-pashmina248.blend",
+    "headgear": "components/Masculine-sidepart-sweatshirt-pashmina249-headgear.glb",
+    "hair": "../208/Masculine-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-sidepart-pashmina249-sprout.glb",
+      "anchor": [
+        0.1309489607810974,
+        0.020046502351760864,
+        2.4106812477111816
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4078357219696045
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "df1ae03b6262b0d45c7057bceafadefd2b4a635637c852c22913c3194736107c",
+    "source_is_frozen248_with_field": true
+  },
+  "Masculine-taper-shirtless": {
+    "modified_outer_vertices": 9828,
+    "max_hood_displacement": 0.06675677001476288,
+    "support_points": 43089,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "taper",
+    "top": "shirtless",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-taper-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-shirtless-compact-pashmina248.blend",
+    "headgear": "components/Masculine-taper-shirtless-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-taper-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-taper-pashmina249-sprout.glb",
+      "anchor": [
+        0.1306777447462082,
+        0.02014588750898838,
+        2.4156665802001953
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.412747859954834
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "ea4d57a4d20c1a8836e21cb48f6b970dd9e4c6b2262d249c516185f9d1790aee",
+    "source_is_frozen248_with_field": true
+  },
+  "Masculine-taper-tshirt": {
+    "modified_outer_vertices": 9830,
+    "max_hood_displacement": 0.06675677001476288,
+    "support_points": 43089,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "taper",
+    "top": "tshirt",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-taper-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-tshirt-compact-pashmina248.blend",
+    "headgear": "components/Masculine-taper-tshirt-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-taper-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-taper-pashmina249-sprout.glb",
+      "anchor": [
+        0.1306777447462082,
+        0.02014588750898838,
+        2.4156665802001953
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.412747859954834
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "ea4d57a4d20c1a8836e21cb48f6b970dd9e4c6b2262d249c516185f9d1790aee",
+    "source_is_frozen248_with_field": true
+  },
+  "Masculine-taper-jersey": {
+    "modified_outer_vertices": 9819,
+    "max_hood_displacement": 0.06675677001476288,
+    "support_points": 43089,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "taper",
+    "top": "jersey",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-taper-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-jersey-compact-pashmina248.blend",
+    "headgear": "components/Masculine-taper-jersey-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-taper-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-taper-pashmina249-sprout.glb",
+      "anchor": [
+        0.1306777447462082,
+        0.02014588750898838,
+        2.4156665802001953
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.412747859954834
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "ea4d57a4d20c1a8836e21cb48f6b970dd9e4c6b2262d249c516185f9d1790aee",
+    "source_is_frozen248_with_field": true
+  },
+  "Masculine-taper-buttonup": {
+    "modified_outer_vertices": 9828,
+    "max_hood_displacement": 0.06675677001476288,
+    "support_points": 43089,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "taper",
+    "top": "buttonup",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-taper-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-buttonup-compact-pashmina248.blend",
+    "headgear": "components/Masculine-taper-buttonup-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-taper-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-taper-pashmina249-sprout.glb",
+      "anchor": [
+        0.1306777447462082,
+        0.02014588750898838,
+        2.4156665802001953
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.412747859954834
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "ea4d57a4d20c1a8836e21cb48f6b970dd9e4c6b2262d249c516185f9d1790aee",
+    "source_is_frozen248_with_field": true
+  },
+  "Masculine-taper-sweatshirt": {
+    "modified_outer_vertices": 9830,
+    "max_hood_displacement": 0.06675677001476288,
+    "support_points": 43089,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "taper",
+    "top": "sweatshirt",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-taper-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-sweatshirt-compact-pashmina248.blend",
+    "headgear": "components/Masculine-taper-sweatshirt-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-taper-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-taper-pashmina249-sprout.glb",
+      "anchor": [
+        0.1306777447462082,
+        0.02014588750898838,
+        2.4156665802001953
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.412747859954834
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "ea4d57a4d20c1a8836e21cb48f6b970dd9e4c6b2262d249c516185f9d1790aee",
+    "source_is_frozen248_with_field": true
+  },
+  "Masculine-buzz-shirtless": {
+    "modified_outer_vertices": 9789,
+    "max_hood_displacement": 0.012556994333863258,
+    "support_points": 21639,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "buzz",
+    "top": "shirtless",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-buzz-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-shirtless-compact-pashmina248.blend",
+    "headgear": "components/Masculine-buzz-shirtless-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-buzz-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-buzz-pashmina249-sprout.glb",
+      "anchor": [
+        0.1306421160697937,
+        0.020162928849458694,
+        2.3514723777770996
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3485465049743652
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "0250565975d1e906f08f3a4ccc1c22a15fafae9b1e8e20c3a282b69639608299",
+    "source_is_frozen248_with_field": true
+  },
+  "Masculine-buzz-tshirt": {
+    "modified_outer_vertices": 9791,
+    "max_hood_displacement": 0.012556994333863258,
+    "support_points": 21639,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "buzz",
+    "top": "tshirt",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-buzz-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-tshirt-compact-pashmina248.blend",
+    "headgear": "components/Masculine-buzz-tshirt-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-buzz-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-buzz-pashmina249-sprout.glb",
+      "anchor": [
+        0.1306421160697937,
+        0.020162928849458694,
+        2.3514723777770996
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3485465049743652
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "0250565975d1e906f08f3a4ccc1c22a15fafae9b1e8e20c3a282b69639608299",
+    "source_is_frozen248_with_field": true
+  },
+  "Masculine-buzz-jersey": {
+    "modified_outer_vertices": 9780,
+    "max_hood_displacement": 0.012490658089518547,
+    "support_points": 21639,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "buzz",
+    "top": "jersey",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-buzz-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-jersey-compact-pashmina248.blend",
+    "headgear": "components/Masculine-buzz-jersey-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-buzz-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-buzz-pashmina249-sprout.glb",
+      "anchor": [
+        0.1306421160697937,
+        0.020162928849458694,
+        2.3514723777770996
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3485465049743652
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "0250565975d1e906f08f3a4ccc1c22a15fafae9b1e8e20c3a282b69639608299",
+    "source_is_frozen248_with_field": true
+  },
+  "Masculine-buzz-buttonup": {
+    "modified_outer_vertices": 9789,
+    "max_hood_displacement": 0.012556994333863258,
+    "support_points": 21639,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "buzz",
+    "top": "buttonup",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-buzz-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-buttonup-compact-pashmina248.blend",
+    "headgear": "components/Masculine-buzz-buttonup-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-buzz-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-buzz-pashmina249-sprout.glb",
+      "anchor": [
+        0.1306421160697937,
+        0.020162928849458694,
+        2.3514723777770996
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3485465049743652
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "0250565975d1e906f08f3a4ccc1c22a15fafae9b1e8e20c3a282b69639608299",
+    "source_is_frozen248_with_field": true
+  },
+  "Masculine-buzz-sweatshirt": {
+    "modified_outer_vertices": 9788,
+    "max_hood_displacement": 0.012556994333863258,
+    "support_points": 21639,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "buzz",
+    "top": "sweatshirt",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-buzz-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-sweatshirt-compact-pashmina248.blend",
+    "headgear": "components/Masculine-buzz-sweatshirt-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-buzz-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-buzz-pashmina249-sprout.glb",
+      "anchor": [
+        0.1306421160697937,
+        0.020162928849458694,
+        2.3514723777770996
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3485465049743652
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "0250565975d1e906f08f3a4ccc1c22a15fafae9b1e8e20c3a282b69639608299",
+    "source_is_frozen248_with_field": true
+  },
+  "Masculine-curly-top-shirtless": {
+    "modified_outer_vertices": 9828,
+    "max_hood_displacement": 0.10747943818569183,
+    "support_points": 68010,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "curly-top",
+    "top": "shirtless",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-curly-top-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-shirtless-compact-pashmina248.blend",
+    "headgear": "components/Masculine-curly-top-shirtless-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-curly-top-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-curly-top-pashmina249-sprout.glb",
+      "anchor": [
+        0.13067679107189178,
+        0.02005721814930439,
+        2.454366445541382
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.451444387435913
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "1fbe4a0c2511b93dbb5a3aaf181695fdb7e8c68d5ee3d50f4ae419b4f0dcf484",
+    "source_is_frozen248_with_field": true
+  },
+  "Masculine-curly-top-tshirt": {
+    "modified_outer_vertices": 9830,
+    "max_hood_displacement": 0.10747943818569183,
+    "support_points": 68010,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "curly-top",
+    "top": "tshirt",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-curly-top-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-tshirt-compact-pashmina248.blend",
+    "headgear": "components/Masculine-curly-top-tshirt-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-curly-top-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-curly-top-pashmina249-sprout.glb",
+      "anchor": [
+        0.13067679107189178,
+        0.02005721814930439,
+        2.454366445541382
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.451444387435913
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "1fbe4a0c2511b93dbb5a3aaf181695fdb7e8c68d5ee3d50f4ae419b4f0dcf484",
+    "source_is_frozen248_with_field": true
+  },
+  "Masculine-curly-top-jersey": {
+    "modified_outer_vertices": 9819,
+    "max_hood_displacement": 0.10747943818569183,
+    "support_points": 68010,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "curly-top",
+    "top": "jersey",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-curly-top-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-jersey-compact-pashmina248.blend",
+    "headgear": "components/Masculine-curly-top-jersey-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-curly-top-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-curly-top-pashmina249-sprout.glb",
+      "anchor": [
+        0.13067679107189178,
+        0.02005721814930439,
+        2.454366445541382
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.451444387435913
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "1fbe4a0c2511b93dbb5a3aaf181695fdb7e8c68d5ee3d50f4ae419b4f0dcf484",
+    "source_is_frozen248_with_field": true
+  },
+  "Masculine-curly-top-buttonup": {
+    "modified_outer_vertices": 9828,
+    "max_hood_displacement": 0.10747943818569183,
+    "support_points": 68010,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "curly-top",
+    "top": "buttonup",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-curly-top-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-buttonup-compact-pashmina248.blend",
+    "headgear": "components/Masculine-curly-top-buttonup-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-curly-top-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-curly-top-pashmina249-sprout.glb",
+      "anchor": [
+        0.13067679107189178,
+        0.02005721814930439,
+        2.454366445541382
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.451444387435913
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "1fbe4a0c2511b93dbb5a3aaf181695fdb7e8c68d5ee3d50f4ae419b4f0dcf484",
+    "source_is_frozen248_with_field": true
+  },
+  "Masculine-curly-top-sweatshirt": {
+    "modified_outer_vertices": 9830,
+    "max_hood_displacement": 0.10747943818569183,
+    "support_points": 68010,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "curly-top",
+    "top": "sweatshirt",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-curly-top-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-sweatshirt-compact-pashmina248.blend",
+    "headgear": "components/Masculine-curly-top-sweatshirt-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-curly-top-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-curly-top-pashmina249-sprout.glb",
+      "anchor": [
+        0.13067679107189178,
+        0.02005721814930439,
+        2.454366445541382
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.451444387435913
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "1fbe4a0c2511b93dbb5a3aaf181695fdb7e8c68d5ee3d50f4ae419b4f0dcf484",
+    "source_is_frozen248_with_field": true
+  },
+  "Masculine-afro-shirtless": {
+    "modified_outer_vertices": 9828,
+    "max_hood_displacement": 0.1523853987455368,
+    "support_points": 93323,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "afro",
+    "top": "shirtless",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-afro-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-shirtless-compact-pashmina248.blend",
+    "headgear": "components/Masculine-afro-shirtless-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-afro-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-afro-pashmina249-sprout.glb",
+      "anchor": [
+        0.13063085079193115,
+        0.01996556855738163,
+        2.5023467540740967
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4994139671325684
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "6d1adfe794f56e138ab6d14f9bc611bf936aec6a1691dc19c200dc4d9b612421",
+    "source_is_frozen248_with_field": true
+  },
+  "Masculine-afro-tshirt": {
+    "modified_outer_vertices": 9830,
+    "max_hood_displacement": 0.1523853987455368,
+    "support_points": 93323,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "afro",
+    "top": "tshirt",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-afro-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-tshirt-compact-pashmina248.blend",
+    "headgear": "components/Masculine-afro-tshirt-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-afro-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-afro-pashmina249-sprout.glb",
+      "anchor": [
+        0.13063085079193115,
+        0.01996556855738163,
+        2.5023467540740967
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4994139671325684
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "6d1adfe794f56e138ab6d14f9bc611bf936aec6a1691dc19c200dc4d9b612421",
+    "source_is_frozen248_with_field": true
+  },
+  "Masculine-afro-jersey": {
+    "modified_outer_vertices": 9819,
+    "max_hood_displacement": 0.1523853987455368,
+    "support_points": 93323,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "afro",
+    "top": "jersey",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-afro-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-jersey-compact-pashmina248.blend",
+    "headgear": "components/Masculine-afro-jersey-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-afro-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-afro-pashmina249-sprout.glb",
+      "anchor": [
+        0.13063085079193115,
+        0.01996556855738163,
+        2.5023467540740967
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4994139671325684
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "6d1adfe794f56e138ab6d14f9bc611bf936aec6a1691dc19c200dc4d9b612421",
+    "source_is_frozen248_with_field": true
+  },
+  "Masculine-afro-buttonup": {
+    "modified_outer_vertices": 9828,
+    "max_hood_displacement": 0.1523853987455368,
+    "support_points": 93323,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "afro",
+    "top": "buttonup",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-afro-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-buttonup-compact-pashmina248.blend",
+    "headgear": "components/Masculine-afro-buttonup-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-afro-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-afro-pashmina249-sprout.glb",
+      "anchor": [
+        0.13063085079193115,
+        0.01996556855738163,
+        2.5023467540740967
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4994139671325684
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "6d1adfe794f56e138ab6d14f9bc611bf936aec6a1691dc19c200dc4d9b612421",
+    "source_is_frozen248_with_field": true
+  },
+  "Masculine-afro-sweatshirt": {
+    "modified_outer_vertices": 9830,
+    "max_hood_displacement": 0.1523853987455368,
+    "support_points": 93323,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "afro",
+    "top": "sweatshirt",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-afro-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-sweatshirt-compact-pashmina248.blend",
+    "headgear": "components/Masculine-afro-sweatshirt-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-afro-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-afro-pashmina249-sprout.glb",
+      "anchor": [
+        0.13063085079193115,
+        0.01996556855738163,
+        2.5023467540740967
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4994139671325684
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "6d1adfe794f56e138ab6d14f9bc611bf936aec6a1691dc19c200dc4d9b612421",
+    "source_is_frozen248_with_field": true
+  },
+  "Masculine-flow-shirtless": {
+    "modified_outer_vertices": 9828,
+    "max_hood_displacement": 0.16643397510051727,
+    "support_points": 41538,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "flow",
+    "top": "shirtless",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-flow-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-shirtless-compact-pashmina248.blend",
+    "headgear": "components/Masculine-flow-shirtless-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-flow-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-flow-pashmina249-sprout.glb",
+      "anchor": [
+        0.13078613579273224,
+        0.020477809011936188,
+        2.433548927307129
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4306933879852295
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "84ff869df4473f52c3fdb221d13e3d5ddd84855ccf47114875653439e99613fc",
+    "source_is_frozen248_with_field": true
+  },
+  "Masculine-flow-tshirt": {
+    "modified_outer_vertices": 9830,
+    "max_hood_displacement": 0.16643397510051727,
+    "support_points": 41538,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "flow",
+    "top": "tshirt",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-flow-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-tshirt-compact-pashmina248.blend",
+    "headgear": "components/Masculine-flow-tshirt-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-flow-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-flow-pashmina249-sprout.glb",
+      "anchor": [
+        0.13078613579273224,
+        0.020477809011936188,
+        2.433548927307129
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4306933879852295
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "84ff869df4473f52c3fdb221d13e3d5ddd84855ccf47114875653439e99613fc",
+    "source_is_frozen248_with_field": true
+  },
+  "Masculine-flow-jersey": {
+    "modified_outer_vertices": 9819,
+    "max_hood_displacement": 0.16643397510051727,
+    "support_points": 41538,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "flow",
+    "top": "jersey",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-flow-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-jersey-compact-pashmina248.blend",
+    "headgear": "components/Masculine-flow-jersey-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-flow-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-flow-pashmina249-sprout.glb",
+      "anchor": [
+        0.13078613579273224,
+        0.020477809011936188,
+        2.433548927307129
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4306933879852295
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "84ff869df4473f52c3fdb221d13e3d5ddd84855ccf47114875653439e99613fc",
+    "source_is_frozen248_with_field": true
+  },
+  "Masculine-flow-buttonup": {
+    "modified_outer_vertices": 9828,
+    "max_hood_displacement": 0.16643397510051727,
+    "support_points": 41538,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "flow",
+    "top": "buttonup",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-flow-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-buttonup-compact-pashmina248.blend",
+    "headgear": "components/Masculine-flow-buttonup-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-flow-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-flow-pashmina249-sprout.glb",
+      "anchor": [
+        0.13078613579273224,
+        0.020477809011936188,
+        2.433548927307129
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4306933879852295
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "84ff869df4473f52c3fdb221d13e3d5ddd84855ccf47114875653439e99613fc",
+    "source_is_frozen248_with_field": true
+  },
+  "Masculine-flow-sweatshirt": {
+    "modified_outer_vertices": 9830,
+    "max_hood_displacement": 0.16643397510051727,
+    "support_points": 41538,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "flow",
+    "top": "sweatshirt",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-flow-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-sweatshirt-compact-pashmina248.blend",
+    "headgear": "components/Masculine-flow-sweatshirt-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-flow-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-flow-pashmina249-sprout.glb",
+      "anchor": [
+        0.13078613579273224,
+        0.020477809011936188,
+        2.433548927307129
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4306933879852295
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "84ff869df4473f52c3fdb221d13e3d5ddd84855ccf47114875653439e99613fc",
+    "source_is_frozen248_with_field": true
+  },
+  "Masculine-locs-shirtless": {
+    "modified_outer_vertices": 9828,
+    "max_hood_displacement": 0.11751293390989304,
+    "support_points": 52312,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "locs",
+    "top": "shirtless",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-locs-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-shirtless-compact-pashmina248.blend",
+    "headgear": "components/Masculine-locs-shirtless-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-locs-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-locs-pashmina249-sprout.glb",
+      "anchor": [
+        0.13027380406856537,
+        0.020109569653868675,
+        2.4125468730926514
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4095613956451416
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "adbf09b76e3fbc089bac268eacc1f2eba8047189d40c1e1a0ceb31d54ae90b54",
+    "source_is_frozen248_with_field": true
+  },
+  "Masculine-locs-tshirt": {
+    "modified_outer_vertices": 9830,
+    "max_hood_displacement": 0.11751293390989304,
+    "support_points": 52312,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "locs",
+    "top": "tshirt",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-locs-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-tshirt-compact-pashmina248.blend",
+    "headgear": "components/Masculine-locs-tshirt-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-locs-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-locs-pashmina249-sprout.glb",
+      "anchor": [
+        0.13027380406856537,
+        0.020109569653868675,
+        2.4125468730926514
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4095613956451416
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "adbf09b76e3fbc089bac268eacc1f2eba8047189d40c1e1a0ceb31d54ae90b54",
+    "source_is_frozen248_with_field": true
+  },
+  "Masculine-locs-jersey": {
+    "modified_outer_vertices": 9819,
+    "max_hood_displacement": 0.11751293390989304,
+    "support_points": 52312,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "locs",
+    "top": "jersey",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-locs-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-jersey-compact-pashmina248.blend",
+    "headgear": "components/Masculine-locs-jersey-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-locs-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-locs-pashmina249-sprout.glb",
+      "anchor": [
+        0.13027380406856537,
+        0.020109569653868675,
+        2.4125468730926514
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4095613956451416
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "adbf09b76e3fbc089bac268eacc1f2eba8047189d40c1e1a0ceb31d54ae90b54",
+    "source_is_frozen248_with_field": true
+  },
+  "Masculine-locs-buttonup": {
+    "modified_outer_vertices": 9828,
+    "max_hood_displacement": 0.11751293390989304,
+    "support_points": 52312,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "locs",
+    "top": "buttonup",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-locs-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-buttonup-compact-pashmina248.blend",
+    "headgear": "components/Masculine-locs-buttonup-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-locs-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-locs-pashmina249-sprout.glb",
+      "anchor": [
+        0.13027380406856537,
+        0.020109569653868675,
+        2.4125468730926514
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4095613956451416
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "adbf09b76e3fbc089bac268eacc1f2eba8047189d40c1e1a0ceb31d54ae90b54",
+    "source_is_frozen248_with_field": true
+  },
+  "Masculine-locs-sweatshirt": {
+    "modified_outer_vertices": 9830,
+    "max_hood_displacement": 0.11751293390989304,
+    "support_points": 52312,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "locs",
+    "top": "sweatshirt",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-locs-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-sweatshirt-compact-pashmina248.blend",
+    "headgear": "components/Masculine-locs-sweatshirt-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-locs-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-locs-pashmina249-sprout.glb",
+      "anchor": [
+        0.13027380406856537,
+        0.020109569653868675,
+        2.4125468730926514
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4095613956451416
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "adbf09b76e3fbc089bac268eacc1f2eba8047189d40c1e1a0ceb31d54ae90b54",
+    "source_is_frozen248_with_field": true
+  },
+  "Masculine-middle-part-shirtless": {
+    "modified_outer_vertices": 9828,
+    "max_hood_displacement": 0.12349370867013931,
+    "support_points": 52996,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "middle-part",
+    "top": "shirtless",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-middle-part-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-shirtless-compact-pashmina248.blend",
+    "headgear": "components/Masculine-middle-part-shirtless-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-middle-part-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-middle-part-pashmina249-sprout.glb",
+      "anchor": [
+        0.1301853507757187,
+        0.020097216591238976,
+        2.399967670440674
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.396975040435791
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "57ba0440be6e65b7ed924103edead35f8e5c0f3f58179ad30b0272ef9ac751ac",
+    "source_is_frozen248_with_field": true
+  },
+  "Masculine-middle-part-tshirt": {
+    "modified_outer_vertices": 9830,
+    "max_hood_displacement": 0.12349370867013931,
+    "support_points": 52996,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "middle-part",
+    "top": "tshirt",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-middle-part-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-tshirt-compact-pashmina248.blend",
+    "headgear": "components/Masculine-middle-part-tshirt-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-middle-part-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-middle-part-pashmina249-sprout.glb",
+      "anchor": [
+        0.1301853507757187,
+        0.020097216591238976,
+        2.399967670440674
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.396975040435791
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "57ba0440be6e65b7ed924103edead35f8e5c0f3f58179ad30b0272ef9ac751ac",
+    "source_is_frozen248_with_field": true
+  },
+  "Masculine-middle-part-jersey": {
+    "modified_outer_vertices": 9819,
+    "max_hood_displacement": 0.12349370867013931,
+    "support_points": 52996,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "middle-part",
+    "top": "jersey",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-middle-part-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-jersey-compact-pashmina248.blend",
+    "headgear": "components/Masculine-middle-part-jersey-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-middle-part-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-middle-part-pashmina249-sprout.glb",
+      "anchor": [
+        0.1301853507757187,
+        0.020097216591238976,
+        2.399967670440674
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.396975040435791
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "57ba0440be6e65b7ed924103edead35f8e5c0f3f58179ad30b0272ef9ac751ac",
+    "source_is_frozen248_with_field": true
+  },
+  "Masculine-middle-part-buttonup": {
+    "modified_outer_vertices": 9828,
+    "max_hood_displacement": 0.12349370867013931,
+    "support_points": 52996,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "middle-part",
+    "top": "buttonup",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-middle-part-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-buttonup-compact-pashmina248.blend",
+    "headgear": "components/Masculine-middle-part-buttonup-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-middle-part-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-middle-part-pashmina249-sprout.glb",
+      "anchor": [
+        0.1301853507757187,
+        0.020097216591238976,
+        2.399967670440674
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.396975040435791
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "57ba0440be6e65b7ed924103edead35f8e5c0f3f58179ad30b0272ef9ac751ac",
+    "source_is_frozen248_with_field": true
+  },
+  "Masculine-middle-part-sweatshirt": {
+    "modified_outer_vertices": 9830,
+    "max_hood_displacement": 0.12349370867013931,
+    "support_points": 52996,
+    "paired_thickness": true,
+    "closed_surface": true,
+    "unchanged_crossing_roots": true,
+    "seam_objects": 23,
+    "build": "Masculine",
+    "style": "middle-part",
+    "top": "sweatshirt",
+    "source_hair": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\235\\components\\Masculine-middle-part-hair.glb",
+    "localized_gathers": [],
+    "visible_strands_original": true,
+    "other_components_exact": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-sweatshirt-compact-pashmina248.blend",
+    "headgear": "components/Masculine-middle-part-sweatshirt-pashmina249-headgear.glb",
+    "hair": "../235/components/Masculine-middle-part-hair.glb",
+    "sprout": {
+      "path": "components/Masculine-middle-part-pashmina249-sprout.glb",
+      "anchor": [
+        0.1301853507757187,
+        0.020097216591238976,
+        2.399967670440674
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.396975040435791
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "field_reuse": false,
+    "support_sha256": "57ba0440be6e65b7ed924103edead35f8e5c0f3f58179ad30b0272ef9ac751ac",
+    "source_is_frozen248_with_field": true
+  }
+}
