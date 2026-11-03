@@ -1,0 +1,2240 @@
+{
+  "Masculine-taper-cap": {
+    "hair": "components/Masculine-taper-cap251-hair.glb",
+    "headgear": "components/Masculine-taper-cap251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13069167733192444,
+        0.019965767860412598,
+        2.3545680046081543
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.351649045944214
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-taper-cap251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        17138
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-taper-beanie": {
+    "hair": "components/Masculine-taper-beanie251-hair.glb",
+    "headgear": "components/Masculine-taper-beanie251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13044701516628265,
+        0.02002861350774765,
+        2.4917173385620117
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.48875093460083
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-taper-beanie251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        9368
+      ]
+    ],
+    "protected_exact": true,
+    "beanie_crown_clearance": 0.072,
+    "cuff_unchanged": true
+  },
+  "Masculine-taper-bucket": {
+    "hair": "components/Masculine-taper-bucket251-hair.glb",
+    "headgear": "components/Masculine-taper-bucket251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13004028797149658,
+        0.020454348996281624,
+        2.370307683944702
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.367342472076416
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-taper-bucket251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        3404
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-taper-cowboy": {
+    "hair": "components/Masculine-taper-cowboy251-hair.glb",
+    "headgear": "components/Masculine-taper-cowboy251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.12880845367908478,
+        0.0201520174741745,
+        2.414515495300293
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.411766529083252
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-taper-cowboy251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        2400
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-taper-headband": {
+    "hair": "components/Masculine-taper-headband251-hair.glb",
+    "headgear": "components/Masculine-taper-headband251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13186046481132507,
+        0.019988222047686577,
+        2.414454698562622
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4121012687683105
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-taper-headband251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        5264
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-taper-ears": {
+    "hair": "components/Masculine-taper-ears251-hair.glb",
+    "headgear": "components/Masculine-taper-ears251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13186046481132507,
+        0.019988222047686577,
+        2.414454698562622
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4121012687683105
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-taper-ears251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        0
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-taper-pashmina": {
+    "hair": "components/Masculine-taper-pashmina251-hair.glb",
+    "headgear": "components/Masculine-taper-pashmina251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.1306866556406021,
+        0.02003082074224949,
+        2.3785691261291504
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3756489753723145
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-taper-pashmina251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        3460
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-buzz-cap": {
+    "hair": "components/Masculine-buzz-cap251-hair.glb",
+    "headgear": "components/Masculine-buzz-cap251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13069167733192444,
+        0.019965767860412598,
+        2.3545680046081543
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.351649045944214
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-buzz-cap251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        0
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-buzz-beanie": {
+    "hair": "components/Masculine-buzz-beanie251-hair.glb",
+    "headgear": "components/Masculine-buzz-beanie251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13044701516628265,
+        0.02002861350774765,
+        2.4917173385620117
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.48875093460083
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-buzz-beanie251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        0
+      ]
+    ],
+    "protected_exact": true,
+    "beanie_crown_clearance": 0.072,
+    "cuff_unchanged": true
+  },
+  "Masculine-buzz-bucket": {
+    "hair": "components/Masculine-buzz-bucket251-hair.glb",
+    "headgear": "components/Masculine-buzz-bucket251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13004028797149658,
+        0.020454348996281624,
+        2.370307683944702
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.367342472076416
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-buzz-bucket251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        0
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-buzz-cowboy": {
+    "hair": "components/Masculine-buzz-cowboy251-hair.glb",
+    "headgear": "components/Masculine-buzz-cowboy251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.12880845367908478,
+        0.0201520174741745,
+        2.414515495300293
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.411766529083252
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-buzz-cowboy251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        0
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-buzz-headband": {
+    "hair": "components/Masculine-buzz-headband251-hair.glb",
+    "headgear": "components/Masculine-buzz-headband251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13074904680252075,
+        0.019829507917165756,
+        2.3261449337005615
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.323245048522949
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-buzz-headband251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        3291
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-buzz-ears": {
+    "hair": "components/Masculine-buzz-ears251-hair.glb",
+    "headgear": "components/Masculine-buzz-ears251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13074904680252075,
+        0.019829507917165756,
+        2.3261449337005615
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.323245048522949
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-buzz-ears251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        0
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-buzz-pashmina": {
+    "hair": "components/Masculine-buzz-pashmina251-hair.glb",
+    "headgear": "components/Masculine-buzz-pashmina251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13068616390228271,
+        0.02001062035560608,
+        2.378488302230835
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.37556791305542
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-buzz-pashmina251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        0
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-flow-cap": {
+    "hair": "components/Masculine-flow-cap251-hair.glb",
+    "headgear": "components/Masculine-flow-cap251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13069167733192444,
+        0.019965767860412598,
+        2.3545680046081543
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.351649045944214
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-flow-cap251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        32684
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-flow-beanie": {
+    "hair": "components/Masculine-flow-beanie251-hair.glb",
+    "headgear": "components/Masculine-flow-beanie251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13044701516628265,
+        0.02002861350774765,
+        2.4917173385620117
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.48875093460083
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-flow-beanie251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        20948
+      ]
+    ],
+    "protected_exact": true,
+    "beanie_crown_clearance": 0.072,
+    "cuff_unchanged": true
+  },
+  "Masculine-flow-bucket": {
+    "hair": "components/Masculine-flow-bucket251-hair.glb",
+    "headgear": "components/Masculine-flow-bucket251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13004028797149658,
+        0.020454348996281624,
+        2.370307683944702
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.367342472076416
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-flow-bucket251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        13778
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-flow-cowboy": {
+    "hair": "components/Masculine-flow-cowboy251-hair.glb",
+    "headgear": "components/Masculine-flow-cowboy251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.12880845367908478,
+        0.0201520174741745,
+        2.414515495300293
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.411766529083252
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-flow-cowboy251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        8507
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-flow-headband": {
+    "hair": "components/Masculine-flow-headband251-hair.glb",
+    "headgear": "components/Masculine-flow-headband251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.1301889270544052,
+        0.020156728103756905,
+        2.373997211456299
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.371007204055786
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-flow-headband251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        6373
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-flow-ears": {
+    "hair": "components/Masculine-flow-ears251-hair.glb",
+    "headgear": "components/Masculine-flow-ears251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.1301889270544052,
+        0.020156728103756905,
+        2.373997211456299
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.371007204055786
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-flow-ears251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        0
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-flow-pashmina": {
+    "hair": "components/Masculine-flow-pashmina251-hair.glb",
+    "headgear": "components/Masculine-flow-pashmina251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13069427013397217,
+        0.020022636279463768,
+        2.3929526805877686
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3900341987609863
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-flow-pashmina251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        8316
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-curly-top-cap": {
+    "hair": "components/Masculine-curly-top-cap251-hair.glb",
+    "headgear": "components/Masculine-curly-top-cap251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13069167733192444,
+        0.019965767860412598,
+        2.3545680046081543
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.351649045944214
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-curly-top-cap251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        52501
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-curly-top-beanie": {
+    "hair": "components/Masculine-curly-top-beanie251-hair.glb",
+    "headgear": "components/Masculine-curly-top-beanie251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13044701516628265,
+        0.02002861350774765,
+        2.4917173385620117
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.48875093460083
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-curly-top-beanie251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        48652
+      ]
+    ],
+    "protected_exact": true,
+    "beanie_crown_clearance": 0.072,
+    "cuff_unchanged": true
+  },
+  "Masculine-curly-top-bucket": {
+    "hair": "components/Masculine-curly-top-bucket251-hair.glb",
+    "headgear": "components/Masculine-curly-top-bucket251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13004028797149658,
+        0.020454348996281624,
+        2.370307683944702
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.367342472076416
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-curly-top-bucket251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        26466
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-curly-top-cowboy": {
+    "hair": "components/Masculine-curly-top-cowboy251-hair.glb",
+    "headgear": "components/Masculine-curly-top-cowboy251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.12880845367908478,
+        0.0201520174741745,
+        2.414515495300293
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.411766529083252
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-curly-top-cowboy251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        18214
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-curly-top-headband": {
+    "hair": "components/Masculine-curly-top-headband251-hair.glb",
+    "headgear": "components/Masculine-curly-top-headband251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13006414473056793,
+        0.017833402380347252,
+        2.4102225303649902
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4081485271453857
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-curly-top-headband251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        3513
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-curly-top-ears": {
+    "hair": "components/Masculine-curly-top-ears251-hair.glb",
+    "headgear": "components/Masculine-curly-top-ears251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13006414473056793,
+        0.017833402380347252,
+        2.4102225303649902
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4081485271453857
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-curly-top-ears251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        0
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-curly-top-pashmina": {
+    "hair": "components/Masculine-curly-top-pashmina251-hair.glb",
+    "headgear": "components/Masculine-curly-top-pashmina251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13068658113479614,
+        0.0200423002243042,
+        2.3786191940307617
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.375699043273926
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-curly-top-pashmina251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        30406
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-afro-cap": {
+    "hair": "components/Masculine-afro-cap251-hair.glb",
+    "headgear": "components/Masculine-afro-cap251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13069167733192444,
+        0.019965767860412598,
+        2.3545680046081543
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.351649045944214
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-afro-cap251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        49356
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-afro-beanie": {
+    "hair": "components/Masculine-afro-beanie251-hair.glb",
+    "headgear": "components/Masculine-afro-beanie251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13044701516628265,
+        0.02002861350774765,
+        2.4917173385620117
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.48875093460083
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-afro-beanie251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        50069
+      ]
+    ],
+    "protected_exact": true,
+    "beanie_crown_clearance": 0.072,
+    "cuff_unchanged": true
+  },
+  "Masculine-afro-bucket": {
+    "hair": "components/Masculine-afro-bucket251-hair.glb",
+    "headgear": "components/Masculine-afro-bucket251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13004028797149658,
+        0.020454348996281624,
+        2.370307683944702
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.367342472076416
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-afro-bucket251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        41698
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-afro-cowboy": {
+    "hair": "components/Masculine-afro-cowboy251-hair.glb",
+    "headgear": "components/Masculine-afro-cowboy251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.12880845367908478,
+        0.0201520174741745,
+        2.414515495300293
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.411766529083252
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-afro-cowboy251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        36781
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-afro-headband": {
+    "hair": "components/Masculine-afro-headband251-hair.glb",
+    "headgear": "components/Masculine-afro-headband251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13105438649654388,
+        0.020459244027733803,
+        2.520216464996338
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.5174455642700195
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-afro-headband251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        6669
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-afro-ears": {
+    "hair": "components/Masculine-afro-ears251-hair.glb",
+    "headgear": "components/Masculine-afro-ears251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13105438649654388,
+        0.020459244027733803,
+        2.520216464996338
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.5174455642700195
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-afro-ears251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        0
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-afro-pashmina": {
+    "hair": "components/Masculine-afro-pashmina251-hair.glb",
+    "headgear": "components/Masculine-afro-pashmina251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.1306961178779602,
+        0.02003440633416176,
+        2.4084436893463135
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4055256843566895
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-afro-pashmina251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        32129
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-locs-cap": {
+    "hair": "components/Masculine-locs-cap251-hair.glb",
+    "headgear": "components/Masculine-locs-cap251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13069167733192444,
+        0.019965767860412598,
+        2.3545680046081543
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.351649045944214
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-locs-cap251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        15668
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-locs-beanie": {
+    "hair": "components/Masculine-locs-beanie251-hair.glb",
+    "headgear": "components/Masculine-locs-beanie251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13044701516628265,
+        0.02002861350774765,
+        2.4917173385620117
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.48875093460083
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-locs-beanie251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        12226
+      ]
+    ],
+    "protected_exact": true,
+    "beanie_crown_clearance": 0.072,
+    "cuff_unchanged": true
+  },
+  "Masculine-locs-bucket": {
+    "hair": "components/Masculine-locs-bucket251-hair.glb",
+    "headgear": "components/Masculine-locs-bucket251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13004028797149658,
+        0.020454348996281624,
+        2.370307683944702
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.367342472076416
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-locs-bucket251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        3439
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-locs-cowboy": {
+    "hair": "components/Masculine-locs-cowboy251-hair.glb",
+    "headgear": "components/Masculine-locs-cowboy251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.12880845367908478,
+        0.0201520174741745,
+        2.414515495300293
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.411766529083252
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-locs-cowboy251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        2405
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-locs-headband": {
+    "hair": "components/Masculine-locs-headband251-hair.glb",
+    "headgear": "components/Masculine-locs-headband251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.1307297945022583,
+        0.020124591886997223,
+        2.3297483921051025
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.326841115951538
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-locs-headband251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        3364
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-locs-ears": {
+    "hair": "components/Masculine-locs-ears251-hair.glb",
+    "headgear": "components/Masculine-locs-ears251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.1307297945022583,
+        0.020124591886997223,
+        2.3297483921051025
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.326841115951538
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-locs-ears251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        0
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-locs-pashmina": {
+    "hair": "components/Masculine-locs-pashmina251-hair.glb",
+    "headgear": "components/Masculine-locs-pashmina251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13069386780261993,
+        0.020015977323055267,
+        2.392925262451172
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3900065422058105
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-locs-pashmina251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        2326
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-middle-part-cap": {
+    "hair": "components/Masculine-middle-part-cap251-hair.glb",
+    "headgear": "components/Masculine-middle-part-cap251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13069167733192444,
+        0.019965767860412598,
+        2.3545680046081543
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.351649045944214
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-middle-part-cap251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        21953
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-middle-part-beanie": {
+    "hair": "components/Masculine-middle-part-beanie251-hair.glb",
+    "headgear": "components/Masculine-middle-part-beanie251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13044701516628265,
+        0.02002861350774765,
+        2.4917173385620117
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.48875093460083
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-middle-part-beanie251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        17219
+      ]
+    ],
+    "protected_exact": true,
+    "beanie_crown_clearance": 0.072,
+    "cuff_unchanged": true
+  },
+  "Masculine-middle-part-bucket": {
+    "hair": "components/Masculine-middle-part-bucket251-hair.glb",
+    "headgear": "components/Masculine-middle-part-bucket251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13004028797149658,
+        0.020454348996281624,
+        2.370307683944702
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.367342472076416
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-middle-part-bucket251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        9696
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-middle-part-cowboy": {
+    "hair": "components/Masculine-middle-part-cowboy251-hair.glb",
+    "headgear": "components/Masculine-middle-part-cowboy251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.12880845367908478,
+        0.0201520174741745,
+        2.414515495300293
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.411766529083252
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-middle-part-cowboy251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        6331
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-middle-part-headband": {
+    "hair": "components/Masculine-middle-part-headband251-hair.glb",
+    "headgear": "components/Masculine-middle-part-headband251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13064688444137573,
+        0.01827656663954258,
+        2.3490395545959473
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.346670627593994
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-middle-part-headband251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        5893
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-middle-part-ears": {
+    "hair": "components/Masculine-middle-part-ears251-hair.glb",
+    "headgear": "components/Masculine-middle-part-ears251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13064688444137573,
+        0.01827656663954258,
+        2.3490395545959473
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.346670627593994
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-middle-part-ears251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        0
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-middle-part-pashmina": {
+    "hair": "components/Masculine-middle-part-pashmina251-hair.glb",
+    "headgear": "components/Masculine-middle-part-pashmina251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.1306937038898468,
+        0.020012106746435165,
+        2.3929085731506348
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3899898529052734
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-middle-part-pashmina251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        1939
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Feminine-bob-bucket": {
+    "hair": "components/Feminine-bob-bucket251-hair.glb",
+    "headgear": "components/Feminine-bob-bucket251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13004028797149658,
+        0.020454348996281624,
+        2.370307683944702
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.367342472076416
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Feminine-bob-bucket251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        3537
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Feminine-bob-headband": {
+    "hair": "components/Feminine-bob-headband251-hair.glb",
+    "headgear": "components/Feminine-bob-headband251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.1308078020811081,
+        0.020094092935323715,
+        2.3609426021575928
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3580548763275146
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Feminine-bob-headband251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        8221
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Feminine-ponytail-beanie": {
+    "hair": "components/Feminine-ponytail-beanie251-hair.glb",
+    "headgear": "components/Feminine-ponytail-beanie251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13044701516628265,
+        0.02002861350774765,
+        2.4917173385620117
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.48875093460083
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Feminine-ponytail-beanie251-sprout.glb"
+    },
+    "actions": [
+      [
+        "cuff-seated front locks",
+        11242
+      ],
+      [
+        "covered-root seating",
+        2057
+      ]
+    ],
+    "protected_exact": true,
+    "beanie_crown_clearance": 0.072,
+    "cuff_unchanged": true
+  },
+  "Feminine-ponytail-bucket": {
+    "hair": "components/Feminine-ponytail-bucket251-hair.glb",
+    "headgear": "components/Feminine-ponytail-bucket251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13004028797149658,
+        0.020454348996281624,
+        2.370307683944702
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.367342472076416
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Feminine-ponytail-bucket251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        2245
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Feminine-ponytail-headband": {
+    "hair": "components/Feminine-ponytail-headband251-hair.glb",
+    "headgear": "components/Feminine-ponytail-headband251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.1308078020811081,
+        0.020094092935323715,
+        2.3609426021575928
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3580548763275146
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Feminine-ponytail-headband251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        283
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Feminine-ponytail-pashmina": {
+    "hair": "components/Feminine-ponytail-pashmina251-hair.glb",
+    "headgear": "components/Feminine-ponytail-pashmina251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.130682110786438,
+        0.020017672330141068,
+        2.3785133361816406
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.375591993331909
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Feminine-ponytail-pashmina251-sprout.glb"
+    },
+    "actions": [
+      [
+        "folded concealed pony bundle",
+        6
+      ],
+      [
+        "covered-root seating",
+        0
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Feminine-straight-bucket": {
+    "hair": "components/Feminine-straight-bucket251-hair.glb",
+    "headgear": "components/Feminine-straight-bucket251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13004028797149658,
+        0.020454348996281624,
+        2.370307683944702
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.367342472076416
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Feminine-straight-bucket251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        4668
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Feminine-straight-headband": {
+    "hair": "components/Feminine-straight-headband251-hair.glb",
+    "headgear": "components/Feminine-straight-headband251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.1308078020811081,
+        0.020094092935323715,
+        2.3609426021575928
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3580548763275146
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Feminine-straight-headband251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        8221
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Feminine-curls-bucket": {
+    "hair": "components/Feminine-curls-bucket251-hair.glb",
+    "headgear": "components/Feminine-curls-bucket251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13004028797149658,
+        0.020454348996281624,
+        2.370307683944702
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.367342472076416
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Feminine-curls-bucket251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        5654
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Feminine-curls-headband": {
+    "hair": "components/Feminine-curls-headband251-hair.glb",
+    "headgear": "components/Feminine-curls-headband251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.1308078020811081,
+        0.020094092935323715,
+        2.3609426021575928
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3580548763275146
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Feminine-curls-headband251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        8932
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Feminine-side-sweep-bucket": {
+    "hair": "components/Feminine-side-sweep-bucket251-hair.glb",
+    "headgear": "components/Feminine-side-sweep-bucket251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13004028797149658,
+        0.020454348996281624,
+        2.370307683944702
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.367342472076416
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Feminine-side-sweep-bucket251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        4551
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Feminine-side-sweep-headband": {
+    "hair": "components/Feminine-side-sweep-headband251-hair.glb",
+    "headgear": "components/Feminine-side-sweep-headband251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.1308078020811081,
+        0.020094092935323715,
+        2.3609426021575928
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3580548763275146
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Feminine-side-sweep-headband251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        6859
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Feminine-space-buns-cap": {
+    "hair": "components/Feminine-space-buns-cap251-hair.glb",
+    "headgear": "components/Feminine-space-buns-cap251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13072346150875092,
+        0.019975215196609497,
+        2.364614486694336
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3617031574249268
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Feminine-space-buns-cap251-sprout.glb"
+    },
+    "actions": [
+      [
+        "flattened concealed bun islands",
+        10
+      ],
+      [
+        "covered-root seating",
+        6598
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Feminine-space-buns-beanie": {
+    "hair": "components/Feminine-space-buns-beanie251-hair.glb",
+    "headgear": "components/Feminine-space-buns-beanie251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13044701516628265,
+        0.02002861350774765,
+        2.4917173385620117
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.48875093460083
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Feminine-space-buns-beanie251-sprout.glb"
+    },
+    "actions": [
+      [
+        "flattened concealed bun islands",
+        10
+      ],
+      [
+        "covered-root seating",
+        5297
+      ]
+    ],
+    "protected_exact": true,
+    "beanie_crown_clearance": 0.072,
+    "cuff_unchanged": true
+  },
+  "Feminine-space-buns-bucket": {
+    "hair": "components/Feminine-space-buns-bucket251-hair.glb",
+    "headgear": "components/Feminine-space-buns-bucket251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13004028797149658,
+        0.020454348996281624,
+        2.370307683944702
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.367342472076416
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Feminine-space-buns-bucket251-sprout.glb"
+    },
+    "actions": [
+      [
+        "flattened concealed bun islands",
+        10
+      ],
+      [
+        "covered-root seating",
+        640
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Feminine-space-buns-cowboy": {
+    "hair": "components/Feminine-space-buns-cowboy251-hair.glb",
+    "headgear": "components/Feminine-space-buns-cowboy251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.12880845367908478,
+        0.0201520174741745,
+        2.414515495300293
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.411766529083252
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Feminine-space-buns-cowboy251-sprout.glb"
+    },
+    "actions": [
+      [
+        "flattened concealed bun islands",
+        10
+      ],
+      [
+        "covered-root seating",
+        795
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Feminine-space-buns-headband": {
+    "hair": "components/Feminine-space-buns-headband251-hair.glb",
+    "headgear": "components/Feminine-space-buns-headband251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.1308078020811081,
+        0.020094092935323715,
+        2.3609426021575928
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3580548763275146
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Feminine-space-buns-headband251-sprout.glb"
+    },
+    "actions": [
+      [
+        "flattened concealed bun islands",
+        10
+      ],
+      [
+        "covered-root seating",
+        4018
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Feminine-space-buns-ears": {
+    "hair": "components/Feminine-space-buns-ears251-hair.glb",
+    "headgear": "components/Feminine-space-buns-ears251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.1304013431072235,
+        0.020483342930674553,
+        2.3382568359375
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3353233337402344
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Feminine-space-buns-ears251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        0
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Feminine-space-buns-pashmina": {
+    "hair": "components/Feminine-space-buns-pashmina251-hair.glb",
+    "headgear": "components/Feminine-space-buns-pashmina251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13068178296089172,
+        0.02001686580479145,
+        2.378509521484375
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3755881786346436
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Feminine-space-buns-pashmina251-sprout.glb"
+    },
+    "actions": [
+      [
+        "flattened concealed bun islands",
+        10
+      ],
+      [
+        "covered-root seating",
+        0
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Feminine-twin-braids-cap": {
+    "hair": "components/Feminine-twin-braids-cap251-hair.glb",
+    "headgear": "components/Feminine-twin-braids-cap251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13072346150875092,
+        0.019975215196609497,
+        2.364614486694336
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3617031574249268
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Feminine-twin-braids-cap251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        6721
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Feminine-twin-braids-beanie": {
+    "hair": "components/Feminine-twin-braids-beanie251-hair.glb",
+    "headgear": "components/Feminine-twin-braids-beanie251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13044701516628265,
+        0.02002861350774765,
+        2.4917173385620117
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.48875093460083
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Feminine-twin-braids-beanie251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        5457
+      ]
+    ],
+    "protected_exact": true,
+    "beanie_crown_clearance": 0.072,
+    "cuff_unchanged": true
+  },
+  "Feminine-twin-braids-bucket": {
+    "hair": "components/Feminine-twin-braids-bucket251-hair.glb",
+    "headgear": "components/Feminine-twin-braids-bucket251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13004028797149658,
+        0.020454348996281624,
+        2.370307683944702
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.367342472076416
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Feminine-twin-braids-bucket251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        702
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Feminine-twin-braids-cowboy": {
+    "hair": "components/Feminine-twin-braids-cowboy251-hair.glb",
+    "headgear": "components/Feminine-twin-braids-cowboy251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.12880845367908478,
+        0.0201520174741745,
+        2.414515495300293
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.411766529083252
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Feminine-twin-braids-cowboy251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        799
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Feminine-twin-braids-headband": {
+    "hair": "components/Feminine-twin-braids-headband251-hair.glb",
+    "headgear": "components/Feminine-twin-braids-headband251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.1308078020811081,
+        0.020094092935323715,
+        2.3609426021575928
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3580548763275146
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Feminine-twin-braids-headband251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        4403
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Feminine-twin-braids-ears": {
+    "hair": "components/Feminine-twin-braids-ears251-hair.glb",
+    "headgear": "components/Feminine-twin-braids-ears251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13063867390155792,
+        0.01975208893418312,
+        2.340158462524414
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.33723783493042
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Feminine-twin-braids-ears251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        0
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Feminine-twin-braids-pashmina": {
+    "hair": "components/Feminine-twin-braids-pashmina251-hair.glb",
+    "headgear": "components/Feminine-twin-braids-pashmina251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13068169355392456,
+        0.02001698687672615,
+        2.378509998321533
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3755884170532227
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Feminine-twin-braids-pashmina251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        0
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Feminine-box-braids-bucket": {
+    "hair": "components/Feminine-box-braids-bucket251-hair.glb",
+    "headgear": "components/Feminine-box-braids-bucket251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13004028797149658,
+        0.020454348996281624,
+        2.370307683944702
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.367342472076416
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Feminine-box-braids-bucket251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        13374
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Feminine-box-braids-headband": {
+    "hair": "components/Feminine-box-braids-headband251-hair.glb",
+    "headgear": "components/Feminine-box-braids-headband251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.1308078020811081,
+        0.020094092935323715,
+        2.3609426021575928
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3580548763275146
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Feminine-box-braids-headband251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        36091
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-sidepart-bucket": {
+    "hair": "components/Masculine-sidepart-bucket251-hair.glb",
+    "headgear": "components/Masculine-sidepart-bucket251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13004028797149658,
+        0.020454348996281624,
+        2.370307683944702
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.367342472076416
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-sidepart-bucket251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        3363
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Masculine-sidepart-headband": {
+    "hair": "components/Masculine-sidepart-headband251-hair.glb",
+    "headgear": "components/Masculine-sidepart-headband251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13135002553462982,
+        0.019811490550637245,
+        2.3800246715545654
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.377352237701416
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-sidepart-headband251-sprout.glb"
+    },
+    "actions": [
+      [
+        "covered-root seating",
+        5083
+      ]
+    ],
+    "protected_exact": true
+  },
+  "Feminine-bob-beanie": {
+    "hair": "../235/components/Feminine-bob-closed-hair.glb",
+    "protected_exact": true,
+    "headgear": "components/Feminine-bob-beanie251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13044701516628265,
+        0.02002861350774765,
+        2.4917173385620117
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.48875093460083
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Feminine-bob-beanie251-sprout.glb"
+    },
+    "beanie_crown_clearance": 0.072,
+    "cuff_unchanged": true
+  },
+  "Feminine-straight-beanie": {
+    "hair": "../235/components/Feminine-straight-closed-hair.glb",
+    "protected_exact": true,
+    "headgear": "components/Feminine-straight-beanie251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13044701516628265,
+        0.02002861350774765,
+        2.4917173385620117
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.48875093460083
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Feminine-straight-beanie251-sprout.glb"
+    },
+    "beanie_crown_clearance": 0.072,
+    "cuff_unchanged": true
+  },
+  "Feminine-curls-beanie": {
+    "hair": "../235/components/Feminine-curls-closed-hair.glb",
+    "protected_exact": true,
+    "headgear": "components/Feminine-curls-beanie251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13044701516628265,
+        0.02002861350774765,
+        2.4917173385620117
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.48875093460083
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Feminine-curls-beanie251-sprout.glb"
+    },
+    "beanie_crown_clearance": 0.072,
+    "cuff_unchanged": true
+  },
+  "Feminine-side-sweep-beanie": {
+    "hair": "../235/components/Feminine-side-sweep-closed-hair.glb",
+    "protected_exact": true,
+    "headgear": "components/Feminine-side-sweep-beanie251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13044701516628265,
+        0.02002861350774765,
+        2.4917173385620117
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.48875093460083
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Feminine-side-sweep-beanie251-sprout.glb"
+    },
+    "beanie_crown_clearance": 0.072,
+    "cuff_unchanged": true
+  },
+  "Feminine-box-braids-beanie": {
+    "hair": "../235/components/Feminine-box-braids-closed-hair.glb",
+    "protected_exact": true,
+    "headgear": "components/Feminine-box-braids-beanie251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13044701516628265,
+        0.02002861350774765,
+        2.4917173385620117
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.48875093460083
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Feminine-box-braids-beanie251-sprout.glb"
+    },
+    "beanie_crown_clearance": 0.072,
+    "cuff_unchanged": true
+  },
+  "Masculine-sidepart-beanie": {
+    "hair": "../235/components/Masculine-sidepart-closed-hair.glb",
+    "protected_exact": true,
+    "headgear": "components/Masculine-sidepart-beanie251-headgear.glb",
+    "sprout": {
+      "anchor": [
+        0.13044701516628265,
+        0.02002861350774765,
+        2.4917173385620117
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.48875093460083
+      ],
+      "clearance": 0.003,
+      "has_clip": true,
+      "path": "components/Masculine-sidepart-beanie251-sprout.glb"
+    },
+    "beanie_crown_clearance": 0.072,
+    "cuff_unchanged": true
+  }
+}
