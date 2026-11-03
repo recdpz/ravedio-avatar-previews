@@ -1,0 +1,16 @@
+{
+  "revision": 250,
+  "baseline_commit": "3228f60f6402b0ce0104ce83eb656a975d828ef3",
+  "scope": "Authored covered-hair packing and restrained hood drape across16 styles",
+  "selection": "Existing independent selectors. pashminaVariants[build][style][top] chooses the cloth; fits[build-style].pashmina chooses its authored covered hair. Compare249 restores all previous cloth/hair/sprout components together. Cloth hides fabric for inspection.",
+  "method": "Three broad support allowances: compact, draped and full. Concealed hair is gathered outside the actual head with continuous original locks; exposed styling/material is retained. The original ponytail bundle is rigidly reoriented beneath a raised continuous rear hem. No punched holes, runtime physics, new profile bits or generic replacement curtain.",
+  "protection": "Accepted front crossings/joins, all body/face/wardrobe, uncovered styles, other headwear, materials, studio and shared coordinates.",
+  "coordinates": "Shared transforms and origins retained. No independent centering/resizing or automatic mesh/material merging across selectable components.",
+  "source": "Two portable packed assemblies and ordinary uncompressed/unquantized GLBs. Per-top regeneration uses retained249 native sources and fields via source/common250.py; original inputs are unchanged.",
+  "rendering": "Packed Blender studio, recorded camera/light/exposure and color management are the reference. GLBs do not transfer the studio/HDR, AgX transform, ray-visibility flags or complete shader graph. Native parity requires comparison.",
+  "references": "assemblies250.json and depth250.json. Color/Z regenerated together from the same final geometry/camera/version. These are assembled reference depth pairs, not native component-layer maps.",
+  "transparency": "Existing frame/lens separation and clear thin-opacity lenses retained; clear glass is not transmission/refraction. Geometry reduction cannot establish lens correctness; native transparency remains unqualified.",
+  "technical": "technical250.json",
+  "review": "review250.json",
+  "qualification": "Artwork owner-review candidate. Native fidelity, transparency/layer composition and actual-phone performance remain separate."
+}

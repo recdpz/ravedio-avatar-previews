@@ -1,0 +1,9 @@
+from pathlib import Path
+import json,datetime
+P=Path(__file__).parent;D=P.parent/'floating138/mobile-preview/250';q=json.loads((P/'progress250.json').read_text());deployment=json.loads((P/'deployment250.json').read_text());live=json.loads((P/'live250.json').read_text());public=json.loads((P/'public250.json').read_text());dep=json.loads((D/'dependencies250.json').read_text())
+assert deployment[0]['sha']==q['commit'] and deployment[0]['conclusion']=='success'
+assert live['manifest_matches'] and len(live['files'])>=140 and len(public['checks'])==26 and not public['errors'] and not public['http']
+q.update(status='Published250; owner review pending',cloth_top_fits=112,styles=16,authored_covered_styles=16,sprout_fits=16,source_export_review=True,default_angles=7,enlarged_angles=7,wardrobe_accessory_stress_cases=22,local_browser_checks=122,public_browser_checks=26,retained_inputs=len(dep['retained_glbs']),packed_assemblies=2,matched_color_depth_pairs=4,pages_run=deployment[0]['url'],live_files=len(live['files']),verified_utc=datetime.datetime.now(datetime.timezone.utc).isoformat(),native_phone_qualified=False,local_preview_server='stopped',next='Owner review of250 hair identity/coverage and hood fits; no catalogue or native acceptance implied.')
+(P/'progress250.json').write_text(json.dumps(q,indent=2)+'\n',encoding='utf8');(P/'publication250.json').write_text(json.dumps({**q,'manifest_matches':True,'verified_files':[x['path'] for x in live['files']]},indent=2)+'\n',encoding='utf8')
+root=Path('C:/Users/Ronnie/Downloads/Ravedio-Avatar-Hairstyles-2026-09-28/production/current/catalogue250.json');root.write_text(json.dumps({**q,'work_directory':str(P),'publication':str(P/'publication250.json')},indent=2)+'\n',encoding='utf8')
+print('PUBLISHED250',q['commit'],'Pages success; live asset hashes and26 public checks; owner review pending')
