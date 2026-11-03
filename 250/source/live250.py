@@ -2,7 +2,7 @@ from pathlib import Path
 import json,urllib.request,hashlib,datetime,concurrent.futures
 P=Path(__file__).parent;D=P.parent/'floating138/mobile-preview/250';BASE='https://recdpz.github.io/ravedio-avatar-previews/250/'
 manifest=(D/'manifest250.json').read_bytes();m=json.loads(manifest);lookup={x['path']:x for x in m['files']}
-paths=['manifest250.json','index.html','viewer250.js','catalogue250.json','handoff250.json','assemblies250.json','technical250.json','depth250.json','references/identity-comparison250.jpg']+[x for x in lookup if x.startswith(('components/','assemblies/')) or x.endswith('.exr') or '-paired250-color.png' in x]
+paths=['manifest250.json','index.html','viewer250.js','catalogue250.json','handoff250.json','assemblies250.json','technical250.json','depth250.json','references/fit-comparison250.jpg']+[x for x in lookup if x.startswith(('components/','assemblies/')) or x.endswith('.exr') or '-paired250-color.png' in x]
 def verify(name):
  req=urllib.request.Request(BASE+name+'?verify=250final',headers={'Cache-Control':'no-cache','User-Agent':'Ravedio-art-check/250'})
  with urllib.request.urlopen(req,timeout=120) as response:data=response.read()
