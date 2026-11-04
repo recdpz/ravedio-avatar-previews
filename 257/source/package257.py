@@ -19,5 +19,5 @@ for name in ['fits','sprouts']:
 (D/'catalogue257.json').write_text(json.dumps(c,indent=2)+'\n',encoding='utf8',newline='\n')
 s=(OLD/'viewer256.js').read_text().replace('256','257').replace('before254','before256');(D/'viewer257.js').write_text(s,encoding='utf8',newline='\n')
 s=(OLD/'index.html').read_text().replace('256','257').replace('Compare254','Compare256').replace('Previous254','Previous256').replace('href="../254/"','href="../256/"')
-s=re.sub('<h1>.*?</h1><p>.*?</p>','<h1>B shape · Blended taper</h1><p>B’s swept shape with thinner, softly blended lower lock ends. Smooth faded sides and small sculpted directional marks borrow214’s approach. Compare256 shows the previous textured fade.</p>',s,count=1)
-(D/'index.html').write_text(s,encoding='utf8',newline='\n');print('PACKAGE257_READY')
+s=re.sub('<h1>.*?</h1><p>.*?</p>','<h1>B shape Â· Blended taper</h1><p>Bâ€™s swept shape with thinner, softly blended lower lock ends. Smooth faded sides and small sculpted directional marks borrow214â€™s approach. Compare256 shows the previous textured fade.</p>',s,count=1)
+s=s.replace('src="../asset-host.js"','src="../asset-host.js?v=257"');(D/'index.html').write_text(s,encoding='utf8',newline='\n');print('PACKAGE257_READY')
