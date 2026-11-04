@@ -1,0 +1,714 @@
+{
+  "revision": 254,
+  "pairs": [
+    {
+      "build": "Masculine",
+      "hair": "taper",
+      "skin": 0,
+      "size": 120,
+      "color": "references/Masculine-taper-skin0-portrait120-paired254-color.png",
+      "depth": "references/Masculine-taper-skin0-portrait120-paired254-depth.exr",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.8799999952316284
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.649999976158142,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.88
+        ],
+        "resolution": [
+          120,
+          120
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ]
+      },
+      "geometry_revision": 254,
+      "alpha_threshold": 0.5,
+      "finite_depth_range": [
+        7.603636264801025,
+        8.036664962768555
+      ]
+    },
+    {
+      "build": "Masculine",
+      "hair": "taper",
+      "skin": 0,
+      "size": 512,
+      "color": "references/Masculine-taper-skin0-portrait512-paired254-color.png",
+      "depth": "references/Masculine-taper-skin0-portrait512-paired254-depth.exr",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.8799999952316284
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.649999976158142,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.88
+        ],
+        "resolution": [
+          512,
+          512
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ]
+      },
+      "geometry_revision": 254,
+      "alpha_threshold": 0.5,
+      "finite_depth_range": [
+        7.603617191314697,
+        8.086700439453125
+      ]
+    },
+    {
+      "build": "Masculine",
+      "hair": "taper",
+      "skin": 1,
+      "size": 120,
+      "color": "references/Masculine-taper-skin1-portrait120-paired254-color.png",
+      "depth": "references/Masculine-taper-skin1-portrait120-paired254-depth.exr",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.8799999952316284
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.649999976158142,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.88
+        ],
+        "resolution": [
+          120,
+          120
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ]
+      },
+      "geometry_revision": 254,
+      "alpha_threshold": 0.5,
+      "finite_depth_range": [
+        7.603636264801025,
+        8.036664962768555
+      ]
+    },
+    {
+      "build": "Masculine",
+      "hair": "taper",
+      "skin": 1,
+      "size": 512,
+      "color": "references/Masculine-taper-skin1-portrait512-paired254-color.png",
+      "depth": "references/Masculine-taper-skin1-portrait512-paired254-depth.exr",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.8799999952316284
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.649999976158142,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.88
+        ],
+        "resolution": [
+          512,
+          512
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ]
+      },
+      "geometry_revision": 254,
+      "alpha_threshold": 0.5,
+      "finite_depth_range": [
+        7.603617191314697,
+        8.086700439453125
+      ]
+    },
+    {
+      "build": "Masculine",
+      "hair": "taper",
+      "skin": 3,
+      "size": 120,
+      "color": "references/Masculine-taper-skin3-portrait120-paired254-color.png",
+      "depth": "references/Masculine-taper-skin3-portrait120-paired254-depth.exr",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.8799999952316284
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.649999976158142,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.88
+        ],
+        "resolution": [
+          120,
+          120
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ]
+      },
+      "geometry_revision": 254,
+      "alpha_threshold": 0.5,
+      "finite_depth_range": [
+        7.603636264801025,
+        8.036664962768555
+      ]
+    },
+    {
+      "build": "Masculine",
+      "hair": "taper",
+      "skin": 3,
+      "size": 512,
+      "color": "references/Masculine-taper-skin3-portrait512-paired254-color.png",
+      "depth": "references/Masculine-taper-skin3-portrait512-paired254-depth.exr",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.8799999952316284
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.649999976158142,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.88
+        ],
+        "resolution": [
+          512,
+          512
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ]
+      },
+      "geometry_revision": 254,
+      "alpha_threshold": 0.5,
+      "finite_depth_range": [
+        7.603617191314697,
+        8.086700439453125
+      ]
+    },
+    {
+      "build": "Masculine",
+      "hair": "curly-top",
+      "skin": 0,
+      "size": 120,
+      "color": "references/Masculine-curly-top-skin0-portrait120-paired254-color.png",
+      "depth": "references/Masculine-curly-top-skin0-portrait120-paired254-depth.exr",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.8799999952316284
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.649999976158142,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.88
+        ],
+        "resolution": [
+          120,
+          120
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ]
+      },
+      "geometry_revision": 254,
+      "alpha_threshold": 0.5,
+      "finite_depth_range": [
+        7.603636264801025,
+        8.103641510009766
+      ]
+    },
+    {
+      "build": "Masculine",
+      "hair": "curly-top",
+      "skin": 0,
+      "size": 512,
+      "color": "references/Masculine-curly-top-skin0-portrait512-paired254-color.png",
+      "depth": "references/Masculine-curly-top-skin0-portrait512-paired254-depth.exr",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.8799999952316284
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.649999976158142,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.88
+        ],
+        "resolution": [
+          512,
+          512
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ]
+      },
+      "geometry_revision": 254,
+      "alpha_threshold": 0.5,
+      "finite_depth_range": [
+        7.603617191314697,
+        8.109105110168457
+      ]
+    },
+    {
+      "build": "Masculine",
+      "hair": "curly-top",
+      "skin": 1,
+      "size": 120,
+      "color": "references/Masculine-curly-top-skin1-portrait120-paired254-color.png",
+      "depth": "references/Masculine-curly-top-skin1-portrait120-paired254-depth.exr",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.8799999952316284
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.649999976158142,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.88
+        ],
+        "resolution": [
+          120,
+          120
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ]
+      },
+      "geometry_revision": 254,
+      "alpha_threshold": 0.5,
+      "finite_depth_range": [
+        7.603636264801025,
+        8.103641510009766
+      ]
+    },
+    {
+      "build": "Masculine",
+      "hair": "curly-top",
+      "skin": 1,
+      "size": 512,
+      "color": "references/Masculine-curly-top-skin1-portrait512-paired254-color.png",
+      "depth": "references/Masculine-curly-top-skin1-portrait512-paired254-depth.exr",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.8799999952316284
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.649999976158142,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.88
+        ],
+        "resolution": [
+          512,
+          512
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ]
+      },
+      "geometry_revision": 254,
+      "alpha_threshold": 0.5,
+      "finite_depth_range": [
+        7.603617191314697,
+        8.109105110168457
+      ]
+    },
+    {
+      "build": "Masculine",
+      "hair": "curly-top",
+      "skin": 3,
+      "size": 120,
+      "color": "references/Masculine-curly-top-skin3-portrait120-paired254-color.png",
+      "depth": "references/Masculine-curly-top-skin3-portrait120-paired254-depth.exr",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.8799999952316284
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.649999976158142,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.88
+        ],
+        "resolution": [
+          120,
+          120
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ]
+      },
+      "geometry_revision": 254,
+      "alpha_threshold": 0.5,
+      "finite_depth_range": [
+        7.603636264801025,
+        8.103641510009766
+      ]
+    },
+    {
+      "build": "Masculine",
+      "hair": "curly-top",
+      "skin": 3,
+      "size": 512,
+      "color": "references/Masculine-curly-top-skin3-portrait512-paired254-color.png",
+      "depth": "references/Masculine-curly-top-skin3-portrait512-paired254-depth.exr",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.8799999952316284
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.649999976158142,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.88
+        ],
+        "resolution": [
+          512,
+          512
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ]
+      },
+      "geometry_revision": 254,
+      "alpha_threshold": 0.5,
+      "finite_depth_range": [
+        7.603617191314697,
+        8.109105110168457
+      ]
+    }
+  ],
+  "definition": "Same-render color and32-bit float linear Z; identical geometry, camera and version. Assembled reference, not a component occlusion bake or lens/alpha solution."
+}

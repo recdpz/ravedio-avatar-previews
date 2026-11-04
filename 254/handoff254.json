@@ -1,0 +1,21 @@
+{
+  "revision": 254,
+  "baseline_commit": "85af03e053ae9811af309d7e4ef0c170b7ae905f",
+  "changed_styles": [
+    "taper",
+    "curly-top"
+  ],
+  "geometry": "Opaque rooted laid-over clipped hairs replace uniform translucent coverage. Fibers grow along the actual head surface and shorten/thin toward the boundary. Buried crown coverage ends under dense grown hair. Longer lock terminals are shortened and flattened into the upper side groom; rear overhang reduced.",
+  "selection": "Independent selectors retained. Default/Black/Blonde use canonical GLBs and recolor material factors; Ombr\u00e9 resolves canonical hair paths through catalogue254.ombre. New Ombr\u00e9 preserves vertex/index/normal/UV buffers; only color attributes and material color factors change.",
+  "preservation": "All body, face, wardrobe, headgear shapes, fixed studio, palettes, other six masculine and eight feminine hairstyles remain253. Side part has opaque sides and Buzz is a uniform close cut; neither has the affected faded-side construction. Sprout clips are reseated on final hair/headgear support.",
+  "exports": "16 canonical hair GLBs,16 Ombr\u00e9 counterparts and16 seated sprouts. Ordinary uncompressed/unquantized GLBs in common coordinates. Modeled fade uses OPAQUE materials; no alpha fog, cutout shader or runtime physics.",
+  "source": "Two packed masculine reference scenes, Taper and Curly top, imported from final ordinary GLBs. All dependencies embedded. Feminine reference remains unchanged at ../253/assemblies/Feminine-assembly253.blend. Authoring scripts reference retained earlier working sources; the packed scenes are portable source checkpoints.",
+  "rendering": "Blender studio lights/environment, exposure/view transform and renderer effects are recorded with the scenes and do not transfer as the same GLB lighting. PBR geometry/maps/materials transfer; compare faithful native output separately.",
+  "depth": "12 matched120/512 color and32-bit float Z pairs from the same geometry/camera/render. Existing feminine253 references stay valid because geometry/camera/materials are unchanged. These are assembled references, not component occlusion or lens-transmission maps.",
+  "technical": "technical254.json",
+  "qualification": "Fidelity art exports; triangle counts are recorded, not a mobile performance qualification.",
+  "references": [
+    "https://wahlusa.com/how-to/haircutting/mens-haircuts/fade-cut",
+    "https://sg.wahl.com/blog/perfect-your-blending-technique-with-these-tips-and-tricks.html"
+  ]
+}
