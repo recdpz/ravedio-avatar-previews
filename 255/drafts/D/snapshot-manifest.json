@@ -1,0 +1,56 @@
+{
+  "draft": "D",
+  "provenance": "Exact published control",
+  "files": [
+    {
+      "path": "front.png",
+      "bytes": 308084,
+      "sha256": "dbf5d133f4c0de27952ae52126403e32b7683b7248338feadfaa319441829781"
+    },
+    {
+      "path": "hair.glb",
+      "bytes": 7815312,
+      "sha256": "297b92090f0384cace783a09b35634aae14d8ed7054e34c1cd928b4bc5c51cc8"
+    },
+    {
+      "path": "profile.png",
+      "bytes": 309620,
+      "sha256": "9b77b77c401fad49b867f56d99b25d14626fcd20d6ec925dc87fb094c8290aa5"
+    },
+    {
+      "path": "rear.png",
+      "bytes": 329795,
+      "sha256": "878a4e71ec19347eb547bc45ab52b504a28db519393b0acc1aece705f2e3d4fb"
+    },
+    {
+      "path": "rightprofile.png",
+      "bytes": 308581,
+      "sha256": "6bf953992e41f0c67d9d21fa4ff5d7cecdcc6ca1fc31059651d834ec4628fd21"
+    },
+    {
+      "path": "settings.json",
+      "bytes": 346,
+      "sha256": "b8898a7bf1f171dd38e06fce96a6dde687fdbd860aa52091a3310de8e836eb1c"
+    },
+    {
+      "path": "source.blend",
+      "bytes": 19471243,
+      "sha256": "d8f135e7bc8d07297ba10bd81921e1a8490357a226ddcba57f5be2d0590ef64e"
+    },
+    {
+      "path": "threequarter.png",
+      "bytes": 307901,
+      "sha256": "71dea83a2ffa596aa78eeb19d371ac8bad66c5ea0dc3c841c7cddb912d949e7e"
+    },
+    {
+      "path": "top.png",
+      "bytes": 303413,
+      "sha256": "b882bd6f973bce176d6506e353e0fa34b1e2ff3cd5e8b15cbf491327062ad7ff"
+    },
+    {
+      "path": "underside.png",
+      "bytes": 311613,
+      "sha256": "f56b848dccd3d8d7d075627fc8bcd716d70f18582e6d52b36bf6acb0049bfa98"
+    }
+  ]
+}

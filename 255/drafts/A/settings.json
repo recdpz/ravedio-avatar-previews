@@ -1,0 +1,23 @@
+{
+  "label": "A \u00b7 Early fade",
+  "log": "pilot254.log",
+  "fade_span": 0.65,
+  "fill": 0.2,
+  "lift": 0.035,
+  "ridge": 0.0018,
+  "rough": 0.51,
+  "start": 0.48,
+  "target": 1.09,
+  "angle_weight": 0.95,
+  "depth_reduce": 0.82,
+  "width_reduce": 0.22,
+  "radial_reduce": 0.7,
+  "normal_strength": 0.24,
+  "rear": false,
+  "clamp": false,
+  "status": "Reconstruction from recorded254 code changes; not an original preserved checkpoint.",
+  "geometry_source": "E:/Ravedio-Avatar/catalogue252/sources/Masculine-taper-hair252.blend",
+  "original_log": "E:/Ravedio-Avatar/catalogue254/pilot254.log",
+  "shared": "Same separate swept locks, body/face/wardrobe, material colors, camera and fixed studio.",
+  "interactive_export": "BLEND alpha and clamped texture borders preserve authored smooth coverage; original A/B export-cutoff artifacts are not the intended appearance."
+}
