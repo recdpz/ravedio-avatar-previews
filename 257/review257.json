@@ -1,0 +1,17 @@
+{
+  "revision": 257,
+  "scope": "Selected B silhouette with214-style terminal thinning and smooth faded sides plus small sculpted direction",
+  "owner_status": "New257 pending owner review",
+  "source_review": "Pass1 regular dash pattern rejected; pass2 strokes refined; exported alpha-overlap issue fixed in pass3 by retaining opaque cores and using alpha only on terminal sections",
+  "protected": "Upper B lock positions verified exact; only terminal geometry changes. Shared coordinates, face, body, clothing, other hairstyles, headgear and palettes unchanged.",
+  "exported_visual_views": 180,
+  "covered_visual_views": 112,
+  "cloth_hidden_views": 4,
+  "exact120px_images": 8,
+  "local_browser_checks": 97,
+  "extra_angle_checks": {
+    "additionalExportedViews": 60,
+    "errors": []
+  },
+  "limits": "Artwork candidate. Native renderer/portrait alpha composition and phone performance remain unqualified."
+}
