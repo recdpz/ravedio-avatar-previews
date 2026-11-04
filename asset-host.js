@@ -3,11 +3,13 @@
  */
 (() => {
   'use strict';
-  const assetRef = 'a1a470b3618b796e87f4952f689a1a6493f0f089';
+  const assetRef = '6ad3cf78459a2306edddb9d9eef4925ed3f5ee63';
   const assetBase = `https://raw.githubusercontent.com/recdpz/ravedio-avatar-previews/${assetRef}/`;
   const pagePrefix = location.hostname === 'recdpz.github.io' ? '/ravedio-avatar-previews/' : '/';
   const extensions = /\.(?:glb|blend|zip|png|exr)$/i;
+  const localAssets = ['127.0.0.1', 'localhost', '[::1]'].includes(location.hostname);
   function resolve(value) {
+    if (localAssets) return value;
     if (typeof value !== 'string' && !(value instanceof URL)) return value;
     let url;
     try { url = new URL(String(value), document.baseURI); } catch { return value; }

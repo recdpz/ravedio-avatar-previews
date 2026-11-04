@@ -18,5 +18,18 @@
   "technical": "technical257.json",
   "review": "review257.json",
   "qualification": "Artwork candidate. Native renderer/portrait alpha composition and phone performance remain unqualified.",
-  "profile_contract": "No profile bytes or product repositories changed."
+  "profile_contract": "No profile bytes or product repositories changed.",
+  "asset_delivery": {
+    "art_commit": "6ad3cf78459a2306edddb9d9eef4925ed3f5ee63",
+    "large_asset_base": "https://raw.githubusercontent.com/recdpz/ravedio-avatar-previews/6ad3cf78459a2306edddb9d9eef4925ed3f5ee63/257/",
+    "binary_extensions": [
+      ".glb",
+      ".blend",
+      ".zip",
+      ".png",
+      ".exr"
+    ],
+    "note": "Resolve binary paths against this base, including ../ references. Assets remain unchanged in Git; Pages serves the UI, JSON and compact JPG/WebP boards. Review UI resolves URLs automatically. See the repository HOSTING.md."
+  },
+  "alpha_verification": "alpha257.json"
 }

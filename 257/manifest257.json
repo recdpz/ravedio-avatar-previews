@@ -1,7 +1,13 @@
 {
   "revision": 257,
   "baseline_commit": "a02e603fc491dc76424a360ecfd6bbd6360054ae",
+  "art_commit": "6ad3cf78459a2306edddb9d9eef4925ed3f5ee63",
   "files": [
+    {
+      "path": "alpha257.json",
+      "bytes": 1995,
+      "sha256": "c46aed042e507e0d78992f4a9f8e22d67e1fcd5a2186199b7419e08bb710a21f"
+    },
     {
       "path": "assemblies/Masculine-curly-top-assembly257.blend",
       "bytes": 28158442,
@@ -289,8 +295,8 @@
     },
     {
       "path": "handoff257.json",
-      "bytes": 2108,
-      "sha256": "0db01cedbe328845ee5cea42186d92cdd65e622614a779c245fc848003b96102"
+      "bytes": 2718,
+      "sha256": "489d11facd8c32f0796ad992ceb9e7588dd1e067ba3ea199f5f97dd95cc6c52b"
     },
     {
       "path": "index.html",
@@ -304,8 +310,8 @@
     },
     {
       "path": "README257.txt",
-      "bytes": 700,
-      "sha256": "12ef44fb051dae9958fcb2a991a9f38bc164baf0ab881056c83a0657c0e537b5"
+      "bytes": 897,
+      "sha256": "d5f6e9ebadbcd06ac985b0682c8bcf417114d448e6147030cbc3b60541b620c0"
     },
     {
       "path": "references/curly-top-angles257.jpg",
