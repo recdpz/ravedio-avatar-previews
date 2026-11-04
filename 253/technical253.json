@@ -1,0 +1,3098 @@
+[
+  {
+    "path": "components/Ombre-010e6871b0ff253-hair.glb",
+    "bytes": 2704396,
+    "sha256": "bc6a295ae09e19921f3cdd485c9a867d68e870c49008bf070772fbc7eddd89cb",
+    "triangles": 80028,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-03ca3a563e69253-hair.glb",
+    "bytes": 6339196,
+    "sha256": "2dbeb67b5c283ff76fec8ad5cec27268ac541db3d3af10125b9db5a1376b51fc",
+    "triangles": 175356,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-05361faa6984253-hair.glb",
+    "bytes": 2995084,
+    "sha256": "63f83369da9e9bcf48bbe63b189ae122ebdc6cddf0b1434368bf5924e347ef6c",
+    "triangles": 90275,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-05e11d5b8a1c253-hair.glb",
+    "bytes": 2822876,
+    "sha256": "60e3cb3aca6da06a37aee9a91b4456f3f00766d29b857beee694cf1e2cba70e2",
+    "triangles": 111616,
+    "materials": 21,
+    "primitives": 21,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-0aad4aa9bf81253-hair.glb",
+    "bytes": 2551104,
+    "sha256": "b33552a7c261dfff07d2d5bdc86f7787c5e1f9c5da7bbf075fa8830a4f9792af",
+    "triangles": 95168,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-0d5b40b8b338253-hair.glb",
+    "bytes": 2423352,
+    "sha256": "dcce4d7fee9b8a89a13ec525d51cf55e50da9c898c88ba1a91c4e7f9eba3119a",
+    "triangles": 95168,
+    "materials": 22,
+    "primitives": 22,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-0ff990406713253-hair.glb",
+    "bytes": 2720648,
+    "sha256": "0762ce861a4a26b76c711b524665b3279471a6f45c99acb8ff9030a02e9c1b13",
+    "triangles": 95168,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-1196bdd12c81253-hair.glb",
+    "bytes": 1860892,
+    "sha256": "745cddb4112bdae232c45c011b0c0a4cf365c3ef444676849389df793f6ba2a5",
+    "triangles": 53446,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-121a504bc814253-hair.glb",
+    "bytes": 1860948,
+    "sha256": "c112dafe8637926dac3d8d1de7d192e6c2f876bf29c1f544371a1f6f29638dfc",
+    "triangles": 53446,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-124664157171253-hair.glb",
+    "bytes": 4662696,
+    "sha256": "c3a2aa33577c07fbe0ab51b2ca1e80ddfab8a6edff63129528fca603d48ce535",
+    "triangles": 125542,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 230757
+      },
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-13162f702c8e253-hair.glb",
+    "bytes": 3358856,
+    "sha256": "7e0949eec09863f49d85a929d4abdc82007de62ab2597a8ffb130f4dd6585118",
+    "triangles": 74110,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 487204
+      },
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 308899
+      },
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "BLEND"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-13c2635cf274253-hair.glb",
+    "bytes": 3358856,
+    "sha256": "89213ef356d35b2aef413bd12e3e5c2041800183da11c40beff97ab130e69cd4",
+    "triangles": 74110,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 487204
+      },
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 308899
+      },
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "BLEND"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-13d7c995fe0c253-hair.glb",
+    "bytes": 1860948,
+    "sha256": "611e1cfadff1b1049c4d43d49a94bd0494f642061832fa13bc557b417d1970e7",
+    "triangles": 53446,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-16ae3440c514253-hair.glb",
+    "bytes": 3095700,
+    "sha256": "0505384c88e795a6344bcefee2077785661022f5de052617ebb46ac9771b46db",
+    "triangles": 95912,
+    "materials": 9,
+    "primitives": 9,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-1712bc200eb3253-hair.glb",
+    "bytes": 6339200,
+    "sha256": "06cb4c0673fce870309a4f4a20b6a6ba86d2854ec9f10827c62409b457fa9a27",
+    "triangles": 175356,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-1da0a6b29b01253-hair.glb",
+    "bytes": 1860948,
+    "sha256": "8df1365079b242bc9200d226684cb236bb9a221ef861cb052f39066b1f29c07c",
+    "triangles": 53446,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-1ee73f66b1e4253-hair.glb",
+    "bytes": 4662696,
+    "sha256": "a24f8a1e69d2cee19fc3fb5d64eb11a9ae727810c9d461d1959862cf11b565b9",
+    "triangles": 125542,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 230757
+      },
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-2040dfdb3eb7253-hair.glb",
+    "bytes": 1103280,
+    "sha256": "3d063865b0df4a02843631b6dba3039e1360b9b9504640948b2786bd579b995f",
+    "triangles": 35686,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-20f16ecb6b36253-hair.glb",
+    "bytes": 2704400,
+    "sha256": "cb746fdd5ed1de62d41e09f194ab17ce49d8f89909b0e3622ec67c303c571fda",
+    "triangles": 80028,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-22ff1a42438c253-hair.glb",
+    "bytes": 10888464,
+    "sha256": "d5cf4dfe7be3877b29ff53b7fbf11613a42e0dc82b867e5b9b1377227702d9a8",
+    "triangles": 260992,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-253605f3c624253-hair.glb",
+    "bytes": 5412844,
+    "sha256": "135b2ce2591dcf2d7230892471b772cc035088d8a39e865f6dc835087669db6d",
+    "triangles": 132992,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 487204
+      },
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 308899
+      },
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-25ce2f064639253-hair.glb",
+    "bytes": 4662696,
+    "sha256": "d3cfece0393f7522a945155933764026471c242661169632c008433922eb5409",
+    "triangles": 125542,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 230757
+      },
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-28e74ff87962253-hair.glb",
+    "bytes": 19203960,
+    "sha256": "61ed0e924d509ff99e43d9a5d9b0b18ef787efbfde7d428096e94e46aabd403a",
+    "triangles": 468372,
+    "materials": 2,
+    "primitives": 2,
+    "textures": [
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 487204
+      },
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 308899
+      },
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-2ba9be9e11f8253-hair.glb",
+    "bytes": 3358856,
+    "sha256": "386c9cf4b21203485b5b1a90da32c9d73e420db8a6a6d2c773abc8833245403b",
+    "triangles": 74110,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 487204
+      },
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 308899
+      },
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "BLEND"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-2d337a1d5c56253-hair.glb",
+    "bytes": 6339200,
+    "sha256": "143181ac025e7a7b1ebe5f4d7a39a419a8d91fa7443dc2f16eba8caa73913588",
+    "triangles": 175356,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-301773003718253-hair.glb",
+    "bytes": 15217296,
+    "sha256": "fe3c16920f75b262963cfb8dcd073688453010679e301ae8bb3e6fa364a60007",
+    "triangles": 433748,
+    "materials": 2,
+    "primitives": 2,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-30907b967027253-hair.glb",
+    "bytes": 10888460,
+    "sha256": "2bbab85e10631bab3346ce96a8f3943c22902688ab6de2414e553fc7a7a2ee93",
+    "triangles": 260992,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-3270370b013b253-hair.glb",
+    "bytes": 10888452,
+    "sha256": "ee446e75524f6e3209fbc42b94a31456187632810136349c741226ea0a0c0202",
+    "triangles": 260992,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-34017b98a9bc253-hair.glb",
+    "bytes": 3164568,
+    "sha256": "73624bd314e1c3cbe8ed070f7f1495f438fe58dca2f7913094a1c34361691813",
+    "triangles": 90275,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-34c63707dc30253-hair.glb",
+    "bytes": 2995088,
+    "sha256": "e5e953ee32754392947a7ae43de1fe428f7f1c7fbd2ef5c0878d4e88d9aef0f7",
+    "triangles": 90275,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-3772e6a4ef8e253-hair.glb",
+    "bytes": 1103284,
+    "sha256": "e84cee06815e875a609f3f56656df071c90ce783b3f198ecedfe8403d5633918",
+    "triangles": 35686,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-3c07971bc987253-hair.glb",
+    "bytes": 3380880,
+    "sha256": "cba34ece338ae8139a2d413f782b1474d389b881b5844fa90901b4d593448ef7",
+    "triangles": 111616,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-3c310fe1261f253-hair.glb",
+    "bytes": 10888464,
+    "sha256": "fa84b11011f2e764cc51e30e6b91be1680b5cf1f587e97552787db550cf99d68",
+    "triangles": 260992,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-3e99e4fdd102253-hair.glb",
+    "bytes": 549044,
+    "sha256": "dc231f01c387f1ef7ecb015cca3454625367cca1f5989f1f13502855b5c5e71a",
+    "triangles": 17704,
+    "materials": 2,
+    "primitives": 2,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-3f358f84c80e253-hair.glb",
+    "bytes": 4662696,
+    "sha256": "965d65da56a8304b98710fec9022e94fc00e1ac13b5e3f8a635ddc67fb9d69bc",
+    "triangles": 125542,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 230757
+      },
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-45d339fdd49e253-hair.glb",
+    "bytes": 10888452,
+    "sha256": "2a038d99a6d748a9b86b141c5a858b4ac1c07dd3b8256535553bd3c9520d5624",
+    "triangles": 260992,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-45efe110d885253-hair.glb",
+    "bytes": 5412840,
+    "sha256": "3d668dbad91175a3897d169835909bb66949c67303026d619fe92fa67e6f08c1",
+    "triangles": 132992,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 487204
+      },
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 308899
+      },
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-488d4d3bc975253-hair.glb",
+    "bytes": 19203736,
+    "sha256": "79cb29c0347648956a9af13a06f7874256a66551658f39168ec12711918da066",
+    "triangles": 468372,
+    "materials": 2,
+    "primitives": 2,
+    "textures": [
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 487204
+      },
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 308899
+      },
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-49fe7fe0863f253-hair.glb",
+    "bytes": 2995084,
+    "sha256": "dfe58b8c8159e4cedf73a2c9729b3d3f0d590d98af24a25e0e327ea1c41b9ed0",
+    "triangles": 90275,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-4a8e6b11dd5d253-hair.glb",
+    "bytes": 549048,
+    "sha256": "fa4f9babbd74d4b3aa9fec96073b39d08117e2b8bed9986a2014cd7d39922a35",
+    "triangles": 17704,
+    "materials": 2,
+    "primitives": 2,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-4ac4386bfc68253-hair.glb",
+    "bytes": 2720260,
+    "sha256": "5053ab21ce5b0cdc9b5156ad1dfbd3ea742fc8abc03b1e99ab957b5eceb7eaae",
+    "triangles": 95168,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-4b8642ae93f0253-hair.glb",
+    "bytes": 549048,
+    "sha256": "004c04e9187aed5ec6e12299a5607ea4e7c33f528444086ad086e931eca2f9f6",
+    "triangles": 17704,
+    "materials": 2,
+    "primitives": 2,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-4b87e7c6ca21253-hair.glb",
+    "bytes": 549048,
+    "sha256": "d691025b2c83d0c95ac8087340c2348c8bf6ec410563e321a7d9dd5c6619b964",
+    "triangles": 17704,
+    "materials": 2,
+    "primitives": 2,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-4bbcb22e4b29253-hair.glb",
+    "bytes": 5412844,
+    "sha256": "02861bef8fa1c55e671554a41f5873c3e3f15131be73b4fe881d63d838139110",
+    "triangles": 132992,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 487204
+      },
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 308899
+      },
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-4d3e317ddc33253-hair.glb",
+    "bytes": 549048,
+    "sha256": "b0e8c50f2ae831bcde4bfe3bfec5dc84b5d837a368574ad522132b0ed8431a83",
+    "triangles": 17704,
+    "materials": 2,
+    "primitives": 2,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-5acb39feef0d253-hair.glb",
+    "bytes": 10888452,
+    "sha256": "bde782daca7db8291628ec9cdd5d747374a9db600f61d8205a752bf7f6b87692",
+    "triangles": 260992,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-5b44237b6e22253-hair.glb",
+    "bytes": 1860948,
+    "sha256": "4fbb506d2e3f295e7d547977e107b95802eae5bd96259f3c1286b1342299b1fe",
+    "triangles": 53446,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-5b8fd8b78645253-hair.glb",
+    "bytes": 15217240,
+    "sha256": "d605d32a5bd66b8e4d1a368257c38b12ea630ee31d8c35069070c2b16a20173f",
+    "triangles": 433748,
+    "materials": 2,
+    "primitives": 2,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-5ce50f685e44253-hair.glb",
+    "bytes": 5412840,
+    "sha256": "c0e7d853214db3c5d29d7c4ad5d35ce2e65fd03e406b97f3e94fbfac2f0ceabd",
+    "triangles": 132992,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 487204
+      },
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 308899
+      },
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-5fcf2b980144253-hair.glb",
+    "bytes": 6339200,
+    "sha256": "dffa54fd30272145a88677a023e664afff7fffedddbafc534e044b3294d186b6",
+    "triangles": 175356,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-61ed6273d619253-hair.glb",
+    "bytes": 2704300,
+    "sha256": "6eead42815183525a91c3d7791f95d471c245a712e174b4227b05c82199e9f5f",
+    "triangles": 80028,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-66e3ad10b2f8253-hair.glb",
+    "bytes": 4662700,
+    "sha256": "85f55692e041c346c074935360794b6a16b15a24ddd9ee5c5127436fc02285bc",
+    "triangles": 125542,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 230757
+      },
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-673158f0bb53253-hair.glb",
+    "bytes": 5412828,
+    "sha256": "875a908b7248db79e489627203b8eed70480ccf4fd28aca1622d67a04576f9b4",
+    "triangles": 132992,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 487204
+      },
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 308899
+      },
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-690e5140026f253-hair.glb",
+    "bytes": 10888452,
+    "sha256": "3311df0070a2e347990a2fb07c18142faafc418600ae45c01fbe0e038a4e1c36",
+    "triangles": 260992,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-69c2cb78c415253-hair.glb",
+    "bytes": 2890140,
+    "sha256": "e8842534a419503748e8b7f8b7d52c79d5335d6af335aa136d79bf17ecd109b0",
+    "triangles": 95168,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-6ae0a500200f253-hair.glb",
+    "bytes": 549048,
+    "sha256": "2d824f12c3b622615706f019855e982915f58e5dfbb066d49d202f541ecfff2a",
+    "triangles": 17704,
+    "materials": 2,
+    "primitives": 2,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-6bb778cf5cdc253-hair.glb",
+    "bytes": 19203680,
+    "sha256": "0b75cbf115a4dd2d322b2fe2f456cf98232d1633f6c4a8a8f7c4c4c64926a84b",
+    "triangles": 468372,
+    "materials": 2,
+    "primitives": 2,
+    "textures": [
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 487204
+      },
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 308899
+      },
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-6e13555985ca253-hair.glb",
+    "bytes": 2720652,
+    "sha256": "736fff8adae4235c4a50f4f1ec96121dde3c28d13f1b1249419784c98f68214e",
+    "triangles": 95168,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-6e4438610747253-hair.glb",
+    "bytes": 549048,
+    "sha256": "aa876a1e25ec0be28628b9328c83e2a20d02dd27d184fbeb93ac3ba198912228",
+    "triangles": 17704,
+    "materials": 2,
+    "primitives": 2,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-723bb6744bb2253-hair.glb",
+    "bytes": 5412840,
+    "sha256": "bb983ee5f06b031da89c100c71e1fb5a43a3ccfd91e15f8e56ed26c3f45126bb",
+    "triangles": 132992,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 487204
+      },
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 308899
+      },
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-723f67051610253-hair.glb",
+    "bytes": 6339200,
+    "sha256": "66ea3e3cd6d8a7b4a5d7cbfd26c4b616aa0dd53e6f2fc446f69875d63eb1b24a",
+    "triangles": 175356,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-75841277d4f9253-hair.glb",
+    "bytes": 2551116,
+    "sha256": "9bfa97cfae01a8e6308e3a7330398a6ea5d474d172ebbd0fe4aa31b9608855d0",
+    "triangles": 95168,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-764dfc05363c253-hair.glb",
+    "bytes": 3095692,
+    "sha256": "8d386d17aca4093c65fdceb1bf178e0ca4c22fc100e5e2077a2734f9a1869877",
+    "triangles": 95912,
+    "materials": 9,
+    "primitives": 9,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-7715271c244e253-hair.glb",
+    "bytes": 6339200,
+    "sha256": "a500015e542b8e022fa8b67b6178d425557fffb999b517931ec3b66188a5641b",
+    "triangles": 175356,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-788f91ea5d20253-hair.glb",
+    "bytes": 19183496,
+    "sha256": "249e92d201bf067a520c4b3f8223ba4be0f4ea3daa067048e7e6ec47af48389f",
+    "triangles": 468372,
+    "materials": 2,
+    "primitives": 2,
+    "textures": [
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 487204
+      },
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 308899
+      },
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-78e22c5b71cb253-hair.glb",
+    "bytes": 1103284,
+    "sha256": "945a2fd8780ec6a2a89f79ed9af28d9cb61ee77e185a2584d7e81291dbd4b46b",
+    "triangles": 35686,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-79137781d454253-hair.glb",
+    "bytes": 549044,
+    "sha256": "2148d64ebf26cc858304c8f7a3449b7e2b9f1c30c185719204bda38d88a39874",
+    "triangles": 17704,
+    "materials": 2,
+    "primitives": 2,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-795e29d7d307253-hair.glb",
+    "bytes": 19203680,
+    "sha256": "9fa0a9eeb085b44a97f808659b1ea65d35a56701adfd9787b1236df1b13619fb",
+    "triangles": 468372,
+    "materials": 2,
+    "primitives": 2,
+    "textures": [
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 487204
+      },
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 308899
+      },
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-7b2dde444bbf253-hair.glb",
+    "bytes": 6339188,
+    "sha256": "a2546d644075f42824aa97c4517b855c3c31e1cf8545130ba477089638520382",
+    "triangles": 175356,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-7c408895751a253-hair.glb",
+    "bytes": 2550716,
+    "sha256": "13b478ebe6277377e0be398297d9d525bcaf44c66c43c94dc04292c2b0908330",
+    "triangles": 95168,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-7dde74563731253-hair.glb",
+    "bytes": 1860948,
+    "sha256": "d48632934c83db196f5a97b0ae5e09c48daff3b8b3e69f9221490bf5f699b503",
+    "triangles": 53446,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-83bda0f4629a253-hair.glb",
+    "bytes": 549048,
+    "sha256": "3e9a84e065c02f88f18a558fbbf1b22c3089b2889363e1723745afcafe57b58e",
+    "triangles": 17704,
+    "materials": 2,
+    "primitives": 2,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-84a1808c0f0d253-hair.glb",
+    "bytes": 1103284,
+    "sha256": "002fad18a0c41faff83a4316680f54f8d1d4c7b7d9c6b7d724cc0e498ec7fe30",
+    "triangles": 35686,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-86894598a4e2253-hair.glb",
+    "bytes": 3380920,
+    "sha256": "d8817ad4632e1c51d30397f392d974086fbee32fb59a79bb3da98c618d8521d6",
+    "triangles": 111616,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-872aca8d5068253-hair.glb",
+    "bytes": 10888452,
+    "sha256": "5e3fd88ae9ec99db378a30b7d2eaacbcc5c4c4cc38e82b87c6a2d2ebff3aee4f",
+    "triangles": 260992,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-87a7004c0723253-hair.glb",
+    "bytes": 549044,
+    "sha256": "29c5857ad44b2b8a221c99d122e23f054e4c9f1d83c0c15e5725304743aae726",
+    "triangles": 17704,
+    "materials": 2,
+    "primitives": 2,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-887dbbe70ee1253-hair.glb",
+    "bytes": 2704396,
+    "sha256": "7823055eee449333bdaf5deee10602c2e33dee725a1bdf180c3d6e345233b2ae",
+    "triangles": 80028,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-8b802f876ba7253-hair.glb",
+    "bytes": 3380912,
+    "sha256": "41f561e518dd1dbebb4e7f942f832b0bb275f679c6b302af56e69c2d0a727317",
+    "triangles": 111616,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-8e3577a87979253-hair.glb",
+    "bytes": 2825412,
+    "sha256": "6745eeea4a16250e493fc38d285224b5ff76093e2d86cc1ba35477b354c9d272",
+    "triangles": 90275,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-8f89c6f6601b253-hair.glb",
+    "bytes": 549044,
+    "sha256": "ea9ca3fd5194ddb5828b9fbacd56d7145c9bdf351419a1e0c376452e8190a03e",
+    "triangles": 17704,
+    "materials": 2,
+    "primitives": 2,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-8fae4cc57f24253-hair.glb",
+    "bytes": 19203680,
+    "sha256": "558a681ff034e1ad03da8b917dcd3de6a40c9b0778da449692d29230729626da",
+    "triangles": 468372,
+    "materials": 2,
+    "primitives": 2,
+    "textures": [
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 487204
+      },
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 308899
+      },
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-8fd567fb4035253-hair.glb",
+    "bytes": 3358856,
+    "sha256": "386c9cf4b21203485b5b1a90da32c9d73e420db8a6a6d2c773abc8833245403b",
+    "triangles": 74110,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 487204
+      },
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 308899
+      },
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "BLEND"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-96ada1a2b61a253-hair.glb",
+    "bytes": 10888440,
+    "sha256": "71b494905eea407e5a8d20148fd0205c0cdfeb60d8f8017a03e1905e02a1f28a",
+    "triangles": 260992,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-977ab3b6ca6d253-hair.glb",
+    "bytes": 549048,
+    "sha256": "95940f826e9f731c1b1e16542e39feea6613efe3edc2c91bd1a77de5869d8c17",
+    "triangles": 17704,
+    "materials": 2,
+    "primitives": 2,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-988428c4273d253-hair.glb",
+    "bytes": 3380924,
+    "sha256": "28c218fcb952c9d05238b04c8fefb7b085be9e33deeb45c0fcc33b207587af0a",
+    "triangles": 111616,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-98ba5dd4d0c0253-hair.glb",
+    "bytes": 15217296,
+    "sha256": "cc318c39111133311c6a033b06b9b763c75cad6529f19ad463e68ff223a04748",
+    "triangles": 433748,
+    "materials": 2,
+    "primitives": 2,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-9e260947a864253-hair.glb",
+    "bytes": 3358856,
+    "sha256": "f506b5a074ca1bc2b225e7306d2c6a3485218de6b8b761d5d24329c57c0d5d02",
+    "triangles": 74110,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 487204
+      },
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 308899
+      },
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "BLEND"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-9e580043f3ec253-hair.glb",
+    "bytes": 2995032,
+    "sha256": "d55e83ed15b09761eb647a2390e27b667c7aec4abb579ec5c8845e7670ade43e",
+    "triangles": 90275,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-9e8a23a746c8253-hair.glb",
+    "bytes": 1103284,
+    "sha256": "002fad18a0c41faff83a4316680f54f8d1d4c7b7d9c6b7d724cc0e498ec7fe30",
+    "triangles": 35686,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-a0681f1f4abd253-hair.glb",
+    "bytes": 10888464,
+    "sha256": "57822881125f611bee057b656cc0abb0eea2f2189389d54cb7d0eb35add1e62f",
+    "triangles": 260992,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-a17a6822dc38253-hair.glb",
+    "bytes": 1103284,
+    "sha256": "fb3f715ce1c6a77f63c600c830d6129fbbb1c37a8c888dc38d5e08c587a41b8e",
+    "triangles": 35686,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-a4a6b3562a90253-hair.glb",
+    "bytes": 549048,
+    "sha256": "6a9d8f9ce956ab2ee93eeaaa2eec762c5fdcce6fb51ccdfa79835fb7e134bfd0",
+    "triangles": 17704,
+    "materials": 2,
+    "primitives": 2,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-a54081eb2144253-hair.glb",
+    "bytes": 1860948,
+    "sha256": "03beea4cf625f1710e8611a29571b2f624d49885e16b7f0663d6365a2285f472",
+    "triangles": 53446,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-a6ae87496c76253-hair.glb",
+    "bytes": 10888464,
+    "sha256": "34fee1a63d6298f0a6a5aa20df4184282ad58db0ebdf2ec7d2676cc5635d82c5",
+    "triangles": 260992,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-a8a5eb3fef03253-hair.glb",
+    "bytes": 2890136,
+    "sha256": "477578852d1ab5ff8b9f4825ec92863f59696c2a60fcacddaf0c69c060790c9d",
+    "triangles": 95168,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-aa1585a6a48d253-hair.glb",
+    "bytes": 549048,
+    "sha256": "c06a7051ff8b259ffbab701736680a966f16faf0ac87edb79c8193448d4a25a4",
+    "triangles": 17704,
+    "materials": 2,
+    "primitives": 2,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-aa6c2561f5b1253-hair.glb",
+    "bytes": 6339200,
+    "sha256": "c07099e62dae7a21be4cbef47085bdfa5785e3b0e02e530ec3b012bb0bb65b91",
+    "triangles": 175356,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-ac8048e2a6a2253-hair.glb",
+    "bytes": 2890140,
+    "sha256": "e642760ecf98ba884359246658cc3c485752fe54acc70eeb418f4929b853da62",
+    "triangles": 95168,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-ae1d5543e798253-hair.glb",
+    "bytes": 2995088,
+    "sha256": "001c920cae16b47abf61483fc5cbd13a56be9b9a58c31ec746869cce818cf8c6",
+    "triangles": 90275,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-b0033e6ba995253-hair.glb",
+    "bytes": 3358860,
+    "sha256": "f8d248564c9e5ff37c0f6c9ca59e76cb271f6a0b43c0cb279e4cc585f9d952fc",
+    "triangles": 74110,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 487204
+      },
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 308899
+      },
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "BLEND"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-b977d45a968c253-hair.glb",
+    "bytes": 1103280,
+    "sha256": "480bbfdff2277bd3eed01e0e6723320209c5a40775e703792855888f09379138",
+    "triangles": 35686,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-ba9c7ef5e7e8253-hair.glb",
+    "bytes": 2550752,
+    "sha256": "90688dd7e10295e25dcc3b0e79364f439b80d6fa82211fabdfadf418e15850a2",
+    "triangles": 95168,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-c23de5bf589b253-hair.glb",
+    "bytes": 3358856,
+    "sha256": "e1f98d680eb9ad91bc95edb251ec6b02896fd6e49909f5a5af58cc9ef07c0af5",
+    "triangles": 74110,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 487204
+      },
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 308899
+      },
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "BLEND"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-c2a5ef5d558c253-hair.glb",
+    "bytes": 5412840,
+    "sha256": "d91aa76087dd03bc286ba01fcabbaaee7888027e41e92729a64cc01bc1e926c6",
+    "triangles": 132992,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 487204
+      },
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 308899
+      },
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-c4b43c311630253-hair.glb",
+    "bytes": 1860948,
+    "sha256": "933db5a1ed4b0ea74319c1556f2a59fc504d29047750a829d9444fda21c2b965",
+    "triangles": 53446,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-c7cdcd9a4242253-hair.glb",
+    "bytes": 549048,
+    "sha256": "c6e81f0fb3ba4e8277af1712f7debceb04f4dd0b91a0678200be90903cb5f5ce",
+    "triangles": 17704,
+    "materials": 2,
+    "primitives": 2,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-cb743c1a9a75253-hair.glb",
+    "bytes": 3358856,
+    "sha256": "e9b005669618164205546614079d1245c7523241eb026e28f4d6c65673e0157a",
+    "triangles": 74110,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 487204
+      },
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 308899
+      },
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "BLEND"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-ce08f81a1451253-hair.glb",
+    "bytes": 10888452,
+    "sha256": "427ee368993ba1b80f7d1d281b4f336fe604385c074aa4650d5102c6a6be1ab8",
+    "triangles": 260992,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-d12db29197b1253-hair.glb",
+    "bytes": 1103276,
+    "sha256": "6aa77355a126788d411f6ccd88560e3a9ca279f2b022e25d6d1476632fbf44a6",
+    "triangles": 35686,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-d146f7dcaade253-hair.glb",
+    "bytes": 4662696,
+    "sha256": "142e81491852c3358a79b772166c8ebc7fc505423dc06fc3e4914cabd8739454",
+    "triangles": 125542,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 230757
+      },
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-d250cf447480253-hair.glb",
+    "bytes": 10888464,
+    "sha256": "b7a1a606339f7bdcc43e3a8fa5d70a6c9b3129bb392301444e43da27269b6b77",
+    "triangles": 260992,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-d28395d933ab253-hair.glb",
+    "bytes": 10888464,
+    "sha256": "97dd66f6595199d65c4e71cd5acfda37af2ff85c69628f59e7129e8fb03cead1",
+    "triangles": 260992,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-d300b2738454253-hair.glb",
+    "bytes": 19203676,
+    "sha256": "6e3456cbea12b9c1dd78acb37ee212ac4a3d545453bda081354a0e5d86e5180a",
+    "triangles": 468372,
+    "materials": 2,
+    "primitives": 2,
+    "textures": [
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 487204
+      },
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 308899
+      },
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-d348a3fe28a1253-hair.glb",
+    "bytes": 549048,
+    "sha256": "34792cfa79a3edbb08248585c98d963cbf112f4d4d2ef288dadc8a491dcec293",
+    "triangles": 17704,
+    "materials": 2,
+    "primitives": 2,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-d5e730e4d5aa253-hair.glb",
+    "bytes": 5412840,
+    "sha256": "a9d4e084fcfd1a577d60e1a3a97ac2fa1834726d63ee385e04f07d5a4a857f79",
+    "triangles": 132992,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 487204
+      },
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 308899
+      },
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-d62635bb6817253-hair.glb",
+    "bytes": 2890132,
+    "sha256": "cc3d9c4cb08a4045165811873d3b6faf6b78dcbb276dcef701fe5c93be9deef6",
+    "triangles": 95168,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-daeda9edd0b0253-hair.glb",
+    "bytes": 2550756,
+    "sha256": "6789028b4c2b1d0989021731fc9276cb6e7df46d29dcae90b9bd20d74ffff7c6",
+    "triangles": 95168,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-df79dd21012d253-hair.glb",
+    "bytes": 19204460,
+    "sha256": "da4e8b9e26e032178f610e4cfb13983870615f8b1f310db46b8ef7bce5cf6773",
+    "triangles": 468372,
+    "materials": 2,
+    "primitives": 2,
+    "textures": [
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 487204
+      },
+      {
+        "size": [
+          1024,
+          256
+        ],
+        "bytes": 308899
+      },
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-e458574e0c9d253-hair.glb",
+    "bytes": 2551088,
+    "sha256": "dd301b73793c980a6fd7807c95c806ff3d6e64432980c0c1a6867aa4cffedbb7",
+    "triangles": 95168,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-e68e7167ff91253-hair.glb",
+    "bytes": 15217300,
+    "sha256": "8a0a0d4820b93c4bed17e5db7a0c6a7426da6e343c672ba57c745a20a7c2d30b",
+    "triangles": 433748,
+    "materials": 2,
+    "primitives": 2,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-e7682a1e78ab253-hair.glb",
+    "bytes": 3228680,
+    "sha256": "0d49cc5014903a3f5a0db7a2e782a16e2b862a18e8efdaefbec4caab95265f27",
+    "triangles": 95912,
+    "materials": 6,
+    "primitives": 6,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-eb8cb57c6eb5253-hair.glb",
+    "bytes": 4662696,
+    "sha256": "524e28326826198b9273454e13fe879552f43a70f9d7944778f4ff4c5d443a48",
+    "triangles": 125542,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 230757
+      },
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-efedeeb8b7f5253-hair.glb",
+    "bytes": 4662700,
+    "sha256": "f0252206ab0d9ecc046646a23c23d0f0be62bd7898f7e3613557171cc23501d2",
+    "triangles": 125542,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 230757
+      },
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-f608a9380c9f253-hair.glb",
+    "bytes": 10888448,
+    "sha256": "bb642c85f129d7dffb88e104306f187486640921e3737774ec33a5a51a02a43a",
+    "triangles": 260992,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-f68f257ad765253-hair.glb",
+    "bytes": 15217248,
+    "sha256": "7d828bd86d7c4c2f4281cb92bbcc74d9e0200a1cdafb4266945e5eb5e6b32abf",
+    "triangles": 433748,
+    "materials": 2,
+    "primitives": 2,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-f8f808efe737253-hair.glb",
+    "bytes": 2551120,
+    "sha256": "05b5e36edc15e31ee8ef027f1f846055fdb4addb7b648ba0d1b5eb707d5c75df",
+    "triangles": 95168,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-f93f70ff82d5253-hair.glb",
+    "bytes": 2995084,
+    "sha256": "f7492dd5033b16a7a5dead52534414fb4767362d49d494b4cd84c2a52cc5909c",
+    "triangles": 90275,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  },
+  {
+    "path": "components/Ombre-fdc2eea04f66253-hair.glb",
+    "bytes": 10888452,
+    "sha256": "7f22a50b2a5e8f8218efc5de996233191c71556d882dca644fcd073da13f853e",
+    "triangles": 260992,
+    "materials": 1,
+    "primitives": 1,
+    "textures": [
+      {
+        "size": [
+          128,
+          1024
+        ],
+        "bytes": 22832
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": []
+  }
+]
