@@ -16,5 +16,17 @@
   "technical": "technical256.json",
   "review": "review256.json",
   "profile_contract": "No profile-byte assignments or product-repository changes.",
-  "qualification": "Artwork fidelity exports. Native/phone rendering and performance acceptance remain separate."
+  "qualification": "Artwork fidelity exports. Native/phone rendering and performance acceptance remain separate.",
+  "asset_delivery": {
+    "art_commit": "a1a470b3618b796e87f4952f689a1a6493f0f089",
+    "large_asset_base": "https://raw.githubusercontent.com/recdpz/ravedio-avatar-previews/a1a470b3618b796e87f4952f689a1a6493f0f089/256/",
+    "binary_extensions": [
+      ".glb",
+      ".blend",
+      ".zip",
+      ".png",
+      ".exr"
+    ],
+    "note": "Resolve binary paths against this base, including ../ references. They are preserved unchanged in Git and excluded from the Pages artifact. JSON, code and JPG/WebP boards remain on Pages. The review UI resolves these URLs automatically. See ../HOSTING.md."
+  }
 }
