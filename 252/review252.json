@@ -1,0 +1,26 @@
+{
+  "revision": 252,
+  "review": "self",
+  "owner_approval": "New hair and Highlights await review;251 masculine artwork was rejected.",
+  "scope": "Seven masculine cuts, feminine Straight root/temple cleanup,56 covered fits, re-seated sprout clips and refined Highlights across the catalogue.",
+  "passes": [
+    "Private source angle pilots; rejected sparse/brick loc roots, detached front arches, repeated ring curls, spike tips and floating curl pieces.",
+    "Fresh final GLB browser rotation: all eight corrected bare styles, each of their seven headwear fits, recolors and four skin tones.",
+    "Texture and root corrections after enlarged browser review: dense close-cut normal/pigment detail, grazing internal Straight faces removed, authored lock UVs and flow-aligned blended Highlights."
+  ],
+  "protected": "Retained body, face, wardrobe, four skin tones, fixed studio, shared transforms, selected ponytail/cap and accepted pashmina/headgear. Compare251 geometry checks protect anatomy, face and wardrobe.",
+  "browser_checks": 109,
+  "covered_fits": 56,
+  "limits": "Artwork correction candidate; technical checks are not owner art approval. Native renderer, transparency composition and phone workload performance remain separate qualifications.",
+  "final_edge_and_covered_checks": 46,
+  "final_rooted_curl_checks": 8,
+  "retained_style_color_checks": 4,
+  "final_geometry_cleanup": "Removed unused buffer regions, accessors and unreferenced material definitions only; all attribute/index values verified byte-identical. No quantization or geometry simplification.",
+  "last_art_corrections": [
+    "Buzz front/side density-span continuity removes forehead crease lines",
+    "Smooth front and temple hems on Flow/Middle part; varied tips reserved for sides/back",
+    "Rooted Curly top clumps merged into a sculpt with no exposed front backing strip",
+    "Compact Afro coil volume with a broader root transition",
+    "Short consistent locs with gathered root channels and rounded ends"
+  ]
+}

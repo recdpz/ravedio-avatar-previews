@@ -1,0 +1,1666 @@
+[
+  {
+    "source": "../208/Feminine-hair.glb",
+    "path": "components/Highlights-0d5b40b8b338252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 2458340
+  },
+  {
+    "source": "../208/Masculine-hair.glb",
+    "path": "components/Highlights-05e11d5b8a1c252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 2857832
+  },
+  {
+    "source": "../224/components/Feminine-cap-hair.glb",
+    "path": "components/Highlights-16ae3440c514252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 3740056
+  },
+  {
+    "source": "../224/components/Feminine-uncovered-hair.glb",
+    "path": "components/Highlights-764dfc05363c252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 3740048
+  },
+  {
+    "source": "../227/components/Feminine-box-braids-hair.glb",
+    "path": "components/Highlights-5b8fd8b78645252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 15250372
+  },
+  {
+    "source": "../227/components/Feminine-curls-hair.glb",
+    "path": "components/Highlights-e458574e0c9d252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 2585480
+  },
+  {
+    "source": "../227/components/Feminine-side-sweep-hair.glb",
+    "path": "components/Highlights-0aad4aa9bf81252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 2585496
+  },
+  {
+    "source": "../227/components/Feminine-space-buns-hair.glb",
+    "path": "components/Highlights-1196bdd12c81252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 1894024
+  },
+  {
+    "source": "../235/components/Feminine-bob-closed-hair.glb",
+    "path": "components/Highlights-7c408895751a252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 2585108
+  },
+  {
+    "source": "../235/components/Feminine-box-braids-closed-hair.glb",
+    "path": "components/Highlights-f68f257ad765252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 15250388
+  },
+  {
+    "source": "../235/components/Feminine-curls-closed-hair.glb",
+    "path": "components/Highlights-f8f808efe737252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 2585512
+  },
+  {
+    "source": "../235/components/Feminine-ponytail-closed-hair.glb",
+    "path": "components/Highlights-61ed6273d619252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 2999384
+  },
+  {
+    "source": "../235/components/Feminine-side-sweep-closed-hair.glb",
+    "path": "components/Highlights-75841277d4f9252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 2585512
+  },
+  {
+    "source": "../235/components/Masculine-sidepart-closed-hair.glb",
+    "path": "components/Highlights-3c07971bc987252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 3415272
+  },
+  {
+    "source": "../250/components/Feminine-bob-open-pashmina250-hair.glb",
+    "path": "components/Highlights-4ac4386bfc68252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 2754652
+  },
+  {
+    "source": "../250/components/Feminine-box-braids-open-pashmina250-hair.glb",
+    "path": "components/Highlights-98ba5dd4d0c0252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 15250432
+  },
+  {
+    "source": "../250/components/Feminine-curls-open-pashmina250-hair.glb",
+    "path": "components/Highlights-6e13555985ca252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 2755048
+  },
+  {
+    "source": "../250/components/Feminine-side-sweep-open-pashmina250-hair.glb",
+    "path": "components/Highlights-d62635bb6817252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 2924524
+  },
+  {
+    "source": "../250/components/Masculine-sidepart-tank-pashmina250-hair.glb",
+    "path": "components/Highlights-988428c4273d252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 3415316
+  },
+  {
+    "source": "../251/components/Feminine-bob-bucket251-hair.glb",
+    "path": "components/Highlights-daeda9edd0b0252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 2585148
+  },
+  {
+    "source": "../251/components/Feminine-bob-headband251-hair.glb",
+    "path": "components/Highlights-ba9c7ef5e7e8252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 2585144
+  },
+  {
+    "source": "../251/components/Feminine-box-braids-bucket251-hair.glb",
+    "path": "components/Highlights-301773003718252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 15250436
+  },
+  {
+    "source": "../251/components/Feminine-box-braids-headband251-hair.glb",
+    "path": "components/Highlights-e68e7167ff91252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 15250436
+  },
+  {
+    "source": "../251/components/Feminine-curls-bucket251-hair.glb",
+    "path": "components/Highlights-ac8048e2a6a2252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 2924532
+  },
+  {
+    "source": "../251/components/Feminine-curls-headband251-hair.glb",
+    "path": "components/Highlights-0ff990406713252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 2755040
+  },
+  {
+    "source": "../251/components/Feminine-ponytail-beanie251-hair.glb",
+    "path": "components/Highlights-20f16ecb6b36252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 2999488
+  },
+  {
+    "source": "../251/components/Feminine-ponytail-bucket251-hair.glb",
+    "path": "components/Highlights-010e6871b0ff252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 2999484
+  },
+  {
+    "source": "../251/components/Feminine-ponytail-headband251-hair.glb",
+    "path": "components/Highlights-887dbbe70ee1252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 2999484
+  },
+  {
+    "source": "../251/components/Feminine-ponytail-pashmina251-hair.glb",
+    "path": "components/Highlights-e7682a1e78ab252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 3524636
+  },
+  {
+    "source": "../251/components/Feminine-side-sweep-bucket251-hair.glb",
+    "path": "components/Highlights-a8a5eb3fef03252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 2924528
+  },
+  {
+    "source": "../251/components/Feminine-side-sweep-headband251-hair.glb",
+    "path": "components/Highlights-69c2cb78c415252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 2924532
+  },
+  {
+    "source": "../251/components/Feminine-space-buns-beanie251-hair.glb",
+    "path": "components/Highlights-7dde74563731252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 1894088
+  },
+  {
+    "source": "../251/components/Feminine-space-buns-bucket251-hair.glb",
+    "path": "components/Highlights-c4b43c311630252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 1894084
+  },
+  {
+    "source": "../251/components/Feminine-space-buns-cap251-hair.glb",
+    "path": "components/Highlights-13d7c995fe0c252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 1894088
+  },
+  {
+    "source": "../251/components/Feminine-space-buns-cowboy251-hair.glb",
+    "path": "components/Highlights-121a504bc814252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 1894088
+  },
+  {
+    "source": "../251/components/Feminine-space-buns-ears251-hair.glb",
+    "path": "components/Highlights-5b44237b6e22252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 1894088
+  },
+  {
+    "source": "../251/components/Feminine-space-buns-headband251-hair.glb",
+    "path": "components/Highlights-a54081eb2144252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 1894088
+  },
+  {
+    "source": "../251/components/Feminine-space-buns-pashmina251-hair.glb",
+    "path": "components/Highlights-1da0a6b29b01252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 1894088
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-bandeau-lengths251.glb",
+    "path": "components/Highlights-4d3e317ddc33252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 582180
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-bandeau-pashmina-lengths251.glb",
+    "path": "components/Highlights-4b87e7c6ca21252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 582180
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-beanie251-hair.glb",
+    "path": "components/Highlights-a17a6822dc38252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 1136420
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-bucket251-hair.glb",
+    "path": "components/Highlights-2040dfdb3eb7252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 1136416
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-cap251-hair.glb",
+    "path": "components/Highlights-3772e6a4ef8e252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 1136420
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-cowboy251-hair.glb",
+    "path": "components/Highlights-b977d45a968c252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 1136420
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-ears251-hair.glb",
+    "path": "components/Highlights-84a1808c0f0d252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 1136420
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-headband251-hair.glb",
+    "path": "components/Highlights-78e22c5b71cb252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 1136420
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-jersey-lengths251.glb",
+    "path": "components/Highlights-83bda0f4629a252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 582180
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-jersey-pashmina-lengths251.glb",
+    "path": "components/Highlights-c7cdcd9a4242252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 582184
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-open-lengths251.glb",
+    "path": "components/Highlights-aa1585a6a48d252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 582184
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-open-pashmina-lengths251.glb",
+    "path": "components/Highlights-977ab3b6ca6d252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 582180
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-pashmina251-hair.glb",
+    "path": "components/Highlights-9e8a23a746c8252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 1136420
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-roots251-hair.glb",
+    "path": "components/Highlights-d12db29197b1252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 1136416
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-strappy-lengths251.glb",
+    "path": "components/Highlights-4b8642ae93f0252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 582180
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-strappy-pashmina-lengths251.glb",
+    "path": "components/Highlights-a4a6b3562a90252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 582180
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-sweatshirt-lengths251.glb",
+    "path": "components/Highlights-4a8e6b11dd5d252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 582180
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-sweatshirt-pashmina-lengths251.glb",
+    "path": "components/Highlights-8f89c6f6601b252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 582180
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-tank-lengths251.glb",
+    "path": "components/Highlights-87a7004c0723252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 582180
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-tank-pashmina-lengths251.glb",
+    "path": "components/Highlights-d348a3fe28a1252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 582184
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-triangle-lengths251.glb",
+    "path": "components/Highlights-6ae0a500200f252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 582180
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-triangle-pashmina-lengths251.glb",
+    "path": "components/Highlights-3e99e4fdd102252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 582180
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-tshirt-lengths251.glb",
+    "path": "components/Highlights-6e4438610747252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 582184
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-tshirt-pashmina-lengths251.glb",
+    "path": "components/Highlights-79137781d454252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 582180
+  },
+  {
+    "source": "../251/components/Masculine-sidepart-bucket251-hair.glb",
+    "path": "components/Highlights-8b802f876ba7252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 3415304
+  },
+  {
+    "source": "../251/components/Masculine-sidepart-headband251-hair.glb",
+    "path": "components/Highlights-86894598a4e2252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 3415308
+  },
+  {
+    "source": "components/Feminine-straight-beanie252-hair.glb",
+    "path": "components/Highlights-ae1d5543e798252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 3029480
+  },
+  {
+    "source": "components/Feminine-straight-bucket252-hair.glb",
+    "path": "components/Highlights-34017b98a9bc252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 3198960
+  },
+  {
+    "source": "components/Feminine-straight-cap252-hair.glb",
+    "path": "components/Highlights-49fe7fe0863f252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 3029476
+  },
+  {
+    "source": "components/Feminine-straight-cowboy252-hair.glb",
+    "path": "components/Highlights-f93f70ff82d5252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 3029476
+  },
+  {
+    "source": "components/Feminine-straight-ears252-hair.glb",
+    "path": "components/Highlights-9e580043f3ec252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 3029424
+  },
+  {
+    "source": "components/Feminine-straight-hair252.glb",
+    "path": "components/Highlights-8e3577a87979252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 2859804
+  },
+  {
+    "source": "components/Feminine-straight-headband252-hair.glb",
+    "path": "components/Highlights-34c63707dc30252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 3029480
+  },
+  {
+    "source": "components/Feminine-straight-pashmina252-hair.glb",
+    "path": "components/Highlights-05361faa6984252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 3029476
+  },
+  {
+    "source": "components/Masculine-taper-beanie252-hair.glb",
+    "path": "components/Highlights-4bbcb22e4b29252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 5695752
+  },
+  {
+    "source": "components/Masculine-taper-bucket252-hair.glb",
+    "path": "components/Highlights-c2a5ef5d558c252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 5695748
+  },
+  {
+    "source": "components/Masculine-taper-cap252-hair.glb",
+    "path": "components/Highlights-5ce50f685e44252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 5695748
+  },
+  {
+    "source": "components/Masculine-taper-cowboy252-hair.glb",
+    "path": "components/Highlights-45efe110d885252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 5695748
+  },
+  {
+    "source": "components/Masculine-taper-ears252-hair.glb",
+    "path": "components/Highlights-723bb6744bb2252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 5695748
+  },
+  {
+    "source": "components/Masculine-taper-hair252.glb",
+    "path": "components/Highlights-673158f0bb53252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 6318148
+  },
+  {
+    "source": "components/Masculine-taper-headband252-hair.glb",
+    "path": "components/Highlights-253605f3c624252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 5695752
+  },
+  {
+    "source": "components/Masculine-taper-pashmina252-hair.glb",
+    "path": "components/Highlights-d5e730e4d5aa252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 5695748
+  },
+  {
+    "source": "components/Masculine-afro-beanie252-hair.glb",
+    "path": "components/Highlights-7715271c244e252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 6372448
+  },
+  {
+    "source": "components/Masculine-afro-bucket252-hair.glb",
+    "path": "components/Highlights-1712bc200eb3252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 6372448
+  },
+  {
+    "source": "components/Masculine-afro-cap252-hair.glb",
+    "path": "components/Highlights-723f67051610252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 6372448
+  },
+  {
+    "source": "components/Masculine-afro-cowboy252-hair.glb",
+    "path": "components/Highlights-2d337a1d5c56252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 6372448
+  },
+  {
+    "source": "components/Masculine-afro-ears252-hair.glb",
+    "path": "components/Highlights-aa6c2561f5b1252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 6372448
+  },
+  {
+    "source": "components/Masculine-afro-hair252.glb",
+    "path": "components/Highlights-7b2dde444bbf252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 6372436
+  },
+  {
+    "source": "components/Masculine-afro-headband252-hair.glb",
+    "path": "components/Highlights-5fcf2b980144252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 6372448
+  },
+  {
+    "source": "components/Masculine-afro-pashmina252-hair.glb",
+    "path": "components/Highlights-03ca3a563e69252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 6372448
+  },
+  {
+    "source": "components/Masculine-buzz-beanie252-hair.glb",
+    "path": "components/Highlights-c23de5bf589b252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 3691104
+  },
+  {
+    "source": "components/Masculine-buzz-bucket252-hair.glb",
+    "path": "components/Highlights-13162f702c8e252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 3691104
+  },
+  {
+    "source": "components/Masculine-buzz-cap252-hair.glb",
+    "path": "components/Highlights-9e260947a864252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 3691104
+  },
+  {
+    "source": "components/Masculine-buzz-cowboy252-hair.glb",
+    "path": "components/Highlights-13c2635cf274252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 3691104
+  },
+  {
+    "source": "components/Masculine-buzz-ears252-hair.glb",
+    "path": "components/Highlights-8fd567fb4035252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 3691104
+  },
+  {
+    "source": "components/Masculine-buzz-hair252.glb",
+    "path": "components/Highlights-b0033e6ba995252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 4438300
+  },
+  {
+    "source": "components/Masculine-buzz-headband252-hair.glb",
+    "path": "components/Highlights-cb743c1a9a75252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 3691104
+  },
+  {
+    "source": "components/Masculine-buzz-pashmina252-hair.glb",
+    "path": "components/Highlights-2ba9be9e11f8252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 3691104
+  },
+  {
+    "source": "components/Masculine-flow-beanie252-hair.glb",
+    "path": "components/Highlights-3270370b013b252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 10921616
+  },
+  {
+    "source": "components/Masculine-flow-bucket252-hair.glb",
+    "path": "components/Highlights-ce08f81a1451252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 10921616
+  },
+  {
+    "source": "components/Masculine-flow-cap252-hair.glb",
+    "path": "components/Highlights-690e5140026f252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 10921616
+  },
+  {
+    "source": "components/Masculine-flow-cowboy252-hair.glb",
+    "path": "components/Highlights-872aca8d5068252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 10921616
+  },
+  {
+    "source": "components/Masculine-flow-ears252-hair.glb",
+    "path": "components/Highlights-5acb39feef0d252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 10921616
+  },
+  {
+    "source": "components/Masculine-flow-hair252.glb",
+    "path": "components/Highlights-96ada1a2b61a252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 10921604
+  },
+  {
+    "source": "components/Masculine-flow-headband252-hair.glb",
+    "path": "components/Highlights-45d339fdd49e252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 10921616
+  },
+  {
+    "source": "components/Masculine-flow-pashmina252-hair.glb",
+    "path": "components/Highlights-f608a9380c9f252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 10921612
+  },
+  {
+    "source": "components/Masculine-locs-beanie252-hair.glb",
+    "path": "components/Highlights-124664157171252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 4695912
+  },
+  {
+    "source": "components/Masculine-locs-bucket252-hair.glb",
+    "path": "components/Highlights-efedeeb8b7f5252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 4695916
+  },
+  {
+    "source": "components/Masculine-locs-cap252-hair.glb",
+    "path": "components/Highlights-66e3ad10b2f8252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 4695916
+  },
+  {
+    "source": "components/Masculine-locs-cowboy252-hair.glb",
+    "path": "components/Highlights-3f358f84c80e252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 4695912
+  },
+  {
+    "source": "components/Masculine-locs-ears252-hair.glb",
+    "path": "components/Highlights-eb8cb57c6eb5252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 4695912
+  },
+  {
+    "source": "components/Masculine-locs-hair252.glb",
+    "path": "components/Highlights-d146f7dcaade252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 4695912
+  },
+  {
+    "source": "components/Masculine-locs-headband252-hair.glb",
+    "path": "components/Highlights-25ce2f064639252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 4695912
+  },
+  {
+    "source": "components/Masculine-locs-pashmina252-hair.glb",
+    "path": "components/Highlights-1ee73f66b1e4252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 4695912
+  },
+  {
+    "source": "components/Masculine-middle-part-beanie252-hair.glb",
+    "path": "components/Highlights-3c310fe1261f252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 10921628
+  },
+  {
+    "source": "components/Masculine-middle-part-bucket252-hair.glb",
+    "path": "components/Highlights-22ff1a42438c252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 10921632
+  },
+  {
+    "source": "components/Masculine-middle-part-cap252-hair.glb",
+    "path": "components/Highlights-30907b967027252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 10921628
+  },
+  {
+    "source": "components/Masculine-middle-part-cowboy252-hair.glb",
+    "path": "components/Highlights-a0681f1f4abd252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 10921628
+  },
+  {
+    "source": "components/Masculine-middle-part-ears252-hair.glb",
+    "path": "components/Highlights-a6ae87496c76252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 10921628
+  },
+  {
+    "source": "components/Masculine-middle-part-hair252.glb",
+    "path": "components/Highlights-fdc2eea04f66252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 10921616
+  },
+  {
+    "source": "components/Masculine-middle-part-headband252-hair.glb",
+    "path": "components/Highlights-d250cf447480252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 10921628
+  },
+  {
+    "source": "components/Masculine-middle-part-pashmina252-hair.glb",
+    "path": "components/Highlights-d28395d933ab252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 10921628
+  },
+  {
+    "source": "components/Masculine-curly-top-beanie252-hair.glb",
+    "path": "components/Highlights-6bb778cf5cdc252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 19489196
+  },
+  {
+    "source": "components/Masculine-curly-top-bucket252-hair.glb",
+    "path": "components/Highlights-488d4d3bc975252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 19489256
+  },
+  {
+    "source": "components/Masculine-curly-top-cap252-hair.glb",
+    "path": "components/Highlights-df79dd21012d252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 19490088
+  },
+  {
+    "source": "components/Masculine-curly-top-cowboy252-hair.glb",
+    "path": "components/Highlights-28e74ff87962252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 19489516
+  },
+  {
+    "source": "components/Masculine-curly-top-ears252-hair.glb",
+    "path": "components/Highlights-795e29d7d307252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 19489196
+  },
+  {
+    "source": "components/Masculine-curly-top-hair252.glb",
+    "path": "components/Highlights-788f91ea5d20252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 20088544
+  },
+  {
+    "source": "components/Masculine-curly-top-headband252-hair.glb",
+    "path": "components/Highlights-8fae4cc57f24252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 19489196
+  },
+  {
+    "source": "components/Masculine-curly-top-pashmina252-hair.glb",
+    "path": "components/Highlights-d300b2738454252-hair.glb",
+    "position_buffers_unchanged": true,
+    "alpha_preserved": true,
+    "base_color_uv": 0,
+    "preserved_texture_coordinates": "previous sets moved up one; existing maps updated",
+    "atlas": [
+      1024,
+      512
+    ],
+    "bytes": 19489192
+  }
+]

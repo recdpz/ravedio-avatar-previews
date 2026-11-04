@@ -1,0 +1,26 @@
+{
+  "checks": [
+    [
+      "Masculine",
+      "sidepart",
+      "default"
+    ],
+    [
+      "Masculine",
+      "sidepart",
+      "highlights"
+    ],
+    [
+      "Feminine",
+      "box-braids",
+      "default"
+    ],
+    [
+      "Feminine",
+      "box-braids",
+      "highlights"
+    ]
+  ],
+  "errors": [],
+  "http": []
+}
