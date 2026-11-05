@@ -29,5 +29,7 @@
   "depth": "Color and depth regenerated together from final geometry, same camera, at120/512. Previous depth fixtures are not reused for these changed assemblies.",
   "blender_transfer": "Packed scenes retain the reference studio and color management. Procedural bump/normal effects, environment, view transform and some shader responses require explicit native matching; GLB alone is not the complete Blender appearance.",
   "qualification": "Source/export validation; native renderer and phone performance remain separate.",
-  "comparison": "Compare260 keeps matching prior hair and the other selected components, including separate Twin braid lengths."
+  "comparison": "Compare260 keeps matching prior hair and the other selected components, including separate Twin braid lengths.",
+  "immutable_binary_base": "https://raw.githubusercontent.com/recdpz/ravedio-avatar-previews/4314e9d3ae431317db81ee64d673e82df7d4a147/261/",
+  "art_commit": "4314e9d3ae431317db81ee64d673e82df7d4a147"
 }
