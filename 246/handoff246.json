@@ -1,0 +1,27 @@
+{
+  "revision": 246,
+  "url": "https://recdpz.github.io/ravedio-avatar-previews/246/",
+  "status": "Owner-review clean upper fabric strips",
+  "baseline_commit": "f85f7cef1797fa09d666b80dc52099b2ac3a894c",
+  "scope": "Rebuild distorted high crossing as clean fabric strips at accepted244 placement",
+  "changes": [
+    "Replace inherited twisted rows with controlled-width ruled strips and smoothly varying frames.",
+    "Fit depth against major forms without radially warping the strip edges; keep the upper edge below the chin.",
+    "Reorient the inner layer to maintain coherent cloth thickness instead of carrying the knot offsets forward."
+  ],
+  "protected": "245 hood/neck wrap and all other objects/materials/studio; free ends and fringe after t0.68 remain exact245, retaining accepted244 placement.",
+  "coordinates": "Shared coordinates unchanged; Blender Z-up to glTF Y-up only. No independent recentering/resizing.",
+  "selection": "Independent feature/color controls retained. pashminaTops[build][top] selects authored fit. Compare245 changes only the headgear for the same outfit and camera.",
+  "assemblies": {
+    "Feminine": "assemblies/Feminine-pashmina246.blend",
+    "Masculine": "assemblies/Masculine-pashmina246.blend"
+  },
+  "reference_framing": "120 and512 portraits share camera transform and orthographic scale; exact camera/studio settings in fixtures246.json.",
+  "materials": "Retained woven texture, opaque cloth and0.12 sheen mapping. Ordinary uncompressed GLBs.",
+  "portable_sources": "Two packed assembly scenes; ribbons246.py starts from preserved245 per-top sources with235/224 helpers.",
+  "qualification": "No native/depth-composition/phone-performance qualification; no profile-byte or product-repository changes.",
+  "technical": "technical246.json",
+  "fixtures": "fixtures246.json",
+  "review": "review246.json",
+  "placement_approval": "approval244.json"
+}

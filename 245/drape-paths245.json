@@ -1,0 +1,580 @@
+{
+  "Feminine": {
+    "open": {
+      "source": "E:\\Ravedio-Avatar\\catalogue245\\sources\\Feminine-open-pashmina245.blend",
+      "component": "components/Feminine-open-pashmina245-headgear.glb",
+      "top": "open",
+      "closed_surface": true,
+      "protected_neighbors_exact": true,
+      "hood_and_neck_exact244": true,
+      "free_ends_and_fringe_exact244": true,
+      "changed_region": [
+        0.185,
+        0.615
+      ],
+      "moved_vertices": 9900,
+      "crossing_metrics": {
+        "-1": {
+          "original_center": [
+            0.01969883218407631,
+            -0.12869396805763245,
+            1.3934519290924072
+          ],
+          "new_center": [
+            0.014530161395668983,
+            -0.09706690162420273,
+            1.3975238800048828
+          ]
+        },
+        "1": {
+          "original_center": [
+            -0.041083913296461105,
+            -0.1523566097021103,
+            1.4085623025894165
+          ],
+          "new_center": [
+            -0.021521229296922684,
+            -0.11916302889585495,
+            1.3915592432022095
+          ]
+        }
+      },
+      "construction": "Two cloth lengths simply overlap. Central tucked loop, pinch and gathered relief removed;244 high placement, clean neck and outward free ends retained."
+    },
+    "bandeau": {
+      "source": "E:\\Ravedio-Avatar\\catalogue245\\sources\\Feminine-bandeau-pashmina245.blend",
+      "component": "components/Feminine-bandeau-pashmina245-headgear.glb",
+      "top": "bandeau",
+      "closed_surface": true,
+      "protected_neighbors_exact": true,
+      "hood_and_neck_exact244": true,
+      "free_ends_and_fringe_exact244": true,
+      "changed_region": [
+        0.185,
+        0.615
+      ],
+      "moved_vertices": 9900,
+      "crossing_metrics": {
+        "-1": {
+          "original_center": [
+            0.01999516412615776,
+            -0.11897139996290207,
+            1.390886902809143
+          ],
+          "new_center": [
+            0.016218505799770355,
+            -0.0987430214881897,
+            1.3945090770721436
+          ]
+        },
+        "1": {
+          "original_center": [
+            -0.04295213147997856,
+            -0.14058558642864227,
+            1.403592824935913
+          ],
+          "new_center": [
+            -0.04290507733821869,
+            -0.10958544164896011,
+            1.39011812210083
+          ]
+        }
+      },
+      "construction": "Two cloth lengths simply overlap. Central tucked loop, pinch and gathered relief removed;244 high placement, clean neck and outward free ends retained."
+    },
+    "triangle": {
+      "source": "E:\\Ravedio-Avatar\\catalogue245\\sources\\Feminine-triangle-pashmina245.blend",
+      "component": "components/Feminine-triangle-pashmina245-headgear.glb",
+      "top": "triangle",
+      "closed_surface": true,
+      "protected_neighbors_exact": true,
+      "hood_and_neck_exact244": true,
+      "free_ends_and_fringe_exact244": true,
+      "changed_region": [
+        0.185,
+        0.615
+      ],
+      "moved_vertices": 9900,
+      "crossing_metrics": {
+        "-1": {
+          "original_center": [
+            0.01982073113322258,
+            -0.1195329949259758,
+            1.3914169073104858
+          ],
+          "new_center": [
+            0.015892375260591507,
+            -0.09807699173688889,
+            1.3950390815734863
+          ]
+        },
+        "1": {
+          "original_center": [
+            -0.042474016547203064,
+            -0.14096705615520477,
+            1.4050205945968628
+          ],
+          "new_center": [
+            -0.02571815997362137,
+            -0.11142614483833313,
+            1.3901476860046387
+          ]
+        }
+      },
+      "construction": "Two cloth lengths simply overlap. Central tucked loop, pinch and gathered relief removed;244 high placement, clean neck and outward free ends retained."
+    },
+    "strappy": {
+      "source": "E:\\Ravedio-Avatar\\catalogue245\\sources\\Feminine-strappy-pashmina245.blend",
+      "component": "components/Feminine-strappy-pashmina245-headgear.glb",
+      "top": "strappy",
+      "closed_surface": true,
+      "protected_neighbors_exact": true,
+      "hood_and_neck_exact244": true,
+      "free_ends_and_fringe_exact244": true,
+      "changed_region": [
+        0.185,
+        0.615
+      ],
+      "moved_vertices": 9900,
+      "crossing_metrics": {
+        "-1": {
+          "original_center": [
+            0.01982037164270878,
+            -0.1195664331316948,
+            1.3914463520050049
+          ],
+          "new_center": [
+            0.0158814899623394,
+            -0.09803970158100128,
+            1.3950685262680054
+          ]
+        },
+        "1": {
+          "original_center": [
+            -0.04247118532657623,
+            -0.14097973704338074,
+            1.405064582824707
+          ],
+          "new_center": [
+            -0.0399828664958477,
+            -0.11023541539907455,
+            1.390425682067871
+          ]
+        }
+      },
+      "construction": "Two cloth lengths simply overlap. Central tucked loop, pinch and gathered relief removed;244 high placement, clean neck and outward free ends retained."
+    },
+    "tshirt": {
+      "source": "E:\\Ravedio-Avatar\\catalogue245\\sources\\Feminine-tshirt-pashmina245.blend",
+      "component": "components/Feminine-tshirt-pashmina245-headgear.glb",
+      "top": "tshirt",
+      "closed_surface": true,
+      "protected_neighbors_exact": true,
+      "hood_and_neck_exact244": true,
+      "free_ends_and_fringe_exact244": true,
+      "changed_region": [
+        0.185,
+        0.615
+      ],
+      "moved_vertices": 9900,
+      "crossing_metrics": {
+        "-1": {
+          "original_center": [
+            0.019698278978466988,
+            -0.12175486236810684,
+            1.3924195766448975
+          ],
+          "new_center": [
+            0.015323014929890633,
+            -0.0966762974858284,
+            1.3962382078170776
+          ]
+        },
+        "1": {
+          "original_center": [
+            -0.041407935321331024,
+            -0.14363132417201996,
+            1.4072372913360596
+          ],
+          "new_center": [
+            -0.03144397959113121,
+            -0.11307410150766373,
+            1.390843391418457
+          ]
+        }
+      },
+      "construction": "Two cloth lengths simply overlap. Central tucked loop, pinch and gathered relief removed;244 high placement, clean neck and outward free ends retained."
+    },
+    "jersey": {
+      "source": "E:\\Ravedio-Avatar\\catalogue245\\sources\\Feminine-jersey-pashmina245.blend",
+      "component": "components/Feminine-jersey-pashmina245-headgear.glb",
+      "top": "jersey",
+      "closed_surface": true,
+      "protected_neighbors_exact": true,
+      "hood_and_neck_exact244": true,
+      "free_ends_and_fringe_exact244": true,
+      "changed_region": [
+        0.185,
+        0.615
+      ],
+      "moved_vertices": 9900,
+      "crossing_metrics": {
+        "-1": {
+          "original_center": [
+            0.020231464877724648,
+            -0.1368023157119751,
+            1.3908151388168335
+          ],
+          "new_center": [
+            0.016749052330851555,
+            -0.11561539769172668,
+            1.3947639465332031
+          ]
+        },
+        "1": {
+          "original_center": [
+            -0.042629897594451904,
+            -0.1586211919784546,
+            1.4029970169067383
+          ],
+          "new_center": [
+            -0.025098562240600586,
+            -0.12966027855873108,
+            1.3889559507369995
+          ]
+        }
+      },
+      "construction": "Two cloth lengths simply overlap. Central tucked loop, pinch and gathered relief removed;244 high placement, clean neck and outward free ends retained."
+    },
+    "tank": {
+      "source": "E:\\Ravedio-Avatar\\catalogue245\\sources\\Feminine-tank-pashmina245.blend",
+      "component": "components/Feminine-tank-pashmina245-headgear.glb",
+      "top": "tank",
+      "closed_surface": true,
+      "protected_neighbors_exact": true,
+      "hood_and_neck_exact244": true,
+      "free_ends_and_fringe_exact244": true,
+      "changed_region": [
+        0.185,
+        0.615
+      ],
+      "moved_vertices": 9900,
+      "crossing_metrics": {
+        "-1": {
+          "original_center": [
+            0.019823044538497925,
+            -0.11934661865234375,
+            1.3912444114685059
+          ],
+          "new_center": [
+            0.015955137088894844,
+            -0.09829527139663696,
+            1.3948665857315063
+          ]
+        },
+        "1": {
+          "original_center": [
+            -0.04250502586364746,
+            -0.14084000885486603,
+            1.4045310020446777
+          ],
+          "new_center": [
+            -0.039242055267095566,
+            -0.11011065542697906,
+            1.390297293663025
+          ]
+        }
+      },
+      "construction": "Two cloth lengths simply overlap. Central tucked loop, pinch and gathered relief removed;244 high placement, clean neck and outward free ends retained."
+    },
+    "sweatshirt": {
+      "source": "E:\\Ravedio-Avatar\\catalogue245\\sources\\Feminine-sweatshirt-pashmina245.blend",
+      "component": "components/Feminine-sweatshirt-pashmina245-headgear.glb",
+      "top": "sweatshirt",
+      "closed_surface": true,
+      "protected_neighbors_exact": true,
+      "hood_and_neck_exact244": true,
+      "free_ends_and_fringe_exact244": true,
+      "changed_region": [
+        0.185,
+        0.615
+      ],
+      "moved_vertices": 9900,
+      "crossing_metrics": {
+        "-1": {
+          "original_center": [
+            0.019698580726981163,
+            -0.12214824557304382,
+            1.392525553703308
+          ],
+          "new_center": [
+            0.015272308140993118,
+            -0.09661700576543808,
+            1.3963850736618042
+          ]
+        },
+        "1": {
+          "original_center": [
+            -0.04108453169465065,
+            -0.14436276257038116,
+            1.4073396921157837
+          ],
+          "new_center": [
+            -0.028500786051154137,
+            -0.11350315809249878,
+            1.3909921646118164
+          ]
+        }
+      },
+      "construction": "Two cloth lengths simply overlap. Central tucked loop, pinch and gathered relief removed;244 high placement, clean neck and outward free ends retained."
+    }
+  },
+  "Masculine": {
+    "shirtless": {
+      "source": "E:\\Ravedio-Avatar\\catalogue245\\sources\\Masculine-shirtless-pashmina245.blend",
+      "component": "components/Masculine-shirtless-pashmina245-headgear.glb",
+      "top": "shirtless",
+      "closed_surface": true,
+      "protected_neighbors_exact": true,
+      "hood_and_neck_exact244": true,
+      "free_ends_and_fringe_exact244": true,
+      "changed_region": [
+        0.185,
+        0.615
+      ],
+      "moved_vertices": 9900,
+      "crossing_metrics": {
+        "-1": {
+          "original_center": [
+            0.020117221400141716,
+            -0.12555456161499023,
+            1.391898512840271
+          ],
+          "new_center": [
+            0.015866383910179138,
+            -0.10082285106182098,
+            1.395782709121704
+          ]
+        },
+        "1": {
+          "original_center": [
+            -0.043650880455970764,
+            -0.1473814845085144,
+            1.4046080112457275
+          ],
+          "new_center": [
+            -0.03319041058421135,
+            -0.11650313436985016,
+            1.3904114961624146
+          ]
+        }
+      },
+      "construction": "Two cloth lengths simply overlap. Central tucked loop, pinch and gathered relief removed;244 high placement, clean neck and outward free ends retained."
+    },
+    "tank": {
+      "source": "E:\\Ravedio-Avatar\\catalogue245\\sources\\Masculine-tank-pashmina245.blend",
+      "component": "components/Masculine-tank-pashmina245-headgear.glb",
+      "top": "tank",
+      "closed_surface": true,
+      "protected_neighbors_exact": true,
+      "hood_and_neck_exact244": true,
+      "free_ends_and_fringe_exact244": true,
+      "changed_region": [
+        0.185,
+        0.615
+      ],
+      "moved_vertices": 9900,
+      "crossing_metrics": {
+        "-1": {
+          "original_center": [
+            0.020117152482271194,
+            -0.12555454671382904,
+            1.391898512840271
+          ],
+          "new_center": [
+            0.01586633361876011,
+            -0.10082286596298218,
+            1.395782709121704
+          ]
+        },
+        "1": {
+          "original_center": [
+            -0.04365069791674614,
+            -0.14738011360168457,
+            1.4046093225479126
+          ],
+          "new_center": [
+            -0.03265111520886421,
+            -0.11652559787034988,
+            1.39043390750885
+          ]
+        }
+      },
+      "construction": "Two cloth lengths simply overlap. Central tucked loop, pinch and gathered relief removed;244 high placement, clean neck and outward free ends retained."
+    },
+    "tshirt": {
+      "source": "E:\\Ravedio-Avatar\\catalogue245\\sources\\Masculine-tshirt-pashmina245.blend",
+      "component": "components/Masculine-tshirt-pashmina245-headgear.glb",
+      "top": "tshirt",
+      "closed_surface": true,
+      "protected_neighbors_exact": true,
+      "hood_and_neck_exact244": true,
+      "free_ends_and_fringe_exact244": true,
+      "changed_region": [
+        0.185,
+        0.615
+      ],
+      "moved_vertices": 9900,
+      "crossing_metrics": {
+        "-1": {
+          "original_center": [
+            0.02008265256881714,
+            -0.12544527649879456,
+            1.392491102218628
+          ],
+          "new_center": [
+            0.015704458579421043,
+            -0.09989498555660248,
+            1.396375298500061
+          ]
+        },
+        "1": {
+          "original_center": [
+            -0.04267388954758644,
+            -0.14622937142848969,
+            1.407446265220642
+          ],
+          "new_center": [
+            -0.02785647101700306,
+            -0.11691419780254364,
+            1.3906493186950684
+          ]
+        }
+      },
+      "construction": "Two cloth lengths simply overlap. Central tucked loop, pinch and gathered relief removed;244 high placement, clean neck and outward free ends retained."
+    },
+    "jersey": {
+      "source": "E:\\Ravedio-Avatar\\catalogue245\\sources\\Masculine-jersey-pashmina245.blend",
+      "component": "components/Masculine-jersey-pashmina245-headgear.glb",
+      "top": "jersey",
+      "closed_surface": true,
+      "protected_neighbors_exact": true,
+      "hood_and_neck_exact244": true,
+      "free_ends_and_fringe_exact244": true,
+      "changed_region": [
+        0.185,
+        0.615
+      ],
+      "moved_vertices": 9900,
+      "crossing_metrics": {
+        "-1": {
+          "original_center": [
+            0.019698934629559517,
+            -0.13629306852817535,
+            1.3927851915359497
+          ],
+          "new_center": [
+            0.015065748244524002,
+            -0.10626394301652908,
+            1.3969144821166992
+          ]
+        },
+        "1": {
+          "original_center": [
+            -0.044562920928001404,
+            -0.16517606377601624,
+            1.4013367891311646
+          ],
+          "new_center": [
+            -0.022203324362635612,
+            -0.1266072541475296,
+            1.391577959060669
+          ]
+        }
+      },
+      "construction": "Two cloth lengths simply overlap. Central tucked loop, pinch and gathered relief removed;244 high placement, clean neck and outward free ends retained."
+    },
+    "buttonup": {
+      "source": "E:\\Ravedio-Avatar\\catalogue245\\sources\\Masculine-buttonup-pashmina245.blend",
+      "component": "components/Masculine-buttonup-pashmina245-headgear.glb",
+      "top": "buttonup",
+      "closed_surface": true,
+      "protected_neighbors_exact": true,
+      "hood_and_neck_exact244": true,
+      "free_ends_and_fringe_exact244": true,
+      "changed_region": [
+        0.185,
+        0.615
+      ],
+      "moved_vertices": 9900,
+      "crossing_metrics": {
+        "-1": {
+          "original_center": [
+            0.020117150619626045,
+            -0.12555454671382904,
+            1.391898512840271
+          ],
+          "new_center": [
+            0.01586632803082466,
+            -0.10082288831472397,
+            1.395782709121704
+          ]
+        },
+        "1": {
+          "original_center": [
+            -0.043650880455970764,
+            -0.1473814845085144,
+            1.4046080112457275
+          ],
+          "new_center": [
+            -0.03319033980369568,
+            -0.11650314927101135,
+            1.3904114961624146
+          ]
+        }
+      },
+      "construction": "Two cloth lengths simply overlap. Central tucked loop, pinch and gathered relief removed;244 high placement, clean neck and outward free ends retained."
+    },
+    "sweatshirt": {
+      "source": "E:\\Ravedio-Avatar\\catalogue245\\sources\\Masculine-sweatshirt-pashmina245.blend",
+      "component": "components/Masculine-sweatshirt-pashmina245-headgear.glb",
+      "top": "sweatshirt",
+      "closed_surface": true,
+      "protected_neighbors_exact": true,
+      "hood_and_neck_exact244": true,
+      "free_ends_and_fringe_exact244": true,
+      "changed_region": [
+        0.185,
+        0.615
+      ],
+      "moved_vertices": 9900,
+      "crossing_metrics": {
+        "-1": {
+          "original_center": [
+            0.020117221400141716,
+            -0.12555456161499023,
+            1.391898512840271
+          ],
+          "new_center": [
+            0.015866383910179138,
+            -0.10082285106182098,
+            1.395782709121704
+          ]
+        },
+        "1": {
+          "original_center": [
+            -0.0436115525662899,
+            -0.14700913429260254,
+            1.4049503803253174
+          ],
+          "new_center": [
+            -0.03034118562936783,
+            -0.11652357876300812,
+            1.3905682563781738
+          ]
+        }
+      },
+      "construction": "Two cloth lengths simply overlap. Central tucked loop, pinch and gathered relief removed;244 high placement, clean neck and outward free ends retained."
+    }
+  }
+}

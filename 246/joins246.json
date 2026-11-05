@@ -1,0 +1,356 @@
+{
+  "Feminine": {
+    "open": {
+      "closed_surface": true,
+      "hood_and_neck_exact245": true,
+      "free_ends_and_fringe_exact245": true,
+      "protected_neighbors_exact": true,
+      "changed_region": [
+        0.185,
+        0.68
+      ],
+      "ribbon_metrics": {
+        "-1": {
+          "central_width": 0.045,
+          "max_frame_turn_degrees": 1.7282769166341765,
+          "maximum_depth_guard": 0.013165553059136872,
+          "end_width_xz": 0.06855198428266583
+        },
+        "1": {
+          "central_width": 0.045,
+          "max_frame_turn_degrees": 1.7280504531745082,
+          "maximum_depth_guard": 0.01727421937255179,
+          "end_width_xz": 0.06856245037017729
+        }
+      },
+      "thickness": 0.0030000001086784543
+    },
+    "bandeau": {
+      "closed_surface": true,
+      "hood_and_neck_exact245": true,
+      "free_ends_and_fringe_exact245": true,
+      "protected_neighbors_exact": true,
+      "changed_region": [
+        0.185,
+        0.68
+      ],
+      "ribbon_metrics": {
+        "-1": {
+          "central_width": 0.045,
+          "max_frame_turn_degrees": 1.8997067673952686,
+          "maximum_depth_guard": 0.011498988454608228,
+          "end_width_xz": 0.07261087411640103
+        },
+        "1": {
+          "central_width": 0.045,
+          "max_frame_turn_degrees": 1.8991917284431674,
+          "maximum_depth_guard": 0.015465057986180936,
+          "end_width_xz": 0.07259411433341346
+        }
+      },
+      "thickness": 0.0030000002277313633
+    },
+    "triangle": {
+      "closed_surface": true,
+      "hood_and_neck_exact245": true,
+      "free_ends_and_fringe_exact245": true,
+      "protected_neighbors_exact": true,
+      "changed_region": [
+        0.185,
+        0.68
+      ],
+      "ribbon_metrics": {
+        "-1": {
+          "central_width": 0.045,
+          "max_frame_turn_degrees": 2.003692982414128,
+          "maximum_depth_guard": 0.014755529020684057,
+          "end_width_xz": 0.07150486374165513
+        },
+        "1": {
+          "central_width": 0.045,
+          "max_frame_turn_degrees": 2.002715838475993,
+          "maximum_depth_guard": 0.01898945290106295,
+          "end_width_xz": 0.07146285152714427
+        }
+      },
+      "thickness": 0.0029999999292294076
+    },
+    "strappy": {
+      "closed_surface": true,
+      "hood_and_neck_exact245": true,
+      "free_ends_and_fringe_exact245": true,
+      "protected_neighbors_exact": true,
+      "changed_region": [
+        0.185,
+        0.68
+      ],
+      "ribbon_metrics": {
+        "-1": {
+          "central_width": 0.045,
+          "max_frame_turn_degrees": 1.813696756498237,
+          "maximum_depth_guard": 0.013450772124319804,
+          "end_width_xz": 0.06974194129009102
+        },
+        "1": {
+          "central_width": 0.045,
+          "max_frame_turn_degrees": 1.813804545421076,
+          "maximum_depth_guard": 0.016064963758061823,
+          "end_width_xz": 0.06972863751216973
+        }
+      },
+      "thickness": 0.0029999997877869873
+    },
+    "tshirt": {
+      "closed_surface": true,
+      "hood_and_neck_exact245": true,
+      "free_ends_and_fringe_exact245": true,
+      "protected_neighbors_exact": true,
+      "changed_region": [
+        0.185,
+        0.68
+      ],
+      "ribbon_metrics": {
+        "-1": {
+          "central_width": 0.045,
+          "max_frame_turn_degrees": 1.6615393516973933,
+          "maximum_depth_guard": 0.012137430049894123,
+          "end_width_xz": 0.07023962867381679
+        },
+        "1": {
+          "central_width": 0.045,
+          "max_frame_turn_degrees": 1.6625989915140975,
+          "maximum_depth_guard": 0.016211650345543477,
+          "end_width_xz": 0.07023290551399212
+        }
+      },
+      "thickness": 0.0030000002093756774
+    },
+    "jersey": {
+      "closed_surface": true,
+      "hood_and_neck_exact245": true,
+      "free_ends_and_fringe_exact245": true,
+      "protected_neighbors_exact": true,
+      "changed_region": [
+        0.185,
+        0.68
+      ],
+      "ribbon_metrics": {
+        "-1": {
+          "central_width": 0.045,
+          "max_frame_turn_degrees": 1.609246356194718,
+          "maximum_depth_guard": 0.01083100404975021,
+          "end_width_xz": 0.07055149463842353
+        },
+        "1": {
+          "central_width": 0.045,
+          "max_frame_turn_degrees": 1.6075428643270344,
+          "maximum_depth_guard": 0.017279501826495958,
+          "end_width_xz": 0.07054098906047705
+        }
+      },
+      "thickness": 0.0030000006644190216
+    },
+    "tank": {
+      "closed_surface": true,
+      "hood_and_neck_exact245": true,
+      "free_ends_and_fringe_exact245": true,
+      "protected_neighbors_exact": true,
+      "changed_region": [
+        0.185,
+        0.68
+      ],
+      "ribbon_metrics": {
+        "-1": {
+          "central_width": 0.045,
+          "max_frame_turn_degrees": 1.8131571715538057,
+          "maximum_depth_guard": 0.014346701758033544,
+          "end_width_xz": 0.06973452033450965
+        },
+        "1": {
+          "central_width": 0.045,
+          "max_frame_turn_degrees": 1.8140203367101662,
+          "maximum_depth_guard": 0.017876041704816853,
+          "end_width_xz": 0.06974325162311958
+        }
+      },
+      "thickness": 0.0030000005250860598
+    },
+    "sweatshirt": {
+      "closed_surface": true,
+      "hood_and_neck_exact245": true,
+      "free_ends_and_fringe_exact245": true,
+      "protected_neighbors_exact": true,
+      "changed_region": [
+        0.185,
+        0.68
+      ],
+      "ribbon_metrics": {
+        "-1": {
+          "central_width": 0.045,
+          "max_frame_turn_degrees": 1.489114854638418,
+          "maximum_depth_guard": 0.01281361688661091,
+          "end_width_xz": 0.07100526859943744
+        },
+        "1": {
+          "central_width": 0.045,
+          "max_frame_turn_degrees": 1.4887205179355556,
+          "maximum_depth_guard": 0.016931266864008823,
+          "end_width_xz": 0.0709991385392055
+        }
+      },
+      "thickness": 0.003000000815705375
+    }
+  },
+  "Masculine": {
+    "shirtless": {
+      "closed_surface": true,
+      "hood_and_neck_exact245": true,
+      "free_ends_and_fringe_exact245": true,
+      "protected_neighbors_exact": true,
+      "changed_region": [
+        0.185,
+        0.68
+      ],
+      "ribbon_metrics": {
+        "-1": {
+          "central_width": 0.045,
+          "max_frame_turn_degrees": 0.8374339127662193,
+          "maximum_depth_guard": 0.010145724768911804,
+          "end_width_xz": 0.08908483816975803
+        },
+        "1": {
+          "central_width": 0.045,
+          "max_frame_turn_degrees": 0.8240075217661196,
+          "maximum_depth_guard": 0.015031290143779165,
+          "end_width_xz": 0.08903051003645368
+        }
+      },
+      "thickness": 0.002999999817392937
+    },
+    "tank": {
+      "closed_surface": true,
+      "hood_and_neck_exact245": true,
+      "free_ends_and_fringe_exact245": true,
+      "protected_neighbors_exact": true,
+      "changed_region": [
+        0.185,
+        0.68
+      ],
+      "ribbon_metrics": {
+        "-1": {
+          "central_width": 0.045,
+          "max_frame_turn_degrees": 0.8515681354799144,
+          "maximum_depth_guard": 0.009290219821293619,
+          "end_width_xz": 0.08833299413773726
+        },
+        "1": {
+          "central_width": 0.045,
+          "max_frame_turn_degrees": 0.8113239671991117,
+          "maximum_depth_guard": 0.01511995343046142,
+          "end_width_xz": 0.08830968901953558
+        }
+      },
+      "thickness": 0.0030000000435823795
+    },
+    "tshirt": {
+      "closed_surface": true,
+      "hood_and_neck_exact245": true,
+      "free_ends_and_fringe_exact245": true,
+      "protected_neighbors_exact": true,
+      "changed_region": [
+        0.185,
+        0.68
+      ],
+      "ribbon_metrics": {
+        "-1": {
+          "central_width": 0.045,
+          "max_frame_turn_degrees": 0.9134312932268356,
+          "maximum_depth_guard": 0.010574526564933712,
+          "end_width_xz": 0.08959520079657543
+        },
+        "1": {
+          "central_width": 0.045,
+          "max_frame_turn_degrees": 0.8625272807249057,
+          "maximum_depth_guard": 0.015326310896428082,
+          "end_width_xz": 0.08954426617983152
+        }
+      },
+      "thickness": 0.003000000029585474
+    },
+    "jersey": {
+      "closed_surface": true,
+      "hood_and_neck_exact245": true,
+      "free_ends_and_fringe_exact245": true,
+      "protected_neighbors_exact": true,
+      "changed_region": [
+        0.185,
+        0.68
+      ],
+      "ribbon_metrics": {
+        "-1": {
+          "central_width": 0.045,
+          "max_frame_turn_degrees": 0.7249675910059662,
+          "maximum_depth_guard": 0.010088695080320927,
+          "end_width_xz": 0.08965376404913766
+        },
+        "1": {
+          "central_width": 0.045,
+          "max_frame_turn_degrees": 0.7241574131765264,
+          "maximum_depth_guard": 0.01738091222702394,
+          "end_width_xz": 0.08959187180581522
+        }
+      },
+      "thickness": 0.0029999999483992586
+    },
+    "buttonup": {
+      "closed_surface": true,
+      "hood_and_neck_exact245": true,
+      "free_ends_and_fringe_exact245": true,
+      "protected_neighbors_exact": true,
+      "changed_region": [
+        0.185,
+        0.68
+      ],
+      "ribbon_metrics": {
+        "-1": {
+          "central_width": 0.045,
+          "max_frame_turn_degrees": 0.8374339127662193,
+          "maximum_depth_guard": 0.010085185264109689,
+          "end_width_xz": 0.08900615024228235
+        },
+        "1": {
+          "central_width": 0.045,
+          "max_frame_turn_degrees": 0.8282709471903827,
+          "maximum_depth_guard": 0.015032278122238544,
+          "end_width_xz": 0.0889242363784455
+        }
+      },
+      "thickness": 0.003000000128847505
+    },
+    "sweatshirt": {
+      "closed_surface": true,
+      "hood_and_neck_exact245": true,
+      "free_ends_and_fringe_exact245": true,
+      "protected_neighbors_exact": true,
+      "changed_region": [
+        0.185,
+        0.68
+      ],
+      "ribbon_metrics": {
+        "-1": {
+          "central_width": 0.045,
+          "max_frame_turn_degrees": 0.8807117522555655,
+          "maximum_depth_guard": 0.00997499171253452,
+          "end_width_xz": 0.08948546084404115
+        },
+        "1": {
+          "central_width": 0.045,
+          "max_frame_turn_degrees": 0.8277983301163296,
+          "maximum_depth_guard": 0.01535543047079228,
+          "end_width_xz": 0.08944087428740992
+        }
+      },
+      "thickness": 0.0030000003391977446
+    }
+  }
+}

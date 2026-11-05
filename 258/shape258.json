@@ -1,0 +1,13 @@
+{
+  "old_taper_max_y": 2.4587109088897705,
+  "new_taper_max_y": 2.4117095470428467,
+  "new_sidepart_max_y": 2.409303665161133,
+  "taper_top_lower_by": 0.04700136184692383,
+  "curly_crown_exact_preserved_meshes": [
+    "Hair252 / unified rooted curly sculpt / static224.002"
+  ],
+  "rear_lock_method": "Resample shorter centerline with original rounded cross sections and parallel transport; no radius pinching",
+  "tip_method": "Opaque cores plus terminal alpha from t=0.86. No257 per-vertex tip shrink.",
+  "fade_surface": "Smooth density-based lift0.0025+0.008*density; cosine ripples removed",
+  "sidepart": "Opposite sweep; restrained forward curve and wave; recessed root foundation shaded0.8"
+}

@@ -1,0 +1,760 @@
+{
+  "revision": 219,
+  "baseline": 218,
+  "state": "Self-reviewed high-ponytail/cap candidate; owner approval pending",
+  "preview": "https://recdpz.github.io/ravedio-avatar-previews/219/",
+  "source_folder": "E:\\Ravedio-Avatar\\refinement219",
+  "scope": [
+    "Remove59 tiny root strands",
+    "Seven current-head gather/tie poses support0..2.5 tie height; suggested high-back-crown default2.1",
+    "Ponytail lift0..0.16 raises upper arc for front/side visibility while retaining lower flow and rear S",
+    "Purpose-fitted crown/rear cap opening for the feminine ponytail"
+  ],
+  "retained": [
+    "Base-scene body, face, eyes, mouth, arms, clothes, palette, studio and front locks exact218",
+    "218 individual lock styling, rounded ends, depth and front-lock controls",
+    "Existing cap front/bill/graphics and glasses positions",
+    "Masculine and Bob caps, all other accessories and historical humanoid work",
+    "Product repositories and profile-byte contracts"
+  ],
+  "base_audit": {
+    "saved_scene_sha256": "7462173eedc20066268da36eb0bbe88c0fd38dccd443237fb3aad5c7cdb0aaee",
+    "frozen_sources_unchanged": true,
+    "protected_exact": 25,
+    "all_nonhair_exact": true,
+    "front_locks_exact": true,
+    "fixed_studio_exact": true,
+    "native_parameter_error": 1.195427715348378e-07,
+    "tail_boundary_cases": 112,
+    "tail_head_clearance": true,
+    "owner_accepted": false
+  },
+  "fit_audit": "fit219.json",
+  "parameters": {
+    "anchors": [
+      [
+        -0.00016539532225579023,
+        0.34265920519828796,
+        2.165325164794922
+      ],
+      [
+        -0.00015761061513330787,
+        0.3217116892337799,
+        2.1931793689727783
+      ],
+      [
+        -0.0001444826921215281,
+        0.29892683029174805,
+        2.2191574573516846
+      ],
+      [
+        -0.00012963078916072845,
+        0.26283082365989685,
+        2.252922296524048
+      ],
+      [
+        -0.0001072507948265411,
+        0.22024096548557281,
+        2.28411865234375
+      ],
+      [
+        -7.554091280326247e-05,
+        0.152873694896698,
+        2.3185389041900635
+      ],
+      [
+        -3.3290732972091064e-05,
+        0.0710182934999466,
+        2.340719223022461
+      ]
+    ],
+    "presets": {
+      "relaxed": {
+        "length": 0.72,
+        "fullness": 0.23,
+        "arc": 0.08,
+        "bend": 0.14,
+        "side": 0.035,
+        "height": 2.1,
+        "depth": 1.1,
+        "flow": 0.72,
+        "lift": 0.1
+      },
+      "high": {
+        "length": 0.68,
+        "fullness": 0.21,
+        "arc": 0.05,
+        "bend": 0.11,
+        "side": 0.035,
+        "height": 2.4,
+        "depth": 1.1,
+        "flow": 0.72,
+        "lift": 0.12
+      },
+      "compact": {
+        "length": 0.52,
+        "fullness": 0.2,
+        "arc": 0.06,
+        "bend": 0.08,
+        "side": 0.08,
+        "height": 1.7,
+        "depth": 1.0,
+        "flow": 0.72,
+        "lift": 0.09
+      },
+      "full": {
+        "length": 0.77,
+        "fullness": 0.27,
+        "arc": 0.1,
+        "bend": 0.16,
+        "side": 0.09,
+        "height": 2.15,
+        "depth": 1.25,
+        "flow": 0.72,
+        "lift": 0.11
+      }
+    },
+    "default": {
+      "length": 0.72,
+      "fullness": 0.23,
+      "arc": 0.08,
+      "bend": 0.14,
+      "side": 0.035,
+      "height": 2.1,
+      "depth": 1.1,
+      "flow": 0.72,
+      "lift": 0.1
+    },
+    "hairline": "Clean opaque swept volume; tiny edge strands removed as requested",
+    "root_morph": "Gather219_1..6",
+    "gesture": "Rounded side C-return at every scalp-departure value; rear S-wave retained. Side volume is independent of front/back width.",
+    "front_default": {
+      "length": 0.29,
+      "volume": 0.052,
+      "curl": 0.025,
+      "spread": 0.008,
+      "root": 0.5
+    },
+    "bounds": {
+      "length": [
+        0.48,
+        0.82
+      ],
+      "fullness": [
+        0.16,
+        0.3
+      ],
+      "arc": [
+        0,
+        0.22
+      ],
+      "bend": [
+        0,
+        0.2
+      ],
+      "side": [
+        -0.3,
+        0.35
+      ],
+      "height": [
+        0,
+        2.5
+      ],
+      "depth": [
+        0.8,
+        1.6
+      ],
+      "flow": [
+        0,
+        1
+      ],
+      "lift": [
+        0,
+        0.16
+      ]
+    },
+    "front_bounds": {
+      "length": [
+        0.2,
+        0.38
+      ],
+      "volume": [
+        0.035,
+        0.07
+      ],
+      "curl": [
+        0,
+        0.06
+      ],
+      "spread": [
+        -0.005,
+        0.045
+      ],
+      "root": [
+        0,
+        1
+      ]
+    },
+    "front_anchors": {
+      "-1": [
+        [
+          [
+            -0.1625368297100067,
+            -0.15013271570205688,
+            2.2461776733398438
+          ],
+          [
+            -0.22934490442276,
+            -0.21959730982780457,
+            2.171555757522583
+          ],
+          [
+            -0.27525606751441956,
+            -0.268017053604126,
+            2.080955743789673
+          ],
+          [
+            -0.2949749529361725,
+            -0.28935253620147705,
+            2.0207746028900146
+          ]
+        ],
+        [
+          [
+            -0.14166025817394257,
+            -0.12886281311511993,
+            2.2644317150115967
+          ],
+          [
+            -0.2128724306821823,
+            -0.20276705920696259,
+            2.1974422931671143
+          ],
+          [
+            -0.26363518834114075,
+            -0.25606510043144226,
+            2.1122994422912598
+          ],
+          [
+            -0.2866523265838623,
+            -0.2807695269584656,
+            2.054419755935669
+          ]
+        ]
+      ],
+      "1": [
+        [
+          [
+            0.1625368744134903,
+            -0.15013279020786285,
+            2.2461776733398438
+          ],
+          [
+            0.2293452024459839,
+            -0.21959760785102844,
+            2.171555995941162
+          ],
+          [
+            0.2752561867237091,
+            -0.26801711320877075,
+            2.080955743789673
+          ],
+          [
+            0.2949749529361725,
+            -0.28935253620147705,
+            2.0207746028900146
+          ]
+        ],
+        [
+          [
+            0.14166024327278137,
+            -0.1288628727197647,
+            2.2644317150115967
+          ],
+          [
+            0.2128724902868271,
+            -0.20276711881160736,
+            2.1974422931671143
+          ],
+          [
+            0.26363512873649597,
+            -0.2560650408267975,
+            2.1122994422912598
+          ],
+          [
+            0.2866523265838623,
+            -0.2807695269584656,
+            2.054419755935669
+          ]
+        ]
+      ]
+    },
+    "height_knots": [
+      0,
+      0.5,
+      1,
+      1.35,
+      1.7,
+      2.1,
+      2.5
+    ],
+    "attach_axes": [
+      [
+        -0.0003806760443017455,
+        0.7541447267839615,
+        0.656708143812526
+      ],
+      [
+        -0.0003595517647936432,
+        0.6996910014821698,
+        0.7144455004879006
+      ],
+      [
+        -0.00032665138536475217,
+        0.6419114365547128,
+        0.7667787170488871
+      ],
+      [
+        -0.0002895079781319901,
+        0.5534873400145804,
+        0.8328575392158701
+      ],
+      [
+        -0.00023662602477523862,
+        0.45282045566588836,
+        0.8916016929877723
+      ],
+      [
+        -0.0001643259845189878,
+        0.2999200011280769,
+        0.9539643420591282
+      ],
+      [
+        -7.17299045532347e-05,
+        0.12069986111014323,
+        0.9926890441537133
+      ]
+    ]
+  },
+  "cap_parameters": {
+    "default": {
+      "tilt": 8.0,
+      "curve": 0.095,
+      "length": 0.285,
+      "crown": 0.0,
+      "turn": 0.0
+    },
+    "profile": [
+      [
+        8.637400904645456e-17,
+        -0.39774080962062414,
+        1.0
+      ],
+      [
+        0.015388853940551221,
+        -0.3976356524643097,
+        0.999371001586054
+      ],
+      [
+        0.030784041411491176,
+        -0.39727270562710804,
+        0.9974828985003076
+      ],
+      [
+        0.046177359215785536,
+        -0.3965398382141343,
+        0.9943323530652942
+      ],
+      [
+        0.06154370069997946,
+        -0.39532619735461527,
+        0.989913754882781
+      ],
+      [
+        0.07685084720949156,
+        -0.39357353303013737,
+        0.984219147828527
+      ],
+      [
+        0.0920709880957641,
+        -0.3912834703383465,
+        0.9772381245434946
+      ],
+      [
+        0.1071850656234309,
+        -0.38849111515506524,
+        0.9689576848809642
+      ],
+      [
+        0.12217993412947664,
+        -0.3852347333814997,
+        0.9593620533896997
+      ],
+      [
+        0.1370437987472486,
+        -0.3815407865988271,
+        0.9484324492082982
+      ],
+      [
+        0.15176388145544362,
+        -0.37742392554171744,
+        0.9361467995783009
+      ],
+      [
+        0.1663263927719489,
+        -0.3728924862476705,
+        0.9224793853630571
+      ],
+      [
+        0.18071723959309863,
+        -0.36795279833754896,
+        0.9074004032142381
+      ],
+      [
+        0.19492250916344125,
+        -0.3626110258073616,
+        0.8908754239628461
+      ],
+      [
+        0.20892864625819796,
+        -0.3568736376522281,
+        0.8728647198389633
+      ],
+      [
+        0.22272249975127106,
+        -0.3507474585079537,
+        0.8533224233532474
+      ],
+      [
+        0.23629133840737512,
+        -0.3442396446432942,
+        0.8321954667228523
+      ],
+      [
+        0.24962286002863054,
+        -0.33735765242751625,
+        0.8094222304068883
+      ],
+      [
+        0.2627051966587928,
+        -0.3301092062158558,
+        0.784930799074828
+      ],
+      [
+        0.27552691593941675,
+        -0.3225022663071325,
+        0.7586366772198124
+      ],
+      [
+        0.2880770184257202,
+        -0.3145449971320423,
+        0.7304397443930962
+      ],
+      [
+        0.300344925678574,
+        -0.30624573065871863,
+        0.700220113351644
+      ],
+      [
+        0.31232040367092234,
+        -0.2976128733486064,
+        0.6678323591804415
+      ],
+      [
+        0.323993120571284,
+        -0.288654506198369,
+        0.6330972471844112
+      ],
+      [
+        0.33535095488803784,
+        -0.2793770584281642,
+        0.5957894650817374
+      ],
+      [
+        0.34637587003829323,
+        -0.2697825441257922,
+        0.5556186596425432
+      ],
+      [
+        0.3570381284434349,
+        -0.25986571345596904,
+        0.5121985728316311
+      ],
+      [
+        0.3672948648602899,
+        -0.2496157184799067,
+        0.46499338624712816
+      ],
+      [
+        0.3771028576655403,
+        -0.2390271550102988,
+        0.4132159080708423
+      ],
+      [
+        0.386448242065635,
+        -0.22811787009665602,
+        0.35560914289860013
+      ],
+      [
+        0.39537646008129523,
+        -0.21693960138615026,
+        0.2898809577325793
+      ],
+      [
+        0.40399166408875775,
+        -0.2055659762416701,
+        0.21065205417787825
+      ],
+      [
+        0.41240943004917346,
+        -0.19405881782219656,
+        0.08
+      ]
+    ],
+    "bounds": {
+      "tilt": [
+        0.0,
+        14.0
+      ],
+      "curve": [
+        0.02,
+        0.16
+      ],
+      "length": [
+        0.22,
+        0.36
+      ],
+      "crown": [
+        0.0,
+        0.035
+      ]
+    }
+  },
+  "construction": {
+    "hair": "Swept root shell retained; no tiny edge-ribbon object. Seven authored current-head root/tie states interpolate without extrapolation.",
+    "tail": "Higher rear-crown attachment, controlled rise at the upper arc, guarded C return; existing layered lower flow and rear S retained.",
+    "cap": "Original214 cap with real oval crown/rear opening cut through the closed fabric thickness. Button and hidden seam fragments removed inside the aperture. Original lower opening retained. No hair/head/glasses displacement to force fit.",
+    "cap_geometry": "CapOriginal coordinates preserved for retained vertices; new crown intersection vertices have exact inverse-default-pitch coordinates. Existing cap controls deform the final opening as a fitted component.",
+    "caps_for_other_hair": "Fitted cap is selected only for Feminine+Ponytail. Masculine and Bob retain214.",
+    "controls": "One shared cap bound table matches the actual UI: tilt0..14 degrees, crown0..0.035; invalid persisted values clamp to these existing ranges."
+  },
+  "rendering": {
+    "coordinates": "Blender Z-up/front -Y; GLB Y-up/front +Z",
+    "studio": "Fixed181 source studio; browser retains its existing fixed approximation.",
+    "portable": "Packed scenes plus standalone parameters219/reproduce219/export219 reproduce tail/front and cap geometry, cap color and graphic choice. Other wardrobe selections remain separate inherited components.",
+    "alpha": "Hair and cap materials are OPAQUE. No root-opacity feathering or raster blur. Existing optical lenses remain unchanged.",
+    "camera": "Matched head framing used for218/219 comparisons; complete authoring scene settings are packed."
+  },
+  "components": {
+    "Feminine-ponytail-cap.glb": {
+      "bytes": 1847160,
+      "sha256": "08e5112f15757a46888ca3fe026c27f261ee551f3d3e0d0209f3474c37801113",
+      "triangles": 49396,
+      "mesh_nodes": 15,
+      "primitives": 15,
+      "materials": 3,
+      "material_details": [
+        {
+          "name": "Cap / subtle sewing212",
+          "alphaMode": "OPAQUE",
+          "alphaCutoff": null,
+          "doubleSided": true,
+          "baseColorFactor": [
+            0.04600000008940697,
+            0.07800000160932541,
+            0.10499999672174454,
+            1
+          ],
+          "metallic": 0,
+          "roughness": 0.7400000095367432,
+          "extensions": {
+            "KHR_materials_clearcoat": {
+              "clearcoatRoughnessFactor": 0.20000000298023224
+            }
+          }
+        },
+        {
+          "name": "Cap / midnight cotton212",
+          "alphaMode": "OPAQUE",
+          "alphaCutoff": null,
+          "doubleSided": true,
+          "baseColorFactor": [
+            0.026000000536441803,
+            0.05299999937415123,
+            0.07999999821186066,
+            1
+          ],
+          "metallic": 0,
+          "roughness": 0.6899999976158142,
+          "extensions": {
+            "KHR_materials_clearcoat": {
+              "clearcoatRoughnessFactor": 0.20000000298023224
+            },
+            "KHR_materials_specular": {
+              "specularFactor": 0.36000001430511475
+            }
+          }
+        },
+        {
+          "name": "Cap / graphic214",
+          "alphaMode": "OPAQUE",
+          "alphaCutoff": null,
+          "doubleSided": true,
+          "baseColorFactor": [
+            0.7799999713897705,
+            0.8299999833106995,
+            0.8100000023841858,
+            1
+          ],
+          "metallic": 0,
+          "roughness": 0.6000000238418579,
+          "extensions": {
+            "KHR_materials_clearcoat": {
+              "clearcoatFactor": 0.019999999552965164,
+              "clearcoatRoughnessFactor": 0.20000000298023224
+            }
+          }
+        }
+      ],
+      "textures": [],
+      "extensions_used": [
+        "KHR_materials_clearcoat",
+        "KHR_materials_specular"
+      ],
+      "extensions_required": [],
+      "self_contained": true
+    },
+    "Feminine-ponytail-hair.glb": {
+      "bytes": 5367488,
+      "sha256": "98d41bc0f50944b5a0ac620735ab630e41e11054ddb7d0220e68e17e2b299fa8",
+      "triangles": 82168,
+      "mesh_nodes": 9,
+      "primitives": 9,
+      "materials": 5,
+      "material_details": [
+        {
+          "name": "Hair / chestnut212 0",
+          "alphaMode": "OPAQUE",
+          "alphaCutoff": null,
+          "doubleSided": true,
+          "baseColorFactor": [
+            0.21294040977954865,
+            0.07010369747877121,
+            0.030939150601625443,
+            1
+          ],
+          "metallic": 0,
+          "roughness": 0.2800000011920929,
+          "extensions": {
+            "KHR_materials_clearcoat": {
+              "clearcoatFactor": 0.36000001430511475,
+              "clearcoatRoughnessFactor": 0.20000000298023224
+            }
+          }
+        },
+        {
+          "name": "Hair / chestnut212 1",
+          "alphaMode": "OPAQUE",
+          "alphaCutoff": null,
+          "doubleSided": true,
+          "baseColorFactor": [
+            0.21952620148658752,
+            0.07227185368537903,
+            0.03189603239297867,
+            1
+          ],
+          "metallic": 0,
+          "roughness": 0.2800000011920929,
+          "extensions": {
+            "KHR_materials_clearcoat": {
+              "clearcoatFactor": 0.36000001430511475,
+              "clearcoatRoughnessFactor": 0.20000000298023224
+            }
+          }
+        },
+        {
+          "name": "Hair / chestnut212 2",
+          "alphaMode": "OPAQUE",
+          "alphaCutoff": null,
+          "doubleSided": true,
+          "baseColorFactor": [
+            0.2261119931936264,
+            0.07444000989198685,
+            0.032852914184331894,
+            1
+          ],
+          "metallic": 0,
+          "roughness": 0.2800000011920929,
+          "extensions": {
+            "KHR_materials_clearcoat": {
+              "clearcoatFactor": 0.36000001430511475,
+              "clearcoatRoughnessFactor": 0.20000000298023224
+            }
+          }
+        },
+        {
+          "name": "Hair / crisp pulled roots219",
+          "alphaMode": "OPAQUE",
+          "alphaCutoff": null,
+          "doubleSided": true,
+          "baseColorFactor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "metallic": 0,
+          "roughness": 0.30000001192092896,
+          "extensions": {
+            "KHR_materials_clearcoat": {
+              "clearcoatFactor": 0.36000001430511475,
+              "clearcoatRoughnessFactor": 0.20000000298023224
+            }
+          }
+        },
+        {
+          "name": "Hair / fitted tie214",
+          "alphaMode": "OPAQUE",
+          "alphaCutoff": null,
+          "doubleSided": true,
+          "baseColorFactor": [
+            0.024000000208616257,
+            0.014999999664723873,
+            0.017000000923871994,
+            1
+          ],
+          "metallic": 0,
+          "roughness": 0.46000000834465027,
+          "extensions": {
+            "KHR_materials_clearcoat": {
+              "clearcoatFactor": 0.03999999910593033,
+              "clearcoatRoughnessFactor": 0.20000000298023224
+            }
+          }
+        }
+      ],
+      "textures": [],
+      "extensions_used": [
+        "KHR_materials_clearcoat"
+      ],
+      "extensions_required": [],
+      "self_contained": true
+    }
+  },
+  "inherited": {
+    "base_bottoms": "Same218 resolution to216 and bikini215",
+    "tops": "Same218 resolution to215/214/213/208/206/203",
+    "other_hair_caps": "218 inherited dependencies",
+    "glasses": "213/214 unchanged",
+    "HOT": "212 unchanged"
+  },
+  "review": {
+    "self_review_only": true,
+    "owner_accepted": false,
+    "second_visual_pass": true,
+    "head_clearance_cases": 112,
+    "cap_fit_cases": 80,
+    "native_apps_or_phones_tested": false
+  },
+  "next": "Owner reviews219 high ponytail and fitted cap before catalogue promotion or native renderer qualification."
+}

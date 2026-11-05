@@ -1,0 +1,58 @@
+{
+  "state": "first_pass_corrections_followup_running",
+  "first_pass": {
+    "evidence": [
+      "first-front171.jpg",
+      "first-details171.jpg"
+    ],
+    "findings": [
+      "Open underlayer reused outer clearance and caused coplanar fabric interference",
+      "Skirt underlayer was insufficiently inset and caused highlights to break through sides",
+      "Upper fitted bottom needed a narrower clearance to stay under tight Tank hem",
+      "Sampled inner trouser fabric approached the leg support below the thigh"
+    ],
+    "corrections": [
+      "Replaced complete underlayer with a supported inset front panel and crew edge",
+      "Inset contained shorts underlayer by6percent in XY",
+      "Reduced upper waist support offset from0.009 to0.0045, keeping actual170 skin and top geometry unchanged",
+      "Added0.004 to the broad trouser fullness field, rerendered both builds and repeated support checks"
+    ]
+  },
+  "second_pass": {
+    "state": "complete",
+    "individual_evidence": [
+      "Feminine-bottoms171.jpg",
+      "Masculine-bottoms171.jpg",
+      "Masculine-tops171.jpg"
+    ],
+    "individual_coverage": "All10 candidates front,threequarter,both profiles,rear,top at1024px Cycles40",
+    "combination_evidence": [
+      "Feminine-mix-front171.jpg",
+      "Feminine-mix-profile171.jpg",
+      "Feminine-mix-rear171.jpg",
+      "Masculine-mix-front171.jpg",
+      "Masculine-mix-profile171.jpg",
+      "Masculine-mix-rear171.jpg"
+    ],
+    "combination_coverage": "All52 top/bottom combinations,156 native448px Cycles16 images with actual geometry/materials",
+    "assessment": "Fresh corrected sources reviewed. No visible repeat of open-shirt coplanar interference, skirt underlayer break-through, or bottom fabric crossing the Tank hem. New trousers cover the rounded leg support with a soft taper. Shorts preserve separate leg openings; skirt has a modest A-line fall. Both masculine shirts keep actual sleeve openings and a gap to the floating hands. Collar remains seated around front/sides/back. No further geometry edit justified after this pass.",
+    "protected": "170 heads,eyes,hair,torso,chest/shoulders,hands,legs,skin materials and native lighting exact by saved-file checks; no anatomy fields replayed"
+  },
+  "owner_acceptance": "pending",
+  "references": [
+    {
+      "url": "https://www.uniqlo.com/us/en/products/E482479-000/00",
+      "evidence": "Actual front product/model photo inspected for open collar fold, crew underlayer, relaxed sleeve/hem construction"
+    },
+    {
+      "url": "https://punkdesign.shop/products/womens-punk-a-line-cargo-shorts-with-belt",
+      "evidence": "Actual front/back product photo inspected for waistband, separate leg openings and slightly eased cloth fall"
+    }
+  ],
+  "limits": [
+    "Self visual review is separate from owner aesthetic acceptance",
+    "Only displayed cartoon wardrobe; full hairstyle/headwear/accessory catalogue remains separate",
+    "Browser responsive checks are not physical-device performance certification",
+    "No deployed protocol, firmware/mobile/cloud or Avatar Studio change"
+  ]
+}

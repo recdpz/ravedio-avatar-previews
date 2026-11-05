@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-15",
+  "scope": "Separate cartoon162 candidate; owner aesthetic approval pending",
+  "public_preview": "https://recdpz.github.io/ravedio-avatar-previews/162/",
+  "before": "161",
+  "source_files": [
+    {
+      "path": "E:\\Ravedio-Avatar\\outfits162\\model162.py",
+      "sha256": "90b942a7a33b2d1f5451e156dbb1e122507bbc8ee33e3a56e03d97be2b2d1d6e"
+    },
+    {
+      "path": "E:\\Ravedio-Avatar\\outfits162\\verify162.py",
+      "sha256": "0488f2ed4a88d49f4a2fec5c7c615afb415a5a9dba47aaf6e431d51a0a504d6c"
+    },
+    {
+      "path": "E:\\Ravedio-Avatar\\outfits162\\package162.py",
+      "sha256": "77167c09479a0b38ebb074e5cbbf31af2f4ab6042fc9bd548642853696e00087"
+    },
+    {
+      "path": "E:\\Ravedio-Avatar\\outfits162\\prints162.py",
+      "sha256": "1ae979d4dcac00c989358aae835ff6e5a6b5750b4c7798d3bf95b4f1284f3137"
+    }
+  ],
+  "saved_candidates": 11,
+  "render_count": 66,
+  "angles": [
+    "front",
+    "threequarter",
+    "profile",
+    "rightprofile",
+    "rear",
+    "top"
+  ],
+  "glb_count": 13,
+  "glb_checks": [
+    {
+      "file": "Feminine-bandeau-top.glb",
+      "sha256": "2218d6e02d7e3966b3b5ab7c5e7ae47b6cc21553cd406dd6945fdf64bed39b28",
+      "bytes": 754532
+    },
+    {
+      "file": "Feminine-base.glb",
+      "sha256": "5577cb5d1d3e82f03a4d5e1ca73b7ec8f8906dde56b9bd6f3b3a1524e297bdc6",
+      "bytes": 6751848
+    },
+    {
+      "file": "Feminine-jersey-top.glb",
+      "sha256": "26854ca3abb4ab8d7a61320367afa3be196228e60bf9a9c4980e5ede366a95e5",
+      "bytes": 4606240
+    },
+    {
+      "file": "Feminine-open-top.glb",
+      "sha256": "b676869777f501a469e1e64a21c1d22b343a9ab4a8ef86c5eeae131624df7d13",
+      "bytes": 4117868
+    },
+    {
+      "file": "Feminine-strappy-top.glb",
+      "sha256": "1619d35f95244c560efd863a83e2fc1379ef404175c48b57c8a74df25886dd85",
+      "bytes": 1033456
+    },
+    {
+      "file": "Feminine-sweatshirt-top.glb",
+      "sha256": "4342734a54a33b9c54230937bd9bbc06a5fbb585c3d7dc3a9ce07ddd9f4c55c6",
+      "bytes": 3945472
+    },
+    {
+      "file": "Feminine-tank-top.glb",
+      "sha256": "18d0f70f8cd0a453f0137d1ca0e6b70562854f1377fbaf135679c12336d87928",
+      "bytes": 975292
+    },
+    {
+      "file": "Feminine-triangle-top.glb",
+      "sha256": "82476fb87a4e73e7f4ae53355a7af522cdb4f75e1015825c53e2cca62bd3ccd0",
+      "bytes": 2449808
+    },
+    {
+      "file": "Feminine-tshirt-top.glb",
+      "sha256": "bbf9ca5916274771f15f88ed0bfc1fe0e67fe941f6153390ebcf26b0d6ab990f",
+      "bytes": 3860448
+    },
+    {
+      "file": "Masculine-base.glb",
+      "sha256": "e96adceef9455f62b7c872602760a1ccf0855be33a3df98f7b9a8f6db2264674",
+      "bytes": 6701144
+    },
+    {
+      "file": "Masculine-jersey-top.glb",
+      "sha256": "01d4b09a89a4fa7f37cb1117002711d0bf663ea4be6b3b873dc89fecd29dba98",
+      "bytes": 3508652
+    },
+    {
+      "file": "Masculine-sweatshirt-top.glb",
+      "sha256": "78a40183885cc90d7aadb938080e20508c7eefc81b69b27306a2979852ec50a4",
+      "bytes": 2821044
+    },
+    {
+      "file": "Masculine-tank-top.glb",
+      "sha256": "dfc66386bf70815e29bd76b20edd6df84cce15f5a1de5f89a0f2d3ee98f99e95",
+      "bytes": 960216
+    }
+  ],
+  "saved_file_check": "technical162.json",
+  "fit_check": "fit-verification162.json",
+  "visual_review": "visual-review162.json",
+  "protected_hashes_exact": true,
+  "protected": "161 heads, eyes, hair and151skin palette; main master, Studio and profile contract unchanged",
+  "changes": [
+    "Compact shared torso proportions while protecting head geometry and position",
+    "Rounded short arms with orb hands emerging from downward-sloping sleeves; no empty tubes or recessed facing discs",
+    "Lower paired feminine bust with fuller fitted triangle cups; garment envelopes refitted",
+    "Shorter,fuller thigh blobs and branching curved-hem shorts topology",
+    "Button-front navy festival jerseys with original flat Ravedio lettering and orbital prints; no numbers",
+    "Same choices and modular selector; matched161 before comparison retained"
+  ],
+  "coordinate_space": {
+    "source": "Explicit161 saved scenes",
+    "support": "New compact world body; clothing constructed in documented old support then Z transformed exactly once",
+    "z_map": "1.425 + (old_z - 1.425) * (.345 / .510)",
+    "head_transform": "identity",
+    "orb_hands": "World coordinate centers +/-0.465,0.02,1.110; separate orb meshes intentionally overlap short arm stubs",
+    "shorts": "Fresh world-space branching pants surface; shared inner crotch seam"
+  },
+  "limitations": [
+    "Only11 displayed outfit combinations reviewed; full hairstyle/headwear catalogue adaptation unverified",
+    "Main avatar inventory and Studio unchanged",
+    "Fixed renders show Light warm; all4 preserved tones selectable in3D",
+    "Browser lighting approximates Cycles; physical phone touch not tested",
+    "Body proportion and arm direction are experimental162 changes available alongside161 comparison"
+  ],
+  "references": [
+    {
+      "url": "https://raveuniform.com/products/vibration-baseball-jersey",
+      "evidence": "Inspected actual front/back photos; button-front construction,relaxed sleeves, expressive wordmark and broad back artwork. Original Ravedio print created for prototype; no copied artist logo."
+    }
+  ],
+  "runtime": {
+    "version": "Blender5.2.0 portable",
+    "sha256": "2d184b626c001692c362291911293b6a297179d618d95e9e9192c3a80318adc4",
+    "verified_against_official_checksums": true
+  }
+}

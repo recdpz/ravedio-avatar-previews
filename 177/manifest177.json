@@ -1,0 +1,113 @@
+{
+  "revision": 177,
+  "source_preview": 176,
+  "owner_acceptance": "pending",
+  "scope": "Eight sleeved tops rebuilt and five sleeveless tops checked; native shoulder sleeve shells, longer hoodie sleeves/cuffs, close obsolete torso armholes, constrained symmetric arm-and-sleeve clearance",
+  "visual_reference": "Native Blender Cycles; live3D lighting parity remains separate",
+  "sets": {
+    "Feminine": [
+      "bandeau",
+      "triangle",
+      "strappy",
+      "tshirt",
+      "jersey",
+      "open",
+      "tank",
+      "sweatshirt"
+    ],
+    "Masculine": [
+      "tank",
+      "tshirt",
+      "jersey",
+      "buttonup",
+      "sweatshirt"
+    ]
+  },
+  "fit_offsets": {
+    "Feminine-bandeau": 0.0,
+    "Feminine-triangle": 0.0,
+    "Feminine-strappy": 0.0,
+    "Feminine-tshirt": 0.0,
+    "Feminine-jersey": 0.002,
+    "Feminine-open": 0.0,
+    "Feminine-tank": 0.0,
+    "Feminine-sweatshirt": 0.018000000000000002,
+    "Masculine-tank": 0.006,
+    "Masculine-tshirt": 0.042,
+    "Masculine-jersey": 0.042,
+    "Masculine-buttonup": 0.04,
+    "Masculine-sweatshirt": 0.058
+  },
+  "verification": {
+    "native": "13 saved/reopened candidates; protected source signatures and evaluated sleeve clearance",
+    "visual": "visual177.json: two self-review passes, separate from owner approval",
+    "browser": "browser177.json: selectors, paired version swaps, palettes, saved looks and PNG export"
+  },
+  "assets": [
+    {
+      "file": "Feminine-bandeau-top.glb",
+      "bytes": 3623768,
+      "sha256": "70848621aeb17fc768ae2935befe7fd324ad026870ccd8bf8329493b8c1278b2"
+    },
+    {
+      "file": "Feminine-jersey-top.glb",
+      "bytes": 5524020,
+      "sha256": "ff9e365060e53c7477321aec2f4bd2d896c4f68a07c6b7b2b9de1f2eba7e544c"
+    },
+    {
+      "file": "Feminine-open-top.glb",
+      "bytes": 5833956,
+      "sha256": "37917e81fa04a197799d4c3b44e35669b654dbd9a01f8345c6b7dd968063970c"
+    },
+    {
+      "file": "Feminine-strappy-top.glb",
+      "bytes": 4370792,
+      "sha256": "099e6966923058c69aae2a718c479cbff9b4f45bfda65b512d8066f7153234af"
+    },
+    {
+      "file": "Feminine-sweatshirt-top.glb",
+      "bytes": 5767512,
+      "sha256": "ed86ea9cf86394f4f8862dd054db72a51ac995a0cd97ca324b158bb9585cd3ba"
+    },
+    {
+      "file": "Feminine-tank-top.glb",
+      "bytes": 4281376,
+      "sha256": "d140606113d16920857448f10b34cf52119308ef92245829cb47afec4e085795"
+    },
+    {
+      "file": "Feminine-triangle-top.glb",
+      "bytes": 6428964,
+      "sha256": "b9d285bf8d33e4032ccd85383643edc8b37c0b4ce4281c1b0a1f77e2c356d963"
+    },
+    {
+      "file": "Feminine-tshirt-top.glb",
+      "bytes": 4152532,
+      "sha256": "56f6b1797c8277704dba62da446dbb8c7fe78a4f6b528d14aa7fefe6efd12f33"
+    },
+    {
+      "file": "Masculine-buttonup-top.glb",
+      "bytes": 5890652,
+      "sha256": "bab65772bedd8d335c089858ebc8a6f17add9a47c23cb492e6e584fc0f7ff45b"
+    },
+    {
+      "file": "Masculine-jersey-top.glb",
+      "bytes": 5529076,
+      "sha256": "e9728dadb396282d95ce0d98f43b0f05b077be90ae0c84d2a448731a523db45b"
+    },
+    {
+      "file": "Masculine-sweatshirt-top.glb",
+      "bytes": 5769944,
+      "sha256": "028ce1e355ba15b962de56ab284aedb0bc6703664423038db743d74283716f26"
+    },
+    {
+      "file": "Masculine-tank-top.glb",
+      "bytes": 2369476,
+      "sha256": "066d782bdabd2c88a96e60600cd0ce8897e011ce0561053447453404a7e66dc3"
+    },
+    {
+      "file": "Masculine-tshirt-top.glb",
+      "bytes": 4152688,
+      "sha256": "931f122ea443120a1eec76da2ad2fa10a7b517878c123bf6182869301233430e"
+    }
+  ]
+}

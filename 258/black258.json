@@ -1,0 +1,152 @@
+{
+  "checks": [
+    {
+      "build": "Masculine",
+      "hair": "sidepart",
+      "neutralMaterials": 4
+    },
+    {
+      "build": "Masculine",
+      "hair": "taper",
+      "neutralMaterials": 8
+    },
+    {
+      "build": "Masculine",
+      "hair": "buzz",
+      "neutralMaterials": 1
+    },
+    {
+      "build": "Masculine",
+      "hair": "curly-top",
+      "neutralMaterials": 3
+    },
+    {
+      "build": "Masculine",
+      "hair": "afro",
+      "neutralMaterials": 1
+    },
+    {
+      "build": "Masculine",
+      "hair": "flow",
+      "neutralMaterials": 1
+    },
+    {
+      "build": "Masculine",
+      "hair": "locs",
+      "neutralMaterials": 1
+    },
+    {
+      "build": "Masculine",
+      "hair": "middle-part",
+      "neutralMaterials": 1
+    },
+    {
+      "build": "Feminine",
+      "hair": "bob",
+      "neutralMaterials": 22
+    },
+    {
+      "build": "Feminine",
+      "hair": "ponytail",
+      "neutralMaterials": 8
+    },
+    {
+      "build": "Feminine",
+      "hair": "straight",
+      "neutralMaterials": 4
+    },
+    {
+      "build": "Feminine",
+      "hair": "curls",
+      "neutralMaterials": 4
+    },
+    {
+      "build": "Feminine",
+      "hair": "side-sweep",
+      "neutralMaterials": 4
+    },
+    {
+      "build": "Feminine",
+      "hair": "space-buns",
+      "neutralMaterials": 1
+    },
+    {
+      "build": "Feminine",
+      "hair": "twin-braids",
+      "neutralMaterials": 2
+    },
+    {
+      "build": "Feminine",
+      "hair": "box-braids",
+      "neutralMaterials": 1
+    },
+    {
+      "groom": "stubble",
+      "skin": "0",
+      "neutralMaterials": 2
+    },
+    {
+      "groom": "stubble",
+      "skin": "3",
+      "neutralMaterials": 2
+    },
+    {
+      "groom": "mustache",
+      "skin": "0",
+      "neutralMaterials": 1
+    },
+    {
+      "groom": "mustache",
+      "skin": "3",
+      "neutralMaterials": 1
+    },
+    {
+      "groom": "patch",
+      "skin": "0",
+      "neutralMaterials": 2
+    },
+    {
+      "groom": "patch",
+      "skin": "3",
+      "neutralMaterials": 2
+    },
+    {
+      "groom": "goatee",
+      "skin": "0",
+      "neutralMaterials": 2
+    },
+    {
+      "groom": "goatee",
+      "skin": "3",
+      "neutralMaterials": 2
+    },
+    {
+      "groom": "short",
+      "skin": "0",
+      "neutralMaterials": 2
+    },
+    {
+      "groom": "short",
+      "skin": "3",
+      "neutralMaterials": 2
+    },
+    {
+      "groom": "long",
+      "skin": "0",
+      "neutralMaterials": 2
+    },
+    {
+      "groom": "long",
+      "skin": "3",
+      "neutralMaterials": 2
+    },
+    {
+      "previousBlackPurpleBiasVerified": true,
+      "newBlackNeutralVerified": true
+    }
+  ],
+  "errors": [],
+  "http": [],
+  "black": "#303030",
+  "previous": "#28233A"
+}

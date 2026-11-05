@@ -1,0 +1,414 @@
+{
+  "revision": 231,
+  "status": "Three eye-outline comparisons; owner selection pending",
+  "retained_reference": 224,
+  "owner_direction": [
+    "Keep established glossy dark cartoon eye style",
+    "229 charcoal shading and230 separate-pupil direction rejected",
+    "Show Tapered oval, Soft hooded and Rounded bean alongside Original before selecting a shape"
+  ],
+  "implemented": [
+    "Three authored outlines on both builds using unchanged original eye/highlight materials",
+    "Independent feature controls and established eye choices retained",
+    "Original default; four quick eye comparison buttons preserve outfit, camera and other features",
+    "Matched front portraits for both builds; ordinary shared-coordinate GLBs"
+  ],
+  "source": {
+    "Feminine-tapered": {
+      "build": "Feminine",
+      "shape": "tapered",
+      "label": "Tapered oval",
+      "source": "E:\\Ravedio-Avatar\\refinement231\\output\\sources\\Feminine-tapered.blend",
+      "source_sha256": "e11a3a65ca7cad2a3077ac4e292ac2f9380abab1358c706c1ec71a470e8fde88",
+      "glb": "E:\\Ravedio-Avatar\\refinement231\\output\\components\\Feminine-eyes-tapered.glb",
+      "glb_sha256": "7b4008e88fe9ac4e01d13213f0a5dd4eca9c6bdbc5c7d6234440ec31a5e6717d",
+      "baseline_source": "E:\\Ravedio-Avatar\\refinement224\\scenes\\Feminine-uncovered.blend",
+      "baseline_sha256": "21c9c5fce3fcfc22d782923ecc971f660d3d09e1ce3a0a26c2ffef6aa1c81330",
+      "protected_neighbors_exact": true,
+      "eye_centers": [
+        0.15,
+        1.895
+      ],
+      "materials_unchanged_from_baseline": {
+        "Eye / smoky charcoal181": {
+          "Base Color": [
+            0.026000000536441803,
+            0.03799999877810478,
+            0.05999999865889549,
+            1.0
+          ],
+          "Roughness": 0.18000000715255737,
+          "Metallic": 0.03500000014901161,
+          "Coat Weight": 0.41999998688697815
+        },
+        "Eye highlight181": {
+          "Base Color": [
+            0.7900000214576721,
+            0.8600000143051147,
+            0.9300000071525574,
+            1.0
+          ],
+          "Roughness": 0.17000000178813934,
+          "Metallic": 0.0,
+          "Coat Weight": 0.25
+        },
+        "Eye glint181": {
+          "Base Color": [
+            0.2800000011920929,
+            0.3700000047683716,
+            0.47999998927116394,
+            1.0
+          ],
+          "Roughness": 0.23000000417232513,
+          "Metallic": 0.0,
+          "Coat Weight": 0.18000000715255737
+        }
+      }
+    },
+    "Feminine-hooded": {
+      "build": "Feminine",
+      "shape": "hooded",
+      "label": "Soft hooded",
+      "source": "E:\\Ravedio-Avatar\\refinement231\\output\\sources\\Feminine-hooded.blend",
+      "source_sha256": "8a5095e893c6af19af772cd200df03169fdab32351cd5178a271d66a3a0c173c",
+      "glb": "E:\\Ravedio-Avatar\\refinement231\\output\\components\\Feminine-eyes-hooded.glb",
+      "glb_sha256": "a8931b373cdb0dce5af4b202aa770dc2f2ff14e0bdcebcf02e5d029f485458e0",
+      "baseline_source": "E:\\Ravedio-Avatar\\refinement224\\scenes\\Feminine-uncovered.blend",
+      "baseline_sha256": "21c9c5fce3fcfc22d782923ecc971f660d3d09e1ce3a0a26c2ffef6aa1c81330",
+      "protected_neighbors_exact": true,
+      "eye_centers": [
+        0.15,
+        1.895
+      ],
+      "materials_unchanged_from_baseline": {
+        "Eye / smoky charcoal181": {
+          "Base Color": [
+            0.026000000536441803,
+            0.03799999877810478,
+            0.05999999865889549,
+            1.0
+          ],
+          "Roughness": 0.18000000715255737,
+          "Metallic": 0.03500000014901161,
+          "Coat Weight": 0.41999998688697815
+        },
+        "Eye highlight181": {
+          "Base Color": [
+            0.7900000214576721,
+            0.8600000143051147,
+            0.9300000071525574,
+            1.0
+          ],
+          "Roughness": 0.17000000178813934,
+          "Metallic": 0.0,
+          "Coat Weight": 0.25
+        },
+        "Eye glint181": {
+          "Base Color": [
+            0.2800000011920929,
+            0.3700000047683716,
+            0.47999998927116394,
+            1.0
+          ],
+          "Roughness": 0.23000000417232513,
+          "Metallic": 0.0,
+          "Coat Weight": 0.18000000715255737
+        }
+      }
+    },
+    "Feminine-bean": {
+      "build": "Feminine",
+      "shape": "bean",
+      "label": "Rounded bean",
+      "source": "E:\\Ravedio-Avatar\\refinement231\\output\\sources\\Feminine-bean.blend",
+      "source_sha256": "22bfae8877ea055687f3de314fba451fd8b646376344467a40533d9aceb87aea",
+      "glb": "E:\\Ravedio-Avatar\\refinement231\\output\\components\\Feminine-eyes-bean.glb",
+      "glb_sha256": "53f759b5cc404e481cd5a509181621fed15f794898560302ac64e22f63d1aa72",
+      "baseline_source": "E:\\Ravedio-Avatar\\refinement224\\scenes\\Feminine-uncovered.blend",
+      "baseline_sha256": "21c9c5fce3fcfc22d782923ecc971f660d3d09e1ce3a0a26c2ffef6aa1c81330",
+      "protected_neighbors_exact": true,
+      "eye_centers": [
+        0.15,
+        1.895
+      ],
+      "materials_unchanged_from_baseline": {
+        "Eye / smoky charcoal181": {
+          "Base Color": [
+            0.026000000536441803,
+            0.03799999877810478,
+            0.05999999865889549,
+            1.0
+          ],
+          "Roughness": 0.18000000715255737,
+          "Metallic": 0.03500000014901161,
+          "Coat Weight": 0.41999998688697815
+        },
+        "Eye highlight181": {
+          "Base Color": [
+            0.7900000214576721,
+            0.8600000143051147,
+            0.9300000071525574,
+            1.0
+          ],
+          "Roughness": 0.17000000178813934,
+          "Metallic": 0.0,
+          "Coat Weight": 0.25
+        },
+        "Eye glint181": {
+          "Base Color": [
+            0.2800000011920929,
+            0.3700000047683716,
+            0.47999998927116394,
+            1.0
+          ],
+          "Roughness": 0.23000000417232513,
+          "Metallic": 0.0,
+          "Coat Weight": 0.18000000715255737
+        }
+      }
+    },
+    "Masculine-tapered": {
+      "build": "Masculine",
+      "shape": "tapered",
+      "label": "Tapered oval",
+      "source": "E:\\Ravedio-Avatar\\refinement231\\output\\sources\\Masculine-tapered.blend",
+      "source_sha256": "a04648e92452e87862803c35762b7239fed503a1c170167ee6baf300634988c2",
+      "glb": "E:\\Ravedio-Avatar\\refinement231\\output\\components\\Masculine-eyes-tapered.glb",
+      "glb_sha256": "bea8d1e6ed9d5a9ed839584d4cf6e7b5cb6b78449f56e67492652e7317f99cb2",
+      "baseline_source": "E:\\Ravedio-Avatar\\refinement224\\scenes\\Masculine-taper.blend",
+      "baseline_sha256": "161d7f5eaa922e19ab1cf8be9ec12a8241dccd91fa4bacaf01c60d276f55dabd",
+      "protected_neighbors_exact": true,
+      "eye_centers": [
+        0.15,
+        1.895
+      ],
+      "materials_unchanged_from_baseline": {
+        "Eye / smoky charcoal181": {
+          "Base Color": [
+            0.026000000536441803,
+            0.03799999877810478,
+            0.05999999865889549,
+            1.0
+          ],
+          "Roughness": 0.18000000715255737,
+          "Metallic": 0.03500000014901161,
+          "Coat Weight": 0.41999998688697815
+        },
+        "Eye highlight181": {
+          "Base Color": [
+            0.7900000214576721,
+            0.8600000143051147,
+            0.9300000071525574,
+            1.0
+          ],
+          "Roughness": 0.17000000178813934,
+          "Metallic": 0.0,
+          "Coat Weight": 0.25
+        },
+        "Eye glint181": {
+          "Base Color": [
+            0.2800000011920929,
+            0.3700000047683716,
+            0.47999998927116394,
+            1.0
+          ],
+          "Roughness": 0.23000000417232513,
+          "Metallic": 0.0,
+          "Coat Weight": 0.18000000715255737
+        }
+      }
+    },
+    "Masculine-hooded": {
+      "build": "Masculine",
+      "shape": "hooded",
+      "label": "Soft hooded",
+      "source": "E:\\Ravedio-Avatar\\refinement231\\output\\sources\\Masculine-hooded.blend",
+      "source_sha256": "35e7b3b642224111610d00a8a4394360264bca6ec4486a8815ee07e33d43d910",
+      "glb": "E:\\Ravedio-Avatar\\refinement231\\output\\components\\Masculine-eyes-hooded.glb",
+      "glb_sha256": "b0216201eafae4021c670dd94967e51cde0997ae6fd4001ee6b4976cb081ac76",
+      "baseline_source": "E:\\Ravedio-Avatar\\refinement224\\scenes\\Masculine-taper.blend",
+      "baseline_sha256": "161d7f5eaa922e19ab1cf8be9ec12a8241dccd91fa4bacaf01c60d276f55dabd",
+      "protected_neighbors_exact": true,
+      "eye_centers": [
+        0.15,
+        1.895
+      ],
+      "materials_unchanged_from_baseline": {
+        "Eye / smoky charcoal181": {
+          "Base Color": [
+            0.026000000536441803,
+            0.03799999877810478,
+            0.05999999865889549,
+            1.0
+          ],
+          "Roughness": 0.18000000715255737,
+          "Metallic": 0.03500000014901161,
+          "Coat Weight": 0.41999998688697815
+        },
+        "Eye highlight181": {
+          "Base Color": [
+            0.7900000214576721,
+            0.8600000143051147,
+            0.9300000071525574,
+            1.0
+          ],
+          "Roughness": 0.17000000178813934,
+          "Metallic": 0.0,
+          "Coat Weight": 0.25
+        },
+        "Eye glint181": {
+          "Base Color": [
+            0.2800000011920929,
+            0.3700000047683716,
+            0.47999998927116394,
+            1.0
+          ],
+          "Roughness": 0.23000000417232513,
+          "Metallic": 0.0,
+          "Coat Weight": 0.18000000715255737
+        }
+      }
+    },
+    "Masculine-bean": {
+      "build": "Masculine",
+      "shape": "bean",
+      "label": "Rounded bean",
+      "source": "E:\\Ravedio-Avatar\\refinement231\\output\\sources\\Masculine-bean.blend",
+      "source_sha256": "1e835cb638273893182fb50d87289f90c383efaa412b0957d0773d0bae741f9e",
+      "glb": "E:\\Ravedio-Avatar\\refinement231\\output\\components\\Masculine-eyes-bean.glb",
+      "glb_sha256": "a117c74b7ca83ebf59389e7fd227aa894b77f1444b152922a5963cd17ee11b5a",
+      "baseline_source": "E:\\Ravedio-Avatar\\refinement224\\scenes\\Masculine-taper.blend",
+      "baseline_sha256": "161d7f5eaa922e19ab1cf8be9ec12a8241dccd91fa4bacaf01c60d276f55dabd",
+      "protected_neighbors_exact": true,
+      "eye_centers": [
+        0.15,
+        1.895
+      ],
+      "materials_unchanged_from_baseline": {
+        "Eye / smoky charcoal181": {
+          "Base Color": [
+            0.026000000536441803,
+            0.03799999877810478,
+            0.05999999865889549,
+            1.0
+          ],
+          "Roughness": 0.18000000715255737,
+          "Metallic": 0.03500000014901161,
+          "Coat Weight": 0.41999998688697815
+        },
+        "Eye highlight181": {
+          "Base Color": [
+            0.7900000214576721,
+            0.8600000143051147,
+            0.9300000071525574,
+            1.0
+          ],
+          "Roughness": 0.17000000178813934,
+          "Metallic": 0.0,
+          "Coat Weight": 0.25
+        },
+        "Eye glint181": {
+          "Base Color": [
+            0.2800000011920929,
+            0.3700000047683716,
+            0.47999998927116394,
+            1.0
+          ],
+          "Roughness": 0.23000000417232513,
+          "Metallic": 0.0,
+          "Coat Weight": 0.18000000715255737
+        }
+      }
+    }
+  },
+  "export_proof": {
+    "Feminine-tapered": {
+      "max_bidirectional_world_error": 0.0,
+      "bytes": 234480,
+      "triangles": 12768,
+      "materials": 3,
+      "source_sha256": "e11a3a65ca7cad2a3077ac4e292ac2f9380abab1358c706c1ec71a470e8fde88",
+      "glb_sha256": "7b4008e88fe9ac4e01d13213f0a5dd4eca9c6bdbc5c7d6234440ec31a5e6717d",
+      "compression": false
+    },
+    "Feminine-hooded": {
+      "max_bidirectional_world_error": 0.0,
+      "bytes": 282864,
+      "triangles": 15456,
+      "materials": 3,
+      "source_sha256": "8a5095e893c6af19af772cd200df03169fdab32351cd5178a271d66a3a0c173c",
+      "glb_sha256": "a8931b373cdb0dce5af4b202aa770dc2f2ff14e0bdcebcf02e5d029f485458e0",
+      "compression": false
+    },
+    "Feminine-bean": {
+      "max_bidirectional_world_error": 0.0,
+      "bytes": 337428,
+      "triangles": 18144,
+      "materials": 3,
+      "source_sha256": "22bfae8877ea055687f3de314fba451fd8b646376344467a40533d9aceb87aea",
+      "glb_sha256": "53f759b5cc404e481cd5a509181621fed15f794898560302ac64e22f63d1aa72",
+      "compression": false
+    },
+    "Masculine-tapered": {
+      "max_bidirectional_world_error": 0.0,
+      "bytes": 232324,
+      "triangles": 12768,
+      "materials": 3,
+      "source_sha256": "a04648e92452e87862803c35762b7239fed503a1c170167ee6baf300634988c2",
+      "glb_sha256": "bea8d1e6ed9d5a9ed839584d4cf6e7b5cb6b78449f56e67492652e7317f99cb2",
+      "compression": false
+    },
+    "Masculine-hooded": {
+      "max_bidirectional_world_error": 0.0,
+      "bytes": 280708,
+      "triangles": 15456,
+      "materials": 3,
+      "source_sha256": "35e7b3b642224111610d00a8a4394360264bca6ec4486a8815ee07e33d43d910",
+      "glb_sha256": "b0216201eafae4021c670dd94967e51cde0997ae6fd4001ee6b4976cb081ac76",
+      "compression": false
+    },
+    "Masculine-bean": {
+      "max_bidirectional_world_error": 0.0,
+      "bytes": 335268,
+      "triangles": 18144,
+      "materials": 3,
+      "source_sha256": "1e835cb638273893182fb50d87289f90c383efaa412b0957d0773d0bae741f9e",
+      "glb_sha256": "a117c74b7ca83ebf59389e7fd227aa894b77f1444b152922a5963cd17ee11b5a",
+      "compression": false
+    }
+  },
+  "browser": {
+    "url": "http://127.0.0.1:9228/231/",
+    "checks": [
+      "Feminine:original:4 tones",
+      "Feminine:tapered:4 tones",
+      "Feminine:hooded:4 tones",
+      "Feminine:bean:4 tones",
+      "Masculine:original:4 tones",
+      "Masculine:tapered:4 tones",
+      "Masculine:hooded:4 tones",
+      "Masculine:bean:4 tones"
+    ],
+    "errors": [],
+    "http": [],
+    "comparisonButtons": true,
+    "protectedOtherComponents": true,
+    "choicePersistence": true,
+    "pngDownload": true,
+    "mobileLayout": true
+  },
+  "protected": [
+    "All non-eye geometry exact224 source",
+    "Eye anchor positions",
+    "Existing material settings, skin palette and fixed lighting",
+    "Current wardrobe, selected ponytail/cap, body, face and floating arms"
+  ],
+  "visual_review": {
+    "construction": "Softened tapered outer tip; reduced bean indentation twice to avoid pointed or cut-out appearance. Hooded main highlight seated farther below upper edge.",
+    "final": "Final exported front, three-quarter, both profiles, top and underside reviewed for six candidates; four tones at128 and derived32/48/64. Browser controls and final mobile appearance reviewed separately.",
+    "artistic_disposition": "All three are comparison candidates. Tapered oval is lively, hooded calm, bean playful. None is owner-approved or assigned to a production profile slot.",
+    "limits": "Existing227 artistic holds and native-phone qualification remain separate."
+  },
+  "url": "https://recdpz.github.io/ravedio-avatar-previews/231/",
+  "no_profile_wire_change": true
+}

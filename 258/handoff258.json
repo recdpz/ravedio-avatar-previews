@@ -1,0 +1,40 @@
+{
+  "revision": 258,
+  "baseline_commit": "444304044f001b0de9acd46509de3fd2e928c524",
+  "changed_styles": [
+    "taper",
+    "sidepart",
+    "curly-top"
+  ],
+  "geometry": {
+    "old_taper_max_y": 2.4587109088897705,
+    "new_taper_max_y": 2.4117095470428467,
+    "new_sidepart_max_y": 2.409303665161133,
+    "taper_top_lower_by": 0.04700136184692383,
+    "curly_crown_exact_preserved_meshes": [
+      "Hair252 / unified rooted curly sculpt / static224.002"
+    ],
+    "rear_lock_method": "Resample shorter centerline with original rounded cross sections and parallel transport; no radius pinching",
+    "tip_method": "Opaque cores plus terminal alpha from t=0.86. No257 per-vertex tip shrink.",
+    "fade_surface": "Smooth density-based lift0.0025+0.008*density; cosine ripples removed",
+    "sidepart": "Opposite sweep; restrained forward curve and wave; recessed root foundation shaded0.8"
+  },
+  "colors": "Black changed globally from purple-biased#28233A to neutral#303030. Hair shade multipliers0.88(direction marks),0.8(recessed roots),0.82(groom) preserved. Ombr\u00e9 geometry, alpha, normals, indices, UVs and transforms match corresponding base fits.",
+  "rendering": "Main locks OPAQUE; terminal tips, smooth fade and short directional strokes use BLEND opacity with vertex COLOR_0 alpha. No transmission/refraction in these hair assets. Correct alpha composition required; nearest-opaque baker alone is insufficient.",
+  "coordinates": "Shared coordinates and independent selectable/recolorable features retained. No per-component recentering.",
+  "exports": "72 ordinary GLBs:24 hair,24 Ombr\u00e9,24 seated sprout. Three packed final-GLB assemblies. Other catalogue components unchanged.",
+  "references": "30 matched120/512 color/32-bit Z pairs from final GLBs:three hairstyles with default skins0/1/3 and Black skins0/3. Camera framing identical. Alpha threshold0.5 recorded; assembled depth is not a full component occlusion bake. Regenerate color and depth together after geometry/camera/version changes.",
+  "black_source": "Packed sources use canonical Default. assemblies258.json also records a neutralBlack material/vertex-color recipe for reproducible Black references.",
+  "lighting": "Fixed studio, camera, exposure and color management recorded in assemblies258.json. Blender lighting/tonemapping/shader node behavior does not transfer identically through GLB.",
+  "controls": "Independent feature controls and rotation/zoom retained. Compare257 restores its shapes and palette. Original raised B remains a bare-Taper comparison.",
+  "technical": "technical258.json",
+  "qualification": "Artwork/export checks only. Native alpha composition and phone performance are not qualified by browser results.",
+  "profile_contract": "No profile bytes, wire contracts or mobile renderer changes.",
+  "asset_delivery": {
+    "art_commit": "2dee6d934d1531c52c0d86e7772172b31b289b1e",
+    "raw_base": "https://raw.githubusercontent.com/recdpz/ravedio-avatar-previews/2dee6d934d1531c52c0d86e7772172b31b289b1e/",
+    "current_component_base": "https://raw.githubusercontent.com/recdpz/ravedio-avatar-previews/2dee6d934d1531c52c0d86e7772172b31b289b1e/258/",
+    "pages": "https://recdpz.github.io/ravedio-avatar-previews/258/",
+    "method": "Ordinary GLB/source/PNG/EXR files are excluded from Pages and served unchanged at this pinned GitHub raw commit. Resolve paths against258; retained components may use parent revision paths. JSON/JS/JPG stay on Pages. Browser asset-host.js maps repository binary URLs only; no credentials."
+  }
+}

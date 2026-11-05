@@ -1,0 +1,54 @@
+{
+  "baseline_geometry": 168,
+  "comparison": 169,
+  "owner_acceptance": "Pending170;169 shoulder cap and alternative eyes rejected for revision. Original remains protected.",
+  "first_pass": {
+    "evidence": [
+      "first-pass-body170.jpg",
+      "first-Feminine-eyes-review170.jpg",
+      "first-Masculine-eyes-review170.jpg",
+      "rendered/Feminine-shoulders-matte-threequarter.png",
+      "rendered/Masculine-shoulders-matte-threequarter.png"
+    ],
+    "findings": [
+      "169 windowed shoulder compression leaves uneven roll; replace with continuous cap from168",
+      "First almond corners/tilt too severe",
+      "First narrow option reads sleepy from low, flat upper curve"
+    ],
+    "corrections": [
+      "Replaced local compression by one analytic upper ellipse with a broad smooth blend, no z displacement",
+      "Softened almond corner taper and mirrored tilt",
+      "Moved narrow aperture fullness to upper curve and lowered opening height for clearer distinction"
+    ]
+  },
+  "second_pass": {
+    "evidence": [
+      "second-pass-body170.jpg",
+      "Feminine-eyes-review170.jpg",
+      "Masculine-eyes-review170.jpg",
+      "rendered/Feminine-turnarounds.jpg",
+      "rendered/Masculine-turnarounds.jpg",
+      "rendered/Feminine-details170.jpg",
+      "rendered/Masculine-details170.jpg",
+      "rendered/shoulder-comparison170.jpg",
+      "rendered/Feminine-portraits170.png",
+      "rendered/Masculine-portraits170.png"
+    ],
+    "coverage": "All11 outfit assemblies six angles; eight eye/build pairs front,threequarter,profile; eight bare matte diagnostics; actual32/48/64/128 portraits",
+    "assessment": "Fresh full-quality review completed before publication. Upper silhouette is continuous around front/side/rear; lower chest/bust preserved. Tank, hoodie and existing top boundaries follow the new cap. Original stays exact; Round opens into a circle, Almond is tapered, Narrow has a lower opening and a fuller curved upper edge.",
+    "browser_followup": "Final browser review found almond still too oval; retapered only those2 eye candidates with nearly level corners, rerendered3 views each and reopened all8 eye checkpoints. Stronger viewer fill washed the palette; reduced to one unchanged environment plus restrained hemisphere/directional fill. Native lighting unchanged."
+  },
+  "lighting": {
+    "native": "168,169,170 world/lights/color management exact by inspection",
+    "previous_viewer": "168 and169 use identical3D settings; eye selection changes from a Cycles still to interactive3D",
+    "candidate": "Explicit Soft studio/Previous3D choice. Soft studio adds restrained neutral directional and hemisphere fill; original environment retained. First brighter fill self-rejected as washing the palette. Both comparison models share selected3D lighting; native references unchanged."
+  },
+  "reference": "https://velourbeauty.com/products/everyday-natural-velour-xtensions-self-stick-lash-clusters",
+  "recovery_note": "Long all-in-one final export reached memory limit. Saved geometry and finished renders preserved; remaining cases exported one Blender process at a time and reverified.",
+  "limits": [
+    "Self visual approval is separate from owner art approval",
+    "Only displayed cartoon assemblies; full hairstyle/headwear/accessory catalogue separate",
+    "Responsive browser checks are not physical-phone performance tests",
+    "Human master/Avatar Studio and profile contracts unchanged"
+  ]
+}

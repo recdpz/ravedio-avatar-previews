@@ -1,0 +1,56 @@
+{
+  "revision": 192,
+  "comparison": 191,
+  "status": "Self visual review complete; owner aesthetic approval pending",
+  "recommendation": "Round hands are the simplest match to the current character style; Mitten and Paddle remain selectable studies.",
+  "pass1": {
+    "evidence": [
+      "owner-shorter-pilot192.jpg",
+      "native-review-Masculine192.jpg",
+      "native-review-Feminine192.jpg",
+      "renders/*quality*.png"
+    ],
+    "findings_and_corrections": [
+      "Owner rejected first192 arm length and human-like hands. Shortened the trial arms, retaining a modest increase over191 and fuller lower volume.",
+      "Removed fingers, knuckles, separated digits and grip shapes. Built continuous Round, Mitten and Paddle palms.",
+      "First abstract palms were too similar at ordinary scale. Improved the silhouettes through a local wrist taper and greater palm width; no additional long appendage.",
+      "Reviewed saved/reopened native fronts, both profiles and rears of all14 tops; representative hand fronts, profiles, rear and underside. No additional sleeve penetration or broken wrist join observed."
+    ]
+  },
+  "pass2": {
+    "evidence": [
+      "audit192-wardrobe.jpg",
+      "audit192-combinations-Masculine.jpg",
+      "audit192-combinations-Feminine.jpg",
+      "audit192-hands-Masculine.jpg",
+      "audit192-hands-Feminine.jpg",
+      "audit192-openings.jpg",
+      "audit192-eyes.jpg",
+      "audit192-tones.jpg",
+      "audit192-waist-tops.jpg",
+      "waists192.jpg",
+      "pasties192.jpg",
+      "hands192.jpg",
+      "chat192.png"
+    ],
+    "findings_and_corrections": [
+      "Inspected exported assemblies: all14 tops from five angles,44 top/bottom front pairs,42 hand/top front pairs, and all three hand studies on both builds from five angles.",
+      "Close rear review caught lateral waistband flare on lowered female Shorts/Pants. Garment rays had reached attached arms. Replaced that support query with torso-only geometry and corrected only the waistband sides.",
+      "An initial smoothed waist correction left a small lateral residual. Direct torso fitting removed it; final16-direction clearance checks passed. Waist heights, lower geometry, crotch, hems and body remain unchanged by this correction.",
+      "Recaptured65 affected views after the final waist fix, including all8 female tops with both lowered bottoms from front, side and rear, plus pasties and bare waistband views. Rechecked native full-quality side/rear renders and the exported assemblies. No remaining obvious flare, gaps or adjacent intersections observed in those views.",
+      "Checked all four eye shapes on both builds, Almond at additional angles and all four skin tones, pasties through seven views/four tones, and32/48/64/128px portraits. Original/Round/Soft square unchanged; revised Almond retains the dark cartoon finish."
+    ]
+  },
+  "quality": "Representative saved/reopened Blender renders at1024px/40samples. Exported assemblies reviewed with the unchanged181 WebGL lighting; native and browser rendering are separate presentations.",
+  "technical_evidence": [
+    "technical192.json",
+    "preservation192.json",
+    "browser192.json",
+    "waist-update192.json",
+    "waist-final-proof192.log",
+    "gallery192.json"
+  ],
+  "protected": "Heads, hair, mouths/noses, central torso and bust,151 skin palette and181 lighting; Skirt/Bikini and male bottoms191 retained. No firmware/mobile/cloud/profile contract edits.",
+  "unresolved_visual_issues_in_reviewed_scope": [],
+  "owner_acceptance": "Pending; hand preference is an artistic decision. Technical checks and self-review are not owner approval."
+}

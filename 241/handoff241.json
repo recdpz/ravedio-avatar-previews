@@ -1,0 +1,27 @@
+{
+  "revision": 241,
+  "url": "https://recdpz.github.io/ravedio-avatar-previews/241/",
+  "status": "Owner-review chest-crossing refinement",
+  "baseline_commit": "f860bb0abc5c1367adbe15fffcd47528f3a8432c",
+  "scope": "Narrow the collarbone and upper-chest crossings; preserve239 hanging ends",
+  "changes": [
+    "The crossing cloth is22 percent slimmer over the collarbone and upper chest, reducing coverage from its lower edge.",
+    "Resample existing row curves toward the unchanged upper/inner edge, preserving hood joins, neck opening and torso contact.",
+    "The complete lower hanging ends and fringe are exact239, restoring their original width after the rejected240 change."
+  ],
+  "protected": "Approved239 hood, inner neck joins and upper/inner edge remain unchanged. Lower ends and fringe are exact239. All other components, colors, materials and studio are retained.",
+  "coordinates": "Shared coordinates unchanged; native Blender Z-up to glTF Y-up conversion only. No independent component recentering/resizing.",
+  "selection": "Independent controls retained. pashminaTops[build][top] selects the fit; Compare239 swaps only headgear with the same outfit and view.",
+  "assemblies": {
+    "Feminine": "assemblies/Feminine-pashmina241.blend",
+    "Masculine": "assemblies/Masculine-pashmina241.blend"
+  },
+  "reference_framing": "120 and512 portraits have the same transform and orthographic scale; exact studio/camera/color settings in fixtures241.json.",
+  "materials": "Exact239 woven texture, opaque cloth and0.12 sheen mapping. Ordinary uncompressed GLBs; no new transparency or refraction.",
+  "portable_sources": "Two packed scenes include their imported components. narrow241.py starts from preserved239 per-top authoring scenes and uses retained235/224 helper libraries.",
+  "qualification": "No native parity, depth-composition or phone-performance claim. No profile-byte or product-repository changes.",
+  "technical": "technical241.json",
+  "fixtures": "fixtures241.json",
+  "review": "review241.json",
+  "approval": "approval239.json"
+}

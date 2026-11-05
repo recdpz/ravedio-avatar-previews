@@ -1,0 +1,320 @@
+{
+  "source_commit": "bc544da39b85d29540b4811ba70b078a930ed022",
+  "retained_glbs": [
+    {
+      "path": "181/Feminine-eyes-original.glb",
+      "bytes": 179224,
+      "sha256": "c5e9d35a439db8b51f1e3eb3d3e92a9454187a2c0620128c86a0bdcabb6a09ac"
+    },
+    {
+      "path": "181/Masculine-eyes-original.glb",
+      "bytes": 179224,
+      "sha256": "7678b41b81afe5a13571f2943d72412a06f27bb8956bbb19dfb482233730ec0d"
+    },
+    {
+      "path": "192/Feminine-eyes-almond.glb",
+      "bytes": 332028,
+      "sha256": "8925e70d880ccbbe223c94c9224d57083e38b8dcd184b3e1ea521f339538b37b"
+    },
+    {
+      "path": "192/Masculine-eyes-almond.glb",
+      "bytes": 332028,
+      "sha256": "d8a6a09736c1858a34384ac2e7bdac64501eec3f7bc5848b2d5569cad170a835"
+    },
+    {
+      "path": "203/Masculine-jersey-top.glb",
+      "bytes": 5281480,
+      "sha256": "897220a480e72e9c695f8ef4b490c8ebd3665f1a2e5ecd7aa79c5b91ee763d3a"
+    },
+    {
+      "path": "203/Masculine-tshirt-top.glb",
+      "bytes": 4476968,
+      "sha256": "5ab4f6bcc9a98cc8fc19505db95ff8270945fa08bd99c1e427f959455c42ce2c"
+    },
+    {
+      "path": "208/Feminine-hair.glb",
+      "bytes": 1244780,
+      "sha256": "8a0bfb6cdfdd739f05f82c441ba19c8cbabbc5d8366d60dea38a81de4c8b936f"
+    },
+    {
+      "path": "208/Masculine-buttonup-top.glb",
+      "bytes": 5744820,
+      "sha256": "70016fbd39a7a01ba6500c27118e81d545ca242ebf01346a9503c49cb534af08"
+    },
+    {
+      "path": "208/Masculine-hair.glb",
+      "bytes": 1447600,
+      "sha256": "b57722cd34bc88291fda0ff38152567a90717fc6efb9159ff8eaa09a0069e48f"
+    },
+    {
+      "path": "208/Masculine-shirtless-base.glb",
+      "bytes": 1847192,
+      "sha256": "ffe539ac8ecee8709ec05fea1ec4b666efb85f4dfe01d0295cca026443ac7185"
+    },
+    {
+      "path": "208/Masculine-tank-top.glb",
+      "bytes": 6644976,
+      "sha256": "f1e92ace7e8af79ca1cc09f18175353b69202af0913195f66327c232cae41c37"
+    },
+    {
+      "path": "209/Feminine-mouth-line.glb",
+      "bytes": 42832,
+      "sha256": "075fb169ebb51441febd7656008caf71dd4edbc5f3f49514f1cc4d874c69b114"
+    },
+    {
+      "path": "209/Masculine-mouth-line.glb",
+      "bytes": 42836,
+      "sha256": "873b11550f5bbce567aac077b4fbefcbf04b3793813678f35e1a416a19447872"
+    },
+    {
+      "path": "212/Feminine-extra.glb",
+      "bytes": 146696,
+      "sha256": "40ef5d0b86624099b858cd9acb754a0e35757ac3215ac0776d8e126227cef8ec"
+    },
+    {
+      "path": "212/Masculine-extra.glb",
+      "bytes": 146004,
+      "sha256": "5b1e18dde8c683327aeda1dfef7c5d9ba9af19934f2240b3da374add2aabbb0a"
+    },
+    {
+      "path": "213/Feminine-bandeau-top.glb",
+      "bytes": 427984,
+      "sha256": "fd2d6fe7bc6d32f4e87985a2437c1827618405354c8c01e79486185e8b5930ac"
+    },
+    {
+      "path": "213/Feminine-jersey-top.glb",
+      "bytes": 5799608,
+      "sha256": "2c2e7227da9da2cd21571d23d237343539f07b0700db9dfae5cfaf20c4bb32b3"
+    },
+    {
+      "path": "213/Feminine-strappy-top.glb",
+      "bytes": 4281160,
+      "sha256": "d5a564f16e4db79c1327c9713698cc2fe334441ec92535023ad5ab8620fb624a"
+    },
+    {
+      "path": "213/Feminine-tank-top.glb",
+      "bytes": 4159472,
+      "sha256": "9354181274650025ca93d320b90003e7e11fc6a985ddef96c30ede96dbded57d"
+    },
+    {
+      "path": "214/Feminine-triangle-top.glb",
+      "bytes": 11667680,
+      "sha256": "6fac1426571545061f3d805e1b9d949bc36df0a706a2df7ed0a179fdc547e7b5"
+    },
+    {
+      "path": "214/Feminine-tshirt-top.glb",
+      "bytes": 4458736,
+      "sha256": "13870aae8ed1c8319f7858858a5ff82e6687f094811240c0c78481d54c75f206"
+    },
+    {
+      "path": "215/Feminine-bikini-bottom.glb",
+      "bytes": 7492444,
+      "sha256": "1221b395650340a8fdc9990445cc052b95b477772e6ee9926644e13ab17ec960"
+    },
+    {
+      "path": "215/Feminine-open-top.glb",
+      "bytes": 5580324,
+      "sha256": "fcd3f2da229ec7843e9f8c540e8c0355ed97a752ba24bafb83aa4d41f2be692b"
+    },
+    {
+      "path": "215/Feminine-sweatshirt-top.glb",
+      "bytes": 6715228,
+      "sha256": "496aafd6927202ea66acce4313c4ba90f1a6ab133b325256dcf06f415496fb77"
+    },
+    {
+      "path": "215/Masculine-pants-bottom.glb",
+      "bytes": 6670624,
+      "sha256": "f209a7cce8878223d5c73388e56e819625d1ac8d6826a615d9ff24a484cd7f60"
+    },
+    {
+      "path": "215/Masculine-shorts-bottom.glb",
+      "bytes": 880356,
+      "sha256": "8350740efdd783ab19ad32857d13024d521c6c34feae40abf6752ca0db59330a"
+    },
+    {
+      "path": "215/Masculine-sweatshirt-top.glb",
+      "bytes": 6714640,
+      "sha256": "057df7f062593913e12d4916138486b44c438fb6fe9c11974d04dc417b958ad4"
+    },
+    {
+      "path": "216/Feminine-pants-bottom.glb",
+      "bytes": 5795600,
+      "sha256": "9d53f02e675d7ddb2c6484170c6e56e975eb0ad40f9a5a8f65f31b84356c2a59"
+    },
+    {
+      "path": "216/Feminine-shorts-bottom.glb",
+      "bytes": 6692544,
+      "sha256": "d6ffcf427e430a68c0a88c0be79e3cb986a7035b0d278ae427875a214e345d2e"
+    },
+    {
+      "path": "216/Feminine-skirt-bottom.glb",
+      "bytes": 8554648,
+      "sha256": "7d50c470ddf6b3097eb910cf3f06b2890dc79020e4cfe8976ec651a52184f7f3"
+    },
+    {
+      "path": "224/components/Feminine-cap-hair.glb",
+      "bytes": 2544404,
+      "sha256": "fb2f42dddf1b7b270acd0a2682414f946e69f6dd85839f1dd311e94f1e2cc938"
+    },
+    {
+      "path": "224/components/Feminine-cap-headgear.glb",
+      "bytes": 1162724,
+      "sha256": "0222ced6bfbc8665767725631993396c68a77e6d0fbbf2ca0f09c10a375456c7"
+    },
+    {
+      "path": "224/components/Feminine-details-glasses.glb",
+      "bytes": 96308,
+      "sha256": "a610ee328d592e184ade84ca96c23978f3d0fb87b317c04da16054224cf7963a"
+    },
+    {
+      "path": "224/components/Feminine-uncovered-base.glb",
+      "bytes": 1677136,
+      "sha256": "ba31ace282c894e81591f46a7460ace0104541be1bd97af41097200566641c20"
+    },
+    {
+      "path": "224/components/Feminine-uncovered-hair.glb",
+      "bytes": 2544396,
+      "sha256": "a579930a80f276c3b928e0f98a8b01a313b1d045236037e53d18f2ce2f7d9f9e"
+    },
+    {
+      "path": "224/components/Masculine-details-glasses.glb",
+      "bytes": 94260,
+      "sha256": "a0810bc0812dafc60e3c64ba79d5efb29bb7dbf93f0b88ae0b98726b672a9b84"
+    },
+    {
+      "path": "224/components/Masculine-taper-base.glb",
+      "bytes": 1636856,
+      "sha256": "a6583aefdb3193e24dc31dbacc93505a8494b38584f144ca60da8764182a7352"
+    },
+    {
+      "path": "227/components/Feminine-box-braids-hair.glb",
+      "bytes": 10278180,
+      "sha256": "b005870d39800aa3f645967704f8e8517f2c7ce8e57c334c9eb7c99eaf5c8669"
+    },
+    {
+      "path": "227/components/Feminine-cat-eye-glasses.glb",
+      "bytes": 89496,
+      "sha256": "fef92de897a17dc0314371576d997ced50aeb1b161829e4e673176ef01297f1d"
+    },
+    {
+      "path": "227/components/Feminine-curls-hair.glb",
+      "bytes": 1383780,
+      "sha256": "7d56107801e7d6fd933aff8c848ed88f83aa21e37ff05790cca434210fa6e294"
+    },
+    {
+      "path": "227/components/Feminine-heart-glasses.glb",
+      "bytes": 89492,
+      "sha256": "8ae08f44c26865df83952fb578a57fee63c8e596c9e6c639d5c41e3454d26d59"
+    },
+    {
+      "path": "227/components/Feminine-kaleidoscope-glasses.glb",
+      "bytes": 89500,
+      "sha256": "0423b4aea2770b11a29bd3119c2a4ec2afc94a3f254e956e3b836dfbcc8c8a4b"
+    },
+    {
+      "path": "227/components/Feminine-reading-glasses.glb",
+      "bytes": 90512,
+      "sha256": "0ece0d39855e463fe97454d33b450844da1f9ba92ab432b748713360a5606d3c"
+    },
+    {
+      "path": "227/components/Feminine-side-sweep-hair.glb",
+      "bytes": 1383796,
+      "sha256": "91f56cf36b7a858635d7c0bf8656d245e42bc25093312ea4f3d75c0d8c914730"
+    },
+    {
+      "path": "227/components/Feminine-space-buns-hair.glb",
+      "bytes": 1189564,
+      "sha256": "1cf2f9aa3be47ce84a34a8697851be3201b45ab8d6fd8aa419df6a65c8e639f4"
+    },
+    {
+      "path": "227/components/Feminine-straight-hair.glb",
+      "bytes": 1383792,
+      "sha256": "39fea5f604dae7900205317d4abd253e2f9354dd4a6f27bc7e8e128b01481154"
+    },
+    {
+      "path": "227/components/Feminine-twin-braids-hair.glb",
+      "bytes": 969520,
+      "sha256": "a6e946eb45f2b560decdf008e6957b587a7a491c54e521010f41126ed042145a"
+    },
+    {
+      "path": "227/components/Feminine-wayfarer-glasses.glb",
+      "bytes": 89496,
+      "sha256": "1dd57c84bce80b7f657c764c7a604c6a6b57df22b0d4b9292c22d5478834e6d4"
+    },
+    {
+      "path": "227/components/Feminine-wraparound-glasses.glb",
+      "bytes": 89496,
+      "sha256": "13a3af8c1e1883c13e2938c46c99efd393c9d6318f189e3e4722293c7ffbd2a9"
+    },
+    {
+      "path": "232/components/Feminine-eyes-hooded.glb",
+      "bytes": 282864,
+      "sha256": "91abcb82a30c4d037ebf33390027a07d450d7c05233d0e4803cde131fc580ea6"
+    },
+    {
+      "path": "232/components/Feminine-eyes-squint.glb",
+      "bytes": 337428,
+      "sha256": "e7803a7f406dcc2874f881638729d4dc3337e3b729e1be8ec425534c91fea6d5"
+    },
+    {
+      "path": "232/components/Masculine-eyes-hooded.glb",
+      "bytes": 280708,
+      "sha256": "91bc70d1eea04e5fada16941197116ac9d4e92017ae66cd20606681fa0ffc202"
+    },
+    {
+      "path": "232/components/Masculine-eyes-squint.glb",
+      "bytes": 335272,
+      "sha256": "137c49deb9971ec1e3f3df10f840251295a6ba7eaf3fee1f2d0e4524c26a9c20"
+    },
+    {
+      "path": "233/components/Feminine-eyes-bean.glb",
+      "bytes": 289040,
+      "sha256": "eec54fa919eb53da0a6764aec3666ef769e046362445a8a014c4aba4874afa52"
+    },
+    {
+      "path": "233/components/Feminine-eyes-tapered.glb",
+      "bytes": 282864,
+      "sha256": "bb1a4f177265567d23d08c79d1fcf65fafae034a4b2029b326f78da30c9fad91"
+    },
+    {
+      "path": "233/components/Masculine-eyes-bean.glb",
+      "bytes": 286884,
+      "sha256": "23f99c854f6cc6cccae0e37bea0735e73c26424401c2a2e127fe0c060ac842a1"
+    },
+    {
+      "path": "233/components/Masculine-eyes-tapered.glb",
+      "bytes": 280708,
+      "sha256": "88e9a5d9172cf38006763a68d357d4cafa813d3bfe729615f23a698c771160d8"
+    },
+    {
+      "path": "234/components/Feminine-almond-lashes.glb",
+      "bytes": 60552,
+      "sha256": "6055170b6b04a808bf11e2d81022184e8e7fd935e1fabb1d209646da2d90d0fc"
+    },
+    {
+      "path": "234/components/Feminine-bean-lashes.glb",
+      "bytes": 60548,
+      "sha256": "c3b9f4d34d23fd1eeeae9655abef85041e470a22b7ff1c95b59ab29659575c9d"
+    },
+    {
+      "path": "234/components/Feminine-hooded-lashes.glb",
+      "bytes": 60552,
+      "sha256": "787861068049c97e7ba0c72157d5ba65d44597e52b8352de7eda37513086e720"
+    },
+    {
+      "path": "234/components/Feminine-original-lashes.glb",
+      "bytes": 60548,
+      "sha256": "665b381eba46fd04b7269ac05ba7ef28f6202ed3c96c4164ee3839a4f91f603c"
+    },
+    {
+      "path": "234/components/Feminine-squint-lashes.glb",
+      "bytes": 60548,
+      "sha256": "384689d5cc9698e4c42f3439c0705ed63d3781fd954cd6aae7ebd607c0e61348"
+    },
+    {
+      "path": "234/components/Feminine-tapered-lashes.glb",
+      "bytes": 60552,
+      "sha256": "688dfbe8b211db57e2dd35e9413329f4678cb1ae7edce591e7c4a93693489550"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "revision": 258,
+  "status": "Candidate pending owner review",
+  "source_iterations": "Pass1 bare rear rejected; pass2 rounded nape/relaxed opposite sweep; export trial transform mismatch rejected; pass4 final geometry/material correction",
+  "protected": "Face/body/wardrobe/skin/headgear/lighting and other hair geometry unchanged; 13 other hairstyles reuse original assets. Black recolor intentionally affects all hair and male facial hair.",
+  "exported_visual_views": 312,
+  "core_views": 266,
+  "black_views": 46,
+  "covered_visual_views": 168,
+  "cloth_hidden_views": 6,
+  "exact120px_images": 28,
+  "local_browser_checks": 137,
+  "black_checks": 29,
+  "artifact_review": "Repeated rear tip dents removed using original rounded cross sections. Rippled fade field removed and short-field reflections softened; flagged white streak absent from final GLB right-profile review. Natural studio highlights retained.",
+  "directional_detail": "Stronger/wider but fewer fine strokes; readable close up and recedes at120px instead of becoming dots or stripes.",
+  "limits": "Artwork/export checks only. Native alpha composition and phone performance are not qualified by browser results."
+}

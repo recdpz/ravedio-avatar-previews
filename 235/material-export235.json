@@ -1,0 +1,12 @@
+{
+  "revision": 235,
+  "authoring_sheen_weight": 0.12,
+  "gltf_sheen_color_factor": [
+    0.12,
+    0.12,
+    0.12
+  ],
+  "geometry_unchanged": true,
+  "spec": "https://github.com/KhronosGroup/glTF/blob/main/extensions/2.0/Khronos/KHR_materials_sheen/README.md",
+  "applies_to": "Current235 pashmina/bandana material exports; original authoring cloth finish is preserved rather than using full-strength white sheen."
+}

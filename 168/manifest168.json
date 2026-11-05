@@ -1,0 +1,142 @@
+{
+  "date": "2026-10-16",
+  "revision": 168,
+  "before": 167,
+  "scope": "Separate cartoon garments; exact167 anatomy preserved",
+  "source": "E:\\Ravedio-Avatar\\outfits168",
+  "preview": "https://recdpz.github.io/ravedio-avatar-previews/168/",
+  "changes": [
+    "Curved lower bandeau/strappy edges",
+    "Small fitted fabric ease beneath rounded bust",
+    "Softer tank lower hem clearance over shorts",
+    "Finer strappy diagonal endpoint",
+    "Front-only drawcord/placket projection, including masculine hoodie"
+  ],
+  "models": 11,
+  "renders": 66,
+  "fresh_renders": 54,
+  "reused_renders": 12,
+  "angles": [
+    "front",
+    "threequarter",
+    "profile",
+    "rightprofile",
+    "rear",
+    "top"
+  ],
+  "assets": [
+    {
+      "file": "Feminine-bandeau-top.glb",
+      "sha256": "975137c2287148c892101eaa77ef4bf6d234984cac499803ef34e94e64873aad",
+      "bytes": 3623768
+    },
+    {
+      "file": "Feminine-base.glb",
+      "sha256": "a0e5c5793ca40a88fd1b16959417373bb71e9bd588e76161c8d19b3c0afd5c4e",
+      "bytes": 5138328
+    },
+    {
+      "file": "Feminine-jersey-top.glb",
+      "sha256": "833cd05647a5e9455e992e74569d8675448a389b8f5cc75c783d01bec909fe84",
+      "bytes": 5803520
+    },
+    {
+      "file": "Feminine-open-top.glb",
+      "sha256": "9a4637d54a36b60a724a47be3f690f936a9ea0a7d39e57b231d7ea3128eaa8e1",
+      "bytes": 7805624
+    },
+    {
+      "file": "Feminine-strappy-top.glb",
+      "sha256": "3797a29a5c95d54d206dd0c6a0646bd5cc406b60e8874ea8b805ec98907189c9",
+      "bytes": 4329140
+    },
+    {
+      "file": "Feminine-sweatshirt-top.glb",
+      "sha256": "3f5da129b8e89dcc80919a813ec915962ec2a9014a1504568d0f972e0f095ea5",
+      "bytes": 4836332
+    },
+    {
+      "file": "Feminine-tank-top.glb",
+      "sha256": "ee1fb97d4d507901dfa33da57d9ca6e6633671df5b875dbb36769624b1f40cc6",
+      "bytes": 4285972
+    },
+    {
+      "file": "Feminine-triangle-top.glb",
+      "sha256": "e6efe2914d969a852262760c22bd38714f42331adb94e0f2d2dfc4d3c308417d",
+      "bytes": 6428820
+    },
+    {
+      "file": "Feminine-tshirt-top.glb",
+      "sha256": "eec2677b203391005c7ea3a6e9864a2b2b5ed61417363b139be8eb21d264dd99",
+      "bytes": 4260500
+    },
+    {
+      "file": "Masculine-base.glb",
+      "sha256": "3262c552756fad41d0c1ec6b061864aeb324706b6dfc3225d9e4a44f692f8398",
+      "bytes": 5248548
+    },
+    {
+      "file": "Masculine-jersey-top.glb",
+      "sha256": "951ee7a0f4b3d391e7593562b45b0e6a7f3e3818b8be1b07b3168afad997196e",
+      "bytes": 5852932
+    },
+    {
+      "file": "Masculine-sweatshirt-top.glb",
+      "sha256": "16b3ef3f16bfbfff30ab3351b0a143f58fbe1073c5d7a0dab7ce905b80a204e5",
+      "bytes": 4859324
+    },
+    {
+      "file": "Masculine-tank-top.glb",
+      "sha256": "366244e63970b5c0aeff6752df73de5993b0a69c6990811d45119d04d5a01612",
+      "bytes": 2411076
+    }
+  ],
+  "technical": "fit-verification168.json",
+  "protected": "protected168.json",
+  "visual": "visual-review168.json",
+  "owner_acceptance": "pending for garment refinements;167 body liked",
+  "studio_changed": false,
+  "main_master_changed": false,
+  "profile_contract_changed": false,
+  "skin_palette": {
+    "revision": 151,
+    "sha256": "dea8b653c34170c1890b7cd9b8629efbfa0a2ffcda19693c00b2c721e60f5a09"
+  },
+  "limitations": [
+    "Displayed outfits and shown hair only; full option catalogue not certified",
+    "Live environment lighting approximates Cycles",
+    "Physical mobile touch not tested"
+  ],
+  "browser_verification": {
+    "selection_count": 11,
+    "before_comparisons": 2,
+    "palettes": 4,
+    "angles": 6,
+    "focus_modes": 3,
+    "one_canvas": true,
+    "mobile_width": 390,
+    "overflow": false,
+    "warnings": 0,
+    "png_export": true
+  },
+  "protected_base_count": 11,
+  "all_sampled_supported_fabric_outside_skin": true,
+  "source_files": [
+    {
+      "path": "E:\\Ravedio-Avatar\\outfits168\\model168.py",
+      "sha256": "6a60c5a24813b7455421b161ea39af5470ab3f71e75bb8e437d5fe75eb3f594b"
+    },
+    {
+      "path": "E:\\Ravedio-Avatar\\outfits168\\hoodie-male168.py",
+      "sha256": "d28f7d308e85b20aca75265f212c80c119417f46f1a28c6398c381d4eb748797"
+    },
+    {
+      "path": "E:\\Ravedio-Avatar\\outfits168\\verify168.py",
+      "sha256": "7aee96179430515a0c1516ea0e6c34b873a2bd0610a921d2abe16a9127f02cd7"
+    },
+    {
+      "path": "E:\\Ravedio-Avatar\\outfits168\\package168.py",
+      "sha256": "1617be4c0f80873607f73cf2baa65d109a21e6f75560624a3eab06a4128a2e26"
+    }
+  ]
+}

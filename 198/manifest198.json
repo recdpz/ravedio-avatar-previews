@@ -1,0 +1,26 @@
+{
+  "revision": 198,
+  "scope": "Focused restoration of178 Swept floating arms; not a full wardrobe release",
+  "arm_donor": 178,
+  "current_complete_preview": 193,
+  "rejected": [
+    194,
+    195,
+    196,
+    197
+  ],
+  "pending": [
+    "Chest upper/lower contour refinement",
+    "Lower abdomen and inner-leg split",
+    "Full wardrobe refit after arm review"
+  ],
+  "palette": 151,
+  "lighting": 181,
+  "owner_approval": "Pending",
+  "files": {
+    "Feminine-base.glb": "b93a588e868cab96c5da05f38707615993dec1259830da6dc4cab7c14bc209cf",
+    "Feminine-tank-top.glb": "a76c64adf49ee4b75898b71d01913a31212b95afdf04a258b718d966fcd3d46e",
+    "Masculine-base.glb": "8ce1e85deed75925f6decf0ff812102a56046630cac95460cc1393aeb39b64fe",
+    "Masculine-tank-top.glb": "7ec7e9dc7620d09698cee9971b4e5dae60df9ae6098af5ac8f6424cd7d10b5ce"
+  }
+}

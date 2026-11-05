@@ -1,0 +1,352 @@
+{
+  "Feminine-ponytail-cap-hair.glb": {
+    "bytes": 7207876,
+    "sha256": "405dbe4b2d5778ce458dffd5ada78b1194a12f0d65dd62dd62397eb2630c5421",
+    "triangles": 95912,
+    "mesh_nodes": 9,
+    "primitives": 9,
+    "materials": 6,
+    "material_details": [
+      {
+        "name": "Hair / sculpted front locks222",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.21294040977954865,
+          0.07010369747877121,
+          0.030939150601625443,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / chestnut212 1",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.21952620148658752,
+          0.07227185368537903,
+          0.03189603239297867,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / chestnut212 0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.21294040977954865,
+          0.07010369747877121,
+          0.030939150601625443,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / chestnut212 2",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.2261119931936264,
+          0.07444000989198685,
+          0.032852914184331894,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / crisp pulled roots220",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.30000001192092896,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / fitted tie214",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.024000000208616257,
+          0.014999999664723873,
+          0.017000000923871994,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.46000000834465027,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.03999999910593033,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      }
+    ],
+    "textures": [],
+    "extensions_used": [
+      "KHR_materials_clearcoat"
+    ],
+    "extensions_required": [],
+    "self_contained": true
+  },
+  "Feminine-ponytail-cap.glb": {
+    "bytes": 2056644,
+    "sha256": "179bfcb054ecc31f1edd7d0413579c2983e10e30f02ce9f5db54cb62c4480670",
+    "triangles": 60988,
+    "mesh_nodes": 17,
+    "primitives": 17,
+    "materials": 3,
+    "material_details": [
+      {
+        "name": "Cap / subtle sewing212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.04600000008940697,
+          0.07800000160932541,
+          0.10499999672174454,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.7400000095367432,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Cap / midnight cotton212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.026000000536441803,
+          0.05299999937415123,
+          0.07999999821186066,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.6899999976158142,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.36000001430511475
+          }
+        }
+      },
+      {
+        "name": "Cap / graphic214",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.7799999713897705,
+          0.8299999833106995,
+          0.8100000023841858,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.6000000238418579,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.019999999552965164,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      }
+    ],
+    "textures": [],
+    "extensions_used": [
+      "KHR_materials_clearcoat",
+      "KHR_materials_specular"
+    ],
+    "extensions_required": [],
+    "self_contained": true
+  },
+  "Feminine-ponytail-hair.glb": {
+    "bytes": 7481792,
+    "sha256": "47e7e0a7a8de4d4f01fc7260e0878329bca998da118c0eed28713350871dd2a8",
+    "triangles": 95912,
+    "mesh_nodes": 9,
+    "primitives": 9,
+    "materials": 6,
+    "material_details": [
+      {
+        "name": "Hair / sculpted front locks222",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.21294040977954865,
+          0.07010369747877121,
+          0.030939150601625443,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / chestnut212 1",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.21952620148658752,
+          0.07227185368537903,
+          0.03189603239297867,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / chestnut212 0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.21294040977954865,
+          0.07010369747877121,
+          0.030939150601625443,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / chestnut212 2",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.2261119931936264,
+          0.07444000989198685,
+          0.032852914184331894,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / crisp pulled roots220",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.30000001192092896,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / fitted tie214",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.024000000208616257,
+          0.014999999664723873,
+          0.017000000923871994,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.46000000834465027,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.03999999910593033,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      }
+    ],
+    "textures": [],
+    "extensions_used": [
+      "KHR_materials_clearcoat"
+    ],
+    "extensions_required": [],
+    "self_contained": true
+  }
+}

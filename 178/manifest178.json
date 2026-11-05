@@ -1,0 +1,141 @@
+{
+  "revision": 178,
+  "source_preview": 177,
+  "source_sha": "a5e8bc460f17b0067edc536057e80d8d0f9c6264",
+  "owner_acceptance": "pending",
+  "scope": "13 tops on exact chosen176 Swept meshes under rigid inward pose; connected fuller bikini gusset, slimmer elliptical feminine pants/context leg fit, settled bob root caps",
+  "coordinate_space": "Saved final-world177 donors; exact176 Swept shape rigid rotation0.16radians, one mirrored per-top clearance offset shared by native and viewer; no old support deformation replay",
+  "visual_reference": "Native Blender Cycles. Browser lighting parity remains separate; palette/lighting unchanged in178.",
+  "sets": {
+    "Feminine": [
+      "bandeau",
+      "triangle",
+      "strappy",
+      "tshirt",
+      "jersey",
+      "open",
+      "tank",
+      "sweatshirt"
+    ],
+    "Masculine": [
+      "tank",
+      "tshirt",
+      "jersey",
+      "buttonup",
+      "sweatshirt"
+    ]
+  },
+  "fit_offsets": {
+    "Feminine-bandeau": 0.0,
+    "Feminine-triangle": 0.0,
+    "Feminine-strappy": 0.0,
+    "Feminine-tshirt": 0.01,
+    "Feminine-jersey": 0.022,
+    "Feminine-open": 0.01,
+    "Feminine-tank": 0.0,
+    "Feminine-sweatshirt": 0.028,
+    "Masculine-tank": 0.018000000000000002,
+    "Masculine-tshirt": 0.052000000000000005,
+    "Masculine-jersey": 0.066,
+    "Masculine-buttonup": 0.052000000000000005,
+    "Masculine-sweatshirt": 0.07
+  },
+  "source_reconciliation": "177 live viewer uses172 feminine/173 masculine hair while its native top scenes retained older donor hair.178 assembles the actual viewer-selected hair; matched before comparisons use the same selection.",
+  "verification": {
+    "native": "13 tops and 3 special candidates; exact saved signatures, protected anatomy/materials, exact chosen Swept shape under rigid pose, UV retention, evaluated sleeve/body/arm clearance and bottom topology",
+    "visual": "Two actual self-review passes; separate owner approval pending",
+    "browser": "Selectors, atomic before/after assembly swaps, palettes, build memory, mobile framing and PNG export"
+  },
+  "assets": [
+    {
+      "file": "Feminine-arms.glb",
+      "bytes": 366152,
+      "sha256": "8eeec269cc626c43bc94bab3d5b4164ad4de8acc67abe3106dc50093500cde15"
+    },
+    {
+      "file": "Feminine-bandeau-top.glb",
+      "bytes": 3623768,
+      "sha256": "be53e5278e0fd1184a74d3e640e4c42db4cf4e4a6d3fef77af97053c9f8922c3"
+    },
+    {
+      "file": "Feminine-bikini.glb",
+      "bytes": 2500000,
+      "sha256": "5a57fbc2889860450a55d21975ac18aee15a94122f98c789cdf28ec3b891526a"
+    },
+    {
+      "file": "Feminine-hair.glb",
+      "bytes": 4888072,
+      "sha256": "ed9022c42630a49a561a44622b73e35d7cf5409b3762f8159316d322ee77cd5d"
+    },
+    {
+      "file": "Feminine-jersey-top.glb",
+      "bytes": 5622632,
+      "sha256": "20a5389a470916649766646d55a3839a510b66816e59450d380ff30eec31862d"
+    },
+    {
+      "file": "Feminine-open-top.glb",
+      "bytes": 5498516,
+      "sha256": "d99d39c15d4ba03d7536b95d0f32f4c982d6222497d95457f7fba2f3273dc3ba"
+    },
+    {
+      "file": "Feminine-pants.glb",
+      "bytes": 2595424,
+      "sha256": "8ed570b8e4f2498ce8876433114695a7937687b41e6a981a01bec7adb9c7d734"
+    },
+    {
+      "file": "Feminine-strappy-top.glb",
+      "bytes": 4370792,
+      "sha256": "3c8c74dec09315e826753d0377327a38485c93b742944eb67866f386cccfc60d"
+    },
+    {
+      "file": "Feminine-sweatshirt-top.glb",
+      "bytes": 5828988,
+      "sha256": "238658eb108514a4fb9c3c0d98d4a49f6d9d3f175d4635da186b45068d1d85a3"
+    },
+    {
+      "file": "Feminine-tank-top.glb",
+      "bytes": 4281376,
+      "sha256": "fba57d825819d9c2c06823897823c3be395317618b2a2ad4bf2170eee80d5cd7"
+    },
+    {
+      "file": "Feminine-triangle-top.glb",
+      "bytes": 6428964,
+      "sha256": "38be9392b8e7f0e8b806ebe570665b79ffcba8cacc7f9c69374be0f4ed7b0984"
+    },
+    {
+      "file": "Feminine-tshirt-top.glb",
+      "bytes": 4152700,
+      "sha256": "8b7186d332e8e44c0c4cd1cf0eb1bb18d0d0fe488d48b9b5a168ef67626a1420"
+    },
+    {
+      "file": "Masculine-arms.glb",
+      "bytes": 366152,
+      "sha256": "1afa8320b65409785db4a62f21bd8304a27e057b7a711f002e0cd565cf4475fa"
+    },
+    {
+      "file": "Masculine-buttonup-top.glb",
+      "bytes": 5542900,
+      "sha256": "9dd2f1811545fe2bbc4d77a328bcf13c439341f3ec9432802a49b83c277b6a0d"
+    },
+    {
+      "file": "Masculine-jersey-top.glb",
+      "bytes": 5627688,
+      "sha256": "44accb054fd3931a64274a7aab11691fe926c6041363e4b32a9508b53f002e84"
+    },
+    {
+      "file": "Masculine-sweatshirt-top.glb",
+      "bytes": 5829712,
+      "sha256": "aaefab78fb982c95e5eb886e994a944cd962d64282afa69d0c902e4bb001acac"
+    },
+    {
+      "file": "Masculine-tank-top.glb",
+      "bytes": 2369476,
+      "sha256": "066d782bdabd2c88a96e60600cd0ce8897e011ce0561053447453404a7e66dc3"
+    },
+    {
+      "file": "Masculine-tshirt-top.glb",
+      "bytes": 4152688,
+      "sha256": "07dd11da4754657ae1b107c2ad0e411ae4b4d10ac50fd0fcb4f2336b33bf566b"
+    }
+  ]
+}

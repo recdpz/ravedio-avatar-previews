@@ -1,0 +1,38 @@
+{
+  "checks": [
+    [
+      "curly-top",
+      "none"
+    ],
+    [
+      "curly-top",
+      "cap"
+    ],
+    [
+      "curly-top",
+      "beanie"
+    ],
+    [
+      "curly-top",
+      "bucket"
+    ],
+    [
+      "curly-top",
+      "cowboy"
+    ],
+    [
+      "curly-top",
+      "headband"
+    ],
+    [
+      "curly-top",
+      "ears"
+    ],
+    [
+      "curly-top",
+      "pashmina"
+    ]
+  ],
+  "errors": [],
+  "http": []
+}

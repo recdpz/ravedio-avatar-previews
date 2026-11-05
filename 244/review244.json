@@ -1,0 +1,22 @@
+{
+  "revision": 244,
+  "reviewer": "self",
+  "owner_approval": "pending",
+  "scope": "Remove inherited wavy neck tabs while retaining243 higher knot and outward drape",
+  "changes": [
+    "The lower hood, neck return and early end roots gather into one narrower continuous neck fold.",
+    "Outward shoulder tabs are removed from the actual cloth silhouette; no additional covering panel is added.",
+    "The243 knot and outward falling lengths after t0.27 remain exact, as do the fringe and all non-headgear components."
+  ],
+  "protected": "Upper hood above1.49,243 free drape after t0.27, body/face/hair/wardrobe/materials/studio and shared coordinates.",
+  "passes": [
+    "14 source construction reviews.",
+    "14 fresh GLB fits at seven angles;16 covered hairstyles at four angles; two packed/reopened scenes and matched243 comparisons.",
+    "Browser selectors,22 routes/color/comparison checks, six close assemblies at six angles and live delivery checks."
+  ],
+  "visual_findings": [
+    "Owner identified an inherited wave/tab on each outer neck edge. A colored topology inspection isolated the lower hood, return and early end-root transition.",
+    "The corrective field is confined to that lower neck transition; higher crossing and outer-chest fall remain the243 design."
+  ],
+  "native_qualification": "Separate and not performed here."
+}

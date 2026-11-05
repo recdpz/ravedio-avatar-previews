@@ -1,0 +1,5898 @@
+{
+  "components/Feminine-bandeau-top.glb": {
+    "bytes": 427984,
+    "sha256": "fd2d6fe7bc6d32f4e87985a2437c1827618405354c8c01e79486185e8b5930ac",
+    "triangles": 25120,
+    "mesh_nodes": 12,
+    "primitives": 16,
+    "materials": 6,
+    "material_details": [
+      {
+        "name": "Pasties / crystal204 0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.3967552185058594,
+          0.3915724754333496,
+          0.6104955673217773,
+          1
+        ],
+        "metallic": 0.6200000047683716,
+        "roughness": 0.20000000298023224,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.44999998807907104,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Pasties / crystal204 1",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.21223075687885284,
+          0.40724021196365356,
+          0.5271151065826416,
+          1
+        ],
+        "metallic": 0.6200000047683716,
+        "roughness": 0.20000000298023224,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.44999998807907104,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Pasties / crystal204 2",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.46207699179649353,
+          0.2917706370353699,
+          0.5271151065826416,
+          1
+        ],
+        "metallic": 0.6200000047683716,
+        "roughness": 0.20000000298023224,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.44999998807907104,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Pasties / black204",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.005605391692370176,
+          0.006512090563774109,
+          0.010960093699395657,
+          1
+        ],
+        "metallic": 0.12999999523162842,
+        "roughness": 0.3199999928474426,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.2800000011920929,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Pasties / graphite facets204",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.020288562402129173,
+          0.024157632142305374,
+          0.039546236395835876,
+          1
+        ],
+        "metallic": 0.2800000011920929,
+        "roughness": 0.28999999165534973,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.3199999928474426,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Pasties / iridescent edge204",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.18447498977184296,
+          0.17464740574359894,
+          0.38132601976394653,
+          1
+        ],
+        "metallic": 0.5199999809265137,
+        "roughness": 0.23999999463558197,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.3499999940395355,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      }
+    ],
+    "textures": [],
+    "extensions_used": [
+      "KHR_materials_clearcoat"
+    ],
+    "extensions_required": [],
+    "self_contained": true
+  },
+  "components/Feminine-base.glb": {
+    "bytes": 1675304,
+    "sha256": "f85ae71c52fe7558ebc8b09f03457206e96c62343590e1ffeb1956352d71eab3",
+    "triangles": 94464,
+    "mesh_nodes": 8,
+    "primitives": 12,
+    "materials": 5,
+    "material_details": [
+      {
+        "name": "Chest / shade191 0.965",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.7863269448280334,
+          0.6021217703819275,
+          0.32994741201400757,
+          1
+        ],
+        "metallic": 0.2800000011920929,
+        "roughness": 0.25,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Chest / shade191 0.9",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.7333618998527527,
+          0.5615643262863159,
+          0.3077229857444763,
+          1
+        ],
+        "metallic": 0.2800000011920929,
+        "roughness": 0.25,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Chest / shade191 0.84",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.6844711303710938,
+          0.5241267085075378,
+          0.28720811009407043,
+          1
+        ],
+        "metallic": 0.2800000011920929,
+        "roughness": 0.25,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Skin / Light warm",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.8148465752601624,
+          0.6239603757858276,
+          0.34191441535949707,
+          1
+        ],
+        "metallic": 0.2800000011920929,
+        "roughness": 0.25,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Skin / Light warm.001",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.8148465752601624,
+          0.6239603757858276,
+          0.34191441535949707,
+          1
+        ],
+        "metallic": 0.2800000011920929,
+        "roughness": 0.25,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      }
+    ],
+    "textures": [],
+    "extensions_used": [
+      "KHR_materials_clearcoat"
+    ],
+    "extensions_required": [],
+    "self_contained": true
+  },
+  "components/Feminine-bob-cap-hair.glb": {
+    "bytes": 1247440,
+    "sha256": "09c8c64f64797a06409453519d4e86e926cd3dd729375c2ef0fab1b0cdc655fc",
+    "triangles": 95168,
+    "mesh_nodes": 22,
+    "primitives": 22,
+    "materials": 4,
+    "material_details": [
+      {
+        "name": "Hair / sculpted 0.004",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.18782077729701996,
+          0.05951123684644699,
+          0.02518685907125473,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / sculpted 1.005",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.16202937066555023,
+          0.05126945674419403,
+          0.022173885256052017,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / sculpted 2.004",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.21952620148658752,
+          0.07227185368537903,
+          0.03189603239297867,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / sculpted 1",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.16202937066555023,
+          0.05126945674419403,
+          0.022173885256052017,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      }
+    ],
+    "textures": [],
+    "extensions_used": [
+      "KHR_materials_clearcoat"
+    ],
+    "extensions_required": [],
+    "self_contained": true
+  },
+  "components/Feminine-bob-hair.glb": {
+    "bytes": 1247428,
+    "sha256": "a9c520660a67461cc612920096d2c01c41d1f8abd3780f3d1822e1c1815a4349",
+    "triangles": 95168,
+    "mesh_nodes": 22,
+    "primitives": 22,
+    "materials": 4,
+    "material_details": [
+      {
+        "name": "Hair / sculpted 0.004",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.18782077729701996,
+          0.05951123684644699,
+          0.02518685907125473,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / sculpted 1.005",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.16202937066555023,
+          0.05126945674419403,
+          0.022173885256052017,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / sculpted 2.004",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.21952620148658752,
+          0.07227185368537903,
+          0.03189603239297867,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / sculpted 1",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.16202937066555023,
+          0.05126945674419403,
+          0.022173885256052017,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      }
+    ],
+    "textures": [],
+    "extensions_used": [
+      "KHR_materials_clearcoat"
+    ],
+    "extensions_required": [],
+    "self_contained": true
+  },
+  "components/Feminine-glasses.glb": {
+    "bytes": 94432,
+    "sha256": "3cbac72c2a2e5d09e9c90e5c36981b979222f4fb24aa125d4af30ccc6f074460",
+    "triangles": 3560,
+    "mesh_nodes": 5,
+    "primitives": 5,
+    "materials": 1,
+    "material_details": [
+      {
+        "name": "Glasses / graphite rectangular212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.03500000014901161,
+          0.04100000113248825,
+          0.05000000074505806,
+          1
+        ],
+        "metallic": 0.44999998807907104,
+        "roughness": 0.3100000023841858,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.10000000149011612,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      }
+    ],
+    "textures": [],
+    "extensions_used": [
+      "KHR_materials_clearcoat"
+    ],
+    "extensions_required": [],
+    "self_contained": true
+  },
+  "components/Feminine-headgear.glb": {
+    "bytes": 1148472,
+    "sha256": "fa273d46f7cae6d0af899621afc02811b98aa96cba8bebb8460a803163418c48",
+    "triangles": 57644,
+    "mesh_nodes": 13,
+    "primitives": 13,
+    "materials": 2,
+    "material_details": [
+      {
+        "name": "Cap / subtle sewing212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.04600000008940697,
+          0.07800000160932541,
+          0.10499999672174454,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.7400000095367432,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Cap / midnight cotton212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.026000000536441803,
+          0.05299999937415123,
+          0.07999999821186066,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.6899999976158142,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.36000001430511475
+          }
+        }
+      }
+    ],
+    "textures": [],
+    "extensions_used": [
+      "KHR_materials_clearcoat",
+      "KHR_materials_specular"
+    ],
+    "extensions_required": [],
+    "self_contained": true
+  },
+  "components/Feminine-jersey-top.glb": {
+    "bytes": 5799608,
+    "sha256": "2c2e7227da9da2cd21571d23d237343539f07b0700db9dfae5cfaf20c4bb32b3",
+    "triangles": 206856,
+    "mesh_nodes": 15,
+    "primitives": 15,
+    "materials": 5,
+    "material_details": [
+      {
+        "name": "213 Top / jersey atlas",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.46000000834465027,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Jersey / button finish202.001",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.5394794940948486,
+          0.5647115111351013,
+          0.6307571530342102,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.36000001430511475,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.10000000149011612,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "167 Top / jersey",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.46000000834465027,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Neckline / jersey binding203 fabric",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.46000000834465027,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "167 Top / jersey",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.46000000834465027,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      }
+    ],
+    "textures": [
+      {
+        "name": "jersey-default-atlas",
+        "dimensions": [
+          1024,
+          1024
+        ],
+        "mime": "image/png",
+        "bytes": 266594
+      },
+      {
+        "name": "jersey-pattern",
+        "dimensions": [
+          512,
+          512
+        ],
+        "mime": "image/png",
+        "bytes": 64906
+      }
+    ],
+    "extensions_used": [
+      "KHR_materials_clearcoat"
+    ],
+    "extensions_required": [],
+    "self_contained": true
+  },
+  "components/Feminine-lenses.glb": {
+    "bytes": 80988,
+    "sha256": "37f39eb44b25ee5fd4d1f45410e6b33225c207ae8755ea2cfe8fcb35960f97bd",
+    "triangles": 5120,
+    "mesh_nodes": 2,
+    "primitives": 2,
+    "materials": 1,
+    "material_details": [
+      {
+        "name": "Glasses / clear lens212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.9800000190734863,
+          0.9900000095367432,
+          1,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.02500000037252903,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_transmission": {
+            "transmissionFactor": 1
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.5
+          },
+          "KHR_materials_ior": {
+            "ior": 1.25
+          }
+        }
+      }
+    ],
+    "textures": [],
+    "extensions_used": [
+      "KHR_materials_clearcoat",
+      "KHR_materials_transmission",
+      "KHR_materials_specular",
+      "KHR_materials_ior"
+    ],
+    "extensions_required": [],
+    "self_contained": true
+  },
+  "components/Feminine-open-top.glb": {
+    "bytes": 5723536,
+    "sha256": "c8f1b1aa7404f132fa9c84e912bc051a209cae892ad638780883fe99a2e2f43f",
+    "triangles": 245372,
+    "mesh_nodes": 13,
+    "primitives": 13,
+    "materials": 2,
+    "material_details": [
+      {
+        "name": "Button-up / buttons202",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.6307571530342102,
+          0.6307571530342102,
+          0.6795424818992615,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.3799999952316284,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.10000000149011612,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "173 Button-up / fabric",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.4019777774810791,
+          0.2961382567882538,
+          0.6038273572921753,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.44999998807907104,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      }
+    ],
+    "textures": [],
+    "extensions_used": [
+      "KHR_materials_clearcoat"
+    ],
+    "extensions_required": [],
+    "self_contained": true
+  },
+  "components/Feminine-ponytail-cap-hair.glb": {
+    "bytes": 2265528,
+    "sha256": "59ec57f66238c84a3439457ac9753ad5e16e4c7b25ed489baace931483bad60c",
+    "triangles": 132608,
+    "mesh_nodes": 10,
+    "primitives": 10,
+    "materials": 4,
+    "material_details": [
+      {
+        "name": "Hair / chestnut212 1",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.21952620148658752,
+          0.07227185368537903,
+          0.03189603239297867,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / chestnut212 0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.21294040977954865,
+          0.07010369747877121,
+          0.030939150601625443,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / chestnut212 2",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.2261119931936264,
+          0.07444000989198685,
+          0.032852914184331894,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / close pony tie213",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.024000000208616257,
+          0.014999999664723873,
+          0.017000000923871994,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.46000000834465027,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.03999999910593033,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      }
+    ],
+    "textures": [],
+    "extensions_used": [
+      "KHR_materials_clearcoat"
+    ],
+    "extensions_required": [],
+    "self_contained": true
+  },
+  "components/Feminine-ponytail-hair.glb": {
+    "bytes": 2265504,
+    "sha256": "f3390ae1eb61a7df2096a4922af5a684f74a46aab1ac53f2012abbd9d1de181a",
+    "triangles": 132608,
+    "mesh_nodes": 10,
+    "primitives": 10,
+    "materials": 4,
+    "material_details": [
+      {
+        "name": "Hair / chestnut212 1",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.21952620148658752,
+          0.07227185368537903,
+          0.03189603239297867,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / chestnut212 0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.21294040977954865,
+          0.07010369747877121,
+          0.030939150601625443,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / chestnut212 2",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.2261119931936264,
+          0.07444000989198685,
+          0.032852914184331894,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / close pony tie213",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.024000000208616257,
+          0.014999999664723873,
+          0.017000000923871994,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.46000000834465027,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.03999999910593033,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      }
+    ],
+    "textures": [],
+    "extensions_used": [
+      "KHR_materials_clearcoat"
+    ],
+    "extensions_required": [],
+    "self_contained": true
+  },
+  "components/Feminine-strappy-top.glb": {
+    "bytes": 4281160,
+    "sha256": "d5a564f16e4db79c1327c9713698cc2fe334441ec92535023ad5ab8620fb624a",
+    "triangles": 188672,
+    "mesh_nodes": 5,
+    "primitives": 5,
+    "materials": 1,
+    "material_details": [
+      {
+        "name": "167 Top / strappy",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.5840784311294556,
+          0.21223075687885284,
+          0.177888423204422,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.3799999952316284,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      }
+    ],
+    "textures": [],
+    "extensions_used": [
+      "KHR_materials_clearcoat"
+    ],
+    "extensions_required": [],
+    "self_contained": true
+  },
+  "components/Feminine-sweatshirt-top.glb": {
+    "bytes": 6451168,
+    "sha256": "8bbddc2705d143257c513f402b22d3cd4a6877d772cca1d7efa3a24bc30693bb",
+    "triangles": 297622,
+    "mesh_nodes": 18,
+    "primitives": 23,
+    "materials": 11,
+    "material_details": [
+      {
+        "name": "167 Top / sweatshirt",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.42869049310684204,
+          0.3049873113632202,
+          0.6038273572921753,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.3799999952316284,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hoodie / soft cord205",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.7379103899002075,
+          0.6653872728347778,
+          0.8069522380828857,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.44999998807907104,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.029999999329447746,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hoodie / lining204",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.308657169342041,
+          0.21959085762500763,
+          0.43475568294525146,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.5299999713897705,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hoodie / rolled edge204",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.38153454661369324,
+          0.27143871784210205,
+          0.537406325340271,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.3799999952316284,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hoodie / soft cavity lining206",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.18433691561222076,
+          0.13114453852176666,
+          0.2596457600593567,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.5600000023841858,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hoodie / folded mouth facing206",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.3172309696674347,
+          0.22569060325622559,
+          0.44683223962783813,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.5099999904632568,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hoodie / lip seam206",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.36867383122444153,
+          0.2622890770435333,
+          0.5192915201187134,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.3799999952316284,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Sleeve / ribbed cuff201.001",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.3986821472644806,
+          0.28363820910453796,
+          0.5615594387054443,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.3799999952316284,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Sleeve / ribbed cuff201",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.3986821472644806,
+          0.28363820910453796,
+          0.5615594387054443,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.3799999952316284,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Sleeve / cuff fabric202.001",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.36867383122444153,
+          0.2622890770435333,
+          0.5192915201187134,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.3799999952316284,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Sleeve / cuff fabric202",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.36867383122444153,
+          0.2622890770435333,
+          0.5192915201187134,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.3799999952316284,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      }
+    ],
+    "textures": [],
+    "extensions_used": [
+      "KHR_materials_clearcoat"
+    ],
+    "extensions_required": [],
+    "self_contained": true
+  },
+  "components/Feminine-tank-top.glb": {
+    "bytes": 4159472,
+    "sha256": "9354181274650025ca93d320b90003e7e11fc6a985ddef96c30ede96dbded57d",
+    "triangles": 182000,
+    "mesh_nodes": 3,
+    "primitives": 3,
+    "materials": 1,
+    "material_details": [
+      {
+        "name": "167 Top / tank",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.13563333451747894,
+          0.4125426113605499,
+          0.41788506507873535,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.3799999952316284,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      }
+    ],
+    "textures": [],
+    "extensions_used": [
+      "KHR_materials_clearcoat"
+    ],
+    "extensions_required": [],
+    "self_contained": true
+  },
+  "components/Feminine-triangle-top.glb": {
+    "bytes": 11395480,
+    "sha256": "e3c99905c5ff83152d7047919cfd06b1668f033a62bc893858cc782d763d7d52",
+    "triangles": 483474,
+    "mesh_nodes": 3,
+    "primitives": 3,
+    "materials": 1,
+    "material_details": [
+      {
+        "name": "167 Top / triangle",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.08228270709514618,
+          0.47353148460388184,
+          0.48514994978904724,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.3799999952316284,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      }
+    ],
+    "textures": [],
+    "extensions_used": [
+      "KHR_materials_clearcoat"
+    ],
+    "extensions_required": [],
+    "self_contained": true
+  },
+  "components/Feminine-tshirt-top.glb": {
+    "bytes": 4463400,
+    "sha256": "5af76a2d08c077922ebaa845a4eab3a7673ce0185715376131339b7f642aac62",
+    "triangles": 191112,
+    "mesh_nodes": 7,
+    "primitives": 7,
+    "materials": 1,
+    "material_details": [
+      {
+        "name": "167 Top / tshirt",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.07227185368537903,
+          0.33716362714767456,
+          0.35640013217926025,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.3799999952316284,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      }
+    ],
+    "textures": [],
+    "extensions_used": [
+      "KHR_materials_clearcoat"
+    ],
+    "extensions_required": [],
+    "self_contained": true
+  },
+  "components/Masculine-glasses.glb": {
+    "bytes": 93732,
+    "sha256": "be18a1c5e781e6c6f978379bd597e9108a64976f81bb956a9fb5ded93e17fd78",
+    "triangles": 3560,
+    "mesh_nodes": 5,
+    "primitives": 5,
+    "materials": 1,
+    "material_details": [
+      {
+        "name": "Glasses / graphite rectangular212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.03500000014901161,
+          0.04100000113248825,
+          0.05000000074505806,
+          1
+        ],
+        "metallic": 0.44999998807907104,
+        "roughness": 0.3100000023841858,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.10000000149011612,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      }
+    ],
+    "textures": [],
+    "extensions_used": [
+      "KHR_materials_clearcoat"
+    ],
+    "extensions_required": [],
+    "self_contained": true
+  },
+  "components/Masculine-headgear.glb": {
+    "bytes": 1147772,
+    "sha256": "4b08cc14b62ce50bd1947c95e0f5f52c2c6b3ef27bfb40c457041d3756f17cfd",
+    "triangles": 57644,
+    "mesh_nodes": 13,
+    "primitives": 13,
+    "materials": 2,
+    "material_details": [
+      {
+        "name": "Cap / subtle sewing212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.04600000008940697,
+          0.07800000160932541,
+          0.10499999672174454,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.7400000095367432,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Cap / midnight cotton212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.026000000536441803,
+          0.05299999937415123,
+          0.07999999821186066,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.6899999976158142,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.36000001430511475
+          }
+        }
+      }
+    ],
+    "textures": [],
+    "extensions_used": [
+      "KHR_materials_clearcoat",
+      "KHR_materials_specular"
+    ],
+    "extensions_required": [],
+    "self_contained": true
+  },
+  "components/Masculine-lenses.glb": {
+    "bytes": 80288,
+    "sha256": "71d3d656acf24dd89bf7d5734d93686f242df784bafbc839ccb42ef402571333",
+    "triangles": 5120,
+    "mesh_nodes": 2,
+    "primitives": 2,
+    "materials": 1,
+    "material_details": [
+      {
+        "name": "Glasses / clear lens212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.9800000190734863,
+          0.9900000095367432,
+          1,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.02500000037252903,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_transmission": {
+            "transmissionFactor": 1
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.5
+          },
+          "KHR_materials_ior": {
+            "ior": 1.25
+          }
+        }
+      }
+    ],
+    "textures": [],
+    "extensions_used": [
+      "KHR_materials_clearcoat",
+      "KHR_materials_transmission",
+      "KHR_materials_specular",
+      "KHR_materials_ior"
+    ],
+    "extensions_required": [],
+    "self_contained": true
+  },
+  "components/Masculine-sidepart-cap-hair.glb": {
+    "bytes": 1449536,
+    "sha256": "cf8a36fb4d3db32458012ac156698603c1e968323fb0e78d3f2f7939b4d97204",
+    "triangles": 111616,
+    "mesh_nodes": 21,
+    "primitives": 21,
+    "materials": 4,
+    "material_details": [
+      {
+        "name": "Hair / sculpted 1.003",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.16202937066555023,
+          0.05126945674419403,
+          0.022173885256052017,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / sculpted 0.002",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.18782077729701996,
+          0.05951123684644699,
+          0.02518685907125473,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / sculpted 2.002",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.21952620148658752,
+          0.07227185368537903,
+          0.03189603239297867,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / sculpted 1",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.16202937066555023,
+          0.05126945674419403,
+          0.022173885256052017,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      }
+    ],
+    "textures": [],
+    "extensions_used": [
+      "KHR_materials_clearcoat"
+    ],
+    "extensions_required": [],
+    "self_contained": true
+  },
+  "components/Masculine-sidepart-hair.glb": {
+    "bytes": 1449524,
+    "sha256": "c3510abdcf1ce072e1269d2f9eae4e97ab1c692aae9c52b8eab142331a9c23e4",
+    "triangles": 111616,
+    "mesh_nodes": 21,
+    "primitives": 21,
+    "materials": 4,
+    "material_details": [
+      {
+        "name": "Hair / sculpted 1.003",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.16202937066555023,
+          0.05126945674419403,
+          0.022173885256052017,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / sculpted 0.002",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.18782077729701996,
+          0.05951123684644699,
+          0.02518685907125473,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / sculpted 2.002",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.21952620148658752,
+          0.07227185368537903,
+          0.03189603239297867,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / sculpted 1",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.16202937066555023,
+          0.05126945674419403,
+          0.022173885256052017,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      }
+    ],
+    "textures": [],
+    "extensions_used": [
+      "KHR_materials_clearcoat"
+    ],
+    "extensions_required": [],
+    "self_contained": true
+  },
+  "components/Masculine-taper-cap-hair.glb": {
+    "bytes": 9737496,
+    "sha256": "212f930e33ed3c3c00cc92fcf9dea55fbffd24b17e2455411b90bb837c7f00b4",
+    "triangles": 394122,
+    "mesh_nodes": 3,
+    "primitives": 3,
+    "materials": 3,
+    "material_details": [
+      {
+        "name": "Hair / taper fade213",
+        "alphaMode": "BLEND",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.41999998688697815,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.10000000149011612,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / sculpted taper213",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.18782077729701996,
+          0.05951123684644699,
+          0.02518685907125473,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.3400000035762787,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.2199999988079071,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / taper short texture213",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.09000000357627869,
+          0.032999999821186066,
+          0.01600000075995922,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.49000000953674316,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.029999999329447746,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      }
+    ],
+    "textures": [],
+    "extensions_used": [
+      "KHR_materials_clearcoat"
+    ],
+    "extensions_required": [],
+    "self_contained": true
+  },
+  "components/Masculine-taper-hair.glb": {
+    "bytes": 9737472,
+    "sha256": "d7a3c92ef6133f138ae856249a1ac1bd4b10eeeb0b9d682498c7a30aa98183e3",
+    "triangles": 394122,
+    "mesh_nodes": 3,
+    "primitives": 3,
+    "materials": 3,
+    "material_details": [
+      {
+        "name": "Hair / taper fade213",
+        "alphaMode": "BLEND",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.41999998688697815,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.10000000149011612,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / sculpted taper213",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.18782077729701996,
+          0.05951123684644699,
+          0.02518685907125473,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.3400000035762787,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.2199999988079071,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / taper short texture213",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.09000000357627869,
+          0.032999999821186066,
+          0.01600000075995922,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.49000000953674316,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.029999999329447746,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      }
+    ],
+    "textures": [],
+    "extensions_used": [
+      "KHR_materials_clearcoat"
+    ],
+    "extensions_required": [],
+    "self_contained": true
+  },
+  "scenes/Feminine-bob-cap-glasses-hot.glb": {
+    "bytes": 17354264,
+    "sha256": "b4ac7a0c10dc51a19a2a498f3cb0b5333f0a8c6aaa29b0186124877341bf7657",
+    "triangles": 834816,
+    "mesh_nodes": 67,
+    "primitives": 71,
+    "materials": 22,
+    "material_details": [
+      {
+        "name": "Bottom / fabric201",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.01599629409611225,
+          0.017641954123973846,
+          0.023153366521000862,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.5299999713897705,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07000000029802322,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Bottom / stitch201",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.03433980792760849,
+          0.03688944876194,
+          0.04666508734226227,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.5600000023841858,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.11999999731779099,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Cap / subtle sewing212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.04600000008940697,
+          0.07800000160932541,
+          0.10499999672174454,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.7400000095367432,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Cap / midnight cotton212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.026000000536441803,
+          0.05299999937415123,
+          0.07999999821186066,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.6899999976158142,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.36000001430511475
+          }
+        }
+      },
+      {
+        "name": "Chest / shade191 0.965",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.7863269448280334,
+          0.6021217703819275,
+          0.32994741201400757,
+          1
+        ],
+        "metallic": 0.2800000011920929,
+        "roughness": 0.25,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Chest / shade191 0.9",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.7333618998527527,
+          0.5615643262863159,
+          0.3077229857444763,
+          1
+        ],
+        "metallic": 0.2800000011920929,
+        "roughness": 0.25,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Chest / shade191 0.84",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.6844711303710938,
+          0.5241267085075378,
+          0.28720811009407043,
+          1
+        ],
+        "metallic": 0.2800000011920929,
+        "roughness": 0.25,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "167 Top / tank",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.13563333451747894,
+          0.4125426113605499,
+          0.41788506507873535,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.3799999952316284,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Eye / smoky charcoal181",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.026000000536441803,
+          0.03799999877810478,
+          0.05999999865889549,
+          1
+        ],
+        "metallic": 0.03500000014901161,
+        "roughness": 0.18000000715255737,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.10999999940395355
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.8999999761581421
+          }
+        }
+      },
+      {
+        "name": "Eye highlight181",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.7900000214576721,
+          0.8600000143051147,
+          0.9300000071525574,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.17000000178813934,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.25,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Eye glint181",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.2800000011920929,
+          0.3700000047683716,
+          0.47999998927116394,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.23000000417232513,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.18000000715255737,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Face / ink209",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.01899999938905239,
+          0.008999999612569809,
+          0.009999999776482582,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.5299999713897705,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.4399999976158142
+          }
+        }
+      },
+      {
+        "name": "Glasses / graphite rectangular212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.03500000014901161,
+          0.04100000113248825,
+          0.05000000074505806,
+          1
+        ],
+        "metallic": 0.44999998807907104,
+        "roughness": 0.3100000023841858,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.10000000149011612,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Glasses / clear lens212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.9800000190734863,
+          0.9900000095367432,
+          1,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.02500000037252903,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_transmission": {
+            "transmissionFactor": 1
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.5
+          },
+          "KHR_materials_ior": {
+            "ior": 1.25
+          }
+        }
+      },
+      {
+        "name": "Hair / sculpted 0.004",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.18782077729701996,
+          0.05951123684644699,
+          0.02518685907125473,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / sculpted 1.005",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.16202937066555023,
+          0.05126945674419403,
+          0.022173885256052017,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / sculpted 2.004",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.21952620148658752,
+          0.07227185368537903,
+          0.03189603239297867,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "HOT / original ink212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.02500000037252903,
+          0.012000000104308128,
+          0.03500000014901161,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.5,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.1599999964237213
+          }
+        }
+      },
+      {
+        "name": "HOT / original coral212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.9200000166893005,
+          0.017999999225139618,
+          0.03500000014901161,
+          1
+        ],
+        "metallic": 0.009999999776482582,
+        "roughness": 0.47999998927116394,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.1599999964237213
+          }
+        }
+      },
+      {
+        "name": "Hair / sculpted 1",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.16202937066555023,
+          0.05126945674419403,
+          0.022173885256052017,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Skin / Light warm",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.8148465752601624,
+          0.6239603757858276,
+          0.34191441535949707,
+          1
+        ],
+        "metallic": 0.2800000011920929,
+        "roughness": 0.25,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Skin / Light warm.001",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.8148465752601624,
+          0.6239603757858276,
+          0.34191441535949707,
+          1
+        ],
+        "metallic": 0.2800000011920929,
+        "roughness": 0.25,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      }
+    ],
+    "textures": [],
+    "extensions_used": [
+      "KHR_materials_clearcoat",
+      "KHR_materials_transmission",
+      "KHR_materials_specular",
+      "KHR_materials_ior"
+    ],
+    "extensions_required": [],
+    "self_contained": true
+  },
+  "scenes/Feminine-bob-glasses-hot.glb": {
+    "bytes": 16236808,
+    "sha256": "4bafb6a299798360a10202bfc930ef3a58f3e3b9dd34dd768c574430cff151d6",
+    "triangles": 777172,
+    "mesh_nodes": 54,
+    "primitives": 58,
+    "materials": 20,
+    "material_details": [
+      {
+        "name": "Bottom / fabric201",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.01599629409611225,
+          0.017641954123973846,
+          0.023153366521000862,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.5299999713897705,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07000000029802322,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Bottom / stitch201",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.03433980792760849,
+          0.03688944876194,
+          0.04666508734226227,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.5600000023841858,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.11999999731779099,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Chest / shade191 0.965",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.7863269448280334,
+          0.6021217703819275,
+          0.32994741201400757,
+          1
+        ],
+        "metallic": 0.2800000011920929,
+        "roughness": 0.25,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Chest / shade191 0.9",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.7333618998527527,
+          0.5615643262863159,
+          0.3077229857444763,
+          1
+        ],
+        "metallic": 0.2800000011920929,
+        "roughness": 0.25,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Chest / shade191 0.84",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.6844711303710938,
+          0.5241267085075378,
+          0.28720811009407043,
+          1
+        ],
+        "metallic": 0.2800000011920929,
+        "roughness": 0.25,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "167 Top / tank",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.13563333451747894,
+          0.4125426113605499,
+          0.41788506507873535,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.3799999952316284,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Eye / smoky charcoal181",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.026000000536441803,
+          0.03799999877810478,
+          0.05999999865889549,
+          1
+        ],
+        "metallic": 0.03500000014901161,
+        "roughness": 0.18000000715255737,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.10999999940395355
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.8999999761581421
+          }
+        }
+      },
+      {
+        "name": "Eye highlight181",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.7900000214576721,
+          0.8600000143051147,
+          0.9300000071525574,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.17000000178813934,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.25,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Eye glint181",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.2800000011920929,
+          0.3700000047683716,
+          0.47999998927116394,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.23000000417232513,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.18000000715255737,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Face / ink209",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.01899999938905239,
+          0.008999999612569809,
+          0.009999999776482582,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.5299999713897705,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.4399999976158142
+          }
+        }
+      },
+      {
+        "name": "Glasses / graphite rectangular212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.03500000014901161,
+          0.04100000113248825,
+          0.05000000074505806,
+          1
+        ],
+        "metallic": 0.44999998807907104,
+        "roughness": 0.3100000023841858,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.10000000149011612,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Glasses / clear lens212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.9800000190734863,
+          0.9900000095367432,
+          1,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.02500000037252903,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_transmission": {
+            "transmissionFactor": 1
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.5
+          },
+          "KHR_materials_ior": {
+            "ior": 1.25
+          }
+        }
+      },
+      {
+        "name": "Hair / sculpted 0.004",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.18782077729701996,
+          0.05951123684644699,
+          0.02518685907125473,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / sculpted 1.005",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.16202937066555023,
+          0.05126945674419403,
+          0.022173885256052017,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / sculpted 2.004",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.21952620148658752,
+          0.07227185368537903,
+          0.03189603239297867,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "HOT / original ink212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.02500000037252903,
+          0.012000000104308128,
+          0.03500000014901161,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.5,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.1599999964237213
+          }
+        }
+      },
+      {
+        "name": "HOT / original coral212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.9200000166893005,
+          0.017999999225139618,
+          0.03500000014901161,
+          1
+        ],
+        "metallic": 0.009999999776482582,
+        "roughness": 0.47999998927116394,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.1599999964237213
+          }
+        }
+      },
+      {
+        "name": "Hair / sculpted 1",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.16202937066555023,
+          0.05126945674419403,
+          0.022173885256052017,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Skin / Light warm",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.8148465752601624,
+          0.6239603757858276,
+          0.34191441535949707,
+          1
+        ],
+        "metallic": 0.2800000011920929,
+        "roughness": 0.25,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Skin / Light warm.001",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.8148465752601624,
+          0.6239603757858276,
+          0.34191441535949707,
+          1
+        ],
+        "metallic": 0.2800000011920929,
+        "roughness": 0.25,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      }
+    ],
+    "textures": [],
+    "extensions_used": [
+      "KHR_materials_clearcoat",
+      "KHR_materials_transmission",
+      "KHR_materials_specular",
+      "KHR_materials_ior"
+    ],
+    "extensions_required": [],
+    "self_contained": true
+  },
+  "scenes/Feminine-ponytail-cap-glasses-hot-hoodie.glb": {
+    "bytes": 20664120,
+    "sha256": "622112adda763ce503e3103c48dcd68780dd74cf15f62bf0bbfbe3062324eb02",
+    "triangles": 987878,
+    "mesh_nodes": 70,
+    "primitives": 79,
+    "materials": 32,
+    "material_details": [
+      {
+        "name": "Bottom / fabric201",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.01599629409611225,
+          0.017641954123973846,
+          0.023153366521000862,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.5299999713897705,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07000000029802322,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Bottom / stitch201",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.03433980792760849,
+          0.03688944876194,
+          0.04666508734226227,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.5600000023841858,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.11999999731779099,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Cap / subtle sewing212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.04600000008940697,
+          0.07800000160932541,
+          0.10499999672174454,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.7400000095367432,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Cap / midnight cotton212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.026000000536441803,
+          0.05299999937415123,
+          0.07999999821186066,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.6899999976158142,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.36000001430511475
+          }
+        }
+      },
+      {
+        "name": "Chest / shade191 0.965",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.7863269448280334,
+          0.6021217703819275,
+          0.32994741201400757,
+          1
+        ],
+        "metallic": 0.2800000011920929,
+        "roughness": 0.25,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Chest / shade191 0.9",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.7333618998527527,
+          0.5615643262863159,
+          0.3077229857444763,
+          1
+        ],
+        "metallic": 0.2800000011920929,
+        "roughness": 0.25,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Chest / shade191 0.84",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.6844711303710938,
+          0.5241267085075378,
+          0.28720811009407043,
+          1
+        ],
+        "metallic": 0.2800000011920929,
+        "roughness": 0.25,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "167 Top / sweatshirt",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.42869049310684204,
+          0.3049873113632202,
+          0.6038273572921753,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.3799999952316284,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Eye / smoky charcoal181",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.026000000536441803,
+          0.03799999877810478,
+          0.05999999865889549,
+          1
+        ],
+        "metallic": 0.03500000014901161,
+        "roughness": 0.18000000715255737,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.10999999940395355
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.8999999761581421
+          }
+        }
+      },
+      {
+        "name": "Eye highlight181",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.7900000214576721,
+          0.8600000143051147,
+          0.9300000071525574,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.17000000178813934,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.25,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Eye glint181",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.2800000011920929,
+          0.3700000047683716,
+          0.47999998927116394,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.23000000417232513,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.18000000715255737,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Face / ink209",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.01899999938905239,
+          0.008999999612569809,
+          0.009999999776482582,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.5299999713897705,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.4399999976158142
+          }
+        }
+      },
+      {
+        "name": "Glasses / graphite rectangular212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.03500000014901161,
+          0.04100000113248825,
+          0.05000000074505806,
+          1
+        ],
+        "metallic": 0.44999998807907104,
+        "roughness": 0.3100000023841858,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.10000000149011612,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Glasses / clear lens212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.9800000190734863,
+          0.9900000095367432,
+          1,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.02500000037252903,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_transmission": {
+            "transmissionFactor": 1
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.5
+          },
+          "KHR_materials_ior": {
+            "ior": 1.25
+          }
+        }
+      },
+      {
+        "name": "Hair / chestnut212 1",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.21952620148658752,
+          0.07227185368537903,
+          0.03189603239297867,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / chestnut212 0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.21294040977954865,
+          0.07010369747877121,
+          0.030939150601625443,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / chestnut212 2",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.2261119931936264,
+          0.07444000989198685,
+          0.032852914184331894,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / close pony tie213",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.024000000208616257,
+          0.014999999664723873,
+          0.017000000923871994,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.46000000834465027,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.03999999910593033,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hoodie / soft cord205",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.7379103899002075,
+          0.6653872728347778,
+          0.8069522380828857,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.44999998807907104,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.029999999329447746,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hoodie / lining204",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.308657169342041,
+          0.21959085762500763,
+          0.43475568294525146,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.5299999713897705,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hoodie / rolled edge204",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.38153454661369324,
+          0.27143871784210205,
+          0.537406325340271,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.3799999952316284,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hoodie / soft cavity lining206",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.18433691561222076,
+          0.13114453852176666,
+          0.2596457600593567,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.5600000023841858,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hoodie / folded mouth facing206",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.3172309696674347,
+          0.22569060325622559,
+          0.44683223962783813,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.5099999904632568,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hoodie / lip seam206",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.36867383122444153,
+          0.2622890770435333,
+          0.5192915201187134,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.3799999952316284,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "HOT / original ink212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.02500000037252903,
+          0.012000000104308128,
+          0.03500000014901161,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.5,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.1599999964237213
+          }
+        }
+      },
+      {
+        "name": "HOT / original coral212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.9200000166893005,
+          0.017999999225139618,
+          0.03500000014901161,
+          1
+        ],
+        "metallic": 0.009999999776482582,
+        "roughness": 0.47999998927116394,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.1599999964237213
+          }
+        }
+      },
+      {
+        "name": "Skin / Light warm",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.8148465752601624,
+          0.6239603757858276,
+          0.34191441535949707,
+          1
+        ],
+        "metallic": 0.2800000011920929,
+        "roughness": 0.25,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Skin / Light warm.001",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.8148465752601624,
+          0.6239603757858276,
+          0.34191441535949707,
+          1
+        ],
+        "metallic": 0.2800000011920929,
+        "roughness": 0.25,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Sleeve / ribbed cuff201.001",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.3986821472644806,
+          0.28363820910453796,
+          0.5615594387054443,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.3799999952316284,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Sleeve / ribbed cuff201",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.3986821472644806,
+          0.28363820910453796,
+          0.5615594387054443,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.3799999952316284,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Sleeve / cuff fabric202.001",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.36867383122444153,
+          0.2622890770435333,
+          0.5192915201187134,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.3799999952316284,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Sleeve / cuff fabric202",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.36867383122444153,
+          0.2622890770435333,
+          0.5192915201187134,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.3799999952316284,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      }
+    ],
+    "textures": [],
+    "extensions_used": [
+      "KHR_materials_clearcoat",
+      "KHR_materials_transmission",
+      "KHR_materials_specular",
+      "KHR_materials_ior"
+    ],
+    "extensions_required": [],
+    "self_contained": true
+  },
+  "scenes/Feminine-ponytail-cap.glb": {
+    "bytes": 18056620,
+    "sha256": "984bae1920fdc1f3fc2cd516c2c00c38dcebbbf593ce4f961682ac5ed56afe0a",
+    "triangles": 855800,
+    "mesh_nodes": 46,
+    "primitives": 50,
+    "materials": 18,
+    "material_details": [
+      {
+        "name": "Bottom / fabric201",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.01599629409611225,
+          0.017641954123973846,
+          0.023153366521000862,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.5299999713897705,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07000000029802322,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Bottom / stitch201",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.03433980792760849,
+          0.03688944876194,
+          0.04666508734226227,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.5600000023841858,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.11999999731779099,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Cap / subtle sewing212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.04600000008940697,
+          0.07800000160932541,
+          0.10499999672174454,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.7400000095367432,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Cap / midnight cotton212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.026000000536441803,
+          0.05299999937415123,
+          0.07999999821186066,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.6899999976158142,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.36000001430511475
+          }
+        }
+      },
+      {
+        "name": "Chest / shade191 0.965",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.7863269448280334,
+          0.6021217703819275,
+          0.32994741201400757,
+          1
+        ],
+        "metallic": 0.2800000011920929,
+        "roughness": 0.25,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Chest / shade191 0.9",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.7333618998527527,
+          0.5615643262863159,
+          0.3077229857444763,
+          1
+        ],
+        "metallic": 0.2800000011920929,
+        "roughness": 0.25,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Chest / shade191 0.84",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.6844711303710938,
+          0.5241267085075378,
+          0.28720811009407043,
+          1
+        ],
+        "metallic": 0.2800000011920929,
+        "roughness": 0.25,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "167 Top / tank",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.13563333451747894,
+          0.4125426113605499,
+          0.41788506507873535,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.3799999952316284,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Eye / smoky charcoal181",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.026000000536441803,
+          0.03799999877810478,
+          0.05999999865889549,
+          1
+        ],
+        "metallic": 0.03500000014901161,
+        "roughness": 0.18000000715255737,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.10999999940395355
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.8999999761581421
+          }
+        }
+      },
+      {
+        "name": "Eye highlight181",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.7900000214576721,
+          0.8600000143051147,
+          0.9300000071525574,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.17000000178813934,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.25,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Eye glint181",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.2800000011920929,
+          0.3700000047683716,
+          0.47999998927116394,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.23000000417232513,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.18000000715255737,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Face / ink209",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.01899999938905239,
+          0.008999999612569809,
+          0.009999999776482582,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.5299999713897705,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.4399999976158142
+          }
+        }
+      },
+      {
+        "name": "Hair / chestnut212 1",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.21952620148658752,
+          0.07227185368537903,
+          0.03189603239297867,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / chestnut212 0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.21294040977954865,
+          0.07010369747877121,
+          0.030939150601625443,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / chestnut212 2",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.2261119931936264,
+          0.07444000989198685,
+          0.032852914184331894,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / close pony tie213",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.024000000208616257,
+          0.014999999664723873,
+          0.017000000923871994,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.46000000834465027,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.03999999910593033,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Skin / Light warm",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.8148465752601624,
+          0.6239603757858276,
+          0.34191441535949707,
+          1
+        ],
+        "metallic": 0.2800000011920929,
+        "roughness": 0.25,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Skin / Light warm.001",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.8148465752601624,
+          0.6239603757858276,
+          0.34191441535949707,
+          1
+        ],
+        "metallic": 0.2800000011920929,
+        "roughness": 0.25,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      }
+    ],
+    "textures": [],
+    "extensions_used": [
+      "KHR_materials_clearcoat",
+      "KHR_materials_specular"
+    ],
+    "extensions_required": [],
+    "self_contained": true
+  },
+  "scenes/Feminine-ponytail.glb": {
+    "bytes": 16939184,
+    "sha256": "8e96faf83721a42aaea9780762513a83d7e385d07bc0f3708aaf0540a4fdc698",
+    "triangles": 798156,
+    "mesh_nodes": 33,
+    "primitives": 37,
+    "materials": 16,
+    "material_details": [
+      {
+        "name": "Bottom / fabric201",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.01599629409611225,
+          0.017641954123973846,
+          0.023153366521000862,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.5299999713897705,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07000000029802322,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Bottom / stitch201",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.03433980792760849,
+          0.03688944876194,
+          0.04666508734226227,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.5600000023841858,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.11999999731779099,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Chest / shade191 0.965",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.7863269448280334,
+          0.6021217703819275,
+          0.32994741201400757,
+          1
+        ],
+        "metallic": 0.2800000011920929,
+        "roughness": 0.25,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Chest / shade191 0.9",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.7333618998527527,
+          0.5615643262863159,
+          0.3077229857444763,
+          1
+        ],
+        "metallic": 0.2800000011920929,
+        "roughness": 0.25,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Chest / shade191 0.84",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.6844711303710938,
+          0.5241267085075378,
+          0.28720811009407043,
+          1
+        ],
+        "metallic": 0.2800000011920929,
+        "roughness": 0.25,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "167 Top / tank",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.13563333451747894,
+          0.4125426113605499,
+          0.41788506507873535,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.3799999952316284,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Eye / smoky charcoal181",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.026000000536441803,
+          0.03799999877810478,
+          0.05999999865889549,
+          1
+        ],
+        "metallic": 0.03500000014901161,
+        "roughness": 0.18000000715255737,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.10999999940395355
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.8999999761581421
+          }
+        }
+      },
+      {
+        "name": "Eye highlight181",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.7900000214576721,
+          0.8600000143051147,
+          0.9300000071525574,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.17000000178813934,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.25,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Eye glint181",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.2800000011920929,
+          0.3700000047683716,
+          0.47999998927116394,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.23000000417232513,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.18000000715255737,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Face / ink209",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.01899999938905239,
+          0.008999999612569809,
+          0.009999999776482582,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.5299999713897705,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.4399999976158142
+          }
+        }
+      },
+      {
+        "name": "Hair / chestnut212 1",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.21952620148658752,
+          0.07227185368537903,
+          0.03189603239297867,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / chestnut212 0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.21294040977954865,
+          0.07010369747877121,
+          0.030939150601625443,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / chestnut212 2",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.2261119931936264,
+          0.07444000989198685,
+          0.032852914184331894,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / close pony tie213",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.024000000208616257,
+          0.014999999664723873,
+          0.017000000923871994,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.46000000834465027,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.03999999910593033,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Skin / Light warm",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.8148465752601624,
+          0.6239603757858276,
+          0.34191441535949707,
+          1
+        ],
+        "metallic": 0.2800000011920929,
+        "roughness": 0.25,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Skin / Light warm.001",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.8148465752601624,
+          0.6239603757858276,
+          0.34191441535949707,
+          1
+        ],
+        "metallic": 0.2800000011920929,
+        "roughness": 0.25,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      }
+    ],
+    "textures": [],
+    "extensions_used": [
+      "KHR_materials_clearcoat",
+      "KHR_materials_specular"
+    ],
+    "extensions_required": [],
+    "self_contained": true
+  },
+  "scenes/Masculine-sidepart-cap-glasses-hot.glb": {
+    "bytes": 13738444,
+    "sha256": "0970cf39867290a208be908269b80377037f6aded357034c9735edecbfa0c41b",
+    "triangles": 688818,
+    "mesh_nodes": 68,
+    "primitives": 68,
+    "materials": 20,
+    "material_details": [
+      {
+        "name": "Bottom / fabric.001",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.01599629409611225,
+          0.017641954123973846,
+          0.023153366521000862,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.6000000238418579,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.03999999910593033,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Bottom / stitch.001",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.013596849516034126,
+          0.014995661564171314,
+          0.019680360332131386,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.6000000238418579,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.03999999910593033,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Cap / subtle sewing212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.04600000008940697,
+          0.07800000160932541,
+          0.10499999672174454,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.7400000095367432,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Cap / midnight cotton212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.026000000536441803,
+          0.05299999937415123,
+          0.07999999821186066,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.6899999976158142,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.36000001430511475
+          }
+        }
+      },
+      {
+        "name": "165 Top / tank",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.13563333451747894,
+          0.4125426113605499,
+          0.41788506507873535,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.3799999952316284,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Eye / smoky charcoal181",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.026000000536441803,
+          0.03799999877810478,
+          0.05999999865889549,
+          1
+        ],
+        "metallic": 0.03500000014901161,
+        "roughness": 0.18000000715255737,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.10999999940395355
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.8999999761581421
+          }
+        }
+      },
+      {
+        "name": "Eye highlight181",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.7900000214576721,
+          0.8600000143051147,
+          0.9300000071525574,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.17000000178813934,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.25,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Eye glint181",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.2800000011920929,
+          0.3700000047683716,
+          0.47999998927116394,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.23000000417232513,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.18000000715255737,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Face / ink209",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.01899999938905239,
+          0.008999999612569809,
+          0.009999999776482582,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.5299999713897705,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.4399999976158142
+          }
+        }
+      },
+      {
+        "name": "Glasses / graphite rectangular212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.03500000014901161,
+          0.04100000113248825,
+          0.05000000074505806,
+          1
+        ],
+        "metallic": 0.44999998807907104,
+        "roughness": 0.3100000023841858,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.10000000149011612,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Glasses / clear lens212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.9800000190734863,
+          0.9900000095367432,
+          1,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.02500000037252903,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_transmission": {
+            "transmissionFactor": 1
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.5
+          },
+          "KHR_materials_ior": {
+            "ior": 1.25
+          }
+        }
+      },
+      {
+        "name": "Groom / stubble209",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.03200000151991844,
+          0.01600000075995922,
+          0.010999999940395355,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.49000000953674316,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.4399999976158142
+          }
+        }
+      },
+      {
+        "name": "Groom / stubble209 lip",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.03200000151991844,
+          0.01600000075995922,
+          0.010999999940395355,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.49000000953674316,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.4399999976158142
+          }
+        }
+      },
+      {
+        "name": "Hair / sculpted 1.003",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.16202937066555023,
+          0.05126945674419403,
+          0.022173885256052017,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / sculpted 0.002",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.18782077729701996,
+          0.05951123684644699,
+          0.02518685907125473,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / sculpted 2.002",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.21952620148658752,
+          0.07227185368537903,
+          0.03189603239297867,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "HOT / original ink212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.02500000037252903,
+          0.012000000104308128,
+          0.03500000014901161,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.5,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.1599999964237213
+          }
+        }
+      },
+      {
+        "name": "HOT / original coral212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.9200000166893005,
+          0.017999999225139618,
+          0.03500000014901161,
+          1
+        ],
+        "metallic": 0.009999999776482582,
+        "roughness": 0.47999998927116394,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.1599999964237213
+          }
+        }
+      },
+      {
+        "name": "Hair / sculpted 1",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.16202937066555023,
+          0.05126945674419403,
+          0.022173885256052017,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Skin / Light warm",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.8148465752601624,
+          0.6239603757858276,
+          0.34191441535949707,
+          1
+        ],
+        "metallic": 0.2800000011920929,
+        "roughness": 0.25,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      }
+    ],
+    "textures": [],
+    "extensions_used": [
+      "KHR_materials_clearcoat",
+      "KHR_materials_transmission",
+      "KHR_materials_specular",
+      "KHR_materials_ior"
+    ],
+    "extensions_required": [],
+    "self_contained": true
+  },
+  "scenes/Masculine-sidepart-glasses-hot.glb": {
+    "bytes": 12592048,
+    "sha256": "9bd748165799dc24aa7c762bf9402cb6b1c87a37b7ea7d85062f6d563fec4385",
+    "triangles": 631174,
+    "mesh_nodes": 55,
+    "primitives": 55,
+    "materials": 18,
+    "material_details": [
+      {
+        "name": "Bottom / fabric.001",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.01599629409611225,
+          0.017641954123973846,
+          0.023153366521000862,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.6000000238418579,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.03999999910593033,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Bottom / stitch.001",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.013596849516034126,
+          0.014995661564171314,
+          0.019680360332131386,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.6000000238418579,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.03999999910593033,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "165 Top / tank",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.13563333451747894,
+          0.4125426113605499,
+          0.41788506507873535,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.3799999952316284,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Eye / smoky charcoal181",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.026000000536441803,
+          0.03799999877810478,
+          0.05999999865889549,
+          1
+        ],
+        "metallic": 0.03500000014901161,
+        "roughness": 0.18000000715255737,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.10999999940395355
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.8999999761581421
+          }
+        }
+      },
+      {
+        "name": "Eye highlight181",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.7900000214576721,
+          0.8600000143051147,
+          0.9300000071525574,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.17000000178813934,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.25,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Eye glint181",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.2800000011920929,
+          0.3700000047683716,
+          0.47999998927116394,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.23000000417232513,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.18000000715255737,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Face / ink209",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.01899999938905239,
+          0.008999999612569809,
+          0.009999999776482582,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.5299999713897705,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.4399999976158142
+          }
+        }
+      },
+      {
+        "name": "Glasses / graphite rectangular212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.03500000014901161,
+          0.04100000113248825,
+          0.05000000074505806,
+          1
+        ],
+        "metallic": 0.44999998807907104,
+        "roughness": 0.3100000023841858,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.10000000149011612,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Glasses / clear lens212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.9800000190734863,
+          0.9900000095367432,
+          1,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.02500000037252903,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_transmission": {
+            "transmissionFactor": 1
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.5
+          },
+          "KHR_materials_ior": {
+            "ior": 1.25
+          }
+        }
+      },
+      {
+        "name": "Groom / stubble209",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.03200000151991844,
+          0.01600000075995922,
+          0.010999999940395355,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.49000000953674316,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.4399999976158142
+          }
+        }
+      },
+      {
+        "name": "Groom / stubble209 lip",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.03200000151991844,
+          0.01600000075995922,
+          0.010999999940395355,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.49000000953674316,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.4399999976158142
+          }
+        }
+      },
+      {
+        "name": "Hair / sculpted 1.003",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.16202937066555023,
+          0.05126945674419403,
+          0.022173885256052017,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / sculpted 0.002",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.18782077729701996,
+          0.05951123684644699,
+          0.02518685907125473,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / sculpted 2.002",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.21952620148658752,
+          0.07227185368537903,
+          0.03189603239297867,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "HOT / original ink212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.02500000037252903,
+          0.012000000104308128,
+          0.03500000014901161,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.5,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.1599999964237213
+          }
+        }
+      },
+      {
+        "name": "HOT / original coral212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.9200000166893005,
+          0.017999999225139618,
+          0.03500000014901161,
+          1
+        ],
+        "metallic": 0.009999999776482582,
+        "roughness": 0.47999998927116394,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.1599999964237213
+          }
+        }
+      },
+      {
+        "name": "Hair / sculpted 1",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.16202937066555023,
+          0.05126945674419403,
+          0.022173885256052017,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.2800000011920929,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Skin / Light warm",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.8148465752601624,
+          0.6239603757858276,
+          0.34191441535949707,
+          1
+        ],
+        "metallic": 0.2800000011920929,
+        "roughness": 0.25,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      }
+    ],
+    "textures": [],
+    "extensions_used": [
+      "KHR_materials_clearcoat",
+      "KHR_materials_transmission",
+      "KHR_materials_specular",
+      "KHR_materials_ior"
+    ],
+    "extensions_required": [],
+    "self_contained": true
+  },
+  "scenes/Masculine-taper-cap-glasses-hot-hoodie.glb": {
+    "bytes": 21830576,
+    "sha256": "740eedd97ff806a29613372b824263b8061c03c166a1bbfba40be605f52e9d31",
+    "triangles": 990170,
+    "mesh_nodes": 65,
+    "primitives": 70,
+    "materials": 29,
+    "material_details": [
+      {
+        "name": "Bottom / fabric.001",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.01599629409611225,
+          0.017641954123973846,
+          0.023153366521000862,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.6000000238418579,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.03999999910593033,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Bottom / stitch.001",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.013596849516034126,
+          0.014995661564171314,
+          0.019680360332131386,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.6000000238418579,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.03999999910593033,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Cap / subtle sewing212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.04600000008940697,
+          0.07800000160932541,
+          0.10499999672174454,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.7400000095367432,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Cap / midnight cotton212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.026000000536441803,
+          0.05299999937415123,
+          0.07999999821186066,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.6899999976158142,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.36000001430511475
+          }
+        }
+      },
+      {
+        "name": "165 Top / sweatshirt",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.42869049310684204,
+          0.3049873113632202,
+          0.6038273572921753,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.3799999952316284,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Eye / smoky charcoal181",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.026000000536441803,
+          0.03799999877810478,
+          0.05999999865889549,
+          1
+        ],
+        "metallic": 0.03500000014901161,
+        "roughness": 0.18000000715255737,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.10999999940395355
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.8999999761581421
+          }
+        }
+      },
+      {
+        "name": "Eye highlight181",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.7900000214576721,
+          0.8600000143051147,
+          0.9300000071525574,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.17000000178813934,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.25,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Eye glint181",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.2800000011920929,
+          0.3700000047683716,
+          0.47999998927116394,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.23000000417232513,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.18000000715255737,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Face / ink209",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.01899999938905239,
+          0.008999999612569809,
+          0.009999999776482582,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.5299999713897705,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.4399999976158142
+          }
+        }
+      },
+      {
+        "name": "Glasses / graphite rectangular212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.03500000014901161,
+          0.04100000113248825,
+          0.05000000074505806,
+          1
+        ],
+        "metallic": 0.44999998807907104,
+        "roughness": 0.3100000023841858,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.10000000149011612,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Glasses / clear lens212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.9800000190734863,
+          0.9900000095367432,
+          1,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.02500000037252903,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_transmission": {
+            "transmissionFactor": 1
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.5
+          },
+          "KHR_materials_ior": {
+            "ior": 1.25
+          }
+        }
+      },
+      {
+        "name": "Groom / stubble209",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.03200000151991844,
+          0.01600000075995922,
+          0.010999999940395355,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.49000000953674316,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.4399999976158142
+          }
+        }
+      },
+      {
+        "name": "Groom / stubble209 lip",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.03200000151991844,
+          0.01600000075995922,
+          0.010999999940395355,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.49000000953674316,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.4399999976158142
+          }
+        }
+      },
+      {
+        "name": "Hair / taper fade213",
+        "alphaMode": "BLEND",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.41999998688697815,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.10000000149011612,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / sculpted taper213",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.18782077729701996,
+          0.05951123684644699,
+          0.02518685907125473,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.3400000035762787,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.2199999988079071,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / taper short texture213",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.09000000357627869,
+          0.032999999821186066,
+          0.01600000075995922,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.49000000953674316,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.029999999329447746,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hoodie / soft cord205",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.7379103899002075,
+          0.6653872728347778,
+          0.8069522380828857,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.44999998807907104,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.029999999329447746,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hoodie / lining204",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.308657169342041,
+          0.21959085762500763,
+          0.43475568294525146,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.5299999713897705,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hoodie / rolled edge204",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.38153454661369324,
+          0.27143871784210205,
+          0.537406325340271,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.3799999952316284,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hoodie / soft cavity lining206",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.18433691561222076,
+          0.13114453852176666,
+          0.2596457600593567,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.5600000023841858,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hoodie / folded mouth facing206",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.3172309696674347,
+          0.22569060325622559,
+          0.44683223962783813,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.5099999904632568,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hoodie / lip seam206",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.36867383122444153,
+          0.2622890770435333,
+          0.5192915201187134,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.3799999952316284,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "HOT / original ink212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.02500000037252903,
+          0.012000000104308128,
+          0.03500000014901161,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.5,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.1599999964237213
+          }
+        }
+      },
+      {
+        "name": "HOT / original coral212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.9200000166893005,
+          0.017999999225139618,
+          0.03500000014901161,
+          1
+        ],
+        "metallic": 0.009999999776482582,
+        "roughness": 0.47999998927116394,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.1599999964237213
+          }
+        }
+      },
+      {
+        "name": "Skin / Light warm",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.8148465752601624,
+          0.6239603757858276,
+          0.34191441535949707,
+          1
+        ],
+        "metallic": 0.2800000011920929,
+        "roughness": 0.25,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Sleeve / ribbed cuff201.001",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.3986821472644806,
+          0.28363820910453796,
+          0.5615594387054443,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.3799999952316284,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Sleeve / ribbed cuff201",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.3986821472644806,
+          0.28363820910453796,
+          0.5615594387054443,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.3799999952316284,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Sleeve / cuff fabric202.001",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.36867383122444153,
+          0.2622890770435333,
+          0.5192915201187134,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.3799999952316284,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Sleeve / cuff fabric202",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.36867383122444153,
+          0.2622890770435333,
+          0.5192915201187134,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.3799999952316284,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      }
+    ],
+    "textures": [],
+    "extensions_used": [
+      "KHR_materials_clearcoat",
+      "KHR_materials_transmission",
+      "KHR_materials_specular",
+      "KHR_materials_ior"
+    ],
+    "extensions_required": [],
+    "self_contained": true
+  },
+  "scenes/Masculine-taper.glb": {
+    "bytes": 20564324,
+    "sha256": "79871f6c5740c49b8bb6c7d12083ee25ec1e891970c1a7c81a022bb04e9c5a7f",
+    "triangles": 897224,
+    "mesh_nodes": 28,
+    "primitives": 28,
+    "materials": 13,
+    "material_details": [
+      {
+        "name": "Bottom / fabric.001",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.01599629409611225,
+          0.017641954123973846,
+          0.023153366521000862,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.6000000238418579,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.03999999910593033,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Bottom / stitch.001",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.013596849516034126,
+          0.014995661564171314,
+          0.019680360332131386,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.6000000238418579,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.03999999910593033,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "165 Top / tank",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.13563333451747894,
+          0.4125426113605499,
+          0.41788506507873535,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.3799999952316284,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Eye / smoky charcoal181",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.026000000536441803,
+          0.03799999877810478,
+          0.05999999865889549,
+          1
+        ],
+        "metallic": 0.03500000014901161,
+        "roughness": 0.18000000715255737,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.10999999940395355
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.8999999761581421
+          }
+        }
+      },
+      {
+        "name": "Eye highlight181",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.7900000214576721,
+          0.8600000143051147,
+          0.9300000071525574,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.17000000178813934,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.25,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Eye glint181",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.2800000011920929,
+          0.3700000047683716,
+          0.47999998927116394,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.23000000417232513,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.18000000715255737,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Face / ink209",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.01899999938905239,
+          0.008999999612569809,
+          0.009999999776482582,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.5299999713897705,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.4399999976158142
+          }
+        }
+      },
+      {
+        "name": "Groom / stubble209",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.03200000151991844,
+          0.01600000075995922,
+          0.010999999940395355,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.49000000953674316,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.4399999976158142
+          }
+        }
+      },
+      {
+        "name": "Groom / stubble209 lip",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.03200000151991844,
+          0.01600000075995922,
+          0.010999999940395355,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.49000000953674316,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.4399999976158142
+          }
+        }
+      },
+      {
+        "name": "Hair / taper fade213",
+        "alphaMode": "BLEND",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.41999998688697815,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.10000000149011612,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / sculpted taper213",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.18782077729701996,
+          0.05951123684644699,
+          0.02518685907125473,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.3400000035762787,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.2199999988079071,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Hair / taper short texture213",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.09000000357627869,
+          0.032999999821186066,
+          0.01600000075995922,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.49000000953674316,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.029999999329447746,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Skin / Light warm",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.8148465752601624,
+          0.6239603757858276,
+          0.34191441535949707,
+          1
+        ],
+        "metallic": 0.2800000011920929,
+        "roughness": 0.25,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      }
+    ],
+    "textures": [],
+    "extensions_used": [
+      "KHR_materials_clearcoat",
+      "KHR_materials_specular"
+    ],
+    "extensions_required": [],
+    "self_contained": true
+  }
+}

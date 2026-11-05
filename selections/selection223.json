@@ -1,0 +1,135 @@
+{
+  "revision": 223,
+  "status": "Owner-selected cap look, saved from uploaded choices",
+  "selected_file": "selections/owner-choices223.json",
+  "selected_sha256": "4fd49d3d608bf49e26c535f5b0fb2756911bb5fc9ed184b178fa7530d6adc675",
+  "source_filename": "Ravedio223-choices.json",
+  "context": "Feminine Ponytail + Cap",
+  "cap": {
+    "tilt": 7,
+    "curve": 0.16,
+    "length": 0.315,
+    "crown": 0.01,
+    "turn": 0,
+    "design": "pulse",
+    "color": "red"
+  },
+  "requested_pony": {
+    "length": 0.6,
+    "fullness": 0.23,
+    "arc": 0.08,
+    "bend": 0,
+    "side": -0.135,
+    "height": 0.17,
+    "depth": 1.01,
+    "flow": 0.43,
+    "lift": 0.24,
+    "rootSide": -0.145
+  },
+  "effective_covered_pony": {
+    "length": 0.6,
+    "fullness": 0.23,
+    "arc": 0.08,
+    "bend": 0,
+    "side": -0.135,
+    "height": -0.75,
+    "depth": 1.01,
+    "flow": 0.43,
+    "lift": 0.24,
+    "rootSide": -0.05,
+    "covered": true
+  },
+  "front": {
+    "1": {
+      "length": 0.325,
+      "volume": 0.04,
+      "curl": 0.06,
+      "spread": 0.005,
+      "root": 0.355
+    },
+    "-1": {
+      "length": 0.325,
+      "volume": 0.04,
+      "curl": 0.06,
+      "spread": 0.005,
+      "root": 0.355
+    }
+  },
+  "effective_covered_front": {
+    "1": {
+      "length": 0.325,
+      "volume": 0.04,
+      "curl": 0.06,
+      "spread": 0.005,
+      "root": 0.2296875,
+      "covered": true
+    },
+    "-1": {
+      "length": 0.325,
+      "volume": 0.04,
+      "curl": 0.06,
+      "spread": 0.005,
+      "root": 0.2296875,
+      "covered": true
+    }
+  },
+  "changes_from_previous_upload": {
+    "pony": {
+      "arc": {
+        "previous": 0.02,
+        "selected": 0.08
+      },
+      "side": {
+        "previous": -0.3,
+        "selected": -0.135
+      },
+      "height": {
+        "previous": 1.77,
+        "selected": 0.17
+      },
+      "depth": {
+        "previous": 1.295,
+        "selected": 1.01
+      },
+      "flow": {
+        "previous": 0.81,
+        "selected": 0.43
+      }
+    },
+    "cap": {
+      "tilt": {
+        "previous": 8,
+        "selected": 7
+      },
+      "curve": {
+        "previous": 0.095,
+        "selected": 0.16
+      },
+      "length": {
+        "previous": 0.285,
+        "selected": 0.315
+      },
+      "crown": {
+        "previous": 0,
+        "selected": 0.01
+      },
+      "design": {
+        "previous": "wordmark",
+        "selected": "pulse"
+      },
+      "color": {
+        "previous": "navy",
+        "selected": "red"
+      }
+    }
+  },
+  "previous_uncovered_look": {
+    "file": "223/owner-choices222.json",
+    "sha256": "c161f0acce05f9ab548229b14430944165386d7b097aceb913678f259a1120e1",
+    "retained_separately": true
+  },
+  "meaning": "Use this exact cap look for continuing work; preserve the earlier explicitly saved uncovered look separately. Contextual cap fitting retains the requested values and derives the covered values. This records an owner selection, not a new geometry revision or whole-catalogue/native-phone approval.",
+  "geometry_or_renderer_changed": false,
+  "public_viewer_changed": false,
+  "profile_bits_changed": false
+}

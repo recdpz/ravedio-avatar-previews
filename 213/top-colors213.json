@@ -1,0 +1,66 @@
+{
+  "scope": "Preview color choices; no profile-byte assignment",
+  "default": "Retain authored material colors and jersey print",
+  "colors": [
+    {
+      "id": "black",
+      "name": "Black",
+      "srgb": "#24252C",
+      "jersey_pattern": "colors/jersey-black-pattern.png"
+    },
+    {
+      "id": "white",
+      "name": "White",
+      "srgb": "#EBE8E3",
+      "jersey_pattern": "colors/jersey-white-pattern.png"
+    },
+    {
+      "id": "blue",
+      "name": "Blue",
+      "srgb": "#366EBA",
+      "jersey_pattern": "colors/jersey-blue-pattern.png"
+    },
+    {
+      "id": "teal",
+      "name": "Teal",
+      "srgb": "#368F91",
+      "jersey_pattern": "colors/jersey-teal-pattern.png"
+    },
+    {
+      "id": "purple",
+      "name": "Purple",
+      "srgb": "#8C62BD",
+      "jersey_pattern": "colors/jersey-purple-pattern.png"
+    },
+    {
+      "id": "pink",
+      "name": "Pink",
+      "srgb": "#D57FA9",
+      "jersey_pattern": "colors/jersey-pink-pattern.png"
+    },
+    {
+      "id": "red",
+      "name": "Red",
+      "srgb": "#C3485C",
+      "jersey_pattern": "colors/jersey-red-pattern.png"
+    },
+    {
+      "id": "lime",
+      "name": "Lime",
+      "srgb": "#A6BB57",
+      "jersey_pattern": "colors/jersey-lime-pattern.png"
+    }
+  ],
+  "rules": {
+    "main": "Replace fabric color, not skin/hair; jersey uses colored original163 pattern",
+    "hood_lining": 0.72,
+    "hood_cavity": 0.43,
+    "cuffs": 0.9,
+    "hardware_and_cords": "Preserve",
+    "light_jersey_ink": "Original162 artwork redrawn in darker ink for readable contrast"
+  },
+  "vector_sources": [
+    "E:/Ravedio-Avatar/outfits163/prints163.py",
+    "E:/Ravedio-Avatar/outfits162/prints162.py"
+  ]
+}

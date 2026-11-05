@@ -1,0 +1,81 @@
+{
+  "draft": "A",
+  "provenance": "Reconstructed from recorded code changes, not an original saved checkpoint",
+  "files": [
+    {
+      "path": "coverage.png",
+      "bytes": 2042377,
+      "sha256": "7ac88a1e3d8ef5434c0b1e3b1eaeee7a7024608abbdd0c54f0f3820877296447"
+    },
+    {
+      "path": "front.png",
+      "bytes": 309443,
+      "sha256": "9ee618e0f473718b6a92de75ed187ae6355a98f4f2e0336fed2a547fe56be385"
+    },
+    {
+      "path": "hair.glb",
+      "bytes": 6786360,
+      "sha256": "76ec60ca6bb47e1a62522ef59b3355d004b1979bf315672bf5ec2c21484e5c1d"
+    },
+    {
+      "path": "normal.png",
+      "bytes": 1001964,
+      "sha256": "84faffb7f15a29dac33d9612e5b4172e8955032df6c256968b58fe630b5f25fe"
+    },
+    {
+      "path": "profile.png",
+      "bytes": 310262,
+      "sha256": "73ad8a18662da5ce189b520d42bd149c15f10a010cefc1d497411adee69df374"
+    },
+    {
+      "path": "rear.png",
+      "bytes": 322980,
+      "sha256": "e34da07bac0c61f6995a871bcb84fe5e47b4f2474251f5b58cbbc1c83d6dc374"
+    },
+    {
+      "path": "receipt.json",
+      "bytes": 5743,
+      "sha256": "bfec89d44358f6456b53e266e8c9f2a1e0fbd5fc848e10305c56bf13091fb521"
+    },
+    {
+      "path": "recovery-script.py",
+      "bytes": 6605,
+      "sha256": "8a0b0c9a7af6c02c6e2fed6efbb7f45f6b75f98f4bbd5c35b058275613489f0f"
+    },
+    {
+      "path": "rightprofile.png",
+      "bytes": 311269,
+      "sha256": "b527a93b1845eb8e93e57801b337ad8db7ab61abc90fae239c0ab130c2505279"
+    },
+    {
+      "path": "settings.json",
+      "bytes": 900,
+      "sha256": "97db39bf344b8ca6a3429dff5fde8b59cf10b159051b3524ebd38d0915d9daee"
+    },
+    {
+      "path": "source.blend",
+      "bytes": 15904978,
+      "sha256": "de15b876110bc594c6d558839519f331f77481730640ba8e5f0f5055ad518ada"
+    },
+    {
+      "path": "texture-script.py",
+      "bytes": 1442,
+      "sha256": "284f0353db95304d0270f47c9503f33c14228bbe0959b79c06bf7233081eee17"
+    },
+    {
+      "path": "threequarter.png",
+      "bytes": 310538,
+      "sha256": "b2cfba4d7d4a2a062bd6d1d91abadc2d1625f4e82ad52230e5d3ef4b8c1de0c0"
+    },
+    {
+      "path": "top.png",
+      "bytes": 305068,
+      "sha256": "3a628781a82e086f25ba6a3e4035bc88fe172dd8050c29887a1fda49b3115cd0"
+    },
+    {
+      "path": "underside.png",
+      "bytes": 312362,
+      "sha256": "1f64cdb5f39dc79212007db600ad5b6e490c82c55816adc8a9f124340bcd52ec"
+    }
+  ]
+}

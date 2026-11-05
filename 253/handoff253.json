@@ -1,0 +1,32 @@
+{
+  "revision": 253,
+  "baseline_commit": "423249a53ebb5afb2548542d133a99bbe6a7f6db",
+  "scope": "Replace Highlights with Ombr\u00e9 across16 hairstyles, all authored worn variants and both garment-dependent twin-braid length families.",
+  "palette_linear_rgb": {
+    "root": [
+      0.145,
+      0.062,
+      0.034
+    ],
+    "middle": [
+      0.32,
+      0.17,
+      0.078
+    ],
+    "ends": [
+      0.5,
+      0.32,
+      0.16
+    ]
+  },
+  "selection": "Highlights is replaced by ombre/Ombr\u00e9 in the same preview menu position; no profile-byte assignment changes. Resolve canonical hair/hairLengths paths via catalogue253.ombre when selected. Other colors resolve the unchanged canonical252 assets. Compare252 displays its previous Highlights color, with identical geometry.",
+  "placement": "Long locks retain authored root-to-tip progression. Long curls and braided sections use a continuous fall so individual braid pieces never restart the gradient. Ponytail bundles use surface-growth distance from the scalp attachment. Space-bun outer winding and raised short coils lighten progressively. Faded sides remain root-toned; Buzz is intentionally restrained. Facial hair uses the root color.",
+  "preservation": "No geometry, normals, indices, alpha, transforms, silhouette, fit, body, face, clothing, skin palette or lighting changes. Primary color UV coordinates and base-color atlas are the only authored changes. Separate ties, frames/lenses and other controls remain independent.",
+  "exports": "128 ordinary, uncompressed and unquantized baked-color GLBs. Secondary UV coordinates/normal maps are preserved. ombre-gradient253.png is the shared authored color ramp. No custom renderer shader is required.",
+  "sources": "Two packed reference Blender assemblies preserve fixed studio and camera settings, with embedded textures. Full authoring scripts also reference retained earlier inputs. Fair/light and Brown/dark plus skin1 have matched120/512 color/Z exports in depth253.json; camera/framing is identical across these looks.",
+  "rendering": "The full Blender studio, exposure/view transform and shader graph are not carried by GLB. Ordinary PBR textures, geometry, alpha and supported material extensions transfer; native and lightweight portrait paths require their own faithful comparison.",
+  "depth": "Color and32-bit float Z are generated in the same render at the same geometry/camera/version. Assembled references are not component occlusion maps or a transparent-lens solution.",
+  "technical": "technical253.json",
+  "review": "review253.json",
+  "qualification": "Artwork color review; native renderer/portrait composition and phone workload qualification remain separate."
+}

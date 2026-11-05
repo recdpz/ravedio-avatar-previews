@@ -1,0 +1,26 @@
+{
+  "revision": 188,
+  "status": "Candidate; two visual passes completed; owner aesthetic review pending",
+  "source": 187,
+  "base": "181 with local188 arm taper",
+  "retired_choice": "Full beard; historical assets/IDs preserved",
+  "profile_contract_changed": false,
+  "files": {
+    "Feminine-bandeau-top.glb": "3525d7bdfdebfb77a3199d2a9d7c649af33ee3234126e848bd2076a510d129f4",
+    "Feminine-base.glb": "91e833ff9201cf1a91c86e0fd58cfb6aaf66392026aafe3ca12403565682e103",
+    "Feminine-jersey-top.glb": "7f3b0c4e31d4994896886e43ac15293a20a340bf2187177c7e3559f23d7ca3c3",
+    "Feminine-open-top.glb": "1f45e1708d45cd558f8e8d31d9d367f9fd18089dba5fbb18d23f31b048875d65",
+    "Feminine-strappy-top.glb": "023de0cf245af7fcf00a9c287b622cceeca384678fe9cf5f47de14e36bbad2d6",
+    "Feminine-sweatshirt-top.glb": "56b2287f538017affb8442a85e09750db8fd4bab3ce9b17cb5dc3dab24040685",
+    "Feminine-tank-top.glb": "e72bb301b0cedd1a0f1b9a0ba804f0c72aed40e588c48c040ef5ac3fe29f53c1",
+    "Feminine-triangle-top.glb": "0272817e2c89cba9ed64ec84aba7f23e29c135f5a33b11a5d2da26466902c6f1",
+    "Feminine-tshirt-top.glb": "e840a32767729033edb70b030df93178ac819381307aed8f44e04ad1ec336c78",
+    "Masculine-base.glb": "572861678fc48d886fb6b40daff73b63e0df74e07256f7e8b2cde2547e6e495d",
+    "Masculine-buttonup-top.glb": "5ac01b8aae87920a5875e31d4dd5f4e7ba925eab3f44e9803e978da89d74e093",
+    "Masculine-groom-long.glb": "184cb748915bb9b94ea333b6e26897e7d0d7a8afc3b42e16ecae586967e163ab",
+    "Masculine-jersey-top.glb": "e27f0aae59a8d3b487011ff4ab1a24a06db3287325a644e8f95999f1899c9d72",
+    "Masculine-sweatshirt-top.glb": "cb8c666c4be2b1dc611c917c5459dcfe99ffadb28f524641cb2c9ba89177a51c",
+    "Masculine-tank-top.glb": "6db1520da7ee99ba4e896e1dd711f277a2156a49038c773be7a12e9f70f42da1",
+    "Masculine-tshirt-top.glb": "58feb7a07fa86402017e83f8e4afc8c8a46ef7b26d42c0caad9e6ef36451e081"
+  }
+}

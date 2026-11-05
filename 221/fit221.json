@@ -1,0 +1,114 @@
+{
+  "root_pose_penetration": {
+    "-1.5/-0.18": 0,
+    "-1.5/-0.09": 0,
+    "-1.5/0": 0,
+    "-1.5/0.09": 0,
+    "-1.5/0.18": 0,
+    "-1.125/-0.18": 0,
+    "-1.125/-0.09": 0,
+    "-1.125/0": 0,
+    "-1.125/0.09": 0,
+    "-1.125/0.18": 0,
+    "-0.75/-0.18": 0,
+    "-0.75/-0.09": 0,
+    "-0.75/0": 0,
+    "-0.75/0.09": 0,
+    "-0.75/0.18": 0,
+    "0/-0.18": 0,
+    "0/-0.09": 0,
+    "0/0": 0,
+    "0/0.09": 0,
+    "0/0.18": 0,
+    "0.75/-0.18": 0,
+    "0.75/-0.09": 0,
+    "0.75/0": 0,
+    "0.75/0.09": 0,
+    "0.75/0.18": 0,
+    "1.7/-0.18": 0,
+    "1.7/-0.09": 0,
+    "1.7/0": 0,
+    "1.7/0.09": 0,
+    "1.7/0.18": 0,
+    "2.5/-0.18": 0,
+    "2.5/-0.09": 0,
+    "2.5/0": 0,
+    "2.5/0.09": 0,
+    "2.5/0.18": 0
+  },
+  "cap_all_and_glasses_exact220": true,
+  "cap_tail_crossings": {
+    "default/-1.5/-0.18/False": [],
+    "default/-1.5/-0.18/True": [],
+    "default/-1.5/0/False": [],
+    "default/-1.5/0/True": [],
+    "default/-1.5/0.18/False": [],
+    "default/-1.5/0.18/True": [],
+    "default/0.75/-0.18/False": [],
+    "default/0.75/-0.18/True": [],
+    "default/0.75/0/False": [],
+    "default/0.75/0/True": [],
+    "default/0.75/0.18/False": [],
+    "default/0.75/0.18/True": [],
+    "low_pitch/-1.5/-0.18/False": [],
+    "low_pitch/-1.5/-0.18/True": [],
+    "low_pitch/-1.5/0/False": [],
+    "low_pitch/-1.5/0/True": [],
+    "low_pitch/-1.5/0.18/False": [],
+    "low_pitch/-1.5/0.18/True": [],
+    "low_pitch/0.75/-0.18/False": [],
+    "low_pitch/0.75/-0.18/True": [],
+    "low_pitch/0.75/0/False": [],
+    "low_pitch/0.75/0/True": [],
+    "low_pitch/0.75/0.18/False": [],
+    "low_pitch/0.75/0.18/True": [],
+    "high_pitch_crown/-1.5/-0.18/False": [],
+    "high_pitch_crown/-1.5/-0.18/True": [],
+    "high_pitch_crown/-1.5/0/False": [],
+    "high_pitch_crown/-1.5/0/True": [],
+    "high_pitch_crown/-1.5/0.18/False": [],
+    "high_pitch_crown/-1.5/0.18/True": [],
+    "high_pitch_crown/0.75/-0.18/False": [],
+    "high_pitch_crown/0.75/-0.18/True": [],
+    "high_pitch_crown/0.75/0/False": [],
+    "high_pitch_crown/0.75/0/True": [],
+    "high_pitch_crown/0.75/0.18/False": [],
+    "high_pitch_crown/0.75/0.18/True": []
+  },
+  "cap_fit": {
+    "height_max": -0.75,
+    "scope": "Only with cap: seat tie within conventional rear opening; preserve uncovered selection",
+    "departure": "Gathered stem passes rear opening before upper arc rises",
+    "covered": true,
+    "rootSide_bounds": [
+      -0.05,
+      0.05
+    ]
+  },
+  "source_sha256": "26df04038886bb9310c645cfc35670c2ae5b427b769ceda3dc863bb147200fb6",
+  "flow": {
+    "relaxed": {
+      "inward_return": 0.0
+    },
+    "high": {
+      "inward_return": 0.0
+    },
+    "compact": {
+      "inward_return": 0.0
+    },
+    "full": {
+      "inward_return": 0.0002982768925180457
+    },
+    "left": {
+      "inward_return": 0.0
+    },
+    "right": {
+      "inward_return": 0.0
+    },
+    "covered": {
+      "inward_return": 0.0016104428509311486
+    }
+  },
+  "length_prefix_error": 1.4988010832439613e-15,
+  "length_clearance_constant": 0
+}

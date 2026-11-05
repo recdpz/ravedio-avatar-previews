@@ -1,0 +1,3153 @@
+{
+  "builds": {
+    "Feminine": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "hair": {
+        "bob": {
+          "label": "Bob",
+          "path": "../208/Feminine-hair.glb",
+          "note": ""
+        },
+        "ponytail": {
+          "label": "Ponytail",
+          "path": "../224/components/Feminine-uncovered-hair.glb",
+          "note": ""
+        },
+        "straight": {
+          "label": "Straight",
+          "path": "../227/components/Feminine-straight-hair.glb",
+          "note": ""
+        },
+        "curls": {
+          "label": "Curls",
+          "path": "../227/components/Feminine-curls-hair.glb",
+          "note": ""
+        },
+        "side-sweep": {
+          "label": "Side sweep",
+          "path": "../227/components/Feminine-side-sweep-hair.glb",
+          "note": ""
+        },
+        "space-buns": {
+          "label": "Space buns",
+          "path": "../227/components/Feminine-space-buns-hair.glb",
+          "note": ""
+        },
+        "twin-braids": {
+          "label": "Twin braids",
+          "path": "../227/components/Feminine-twin-braids-hair.glb",
+          "note": ""
+        },
+        "box-braids": {
+          "label": "Box braids",
+          "path": "../227/components/Feminine-box-braids-hair.glb",
+          "note": ""
+        }
+      },
+      "tops": {
+        "bandeau": {
+          "label": "Pasties",
+          "path": "../213/Feminine-bandeau-top.glb"
+        },
+        "triangle": {
+          "label": "Triangle top",
+          "path": "../214/Feminine-triangle-top.glb"
+        },
+        "strappy": {
+          "label": "Strappy crop",
+          "path": "../213/Feminine-strappy-top.glb"
+        },
+        "tshirt": {
+          "label": "T-shirt",
+          "path": "../214/Feminine-tshirt-top.glb"
+        },
+        "jersey": {
+          "label": "Jersey",
+          "path": "../213/Feminine-jersey-top.glb"
+        },
+        "open": {
+          "label": "Button-up",
+          "path": "../215/Feminine-open-top.glb"
+        },
+        "tank": {
+          "label": "Tank",
+          "path": "../213/Feminine-tank-top.glb"
+        },
+        "sweatshirt": {
+          "label": "Hoodie",
+          "path": "../215/Feminine-sweatshirt-top.glb"
+        }
+      },
+      "bottoms": {
+        "shorts": {
+          "label": "Shorts",
+          "path": "../216/Feminine-shorts-bottom.glb"
+        },
+        "skirt": {
+          "label": "Skirt",
+          "path": "../216/Feminine-skirt-bottom.glb"
+        },
+        "bikini": {
+          "label": "Bikini bottoms",
+          "path": "../215/Feminine-bikini-bottom.glb"
+        },
+        "pants": {
+          "label": "Pants",
+          "path": "../216/Feminine-pants-bottom.glb"
+        }
+      },
+      "eyes": {
+        "original": {
+          "label": "Original",
+          "path": "../181/Feminine-eyes-original.glb"
+        },
+        "almond": {
+          "label": "Almond",
+          "path": "../192/Feminine-eyes-almond.glb"
+        },
+        "squint": {
+          "label": "Curved squint",
+          "path": "../232/components/Feminine-eyes-squint.glb"
+        },
+        "tapered": {
+          "label": "Tapered oval",
+          "path": "../233/components/Feminine-eyes-tapered.glb"
+        },
+        "hooded": {
+          "label": "Soft hooded",
+          "path": "../232/components/Feminine-eyes-hooded.glb"
+        },
+        "bean": {
+          "label": "Rounded bean",
+          "path": "../233/components/Feminine-eyes-bean.glb"
+        }
+      },
+      "mouths": {
+        "line": {
+          "label": "Smile",
+          "path": "../209/Feminine-mouth-line.glb"
+        }
+      },
+      "noses": {
+        "none": {
+          "label": "None",
+          "path": null
+        }
+      },
+      "grooms": {
+        "none": {
+          "label": "None",
+          "path": null
+        }
+      },
+      "rectangular": {
+        "glasses": "../224/components/Feminine-details-glasses.glb",
+        "lenses": "../235/components/Feminine-rectangular-lenses.glb"
+      },
+      "hot": "../212/Feminine-extra.glb",
+      "lashes": {
+        "original": {
+          "path": "../234/components/Feminine-original-lashes.glb"
+        },
+        "almond": {
+          "path": "../234/components/Feminine-almond-lashes.glb"
+        },
+        "squint": {
+          "path": "../234/components/Feminine-squint-lashes.glb"
+        },
+        "tapered": {
+          "path": "../234/components/Feminine-tapered-lashes.glb"
+        },
+        "hooded": {
+          "path": "../234/components/Feminine-hooded-lashes.glb"
+        },
+        "bean": {
+          "path": "../234/components/Feminine-bean-lashes.glb"
+        }
+      }
+    },
+    "Masculine": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "hair": {
+        "sidepart": {
+          "label": "Side part",
+          "path": "../208/Masculine-hair.glb",
+          "note": "Styled side part."
+        },
+        "taper": {
+          "label": "Taper",
+          "path": "../235/components/Masculine-taper-hair.glb",
+          "note": "Lifted side sweep with a broader clean fade."
+        },
+        "buzz": {
+          "label": "Buzz",
+          "path": "../235/components/Masculine-buzz-hair.glb",
+          "note": "Nearly shaved, with a light hair shadow and tidy edges."
+        },
+        "curly-top": {
+          "label": "Curly top",
+          "path": "../235/components/Masculine-curly-top-hair.glb",
+          "note": "Curled crown with short faded sides and back."
+        },
+        "afro": {
+          "label": "Afro",
+          "path": "../235/components/Masculine-afro-hair.glb",
+          "note": "Compact, dense coiled volume."
+        },
+        "flow": {
+          "label": "Flow",
+          "path": "../235/components/Masculine-flow-hair.glb",
+          "note": "Brushed-back layers with curved temples and a soft nape."
+        },
+        "locs": {
+          "label": "Locs",
+          "path": "../235/components/Masculine-locs-hair.glb",
+          "note": "Short rooted locs with rounded ends."
+        },
+        "middle-part": {
+          "label": "Middle part",
+          "path": "../235/components/Masculine-middle-part-hair.glb",
+          "note": "Parted curtains with layered ends."
+        }
+      },
+      "tops": {
+        "shirtless": {
+          "label": "Shirtless",
+          "path": null
+        },
+        "tank": {
+          "label": "Tank",
+          "path": "../208/Masculine-tank-top.glb"
+        },
+        "tshirt": {
+          "label": "T-shirt",
+          "path": "../203/Masculine-tshirt-top.glb"
+        },
+        "jersey": {
+          "label": "Jersey",
+          "path": "../203/Masculine-jersey-top.glb"
+        },
+        "buttonup": {
+          "label": "Button-up",
+          "path": "../208/Masculine-buttonup-top.glb"
+        },
+        "sweatshirt": {
+          "label": "Hoodie",
+          "path": "../215/Masculine-sweatshirt-top.glb"
+        }
+      },
+      "bottoms": {
+        "shorts": {
+          "label": "Shorts",
+          "path": "../215/Masculine-shorts-bottom.glb"
+        },
+        "pants": {
+          "label": "Pants",
+          "path": "../215/Masculine-pants-bottom.glb"
+        }
+      },
+      "eyes": {
+        "original": {
+          "label": "Original",
+          "path": "../181/Masculine-eyes-original.glb"
+        },
+        "almond": {
+          "label": "Almond",
+          "path": "../192/Masculine-eyes-almond.glb"
+        },
+        "squint": {
+          "label": "Curved squint",
+          "path": "../232/components/Masculine-eyes-squint.glb"
+        },
+        "tapered": {
+          "label": "Tapered oval",
+          "path": "../233/components/Masculine-eyes-tapered.glb"
+        },
+        "hooded": {
+          "label": "Soft hooded",
+          "path": "../232/components/Masculine-eyes-hooded.glb"
+        },
+        "bean": {
+          "label": "Rounded bean",
+          "path": "../233/components/Masculine-eyes-bean.glb"
+        }
+      },
+      "mouths": {
+        "line": {
+          "label": "Smile",
+          "path": "../209/Masculine-mouth-line.glb"
+        }
+      },
+      "noses": {
+        "none": {
+          "label": "None",
+          "path": null
+        }
+      },
+      "grooms": {
+        "none": {
+          "label": "None",
+          "path": null
+        },
+        "stubble": {
+          "label": "Stubble",
+          "path": "../235/components/Masculine-groom-stubble.glb"
+        },
+        "mustache": {
+          "label": "Mustache",
+          "path": "../235/components/Masculine-groom-mustache.glb"
+        },
+        "patch": {
+          "label": "Mustache + patch",
+          "path": "../235/components/Masculine-groom-patch.glb"
+        },
+        "goatee": {
+          "label": "Goatee",
+          "path": "../235/components/Masculine-groom-goatee.glb"
+        },
+        "short": {
+          "label": "Short beard",
+          "path": "../235/components/Masculine-groom-short.glb"
+        },
+        "long": {
+          "label": "Long beard",
+          "path": "../235/components/Masculine-groom-long.glb"
+        }
+      },
+      "shirtlessBase": "../208/Masculine-shirtless-base.glb",
+      "rectangular": {
+        "glasses": "../224/components/Masculine-details-glasses.glb",
+        "lenses": "../235/components/Masculine-rectangular-lenses.glb"
+      },
+      "hot": "../212/Masculine-extra.glb"
+    }
+  },
+  "headwear": {
+    "none": {
+      "label": "None",
+      "path": null
+    },
+    "cap": {
+      "label": "Cap",
+      "fit_source": "Use the explicit hair/headwear fit table"
+    },
+    "beanie": {
+      "label": "Beanie",
+      "fit_source": "Use the explicit hair/headwear fit table"
+    },
+    "bucket": {
+      "label": "Bucket hat",
+      "fit_source": "Use the explicit hair/headwear fit table"
+    },
+    "cowboy": {
+      "label": "Cowboy hat",
+      "fit_source": "Use the explicit hair/headwear fit table"
+    },
+    "headband": {
+      "label": "Bandana",
+      "fit_source": "Use the explicit hair/headwear fit table"
+    },
+    "ears": {
+      "label": "Animal ears",
+      "fit_source": "Use the explicit hair/headwear fit table"
+    },
+    "pashmina": {
+      "label": "Pashmina",
+      "fit_source": "Use the explicit hair/headwear fit table"
+    }
+  },
+  "glasses": {
+    "none": {
+      "label": "None",
+      "path": null
+    },
+    "rectangular": {
+      "label": "Rectangular",
+      "path": null
+    },
+    "reading": {
+      "label": "Reading",
+      "path": "../227/components/Feminine-reading-glasses.glb",
+      "lenses": "../235/components/Feminine-reading-lenses.glb"
+    },
+    "wayfarer": {
+      "label": "Wayfarer",
+      "path": "../227/components/Feminine-wayfarer-glasses.glb",
+      "lenses": "../235/components/Feminine-wayfarer-lenses.glb"
+    },
+    "cat-eye": {
+      "label": "Cat eye",
+      "path": "../227/components/Feminine-cat-eye-glasses.glb",
+      "lenses": "../235/components/Feminine-cat-eye-lenses.glb"
+    },
+    "heart": {
+      "label": "Heart",
+      "path": "../227/components/Feminine-heart-glasses.glb",
+      "lenses": "../235/components/Feminine-heart-lenses.glb"
+    },
+    "wraparound": {
+      "label": "Sport",
+      "path": "../227/components/Feminine-wraparound-glasses.glb",
+      "lenses": "../235/components/Feminine-wraparound-lenses.glb"
+    },
+    "kaleidoscope": {
+      "label": "Faceted frames",
+      "path": "../227/components/Feminine-kaleidoscope-glasses.glb",
+      "lenses": "../235/components/Feminine-kaleidoscope-lenses.glb"
+    }
+  },
+  "details": {
+    "none": {
+      "label": "None",
+      "path": null
+    },
+    "hot": {
+      "label": "HOT sticker",
+      "path": null
+    },
+    "sprout": {
+      "label": "Sprout"
+    }
+  },
+  "fits": {
+    "Feminine-bob": {
+      "cap": {
+        "hair": "../235/components/Feminine-bob-closed-hair.glb",
+        "headgear": "../235/components/Feminine-cap-headgear.glb"
+      },
+      "beanie": {
+        "hair": "../235/components/Feminine-bob-closed-hair.glb",
+        "headgear": "../235/components/Feminine-beanie-headgear.glb"
+      },
+      "bucket": {
+        "hair": "../235/components/Feminine-bob-closed-hair.glb",
+        "headgear": "../235/components/Feminine-bucket-headgear.glb"
+      },
+      "cowboy": {
+        "hair": "../235/components/Feminine-bob-closed-hair.glb",
+        "headgear": "../235/components/Feminine-cowboy-headgear.glb"
+      },
+      "headband": {
+        "hair": "../235/components/Feminine-bob-bandana-hair.glb",
+        "headgear": "../235/components/Feminine-bob-bandana-headgear.glb"
+      },
+      "ears": {
+        "hair": "../208/Feminine-hair.glb",
+        "headgear": "../235/components/Feminine-ears-headgear.glb"
+      },
+      "pashmina": {
+        "hair": "../236/components/Feminine-bob-covered-hair236.glb",
+        "headgear": "components/Feminine-open-pashmina245-headgear.glb"
+      }
+    },
+    "Feminine-ponytail": {
+      "cap": {
+        "hair": "../224/components/Feminine-cap-hair.glb",
+        "headgear": "../224/components/Feminine-cap-headgear.glb"
+      },
+      "beanie": {
+        "hair": "../235/components/Feminine-ponytail-closed-hair.glb",
+        "headgear": "../235/components/Feminine-beanie-headgear.glb"
+      },
+      "bucket": {
+        "hair": "../235/components/Feminine-ponytail-closed-hair.glb",
+        "headgear": "../235/components/Feminine-bucket-headgear.glb"
+      },
+      "cowboy": {
+        "hair": "../235/components/Feminine-ponytail-closed-hair.glb",
+        "headgear": "../235/components/Feminine-cowboy-headgear.glb"
+      },
+      "headband": {
+        "hair": "../235/components/Feminine-ponytail-bandana-hair.glb",
+        "headgear": "../235/components/Feminine-ponytail-bandana-headgear.glb"
+      },
+      "ears": {
+        "hair": "../224/components/Feminine-uncovered-hair.glb",
+        "headgear": "../235/components/Feminine-ears-headgear.glb"
+      },
+      "pashmina": {
+        "hair": "../235/components/Feminine-ponytail-pashmina-hair.glb",
+        "headgear": "components/Feminine-open-pashmina245-headgear.glb"
+      }
+    },
+    "Feminine-straight": {
+      "cap": {
+        "hair": "../235/components/Feminine-straight-closed-hair.glb",
+        "headgear": "../235/components/Feminine-cap-headgear.glb"
+      },
+      "beanie": {
+        "hair": "../235/components/Feminine-straight-closed-hair.glb",
+        "headgear": "../235/components/Feminine-beanie-headgear.glb"
+      },
+      "bucket": {
+        "hair": "../235/components/Feminine-straight-closed-hair.glb",
+        "headgear": "../235/components/Feminine-bucket-headgear.glb"
+      },
+      "cowboy": {
+        "hair": "../235/components/Feminine-straight-closed-hair.glb",
+        "headgear": "../235/components/Feminine-cowboy-headgear.glb"
+      },
+      "headband": {
+        "hair": "../235/components/Feminine-straight-bandana-hair.glb",
+        "headgear": "../235/components/Feminine-straight-bandana-headgear.glb"
+      },
+      "ears": {
+        "hair": "../227/components/Feminine-straight-hair.glb",
+        "headgear": "../235/components/Feminine-ears-headgear.glb"
+      },
+      "pashmina": {
+        "hair": "../236/components/Feminine-straight-covered-hair236.glb",
+        "headgear": "components/Feminine-open-pashmina245-headgear.glb"
+      }
+    },
+    "Feminine-curls": {
+      "cap": {
+        "hair": "../235/components/Feminine-curls-closed-hair.glb",
+        "headgear": "../235/components/Feminine-cap-headgear.glb"
+      },
+      "beanie": {
+        "hair": "../235/components/Feminine-curls-closed-hair.glb",
+        "headgear": "../235/components/Feminine-beanie-headgear.glb"
+      },
+      "bucket": {
+        "hair": "../235/components/Feminine-curls-closed-hair.glb",
+        "headgear": "../235/components/Feminine-bucket-headgear.glb"
+      },
+      "cowboy": {
+        "hair": "../235/components/Feminine-curls-closed-hair.glb",
+        "headgear": "../235/components/Feminine-cowboy-headgear.glb"
+      },
+      "headband": {
+        "hair": "../235/components/Feminine-curls-bandana-hair.glb",
+        "headgear": "../235/components/Feminine-curls-bandana-headgear.glb"
+      },
+      "ears": {
+        "hair": "../227/components/Feminine-curls-hair.glb",
+        "headgear": "../235/components/Feminine-ears-headgear.glb"
+      },
+      "pashmina": {
+        "hair": "../236/components/Feminine-curls-covered-hair236.glb",
+        "headgear": "components/Feminine-open-pashmina245-headgear.glb"
+      }
+    },
+    "Feminine-side-sweep": {
+      "cap": {
+        "hair": "../235/components/Feminine-side-sweep-closed-hair.glb",
+        "headgear": "../235/components/Feminine-cap-headgear.glb"
+      },
+      "beanie": {
+        "hair": "../235/components/Feminine-side-sweep-closed-hair.glb",
+        "headgear": "../235/components/Feminine-beanie-headgear.glb"
+      },
+      "bucket": {
+        "hair": "../235/components/Feminine-side-sweep-closed-hair.glb",
+        "headgear": "../235/components/Feminine-bucket-headgear.glb"
+      },
+      "cowboy": {
+        "hair": "../235/components/Feminine-side-sweep-closed-hair.glb",
+        "headgear": "../235/components/Feminine-cowboy-headgear.glb"
+      },
+      "headband": {
+        "hair": "../235/components/Feminine-side-sweep-bandana-hair.glb",
+        "headgear": "../235/components/Feminine-side-sweep-bandana-headgear.glb"
+      },
+      "ears": {
+        "hair": "../227/components/Feminine-side-sweep-hair.glb",
+        "headgear": "../235/components/Feminine-ears-headgear.glb"
+      },
+      "pashmina": {
+        "hair": "../236/components/Feminine-side-sweep-covered-hair236.glb",
+        "headgear": "components/Feminine-open-pashmina245-headgear.glb"
+      }
+    },
+    "Feminine-space-buns": {
+      "cap": {
+        "hair": "../235/components/Feminine-space-buns-closed-hair.glb",
+        "headgear": "../235/components/Feminine-cap-headgear.glb"
+      },
+      "beanie": {
+        "hair": "../235/components/Feminine-space-buns-closed-hair.glb",
+        "headgear": "../235/components/Feminine-beanie-headgear.glb"
+      },
+      "bucket": {
+        "hair": "../235/components/Feminine-space-buns-closed-hair.glb",
+        "headgear": "../235/components/Feminine-bucket-headgear.glb"
+      },
+      "cowboy": {
+        "hair": "../235/components/Feminine-space-buns-closed-hair.glb",
+        "headgear": "../235/components/Feminine-cowboy-headgear.glb"
+      },
+      "headband": {
+        "hair": "../235/components/Feminine-space-buns-bandana-hair.glb",
+        "headgear": "../235/components/Feminine-space-buns-bandana-headgear.glb"
+      },
+      "ears": {
+        "hair": "../227/components/Feminine-space-buns-hair.glb",
+        "headgear": "../235/components/Feminine-ears-headgear.glb"
+      },
+      "pashmina": {
+        "hair": "../235/components/Feminine-space-buns-pashmina-hair.glb",
+        "headgear": "components/Feminine-open-pashmina245-headgear.glb"
+      }
+    },
+    "Feminine-twin-braids": {
+      "cap": {
+        "hair": "../235/components/Feminine-twin-braids-closed-hair.glb",
+        "headgear": "../235/components/Feminine-cap-headgear.glb"
+      },
+      "beanie": {
+        "hair": "../235/components/Feminine-twin-braids-closed-hair.glb",
+        "headgear": "../235/components/Feminine-beanie-headgear.glb"
+      },
+      "bucket": {
+        "hair": "../235/components/Feminine-twin-braids-closed-hair.glb",
+        "headgear": "../235/components/Feminine-bucket-headgear.glb"
+      },
+      "cowboy": {
+        "hair": "../235/components/Feminine-twin-braids-closed-hair.glb",
+        "headgear": "../235/components/Feminine-cowboy-headgear.glb"
+      },
+      "headband": {
+        "hair": "../235/components/Feminine-twin-braids-bandana-hair.glb",
+        "headgear": "../235/components/Feminine-twin-braids-bandana-headgear.glb"
+      },
+      "ears": {
+        "hair": "../227/components/Feminine-twin-braids-hair.glb",
+        "headgear": "../235/components/Feminine-ears-headgear.glb"
+      },
+      "pashmina": {
+        "hair": "../236/components/Feminine-twin-braids-covered-hair236.glb",
+        "headgear": "components/Feminine-open-pashmina245-headgear.glb"
+      }
+    },
+    "Feminine-box-braids": {
+      "cap": {
+        "hair": "../235/components/Feminine-box-braids-closed-hair.glb",
+        "headgear": "../235/components/Feminine-cap-headgear.glb"
+      },
+      "beanie": {
+        "hair": "../235/components/Feminine-box-braids-closed-hair.glb",
+        "headgear": "../235/components/Feminine-beanie-headgear.glb"
+      },
+      "bucket": {
+        "hair": "../235/components/Feminine-box-braids-closed-hair.glb",
+        "headgear": "../235/components/Feminine-bucket-headgear.glb"
+      },
+      "cowboy": {
+        "hair": "../235/components/Feminine-box-braids-closed-hair.glb",
+        "headgear": "../235/components/Feminine-cowboy-headgear.glb"
+      },
+      "headband": {
+        "hair": "../235/components/Feminine-box-braids-bandana-hair.glb",
+        "headgear": "../235/components/Feminine-box-braids-bandana-headgear.glb"
+      },
+      "ears": {
+        "hair": "../227/components/Feminine-box-braids-hair.glb",
+        "headgear": "../235/components/Feminine-ears-headgear.glb"
+      },
+      "pashmina": {
+        "hair": "../236/components/Feminine-box-braids-covered-hair236.glb",
+        "headgear": "components/Feminine-open-pashmina245-headgear.glb"
+      }
+    },
+    "Masculine-sidepart": {
+      "cap": {
+        "hair": "../235/components/Masculine-sidepart-closed-hair.glb",
+        "headgear": "../235/components/Masculine-cap-headgear.glb"
+      },
+      "beanie": {
+        "hair": "../235/components/Masculine-sidepart-closed-hair.glb",
+        "headgear": "../235/components/Masculine-beanie-headgear.glb"
+      },
+      "bucket": {
+        "hair": "../235/components/Masculine-sidepart-closed-hair.glb",
+        "headgear": "../235/components/Masculine-bucket-headgear.glb"
+      },
+      "cowboy": {
+        "hair": "../235/components/Masculine-sidepart-closed-hair.glb",
+        "headgear": "../235/components/Masculine-cowboy-headgear.glb"
+      },
+      "headband": {
+        "hair": "../235/components/Masculine-sidepart-bandana-hair.glb",
+        "headgear": "../235/components/Masculine-sidepart-bandana-headgear.glb"
+      },
+      "ears": {
+        "hair": "../208/Masculine-hair.glb",
+        "headgear": "../235/components/Masculine-ears-headgear.glb"
+      },
+      "pashmina": {
+        "hair": "../235/components/Masculine-sidepart-pashmina-hair.glb",
+        "headgear": "components/Masculine-tank-pashmina245-headgear.glb"
+      }
+    },
+    "Masculine-taper": {
+      "cap": {
+        "hair": "../235/components/Masculine-taper-closed-hair.glb",
+        "headgear": "../235/components/Masculine-cap-headgear.glb"
+      },
+      "beanie": {
+        "hair": "../235/components/Masculine-taper-closed-hair.glb",
+        "headgear": "../235/components/Masculine-beanie-headgear.glb"
+      },
+      "bucket": {
+        "hair": "../235/components/Masculine-taper-closed-hair.glb",
+        "headgear": "../235/components/Masculine-bucket-headgear.glb"
+      },
+      "cowboy": {
+        "hair": "../235/components/Masculine-taper-closed-hair.glb",
+        "headgear": "../235/components/Masculine-cowboy-headgear.glb"
+      },
+      "headband": {
+        "hair": "../235/components/Masculine-taper-bandana-hair.glb",
+        "headgear": "../235/components/Masculine-taper-bandana-headgear.glb"
+      },
+      "ears": {
+        "hair": "../235/components/Masculine-taper-hair.glb",
+        "headgear": "../235/components/Masculine-ears-headgear.glb"
+      },
+      "pashmina": {
+        "hair": "../235/components/Masculine-taper-pashmina-hair.glb",
+        "headgear": "components/Masculine-tank-pashmina245-headgear.glb"
+      }
+    },
+    "Masculine-buzz": {
+      "cap": {
+        "hair": "../235/components/Masculine-buzz-closed-hair.glb",
+        "headgear": "../235/components/Masculine-cap-headgear.glb"
+      },
+      "beanie": {
+        "hair": "../235/components/Masculine-buzz-closed-hair.glb",
+        "headgear": "../235/components/Masculine-beanie-headgear.glb"
+      },
+      "bucket": {
+        "hair": "../235/components/Masculine-buzz-closed-hair.glb",
+        "headgear": "../235/components/Masculine-bucket-headgear.glb"
+      },
+      "cowboy": {
+        "hair": "../235/components/Masculine-buzz-closed-hair.glb",
+        "headgear": "../235/components/Masculine-cowboy-headgear.glb"
+      },
+      "headband": {
+        "hair": "../235/components/Masculine-buzz-bandana-hair.glb",
+        "headgear": "../235/components/Masculine-buzz-bandana-headgear.glb"
+      },
+      "ears": {
+        "hair": "../235/components/Masculine-buzz-hair.glb",
+        "headgear": "../235/components/Masculine-ears-headgear.glb"
+      },
+      "pashmina": {
+        "hair": "../235/components/Masculine-buzz-pashmina-hair.glb",
+        "headgear": "components/Masculine-tank-pashmina245-headgear.glb"
+      }
+    },
+    "Masculine-curly-top": {
+      "cap": {
+        "hair": "../235/components/Masculine-curly-top-closed-hair.glb",
+        "headgear": "../235/components/Masculine-cap-headgear.glb"
+      },
+      "beanie": {
+        "hair": "../235/components/Masculine-curly-top-closed-hair.glb",
+        "headgear": "../235/components/Masculine-beanie-headgear.glb"
+      },
+      "bucket": {
+        "hair": "../235/components/Masculine-curly-top-closed-hair.glb",
+        "headgear": "../235/components/Masculine-bucket-headgear.glb"
+      },
+      "cowboy": {
+        "hair": "../235/components/Masculine-curly-top-closed-hair.glb",
+        "headgear": "../235/components/Masculine-cowboy-headgear.glb"
+      },
+      "headband": {
+        "hair": "../235/components/Masculine-curly-top-bandana-hair.glb",
+        "headgear": "../235/components/Masculine-curly-top-bandana-headgear.glb"
+      },
+      "ears": {
+        "hair": "../235/components/Masculine-curly-top-hair.glb",
+        "headgear": "../235/components/Masculine-ears-headgear.glb"
+      },
+      "pashmina": {
+        "hair": "../235/components/Masculine-curly-top-pashmina-hair.glb",
+        "headgear": "components/Masculine-tank-pashmina245-headgear.glb"
+      }
+    },
+    "Masculine-afro": {
+      "cap": {
+        "hair": "../235/components/Masculine-afro-closed-hair.glb",
+        "headgear": "../235/components/Masculine-cap-headgear.glb"
+      },
+      "beanie": {
+        "hair": "../235/components/Masculine-afro-closed-hair.glb",
+        "headgear": "../235/components/Masculine-beanie-headgear.glb"
+      },
+      "bucket": {
+        "hair": "../235/components/Masculine-afro-closed-hair.glb",
+        "headgear": "../235/components/Masculine-bucket-headgear.glb"
+      },
+      "cowboy": {
+        "hair": "../235/components/Masculine-afro-closed-hair.glb",
+        "headgear": "../235/components/Masculine-cowboy-headgear.glb"
+      },
+      "headband": {
+        "hair": "../235/components/Masculine-afro-bandana-hair.glb",
+        "headgear": "../235/components/Masculine-afro-bandana-headgear.glb"
+      },
+      "ears": {
+        "hair": "../235/components/Masculine-afro-hair.glb",
+        "headgear": "../235/components/Masculine-ears-headgear.glb"
+      },
+      "pashmina": {
+        "hair": "../235/components/Masculine-afro-pashmina-hair.glb",
+        "headgear": "components/Masculine-tank-pashmina245-headgear.glb"
+      }
+    },
+    "Masculine-flow": {
+      "cap": {
+        "hair": "../235/components/Masculine-flow-closed-hair.glb",
+        "headgear": "../235/components/Masculine-cap-headgear.glb"
+      },
+      "beanie": {
+        "hair": "../235/components/Masculine-flow-closed-hair.glb",
+        "headgear": "../235/components/Masculine-beanie-headgear.glb"
+      },
+      "bucket": {
+        "hair": "../235/components/Masculine-flow-closed-hair.glb",
+        "headgear": "../235/components/Masculine-bucket-headgear.glb"
+      },
+      "cowboy": {
+        "hair": "../235/components/Masculine-flow-closed-hair.glb",
+        "headgear": "../235/components/Masculine-cowboy-headgear.glb"
+      },
+      "headband": {
+        "hair": "../235/components/Masculine-flow-bandana-hair.glb",
+        "headgear": "../235/components/Masculine-flow-bandana-headgear.glb"
+      },
+      "ears": {
+        "hair": "../235/components/Masculine-flow-hair.glb",
+        "headgear": "../235/components/Masculine-ears-headgear.glb"
+      },
+      "pashmina": {
+        "hair": "../235/components/Masculine-flow-pashmina-hair.glb",
+        "headgear": "components/Masculine-tank-pashmina245-headgear.glb"
+      }
+    },
+    "Masculine-locs": {
+      "cap": {
+        "hair": "../235/components/Masculine-locs-closed-hair.glb",
+        "headgear": "../235/components/Masculine-cap-headgear.glb"
+      },
+      "beanie": {
+        "hair": "../235/components/Masculine-locs-closed-hair.glb",
+        "headgear": "../235/components/Masculine-beanie-headgear.glb"
+      },
+      "bucket": {
+        "hair": "../235/components/Masculine-locs-closed-hair.glb",
+        "headgear": "../235/components/Masculine-bucket-headgear.glb"
+      },
+      "cowboy": {
+        "hair": "../235/components/Masculine-locs-closed-hair.glb",
+        "headgear": "../235/components/Masculine-cowboy-headgear.glb"
+      },
+      "headband": {
+        "hair": "../235/components/Masculine-locs-bandana-hair.glb",
+        "headgear": "../235/components/Masculine-locs-bandana-headgear.glb"
+      },
+      "ears": {
+        "hair": "../235/components/Masculine-locs-hair.glb",
+        "headgear": "../235/components/Masculine-ears-headgear.glb"
+      },
+      "pashmina": {
+        "hair": "../235/components/Masculine-locs-pashmina-hair.glb",
+        "headgear": "components/Masculine-tank-pashmina245-headgear.glb"
+      }
+    },
+    "Masculine-middle-part": {
+      "cap": {
+        "hair": "../235/components/Masculine-middle-part-closed-hair.glb",
+        "headgear": "../235/components/Masculine-cap-headgear.glb"
+      },
+      "beanie": {
+        "hair": "../235/components/Masculine-middle-part-closed-hair.glb",
+        "headgear": "../235/components/Masculine-beanie-headgear.glb"
+      },
+      "bucket": {
+        "hair": "../235/components/Masculine-middle-part-closed-hair.glb",
+        "headgear": "../235/components/Masculine-bucket-headgear.glb"
+      },
+      "cowboy": {
+        "hair": "../235/components/Masculine-middle-part-closed-hair.glb",
+        "headgear": "../235/components/Masculine-cowboy-headgear.glb"
+      },
+      "headband": {
+        "hair": "../235/components/Masculine-middle-part-bandana-hair.glb",
+        "headgear": "../235/components/Masculine-middle-part-bandana-headgear.glb"
+      },
+      "ears": {
+        "hair": "../235/components/Masculine-middle-part-hair.glb",
+        "headgear": "../235/components/Masculine-ears-headgear.glb"
+      },
+      "pashmina": {
+        "hair": "../235/components/Masculine-middle-part-pashmina-hair.glb",
+        "headgear": "components/Masculine-tank-pashmina245-headgear.glb"
+      }
+    }
+  },
+  "colors": {
+    "top": [
+      [
+        "default",
+        "Default",
+        null
+      ],
+      [
+        "black",
+        "Black",
+        "#24252C"
+      ],
+      [
+        "white",
+        "White",
+        "#EBE8E3"
+      ],
+      [
+        "blue",
+        "Blue",
+        "#366EBA"
+      ],
+      [
+        "teal",
+        "Teal",
+        "#368F91"
+      ],
+      [
+        "purple",
+        "Purple",
+        "#8C62BD"
+      ],
+      [
+        "pink",
+        "Pink",
+        "#D57FA9"
+      ],
+      [
+        "red",
+        "Red",
+        "#C3485C"
+      ],
+      [
+        "lime",
+        "Lime",
+        "#A6BB57"
+      ]
+    ],
+    "bottom": [
+      [
+        "default",
+        "Default",
+        null
+      ],
+      [
+        "black",
+        "Black",
+        "#22242A"
+      ],
+      [
+        "white",
+        "White",
+        "#EAE8E3"
+      ],
+      [
+        "gray",
+        "Gray",
+        "#85878C"
+      ],
+      [
+        "navy",
+        "Navy",
+        "#25354F"
+      ],
+      [
+        "blue",
+        "Blue",
+        "#3C6A9C"
+      ],
+      [
+        "khaki",
+        "Khaki",
+        "#B7A17A"
+      ],
+      [
+        "red",
+        "Red",
+        "#B83546"
+      ],
+      [
+        "pink",
+        "Pink",
+        "#D46D9C"
+      ]
+    ],
+    "hair": [
+      [
+        "default",
+        "Default",
+        null
+      ],
+      [
+        "black",
+        "Black",
+        "#28233A"
+      ],
+      [
+        "brown",
+        "Brown",
+        "#68402C"
+      ],
+      [
+        "darkbrown",
+        "Dark brown",
+        "#39251E"
+      ],
+      [
+        "auburn",
+        "Auburn",
+        "#984A30"
+      ],
+      [
+        "blonde",
+        "Blonde",
+        "#B78F51"
+      ],
+      [
+        "platinum",
+        "Platinum",
+        "#CCC2B0"
+      ],
+      [
+        "pink",
+        "Pink",
+        "#B75C88"
+      ],
+      [
+        "purple",
+        "Purple",
+        "#725887"
+      ]
+    ],
+    "headgear": [
+      [
+        "default",
+        "Default",
+        null
+      ],
+      [
+        "black",
+        "Black",
+        "#22242A"
+      ],
+      [
+        "white",
+        "White",
+        "#EAE8E3"
+      ],
+      [
+        "gray",
+        "Gray",
+        "#85878C"
+      ],
+      [
+        "navy",
+        "Navy",
+        "#25354F"
+      ],
+      [
+        "blue",
+        "Blue",
+        "#3C6A9C"
+      ],
+      [
+        "khaki",
+        "Khaki",
+        "#B7A17A"
+      ],
+      [
+        "red",
+        "Red",
+        "#B83546"
+      ],
+      [
+        "pink",
+        "Pink",
+        "#D46D9C"
+      ]
+    ],
+    "frames": [
+      [
+        "black",
+        "Black",
+        "#181B22"
+      ],
+      [
+        "tortoise",
+        "Tortoise",
+        "#775137"
+      ],
+      [
+        "silver",
+        "Silver",
+        "#B9BEC5"
+      ],
+      [
+        "gold",
+        "Gold",
+        "#BA9458"
+      ]
+    ],
+    "lenses": [
+      [
+        "dark",
+        "Dark"
+      ],
+      [
+        "clear",
+        "Clear"
+      ]
+    ]
+  },
+  "lensDefaults": {
+    "rectangular": "dark",
+    "reading": "clear",
+    "wayfarer": "dark",
+    "cat-eye": "dark",
+    "heart": "dark",
+    "wraparound": "dark",
+    "kaleidoscope": "dark"
+  },
+  "sprouts": {
+    "Feminine-bob--none": {
+      "path": "../235/components/Feminine-bob--none-sprout.glb",
+      "anchor": [
+        0.13065887987613678,
+        0.01957658678293228,
+        2.359081745147705
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3561856746673584
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-bob--cap": {
+      "path": "../235/components/Feminine-bob--cap-sprout.glb",
+      "anchor": [
+        0.13072238862514496,
+        0.01996898651123047,
+        2.364622116088867
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.361710548400879
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-bob--beanie": {
+      "path": "../235/components/Feminine-bob--beanie-sprout.glb",
+      "anchor": [
+        0.13044700026512146,
+        0.020028574392199516,
+        2.419717311859131
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.416750907897949
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-bob--bucket": {
+      "path": "../235/components/Feminine-bob--bucket-sprout.glb",
+      "anchor": [
+        0.13010306656360626,
+        0.019996773451566696,
+        2.384218692779541
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.381220579147339
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-bob--cowboy": {
+      "path": "../235/components/Feminine-bob--cowboy-sprout.glb",
+      "anchor": [
+        0.12881040573120117,
+        0.02014796808362007,
+        2.4145143032073975
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.411764144897461
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-bob--headband": {
+      "path": "../235/components/Feminine-bob--headband-sprout.glb",
+      "anchor": [
+        0.1308078020811081,
+        0.020094092935323715,
+        2.3609426021575928
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3580548763275146
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-bob--ears": {
+      "path": "../235/components/Feminine-bob--ears-sprout.glb",
+      "anchor": [
+        0.13065887987613678,
+        0.01957658678293228,
+        2.359081745147705
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3561856746673584
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-bob--pashmina": {
+      "path": "../235/components/Feminine-bob--pashmina-sprout.glb",
+      "anchor": [
+        0.1306697428226471,
+        0.020113825798034668,
+        2.351196050643921
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.348273992538452
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-ponytail--none": {
+      "path": "../235/components/Feminine-ponytail--none-sprout.glb",
+      "anchor": [
+        0.13029417395591736,
+        0.01960689388215542,
+        2.340456247329712
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.337496757507324
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-ponytail--cap": {
+      "path": "../235/components/Feminine-ponytail--cap-sprout.glb",
+      "anchor": [
+        0.13072238862514496,
+        0.01996898651123047,
+        2.364622116088867
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.361710548400879
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-ponytail--beanie": {
+      "path": "../235/components/Feminine-ponytail--beanie-sprout.glb",
+      "anchor": [
+        0.13044700026512146,
+        0.020028574392199516,
+        2.419717311859131
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.416750907897949
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-ponytail--bucket": {
+      "path": "../235/components/Feminine-ponytail--bucket-sprout.glb",
+      "anchor": [
+        0.13010306656360626,
+        0.019996773451566696,
+        2.384218692779541
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.381220579147339
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-ponytail--cowboy": {
+      "path": "../235/components/Feminine-ponytail--cowboy-sprout.glb",
+      "anchor": [
+        0.12881040573120117,
+        0.02014796808362007,
+        2.4145143032073975
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.411764144897461
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-ponytail--headband": {
+      "path": "../235/components/Feminine-ponytail--headband-sprout.glb",
+      "anchor": [
+        0.1308078020811081,
+        0.020094092935323715,
+        2.3609426021575928
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3580548763275146
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-ponytail--ears": {
+      "path": "../235/components/Feminine-ponytail--ears-sprout.glb",
+      "anchor": [
+        0.13029417395591736,
+        0.01960689388215542,
+        2.340456247329712
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.337496757507324
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-ponytail--pashmina": {
+      "path": "../235/components/Feminine-ponytail--pashmina-sprout.glb",
+      "anchor": [
+        0.1306697428226471,
+        0.020113825798034668,
+        2.351196050643921
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.348273992538452
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-straight--none": {
+      "path": "../235/components/Feminine-straight--none-sprout.glb",
+      "anchor": [
+        0.13065887987613678,
+        0.01957658678293228,
+        2.359081745147705
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3561856746673584
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-straight--cap": {
+      "path": "../235/components/Feminine-straight--cap-sprout.glb",
+      "anchor": [
+        0.13072238862514496,
+        0.01996898651123047,
+        2.364622116088867
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.361710548400879
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-straight--beanie": {
+      "path": "../235/components/Feminine-straight--beanie-sprout.glb",
+      "anchor": [
+        0.13044700026512146,
+        0.020028574392199516,
+        2.419717311859131
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.416750907897949
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-straight--bucket": {
+      "path": "../235/components/Feminine-straight--bucket-sprout.glb",
+      "anchor": [
+        0.13010306656360626,
+        0.019996773451566696,
+        2.384218692779541
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.381220579147339
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-straight--cowboy": {
+      "path": "../235/components/Feminine-straight--cowboy-sprout.glb",
+      "anchor": [
+        0.12881040573120117,
+        0.02014796808362007,
+        2.4145143032073975
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.411764144897461
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-straight--headband": {
+      "path": "../235/components/Feminine-straight--headband-sprout.glb",
+      "anchor": [
+        0.1308078020811081,
+        0.020094092935323715,
+        2.3609426021575928
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3580548763275146
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-straight--ears": {
+      "path": "../235/components/Feminine-straight--ears-sprout.glb",
+      "anchor": [
+        0.13065887987613678,
+        0.01957658678293228,
+        2.359081745147705
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3561856746673584
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-straight--pashmina": {
+      "path": "../235/components/Feminine-straight--pashmina-sprout.glb",
+      "anchor": [
+        0.1306697428226471,
+        0.020113825798034668,
+        2.351196050643921
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.348273992538452
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-curls--none": {
+      "path": "../235/components/Feminine-curls--none-sprout.glb",
+      "anchor": [
+        0.1306503713130951,
+        0.01957903429865837,
+        2.3591437339782715
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.356245517730713
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-curls--cap": {
+      "path": "../235/components/Feminine-curls--cap-sprout.glb",
+      "anchor": [
+        0.13072238862514496,
+        0.01996898651123047,
+        2.364622116088867
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.361710548400879
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-curls--beanie": {
+      "path": "../235/components/Feminine-curls--beanie-sprout.glb",
+      "anchor": [
+        0.13044700026512146,
+        0.020028574392199516,
+        2.419717311859131
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.416750907897949
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-curls--bucket": {
+      "path": "../235/components/Feminine-curls--bucket-sprout.glb",
+      "anchor": [
+        0.13010306656360626,
+        0.019996773451566696,
+        2.384218692779541
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.381220579147339
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-curls--cowboy": {
+      "path": "../235/components/Feminine-curls--cowboy-sprout.glb",
+      "anchor": [
+        0.12881040573120117,
+        0.02014796808362007,
+        2.4145143032073975
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.411764144897461
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-curls--headband": {
+      "path": "../235/components/Feminine-curls--headband-sprout.glb",
+      "anchor": [
+        0.1308078020811081,
+        0.020094092935323715,
+        2.3609426021575928
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3580548763275146
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-curls--ears": {
+      "path": "../235/components/Feminine-curls--ears-sprout.glb",
+      "anchor": [
+        0.1306503713130951,
+        0.01957903429865837,
+        2.3591437339782715
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.356245517730713
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-curls--pashmina": {
+      "path": "../235/components/Feminine-curls--pashmina-sprout.glb",
+      "anchor": [
+        0.1306697428226471,
+        0.020113825798034668,
+        2.351196050643921
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.348273992538452
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-side-sweep--none": {
+      "path": "../235/components/Feminine-side-sweep--none-sprout.glb",
+      "anchor": [
+        0.13066008687019348,
+        0.019562706351280212,
+        2.3589351177215576
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.356041431427002
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-side-sweep--cap": {
+      "path": "../235/components/Feminine-side-sweep--cap-sprout.glb",
+      "anchor": [
+        0.13072238862514496,
+        0.01996898651123047,
+        2.364622116088867
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.361710548400879
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-side-sweep--beanie": {
+      "path": "../235/components/Feminine-side-sweep--beanie-sprout.glb",
+      "anchor": [
+        0.13044700026512146,
+        0.020028574392199516,
+        2.419717311859131
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.416750907897949
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-side-sweep--bucket": {
+      "path": "../235/components/Feminine-side-sweep--bucket-sprout.glb",
+      "anchor": [
+        0.13010306656360626,
+        0.019996773451566696,
+        2.384218692779541
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.381220579147339
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-side-sweep--cowboy": {
+      "path": "../235/components/Feminine-side-sweep--cowboy-sprout.glb",
+      "anchor": [
+        0.12881040573120117,
+        0.02014796808362007,
+        2.4145143032073975
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.411764144897461
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-side-sweep--headband": {
+      "path": "../235/components/Feminine-side-sweep--headband-sprout.glb",
+      "anchor": [
+        0.1308078020811081,
+        0.020094092935323715,
+        2.3609426021575928
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3580548763275146
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-side-sweep--ears": {
+      "path": "../235/components/Feminine-side-sweep--ears-sprout.glb",
+      "anchor": [
+        0.13066008687019348,
+        0.019562706351280212,
+        2.3589351177215576
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.356041431427002
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-side-sweep--pashmina": {
+      "path": "../235/components/Feminine-side-sweep--pashmina-sprout.glb",
+      "anchor": [
+        0.1306697428226471,
+        0.020113825798034668,
+        2.351196050643921
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.348273992538452
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-space-buns--none": {
+      "path": "../235/components/Feminine-space-buns--none-sprout.glb",
+      "anchor": [
+        0.1304013431072235,
+        0.020483342930674553,
+        2.3382568359375
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3353233337402344
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-space-buns--cap": {
+      "path": "../235/components/Feminine-space-buns--cap-sprout.glb",
+      "anchor": [
+        0.13072238862514496,
+        0.01996898651123047,
+        2.364622116088867
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.361710548400879
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-space-buns--beanie": {
+      "path": "../235/components/Feminine-space-buns--beanie-sprout.glb",
+      "anchor": [
+        0.13044700026512146,
+        0.020028574392199516,
+        2.419717311859131
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.416750907897949
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-space-buns--bucket": {
+      "path": "../235/components/Feminine-space-buns--bucket-sprout.glb",
+      "anchor": [
+        0.13010306656360626,
+        0.019996773451566696,
+        2.384218692779541
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.381220579147339
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-space-buns--cowboy": {
+      "path": "../235/components/Feminine-space-buns--cowboy-sprout.glb",
+      "anchor": [
+        0.12881040573120117,
+        0.02014796808362007,
+        2.4145143032073975
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.411764144897461
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-space-buns--headband": {
+      "path": "../235/components/Feminine-space-buns--headband-sprout.glb",
+      "anchor": [
+        0.1308078020811081,
+        0.020094092935323715,
+        2.3609426021575928
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3580548763275146
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-space-buns--ears": {
+      "path": "../235/components/Feminine-space-buns--ears-sprout.glb",
+      "anchor": [
+        0.1304013431072235,
+        0.020483342930674553,
+        2.3382568359375
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3353233337402344
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-space-buns--pashmina": {
+      "path": "../235/components/Feminine-space-buns--pashmina-sprout.glb",
+      "anchor": [
+        0.1306697428226471,
+        0.020113825798034668,
+        2.351196050643921
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.348273992538452
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-twin-braids--none": {
+      "path": "../235/components/Feminine-twin-braids--none-sprout.glb",
+      "anchor": [
+        0.13063867390155792,
+        0.01975208893418312,
+        2.340158462524414
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.33723783493042
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-twin-braids--cap": {
+      "path": "../235/components/Feminine-twin-braids--cap-sprout.glb",
+      "anchor": [
+        0.13072238862514496,
+        0.01996898651123047,
+        2.364622116088867
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.361710548400879
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-twin-braids--beanie": {
+      "path": "../235/components/Feminine-twin-braids--beanie-sprout.glb",
+      "anchor": [
+        0.13044700026512146,
+        0.020028574392199516,
+        2.419717311859131
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.416750907897949
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-twin-braids--bucket": {
+      "path": "../235/components/Feminine-twin-braids--bucket-sprout.glb",
+      "anchor": [
+        0.13010306656360626,
+        0.019996773451566696,
+        2.384218692779541
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.381220579147339
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-twin-braids--cowboy": {
+      "path": "../235/components/Feminine-twin-braids--cowboy-sprout.glb",
+      "anchor": [
+        0.12881040573120117,
+        0.02014796808362007,
+        2.4145143032073975
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.411764144897461
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-twin-braids--headband": {
+      "path": "../235/components/Feminine-twin-braids--headband-sprout.glb",
+      "anchor": [
+        0.1308078020811081,
+        0.020094092935323715,
+        2.3609426021575928
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3580548763275146
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-twin-braids--ears": {
+      "path": "../235/components/Feminine-twin-braids--ears-sprout.glb",
+      "anchor": [
+        0.13063867390155792,
+        0.01975208893418312,
+        2.340158462524414
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.33723783493042
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-twin-braids--pashmina": {
+      "path": "../235/components/Feminine-twin-braids--pashmina-sprout.glb",
+      "anchor": [
+        0.1306697428226471,
+        0.020113825798034668,
+        2.351196050643921
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.348273992538452
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-box-braids--none": {
+      "path": "../235/components/Feminine-box-braids--none-sprout.glb",
+      "anchor": [
+        0.1293366402387619,
+        0.020372427999973297,
+        2.3634212017059326
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3605191707611084
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-box-braids--cap": {
+      "path": "../235/components/Feminine-box-braids--cap-sprout.glb",
+      "anchor": [
+        0.13072238862514496,
+        0.01996898651123047,
+        2.364622116088867
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.361710548400879
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-box-braids--beanie": {
+      "path": "../235/components/Feminine-box-braids--beanie-sprout.glb",
+      "anchor": [
+        0.13044700026512146,
+        0.020028574392199516,
+        2.419717311859131
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.416750907897949
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-box-braids--bucket": {
+      "path": "../235/components/Feminine-box-braids--bucket-sprout.glb",
+      "anchor": [
+        0.13010306656360626,
+        0.019996773451566696,
+        2.384218692779541
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.381220579147339
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-box-braids--cowboy": {
+      "path": "../235/components/Feminine-box-braids--cowboy-sprout.glb",
+      "anchor": [
+        0.12881040573120117,
+        0.02014796808362007,
+        2.4145143032073975
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.411764144897461
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-box-braids--headband": {
+      "path": "../235/components/Feminine-box-braids--headband-sprout.glb",
+      "anchor": [
+        0.1308078020811081,
+        0.020094092935323715,
+        2.3609426021575928
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3580548763275146
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-box-braids--ears": {
+      "path": "../235/components/Feminine-box-braids--ears-sprout.glb",
+      "anchor": [
+        0.1293366402387619,
+        0.020372427999973297,
+        2.3634212017059326
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3605191707611084
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Feminine-box-braids--pashmina": {
+      "path": "../235/components/Feminine-box-braids--pashmina-sprout.glb",
+      "anchor": [
+        0.1306697428226471,
+        0.020113825798034668,
+        2.351196050643921
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.348273992538452
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-sidepart--none": {
+      "path": "../235/components/Masculine-sidepart--none-sprout.glb",
+      "anchor": [
+        0.13135002553462982,
+        0.019811490550637245,
+        2.3800246715545654
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.377352237701416
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-sidepart--cap": {
+      "path": "../235/components/Masculine-sidepart--cap-sprout.glb",
+      "anchor": [
+        0.13069312274456024,
+        0.019971804693341255,
+        2.3545689582824707
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3516502380371094
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-sidepart--beanie": {
+      "path": "../235/components/Masculine-sidepart--beanie-sprout.glb",
+      "anchor": [
+        0.13044700026512146,
+        0.020028574392199516,
+        2.419717311859131
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.416750907897949
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-sidepart--bucket": {
+      "path": "../235/components/Masculine-sidepart--bucket-sprout.glb",
+      "anchor": [
+        0.13010306656360626,
+        0.019996773451566696,
+        2.384218692779541
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.381220579147339
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-sidepart--cowboy": {
+      "path": "../235/components/Masculine-sidepart--cowboy-sprout.glb",
+      "anchor": [
+        0.12881040573120117,
+        0.02014796808362007,
+        2.4145143032073975
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.411764144897461
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-sidepart--headband": {
+      "path": "../235/components/Masculine-sidepart--headband-sprout.glb",
+      "anchor": [
+        0.13135002553462982,
+        0.019811490550637245,
+        2.3800246715545654
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.377352237701416
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-sidepart--ears": {
+      "path": "../235/components/Masculine-sidepart--ears-sprout.glb",
+      "anchor": [
+        0.13135002553462982,
+        0.019811490550637245,
+        2.3800246715545654
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.377352237701416
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-sidepart--pashmina": {
+      "path": "../235/components/Masculine-sidepart--pashmina-sprout.glb",
+      "anchor": [
+        0.13065843284130096,
+        0.020141392946243286,
+        2.351449489593506
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3485260009765625
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-taper--none": {
+      "path": "../235/components/Masculine-taper--none-sprout.glb",
+      "anchor": [
+        0.13080689311027527,
+        0.020096881315112114,
+        2.390918731689453
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.388031005859375
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-taper--cap": {
+      "path": "../235/components/Masculine-taper--cap-sprout.glb",
+      "anchor": [
+        0.13069312274456024,
+        0.019971804693341255,
+        2.3545689582824707
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3516502380371094
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-taper--beanie": {
+      "path": "../235/components/Masculine-taper--beanie-sprout.glb",
+      "anchor": [
+        0.13044700026512146,
+        0.020028574392199516,
+        2.419717311859131
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.416750907897949
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-taper--bucket": {
+      "path": "../235/components/Masculine-taper--bucket-sprout.glb",
+      "anchor": [
+        0.13010306656360626,
+        0.019996773451566696,
+        2.384218692779541
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.381220579147339
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-taper--cowboy": {
+      "path": "../235/components/Masculine-taper--cowboy-sprout.glb",
+      "anchor": [
+        0.12881040573120117,
+        0.02014796808362007,
+        2.4145143032073975
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.411764144897461
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-taper--headband": {
+      "path": "../235/components/Masculine-taper--headband-sprout.glb",
+      "anchor": [
+        0.13080689311027527,
+        0.020096881315112114,
+        2.390918731689453
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.388031005859375
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-taper--ears": {
+      "path": "../235/components/Masculine-taper--ears-sprout.glb",
+      "anchor": [
+        0.13080689311027527,
+        0.020096881315112114,
+        2.390918731689453
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.388031005859375
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-taper--pashmina": {
+      "path": "../235/components/Masculine-taper--pashmina-sprout.glb",
+      "anchor": [
+        0.13065843284130096,
+        0.020141392946243286,
+        2.351449489593506
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3485260009765625
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-buzz--none": {
+      "path": "../235/components/Masculine-buzz--none-sprout.glb",
+      "anchor": [
+        0.13079379498958588,
+        0.020034318789839745,
+        2.321396589279175
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3185036182403564
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-buzz--cap": {
+      "path": "../235/components/Masculine-buzz--cap-sprout.glb",
+      "anchor": [
+        0.13069312274456024,
+        0.019971804693341255,
+        2.3545689582824707
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3516502380371094
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-buzz--beanie": {
+      "path": "../235/components/Masculine-buzz--beanie-sprout.glb",
+      "anchor": [
+        0.13044700026512146,
+        0.020028574392199516,
+        2.419717311859131
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.416750907897949
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-buzz--bucket": {
+      "path": "../235/components/Masculine-buzz--bucket-sprout.glb",
+      "anchor": [
+        0.13010306656360626,
+        0.019996773451566696,
+        2.384218692779541
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.381220579147339
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-buzz--cowboy": {
+      "path": "../235/components/Masculine-buzz--cowboy-sprout.glb",
+      "anchor": [
+        0.12881040573120117,
+        0.02014796808362007,
+        2.4145143032073975
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.411764144897461
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-buzz--headband": {
+      "path": "../235/components/Masculine-buzz--headband-sprout.glb",
+      "anchor": [
+        0.13079379498958588,
+        0.020034318789839745,
+        2.321396589279175
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3185036182403564
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-buzz--ears": {
+      "path": "../235/components/Masculine-buzz--ears-sprout.glb",
+      "anchor": [
+        0.13079379498958588,
+        0.020034318789839745,
+        2.321396589279175
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3185036182403564
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-buzz--pashmina": {
+      "path": "../235/components/Masculine-buzz--pashmina-sprout.glb",
+      "anchor": [
+        0.13065843284130096,
+        0.020141392946243286,
+        2.351449489593506
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3485260009765625
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-curly-top--none": {
+      "path": "../235/components/Masculine-curly-top--none-sprout.glb",
+      "anchor": [
+        0.13078461587429047,
+        0.022310420870780945,
+        2.4034388065338135
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.401693344116211
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-curly-top--cap": {
+      "path": "../235/components/Masculine-curly-top--cap-sprout.glb",
+      "anchor": [
+        0.13069312274456024,
+        0.019971804693341255,
+        2.3545689582824707
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3516502380371094
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-curly-top--beanie": {
+      "path": "../235/components/Masculine-curly-top--beanie-sprout.glb",
+      "anchor": [
+        0.13044700026512146,
+        0.020028574392199516,
+        2.419717311859131
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.416750907897949
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-curly-top--bucket": {
+      "path": "../235/components/Masculine-curly-top--bucket-sprout.glb",
+      "anchor": [
+        0.13010306656360626,
+        0.019996773451566696,
+        2.384218692779541
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.381220579147339
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-curly-top--cowboy": {
+      "path": "../235/components/Masculine-curly-top--cowboy-sprout.glb",
+      "anchor": [
+        0.12881040573120117,
+        0.02014796808362007,
+        2.4145143032073975
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.411764144897461
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-curly-top--headband": {
+      "path": "../235/components/Masculine-curly-top--headband-sprout.glb",
+      "anchor": [
+        0.1311778426170349,
+        0.021395878866314888,
+        2.406601667404175
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.404221773147583
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-curly-top--ears": {
+      "path": "../235/components/Masculine-curly-top--ears-sprout.glb",
+      "anchor": [
+        0.13078461587429047,
+        0.022310420870780945,
+        2.4034388065338135
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.401693344116211
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-curly-top--pashmina": {
+      "path": "../235/components/Masculine-curly-top--pashmina-sprout.glb",
+      "anchor": [
+        0.13065843284130096,
+        0.020141392946243286,
+        2.351449489593506
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3485260009765625
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-afro--none": {
+      "path": "../235/components/Masculine-afro--none-sprout.glb",
+      "anchor": [
+        0.12998083233833313,
+        0.019137730821967125,
+        2.4736905097961426
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4708170890808105
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-afro--cap": {
+      "path": "../235/components/Masculine-afro--cap-sprout.glb",
+      "anchor": [
+        0.13069312274456024,
+        0.019971804693341255,
+        2.3545689582824707
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3516502380371094
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-afro--beanie": {
+      "path": "../235/components/Masculine-afro--beanie-sprout.glb",
+      "anchor": [
+        0.13044700026512146,
+        0.020028574392199516,
+        2.419717311859131
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.416750907897949
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-afro--bucket": {
+      "path": "../235/components/Masculine-afro--bucket-sprout.glb",
+      "anchor": [
+        0.13010306656360626,
+        0.019996773451566696,
+        2.384218692779541
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.381220579147339
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-afro--cowboy": {
+      "path": "../235/components/Masculine-afro--cowboy-sprout.glb",
+      "anchor": [
+        0.12881040573120117,
+        0.02014796808362007,
+        2.4145143032073975
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.411764144897461
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-afro--headband": {
+      "path": "../235/components/Masculine-afro--headband-sprout.glb",
+      "anchor": [
+        0.12999846041202545,
+        0.019116317853331566,
+        2.4737002849578857
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4708333015441895
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-afro--ears": {
+      "path": "../235/components/Masculine-afro--ears-sprout.glb",
+      "anchor": [
+        0.12998083233833313,
+        0.019137730821967125,
+        2.4736905097961426
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.4708170890808105
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-afro--pashmina": {
+      "path": "../235/components/Masculine-afro--pashmina-sprout.glb",
+      "anchor": [
+        0.13065843284130096,
+        0.020141392946243286,
+        2.351449489593506
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3485260009765625
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-flow--none": {
+      "path": "../235/components/Masculine-flow--none-sprout.glb",
+      "anchor": [
+        0.1307295262813568,
+        0.02049596980214119,
+        2.4086573123931885
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.405789852142334
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-flow--cap": {
+      "path": "../235/components/Masculine-flow--cap-sprout.glb",
+      "anchor": [
+        0.13069312274456024,
+        0.019971804693341255,
+        2.3545689582824707
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3516502380371094
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-flow--beanie": {
+      "path": "../235/components/Masculine-flow--beanie-sprout.glb",
+      "anchor": [
+        0.13044700026512146,
+        0.020028574392199516,
+        2.419717311859131
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.416750907897949
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-flow--bucket": {
+      "path": "../235/components/Masculine-flow--bucket-sprout.glb",
+      "anchor": [
+        0.13010306656360626,
+        0.019996773451566696,
+        2.384218692779541
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.381220579147339
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-flow--cowboy": {
+      "path": "../235/components/Masculine-flow--cowboy-sprout.glb",
+      "anchor": [
+        0.12881040573120117,
+        0.02014796808362007,
+        2.4145143032073975
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.411764144897461
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-flow--headband": {
+      "path": "../235/components/Masculine-flow--headband-sprout.glb",
+      "anchor": [
+        0.1307295262813568,
+        0.02049596980214119,
+        2.4086573123931885
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.405789852142334
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-flow--ears": {
+      "path": "../235/components/Masculine-flow--ears-sprout.glb",
+      "anchor": [
+        0.1307295262813568,
+        0.02049596980214119,
+        2.4086573123931885
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.405789852142334
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-flow--pashmina": {
+      "path": "../235/components/Masculine-flow--pashmina-sprout.glb",
+      "anchor": [
+        0.13065843284130096,
+        0.020141392946243286,
+        2.351449489593506
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3485260009765625
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-locs--none": {
+      "path": "../235/components/Masculine-locs--none-sprout.glb",
+      "anchor": [
+        0.13033069670200348,
+        0.018913546577095985,
+        2.349553108215332
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3467764854431152
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-locs--cap": {
+      "path": "../235/components/Masculine-locs--cap-sprout.glb",
+      "anchor": [
+        0.13069312274456024,
+        0.019971804693341255,
+        2.3545689582824707
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3516502380371094
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-locs--beanie": {
+      "path": "../235/components/Masculine-locs--beanie-sprout.glb",
+      "anchor": [
+        0.13044700026512146,
+        0.020028574392199516,
+        2.419717311859131
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.416750907897949
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-locs--bucket": {
+      "path": "../235/components/Masculine-locs--bucket-sprout.glb",
+      "anchor": [
+        0.13010306656360626,
+        0.019996773451566696,
+        2.384218692779541
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.381220579147339
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-locs--cowboy": {
+      "path": "../235/components/Masculine-locs--cowboy-sprout.glb",
+      "anchor": [
+        0.12881040573120117,
+        0.02014796808362007,
+        2.4145143032073975
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.411764144897461
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-locs--headband": {
+      "path": "../235/components/Masculine-locs--headband-sprout.glb",
+      "anchor": [
+        0.13033069670200348,
+        0.018913546577095985,
+        2.349553108215332
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3467764854431152
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-locs--ears": {
+      "path": "../235/components/Masculine-locs--ears-sprout.glb",
+      "anchor": [
+        0.13033069670200348,
+        0.018913546577095985,
+        2.349553108215332
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3467764854431152
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-locs--pashmina": {
+      "path": "../235/components/Masculine-locs--pashmina-sprout.glb",
+      "anchor": [
+        0.13065843284130096,
+        0.020141392946243286,
+        2.351449489593506
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3485260009765625
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-middle-part--none": {
+      "path": "../235/components/Masculine-middle-part--none-sprout.glb",
+      "anchor": [
+        0.13017694652080536,
+        0.02042112499475479,
+        2.362938404083252
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.359973430633545
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-middle-part--cap": {
+      "path": "../235/components/Masculine-middle-part--cap-sprout.glb",
+      "anchor": [
+        0.13069312274456024,
+        0.019971804693341255,
+        2.3545689582824707
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3516502380371094
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-middle-part--beanie": {
+      "path": "../235/components/Masculine-middle-part--beanie-sprout.glb",
+      "anchor": [
+        0.13044700026512146,
+        0.020028574392199516,
+        2.419717311859131
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.416750907897949
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-middle-part--bucket": {
+      "path": "../235/components/Masculine-middle-part--bucket-sprout.glb",
+      "anchor": [
+        0.13010306656360626,
+        0.019996773451566696,
+        2.384218692779541
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.381220579147339
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-middle-part--cowboy": {
+      "path": "../235/components/Masculine-middle-part--cowboy-sprout.glb",
+      "anchor": [
+        0.12881040573120117,
+        0.02014796808362007,
+        2.4145143032073975
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.411764144897461
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-middle-part--headband": {
+      "path": "../235/components/Masculine-middle-part--headband-sprout.glb",
+      "anchor": [
+        0.13017694652080536,
+        0.02042112499475479,
+        2.362938404083252
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.359973430633545
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-middle-part--ears": {
+      "path": "../235/components/Masculine-middle-part--ears-sprout.glb",
+      "anchor": [
+        0.13017694652080536,
+        0.02042112499475479,
+        2.362938404083252
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.359973430633545
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    },
+    "Masculine-middle-part--pashmina": {
+      "path": "../235/components/Masculine-middle-part--pashmina-sprout.glb",
+      "anchor": [
+        0.13065843284130096,
+        0.020141392946243286,
+        2.351449489593506
+      ],
+      "surface": [
+        0.12999999523162842,
+        0.019999999552965164,
+        2.3485260009765625
+      ],
+      "clearance": 0.003,
+      "has_clip": true
+    }
+  },
+  "pashminaTops": {
+    "Feminine": {
+      "open": "components/Feminine-open-pashmina245-headgear.glb",
+      "bandeau": "components/Feminine-bandeau-pashmina245-headgear.glb",
+      "triangle": "components/Feminine-triangle-pashmina245-headgear.glb",
+      "strappy": "components/Feminine-strappy-pashmina245-headgear.glb",
+      "tshirt": "components/Feminine-tshirt-pashmina245-headgear.glb",
+      "jersey": "components/Feminine-jersey-pashmina245-headgear.glb",
+      "tank": "components/Feminine-tank-pashmina245-headgear.glb",
+      "sweatshirt": "components/Feminine-sweatshirt-pashmina245-headgear.glb"
+    },
+    "Masculine": {
+      "shirtless": "components/Masculine-shirtless-pashmina245-headgear.glb",
+      "tank": "components/Masculine-tank-pashmina245-headgear.glb",
+      "tshirt": "components/Masculine-tshirt-pashmina245-headgear.glb",
+      "jersey": "components/Masculine-jersey-pashmina245-headgear.glb",
+      "buttonup": "components/Masculine-buttonup-pashmina245-headgear.glb",
+      "sweatshirt": "components/Masculine-sweatshirt-pashmina245-headgear.glb"
+    }
+  },
+  "previousPashminaFits": {
+    "Feminine-bob": {
+      "hair": "../236/components/Feminine-bob-covered-hair236.glb",
+      "headgear": "../244/components/Feminine-open-pashmina244-headgear.glb"
+    },
+    "Feminine-ponytail": {
+      "hair": "../235/components/Feminine-ponytail-pashmina-hair.glb",
+      "headgear": "../244/components/Feminine-open-pashmina244-headgear.glb"
+    },
+    "Feminine-straight": {
+      "hair": "../236/components/Feminine-straight-covered-hair236.glb",
+      "headgear": "../244/components/Feminine-open-pashmina244-headgear.glb"
+    },
+    "Feminine-curls": {
+      "hair": "../236/components/Feminine-curls-covered-hair236.glb",
+      "headgear": "../244/components/Feminine-open-pashmina244-headgear.glb"
+    },
+    "Feminine-side-sweep": {
+      "hair": "../236/components/Feminine-side-sweep-covered-hair236.glb",
+      "headgear": "../244/components/Feminine-open-pashmina244-headgear.glb"
+    },
+    "Feminine-space-buns": {
+      "hair": "../235/components/Feminine-space-buns-pashmina-hair.glb",
+      "headgear": "../244/components/Feminine-open-pashmina244-headgear.glb"
+    },
+    "Feminine-twin-braids": {
+      "hair": "../236/components/Feminine-twin-braids-covered-hair236.glb",
+      "headgear": "../244/components/Feminine-open-pashmina244-headgear.glb"
+    },
+    "Feminine-box-braids": {
+      "hair": "../236/components/Feminine-box-braids-covered-hair236.glb",
+      "headgear": "../244/components/Feminine-open-pashmina244-headgear.glb"
+    },
+    "Masculine-sidepart": {
+      "hair": "../235/components/Masculine-sidepart-pashmina-hair.glb",
+      "headgear": "../244/components/Masculine-tank-pashmina244-headgear.glb"
+    },
+    "Masculine-taper": {
+      "hair": "../235/components/Masculine-taper-pashmina-hair.glb",
+      "headgear": "../244/components/Masculine-tank-pashmina244-headgear.glb"
+    },
+    "Masculine-buzz": {
+      "hair": "../235/components/Masculine-buzz-pashmina-hair.glb",
+      "headgear": "../244/components/Masculine-tank-pashmina244-headgear.glb"
+    },
+    "Masculine-curly-top": {
+      "hair": "../235/components/Masculine-curly-top-pashmina-hair.glb",
+      "headgear": "../244/components/Masculine-tank-pashmina244-headgear.glb"
+    },
+    "Masculine-afro": {
+      "hair": "../235/components/Masculine-afro-pashmina-hair.glb",
+      "headgear": "../244/components/Masculine-tank-pashmina244-headgear.glb"
+    },
+    "Masculine-flow": {
+      "hair": "../235/components/Masculine-flow-pashmina-hair.glb",
+      "headgear": "../244/components/Masculine-tank-pashmina244-headgear.glb"
+    },
+    "Masculine-locs": {
+      "hair": "../235/components/Masculine-locs-pashmina-hair.glb",
+      "headgear": "../244/components/Masculine-tank-pashmina244-headgear.glb"
+    },
+    "Masculine-middle-part": {
+      "hair": "../235/components/Masculine-middle-part-pashmina-hair.glb",
+      "headgear": "../244/components/Masculine-tank-pashmina244-headgear.glb"
+    }
+  },
+  "previousPashminaTops": {
+    "Feminine": {
+      "open": "../244/components/Feminine-open-pashmina244-headgear.glb",
+      "bandeau": "../244/components/Feminine-bandeau-pashmina244-headgear.glb",
+      "triangle": "../244/components/Feminine-triangle-pashmina244-headgear.glb",
+      "strappy": "../244/components/Feminine-strappy-pashmina244-headgear.glb",
+      "tshirt": "../244/components/Feminine-tshirt-pashmina244-headgear.glb",
+      "jersey": "../244/components/Feminine-jersey-pashmina244-headgear.glb",
+      "tank": "../244/components/Feminine-tank-pashmina244-headgear.glb",
+      "sweatshirt": "../244/components/Feminine-sweatshirt-pashmina244-headgear.glb"
+    },
+    "Masculine": {
+      "shirtless": "../244/components/Masculine-shirtless-pashmina244-headgear.glb",
+      "tank": "../244/components/Masculine-tank-pashmina244-headgear.glb",
+      "tshirt": "../244/components/Masculine-tshirt-pashmina244-headgear.glb",
+      "jersey": "../244/components/Masculine-jersey-pashmina244-headgear.glb",
+      "buttonup": "../244/components/Masculine-buttonup-pashmina244-headgear.glb",
+      "sweatshirt": "../244/components/Masculine-sweatshirt-pashmina244-headgear.glb"
+    }
+  }
+}

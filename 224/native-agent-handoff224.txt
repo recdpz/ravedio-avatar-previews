@@ -1,0 +1,27 @@
+RAVEDIO NATIVE AGENT HANDOFF224
+
+TASK
+Use the existing native avatar rendering lab to compare original Blender reference -> native3D -> cached lightweight portrait. Preserve the intended artwork. This is a faithful asset validation package, not a request for a new avatar design, speculative catalogue, profile encoding or competing renderer.
+
+INPUTS AND AUTHORITY
+Read README224.txt, baseline-authority224.json, assembly224.json, rendering-requirements224.json, asset-statistics224.json and both owner choices. Verify package hashes first. The latest explicit scoped face/stubble authority is209. The two feminine parameter selections are owner-selected222 uncovered and223 red Pulse cap. Other assemblies use developed art and are self-reviewed fit fixtures; successful import is not whole-catalogue approval.
+Read current mobile/workspace instructions and verify actual remote branch/phase state before native edits. An asset-repository commit does not authorize merging an old mobile branch or changing protocol contracts.
+
+REPRODUCE
+Unpack the224 packages plus retained209 baseline into one folder. Components are offline and share original coordinates; do not individually center/scale them. The baseline zip contains both builds with light/dark .blend/.glb/reference PNG/settings sets at120/512, with identical framing. Packed fixture scenes and reproduce224.py preserve the original studio without historical drive imports or external fonts.
+Prioritize Feminine-cap, Feminine-hoodie and Masculine-hoodie, plus all four209 references. The headgear fixture exercises a normal rear cap opening and separate covered/uncovered ponytail. The optical/detail fixture exercises transmitting lenses, thin separate frames, visible eyes and original HOT. These are developed assets, not experimental stand-ins.
+
+FIDELITY GATE
+Match camera/projection/target/crop first. Compare512 and120 references side by side with an aligned pixel-difference view. A global image score cannot accept obvious face, hair or material defects. Keep original geometry, palette, mouth/stubble readability and sculpted gloss while diagnosing differences.
+Preserve standard COLOR_0 RGBA and BLEND behavior on the taper; do not restore the historical opaque dummy-channel defect.
+Lenses use opacity1, transmission1, IOR1.25 and roughness0.025. Preserve visible eyes, front/back ordering and highlights. Transmission/IOR cannot be replaced by painted alpha. Report unsupported optics rather than silently changing appearance.
+GLB does not carry the complete Cycles/AgX/area-light/per-object ray-visibility pipeline. Exact source settings and visible round-trip differences, including chin reflections, are recorded. Keep unresolved differences explicit. Do not deform or repaint source art to imitate deficient native output.
+224 exports require no runtime hair, garment, tie or cap fitting. Do not apply historical slider deformation again. Covered/uncovered contexts are separate authored assets; assembly224.json selects the appropriate parts.
+
+RESOURCE AND WORKLOAD GATE
+These are full-quality fidelity originals:0.73-0.96M triangles and roughly18-21MB per complete GLB. File bytes are not resident CPU/GPU memory. Measure faithful versions first. Any mobile reduction must be a disposable/versioned derivative referencing the source hash, with matched front/both-side/back/top/detail comparisons and intact originals. Do not silently substitute the existing low-detail prototype.
+Keep one optimized live scene for the profile/editor and bounded on-demand portrait generation for rows. Reuse immutable parts, deduplicate jobs, prioritize visible rows, cancel obsolete work and retain correctly bound placeholders. New appearances are normal. Do not pre-render all combinations or create one live3D scene per message.
+Exercise warm repeats, fully cold unique appearances, rapid scrolling, incoming bursts, profile changes, missing assets, eviction, restart/offline and sustained use in real iOS/Android release builds. Reuse existing seeded/simulation workloads if available. Record device/build/config, logical/physical portrait sizes, visible cold-latency distribution, frame times, peak/plateau memory including GPU allocations, queue/cache bounds, thermal behavior and typing/BLE/message responsiveness. Set practical gates against target hardware and the app baseline. This package contains no phone benchmark claim.
+
+EXPECTED RETURN
+Provide exact source/native/portrait comparisons for each reference and the two representative accessory cases, renderer/settings versions and unsupported effects. Then provide workload measurements and a supported recommendation. Separate fidelity, fit and performance decisions. A material artistic tradeoff needs owner review; routine correctness fixes proceed within authorized native scope. This file does not authorize production profile bits, LoRa/BLE changes or renderer deployment.

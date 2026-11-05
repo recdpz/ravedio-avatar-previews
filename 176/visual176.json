@@ -1,0 +1,31 @@
+{
+  "revision": 176,
+  "review": "self",
+  "owner_acceptance": "Pending176",
+  "owner_direction": "Swept preferred; closer floating placement requested",
+  "initial_pass": "Reviewed both closer native builds and four Tank/T-shirt/Hoodie assemblies. The inward placement reduced the excessive gap; sleeve-context tips nearly touched the sleeve opening.",
+  "correction": "Retained inward placement and lowered sleeve-context arms an additional .012. No arm reshaping or garment geometry edits.",
+  "second_pass": {
+    "arm_views": [
+      "front",
+      "threequarter",
+      "left profile",
+      "right profile",
+      "rear",
+      "above"
+    ],
+    "top_combinations": 13,
+    "context_views": [
+      "front",
+      "profile",
+      "rear"
+    ],
+    "context_images": 39,
+    "quality": "1024px Cycles40 full body;800px Cycles32 details;640px Cycles24 top contexts",
+    "assessment": "The closer placement reads as part of the character while retaining deliberate separation. Matched before/after views make the inward shift visible from front and three-quarter. Side-profile overlap is expected camera occlusion. Final top contexts retain small sleeve-tip separation with no new visible arm/garment penetrations. The chosen Swept outline and volume are exact, translated inward only."
+  },
+  "technical": "technical176.json",
+  "browser": "browser176.json",
+  "remaining": "Owner review of closer placement; the previously recommended full sleeve/hoodie construction pass remains separate.",
+  "protected": "Body/head/hair/eyes/materials/lighting,175 skirt detail and all existing clothing geometry retained. Other arm variants remain175 history/comparison. No Studio or application/profile changes."
+}

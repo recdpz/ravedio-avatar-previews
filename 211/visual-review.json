@@ -1,0 +1,95 @@
+{
+  "baseline": 209,
+  "candidate": 211,
+  "owner_approval": "Pending for new catalogue candidates; 209 face/stubble approval remains scoped and unchanged",
+  "construction_pass": [
+    "Inspected four exact native Blender baseline portraits and original HOT badge reference.",
+    "Rejected the initial flat parallel-strip ponytail. Owner also rejected that bundle and requested visible front fall.",
+    "Replaced the bundle with a fuller, staggered-lock fall toward viewer-right; reduced the upward crest. Front view now shows part of the tail beside the cheek.",
+    "Reassessed repeated root-end issues: separated continuous fitted scalp coverage from gathered shallow ridges; unified root material to eliminate intersection color patches.",
+    "Found the tail cross-section depth frame became nearly singular at the +Y tangent near its crest; replaced it with a stable projected width frame.",
+    "Kept cap opening and rear strap separate. Free tail and tie are excluded from covered-root fitting. Added panel seam clearance above the crown thickness.",
+    "Caught upper frame/brim intersection and authored a lower cap-specific frame/lens fit. Ordinary uncovered fit stays separate.",
+    "Caught HOT backing intersection with curved cheek and stubble. Tessellated in UV space before fitting every sample; retained original coral badge and dark geometry lettering.",
+    "Inspected Taper rear gap; rejected detached bridging strips, then seated/lifted the existing crown roots.",
+    "Owner rejected the earlier Ponytail front, pointed hairline and hooked front roots. That candidate was not published.",
+    "Rejected trial pasted side-sweep strips and flat triangular temple extensions during construction review.",
+    "Rebuilt the pulled-back coverage as a continuous sculpted surface with combed flow to the gather; replaced the peaked hairline with a broader rounded edge.",
+    "Blended two rounded front locks with a local scalp/root union and buried their upper sections. Free tail, tie, approved head and face are excluded from that union.",
+    "Reopened and re-exported all three affected Ponytail scenes, including covered hair and the combined cap/glasses/HOT/hoodie fixture."
+  ],
+  "final_saved_export_pass": [
+    "Reopened all nine saved catalogue scenes. Reviewed front, three-quarter, both profiles, rear, top, body and relevant underside views.",
+    "Reopened and verified all mesh positions of four packed baselines against exact 209 source scenes: every mesh is unchanged.",
+    "Rendered physical transmission lenses with both eyes remaining visible; one directional lens reflection is deliberately retained rather than painting out the optics.",
+    "Inspected both combined cap/glasses/HOT/hoodie fixtures in all four skin tones and actual small portrait resamples.",
+    "Inspected baseline GLB reimports in the exact Blender lighting. Geometry/material transfer is visually close; this is not native/browser parity certification.",
+    "Existing heads, bodies, floating arms, clothing, accepted face and skin palette were not redesigned.",
+    "Fresh Ponytail saved-scene audit after the front rebuild: front, three-quarter, both sides, rear, top, body, cap/lens underside, four skin tones and small portraits. The new front remains an owner-review candidate, not an accepted catalogue asset."
+  ],
+  "limits": [
+    "New catalogue looks await owner aesthetic review.",
+    "No current native app or phone qualification performed in this art slice.",
+    "Browser 3D uses its existing renderer recipe; the Blender references are authoritative.",
+    "No certification for unmodeled hats, other hairstyles, headbands, pashminas or animation."
+  ],
+  "construction_references": [
+    "https://www.shirtspace.com/infinity-her/hats-beanies/20459-infinity-her-cassie-womens-pigment-dyed-with-fashion-undervisor-cap",
+    "https://www.daraz.lk/products/harry-potter-retro-round-glasses-harajuku-mens-and-womens-glasses-frame-plain-glasses-prince-glasses-with-myopia-glasses-option-i188184074.html",
+    "Original local production/refine64/accessory-review/HOT_0.png",
+    "https://www.pinterest.com/pin/swipe-theres-just-something-about-a-clean-sleek-pony-that-has-the-girls-going-crazy-thank--713679872181846793/ (actual reference pixels inspected in browser screenshot; pulled-back direction, no pasted temple hooks)"
+  ],
+  "roundtrip_observations": {
+    "Feminine": {
+      "mean_absolute_RGB_error_0_255": 0.0642102559407552,
+      "p99_absolute_channel_difference": 1.0,
+      "description": "Blender GLB reimport in source lighting; not native app output or an accepted numerical tolerance"
+    },
+    "Masculine": {
+      "mean_absolute_RGB_error_0_255": 0.0027745564778645835,
+      "p99_absolute_channel_difference": 0.0,
+      "description": "Blender GLB reimport in source lighting; not native app output or an accepted numerical tolerance"
+    }
+  },
+  "viewer_compatibility": [
+    "Legacy r128 preview showed transmission lenses as opaque white and did not apply the taper vertex-alpha fade. The GLB encoding itself was already correct.",
+    "Updated only211 viewer to pinned three.js r180 with its official GLTFLoader; includes IOR/specular/transmission and vertex-alpha support. Kept fixed light/color recipe with legacy-scale conversion; no lighting selector.",
+    "New native art/source files are unchanged by the browser compatibility correction. The native renderer still needs its own matched comparison."
+  ],
+  "new_component_topology": {
+    "temporary_union_triangles": 1339780,
+    "production_hair_triangles": 183453,
+    "mean_absolute_RGB_error_0_255": 0.07440694173177083,
+    "p99_channel_difference": 2.0,
+    "note": "Comparison of a new unapproved construction intermediate with its cleaned production topology, not a reduction of any approved209 reference. Matched render is included; no numerical acceptance threshold inferred."
+  },
+  "browser_final_front_refresh": {
+    "url": "http://127.0.0.1:9221/211/",
+    "captures": [
+      "Feminine-ponytail-none-none-none-front",
+      "Feminine-ponytail-none-none-none-threequarter",
+      "Feminine-ponytail-none-none-none-profile",
+      "Feminine-ponytail-none-none-none-rightprofile",
+      "Feminine-ponytail-none-none-none-rear",
+      "Feminine-ponytail-none-none-none-top",
+      "Feminine-ponytail-cap-round-hot-front",
+      "Feminine-ponytail-cap-round-hot-threequarter",
+      "Feminine-ponytail-cap-round-hot-profile",
+      "Feminine-ponytail-cap-round-hot-rightprofile",
+      "Feminine-ponytail-cap-round-hot-rear",
+      "Feminine-ponytail-cap-round-hot-top",
+      "Feminine-all-parts-tone0",
+      "Feminine-all-parts-tone1",
+      "Feminine-all-parts-tone2",
+      "Feminine-all-parts-tone3"
+    ],
+    "cases": 2,
+    "errors": [],
+    "http": [],
+    "png_download": true,
+    "selection_restored": true,
+    "fixed_lighting": true,
+    "evidence": "Desktop software browser; not native-app or phone evidence",
+    "scope": "Fresh Ponytail review after owner-rejected front was rebuilt; unchanged masculine/Bob cases remain in browser211.json"
+  }
+}

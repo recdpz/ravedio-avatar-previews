@@ -1,0 +1,141 @@
+{
+  "revision": 170,
+  "date": "2026-10-18",
+  "source_revision": 168,
+  "comparison": 169,
+  "scope": "Cartoon upper torso contour and alternative eye redesign",
+  "models": 11,
+  "eye_build_pairs": 8,
+  "renders": 90,
+  "matte_diagnostics": 8,
+  "render_quality": "1024px Cycles40, matched unchanged camera/light",
+  "eye_choices": [
+    "Original",
+    "Round",
+    "Almond",
+    "Narrow"
+  ],
+  "eye_aliases": {
+    "original": 0,
+    "soft": 1,
+    "almond": 2,
+    "lowarc": 3
+  },
+  "assets": [
+    {
+      "file": "Feminine-bandeau-top.glb",
+      "sha256": "789a0b9c78453882f01f1ef4a5271fd70b1b0ea04e9b61850c99a4e4ceaced72",
+      "bytes": 3623768
+    },
+    {
+      "file": "Feminine-base.glb",
+      "sha256": "580ea42e18d0b92724cec7efcfb192abe77bdd7ec973351e8d16d99efd99b7d9",
+      "bytes": 4986072
+    },
+    {
+      "file": "Feminine-eyes-almond.glb",
+      "sha256": "f078d0f9f874ed1c04ed72b822baf93c3ce43f8b8068858b9b96b8230abe7f1a",
+      "bytes": 218580
+    },
+    {
+      "file": "Feminine-eyes-lowarc.glb",
+      "sha256": "b9769961b19fb8d88007cf330141d34b27c07d84ef029412f125ce41f8d87815",
+      "bytes": 218580
+    },
+    {
+      "file": "Feminine-eyes-original.glb",
+      "sha256": "beeae10d8ab3dd4d0d3a474fb869a0876c036a70f9d26bfd4610b3e3ea7eccd5",
+      "bytes": 152500
+    },
+    {
+      "file": "Feminine-eyes-soft.glb",
+      "sha256": "2e3021d33b9356e423fa3064129867a4d790ba2b836a466ccea1f366cb2fa76e",
+      "bytes": 218560
+    },
+    {
+      "file": "Feminine-jersey-top.glb",
+      "sha256": "e6e4a1d7d8097fde3ebbbacf92133c714e22ae1cac8850c59cad336b829317c2",
+      "bytes": 5803516
+    },
+    {
+      "file": "Feminine-open-top.glb",
+      "sha256": "5960cc8251a1f90e216dbbebc95c81a786ef54ccc8723698acaa4c52c3f21ec9",
+      "bytes": 7805620
+    },
+    {
+      "file": "Feminine-strappy-top.glb",
+      "sha256": "06807d78e66e389ba65d4637df0849a5574f03c088bd5fc608eb75f04348c49f",
+      "bytes": 4330372
+    },
+    {
+      "file": "Feminine-sweatshirt-top.glb",
+      "sha256": "53936573d51891f6fb282e228a2ef6ffb2617fbd7af87128e60541260afa0c8c",
+      "bytes": 5607636
+    },
+    {
+      "file": "Feminine-tank-top.glb",
+      "sha256": "366637dfa265ec997f269d36692010ef212b584779527d550a80969f9d2eb141",
+      "bytes": 4281376
+    },
+    {
+      "file": "Feminine-triangle-top.glb",
+      "sha256": "ccc2eb4497e98af162c57f8b122b42cd8bcccdff1a79844fdbf078e47e97355a",
+      "bytes": 6428964
+    },
+    {
+      "file": "Feminine-tshirt-top.glb",
+      "sha256": "fd57d707b29eb710ef3777e1100071a77cab79354a3f59ab6de10590a7b613e0",
+      "bytes": 4260500
+    },
+    {
+      "file": "Masculine-base.glb",
+      "sha256": "1fb1356a8ef109c91a3e53689a07277b4af2bb9e4c5664bd2d4874cd66e9ce16",
+      "bytes": 5096296
+    },
+    {
+      "file": "Masculine-eyes-almond.glb",
+      "sha256": "19778bb16da212bfc6d3be79ae36f94b444f8e8549f2bdd479606a697dbaf991",
+      "bytes": 218580
+    },
+    {
+      "file": "Masculine-eyes-lowarc.glb",
+      "sha256": "c11ea48dc9c47b733e100068f9dda457320384a61892c0bd0fe45a7ce8a11a89",
+      "bytes": 218580
+    },
+    {
+      "file": "Masculine-eyes-original.glb",
+      "sha256": "53ee30d108ef40c1ceb46a81cc4e26027bb5d670da6829a4588413da4e9b4550",
+      "bytes": 152504
+    },
+    {
+      "file": "Masculine-eyes-soft.glb",
+      "sha256": "1eecfec93da199086eea5569210b7012a67996e2a75b801ef479e785ce2bca05",
+      "bytes": 218560
+    },
+    {
+      "file": "Masculine-jersey-top.glb",
+      "sha256": "1658fa48542bd735c11059bdd861e397d18e5cdf198952743ed5d260b25d65de",
+      "bytes": 5852960
+    },
+    {
+      "file": "Masculine-sweatshirt-top.glb",
+      "sha256": "a41d92fafb1d057d2c6665249d696b48f164352f8165cd8509c9a4ad49367075",
+      "bytes": 5635688
+    },
+    {
+      "file": "Masculine-tank-top.glb",
+      "sha256": "33aefe3fdbcad054f23468a45f16004b0db70d80604c6ed2400e24d4fd250714",
+      "bytes": 2369476
+    }
+  ],
+  "technical": [
+    "fit-verification170.json",
+    "eye-verification170.json"
+  ],
+  "visual": "visual-review170.json",
+  "native_lighting_changed": false,
+  "viewer_lighting": "Soft studio default; exact previous169 lighting selectable",
+  "owner_acceptance": "pending",
+  "studio_changed": false,
+  "profile_contract_changed": false
+}

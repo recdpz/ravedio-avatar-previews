@@ -1,0 +1,17 @@
+{
+  "status": "Implemented249 artwork repair; owner review pending",
+  "baseline_commit": "9cea4e0637473b9b73e9b9ea1c7fa0c7cdc0559a",
+  "source_artwork": "cc3d03d9caf726bc0406338a9a60579dba2b3ab4",
+  "revision": 249,
+  "scope": "Rooted hair coverage, original visible hairstyle identity and fitted pashmina volume",
+  "handoff": "249/handoff249.json",
+  "manifest_sha256": "7b1e97dcac5221fb672e51a77b6fd8f493c60bbbbfffd97a4f8866423ae27f99",
+  "cloth_top_fits": 112,
+  "exact_original_hair_components": 14,
+  "localized_gathered_hair_components": 2,
+  "headwear_sprout_fits": 16,
+  "default_hair_reviews": 16,
+  "wardrobe_accessory_stress_cases": 22,
+  "source_and_export_review": true,
+  "native_phone_qualified": false
+}

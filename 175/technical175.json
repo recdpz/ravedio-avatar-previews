@@ -1,0 +1,133 @@
+{
+  "cases": [
+    {
+      "case": "Feminine-arms-compact",
+      "saved_reopened_exact": true,
+      "protected_exact": true,
+      "lighting_exact": true,
+      "finite": true,
+      "material_indices_valid": true,
+      "arms": [
+        {
+          "name": "Skin / compact arm -1",
+          "closed": true,
+          "vertices": 5058
+        },
+        {
+          "name": "Skin / compact arm 1",
+          "closed": true,
+          "vertices": 5058
+        }
+      ]
+    },
+    {
+      "case": "Feminine-arms-curved",
+      "saved_reopened_exact": true,
+      "protected_exact": true,
+      "lighting_exact": true,
+      "finite": true,
+      "material_indices_valid": true,
+      "arms": [
+        {
+          "name": "Skin / curved arm -1",
+          "closed": true,
+          "vertices": 5058
+        },
+        {
+          "name": "Skin / curved arm 1",
+          "closed": true,
+          "vertices": 5058
+        }
+      ]
+    },
+    {
+      "case": "Feminine-arms-swept",
+      "saved_reopened_exact": true,
+      "protected_exact": true,
+      "lighting_exact": true,
+      "finite": true,
+      "material_indices_valid": true,
+      "arms": [
+        {
+          "name": "Skin / swept arm -1",
+          "closed": true,
+          "vertices": 5058
+        },
+        {
+          "name": "Skin / swept arm 1",
+          "closed": true,
+          "vertices": 5058
+        }
+      ]
+    },
+    {
+      "case": "Feminine-skirt",
+      "saved_reopened_exact": true,
+      "protected_exact": true,
+      "lighting_exact": true,
+      "finite": true,
+      "material_indices_valid": true,
+      "arms": []
+    },
+    {
+      "case": "Masculine-arms-compact",
+      "saved_reopened_exact": true,
+      "protected_exact": true,
+      "lighting_exact": true,
+      "finite": true,
+      "material_indices_valid": true,
+      "arms": [
+        {
+          "name": "Skin / compact arm -1",
+          "closed": true,
+          "vertices": 5058
+        },
+        {
+          "name": "Skin / compact arm 1",
+          "closed": true,
+          "vertices": 5058
+        }
+      ]
+    },
+    {
+      "case": "Masculine-arms-curved",
+      "saved_reopened_exact": true,
+      "protected_exact": true,
+      "lighting_exact": true,
+      "finite": true,
+      "material_indices_valid": true,
+      "arms": [
+        {
+          "name": "Skin / curved arm -1",
+          "closed": true,
+          "vertices": 5058
+        },
+        {
+          "name": "Skin / curved arm 1",
+          "closed": true,
+          "vertices": 5058
+        }
+      ]
+    },
+    {
+      "case": "Masculine-arms-swept",
+      "saved_reopened_exact": true,
+      "protected_exact": true,
+      "lighting_exact": true,
+      "finite": true,
+      "material_indices_valid": true,
+      "arms": [
+        {
+          "name": "Skin / swept arm -1",
+          "closed": true,
+          "vertices": 5058
+        },
+        {
+          "name": "Skin / swept arm 1",
+          "closed": true,
+          "vertices": 5058
+        }
+      ]
+    }
+  ]
+}

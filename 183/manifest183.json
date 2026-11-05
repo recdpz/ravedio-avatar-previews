@@ -1,0 +1,53 @@
+{
+  "revision": 183,
+  "status": "Grooming/placement candidates; owner review pending",
+  "support": 181,
+  "source_direction": [
+    78,
+    79
+  ],
+  "face_shape_source": 182,
+  "nose_shape_source": 181,
+  "changes": [
+    "Six new cartoon grooming styles",
+    "Restored Rounded nose",
+    "Fitted placement adjustment"
+  ],
+  "unchanged": "Head, eyes, scalp hair, body, skin palette, T-shirt and fixed3D lighting",
+  "grooming": [
+    "None",
+    "Stubble",
+    "Mustache",
+    "Goatee",
+    "Short beard",
+    "Full beard",
+    "Long beard"
+  ],
+  "profile_contract_changed": false,
+  "files": {
+    "Feminine-mouth-line.glb": "a12794cb2224633de358546e3fc07d6f9dfc574d6796d5fc309c250c12c9f308",
+    "Feminine-mouth-lips.glb": "77e0d5f379c19d1535f3ec5647a86784f546524f7c6c8b4b7eb5af86a5d20646",
+    "Feminine-mouth-smile.glb": "9d2bf95ba87c5ae3fe7afa8a0af1cb1b51170e60c23da296a6e914488ee8fe4d",
+    "Feminine-nose-rounded.glb": "1d61968e6e5656ac6657ad8a2f71c450d980ccf4e958710658bfe05bca0676f0",
+    "Masculine-groom-full.glb": "bf351a7e4dc9fa669496645a0177caf0f7faa46628a017fcde94689a8a9f2441",
+    "Masculine-groom-goatee.glb": "b3b7f1574ac27467aac64cc811c19ee1c80b8d23cfb81bb442fbf74d06453441",
+    "Masculine-groom-long.glb": "5ff52546118cf71df1394df4d6ad35386ec969d22a969b2c73c6f357cad5a1e8",
+    "Masculine-groom-mustache.glb": "1cab4e4fbddcbe8830f58201050eb6c99333f0548694ceb3e1bb29027501f1d7",
+    "Masculine-groom-short.glb": "bf3469ab4263c30d05d92ec81537b963e69455370186534bac7180a0f109c058",
+    "Masculine-groom-stubble.glb": "742a215d4083548e4473561ef8babf8eec1a0e0aedf9237bc322fc8af9f71b01",
+    "Masculine-mouth-line.glb": "298d5d2c07e981ef8891d9f85ecbbb5b980b07c965a5ad515a1949bc667d1bb6",
+    "Masculine-mouth-lips.glb": "01e64c30d25bd38e9a359d01f48bcf974b99411f3965b489f9863ea027e29fd8",
+    "Masculine-mouth-smile.glb": "d11a76cc18b96c7017ff24991b8c089edaeca5df1006dd1233ccaaef24b9867f",
+    "Masculine-nose-rounded.glb": "282ec6e1efa63e515a83ff6a12365863d1b08a316d2920baab0ed2f146a94a02"
+  },
+  "presentation": "Unchanged181 fixed3D lighting; comparison galleries captured from actual assembled GLBs",
+  "visual_review": "Two deliberate native passes plus exported assembly review; owner acceptance pending",
+  "coverage": "Short styles finish on lower front face; long styles hang at front with a small under-chin return",
+  "local_verification": {
+    "saved_files": 18,
+    "masculine_face_groom_combinations": 56,
+    "feminine_face_combinations": 8,
+    "mobile_layout_and_png": true,
+    "source_objects_unchanged": true
+  }
+}

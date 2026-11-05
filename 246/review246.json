@@ -1,0 +1,24 @@
+{
+  "revision": 246,
+  "reviewer": "self",
+  "owner_approval": "pending",
+  "scope": "Rebuild distorted high crossing as clean fabric strips at accepted244 placement",
+  "changes": [
+    "Replace inherited twisted rows with controlled-width ruled strips and smoothly varying frames.",
+    "Fit depth against major forms without radially warping the strip edges; keep the upper edge below the chin.",
+    "Reorient the inner layer to maintain coherent cloth thickness instead of carrying the knot offsets forward."
+  ],
+  "protected": "245 hood/neck wrap and all other objects/materials/studio; free ends and fringe after t0.68 remain exact245, retaining accepted244 placement.",
+  "passes": [
+    "14 source construction reviews.",
+    "14 fresh GLB fits at seven angles;16 retained covered hairstyles at four angles; two packed/reopened scenes and matched245 comparisons.",
+    "Browser route/color/comparison checks and close six-angle review."
+  ],
+  "visual_findings": [
+    "Owner rejected245 upper crossing as distorted. The cause was inherited twisted cross-sections plus per-vertex radial fitting that changed their visible width.",
+    "246 authors coherent strip edges and surface thickness while retaining the accepted placement.",
+    "The first private rebuild was too wide and bunched against the chin; the delivered version controls the strip width and caps its upper edge below the chin.",
+    "Final source, reopened GLB and browser close views show continuous borders through the overlap on both builds; the hanging ends and neck wrap remain fixed."
+  ],
+  "native_qualification": "Separate and not performed here."
+}

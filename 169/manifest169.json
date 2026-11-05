@@ -1,0 +1,142 @@
+{
+  "date": "2026-10-18",
+  "revision": 169,
+  "before": 168,
+  "scope": "Separate cartoon model refinement",
+  "changes": [
+    "Original168 eyes preserved; new Soft, Almond and Low arc components on both builds",
+    "Localized upper outer shoulder roll, applied once from saved168 donors",
+    "Tank armholes extended slightly downward on both builds; feminine strap identity retained",
+    "Hoodies rebuilt with settled hood, opening, cords, pocket and rib borders",
+    "Modular eye swaps preserve body/outfit/camera; before168 and face/body/detail controls"
+  ],
+  "models": 11,
+  "eye_build_pairs": 8,
+  "renders": 90,
+  "matte_diagnostics": 8,
+  "render_quality": "1024px Cycles40 CUDA, denoising, fixed matched camera/light",
+  "angles": [
+    "front",
+    "threequarter",
+    "profile",
+    "rightprofile",
+    "rear",
+    "top"
+  ],
+  "assets": [
+    {
+      "file": "Feminine-bandeau-top.glb",
+      "sha256": "0c93fcc67e50956487c53b613e3af20ac6e0bad6eb2e0c82c6a366a8be54e81c",
+      "bytes": 3623768
+    },
+    {
+      "file": "Feminine-base.glb",
+      "sha256": "e7e01508abbe81bade8fb7d3cd10a5634a2412195cda7a726747bc02f56b994b",
+      "bytes": 4986072
+    },
+    {
+      "file": "Feminine-eyes-almond.glb",
+      "sha256": "5b8918155c2d31ff166ab0bc2a75f4c2bbd7b58daa8c44e9bacd13b09785b63a",
+      "bytes": 160848
+    },
+    {
+      "file": "Feminine-eyes-lowarc.glb",
+      "sha256": "4d57716255c3eff60d6820b01b72e4031c0c92a269a418ca48c7dbdbe8cbdc15",
+      "bytes": 160844
+    },
+    {
+      "file": "Feminine-eyes-original.glb",
+      "sha256": "97d2b3180ff3649415e4ef817c798abb9fbe86db6c3a46bdd6a105e6255c0795",
+      "bytes": 152500
+    },
+    {
+      "file": "Feminine-eyes-soft.glb",
+      "sha256": "0668e47ff49705335340e544012a1aa253d7032250be57e19414770e409ab22d",
+      "bytes": 160824
+    },
+    {
+      "file": "Feminine-jersey-top.glb",
+      "sha256": "abe1a1c9b0b80353f54877e2271169100322523e0b1f6ea505738877e29ae47a",
+      "bytes": 5803516
+    },
+    {
+      "file": "Feminine-open-top.glb",
+      "sha256": "13878b1e5e71c425d7550438dcc4fe2c506ce78f370b8877b18825315f7e63df",
+      "bytes": 7805624
+    },
+    {
+      "file": "Feminine-strappy-top.glb",
+      "sha256": "a1761f84649ce7eeed0e1305038921f3adb3f7bfd11400b864029aa8ffd6c528",
+      "bytes": 4328716
+    },
+    {
+      "file": "Feminine-sweatshirt-top.glb",
+      "sha256": "e14191afb0693b14fe55efa3e8df7eaedf8a0036ea7134c00d52be9824ab8996",
+      "bytes": 5619688
+    },
+    {
+      "file": "Feminine-tank-top.glb",
+      "sha256": "c4cb16109d9e19020d6010a18e9c68c4681bb96cef010d9e634cd8de56c5a0bd",
+      "bytes": 4280084
+    },
+    {
+      "file": "Feminine-triangle-top.glb",
+      "sha256": "d89307606f8e7fa9aaa0bacec3e415fcbd358e0f47e5ba75e644311d3106febd",
+      "bytes": 6429504
+    },
+    {
+      "file": "Feminine-tshirt-top.glb",
+      "sha256": "d99a17d06cca51ab2eb7878fae7ba640339cc444c38bd560fa12cc8d1074f627",
+      "bytes": 4260500
+    },
+    {
+      "file": "Masculine-base.glb",
+      "sha256": "a1ec80bfdf14068dce6543be4f1033573a4f8361d2cfffd37d2011b9509e198c",
+      "bytes": 5096296
+    },
+    {
+      "file": "Masculine-eyes-almond.glb",
+      "sha256": "d684f7d392f54edc5f3fa1866a3acca2829d80671f45b17e00548507bcfe2fc6",
+      "bytes": 160848
+    },
+    {
+      "file": "Masculine-eyes-lowarc.glb",
+      "sha256": "61ce7e05b263bf39fea93bd8f85402d2b74006b4240df5ba44bba3dfb5cab6db",
+      "bytes": 160848
+    },
+    {
+      "file": "Masculine-eyes-original.glb",
+      "sha256": "c57758a456398de15197030857d69106a2ea6e2aa6638053508547845abbf1e1",
+      "bytes": 152504
+    },
+    {
+      "file": "Masculine-eyes-soft.glb",
+      "sha256": "4b017f5f08f17f146f51fc319ea1a577992495013b3a467f0cd0396f9c10766f",
+      "bytes": 160824
+    },
+    {
+      "file": "Masculine-jersey-top.glb",
+      "sha256": "fc4f94b78f8f1a2b756cdbf1ef82f5462231eb0d8285e799a62fb6fae802e9f7",
+      "bytes": 5852932
+    },
+    {
+      "file": "Masculine-sweatshirt-top.glb",
+      "sha256": "aebffdc53d8fe54ec259210b87402f23256eff32f3a16c42f10c482ff117d695",
+      "bytes": 5641308
+    },
+    {
+      "file": "Masculine-tank-top.glb",
+      "sha256": "36740e11d8a5a5e58c989503b257dcbc87573b7e9ddda886a03ece9c4cdf59ac",
+      "bytes": 2369480
+    }
+  ],
+  "technical": [
+    "fit-verification169.json",
+    "eye-verification169.json"
+  ],
+  "visual": "visual-review169.json",
+  "owner_acceptance": "pending",
+  "studio_changed": false,
+  "main_master_changed": false,
+  "profile_contract_changed": false
+}

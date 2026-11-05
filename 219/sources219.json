@@ -1,0 +1,29 @@
+{
+  "revision": 219,
+  "baseline": 218,
+  "sources": {
+    "E:\\Ravedio-Avatar\\refinement218\\scenes\\Feminine-ponytail.blend": "81abf970c546872ab8b48bb34ff25f4091b937470956e2a8ff59365ae0ff9093",
+    "E:\\Ravedio-Avatar\\refinement214\\scenes\\Feminine-cap-glasses.blend": "8a236f51ac29ea7d557cfe504248525fbf44c8e6d2853d284faae7c905dcc5f9"
+  },
+  "scope": [
+    "Remove59 tiny root strands",
+    "Higher back-crown attachment and independent tail lift",
+    "Fitted high rear cap opening for ponytail"
+  ],
+  "protected": [
+    "All nonhair geometry, materials, faces, clothes, body, arms, palette, studio",
+    "Existing front locks",
+    "Cap front crown/bill/logos and glasses placement"
+  ],
+  "recipes": {
+    "model219.py": "330da550be83a6d86e9352f2ec3c0ce90c6d019f6c89422228757f9f2cf6f051",
+    "parameters219.py": "1524a3b19fc2fbec3b1d7aa5917bd89ad96864a8b761d0ff929c5f459b9b7571",
+    "flow219.js": "7269813e96c11f0756e5b872c12aac5dcef2eda4e7e30dd423b331d9173b0542",
+    "site219.py": "4557f032c26d3f3098754698e05b06c4e0c3976efa9adeebade4e7bebd03d89c"
+  },
+  "reference": {
+    "page": "https://www.popflexactive.com/products/good-sport-high-ponytail-cap",
+    "secondary": "https://www.ponyflohats.com/pages/contact-us",
+    "observation": "High crown/rear openings accommodate a high ponytail. Product construction image inspected locally; no reference artwork redistributed."
+  }
+}

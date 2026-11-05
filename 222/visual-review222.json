@@ -1,0 +1,50 @@
+{
+  "revision": 222,
+  "owner_approval": false,
+  "first_pass": [
+    "Replaced long surface-hugging front roots with a narrow buried seed and short seated transition",
+    "First front pass was too straight; restored soft S flow, rounder cross-sections and sculpted longitudinal channels",
+    "Front length trims/grows a fixed physical path, retaining upper curve, width and texture spacing",
+    "Higher root range0..2 follows the exact protected head support",
+    "Low strongly curved cap corners required a tucked narrow stem; delay sideways styling/volume until below visor, with root height fitted to brim tilt"
+  ],
+  "second_pass": [
+    "Final saved/reopened scenes and actual GLB viewer",
+    "Front,three-quarter,both sides,rear,top; min/max length, root heights and independently edited locks",
+    "Four skin tones and32/48/64/128/512px source views",
+    "Body/back ponytail/parent scalp/cap/glasses retained; cap under-brim variants tested across tilt,crown,bill length and curve extremes",
+    "Paired/individual controls, reset, choice export, persistence and PNG; native/browser math agreement"
+  ],
+  "verification": {
+    "base": {
+      "saved_scene_sha256": "f1a0a15c72df17ebbc8fc7027757730cd7c598b5d87c489d367b66f68f7b0c04",
+      "protected_exact": 30,
+      "all_nonfront_exact221": true,
+      "fixed_studio_exact": true,
+      "native_parameter_error": 1.1991964667722353e-07,
+      "front_fit_cases": 24,
+      "root_range": [
+        0,
+        2
+      ],
+      "intended_seated_root_zone": 0.035,
+      "owner_accepted": false
+    },
+    "length_prefix_error": 3.260069294525275e-15,
+    "head_fit_cases": 24,
+    "cap_fit_cases": 128,
+    "browser": {
+      "higher_root_geometry": true,
+      "independent_locks_and_nonfront_geometry": true,
+      "cap_root_fit_restores_requested_height": true,
+      "native_browser_math": {
+        "front": 2.4253291443567328e-14,
+        "tail": 6.029809849850675e-14
+      },
+      "choice_download": true,
+      "persistence": true,
+      "png_download": true
+    }
+  },
+  "native_phone_qualification": false
+}

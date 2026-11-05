@@ -1,0 +1,49 @@
+{
+  "sha256": "179bfcb054ecc31f1edd7d0413579c2983e10e30f02ce9f5db54cb62c4480670",
+  "loaded_hashes": {
+    "Feminine-ponytail-cap-hair.glb": "b7dc300b369d2506027207b128f34bb8d5585959316e627b18edfc8547d6e2b8",
+    "Feminine-ponytail-cap.glb": "179bfcb054ecc31f1edd7d0413579c2983e10e30f02ce9f5db54cb62c4480670"
+  },
+  "errors": [],
+  "http": [],
+  "loaded": [
+    "http://127.0.0.1:9222/220/Feminine-ponytail-cap-hair.glb?guide=2",
+    "http://127.0.0.1:9222/220/Feminine-ponytail-cap.glb?guide=2"
+  ],
+  "captures": [
+    "E:/Ravedio-Avatar/refinement220/browser-captures/cap-final--1.5-front.png",
+    "E:/Ravedio-Avatar/refinement220/browser-captures/cap-final--1.5-threequarter.png",
+    "E:/Ravedio-Avatar/refinement220/browser-captures/cap-final--1.5-profile.png",
+    "E:/Ravedio-Avatar/refinement220/browser-captures/cap-final--1.5-rightprofile.png",
+    "E:/Ravedio-Avatar/refinement220/browser-captures/cap-final--1.5-rear.png",
+    "E:/Ravedio-Avatar/refinement220/browser-captures/cap-final--1.5-top.png",
+    "E:/Ravedio-Avatar/refinement220/browser-captures/cap-final--0.75-front.png",
+    "E:/Ravedio-Avatar/refinement220/browser-captures/cap-final--0.75-threequarter.png",
+    "E:/Ravedio-Avatar/refinement220/browser-captures/cap-final--0.75-profile.png",
+    "E:/Ravedio-Avatar/refinement220/browser-captures/cap-final--0.75-rightprofile.png",
+    "E:/Ravedio-Avatar/refinement220/browser-captures/cap-final--0.75-rear.png",
+    "E:/Ravedio-Avatar/refinement220/browser-captures/cap-final--0.75-top.png",
+    "E:/Ravedio-Avatar/refinement220/browser-captures/cap-final-2.5-front.png",
+    "E:/Ravedio-Avatar/refinement220/browser-captures/cap-final-2.5-threequarter.png",
+    "E:/Ravedio-Avatar/refinement220/browser-captures/cap-final-2.5-profile.png",
+    "E:/Ravedio-Avatar/refinement220/browser-captures/cap-final-2.5-rightprofile.png",
+    "E:/Ravedio-Avatar/refinement220/browser-captures/cap-final-2.5-rear.png",
+    "E:/Ravedio-Avatar/refinement220/browser-captures/cap-final-2.5-top.png",
+    "E:/Ravedio-Avatar/refinement220/browser-captures/cap-final-low-profile.png",
+    "E:/Ravedio-Avatar/refinement220/browser-captures/cap-final-low-rear.png",
+    "E:/Ravedio-Avatar/refinement220/browser-captures/cap-final-low-top.png",
+    "E:/Ravedio-Avatar/refinement220/browser-captures/cap-final-high-profile.png",
+    "E:/Ravedio-Avatar/refinement220/browser-captures/cap-final-high-rear.png",
+    "E:/Ravedio-Avatar/refinement220/browser-captures/cap-final-high-top.png",
+    "E:/Ravedio-Avatar/refinement220/browser-captures/cap-final-tall-profile.png",
+    "E:/Ravedio-Avatar/refinement220/browser-captures/cap-final-tall-rear.png",
+    "E:/Ravedio-Avatar/refinement220/browser-captures/cap-final-tall-top.png",
+    "E:/Ravedio-Avatar/refinement220/browser-captures/cap-final-combined-profile.png",
+    "E:/Ravedio-Avatar/refinement220/browser-captures/cap-final-combined-rear.png",
+    "E:/Ravedio-Avatar/refinement220/browser-captures/cap-final-combined-top.png",
+    "E:/Ravedio-Avatar/refinement220/browser-captures/cap-masculine-retained.png",
+    "E:/Ravedio-Avatar/refinement220/browser-captures/cap-bob-retained.png"
+  ],
+  "normal_caps_retained": true,
+  "scope": "Final cap geometry only; other220 browser controls retain prior verification"
+}

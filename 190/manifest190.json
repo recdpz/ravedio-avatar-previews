@@ -1,0 +1,51 @@
+{
+  "revision": 190,
+  "status": "Self-reviewed candidate190; owner aesthetic acceptance pending",
+  "source": 189,
+  "clothed_male_support": "Exact188; Shirtless-only chest details",
+  "female_support": "188 with smooth rear reduction and slightly reduced rounded bust; X/Z outline and arms preserved; clothing fitted independently",
+  "shirtless": "Local unencoded choice",
+  "profile_contract_changed": false,
+  "files": {
+    "Feminine-bandeau-top.glb": "f73d49d6ab0c1cd18283cfdaf8ad3a3f33b448b0bcafc1dd928cecf35e352b9e",
+    "Feminine-base.glb": "f9fad8477387215cdc00bfcd5690793b5da37e3b147e6b361d6a380e27392362",
+    "Feminine-bikini.glb": "996e4f2d4485f9e8c6ee016f4cbd044f25728fa797b6fae31373167387367903",
+    "Feminine-jersey-top.glb": "7a13e87b23a82b9c9f5132fa4fe585469e1d8cb0b9bfb894cf98d10282cbe03f",
+    "Feminine-nose-rounded.glb": "a54411add0e6b61078da6da4230477ee3a17fdcc54a7db549f861d5ac221d532",
+    "Feminine-open-top.glb": "304ecc6e87aaadd31b77b92657acc9fca1d526214a056d9720b01e040346eba9",
+    "Feminine-strappy-top.glb": "9715dd96e5d45f3c7dff3149ee475d7f0d0e53ae5897af5c3a194b19eb710ed9",
+    "Feminine-sweatshirt-top.glb": "a8fb8ef3b694baed65f97a5563cd97158762f9ba42ccfed8bafb7cff81818f86",
+    "Feminine-tank-top.glb": "b080a86bdaea1075c50725c4826a8eab938383f6530721d07e9b70a8c688d2ef",
+    "Feminine-triangle-top.glb": "b1f303b100296a87b47059b9b62d6b25e448f79dd04d8f72713d7132b1593ecd",
+    "Feminine-tshirt-top.glb": "b7d8338649e4b635edc9ce492530b2b277198c30c45f8a12d39c98f484c5cd72",
+    "Masculine-buttonup-top.glb": "69cd0e76aef14f140163b72432164915c37267d5d58aa955d5077360c20189b1",
+    "Masculine-jersey-top.glb": "deb36db0c89714200fb413af214d0790dea99e1e149080f32a3d18dee935379f",
+    "Masculine-nose-rounded.glb": "3192df5ef183f87a36dc541c4591dd370f7ee1a273dee3150b09ae0c448425ec",
+    "Masculine-shirtless-base.glb": "c7f43a9a8d902a42394c2becf59a3c05dacce05245b568842c23ecd91b24a212",
+    "Masculine-sweatshirt-top.glb": "e8f9888a75c133449a8a091f607c1121de3aae0a502f641d3e9ede94db3bd0cf",
+    "Masculine-tank-top.glb": "b484555d2bfbd2644fd2c396120c9868123c8bc3604323b87004ef3eafc30227",
+    "Masculine-tshirt-top.glb": "a857b97b8dc7ef94a55a3687e593586020e917406591795fa14b1a7172714790"
+  },
+  "verification": {
+    "save_reopen": true,
+    "all14_top_choices_reviewed": true,
+    "front_outfit_pairs": 44,
+    "shirtless_only_details": true,
+    "clothed_male_support_exact188": true,
+    "female_body_xz_arms_preserved": true,
+    "body_and_garment_fitting_separate": true,
+    "previous189_selections_restored": true,
+    "png_export": true,
+    "two_visual_passes": true,
+    "lighting": 181,
+    "palette": 151
+  },
+  "review_notes": {
+    "male": "Flat chest geometry; shallow skin-adaptive shaded contour cues, exclusively Shirtless",
+    "female": "Slightly reduced rounded bust, softer lower join and gradual back-to-waist reduction; retained garment styles",
+    "jersey": "Continuous button placket and fabric neck binding; deeper front than rear",
+    "bikini": "Connected broader curved gusset, seated front/root and inner-thigh fit",
+    "nose": "Small rounded form without folded lower plate or nostril cavities"
+  },
+  "recovery": "188 and189 previews/native sources retained"
+}

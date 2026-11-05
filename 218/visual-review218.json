@@ -1,0 +1,43 @@
+{
+  "revision": 218,
+  "owner_approval": false,
+  "first_pass": [
+    "Found217 locks overlapped heavily and shared nearly identical bend timing/endpoints",
+    "First trial broad crown sections lost fine surface detail; restored fine directional relief over broader volume",
+    "Early lock separation left excessive space near the gather; keep first third on common guide and vary lower lengths",
+    "Rounded terminal sections avoid needle-like split tips",
+    "Added subtle regional crown lift and swept paths rather than a uniform scalp inflation"
+  ],
+  "second_pass": [
+    "Saved/reopened native scene, fresh GLB and actual browser output",
+    "Four presets, side C at minimum departure, highest rooted tie, side-depth and lock-flow limits",
+    "All six primary head angles and cap/glasses/hoodie combinations",
+    "Four tones at32/48/64/128px plus512px hairline review",
+    "Front-lock independence, Lock flow geometry, persistence and downloaded choices/PNG",
+    "Native/browser shared evaluator comparison and frozen non-hair/front-lock signatures"
+  ],
+  "technical_checks": {
+    "saved_scene_sha256": "81abf970c546872ab8b48bb34ff25f4091b937470956e2a8ff59365ae0ff9093",
+    "frozen_sources_unchanged": true,
+    "protected_exact": 25,
+    "all_nonhair_exact": true,
+    "front_locks_exact": true,
+    "fixed_studio_exact": true,
+    "native_parameter_error": 1.1891029201808677e-07,
+    "tail_boundary_cases": 388,
+    "tail_head_clearance": true,
+    "owner_accepted": false
+  },
+  "browser": {
+    "higher_tie_maximum": 1.7,
+    "minimum_departure_curves": true,
+    "independent_depth_geometry": true,
+    "individual_lock_flow_geometry": true,
+    "front_controls_retained": true,
+    "parameter_parity": 1.2775315890075621e-14,
+    "choice_download": true,
+    "persistence": true,
+    "png_download": true
+  },
+  "native_phone_qualification": false
+}

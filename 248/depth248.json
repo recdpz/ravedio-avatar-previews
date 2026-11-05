@@ -1,0 +1,244 @@
+{
+  "revision": 248,
+  "matched_color_and_depth": [
+    {
+      "build": "Feminine",
+      "size": 120,
+      "color": "references/Feminine-portrait120-paired248-color.png",
+      "depth": "references/Feminine-portrait120-paired248-depth.exr",
+      "format": "32-bit float OpenEXR Z pass; linear scene-distance units",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.8799999952316284
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.5,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.88
+        ],
+        "resolution": [
+          120,
+          120
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ]
+      },
+      "alpha_threshold": 0.5,
+      "finite_depth_range": [
+        7.603611469268799,
+        8.316802978515625
+      ],
+      "geometry_revision": 248,
+      "interpretation": "Assembled Blender reference only. Not a component-layer occlusion map and not a transparency solution."
+    },
+    {
+      "build": "Feminine",
+      "size": 512,
+      "color": "references/Feminine-portrait512-paired248-color.png",
+      "depth": "references/Feminine-portrait512-paired248-depth.exr",
+      "format": "32-bit float OpenEXR Z pass; linear scene-distance units",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.8799999952316284
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.5,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.88
+        ],
+        "resolution": [
+          512,
+          512
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ]
+      },
+      "alpha_threshold": 0.5,
+      "finite_depth_range": [
+        7.6036057472229,
+        8.317150115966797
+      ],
+      "geometry_revision": 248,
+      "interpretation": "Assembled Blender reference only. Not a component-layer occlusion map and not a transparency solution."
+    },
+    {
+      "build": "Masculine",
+      "size": 120,
+      "color": "references/Masculine-portrait120-paired248-color.png",
+      "depth": "references/Masculine-portrait120-paired248-depth.exr",
+      "format": "32-bit float OpenEXR Z pass; linear scene-distance units",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.8799999952316284
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.5,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.88
+        ],
+        "resolution": [
+          120,
+          120
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ]
+      },
+      "alpha_threshold": 0.5,
+      "finite_depth_range": [
+        7.603611469268799,
+        8.180021286010742
+      ],
+      "geometry_revision": 248,
+      "interpretation": "Assembled Blender reference only. Not a component-layer occlusion map and not a transparency solution."
+    },
+    {
+      "build": "Masculine",
+      "size": 512,
+      "color": "references/Masculine-portrait512-paired248-color.png",
+      "depth": "references/Masculine-portrait512-paired248-depth.exr",
+      "format": "32-bit float OpenEXR Z pass; linear scene-distance units",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.8799999952316284
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.5,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.88
+        ],
+        "resolution": [
+          512,
+          512
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ]
+      },
+      "alpha_threshold": 0.5,
+      "finite_depth_range": [
+        7.6036057472229,
+        8.184094429016113
+      ],
+      "geometry_revision": 248,
+      "interpretation": "Assembled Blender reference only. Not a component-layer occlusion map and not a transparency solution."
+    }
+  ],
+  "source": "Same render, geometry, camera and version for every color/depth pair.",
+  "validation_dependency": "OpenEXR3.5.2 Python reader; isolated local deps directory, not bundled into the app.",
+  "limits": "No glasses in these fixtures. Opacity uses Blender pass alpha threshold0.5; transmission/refraction and native component composition require separate tests."
+}

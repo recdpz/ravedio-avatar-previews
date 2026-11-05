@@ -1,0 +1,49 @@
+{
+  "scope": "Native cartoon160 only; main avatar system unchanged",
+  "owner_acceptance": "pending",
+  "first_pass": {
+    "findings": [
+      "159 sleeve spheres did not read as sleeves",
+      "159 cross strap penetrated torso",
+      "159 masculine tank used feminine band-and-straps construction",
+      "High initial160 sleeve roots",
+      "Shorts seam poked through initial shirt hem",
+      "Open-shirt hem trim bridged its front opening",
+      "Matte body test exposed horizontal profile bands"
+    ],
+    "corrections": [
+      "Continuous tapered sleeves with open cuffs",
+      "Cross strap projected against actual body surface",
+      "Connected masculine crew-neck tank with broad shoulder panels",
+      "Sleeve roots lowered and embedded within continuous shoulder construction",
+      "Looser fabric envelope spans torso and clears shorts",
+      "Front hem interrupted; plackets seated",
+      "Analytic smooth upper-body profile, not a shader cover-up"
+    ]
+  },
+  "second_pass": {
+    "status": "Fresh final review complete; aesthetic owner approval pending",
+    "evidence": [
+      "Feminine-turnarounds.jpg",
+      "Masculine-turnarounds.jpg",
+      "matte-review160.jpg",
+      "before-after160.jpg",
+      "Close-ups of Feminine-strappy, Feminine-tshirt, Feminine-open and Masculine-tank"
+    ],
+    "coverage": "All11 assemblies,6 matched angles each;8 neutral matte body views; surrounding head-to-body,hand/cuff and shorts/hem contacts.",
+    "result": "No remaining obvious sphere caps, buried diagonal strap, horizontal torso bands or hem line bridging the open shirt identified in these views. Torso caps are smooth, sleeves are continuous with visible openings. Deliberate floating orb hands and leg blobs remain part of the design."
+  },
+  "protected": "Heads,eyes,hair,hands,legs,shorts,151 palette and matching cameras",
+  "references": [
+    "https://ascolour.com/mens-classic-tank-5073/",
+    "https://ascolour.com/staple-tee-5001/"
+  ],
+  "technical_separate": "Save/reopen hashes, connected meshes, positive cross-strap clearance and GLB validation do not substitute for visual review.",
+  "technical_results": "11 final saved-file signatures matched after reopening, including vertex colors. Protected head,hair,eye,hand,leg and shorts hashes unchanged. Sleeve garment meshes remain connected. Evaluated diagonal strap vertices all have positive signed clearance from torso.",
+  "browser_checks": "Before/after:22 assemblies. Final refreshed geometry:all11 assemblies. Four skin choices on both builds,six presets,portrait focus,PNG export with correct159/160 filename. Phone390x844,one canvas,no horizontal overflow. Physical touch not tested.",
+  "limits": [
+    "Simple short stylized sleeves; not a real cloth simulation",
+    "Full original accessory catalogue not refitted",
+    "Physical phone touch not tested"
+  ]
+}

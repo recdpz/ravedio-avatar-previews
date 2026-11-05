@@ -1,0 +1,22 @@
+{
+  "revision": 249,
+  "baseline_commit": "9cea4e0637473b9b73e9b9ea1c7fa0c7cdc0559a",
+  "previous_artwork": "cc3d03d9caf726bc0406338a9a60579dba2b3ab4",
+  "scope": "Restore rooted coverage and original hairstyle identity beneath pashmina",
+  "url": "https://recdpz.github.io/ravedio-avatar-previews/249/",
+  "selection": "pashminaHairFamilies now maps each style to itself; pashminaVariants[build][style][top] selects its authored hood. fits[build-style].pashmina.hair selects intact or locally gathered hair. No new profile bits or runtime physics.",
+  "hair": "Fourteen covered hairstyles reuse exact original GLBs. Ponytail and buns preserve original materials and free pieces with localized gathers; no generic replacement curtain or clipped eye-level roots.",
+  "coordinates": "All components retain their shared transforms and positions. glTF conversion only; no independent centering/resizing.",
+  "materials": "Ordinary uncompressed/unquantized GLBs. Separate recoloring roles and clear frame/lens materials retained. Cloth uses woven texture and linear sheen weight0.12.",
+  "details": "Each of16 pashmina sprouts is reseated on the final cloth, retaining its clamp. Compare248 restores old hair/cloth/sprout together. Cloth checkbox exposes the real covered hair.",
+  "references": "assemblies249.json records cameras, studio, packed sources and identical120/512 framing. depth249.json supplies matching assembled color/Z references; it is not a native component-layer bake.",
+  "assemblies": {
+    "Feminine": "assemblies/Feminine-pashmina249.blend",
+    "Masculine": "assemblies/Masculine-pashmina249.blend"
+  },
+  "authoring": "Two portable assembled scenes have dependencies packed. The112 per-top ordinary GLBs are portable; regenerating every individual authoring fit uses retained local248 source files and249 source/support recipes.",
+  "technical": "technical249.json",
+  "review": "review249.json",
+  "qualification": "Artwork candidate only. Native fidelity, layer-composition/transparency and phone performance remain unqualified.",
+  "renderer_limits": "The component GLBs do not include the Blender studio/HDR, camera/light rig, AgX view transform, ray-visibility flags or complete Blender shader graphs. Reproduce the reference using the packed scenes and recorded settings; native visual parity remains a separate gate."
+}

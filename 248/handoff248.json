@@ -1,0 +1,22 @@
+{
+  "revision": 248,
+  "url": "https://recdpz.github.io/ravedio-avatar-previews/248/",
+  "baseline_commit": "38a83cb53bed354bc54e573de718a5bf0aea24e3",
+  "artwork_baseline": "af32ff053b847395d65944af502a5366b4806bab",
+  "scope": "Rear cloth reserve and natural hair exits; accepted247 front protected",
+  "selection": "pashminaHairFamilies[build][hair] selects family; pashminaVariants[build][family][top] selects cloth. fits[build-hair].pashmina.hair selects the covered hairstyle. Compare247 switches cloth and covered hair together. No extra profile bits or runtime physics.",
+  "coordinates": "Shared coordinates and component transforms retained. Only Blender Z-up to glTF Y-up conversion.",
+  "materials": "Independent roles/colors and lens/frame materials retained; opaque woven cloth, linear sheen0.12; ordinary uncompressed/unquantized GLBs.",
+  "hair": "Covered-only authored variants. Concealed old crowns remain inside the hood; visible loose/braid lengths are new continuous paths. Uncovered hair and other headwear fits are unchanged.",
+  "sources": "Both default assemblies are packed. fit248.py starts from preserved247 per-top sources and235/224 authoring helpers. Per-fit native sources remain in the local authoring directory.",
+  "assemblies": {
+    "Feminine": "assemblies/Feminine-pashmina248.blend",
+    "Masculine": "assemblies/Masculine-pashmina248.blend"
+  },
+  "camera": "120/512 portraits share exact framing; fixtures248.json records studio, camera, exposure and color management.",
+  "depth": "Old portrait color/depth pairs must not be reused for changed geometry. See depth248.json for matched assembly depth references; native layer-composition baking remains separate.",
+  "technical": "technical248.json",
+  "fixtures": "fixtures248.json",
+  "review": "review248.json",
+  "qualification": "Source/export/browser artwork review only; no native/mobile performance qualification or production-repository changes."
+}

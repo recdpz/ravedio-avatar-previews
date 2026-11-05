@@ -1,0 +1,28 @@
+{
+  "revision": 247,
+  "url": "https://recdpz.github.io/ravedio-avatar-previews/247/",
+  "status": "Owner-review upper neck joins",
+  "baseline_commit": "41069f9a47c9c906e2025953434d074739c72a71",
+  "scope": "Clean the short upper joins beneath the chin into the accepted246 crossing",
+  "changes": [
+    "Straighten inherited hooked root sections and blend the shared hood seam locally.",
+    "Bridge smoothly into the exact246 main strips with coherent thickness and tangent-aligned edging.",
+    "Clean the woven border mapping through the visible upper joins."
+  ],
+  "protected": "246 main strips from row34, all lower lengths/fringe, upper hood and neck wrap; all other objects/materials/studio and shared coordinates.",
+  "coordinates": "Shared coordinates unchanged; Blender Z-up to glTF Y-up only. No independent recentering/resizing.",
+  "selection": "Independent feature/color controls retained. pashminaTops[build][top] selects authored fit. Compare246 changes only headgear for the same outfit and camera.",
+  "assemblies": {
+    "Feminine": "assemblies/Feminine-pashmina247.blend",
+    "Masculine": "assemblies/Masculine-pashmina247.blend"
+  },
+  "reference_framing": "120 and512 portraits share camera transform and orthographic scale; exact camera/studio settings in fixtures247.json.",
+  "materials": "Retained woven texture, opaque cloth and0.12 sheen mapping. Ordinary uncompressed GLBs.",
+  "portable_sources": "Two packed assembly scenes; roots247.py starts from preserved246 per-top sources with235/224 helpers.",
+  "qualification": "No native/depth-composition/phone-performance qualification; no profile-byte or product-repository changes.",
+  "technical": "technical247.json",
+  "fixtures": "fixtures247.json",
+  "review": "review247.json",
+  "placement_approval": "approval244.json",
+  "main_strips_approval": "approval246.json"
+}

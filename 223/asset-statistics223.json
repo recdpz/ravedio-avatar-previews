@@ -1,0 +1,221 @@
+{
+  "Feminine-cap.glb": {
+    "bytes": 1967900,
+    "sha256": "3955558df9e81a4a3385e275a9a16389963418500dcc30b2b674d26c0ad1ea87",
+    "triangles": 59584,
+    "mesh_nodes": 17,
+    "primitives": 17,
+    "materials": 3,
+    "material_details": [
+      {
+        "name": "Cap / subtle sewing212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.04600000008940697,
+          0.07800000160932541,
+          0.10499999672174454,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.7400000095367432,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Cap / midnight cotton212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.026000000536441803,
+          0.05299999937415123,
+          0.07999999821186066,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.6899999976158142,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.36000001430511475
+          }
+        }
+      },
+      {
+        "name": "Cap / ivory emblem223",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.7799999713897705,
+          0.8299999833106995,
+          0.8100000023841858,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.5199999809265137,
+        "extensions": {}
+      }
+    ],
+    "textures": [],
+    "extensions_used": [
+      "KHR_materials_clearcoat",
+      "KHR_materials_specular"
+    ],
+    "extensions_required": [],
+    "self_contained": true
+  },
+  "Feminine-ponytail-cap.glb": {
+    "bytes": 1967448,
+    "sha256": "c9c06ab1f95530544f11b86b53efa86f14b30a60ac2d59e80f6f157a4728627b",
+    "triangles": 59568,
+    "mesh_nodes": 17,
+    "primitives": 17,
+    "materials": 3,
+    "material_details": [
+      {
+        "name": "Cap / subtle sewing212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.04600000008940697,
+          0.07800000160932541,
+          0.10499999672174454,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.7400000095367432,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Cap / midnight cotton212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.026000000536441803,
+          0.05299999937415123,
+          0.07999999821186066,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.6899999976158142,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.36000001430511475
+          }
+        }
+      },
+      {
+        "name": "Cap / ivory emblem223",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.7799999713897705,
+          0.8299999833106995,
+          0.8100000023841858,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.5199999809265137,
+        "extensions": {}
+      }
+    ],
+    "textures": [],
+    "extensions_used": [
+      "KHR_materials_clearcoat",
+      "KHR_materials_specular"
+    ],
+    "extensions_required": [],
+    "self_contained": true
+  },
+  "Masculine-cap.glb": {
+    "bytes": 1966724,
+    "sha256": "3d6a883d96e57af4665ad23f446af778b834e52e3e40d347fd18b931034a6bd8",
+    "triangles": 59568,
+    "mesh_nodes": 17,
+    "primitives": 17,
+    "materials": 3,
+    "material_details": [
+      {
+        "name": "Cap / subtle sewing212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.04600000008940697,
+          0.07800000160932541,
+          0.10499999672174454,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.7400000095367432,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        }
+      },
+      {
+        "name": "Cap / midnight cotton212",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.026000000536441803,
+          0.05299999937415123,
+          0.07999999821186066,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.6899999976158142,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.36000001430511475
+          }
+        }
+      },
+      {
+        "name": "Cap / ivory emblem223",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": null,
+        "doubleSided": true,
+        "baseColorFactor": [
+          0.7799999713897705,
+          0.8299999833106995,
+          0.8100000023841858,
+          1
+        ],
+        "metallic": 0,
+        "roughness": 0.5199999809265137,
+        "extensions": {}
+      }
+    ],
+    "textures": [],
+    "extensions_used": [
+      "KHR_materials_clearcoat",
+      "KHR_materials_specular"
+    ],
+    "extensions_required": [],
+    "self_contained": true
+  }
+}

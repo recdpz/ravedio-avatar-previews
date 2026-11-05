@@ -1,0 +1,37 @@
+{
+  "revision": 249,
+  "review": "self",
+  "owner_approval": "New249 fits pending",
+  "scope": "Restore rooted coverage and original hairstyle identity beneath pashmina",
+  "original_components_reused": [
+    "Feminine-bob",
+    "Feminine-straight",
+    "Feminine-curls",
+    "Feminine-side-sweep",
+    "Feminine-twin-braids",
+    "Feminine-box-braids",
+    "Masculine-sidepart",
+    "Masculine-taper",
+    "Masculine-buzz",
+    "Masculine-curly-top",
+    "Masculine-afro",
+    "Masculine-flow",
+    "Masculine-locs",
+    "Masculine-middle-part"
+  ],
+  "localized_gathers": [
+    "Feminine ponytail: original free-tail geometry moved to a low actual-head-supported tie; original pulled scalp re-routed to it with visible forehead preserved.",
+    "Feminine space buns: original bun pieces lowered behind the head; front/scalp retained."
+  ],
+  "passes": [
+    "Source comparisons and enlarged construction iterations corrected lower-edge scalloping, hood corner wings and the ponytail nape connection.",
+    "Fresh GLBs:16 styles at seven full and seven enlarged angles, plus uncovered/cloth-hidden/before248 front/profile/rear.",
+    "22 wardrobe/accessory stress cases at seven angles; matching four-tone small portraits; browser routes and actual cloth-layer visibility."
+  ],
+  "protected": "Accepted front crossing regions and all body/face/wardrobe/uncovered/other-headwear inputs remain unchanged.",
+  "limits": "Artwork candidate only. Native fidelity, layer-composition/transparency and phone performance remain unqualified.",
+  "construction_lessons": [
+    "Exported GLB vertex order is not an authoring grid even when vertex counts match. The low ponytail repair uses a bounded rear-surface extension on the actual head, preserving the crown and visible front.",
+    "Front-hanging locks are excluded from the covered bulk support; enclosing them would flare the lower hood corners."
+  ]
+}

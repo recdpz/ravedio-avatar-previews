@@ -1,0 +1,1201 @@
+{
+  "revision": 239,
+  "files": [
+    {
+      "path": "assemblies/Feminine-pashmina239.blend",
+      "bytes": 24747006,
+      "sha256": "aa6860d627260000e9ea37cfa87cb41ab2182877c99a3c1ca780aa421eb4dbb0"
+    },
+    {
+      "path": "assemblies/Masculine-pashmina239.blend",
+      "bytes": 18975074,
+      "sha256": "d7456e97e114e01f6a87c815f6048ee4a481dcbf3a5ab7a1d259098906f8fc17"
+    },
+    {
+      "path": "browser239.json",
+      "bytes": 2890,
+      "sha256": "58b7f65cd5c4ff59335fc23b88bc264e87d69a423712d69e31b06f9b5594ee77"
+    },
+    {
+      "path": "catalogue239.json",
+      "bytes": 88881,
+      "sha256": "9c93db66cbf6dbc37bc1438be680b24117ab6378f75ffa183ba04a482f55ec76"
+    },
+    {
+      "path": "close239.json",
+      "bytes": 182,
+      "sha256": "4696f127a6c52c20bff0815dad1598baa2a42ff29a3fb79fe98f7206907e5666"
+    },
+    {
+      "path": "components/Feminine-bandeau-pashmina239-headgear.glb",
+      "bytes": 2703008,
+      "sha256": "440cda8b1a45f69ed6e83cbbc2f16fea531d0efe276c45d7abdd72920c0aafad"
+    },
+    {
+      "path": "components/Feminine-jersey-pashmina239-headgear.glb",
+      "bytes": 2703008,
+      "sha256": "0f4ec741400bd44a4d68ac8fa99ab17cc748c89c7f06950e6ef9b3a76a42a240"
+    },
+    {
+      "path": "components/Feminine-open-pashmina239-headgear.glb",
+      "bytes": 2703008,
+      "sha256": "e6cc955c363845e9587580c223f183baa60b9a1bc40007b206ed3497dc9b934a"
+    },
+    {
+      "path": "components/Feminine-strappy-pashmina239-headgear.glb",
+      "bytes": 2703012,
+      "sha256": "5bc0e5066d8f64ca75d64c710cc8954b78b5491300050d8cf3182d5599021e27"
+    },
+    {
+      "path": "components/Feminine-sweatshirt-pashmina239-headgear.glb",
+      "bytes": 2703012,
+      "sha256": "d3a0d3b65d93f116c10ffe6fcb1e0453a4801e30d4825c7db109e10421a58a0f"
+    },
+    {
+      "path": "components/Feminine-tank-pashmina239-headgear.glb",
+      "bytes": 2703008,
+      "sha256": "0076e761489591f6d3265e773368b9ad679ba196dd5bf87b7c720a66c52becca"
+    },
+    {
+      "path": "components/Feminine-triangle-pashmina239-headgear.glb",
+      "bytes": 2703012,
+      "sha256": "71c70f499fd455fdac82e0cd997ac1766952f77392aad9416c56dd58ed82156d"
+    },
+    {
+      "path": "components/Feminine-tshirt-pashmina239-headgear.glb",
+      "bytes": 2703012,
+      "sha256": "2d03ebef0c6704003cb7b82d00b2d555412dd7752bfeca05b1152f9d557c4a5b"
+    },
+    {
+      "path": "components/Masculine-buttonup-pashmina239-headgear.glb",
+      "bytes": 2700852,
+      "sha256": "897b91a1e4c515af51f737e182b090f37ace8cf1a7d997350fcc9ee267363872"
+    },
+    {
+      "path": "components/Masculine-jersey-pashmina239-headgear.glb",
+      "bytes": 2700856,
+      "sha256": "200ba72acc257ca37f36ccbab6a253d2900684c088f84aac2a1750e191969f35"
+    },
+    {
+      "path": "components/Masculine-shirtless-pashmina239-headgear.glb",
+      "bytes": 2700856,
+      "sha256": "1c1cf9f442900c6ebba7a8163144c02845faa4e05d34b36f8c13afc6c34b63bb"
+    },
+    {
+      "path": "components/Masculine-sweatshirt-pashmina239-headgear.glb",
+      "bytes": 2701212,
+      "sha256": "0d272823c629c65d5980c2f0f44dc5b8ee24e2600a68b667feae99fe8ffa6582"
+    },
+    {
+      "path": "components/Masculine-tank-pashmina239-headgear.glb",
+      "bytes": 2700852,
+      "sha256": "164b23646b8d67fe5fa59b278644e6f299e198730a52f5216d1d7faefc94fc1e"
+    },
+    {
+      "path": "components/Masculine-tshirt-pashmina239-headgear.glb",
+      "bytes": 2700856,
+      "sha256": "4134e691b6bb8e396922df5e9c886f2ed42288ac324e92b831b1ef939444f388"
+    },
+    {
+      "path": "dependencies239.json",
+      "bytes": 55188,
+      "sha256": "d6dbbc848f580964c3ac448516147194688e25bd79f82b594b6f1ec0ef2a92b2"
+    },
+    {
+      "path": "fit-proof239.json",
+      "bytes": 10199,
+      "sha256": "f86347a7abf1e7f2c93e89acfd988d043ea8a1218a2d6bbdb9067be87f0eae80"
+    },
+    {
+      "path": "fixtures239.json",
+      "bytes": 60737,
+      "sha256": "c4ca188d2069218ef1abc94260a7ca691d0742e8e57c2039c2a2e4c0f96fd46b"
+    },
+    {
+      "path": "hair-fits239.json",
+      "bytes": 3651,
+      "sha256": "46f39dd3bffb7c1e229f19abde90271057d3fb425e0e5b2e04f9706db1bea0c6"
+    },
+    {
+      "path": "handoff239.json",
+      "bytes": 2786,
+      "sha256": "d2bcd6dc89710cbf15d5f7d121de985874fee4e9ef1b267661d390ffd19e5921"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10013,
+      "sha256": "a34c1799f349158ebabe9ed7a9bf82a6ff3b0dcacc5eab197ebd044464de8414"
+    },
+    {
+      "path": "joins239.json",
+      "bytes": 17993,
+      "sha256": "ad11fcaa1dd92904f9ba242b9df19a2e5341ab1ef61fb84770202b7df31d4022"
+    },
+    {
+      "path": "README239.txt",
+      "bytes": 787,
+      "sha256": "49c1577e2a55b6f6b60c69b19cb9803d3a8351ecc0ea4d430c7afefc21120657"
+    },
+    {
+      "path": "references/Feminine-bandeau-export239-front.png",
+      "bytes": 84590,
+      "sha256": "854374e4387a94a4af0cc2e47d56d0b2edd6f467b8191afcce0a501bc7e366ed"
+    },
+    {
+      "path": "references/Feminine-bandeau-export239-profile.png",
+      "bytes": 75703,
+      "sha256": "bf6e2637384b87142d8813415a25b28c68b12a7f45c753a899205e3ea4afa209"
+    },
+    {
+      "path": "references/Feminine-bandeau-export239-rear.png",
+      "bytes": 77344,
+      "sha256": "8a66cd448844994afc946e6f632ec5faaa2c6908dccbed71f7637b18b4447e8e"
+    },
+    {
+      "path": "references/Feminine-bandeau-export239-rightprofile.png",
+      "bytes": 75852,
+      "sha256": "35bc031bd4d56cbe832f8886ed6631a514b7e64fe368c4a7785d48f3c42d6e69"
+    },
+    {
+      "path": "references/Feminine-bandeau-export239-threequarter.png",
+      "bytes": 84721,
+      "sha256": "03754164b64e0ffab327802c8b994285eb9491097a6ee0a7ad490412d40a39b4"
+    },
+    {
+      "path": "references/Feminine-bandeau-export239-top.png",
+      "bytes": 76703,
+      "sha256": "9b4abb3ca82867a92ad535b24d5774503acc1237ca39182c685ff195db89eb63"
+    },
+    {
+      "path": "references/Feminine-bandeau-export239-underside.png",
+      "bytes": 78411,
+      "sha256": "98b019cfa6bf7f83d217bf693f0eed7398ca3ec62989bee1d2cebab405986c98"
+    },
+    {
+      "path": "references/Feminine-bob-pashmina239-profile.png",
+      "bytes": 44431,
+      "sha256": "68c959b18273d17381a7999048042e5d8c301284cc7be3562bd0568571b6bf71"
+    },
+    {
+      "path": "references/Feminine-bob-pashmina239-rear.png",
+      "bytes": 45905,
+      "sha256": "58964cc3a3dd54b29f049b9395f6e6c8823957a7836a04d950413f30a2ebf84d"
+    },
+    {
+      "path": "references/Feminine-box-braids-pashmina239-profile.png",
+      "bytes": 46247,
+      "sha256": "7b6411b07fbf9f0088cd235a2ac8fcfd038ed81a37a343827de3a90c53c7585c"
+    },
+    {
+      "path": "references/Feminine-box-braids-pashmina239-rear.png",
+      "bytes": 47631,
+      "sha256": "64a8b01cea59ae173bd099d75b13979cd141e4c81126a9d67107d5d9adf07a84"
+    },
+    {
+      "path": "references/Feminine-curls-pashmina239-profile.png",
+      "bytes": 45430,
+      "sha256": "e348eaece1fc5ad77625c366ff121a8f661f0caf52fd4d2dea937c0cd381e2e5"
+    },
+    {
+      "path": "references/Feminine-curls-pashmina239-rear.png",
+      "bytes": 47358,
+      "sha256": "e6917b7dd792490b7ceacc721d1ba82a8c2912758555e43738bfa4e4bc20db04"
+    },
+    {
+      "path": "references/Feminine-jersey-export239-front.png",
+      "bytes": 84919,
+      "sha256": "fafefddfb826bef155f23b0c3744873883152148afb7ab12d573c49abd03c373"
+    },
+    {
+      "path": "references/Feminine-jersey-export239-profile.png",
+      "bytes": 76518,
+      "sha256": "770f411c0915dcec60c9c6780e598970cd5fe8d991c0e6e8f843c3ba17a208c6"
+    },
+    {
+      "path": "references/Feminine-jersey-export239-rear.png",
+      "bytes": 79144,
+      "sha256": "6e348298d702081c3100be76338b599744b583279795a49287bf9ca91ea96f42"
+    },
+    {
+      "path": "references/Feminine-jersey-export239-rightprofile.png",
+      "bytes": 76607,
+      "sha256": "db30c58769ebc40030aa0b4a38636e7f5c02f9ba50352915cdeab1db3aec8c94"
+    },
+    {
+      "path": "references/Feminine-jersey-export239-threequarter.png",
+      "bytes": 85276,
+      "sha256": "8399bfcdc48cf462cfd5cf8e47cd9819df0813545b01fcb721ee3af4b4c39504"
+    },
+    {
+      "path": "references/Feminine-jersey-export239-top.png",
+      "bytes": 76745,
+      "sha256": "24823138cb16b0838c7c034c44aef66710130db89e3fd2ee81914a2249a518ec"
+    },
+    {
+      "path": "references/Feminine-jersey-export239-underside.png",
+      "bytes": 78283,
+      "sha256": "1b3c8d16e04ae265db3ea638f64997e976f5723383e985def7f79aeb673e0ff5"
+    },
+    {
+      "path": "references/Feminine-neck238-front.png",
+      "bytes": 493152,
+      "sha256": "88fc19c4dda5599301d5dd9a241477a9bc32f52d6c8b0681364262345ba2966f"
+    },
+    {
+      "path": "references/Feminine-neck238-profile.png",
+      "bytes": 458836,
+      "sha256": "e754bda96fff34f1c44a32cf3468c2e37620999c85facf24b610f743f0e74848"
+    },
+    {
+      "path": "references/Feminine-neck238-rightprofile.png",
+      "bytes": 454648,
+      "sha256": "b1187a9dd378b7ab66d3c170e22e39e746f09a25d16afaa9d5d9b101fb017026"
+    },
+    {
+      "path": "references/Feminine-neck238-threequarter.png",
+      "bytes": 503006,
+      "sha256": "c78496360ff16ce39683e2562993b4b105d24f61b96829d759da00932ab46930"
+    },
+    {
+      "path": "references/Feminine-neck238-underside.png",
+      "bytes": 506652,
+      "sha256": "576312c5c9a22eef511a190e0c073025d6659eb4bf09569561ef6097be07f8db"
+    },
+    {
+      "path": "references/Feminine-neck239-front.png",
+      "bytes": 492752,
+      "sha256": "f38542f93ac9e739c5545be7a907feb9da7fdb3bfe6907856889e0e1eee947fe"
+    },
+    {
+      "path": "references/Feminine-neck239-profile.png",
+      "bytes": 457938,
+      "sha256": "7696ab55d391dd449447c59940d2e69788d2c23aa0a40819f57e45c2478f0ced"
+    },
+    {
+      "path": "references/Feminine-neck239-rightprofile.png",
+      "bytes": 453933,
+      "sha256": "a291ae2c3acd0520b6a99f0a6353d062f0cc63e747c2a6681db4f79c8f70f4cc"
+    },
+    {
+      "path": "references/Feminine-neck239-threequarter.png",
+      "bytes": 503292,
+      "sha256": "f29426668a3a993d632c8ae25b05333469bf5bc343556fe24032fe1c670e0ed6"
+    },
+    {
+      "path": "references/Feminine-neck239-underside.png",
+      "bytes": 506538,
+      "sha256": "2be19bfeb54055f306a48036e4382cb07c0eb1fae418428b8770a9d85b259e2a"
+    },
+    {
+      "path": "references/Feminine-open-export239-front.png",
+      "bytes": 84385,
+      "sha256": "2cea4fa622922c98168d45dc4dad9285a52f8fa37d792a063f9a53fdd7ac788c"
+    },
+    {
+      "path": "references/Feminine-open-export239-profile.png",
+      "bytes": 75891,
+      "sha256": "386008faeb8ffa193e84240a009622a6ae9282c8a50553286ea7a352853808e9"
+    },
+    {
+      "path": "references/Feminine-open-export239-rear.png",
+      "bytes": 77550,
+      "sha256": "93feff6c6b84d783d63b57a5e39d4a658836fa3b0aa2971bc72c034e7be8e59e"
+    },
+    {
+      "path": "references/Feminine-open-export239-rightprofile.png",
+      "bytes": 75929,
+      "sha256": "3688fbb8254fc8ee583ed3bcf0df7f03eb9614f462a8b981f6daac03020bd182"
+    },
+    {
+      "path": "references/Feminine-open-export239-threequarter.png",
+      "bytes": 84771,
+      "sha256": "660b16de649f890a9f9421669c6345b55470fd6ebb37893c7a427617757a382d"
+    },
+    {
+      "path": "references/Feminine-open-export239-top.png",
+      "bytes": 76990,
+      "sha256": "33abecf1819a42cd9510957a5d2aa386891473edfadc214573a496685ee42b39"
+    },
+    {
+      "path": "references/Feminine-open-export239-underside.png",
+      "bytes": 78309,
+      "sha256": "983e5ce8116033483a651e96d8bb51a5ddddb1ff81cfe856e9240acb75a04255"
+    },
+    {
+      "path": "references/Feminine-pashmina239-front.png",
+      "bytes": 302207,
+      "sha256": "9f7cbab4a1721de8c8d1f43bdc49d66c51e7d8b8891749b0bb9c794596747d3b"
+    },
+    {
+      "path": "references/Feminine-pashmina239-portrait120-front.png",
+      "bytes": 25126,
+      "sha256": "015791b83fc4dfcef5c83eabd73accb2ed10906350f1d1e03dbb100c32386724"
+    },
+    {
+      "path": "references/Feminine-pashmina239-portrait512-front.png",
+      "bytes": 325022,
+      "sha256": "29991714b2cdddd69f4117b684edfbbb4b279120a8fd55f5767137a9b48e7d8d"
+    },
+    {
+      "path": "references/Feminine-pashmina239-profile.png",
+      "bytes": 279883,
+      "sha256": "17dd7e5a4f31b2e019724b8b10c8432693965c4cf21b8e0037d7c20a0cc50f21"
+    },
+    {
+      "path": "references/Feminine-pashmina239-rear.png",
+      "bytes": 280994,
+      "sha256": "7a27700fd319bce59d182e7eae4f1a98c254a19580a0b419f75e9b20cdbd77c2"
+    },
+    {
+      "path": "references/Feminine-pashmina239-rightprofile.png",
+      "bytes": 279194,
+      "sha256": "fecb7bb3bb9143696314e3780b21591b1f38327216841698b9e06414dc97b1a0"
+    },
+    {
+      "path": "references/Feminine-pashmina239-threequarter.png",
+      "bytes": 304041,
+      "sha256": "853320f9a3fb96766017d9b021e8b3614b1916032b16f8b8dbfc2f8836ee0886"
+    },
+    {
+      "path": "references/Feminine-pashmina239-top.png",
+      "bytes": 283779,
+      "sha256": "91e1aa174dce4e484dff7affa717de362fac53e5949f42335aa826332854a751"
+    },
+    {
+      "path": "references/Feminine-pashmina239-underside.png",
+      "bytes": 287061,
+      "sha256": "29e56a5ffe3fdd68349c8b5b3d56fd19bcf00ae524c67b4c778d4010e2aeff47"
+    },
+    {
+      "path": "references/Feminine-ponytail-pashmina239-profile.png",
+      "bytes": 44998,
+      "sha256": "42c3035cf879bac631ac54976be2f9fe88f830b0f6d273f8ec86784729ea0322"
+    },
+    {
+      "path": "references/Feminine-ponytail-pashmina239-rear.png",
+      "bytes": 45865,
+      "sha256": "646f1e38ac26a59d62fd310bb0b206f9c091486faf03fbb5999134cf81aeb6ef"
+    },
+    {
+      "path": "references/Feminine-side-sweep-pashmina239-profile.png",
+      "bytes": 45216,
+      "sha256": "4a51ab07bf8b72e31bf872ed625af1a9c7798306af9021c1864607cbbd279471"
+    },
+    {
+      "path": "references/Feminine-side-sweep-pashmina239-rear.png",
+      "bytes": 46868,
+      "sha256": "f122e360b7630badedb932242e991d0c9da2bd55dca2aadcf033047a4e8480fe"
+    },
+    {
+      "path": "references/Feminine-skin0-portrait239-front-32.png",
+      "bytes": 2101,
+      "sha256": "0c8e5f25a5986609ae4072d9f125bfc3a0ee9504a61e2f3e573b9cfa720591f2"
+    },
+    {
+      "path": "references/Feminine-skin0-portrait239-front-48.png",
+      "bytes": 4218,
+      "sha256": "5ef1c21cb6431ab52e9933b26a850de5b92b5a7493ca7768a2a9b4bf64e258f7"
+    },
+    {
+      "path": "references/Feminine-skin0-portrait239-front-64.png",
+      "bytes": 6763,
+      "sha256": "804ecc0100cbd01005abdfd260c08613f325e5d5ef55c4634c06b03d0258ce67"
+    },
+    {
+      "path": "references/Feminine-skin0-portrait239-front.png",
+      "bytes": 28041,
+      "sha256": "a47f279d3bb5415b2a86f2626d8478025d7b7e1af48c4ce141172b7eacc85e0a"
+    },
+    {
+      "path": "references/Feminine-skin1-portrait239-front-32.png",
+      "bytes": 2101,
+      "sha256": "0f41679564cf2d20ff1e45e2db46909d5ba57ccb21633376526005b8b7b2e4bd"
+    },
+    {
+      "path": "references/Feminine-skin1-portrait239-front-48.png",
+      "bytes": 4170,
+      "sha256": "88a4ee20460f19f3f14e5ff6999d338c481654ca315bc2a058d07f999967f76a"
+    },
+    {
+      "path": "references/Feminine-skin1-portrait239-front-64.png",
+      "bytes": 6809,
+      "sha256": "c9bedc2287d778f6d93fc4af2ad2b386beec41e389973a9af6dc57c1765a883e"
+    },
+    {
+      "path": "references/Feminine-skin1-portrait239-front.png",
+      "bytes": 28070,
+      "sha256": "ee646043f04531a1e33892a689b7aeb81fe29989ef3e19d6e7c9b280fffc9e5a"
+    },
+    {
+      "path": "references/Feminine-skin2-portrait239-front-32.png",
+      "bytes": 2085,
+      "sha256": "96ad07c78c35f80560778c575aa854a7b8810cd62e01326eaf6f8500e27ca13a"
+    },
+    {
+      "path": "references/Feminine-skin2-portrait239-front-48.png",
+      "bytes": 4169,
+      "sha256": "e4191d9b09ccb53a5183d515cd87f3b20de77ddc78295456ba91ef12310df549"
+    },
+    {
+      "path": "references/Feminine-skin2-portrait239-front-64.png",
+      "bytes": 6758,
+      "sha256": "4b5aeb87036bff9d0e95170676674076034201b5bdb40455a5ac5640708a28f2"
+    },
+    {
+      "path": "references/Feminine-skin2-portrait239-front.png",
+      "bytes": 27831,
+      "sha256": "099f40616e1aa095f8ba902860c0fb2ce7d7842ec752a695914fda20c295c341"
+    },
+    {
+      "path": "references/Feminine-skin3-portrait239-front-32.png",
+      "bytes": 2055,
+      "sha256": "cf02fca2370f8e81af2499e20add8029fd16135c6cc6bc927459aa420efcd4ab"
+    },
+    {
+      "path": "references/Feminine-skin3-portrait239-front-48.png",
+      "bytes": 4063,
+      "sha256": "5214874efbe7b276e36f7cdd08114cd6e511492865976e248380188e62219697"
+    },
+    {
+      "path": "references/Feminine-skin3-portrait239-front-64.png",
+      "bytes": 6692,
+      "sha256": "84a18fad0f658fe8e674757b5b1aa0668f3fbe36cbfc98f97cd0b40195ef9482"
+    },
+    {
+      "path": "references/Feminine-skin3-portrait239-front.png",
+      "bytes": 27647,
+      "sha256": "150a267f01a945a31b631f3482fd2d65b37bf3a66d375b0c41fb25c964de2e56"
+    },
+    {
+      "path": "references/Feminine-space-buns-pashmina239-profile.png",
+      "bytes": 44731,
+      "sha256": "69fec611a89febdcba11dc2770feebfa37ffc45d4018fd2cab1706a7c96334b8"
+    },
+    {
+      "path": "references/Feminine-space-buns-pashmina239-rear.png",
+      "bytes": 45854,
+      "sha256": "e75a75d131d93d06cdef96d6fd4548ff51d833c75229e250493d5381af2960d5"
+    },
+    {
+      "path": "references/Feminine-straight-pashmina239-profile.png",
+      "bytes": 45285,
+      "sha256": "8fa1f8fdaca855a75a84e15db8cc82959ff178398e7241b2bc74cb0181642aa7"
+    },
+    {
+      "path": "references/Feminine-straight-pashmina239-rear.png",
+      "bytes": 47010,
+      "sha256": "ec9b3dc62628684e076d7d26df276b34db0132ce25a33ed83796fe2e53cad702"
+    },
+    {
+      "path": "references/Feminine-strappy-export239-front.png",
+      "bytes": 84751,
+      "sha256": "c5531404df541b2425619b59acade0588cf779cd8e7bdbc976e8e54c1615754e"
+    },
+    {
+      "path": "references/Feminine-strappy-export239-profile.png",
+      "bytes": 76165,
+      "sha256": "6542f86bb0e564d0284d1e0644dc16b7451e35ce7cd231ddfdf64197a54a11d7"
+    },
+    {
+      "path": "references/Feminine-strappy-export239-rear.png",
+      "bytes": 77840,
+      "sha256": "90596ea2db290994807c1c7418f4a4756e7ca83cdd46b83a1bb229527842de6b"
+    },
+    {
+      "path": "references/Feminine-strappy-export239-rightprofile.png",
+      "bytes": 75990,
+      "sha256": "4cbfbc48b3972bd9db60262eeb88d2c30decce97cd6f3dbd73a93741f45d8bad"
+    },
+    {
+      "path": "references/Feminine-strappy-export239-threequarter.png",
+      "bytes": 84907,
+      "sha256": "4cf760c9ebf8ab14b427be74262f40aca74cc62c7e6ab12fe7fcc3484dcf76e3"
+    },
+    {
+      "path": "references/Feminine-strappy-export239-top.png",
+      "bytes": 76784,
+      "sha256": "be6b4d9d7c760dabd20fa1bbb6e11b3ca5ed0ccbf4f0edb9344388e7b69f5f3d"
+    },
+    {
+      "path": "references/Feminine-strappy-export239-underside.png",
+      "bytes": 78651,
+      "sha256": "13dd102407f823dc66debb62510a1b1fb93fef50db58bbc0b9d2ce0409fde2c6"
+    },
+    {
+      "path": "references/Feminine-sweatshirt-export239-front.png",
+      "bytes": 84109,
+      "sha256": "0cf1c9501c5bce90b59e5b0a0e035d446dba0d3f3603c1016d470e76a2a3176f"
+    },
+    {
+      "path": "references/Feminine-sweatshirt-export239-profile.png",
+      "bytes": 75952,
+      "sha256": "6b2384b35bd15cf5242233a8f589da42676933a6e475a610f222b5cbd7b58988"
+    },
+    {
+      "path": "references/Feminine-sweatshirt-export239-rear.png",
+      "bytes": 77740,
+      "sha256": "89363e8390d51035bff9044fa940cab72aa9be7e77fa20877183b252a4562fe9"
+    },
+    {
+      "path": "references/Feminine-sweatshirt-export239-rightprofile.png",
+      "bytes": 75913,
+      "sha256": "938b8e7a5a0c6d9e911481a37b43b92690552f17d1f2d0656778bb6f38d26126"
+    },
+    {
+      "path": "references/Feminine-sweatshirt-export239-threequarter.png",
+      "bytes": 84289,
+      "sha256": "a32280fb46e7661da50c53623a0cf92b94937063e1a3440c75f28be39de233d3"
+    },
+    {
+      "path": "references/Feminine-sweatshirt-export239-top.png",
+      "bytes": 77164,
+      "sha256": "050653d2bcf585f64749162f8eeff2f187f0f54294c1af8aa448164f5374f2f2"
+    },
+    {
+      "path": "references/Feminine-sweatshirt-export239-underside.png",
+      "bytes": 78434,
+      "sha256": "0e3e2dfa70eddea05fa2c81bf922866455f8c28121b49bc934b054b20d76d9ef"
+    },
+    {
+      "path": "references/Feminine-tank-export239-front.png",
+      "bytes": 84650,
+      "sha256": "6b20707e53c67583e3e6ef70f0cfe81e72f097b04200176b23e465756f5c8699"
+    },
+    {
+      "path": "references/Feminine-tank-export239-profile.png",
+      "bytes": 76179,
+      "sha256": "136e60a622bdd71cef8560581eee51bbe6c309480298acfd38aa5b97dd4e0f49"
+    },
+    {
+      "path": "references/Feminine-tank-export239-rear.png",
+      "bytes": 77763,
+      "sha256": "cdd9f4cacde3f7b49a1fb5750aed13abd40c0aebcc6e728742b03a1f0ac1e6ac"
+    },
+    {
+      "path": "references/Feminine-tank-export239-rightprofile.png",
+      "bytes": 76045,
+      "sha256": "3b1ecb42807c4ea95ded42bda014f3e2f165cdeef051399b94213a508ee28ad9"
+    },
+    {
+      "path": "references/Feminine-tank-export239-threequarter.png",
+      "bytes": 84901,
+      "sha256": "f7b7db3f8c15b5ba0523f1396f0e378bb4651635202610be048e4048fe42e570"
+    },
+    {
+      "path": "references/Feminine-tank-export239-top.png",
+      "bytes": 76706,
+      "sha256": "630e0ce2289754ec941097d2b0920edba1063718bf39ac439f77ae0a06febda3"
+    },
+    {
+      "path": "references/Feminine-tank-export239-underside.png",
+      "bytes": 78434,
+      "sha256": "fc81aa2a0d6176ce4ed004e821e63730e9615c7c22ccfa9b77ff80524b2b1173"
+    },
+    {
+      "path": "references/Feminine-triangle-export239-front.png",
+      "bytes": 84923,
+      "sha256": "31300cbccd3c388a26b09cb9e74112533440221e26a90d0ab74c83daa332eb2d"
+    },
+    {
+      "path": "references/Feminine-triangle-export239-profile.png",
+      "bytes": 76190,
+      "sha256": "a81ad0eb3ee0229cd2211734231e50ab44d0db9b40205b4cb9a80a491e47a7d7"
+    },
+    {
+      "path": "references/Feminine-triangle-export239-rear.png",
+      "bytes": 78005,
+      "sha256": "c3642a483b6a4b7104533c10d909a2c3f42c8761b5670cc94fb915c5585f70d8"
+    },
+    {
+      "path": "references/Feminine-triangle-export239-rightprofile.png",
+      "bytes": 76026,
+      "sha256": "73dec5318ea546ef0e0f11d44e83ef598b60c8b5ff0d98d34b9dfd714f4b1536"
+    },
+    {
+      "path": "references/Feminine-triangle-export239-threequarter.png",
+      "bytes": 85106,
+      "sha256": "f787e3f8ae4f4fa7a2a96cb0b8afb8402cfe631cfeb8d7756a928a60043dd830"
+    },
+    {
+      "path": "references/Feminine-triangle-export239-top.png",
+      "bytes": 76789,
+      "sha256": "29ad8587002e060da8632b1135aa8f0d8b2cc508aa82671f72b630ef7379777d"
+    },
+    {
+      "path": "references/Feminine-triangle-export239-underside.png",
+      "bytes": 78686,
+      "sha256": "22004525449e74190a281e3dd8de48f114d576ae93bc067f2c25e03b16feedfc"
+    },
+    {
+      "path": "references/Feminine-tshirt-export239-front.png",
+      "bytes": 84396,
+      "sha256": "ba2c910db82f2d25f9d1001567f4860e1880c9fb89aec260711ec7f67c484937"
+    },
+    {
+      "path": "references/Feminine-tshirt-export239-profile.png",
+      "bytes": 76087,
+      "sha256": "183a9c2c8639b9bf1abbbbbaba3605dd9e97e848174739da99e19d74edc6e4ff"
+    },
+    {
+      "path": "references/Feminine-tshirt-export239-rear.png",
+      "bytes": 77839,
+      "sha256": "ceb256986bac259367eca13f0d073a8f95caef581302b97f30837868f4436183"
+    },
+    {
+      "path": "references/Feminine-tshirt-export239-rightprofile.png",
+      "bytes": 76150,
+      "sha256": "97d149fd6589213b80fadc4ad43897c9c1b509c394de46b7109a7a6e6e213c2a"
+    },
+    {
+      "path": "references/Feminine-tshirt-export239-threequarter.png",
+      "bytes": 84941,
+      "sha256": "611d96b12332fc259449175696181977711c8a8b0b82a475c8b6b598df769803"
+    },
+    {
+      "path": "references/Feminine-tshirt-export239-top.png",
+      "bytes": 76886,
+      "sha256": "edf1ea1480daa2d69711c538ebea4dd67c578e7b18d8ec8e8e386085d1e0e871"
+    },
+    {
+      "path": "references/Feminine-tshirt-export239-underside.png",
+      "bytes": 78308,
+      "sha256": "8e3bfa786cf5c0a5f230469d86f40a9a4ac10ef79f1dade04567dc8abfad02a3"
+    },
+    {
+      "path": "references/Feminine-twin-braids-pashmina239-profile.png",
+      "bytes": 44886,
+      "sha256": "4040811aa48fbd5c68aa2e757ebe39929f1869569197532c12c0393a117cc33e"
+    },
+    {
+      "path": "references/Feminine-twin-braids-pashmina239-rear.png",
+      "bytes": 46218,
+      "sha256": "e64cc9e1300566d32854391c0b283585a199e3a303466ebda0ddc4aaad721ff5"
+    },
+    {
+      "path": "references/junction-comparison239.png",
+      "bytes": 511143,
+      "sha256": "8c5cc4c7fd4ff3a7b038cf3ad0324c65675efbd84d75f5241245626f3ca28343"
+    },
+    {
+      "path": "references/Masculine-afro-pashmina239-profile.png",
+      "bytes": 44034,
+      "sha256": "e848b66e1c8f24ab919f6a026bafd5139f6d071df884f412d3246a15d4d84cf4"
+    },
+    {
+      "path": "references/Masculine-afro-pashmina239-rear.png",
+      "bytes": 45610,
+      "sha256": "e7bfa720eb69172f6613611a35339467ec12a629b1b37f4bb6464f4e2d0fd2af"
+    },
+    {
+      "path": "references/Masculine-buttonup-export239-front.png",
+      "bytes": 83354,
+      "sha256": "8cfef62f41cf3234c2f32948ffe53fe02634232cd41445677c3ca400512ffb1d"
+    },
+    {
+      "path": "references/Masculine-buttonup-export239-profile.png",
+      "bytes": 74803,
+      "sha256": "539397cda1776d12445fe4f660cd0e215c9376399552780fad180326ae10cd39"
+    },
+    {
+      "path": "references/Masculine-buttonup-export239-rear.png",
+      "bytes": 75894,
+      "sha256": "f4793e136ed5d8efefc10e40d7be8fb983d2f2de4b12595281a78497df11076d"
+    },
+    {
+      "path": "references/Masculine-buttonup-export239-rightprofile.png",
+      "bytes": 74864,
+      "sha256": "62ca665beccfd027f836161c56b6ab0aba29c8d1be4a409b3ff70dd97dfd94d3"
+    },
+    {
+      "path": "references/Masculine-buttonup-export239-threequarter.png",
+      "bytes": 83733,
+      "sha256": "bb8d817abcec658f5062df3abc04819c0f74366b2dd1caf8fecefbbc542c3003"
+    },
+    {
+      "path": "references/Masculine-buttonup-export239-top.png",
+      "bytes": 76576,
+      "sha256": "b9c2ba6ff1a60a15917570d6236d52f342e35cf8fdddd75010025b93c0915ca1"
+    },
+    {
+      "path": "references/Masculine-buttonup-export239-underside.png",
+      "bytes": 78466,
+      "sha256": "43243b663b53f275cc39d9c2b294d838cfde47c8a2e9f00e739fd37335172132"
+    },
+    {
+      "path": "references/Masculine-buzz-pashmina239-profile.png",
+      "bytes": 43854,
+      "sha256": "f67b50e2d13a99397f65cf320561ee4522b6311b08287d741d6f55da431521ac"
+    },
+    {
+      "path": "references/Masculine-buzz-pashmina239-rear.png",
+      "bytes": 45615,
+      "sha256": "7285e27f2012401abdbbcbc440ac0bb4b4ac653ad9211894e16d45266167b6b0"
+    },
+    {
+      "path": "references/Masculine-curly-top-pashmina239-profile.png",
+      "bytes": 44001,
+      "sha256": "f33232bcbad475493a1d1e2564ce57f44e6d8e032a1e431da94ef3383ac5f7f9"
+    },
+    {
+      "path": "references/Masculine-curly-top-pashmina239-rear.png",
+      "bytes": 45596,
+      "sha256": "46f8cbcc93672235bb7ac29aa63fac5679713f6743f505dce75c98e1cfd38163"
+    },
+    {
+      "path": "references/Masculine-flow-pashmina239-profile.png",
+      "bytes": 43951,
+      "sha256": "72711e534698bf9e7d2b75f22713af91818fb55c18ba33e20041d8ae1e3cebb7"
+    },
+    {
+      "path": "references/Masculine-flow-pashmina239-rear.png",
+      "bytes": 45606,
+      "sha256": "e06a0a0a3311e2806272da8c32ca45274b42bd1089b343a4c235e43877c5cb58"
+    },
+    {
+      "path": "references/Masculine-jersey-export239-front.png",
+      "bytes": 83905,
+      "sha256": "66261ce2ce51bb802f67b251557e0f7bdee7255ee7278353aa091386ba3c3545"
+    },
+    {
+      "path": "references/Masculine-jersey-export239-profile.png",
+      "bytes": 75012,
+      "sha256": "4c23c9ade05e26871d61b676f17832adc4453e25045e84346139e7b0e066bf7b"
+    },
+    {
+      "path": "references/Masculine-jersey-export239-rear.png",
+      "bytes": 78312,
+      "sha256": "a9f353751bb21b411248714d917fb6ad8c319a4eaae07de8c9c3eaefc433aabe"
+    },
+    {
+      "path": "references/Masculine-jersey-export239-rightprofile.png",
+      "bytes": 74944,
+      "sha256": "610633388b70b5c258b8359c7471b08b4b71c444d895d7cf8fe2ad1856e437e3"
+    },
+    {
+      "path": "references/Masculine-jersey-export239-threequarter.png",
+      "bytes": 84120,
+      "sha256": "73f30b11387bd8c2187f9d5652096c3a6829ab705f12ad495fee9d13efbd81aa"
+    },
+    {
+      "path": "references/Masculine-jersey-export239-top.png",
+      "bytes": 76596,
+      "sha256": "69465351354fa5d0583d905fd79c34f8609e0b7bf7677785b125def39731d383"
+    },
+    {
+      "path": "references/Masculine-jersey-export239-underside.png",
+      "bytes": 78561,
+      "sha256": "b79ab08a0b9ed152c7c3d3612cd299e29613251f6cbb2451688a2ec18b398633"
+    },
+    {
+      "path": "references/Masculine-locs-pashmina239-profile.png",
+      "bytes": 44116,
+      "sha256": "3849c41c21f26e3cffe9812705775356bd2be0d4992b153531d6f89ca8483bea"
+    },
+    {
+      "path": "references/Masculine-locs-pashmina239-rear.png",
+      "bytes": 45573,
+      "sha256": "48dd96860512a82e3545ea28034d845c31a88cd0caf613e592121001e7b4370d"
+    },
+    {
+      "path": "references/Masculine-middle-part-pashmina239-profile.png",
+      "bytes": 43867,
+      "sha256": "aadf0103bfd6df0251a4025db527cc604d2b1f8791e8a8615b3c48c6c0ce6eba"
+    },
+    {
+      "path": "references/Masculine-middle-part-pashmina239-rear.png",
+      "bytes": 45596,
+      "sha256": "68547cd7943d7d0b9e4d26b974b4766e28ca9cf790d8fbfaf04ae009e4de8ad0"
+    },
+    {
+      "path": "references/Masculine-neck238-front.png",
+      "bytes": 612915,
+      "sha256": "e0f3e7d9c81d187e865f6ee6698f0c4ff59a0ac143da4112b043cae0251a0c5c"
+    },
+    {
+      "path": "references/Masculine-neck238-profile.png",
+      "bytes": 486626,
+      "sha256": "8224abec4a8ce5a9fa7ffdc20d4fb0f03eef5da06ac5432c2ba0b9b8fda0e19b"
+    },
+    {
+      "path": "references/Masculine-neck238-rightprofile.png",
+      "bytes": 480179,
+      "sha256": "6c2bbc73c2766cf8fb8d352e396c4398f2f0886fd388cddc14b85051ada0254e"
+    },
+    {
+      "path": "references/Masculine-neck238-threequarter.png",
+      "bytes": 604447,
+      "sha256": "23a9487376298f856b7641c384926c37b12bd6b37e61753fb096500d18619019"
+    },
+    {
+      "path": "references/Masculine-neck238-underside.png",
+      "bytes": 653969,
+      "sha256": "bae392463aa9577500f8b0301b0d04b24e591330380725e114751f263901616d"
+    },
+    {
+      "path": "references/Masculine-neck239-front.png",
+      "bytes": 613124,
+      "sha256": "18ce331acf73980683f0b3d33c7caa26afde0799d4f31be77ddb5f95373f62b6"
+    },
+    {
+      "path": "references/Masculine-neck239-profile.png",
+      "bytes": 485537,
+      "sha256": "a5325b8935719ca813ba40db8ae7bec1cac4c54bb5124273709137c1761d0a4d"
+    },
+    {
+      "path": "references/Masculine-neck239-rightprofile.png",
+      "bytes": 479801,
+      "sha256": "2f96114827893a65d34676b884e71a2b102420cece2a4db82f2ee41f8283650f"
+    },
+    {
+      "path": "references/Masculine-neck239-threequarter.png",
+      "bytes": 604293,
+      "sha256": "5630d707bec20e48929730aba60356201e9bc28ac1589308d5b19cae931cbff7"
+    },
+    {
+      "path": "references/Masculine-neck239-underside.png",
+      "bytes": 653432,
+      "sha256": "897b3a28f9716c7a804f2ff2f4d9650b18ef01568fcd4eaffbe844ba7e9a473d"
+    },
+    {
+      "path": "references/Masculine-pashmina239-front.png",
+      "bytes": 307875,
+      "sha256": "8c9d2e17945aba3c7801211fbba5f860f6ef3db3267f3097c261a5fe26e4850b"
+    },
+    {
+      "path": "references/Masculine-pashmina239-portrait120-front.png",
+      "bytes": 24912,
+      "sha256": "b0e42f17b5e501bc3265a328186a93052f4b4b890ac1cbd4de2ca767fa77bcb8"
+    },
+    {
+      "path": "references/Masculine-pashmina239-portrait512-front.png",
+      "bytes": 359013,
+      "sha256": "76dc89c341e23536f5b3ac6f2fced51a913b277aabb451f97dc43b7e7594db10"
+    },
+    {
+      "path": "references/Masculine-pashmina239-profile.png",
+      "bytes": 278088,
+      "sha256": "35646a7c37a06601c7faa41e96f58416bdc56d2004744a0be824f1e15d05a5fa"
+    },
+    {
+      "path": "references/Masculine-pashmina239-rear.png",
+      "bytes": 278634,
+      "sha256": "0f1676aa5e1b672cf0bc64e44e3a8e0b792513170f2bc77669235525cd92090e"
+    },
+    {
+      "path": "references/Masculine-pashmina239-rightprofile.png",
+      "bytes": 278552,
+      "sha256": "31bbc3220bef2805a8056e4da2932c62489123daa690b747f6d3dffa4c970dca"
+    },
+    {
+      "path": "references/Masculine-pashmina239-threequarter.png",
+      "bytes": 308332,
+      "sha256": "1e121ed267789742fade015078f22ae3b8240c4affda4664595d2ea2e9f8cb7c"
+    },
+    {
+      "path": "references/Masculine-pashmina239-top.png",
+      "bytes": 282940,
+      "sha256": "72a62691be7f83b5f224316af832ad8be57eeb9deac002ecea46d37d16a76f05"
+    },
+    {
+      "path": "references/Masculine-pashmina239-underside.png",
+      "bytes": 294677,
+      "sha256": "4f8d08995697f426d32ddbed2d61ca146efbcafcabf070991e6411b70b4d35fa"
+    },
+    {
+      "path": "references/Masculine-shirtless-export239-front.png",
+      "bytes": 83686,
+      "sha256": "be877489f8e15fb521853f009fd6a90948b79ed4fb848dc850b58f4516f7a122"
+    },
+    {
+      "path": "references/Masculine-shirtless-export239-profile.png",
+      "bytes": 74796,
+      "sha256": "c41a34c6613d5a379e7d2dda4d94af052cbdc900bd6df13f55d8f8e959929480"
+    },
+    {
+      "path": "references/Masculine-shirtless-export239-rear.png",
+      "bytes": 76699,
+      "sha256": "878925c46017256fede5e7b2e467f5c6552aa560ef482b4a96fe7df21c741cb8"
+    },
+    {
+      "path": "references/Masculine-shirtless-export239-rightprofile.png",
+      "bytes": 74986,
+      "sha256": "8642402bc8a01632a975bb758c73044b37bee03b25a40ea66832d3895fec2624"
+    },
+    {
+      "path": "references/Masculine-shirtless-export239-threequarter.png",
+      "bytes": 84044,
+      "sha256": "93bbbcd9fff9016408949940f9f560bcb778b475f426c69b914d5ba740adb66e"
+    },
+    {
+      "path": "references/Masculine-shirtless-export239-top.png",
+      "bytes": 76123,
+      "sha256": "2311ed608632d6e1d00d9be1465985d7f9f82438ac6f6aae8951940379a25921"
+    },
+    {
+      "path": "references/Masculine-shirtless-export239-underside.png",
+      "bytes": 78399,
+      "sha256": "ee8fa3b6f5991dd06d1b71ceab17484d9e5b6b5692d7293b9f6e4a2403d93ce2"
+    },
+    {
+      "path": "references/Masculine-sidepart-pashmina239-profile.png",
+      "bytes": 43826,
+      "sha256": "cc0bb98adadfec20ffb9ebb6b82a73b8a2af2a45bd1c65c72594c4eeb5783353"
+    },
+    {
+      "path": "references/Masculine-sidepart-pashmina239-rear.png",
+      "bytes": 45596,
+      "sha256": "55fa7b04c540697223c88e239e041bb4ab7b326cc9638733040ccd3f5a48ce6d"
+    },
+    {
+      "path": "references/Masculine-skin0-portrait239-front-32.png",
+      "bytes": 2086,
+      "sha256": "d72c4bf8e68c17a83d526244be8a1cc570ada6c32c4897be34417f1487eb9453"
+    },
+    {
+      "path": "references/Masculine-skin0-portrait239-front-48.png",
+      "bytes": 4179,
+      "sha256": "aba3fe85579afaa804f99e3943f7ce832c45c3846ba750d4cf6404bb203e5fc7"
+    },
+    {
+      "path": "references/Masculine-skin0-portrait239-front-64.png",
+      "bytes": 6837,
+      "sha256": "2397e74273f7c4e91d3d468c9cd6bc20c7658895d149a7add48d5f8979c21a32"
+    },
+    {
+      "path": "references/Masculine-skin0-portrait239-front.png",
+      "bytes": 27783,
+      "sha256": "3b6c7d1ac014538ade3bd675a8169e15d6f8fcf1c339f3acafd9cccb32ee71fc"
+    },
+    {
+      "path": "references/Masculine-skin1-portrait239-front-32.png",
+      "bytes": 2086,
+      "sha256": "c70a58ca66411e6eb9074b15e3a4f85e20e497d2d2970042d1786c42f2c65761"
+    },
+    {
+      "path": "references/Masculine-skin1-portrait239-front-48.png",
+      "bytes": 4195,
+      "sha256": "bc1a9b192c2dfabe0c3982c9cf7c555c6391575c6dd047358e809e0eecfcade8"
+    },
+    {
+      "path": "references/Masculine-skin1-portrait239-front-64.png",
+      "bytes": 6829,
+      "sha256": "0887754a56b18cb7f7903320127fa3a65900c1c2706c72168613f418e957558a"
+    },
+    {
+      "path": "references/Masculine-skin1-portrait239-front.png",
+      "bytes": 27777,
+      "sha256": "cbd3ec2878a4973e31f94d57b77fa518191e56bcfe38c280c6a0b18c865bc99b"
+    },
+    {
+      "path": "references/Masculine-skin2-portrait239-front-32.png",
+      "bytes": 2069,
+      "sha256": "6e6a5397d469adcf5a1b89be46e42fb7281640372c875f0d20e4b0fe8c08c01d"
+    },
+    {
+      "path": "references/Masculine-skin2-portrait239-front-48.png",
+      "bytes": 4136,
+      "sha256": "706d489f6c6b0e9f42665a3abaee8c650f74cacb34806cc08a9fb5ffb1b692fd"
+    },
+    {
+      "path": "references/Masculine-skin2-portrait239-front-64.png",
+      "bytes": 6702,
+      "sha256": "67c022b32d2e36587f103fef469ad7011e6da13ce4117b699d7fad59ffde8d76"
+    },
+    {
+      "path": "references/Masculine-skin2-portrait239-front.png",
+      "bytes": 27587,
+      "sha256": "2f385db51bdec170108f0e7e00302a5b2618324260494a858aecd11eee1d63e4"
+    },
+    {
+      "path": "references/Masculine-skin3-portrait239-front-32.png",
+      "bytes": 2027,
+      "sha256": "a3da66d749b9965337daa858ad1b93de9900baaab4068dac6a168257655e1305"
+    },
+    {
+      "path": "references/Masculine-skin3-portrait239-front-48.png",
+      "bytes": 4056,
+      "sha256": "630a41f75863bb1e0c7f5d92b719b92ee7b02228d991a7ce702ce8078e7709d3"
+    },
+    {
+      "path": "references/Masculine-skin3-portrait239-front-64.png",
+      "bytes": 6585,
+      "sha256": "cd40ffab32d810ae75527ff1ba83a1496cc1a5eb40a4d9a36a58aff3cfa61fbf"
+    },
+    {
+      "path": "references/Masculine-skin3-portrait239-front.png",
+      "bytes": 27231,
+      "sha256": "f1a8a960998101aadb2fc9428b39d64a39b7391d922618feb91c04d829c9c13a"
+    },
+    {
+      "path": "references/Masculine-sweatshirt-export239-front.png",
+      "bytes": 83253,
+      "sha256": "4101c4a05d81aa5dfd2067eab82c50af71a24464dcfa9b3610b57b07393970ee"
+    },
+    {
+      "path": "references/Masculine-sweatshirt-export239-profile.png",
+      "bytes": 74652,
+      "sha256": "84a59a4a25530dad8ddeffb69278257060df3aa6fd4c8d1812dcf2fdddd542f6"
+    },
+    {
+      "path": "references/Masculine-sweatshirt-export239-rear.png",
+      "bytes": 76413,
+      "sha256": "1a5d5d53809670976291a2b1716c6734a10c945047430832e74bc3f93ab52c25"
+    },
+    {
+      "path": "references/Masculine-sweatshirt-export239-rightprofile.png",
+      "bytes": 75020,
+      "sha256": "7e77c3813ea90d2cda87f4f06e087a816bbe0e1279f006aa26f09a817520999f"
+    },
+    {
+      "path": "references/Masculine-sweatshirt-export239-threequarter.png",
+      "bytes": 83296,
+      "sha256": "36c7c42bc3875ee58aa8acc3c3ec3ddc18a89006f11b220ceabbe9c4dda17bc7"
+    },
+    {
+      "path": "references/Masculine-sweatshirt-export239-top.png",
+      "bytes": 76849,
+      "sha256": "0ed6f924d2fe6022235dc9fdfd9fef8326688b27e4170921a8104f211588a62a"
+    },
+    {
+      "path": "references/Masculine-sweatshirt-export239-underside.png",
+      "bytes": 78620,
+      "sha256": "3cd582d7a795f9f0725a75ff9ccea6e6508e32184e7a3f074106aef2b5d9e951"
+    },
+    {
+      "path": "references/Masculine-tank-export239-front.png",
+      "bytes": 83758,
+      "sha256": "4caec6c8018ab4f09c52d24f3b4e101b61210869f8a8141f1120d607d4a6a00d"
+    },
+    {
+      "path": "references/Masculine-tank-export239-profile.png",
+      "bytes": 74925,
+      "sha256": "89b4feb54235f5db9b1562227869e5ae4e40ba838e8319bf4b1b42c4c731299d"
+    },
+    {
+      "path": "references/Masculine-tank-export239-rear.png",
+      "bytes": 76788,
+      "sha256": "7cda0d9a6b160db693cd09bf9ef1d32a53e88007f47b7f8e139088afa8e9d98e"
+    },
+    {
+      "path": "references/Masculine-tank-export239-rightprofile.png",
+      "bytes": 75186,
+      "sha256": "cc118fff6876b0c78fcb4d7f5b5788d153633bc2ab01cf0426715333feb752fd"
+    },
+    {
+      "path": "references/Masculine-tank-export239-threequarter.png",
+      "bytes": 83965,
+      "sha256": "1f9b367db1986938823ce0262896ff2c627753fc714bea89702db1d80a1c0a67"
+    },
+    {
+      "path": "references/Masculine-tank-export239-top.png",
+      "bytes": 76463,
+      "sha256": "fa9b50a100e975a3570eabcf629ca9505b72b1f432d4ded9e5efc160f0f5e103"
+    },
+    {
+      "path": "references/Masculine-tank-export239-underside.png",
+      "bytes": 78729,
+      "sha256": "90777e79c05345e92e1c58b66e9b3477f770f974a55826ad715b45b37d87ebd0"
+    },
+    {
+      "path": "references/Masculine-taper-pashmina239-profile.png",
+      "bytes": 43952,
+      "sha256": "10b4eec4dde1d6b2d46d09490aa9ae92def4f2277a7d2c903e8b8ae60a6229f1"
+    },
+    {
+      "path": "references/Masculine-taper-pashmina239-rear.png",
+      "bytes": 45606,
+      "sha256": "eccc78bfb29d4710bf3f66bacd8ea10d67919ef5bc1b4ddf93ed912f4fd37c11"
+    },
+    {
+      "path": "references/Masculine-tshirt-export239-front.png",
+      "bytes": 83574,
+      "sha256": "079204167e36e582b6db2cb72e45c7a3a492bef69d243d6b4e930801c274516b"
+    },
+    {
+      "path": "references/Masculine-tshirt-export239-profile.png",
+      "bytes": 74786,
+      "sha256": "a71c5b2f99c2cb28d2323c67a053956735c16df3b1604ff17fbcbebe1ca096cd"
+    },
+    {
+      "path": "references/Masculine-tshirt-export239-rear.png",
+      "bytes": 76084,
+      "sha256": "0a683f9ac96982d6c3bb31382666bb38728f73428bd7ac7f5e3d7d59135c6a97"
+    },
+    {
+      "path": "references/Masculine-tshirt-export239-rightprofile.png",
+      "bytes": 75009,
+      "sha256": "d956fb1bdc6073f8baceef03d869239997fb0a6a3b48d3fddcec943718e4fabf"
+    },
+    {
+      "path": "references/Masculine-tshirt-export239-threequarter.png",
+      "bytes": 83608,
+      "sha256": "9f55474f9fe712d9e5a438903569c515de22016934fa0f403973e996bca0ccba"
+    },
+    {
+      "path": "references/Masculine-tshirt-export239-top.png",
+      "bytes": 76519,
+      "sha256": "0f0802bdeb886587681a6fe48c82b29e66bf6160cbe77ddecf7271c7296cb556"
+    },
+    {
+      "path": "references/Masculine-tshirt-export239-underside.png",
+      "bytes": 78569,
+      "sha256": "22a8b63469da2dcf3f686f562c57eed13d3ebb03f75a58e84a85427bbb53916b"
+    },
+    {
+      "path": "review239.json",
+      "bytes": 1226,
+      "sha256": "71d72359f6f0c121191d85c9011f0e7a8e93a0aaad0359857c3f87dd32e754b9"
+    },
+    {
+      "path": "source/browser239.cjs",
+      "bytes": 3856,
+      "sha256": "b71fc3da47881d79ca727bc43711830aa739f36352bc6c536c82ecac14557a0f"
+    },
+    {
+      "path": "source/close239.cjs",
+      "bytes": 2026,
+      "sha256": "66c7c9344287cfdc390062f8638549a5730c9c216d99a7fcb855cf0ee7ba9d72"
+    },
+    {
+      "path": "source/finish239.py",
+      "bytes": 8667,
+      "sha256": "5c920f97b819128358d4d2f87435cbdef693d6ebb946313d9997881177e0fa25"
+    },
+    {
+      "path": "source/joined239.py",
+      "bytes": 12431,
+      "sha256": "d5a70d1f1e5471931f9ea5911bc06dc106a27e8a1e1b6c9f18c82b440be96574"
+    },
+    {
+      "path": "source/package239.py",
+      "bytes": 3214,
+      "sha256": "ccb1af376ac463b1ea9f862999a26de271f1941e5b0f1e4daed5fee5b1661a40"
+    },
+    {
+      "path": "source/scarf239.py",
+      "bytes": 9541,
+      "sha256": "be042085a04007744a6014416a64034a5e1926e02f2b5a9dd51c41181a852d66"
+    },
+    {
+      "path": "source/seal239.py",
+      "bytes": 2632,
+      "sha256": "7cb368b46c49bc739495aef6a18a3974003b80b92341e48e9d77f9a6b96c6309"
+    },
+    {
+      "path": "source/verify239.py",
+      "bytes": 5925,
+      "sha256": "dd55bf56adc1ed70298e6d5508e59c9016a66f86ec6016b9700b6edc4658b324"
+    },
+    {
+      "path": "technical239.json",
+      "bytes": 6488,
+      "sha256": "f7e70bfbc3cf1e9939c6d4225cc5e348d88354301f6b2efdc6539539c3849721"
+    },
+    {
+      "path": "viewer239.js",
+      "bytes": 19432,
+      "sha256": "f743bf31b1fdb3abb5f3dfe3c17e85687e68c042629a40465e4a510e5f148a9c"
+    }
+  ],
+  "total_bytes": 107185281
+}

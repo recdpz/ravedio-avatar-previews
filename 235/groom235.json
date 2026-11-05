@@ -1,0 +1,60 @@
+{
+  "stubble": {
+    "path": "components/Masculine-groom-stubble.glb",
+    "source": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\209\\Masculine-groom-stubble.glb",
+    "source_sha256": "9d44772d47c5dd7d503323d9562ec7938eb13df10902926e79c8b4b0a2f29853",
+    "changes": [],
+    "geometry_and_alpha_unchanged": true
+  },
+  "mustache": {
+    "path": "components/Masculine-groom-mustache.glb",
+    "source": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\208\\Masculine-groom-mustache.glb",
+    "source_sha256": "4d792ec9b5fb3f717698e1b3fa91a7e46e85c009c50e51a24290e81f997d17de",
+    "changes": [],
+    "geometry_and_alpha_unchanged": true
+  },
+  "patch": {
+    "path": "components/Masculine-groom-patch.glb",
+    "source": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\208\\Masculine-groom-patch.glb",
+    "source_sha256": "ad5128d43819b02adde950ade9ebd8dfeeb31e33096e2224313efa3c8aaf7c54",
+    "changes": [],
+    "geometry_and_alpha_unchanged": true
+  },
+  "goatee": {
+    "path": "components/Masculine-groom-goatee.glb",
+    "source": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\208\\Masculine-groom-goatee.glb",
+    "source_sha256": "1289cc6653bec2a6f6c76dca17081521747034cd527365c629d01c73098460d5",
+    "changes": [],
+    "geometry_and_alpha_unchanged": true
+  },
+  "short": {
+    "path": "components/Masculine-groom-short.glb",
+    "source": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\208\\Masculine-groom-short.glb",
+    "source_sha256": "5edddcc2030d212d80922eda11a961c16770997cb99ec6662d59e81c05f3e31b",
+    "changes": [
+      {
+        "material": "Groom / density side taper208",
+        "original_rgb": [
+          95,
+          62,
+          46
+        ],
+        "alpha_exact": true,
+        "new_base_factor": [
+          0.11443537382697373,
+          0.04817182422688942,
+          0.027320891639074894,
+          1
+        ]
+      }
+    ],
+    "geometry_and_alpha_unchanged": true
+  },
+  "long": {
+    "path": "components/Masculine-groom-long.glb",
+    "source": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\208\\Masculine-groom-long.glb",
+    "source_sha256": "cfda5568683611d0658c123fb4d363fb2aef2b542b44cb6fd16ea594f9ffa12f",
+    "changes": [],
+    "geometry_and_alpha_unchanged": true
+  }
+}

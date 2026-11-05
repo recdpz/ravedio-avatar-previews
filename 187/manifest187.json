@@ -1,0 +1,26 @@
+{
+  "revision": 187,
+  "status": "Review candidate; two visual passes completed; owner aesthetic review pending",
+  "source": 186,
+  "support": 181,
+  "protected": "Head/body/arms/eyes/scalp hair,noses,mouths,palette,lighting",
+  "profile_contract_changed": false,
+  "files": {
+    "Feminine-jersey-top.glb": "79a61de3836f785f91bf03dd76ff5eded4985d3f51c1ff4960345a7b4e495b07",
+    "Feminine-pants.glb": "ebf53f701b790474b1eb81e2d488b0cff061eb7c00f9d8486f0933b08b5c5009",
+    "Feminine-sweatshirt-top.glb": "5151de3869e720676d649845ac1d8e709d0e9a765996171fb2c82f09c345484d",
+    "Masculine-groom-full.glb": "29a2d596e051291d3c3c141e87fb40520acbffcd44d65e59b7851c44c1436bef",
+    "Masculine-groom-long.glb": "1362eb552a8db22f67be3b53a8a6f35cf603c0191d0ab390fae1a3882b1d9b04",
+    "Masculine-groom-patch.glb": "671b51830d89f38ec50a67b964bc31bf1d2698334577fea49faa0c98c7a4d53c",
+    "Masculine-jersey-top.glb": "12f04b652d575b5d018824afce26d4db68c67354a11c2667c7eac57d369382dc",
+    "Masculine-pants.glb": "8c3ac140ae8a9e165c9b5938913f4154d23bd38ff6cb462aeea275e199f2892a",
+    "Masculine-sweatshirt-top.glb": "2c45f27520147caf8872f23e2cecdccf56744ac3c5a90fcd601cb401ec2ebee8",
+    "Masculine-tank-top.glb": "72756bc91541de1305b65eab75123443e2b85619c59655eba92bee748477c0b7"
+  },
+  "review": {
+    "native": "Saved/reopened candidate; 1024px 40 samples",
+    "exported": "42 outfit pairings; all13 tops in 5 views; changed top underarm and low rear; Full/Long/Patch in 6 views",
+    "groom": "Final Full fade atlas recaptured from fresh exported GLB; Long has no fade",
+    "fixed_lighting": true
+  }
+}

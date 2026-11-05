@@ -1,0 +1,20 @@
+{
+  "revision": 239,
+  "reviewer": "self",
+  "owner_approval": "pending",
+  "scope": "Round the inner collarbone/upper-neck V-shaped notches between hood and both ends",
+  "passes": [
+    "Construction close-ups and all-angle checks of both builds and all14 top-specific fits.",
+    "Actual GLBs reopened, all14 tops at seven angles;16 covered hairstyles rechecked; both final assemblies packed/reopened.",
+    "Final browser comparison, close side/back/underside review and retained feature controls."
+  ],
+  "protected": "All238 heads, bodies, wardrobe, face/eyes, palette, fixed studio, covered/uncovered hair and all other headwear unchanged.",
+  "changes": [
+    "Replace the short V-shaped inner boundaries with smooth tangent-continuous curves.",
+    "Blend only the nearby existing cloth surface; no separate wedges or raised filler panels.",
+    "Retain238 shared mesh/UV joins, single cloth thickness and continuous edge border.",
+    "Preserve upper hood, neck wrap, narrow crossings, top-specific drape and all nonheadgear assets."
+  ],
+  "hair": "Every covered and uncovered hairstyle reuses its exact237 export; no hair geometry changed.",
+  "native_qualification": "Not performed in this artwork correction."
+}

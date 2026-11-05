@@ -1,0 +1,1146 @@
+{
+  "Feminine-beanie": {
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Feminine-beanie.blend",
+    "source_sha256": "4c0ba3d4341fca47d00a2adbc575792cbf70227bcff5fa685e8635dc87e5cfba",
+    "build": "Feminine",
+    "style": "beanie",
+    "components": {
+      "headgear": "components/Feminine-beanie-headgear.glb",
+      "hair": "components/Feminine-beanie-hair.glb"
+    },
+    "statistics": {
+      "headgear": {
+        "bytes": 689616,
+        "triangles": 37824,
+        "nodes": 2,
+        "materials": 2,
+        "textures": [],
+        "extensions": [],
+        "alpha_modes": [
+          "OPAQUE",
+          "OPAQUE"
+        ],
+        "transmission": [
+          null,
+          null
+        ]
+      },
+      "hair": {
+        "bytes": 1383792,
+        "triangles": 95168,
+        "nodes": 4,
+        "materials": 4,
+        "textures": [],
+        "extensions": [
+          "KHR_materials_clearcoat"
+        ],
+        "alpha_modes": [
+          "OPAQUE",
+          "OPAQUE",
+          "OPAQUE",
+          "OPAQUE"
+        ],
+        "transmission": [
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "max_bidirectional_world_position_error": {
+      "headgear": 0.0,
+      "hair": 0.0
+    },
+    "component_sha256": {
+      "headgear": "09c7d20e41b430627c5b2f536716846516c1c312869cef2407de2edaf0012700",
+      "hair": "90988ab0fe10b04b491c2721ac11cdfb0081bae46a102477ca1079a4cc37e0a7"
+    },
+    "visual_review": "pending; renders are evidence, not a pass"
+  },
+  "Feminine-box-braids": {
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Feminine-box-braids.blend",
+    "source_sha256": "3804ac7e9eee3800532cde50bc8e5b5deeb4f9da3cb7cde317117d9f4cf9e167",
+    "build": "Feminine",
+    "style": "box-braids",
+    "components": {
+      "hair": "components/Feminine-box-braids-hair.glb"
+    },
+    "statistics": {
+      "hair": {
+        "bytes": 10278180,
+        "triangles": 433748,
+        "nodes": 2,
+        "materials": 2,
+        "textures": [],
+        "extensions": [],
+        "alpha_modes": [
+          "OPAQUE",
+          "OPAQUE"
+        ],
+        "transmission": [
+          null,
+          null
+        ]
+      }
+    },
+    "max_bidirectional_world_position_error": {
+      "hair": 0.0
+    },
+    "component_sha256": {
+      "hair": "b005870d39800aa3f645967704f8e8517f2c7ce8e57c334c9eb7c99eaf5c8669"
+    },
+    "visual_review": "pending; renders are evidence, not a pass"
+  },
+  "Feminine-bucket": {
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Feminine-bucket.blend",
+    "source_sha256": "1694130764af7a300050ec51a6f592d4f7fe51f1eb36664b25b84fb1906be91f",
+    "build": "Feminine",
+    "style": "bucket",
+    "components": {
+      "headgear": "components/Feminine-bucket-headgear.glb",
+      "hair": "components/Feminine-bucket-hair.glb"
+    },
+    "statistics": {
+      "headgear": {
+        "bytes": 888816,
+        "triangles": 49032,
+        "nodes": 2,
+        "materials": 2,
+        "textures": [],
+        "extensions": [],
+        "alpha_modes": [
+          "OPAQUE",
+          "OPAQUE"
+        ],
+        "transmission": [
+          null,
+          null
+        ]
+      },
+      "hair": {
+        "bytes": 1383792,
+        "triangles": 95168,
+        "nodes": 4,
+        "materials": 4,
+        "textures": [],
+        "extensions": [
+          "KHR_materials_clearcoat"
+        ],
+        "alpha_modes": [
+          "OPAQUE",
+          "OPAQUE",
+          "OPAQUE",
+          "OPAQUE"
+        ],
+        "transmission": [
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "max_bidirectional_world_position_error": {
+      "headgear": 0.0,
+      "hair": 0.0
+    },
+    "component_sha256": {
+      "headgear": "567038e93d156216cc6dc033acbff7d2b89c7a4cfc40ad34af3332ca5ee2e47f",
+      "hair": "90988ab0fe10b04b491c2721ac11cdfb0081bae46a102477ca1079a4cc37e0a7"
+    },
+    "visual_review": "pending; renders are evidence, not a pass"
+  },
+  "Feminine-cat-eye": {
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Feminine-cat-eye.blend",
+    "source_sha256": "9a666ea50cacb67e9e0e8f83baabb6a60dee89bb64afa15e855c19d06bc06eda",
+    "build": "Feminine",
+    "style": "cat-eye",
+    "components": {
+      "glasses": "components/Feminine-cat-eye-glasses.glb",
+      "lenses": "components/Feminine-cat-eye-lenses.glb"
+    },
+    "statistics": {
+      "glasses": {
+        "bytes": 89496,
+        "triangles": 4692,
+        "nodes": 1,
+        "materials": 1,
+        "textures": [],
+        "extensions": [],
+        "alpha_modes": [
+          "OPAQUE"
+        ],
+        "transmission": [
+          null
+        ]
+      },
+      "lenses": {
+        "bytes": 36288,
+        "triangles": 640,
+        "nodes": 1,
+        "materials": 1,
+        "textures": [],
+        "extensions": [
+          "KHR_materials_transmission",
+          "KHR_materials_ior"
+        ],
+        "alpha_modes": [
+          "OPAQUE"
+        ],
+        "transmission": [
+          {
+            "transmissionFactor": 1
+          }
+        ]
+      }
+    },
+    "max_bidirectional_world_position_error": {
+      "glasses": 0.0,
+      "lenses": 0.0
+    },
+    "component_sha256": {
+      "glasses": "fef92de897a17dc0314371576d997ced50aeb1b161829e4e673176ef01297f1d",
+      "lenses": "0b6a0f343f71719b263cef332f94f9cd403901084dcd58a476bc43cb1e00f0c1"
+    },
+    "visual_review": "pending; renders are evidence, not a pass"
+  },
+  "Feminine-cowboy": {
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Feminine-cowboy.blend",
+    "source_sha256": "18eb37033e9ed25ed233499dde2377c92cab6b068c216c2f2b14801309620297",
+    "build": "Feminine",
+    "style": "cowboy",
+    "components": {
+      "headgear": "components/Feminine-cowboy-headgear.glb",
+      "hair": "components/Feminine-cowboy-hair.glb"
+    },
+    "statistics": {
+      "headgear": {
+        "bytes": 930548,
+        "triangles": 51348,
+        "nodes": 2,
+        "materials": 2,
+        "textures": [],
+        "extensions": [],
+        "alpha_modes": [
+          "OPAQUE",
+          "OPAQUE"
+        ],
+        "transmission": [
+          null,
+          null
+        ]
+      },
+      "hair": {
+        "bytes": 1383792,
+        "triangles": 95168,
+        "nodes": 4,
+        "materials": 4,
+        "textures": [],
+        "extensions": [
+          "KHR_materials_clearcoat"
+        ],
+        "alpha_modes": [
+          "OPAQUE",
+          "OPAQUE",
+          "OPAQUE",
+          "OPAQUE"
+        ],
+        "transmission": [
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "max_bidirectional_world_position_error": {
+      "headgear": 0.0,
+      "hair": 0.0
+    },
+    "component_sha256": {
+      "headgear": "459bb050ea1543ceb7dd9656d55ad5850d210fc8095236dfc053c2a9e41f4b0c",
+      "hair": "90988ab0fe10b04b491c2721ac11cdfb0081bae46a102477ca1079a4cc37e0a7"
+    },
+    "visual_review": "pending; renders are evidence, not a pass"
+  },
+  "Feminine-curls": {
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Feminine-curls.blend",
+    "source_sha256": "30d3ad3058c13bf0af55dfbb9bac6de08898e2439a1cdd136883473e0b5c5e04",
+    "build": "Feminine",
+    "style": "curls",
+    "components": {
+      "hair": "components/Feminine-curls-hair.glb"
+    },
+    "statistics": {
+      "hair": {
+        "bytes": 1383780,
+        "triangles": 95168,
+        "nodes": 4,
+        "materials": 4,
+        "textures": [],
+        "extensions": [
+          "KHR_materials_clearcoat"
+        ],
+        "alpha_modes": [
+          "OPAQUE",
+          "OPAQUE",
+          "OPAQUE",
+          "OPAQUE"
+        ],
+        "transmission": [
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "max_bidirectional_world_position_error": {
+      "hair": 0.0
+    },
+    "component_sha256": {
+      "hair": "7d56107801e7d6fd933aff8c848ed88f83aa21e37ff05790cca434210fa6e294"
+    },
+    "visual_review": "pending; renders are evidence, not a pass"
+  },
+  "Feminine-ears": {
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Feminine-ears.blend",
+    "source_sha256": "707db14e86da346b00d0abc9c31e8d14ae41043fa68ebb7333f010f99991cac0",
+    "build": "Feminine",
+    "style": "ears",
+    "components": {
+      "headgear": "components/Feminine-ears-headgear.glb",
+      "hair": "components/Feminine-ears-hair.glb"
+    },
+    "statistics": {
+      "headgear": {
+        "bytes": 39248,
+        "triangles": 1846,
+        "nodes": 2,
+        "materials": 2,
+        "textures": [],
+        "extensions": [],
+        "alpha_modes": [
+          "OPAQUE",
+          "OPAQUE"
+        ],
+        "transmission": [
+          null,
+          null
+        ]
+      },
+      "hair": {
+        "bytes": 1383792,
+        "triangles": 95168,
+        "nodes": 4,
+        "materials": 4,
+        "textures": [],
+        "extensions": [
+          "KHR_materials_clearcoat"
+        ],
+        "alpha_modes": [
+          "OPAQUE",
+          "OPAQUE",
+          "OPAQUE",
+          "OPAQUE"
+        ],
+        "transmission": [
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "max_bidirectional_world_position_error": {
+      "headgear": 0.0,
+      "hair": 0.0
+    },
+    "component_sha256": {
+      "headgear": "8cc6b331482ba5bb1f2e3049dc75df28b513c5171ae3e3aa3207192e1f9542e7",
+      "hair": "0297d52d324ca7c3a3cf25e8761548a7c4a75e827796b0b6f4e4cc3cd00aa010"
+    },
+    "visual_review": "pending; renders are evidence, not a pass"
+  },
+  "Feminine-gems": {
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Feminine-gems.blend",
+    "source_sha256": "73ad27a0fee15d7f8e197245e4a3bfe12e7e328908696e903dfca818bd32a0c6",
+    "build": "Feminine",
+    "style": "gems",
+    "components": {
+      "extra": "components/Feminine-gems-extra.glb"
+    },
+    "statistics": {
+      "extra": {
+        "bytes": 22072,
+        "triangles": 160,
+        "nodes": 2,
+        "materials": 2,
+        "textures": [],
+        "extensions": [],
+        "alpha_modes": [
+          "OPAQUE",
+          "OPAQUE"
+        ],
+        "transmission": [
+          null,
+          null
+        ]
+      }
+    },
+    "max_bidirectional_world_position_error": {
+      "extra": 2.4073563054116676e-07
+    },
+    "component_sha256": {
+      "extra": "ac72495b5cea7118324512454ba762c30a0075909e39f924cd18e33984460d7e"
+    },
+    "visual_review": "pending; renders are evidence, not a pass"
+  },
+  "Feminine-headband": {
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Feminine-headband.blend",
+    "source_sha256": "f393ada590787fa51cb11db580133e288b27a0fe52115b589d96c6ef8f85941b",
+    "build": "Feminine",
+    "style": "headband",
+    "components": {
+      "headgear": "components/Feminine-headband-headgear.glb",
+      "hair": "components/Feminine-headband-hair.glb"
+    },
+    "statistics": {
+      "headgear": {
+        "bytes": 247532,
+        "triangles": 13416,
+        "nodes": 2,
+        "materials": 2,
+        "textures": [],
+        "extensions": [],
+        "alpha_modes": [
+          "OPAQUE",
+          "OPAQUE"
+        ],
+        "transmission": [
+          null,
+          null
+        ]
+      },
+      "hair": {
+        "bytes": 1383792,
+        "triangles": 95168,
+        "nodes": 4,
+        "materials": 4,
+        "textures": [],
+        "extensions": [
+          "KHR_materials_clearcoat"
+        ],
+        "alpha_modes": [
+          "OPAQUE",
+          "OPAQUE",
+          "OPAQUE",
+          "OPAQUE"
+        ],
+        "transmission": [
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "max_bidirectional_world_position_error": {
+      "headgear": 0.0,
+      "hair": 0.0
+    },
+    "component_sha256": {
+      "headgear": "319c45b75d3d054c922fe07c34c5002b651481366a4113b755aeaea279027742",
+      "hair": "0297d52d324ca7c3a3cf25e8761548a7c4a75e827796b0b6f4e4cc3cd00aa010"
+    },
+    "visual_review": "pending; renders are evidence, not a pass"
+  },
+  "Feminine-heart": {
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Feminine-heart.blend",
+    "source_sha256": "5d4aceb6c8f0855c46640fc78c297da355c4a1220d33ab04cd638657c93c864b",
+    "build": "Feminine",
+    "style": "heart",
+    "components": {
+      "glasses": "components/Feminine-heart-glasses.glb",
+      "lenses": "components/Feminine-heart-lenses.glb"
+    },
+    "statistics": {
+      "glasses": {
+        "bytes": 89492,
+        "triangles": 4692,
+        "nodes": 1,
+        "materials": 1,
+        "textures": [],
+        "extensions": [],
+        "alpha_modes": [
+          "OPAQUE"
+        ],
+        "transmission": [
+          null
+        ]
+      },
+      "lenses": {
+        "bytes": 37584,
+        "triangles": 640,
+        "nodes": 1,
+        "materials": 1,
+        "textures": [],
+        "extensions": [
+          "KHR_materials_transmission",
+          "KHR_materials_ior"
+        ],
+        "alpha_modes": [
+          "OPAQUE"
+        ],
+        "transmission": [
+          {
+            "transmissionFactor": 1
+          }
+        ]
+      }
+    },
+    "max_bidirectional_world_position_error": {
+      "glasses": 0.0,
+      "lenses": 0.0
+    },
+    "component_sha256": {
+      "glasses": "8ae08f44c26865df83952fb578a57fee63c8e596c9e6c639d5c41e3454d26d59",
+      "lenses": "0497186cfb702affc02910b77c566a44abe20f450ef34a734767ce88832259d9"
+    },
+    "visual_review": "pending; renders are evidence, not a pass"
+  },
+  "Feminine-kaleidoscope": {
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Feminine-kaleidoscope.blend",
+    "source_sha256": "4bd478b5a8fcfa154584bb9898fa207f8689df5303dbd3dbe27b21938f234657",
+    "build": "Feminine",
+    "style": "kaleidoscope",
+    "components": {
+      "glasses": "components/Feminine-kaleidoscope-glasses.glb",
+      "lenses": "components/Feminine-kaleidoscope-lenses.glb"
+    },
+    "statistics": {
+      "glasses": {
+        "bytes": 89500,
+        "triangles": 4692,
+        "nodes": 1,
+        "materials": 1,
+        "textures": [],
+        "extensions": [],
+        "alpha_modes": [
+          "OPAQUE"
+        ],
+        "transmission": [
+          null
+        ]
+      },
+      "lenses": {
+        "bytes": 23088,
+        "triangles": 640,
+        "nodes": 1,
+        "materials": 1,
+        "textures": [],
+        "extensions": [
+          "KHR_materials_transmission",
+          "KHR_materials_ior"
+        ],
+        "alpha_modes": [
+          "OPAQUE"
+        ],
+        "transmission": [
+          {
+            "transmissionFactor": 1
+          }
+        ]
+      }
+    },
+    "max_bidirectional_world_position_error": {
+      "glasses": 0.0,
+      "lenses": 0.0
+    },
+    "component_sha256": {
+      "glasses": "0423b4aea2770b11a29bd3119c2a4ec2afc94a3f254e956e3b836dfbcc8c8a4b",
+      "lenses": "ae72f9d10873716975da70c9e188270ae46cdffd0281ad91fc7ac02dafb6f0c7"
+    },
+    "visual_review": "pending; renders are evidence, not a pass"
+  },
+  "Feminine-pashmina": {
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Feminine-pashmina.blend",
+    "source_sha256": "b30dceaa8c688aa66f2a8c0389ee9d2134cb75d561000b910209cc63cebcced2",
+    "build": "Feminine",
+    "style": "pashmina",
+    "components": {
+      "headgear": "components/Feminine-pashmina-headgear.glb",
+      "hair": "components/Feminine-pashmina-hair.glb"
+    },
+    "statistics": {
+      "headgear": {
+        "bytes": 1658500,
+        "triangles": 91690,
+        "nodes": 2,
+        "materials": 2,
+        "textures": [],
+        "extensions": [],
+        "alpha_modes": [
+          "OPAQUE",
+          "OPAQUE"
+        ],
+        "transmission": [
+          null,
+          null
+        ]
+      },
+      "hair": {
+        "bytes": 1383792,
+        "triangles": 95168,
+        "nodes": 4,
+        "materials": 4,
+        "textures": [],
+        "extensions": [
+          "KHR_materials_clearcoat"
+        ],
+        "alpha_modes": [
+          "OPAQUE",
+          "OPAQUE",
+          "OPAQUE",
+          "OPAQUE"
+        ],
+        "transmission": [
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "max_bidirectional_world_position_error": {
+      "headgear": 0.0,
+      "hair": 0.0
+    },
+    "component_sha256": {
+      "headgear": "533b42ba82f079b0b5f9588301df0c6011930dc4507e89b9bea8859258cfd306",
+      "hair": "0297d52d324ca7c3a3cf25e8761548a7c4a75e827796b0b6f4e4cc3cd00aa010"
+    },
+    "visual_review": "pending; renders are evidence, not a pass"
+  },
+  "Feminine-reading": {
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Feminine-reading.blend",
+    "source_sha256": "80adae10c36fadf569f662062ffe42bf8c130f939f36398884db559e4c3f7f7d",
+    "build": "Feminine",
+    "style": "reading",
+    "components": {
+      "glasses": "components/Feminine-reading-glasses.glb",
+      "lenses": "components/Feminine-reading-lenses.glb"
+    },
+    "statistics": {
+      "glasses": {
+        "bytes": 90512,
+        "triangles": 4692,
+        "nodes": 2,
+        "materials": 2,
+        "textures": [],
+        "extensions": [],
+        "alpha_modes": [
+          "OPAQUE",
+          "OPAQUE"
+        ],
+        "transmission": [
+          null,
+          null
+        ]
+      },
+      "lenses": {
+        "bytes": 37152,
+        "triangles": 640,
+        "nodes": 1,
+        "materials": 1,
+        "textures": [],
+        "extensions": [
+          "KHR_materials_transmission",
+          "KHR_materials_ior"
+        ],
+        "alpha_modes": [
+          "OPAQUE"
+        ],
+        "transmission": [
+          {
+            "transmissionFactor": 1
+          }
+        ]
+      }
+    },
+    "max_bidirectional_world_position_error": {
+      "glasses": 0.0,
+      "lenses": 0.0
+    },
+    "component_sha256": {
+      "glasses": "0ece0d39855e463fe97454d33b450844da1f9ba92ab432b748713360a5606d3c",
+      "lenses": "44b0e3a062e9174bc826a1fb122be7a9df6f5d584b5c8148e8c277b3ba8b4dde"
+    },
+    "visual_review": "pending; renders are evidence, not a pass"
+  },
+  "Feminine-side-sweep": {
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Feminine-side-sweep.blend",
+    "source_sha256": "a901756a9087f52aaf36ed1f2fa9ad7b8917e8fa9c5a62a015ddbabbd2582bad",
+    "build": "Feminine",
+    "style": "side-sweep",
+    "components": {
+      "hair": "components/Feminine-side-sweep-hair.glb"
+    },
+    "statistics": {
+      "hair": {
+        "bytes": 1383796,
+        "triangles": 95168,
+        "nodes": 4,
+        "materials": 4,
+        "textures": [],
+        "extensions": [
+          "KHR_materials_clearcoat"
+        ],
+        "alpha_modes": [
+          "OPAQUE",
+          "OPAQUE",
+          "OPAQUE",
+          "OPAQUE"
+        ],
+        "transmission": [
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "max_bidirectional_world_position_error": {
+      "hair": 0.0
+    },
+    "component_sha256": {
+      "hair": "91f56cf36b7a858635d7c0bf8656d245e42bc25093312ea4f3d75c0d8c914730"
+    },
+    "visual_review": "pending; renders are evidence, not a pass"
+  },
+  "Feminine-space-buns": {
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Feminine-space-buns.blend",
+    "source_sha256": "f9405364cdb4851a01fa06fdcb8a8df46b9b0087ae82da5396e2c4f196f41b7b",
+    "build": "Feminine",
+    "style": "space-buns",
+    "components": {
+      "hair": "components/Feminine-space-buns-hair.glb"
+    },
+    "statistics": {
+      "hair": {
+        "bytes": 1189564,
+        "triangles": 53446,
+        "nodes": 1,
+        "materials": 1,
+        "textures": [],
+        "extensions": [],
+        "alpha_modes": [
+          "OPAQUE"
+        ],
+        "transmission": [
+          null
+        ]
+      }
+    },
+    "max_bidirectional_world_position_error": {
+      "hair": 0.0
+    },
+    "component_sha256": {
+      "hair": "1cf2f9aa3be47ce84a34a8697851be3201b45ab8d6fd8aa419df6a65c8e639f4"
+    },
+    "visual_review": "pending; renders are evidence, not a pass"
+  },
+  "Feminine-sprout": {
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Feminine-sprout.blend",
+    "source_sha256": "8a7c025b478bd3272640f3e0a70303b3d6a22fff0d5d4ddaa0a8f3cea952173e",
+    "build": "Feminine",
+    "style": "sprout",
+    "components": {
+      "extra": "components/Feminine-sprout-extra.glb"
+    },
+    "statistics": {
+      "extra": {
+        "bytes": 54968,
+        "triangles": 2780,
+        "nodes": 1,
+        "materials": 1,
+        "textures": [],
+        "extensions": [],
+        "alpha_modes": [
+          "OPAQUE"
+        ],
+        "transmission": [
+          null
+        ]
+      }
+    },
+    "max_bidirectional_world_position_error": {
+      "extra": 0.0
+    },
+    "component_sha256": {
+      "extra": "e64c48b7c4a108b00f36522b7542635c0824b8996ecb2d21b22b4caef4507cf3"
+    },
+    "visual_review": "pending; renders are evidence, not a pass"
+  },
+  "Feminine-straight": {
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Feminine-straight.blend",
+    "source_sha256": "c7d71dde2d73ba9d14a4afbc87396cd4595215cae62ee35b20dc11147249284c",
+    "build": "Feminine",
+    "style": "straight",
+    "components": {
+      "hair": "components/Feminine-straight-hair.glb"
+    },
+    "statistics": {
+      "hair": {
+        "bytes": 1383792,
+        "triangles": 95168,
+        "nodes": 4,
+        "materials": 4,
+        "textures": [],
+        "extensions": [
+          "KHR_materials_clearcoat"
+        ],
+        "alpha_modes": [
+          "OPAQUE",
+          "OPAQUE",
+          "OPAQUE",
+          "OPAQUE"
+        ],
+        "transmission": [
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "max_bidirectional_world_position_error": {
+      "hair": 0.0
+    },
+    "component_sha256": {
+      "hair": "39fea5f604dae7900205317d4abd253e2f9354dd4a6f27bc7e8e128b01481154"
+    },
+    "visual_review": "pending; renders are evidence, not a pass"
+  },
+  "Feminine-twin-braids": {
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Feminine-twin-braids.blend",
+    "source_sha256": "168cf50fd398ab06d8578768bd522ea48ca1f1ec1b9c37b7660b7670e814b000",
+    "build": "Feminine",
+    "style": "twin-braids",
+    "components": {
+      "hair": "components/Feminine-twin-braids-hair.glb"
+    },
+    "statistics": {
+      "hair": {
+        "bytes": 969520,
+        "triangles": 53390,
+        "nodes": 2,
+        "materials": 2,
+        "textures": [],
+        "extensions": [],
+        "alpha_modes": [
+          "OPAQUE",
+          "OPAQUE"
+        ],
+        "transmission": [
+          null,
+          null
+        ]
+      }
+    },
+    "max_bidirectional_world_position_error": {
+      "hair": 0.0
+    },
+    "component_sha256": {
+      "hair": "a6e946eb45f2b560decdf008e6957b587a7a491c54e521010f41126ed042145a"
+    },
+    "visual_review": "pending; renders are evidence, not a pass"
+  },
+  "Feminine-wayfarer": {
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Feminine-wayfarer.blend",
+    "source_sha256": "0bc56c028b7b9a92fa20cd431b985f49f85a2efcaa71c9c83f4fefc8feccc22e",
+    "build": "Feminine",
+    "style": "wayfarer",
+    "components": {
+      "glasses": "components/Feminine-wayfarer-glasses.glb",
+      "lenses": "components/Feminine-wayfarer-lenses.glb"
+    },
+    "statistics": {
+      "glasses": {
+        "bytes": 89496,
+        "triangles": 4692,
+        "nodes": 1,
+        "materials": 1,
+        "textures": [],
+        "extensions": [],
+        "alpha_modes": [
+          "OPAQUE"
+        ],
+        "transmission": [
+          null
+        ]
+      },
+      "lenses": {
+        "bytes": 36768,
+        "triangles": 640,
+        "nodes": 1,
+        "materials": 1,
+        "textures": [],
+        "extensions": [
+          "KHR_materials_transmission",
+          "KHR_materials_ior"
+        ],
+        "alpha_modes": [
+          "OPAQUE"
+        ],
+        "transmission": [
+          {
+            "transmissionFactor": 1
+          }
+        ]
+      }
+    },
+    "max_bidirectional_world_position_error": {
+      "glasses": 0.0,
+      "lenses": 0.0
+    },
+    "component_sha256": {
+      "glasses": "1dd57c84bce80b7f657c764c7a604c6a6b57df22b0d4b9292c22d5478834e6d4",
+      "lenses": "8b3525abe978c3d322079d5eb97dde522a64b7525e26bcf60d4ec58c2961e415"
+    },
+    "visual_review": "pending; renders are evidence, not a pass"
+  },
+  "Feminine-wraparound": {
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Feminine-wraparound.blend",
+    "source_sha256": "7fc411922d20ea69f3b609637579b9cec5c6218fedc37678a4a829832949e004",
+    "build": "Feminine",
+    "style": "wraparound",
+    "components": {
+      "glasses": "components/Feminine-wraparound-glasses.glb",
+      "lenses": "components/Feminine-wraparound-lenses.glb"
+    },
+    "statistics": {
+      "glasses": {
+        "bytes": 89496,
+        "triangles": 4692,
+        "nodes": 1,
+        "materials": 1,
+        "textures": [],
+        "extensions": [],
+        "alpha_modes": [
+          "OPAQUE"
+        ],
+        "transmission": [
+          null
+        ]
+      },
+      "lenses": {
+        "bytes": 32116,
+        "triangles": 640,
+        "nodes": 1,
+        "materials": 1,
+        "textures": [],
+        "extensions": [
+          "KHR_materials_transmission",
+          "KHR_materials_ior"
+        ],
+        "alpha_modes": [
+          "OPAQUE"
+        ],
+        "transmission": [
+          {
+            "transmissionFactor": 1
+          }
+        ]
+      }
+    },
+    "max_bidirectional_world_position_error": {
+      "glasses": 0.0,
+      "lenses": 0.0
+    },
+    "component_sha256": {
+      "glasses": "13a3af8c1e1883c13e2938c46c99efd393c9d6318f189e3e4722293c7ffbd2a9",
+      "lenses": "d5a99625a6d27f28cdea707b5db2e4b5f2ad41581a0af03d424462f122d4d184"
+    },
+    "visual_review": "pending; renders are evidence, not a pass"
+  },
+  "Masculine-afro": {
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Masculine-afro.blend",
+    "source_sha256": "bad3266a05933161020694010591970ef32fc2249779fa7bf43574ff5078c2fa",
+    "build": "Masculine",
+    "style": "afro",
+    "components": {
+      "hair": "components/Masculine-afro-hair.glb"
+    },
+    "statistics": {
+      "hair": {
+        "bytes": 20869644,
+        "triangles": 852472,
+        "nodes": 3,
+        "materials": 3,
+        "textures": [],
+        "extensions": [],
+        "alpha_modes": [
+          "BLEND",
+          "OPAQUE",
+          "OPAQUE"
+        ],
+        "transmission": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "max_bidirectional_world_position_error": {
+      "hair": 0.0
+    },
+    "component_sha256": {
+      "hair": "c32ca1f2fa31b611ef8221cc6b3b01564c621d0410cbc7bc3572c1dbabfeb1ea"
+    },
+    "visual_review": "pending; renders are evidence, not a pass"
+  },
+  "Masculine-buzz": {
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Masculine-buzz.blend",
+    "source_sha256": "99d689f6056f1ecbaeca2140b2778fc19a75c9adeb5247f4bacf7caa9c6b4a69",
+    "build": "Masculine",
+    "style": "buzz",
+    "components": {
+      "hair": "components/Masculine-buzz-hair.glb"
+    },
+    "statistics": {
+      "hair": {
+        "bytes": 2542764,
+        "triangles": 57008,
+        "nodes": 2,
+        "materials": 2,
+        "textures": [],
+        "extensions": [],
+        "alpha_modes": [
+          "BLEND",
+          "OPAQUE"
+        ],
+        "transmission": [
+          null,
+          null
+        ]
+      }
+    },
+    "max_bidirectional_world_position_error": {
+      "hair": 0.0
+    },
+    "component_sha256": {
+      "hair": "e0be8701abe56d26edd31eb1cecb31b905569bdd13ba95cf48aff295cd7f53ca"
+    },
+    "visual_review": "pending; renders are evidence, not a pass"
+  },
+  "Masculine-curly-top": {
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Masculine-curly-top.blend",
+    "source_sha256": "b4862ff524a705a4d63ce90f12a048c031fc207794f424bbffe0ef1afde232f0",
+    "build": "Masculine",
+    "style": "curly-top",
+    "components": {
+      "hair": "components/Masculine-curly-top-hair.glb"
+    },
+    "statistics": {
+      "hair": {
+        "bytes": 9512840,
+        "triangles": 380312,
+        "nodes": 3,
+        "materials": 3,
+        "textures": [],
+        "extensions": [],
+        "alpha_modes": [
+          "BLEND",
+          "OPAQUE",
+          "OPAQUE"
+        ],
+        "transmission": [
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "max_bidirectional_world_position_error": {
+      "hair": 0.0
+    },
+    "component_sha256": {
+      "hair": "d3c772c7bfce1a705ae62ffa2ba1a38e3000479f41e9305e0fc09cb5e886bf3d"
+    },
+    "visual_review": "pending; renders are evidence, not a pass"
+  },
+  "Masculine-flow": {
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Masculine-flow.blend",
+    "source_sha256": "721df16106a473b58184ef10c742395b66833829621111231094bf0515a23aff",
+    "build": "Masculine",
+    "style": "flow",
+    "components": {
+      "hair": "components/Masculine-flow-hair.glb"
+    },
+    "statistics": {
+      "hair": {
+        "bytes": 1381616,
+        "triangles": 95168,
+        "nodes": 4,
+        "materials": 4,
+        "textures": [],
+        "extensions": [
+          "KHR_materials_clearcoat"
+        ],
+        "alpha_modes": [
+          "OPAQUE",
+          "OPAQUE",
+          "OPAQUE",
+          "OPAQUE"
+        ],
+        "transmission": [
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "max_bidirectional_world_position_error": {
+      "hair": 0.0
+    },
+    "component_sha256": {
+      "hair": "f41e7ea750f9242c71abc0ac86a921a0a4969f5143a20f8f5775c5809a89c3e2"
+    },
+    "visual_review": "pending; renders are evidence, not a pass"
+  },
+  "Masculine-locs": {
+    "source": "E:\\Ravedio-Avatar\\catalogue226\\revision227\\sources\\Masculine-locs.blend",
+    "source_sha256": "a5a5618269533f951c6a4b5d3d4e1c1091ad8ffb9a7c71f641204d4a5dfa5c9b",
+    "build": "Masculine",
+    "style": "locs",
+    "components": {
+      "hair": "components/Masculine-locs-hair.glb"
+    },
+    "statistics": {
+      "hair": {
+        "bytes": 4892452,
+        "triangles": 203644,
+        "nodes": 1,
+        "materials": 1,
+        "textures": [],
+        "extensions": [],
+        "alpha_modes": [
+          "OPAQUE"
+        ],
+        "transmission": [
+          null
+        ]
+      }
+    },
+    "max_bidirectional_world_position_error": {
+      "hair": 0.0
+    },
+    "component_sha256": {
+      "hair": "0b76b70afa433f3c8be22560a8cc20bb6f144a517625e4a80cb03e251c6d30c2"
+    },
+    "visual_review": "pending; renders are evidence, not a pass"
+  }
+}

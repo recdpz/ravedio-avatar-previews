@@ -1,0 +1,149 @@
+{
+  "date": "2026-10-15",
+  "scope": "Native Blender interpretation of outfit concept158; owner approval pending",
+  "source_script": "E:\\Ravedio-Avatar\\outfits159\\model159.py",
+  "source_script_sha256": "a14f02ecfadd91311a7d67229affc11d7a6c2e9c58a277da1bceb427711ed036",
+  "final_patch_scripts": [
+    {
+      "file": "E:\\Ravedio-Avatar\\outfits159\\finish159.py",
+      "sha256": "de0cfd6db97557949b2b00c5e2c8e7424f0a9776dee73afd72d329fdcdf0bd3e"
+    },
+    {
+      "file": "E:\\Ravedio-Avatar\\outfits159\\straps159.py",
+      "sha256": "60907876a8851d4b8fd7018a5f9701f12f6d8eb8ee9037b76fdc210d57d2f2eb"
+    }
+  ],
+  "native_files": [
+    "E:\\Ravedio-Avatar\\outfits159\\Feminine-bandeau.blend",
+    "E:\\Ravedio-Avatar\\outfits159\\Feminine-triangle.blend",
+    "E:\\Ravedio-Avatar\\outfits159\\Feminine-strappy.blend",
+    "E:\\Ravedio-Avatar\\outfits159\\Feminine-tshirt.blend",
+    "E:\\Ravedio-Avatar\\outfits159\\Feminine-jersey.blend",
+    "E:\\Ravedio-Avatar\\outfits159\\Feminine-open.blend",
+    "E:\\Ravedio-Avatar\\outfits159\\Feminine-tank.blend",
+    "E:\\Ravedio-Avatar\\outfits159\\Feminine-sweatshirt.blend",
+    "E:\\Ravedio-Avatar\\outfits159\\Masculine-tank.blend",
+    "E:\\Ravedio-Avatar\\outfits159\\Masculine-jersey.blend",
+    "E:\\Ravedio-Avatar\\outfits159\\Masculine-sweatshirt.blend"
+  ],
+  "saved_reopened": 11,
+  "proof": "technical159.json",
+  "geometry_source": "156 rounded head/eyes,154 masculine Side part; new body/shorts, feminine side bob and garment meshes",
+  "coordinate_space": "Blender final world Z-up; built-in glTF exporter converts once to Y-up",
+  "skin_palette": "Exact151 pigments, four choices in browser",
+  "render_quality": "1024x1024 Cycles40samples, fixed seed42, denoised, matched orthographic cameras",
+  "render_count": 66,
+  "angles": [
+    "front",
+    "threequarter",
+    "profile",
+    "rightprofile",
+    "rear",
+    "top"
+  ],
+  "modular_glb_count": 13,
+  "glb_checks": [
+    {
+      "file": "Feminine-bandeau-top.glb",
+      "bytes": 2431832,
+      "sha256": "df51fc9ed2fcfd33975973621d64a6eb991de397dac6dcfd71db4a8d799de0af",
+      "meshes": 3,
+      "materials": 2
+    },
+    {
+      "file": "Feminine-base.glb",
+      "bytes": 10146676,
+      "sha256": "531b286daf9d316e1783f43d371faefc34705b3e91c63b52755c71fa6cecb6b4",
+      "meshes": 40,
+      "materials": 8
+    },
+    {
+      "file": "Feminine-jersey-top.glb",
+      "bytes": 1302932,
+      "sha256": "aff65eb5a9aee9439ab4ca65e946e3f5019a89ef0ec86f5d6d1cddf9d687a3c9",
+      "meshes": 3,
+      "materials": 2
+    },
+    {
+      "file": "Feminine-open-top.glb",
+      "bytes": 3718048,
+      "sha256": "fe1e828d832cf79ed19bfaa4ab92de51cc35e32065a1c34a94bd890d0b9199f4",
+      "meshes": 11,
+      "materials": 3
+    },
+    {
+      "file": "Feminine-strappy-top.glb",
+      "bytes": 3488756,
+      "sha256": "63df9bc81cc3eff3c65b238435140ce375ced11e338c5844e155cef303ec9523",
+      "meshes": 6,
+      "materials": 2
+    },
+    {
+      "file": "Feminine-sweatshirt-top.glb",
+      "bytes": 1013916,
+      "sha256": "53c0f02fccfc1720d8d12d7ac994866bc87a46626768a6d520aa389b9c19df51",
+      "meshes": 3,
+      "materials": 2
+    },
+    {
+      "file": "Feminine-tank-top.glb",
+      "bytes": 3454220,
+      "sha256": "abdd2c2b3f7ffacfdbf65cf04ddef616b45b7721d21d8ec685f277fd8bad264c",
+      "meshes": 5,
+      "materials": 2
+    },
+    {
+      "file": "Feminine-triangle-top.glb",
+      "bytes": 2681256,
+      "sha256": "0d9f4d2c8e9f74ec145781ea577529b4f7eb02f6168b61c6abbc0110a0b7bd2e",
+      "meshes": 9,
+      "materials": 2
+    },
+    {
+      "file": "Feminine-tshirt-top.glb",
+      "bytes": 964844,
+      "sha256": "557211ee83086066c1735160d879fed1d1718236ff4901ee661a0a0707d0e65b",
+      "meshes": 3,
+      "materials": 2
+    },
+    {
+      "file": "Masculine-base.glb",
+      "bytes": 10251500,
+      "sha256": "3359b001c3839196a5835c4b14e9fb82f7da5e7cab6040f5a4f307b0c088864c",
+      "meshes": 37,
+      "materials": 8
+    },
+    {
+      "file": "Masculine-jersey-top.glb",
+      "bytes": 1326980,
+      "sha256": "f3abdbfe4d05392cd3843b9008258ad1fd7d20b7dbe81611fa90a864703f5ee7",
+      "meshes": 3,
+      "materials": 2
+    },
+    {
+      "file": "Masculine-sweatshirt-top.glb",
+      "bytes": 1019852,
+      "sha256": "f409718dc742bda43ee81fd457e2ccd76146b509c3b41577f0a523297c96b316",
+      "meshes": 3,
+      "materials": 2
+    },
+    {
+      "file": "Masculine-tank-top.glb",
+      "bytes": 3454224,
+      "sha256": "7c15c92e8efa8c4d96a49cc28811d59f5f6eb5001695be020a6761de84ddf443",
+      "meshes": 5,
+      "materials": 2
+    }
+  ],
+  "visual_review": "visual-review159.json",
+  "status": "Native candidates; not owner-approved or integrated into original master",
+  "protected": "Concept158, native156,151 palette, human-ish master/Studio78 and integration137 retained; no firmware/mobile/cloud/profile changes",
+  "limitations": [
+    "Native interpretation differs from AI illustration; not pixel-identical",
+    "Only the11 displayed build/top assemblies are covered",
+    "Full original hairstyle/headwear/accessory inventory not refitted",
+    "Physical mobile touch/pinch not yet tested",
+    "Renderer lighting differs between Cycles and browser"
+  ],
+  "public_preview": "https://recdpz.github.io/ravedio-avatar-previews/159/"
+}

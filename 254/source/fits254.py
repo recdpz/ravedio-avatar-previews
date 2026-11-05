@@ -1,0 +1,21 @@
+import sys,json
+from pathlib import Path
+sys.path.insert(0,'E:/Ravedio-Avatar/catalogue254')
+from fade254 import *
+from fits251 import fit_roots
+import accessories235
+P=Path('E:/Ravedio-Avatar/catalogue254');D=P.parent/'floating138/mobile-preview/254';OLD=D.parent/'253';CAT=json.loads((OLD/'catalogue253.json').read_text());out={};sprouts={}
+for style in ['taper','curly-top']:
+ for hat in ['none','cap','beanie','bucket','cowboy','headband','ears','pashmina']:
+  bpy.ops.wm.open_mainfile(filepath=str(P/'sources'/f'Masculine-{style}-hair254.blend'));s=bpy.context.scene;frozen=protect(s);a.setup();c.reset_head(s)
+  if hat!='none':
+   path=CAT['fits']['Masculine-'+style][hat]['headgear']
+   if hat=='pashmina':path=CAT['pashminaVariants']['Masculine'][CAT['pashminaHairFamilies']['Masculine'][style]]['tank']
+   imported((OLD/path).resolve(),'headgear')
+  hbefore={k:v for k,v in u.object_geometry(s).items() if s.objects[k].get('component159')=='headgear'};count=fit_roots(s,hat) if hat!='none' else 0;check(s,frozen);now=u.object_geometry(s);assert all(now.get(k)==v for k,v in hbefore.items())
+  key=style+'|'+hat
+  if hat!='none':
+   u.bake(s);target=P/'components'/f'Masculine-{style}-{hat}254-hair.glb';ex.export(s,target,'hair');patch_export(target);out[key]=dict(hair='components/'+target.name,changed_vertices=count,headgear_geometry_preserved=True,other_geometry_preserved=True)
+  r=accessories235.sprout();u.bake(s);target=P/'components'/f'Masculine-{style}-{hat}254-sprout.glb';ex.export(s,target,'extra');r['path']='components/'+target.name;sprouts['Masculine-'+style+'--'+hat]=r
+  (P/'fits254.json').write_text(json.dumps(out,indent=2)+'\n',encoding='utf8');(P/'sprouts254.json').write_text(json.dumps(sprouts,indent=2)+'\n',encoding='utf8');print('FIT254',key,count,flush=True)
+print('FIT254_COMPLETE',len(out),len(sprouts),flush=True)

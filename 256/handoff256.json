@@ -1,0 +1,32 @@
+{
+  "revision": 256,
+  "baseline_commit": "511cb1d204bbb74ef1fd61c77e78c2aea3ce452a",
+  "selected_basis": "../255/drafts/B/source.blend",
+  "changed_styles": [
+    "taper",
+    "curly-top"
+  ],
+  "geometry": "B separate swept locks are preserved exactly in bare Taper. The side fade grows upward by increasing its normalized span0.30 to0.38; its lower boundary and footprint are unchanged. Curly top retains its existing crown and uses the same side treatment. Other models, body/face/clothing, headgear shapes, palettes and fixed studio are retained.",
+  "rendering": "Side coverage is opacity from a neutral RGB/alpha texture under BLEND, not transmission or refraction. Longer hair is OPAQUE. A nearest-opaque portrait prototype cannot reproduce partial side coverage without alpha compositing or an equivalent faithful baked solution. Do not substitute254 modeled fibers. Ordinary GLBs contain no compression or quantization.",
+  "controls": "Independent feature/color controls remain. Compare B original fade is available for bare Taper, with a matching Ombr\u00e9 baseline. It is mutually exclusive with Compare254 and clears when choosing an unsupported hair/headgear state. Hair and facial-hair recoloring retain current palette behavior.",
+  "exports": "16 current hair fits,17 Ombr\u00e9 files including the selected-B baseline, one selected-B default baseline and16 seated sprouts. Hair remains independently addressable in shared coordinates; headgear shapes are unchanged.",
+  "source": "Two packed reference assemblies imported from final GLBs, twelve matched120/512 color and32-bit float Z pairs. Original selected B and the other recovered snapshots remain separately preserved in255. Each new authored/export pass has its own source, code, settings and renders. Feminine253 sources remain unchanged.",
+  "depth": "Color and Z share geometry/camera/version and render. Partial-alpha references use the recorded0.5 alpha threshold; these are assembled references, not a complete component-alpha compositing solution. Regenerate component colors and depth together for any changed geometry.",
+  "lighting": "Blender studio/environment, camera, exposure and view transform are recorded in assemblies256.json. Those renderer effects do not transfer as identical GLB lighting; native appearance still requires direct comparison.",
+  "technical": "technical256.json",
+  "review": "review256.json",
+  "profile_contract": "No profile-byte assignments or product-repository changes.",
+  "qualification": "Artwork fidelity exports. Native/phone rendering and performance acceptance remain separate.",
+  "asset_delivery": {
+    "art_commit": "a1a470b3618b796e87f4952f689a1a6493f0f089",
+    "large_asset_base": "https://raw.githubusercontent.com/recdpz/ravedio-avatar-previews/a1a470b3618b796e87f4952f689a1a6493f0f089/256/",
+    "binary_extensions": [
+      ".glb",
+      ".blend",
+      ".zip",
+      ".png",
+      ".exr"
+    ],
+    "note": "Resolve binary paths against this base, including ../ references. They are preserved unchanged in Git and excluded from the Pages artifact. JSON, code and JPG/WebP boards remain on Pages. The review UI resolves these URLs automatically. See ../HOSTING.md."
+  }
+}

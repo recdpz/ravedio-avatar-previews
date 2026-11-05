@@ -1,0 +1,38 @@
+{
+  "source": "E:\\Ravedio-Avatar\\refinement175",
+  "preview": "https://recdpz.github.io/ravedio-avatar-previews/175/",
+  "status": "Local candidates verified and reviewed twice; ready for GitHub preview publication",
+  "owner_acceptance": "Pending175",
+  "source_revisions": [
+    172,
+    173,
+    174
+  ],
+  "scope": "174 skirt decoration only; replace rejected174 arm experiment with Swept, Bent and Compact choices on both builds",
+  "coordinate_space": "Saved final-world donors; no historical deformation fields replayed",
+  "protected": "Exact174 skirt cloth/underlayer; unchanged body, head, hair, eyes, palette and lighting;174 pants/collars retained",
+  "arm_choices": [
+    "A / Swept",
+    "B / Bent",
+    "C / Compact",
+    "Round hands"
+  ],
+  "arm_status": "Unencoded local experiments",
+  "manifest": "E:\\Ravedio-Avatar\\refinement175\\manifest175.json",
+  "technical": "E:\\Ravedio-Avatar\\refinement175\\technical175.json",
+  "visual_review": "E:\\Ravedio-Avatar\\refinement175\\visual175.json",
+  "recovery": "E:\\Ravedio-Avatar\\refinement175\\RECOVERY175.txt",
+  "main_master_studio_changed": false,
+  "profile_contract_changed": false,
+  "technical_cases": 7,
+  "fit_combinations": 39,
+  "fit_review_views": [
+    "front",
+    "profile",
+    "rear"
+  ],
+  "source_preview_commit": "4cba9a2514f11df604b40992cfa7d6c0b92465f3",
+  "default_arm": "A / Swept",
+  "browser": "browser175.json",
+  "browser_selections": 52
+}

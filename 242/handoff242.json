@@ -1,0 +1,27 @@
+{
+  "revision": 242,
+  "url": "https://recdpz.github.io/ravedio-avatar-previews/242/",
+  "status": "Owner-review full chest-wrap refinement",
+  "baseline_commit": "f860bb0abc5c1367adbe15fffcd47528f3a8432c",
+  "scope": "Substantially slim the full chest/collarbone wrap; preserve239 hanging ends",
+  "changes": [
+    "The crossing cloth is45 percent narrower over a broader interval, including both shoulder entries and the full central crossing.",
+    "The underlying neck/shoulder return is38 percent shallower, removing the remaining broad layer underneath the crossings.",
+    "The complete lower hanging ends and fringe are exact239, restoring their original width with no lower-end narrowing."
+  ],
+  "protected": "Approved239 hood, sewn joins and inner/top free edges remain fixed. Lower ends and fringe are exact239. The chest crossings and lower return wrap change; all other models, materials and studio are retained.",
+  "coordinates": "Shared coordinates unchanged; native Blender Z-up to glTF Y-up conversion only. No independent component recentering/resizing.",
+  "selection": "Independent controls retained. pashminaTops[build][top] selects the fit; Compare241 swaps only headgear with the same outfit and view.",
+  "assemblies": {
+    "Feminine": "assemblies/Feminine-pashmina242.blend",
+    "Masculine": "assemblies/Masculine-pashmina242.blend"
+  },
+  "reference_framing": "120 and512 portraits have the same transform and orthographic scale; exact studio/camera/color settings in fixtures242.json.",
+  "materials": "Exact239 woven texture, opaque cloth and0.12 sheen mapping. Ordinary uncompressed GLBs; no new transparency or refraction.",
+  "portable_sources": "Two packed scenes include their imported components. narrow242.py starts from preserved239 per-top authoring scenes and uses retained235/224 helper libraries.",
+  "qualification": "No native parity, depth-composition or phone-performance claim. No profile-byte or product-repository changes.",
+  "technical": "technical242.json",
+  "fixtures": "fixtures242.json",
+  "review": "review242.json",
+  "approval": "approval239.json"
+}

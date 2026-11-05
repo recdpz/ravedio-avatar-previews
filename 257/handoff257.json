@@ -1,0 +1,35 @@
+{
+  "revision": 257,
+  "baseline_commit": "a02e603fc491dc76424a360ecfd6bbd6360054ae",
+  "selected_basis": "../256/",
+  "changed_styles": [
+    "taper",
+    "curly-top"
+  ],
+  "geometry": "B upper lock shape remains exact. Only terminal portions thin and settle into the fade. Smooth fitted side field uses vertex alpha; small flattened 3D directional marks shorten and fade toward skin. No grain coverage atlas.",
+  "rendering": "Long-hair cores remain OPAQUE to preserve overlap. Only terminal sections and faded sides use BLEND opacity; there is no transmission/refraction. Preserve vertex COLOR_0 alpha and material separation. A nearest-opaque portrait approach needs faithful alpha composition or a matched bake.",
+  "coordinates": "Components retain their shared coordinates and independent feature/color selection; no per-part recentering.",
+  "colors": "Current hair colors and Ombr\u00e9 retained. New Ombr\u00e9 files preserve vertex opacity, geometry, normals, indices, UVs and transforms.",
+  "source": "Two packed final-GLB reference assemblies; twelve matched120/512 color and32-bit Z pairs. Each source iteration is separately frozen locally.",
+  "depth": "Color/Z pairs use identical geometry/camera/version; recorded alpha threshold0.5. These assembled references are not a complete component-occlusion bake. Regenerate both when geometry changes.",
+  "lighting": "Fixed studio/camera/exposure/view transform recorded in assemblies257.json. Blender lighting/color-management effects do not transfer identically through GLB.",
+  "exports": "48 new ordinary uncompressed GLBs:16 hair fits,16 Ombr\u00e9 variants and16 seated sprout fits. Other catalogue assets are reused unchanged.",
+  "controls": "Compare256 shows the preceding textured fade and unthinned tips. Compare B original fade remains available for bare Taper.",
+  "technical": "technical257.json",
+  "review": "review257.json",
+  "qualification": "Artwork candidate. Native renderer/portrait alpha composition and phone performance remain unqualified.",
+  "profile_contract": "No profile bytes or product repositories changed.",
+  "asset_delivery": {
+    "art_commit": "6ad3cf78459a2306edddb9d9eef4925ed3f5ee63",
+    "large_asset_base": "https://raw.githubusercontent.com/recdpz/ravedio-avatar-previews/6ad3cf78459a2306edddb9d9eef4925ed3f5ee63/257/",
+    "binary_extensions": [
+      ".glb",
+      ".blend",
+      ".zip",
+      ".png",
+      ".exr"
+    ],
+    "note": "Resolve binary paths against this base, including ../ references. Assets remain unchanged in Git; Pages serves the UI, JSON and compact JPG/WebP boards. Review UI resolves URLs automatically. See the repository HOSTING.md."
+  },
+  "alpha_verification": "alpha257.json"
+}

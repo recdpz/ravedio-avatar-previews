@@ -1,0 +1,43 @@
+{
+  "revision": 172,
+  "review": "self",
+  "owner_acceptance": "pending",
+  "first_pass": {
+    "state": "complete",
+    "findings": [
+      "Early nape edits turned masculine tips upward.",
+      "Feminine rear edge duplicates cut through the side curtain; overly strong tucking exposed a gap.",
+      "The initial Button-up hem produced a stiff waist flare.",
+      "Early white-eye pupils clipped the upper edge unevenly.",
+      "The first bikini silhouette looked like a belt. Raising the leg openings exposed disconnected hip/thigh construction. Subsequent bridge trials left a horizontal ridge, loose cloth corners and waistband/top overlap."
+    ],
+    "corrections": [
+      "Constrained masculine nape paths downward while retaining main styling.",
+      "Removed buried duplicate edge locks and reduced surrounding tuck; preserved the front and crown design.",
+      "Smoothed and reduced the men's hem clearance envelope; added a conventional closed placket, buttons, seated folded collar and chest pocket.",
+      "Lowered pupil centers to keep the graphic pupils inside their white support.",
+      "Replaced the bikini's visible lower-body assembly with a smooth pelvis/thigh union. Extended the upper thighs into the hip before blending. Fitted and relaxed the cloth envelope, reduced crotch projection, and lowered the waistband clear of the tank hem."
+    ]
+  },
+  "second_pass": {
+    "state": "complete",
+    "coverage": [
+      "Final bikini front, three-quarter, both profiles, rear and above at 1024px with actual materials.",
+      "42 contextual top/bottom assemblies from front, profile and rear; all eight feminine bikini assemblies rerendered after the last hip correction.",
+      "Both revised hairstyles and men's T-shirt/Button-up in six-angle renders; before/after hair comparison.",
+      "All four eyes for both builds in dark/white comparisons; side attachment review and 32/48/64/128px Soft square portraits.",
+      "Live mobile-width bikini assembly checked across the four skin choices, including contrasting White fabric; original leg copies hidden only for Bikini."
+    ],
+    "assessment": "Ready for owner review. The bikini cut reads as a moderate high-leg brief with a continuous hip/thigh outline; the earlier ridge, loose point and tank overlap are resolved in the reviewed views. Men now have Shorts/Pants and a closed Button-up; women's distinct festival silhouettes are retained. No obvious new garment penetrations or detached skin surfaces were observed in the final outfit sheets.",
+    "style_notes": [
+      "The bodies deliberately retain spherical heads, floating hands and short rounded legs. This is a coherent cartoon interpretation, not realistic anatomy.",
+      "Sculpted hair-lock seams remain visible at close zoom; this pass corrects side/rear overlaps and tips rather than redesigning the accepted hairstyles.",
+      "Soft square is a graphic alternative to Narrow. White sclera and dark pupils remain an optional experiment; dark eyes stay the default."
+    ]
+  },
+  "references": [
+    "https://www.uniqlo.com/us/en/products/E482479-000/00",
+    "https://freedomravewear.com/products/midnight-high-waisted-bikini-bottoms"
+  ],
+  "limits": "Static renders and desktop mobile-width browser checks do not certify physical-phone performance or owner aesthetic acceptance. No Avatar Studio or firmware/mobile/cloud wire changes."
+}

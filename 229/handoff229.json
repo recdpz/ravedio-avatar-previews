@@ -1,0 +1,245 @@
+{
+  "revision": 229,
+  "status": "Glossy charcoal curved-squint candidate; owner acceptance pending",
+  "source_reference": 228,
+  "implemented": [
+    "Same228 frontal outline and eye spacing",
+    "Gentle rounded surface; lighter deep-charcoal lower region",
+    "One broad soft tonal reflection replaces tiny highlight dots",
+    "Opaque vertex colors preserve authored tonal treatment in ordinaryGLB; physical specular responds to light",
+    "Direct before228 eye selector; original four eye types and independent controls retained"
+  ],
+  "protected": [
+    "All non-eye geometry exact224 source",
+    "Selected ponytail/cap, face placement, bodies, wardrobe, skin palette, lighting",
+    "No other eye style edited; no profile-byte assignment"
+  ],
+  "source": {
+    "Feminine": {
+      "source": "E:\\Ravedio-Avatar\\refinement229\\output\\sources\\Feminine-soft-squint.blend",
+      "source_sha256": "0ccc0eb3fd1bb4000acc1908735d7056ff42f074d8fd0c6ca1affaba93337bd5",
+      "glb": "E:\\Ravedio-Avatar\\refinement229\\output\\components\\Feminine-eyes-squint.glb",
+      "glb_sha256": "81cd01cfb6fa87b123e3880979bec70324da4d56a84d48214b83e6aa5d8b79c6",
+      "baseline_source": "E:\\Ravedio-Avatar\\refinement224\\scenes\\Feminine-uncovered.blend",
+      "baseline_sha256": "21c9c5fce3fcfc22d782923ecc971f660d3d09e1ce3a0a26c2ffef6aa1c81330",
+      "protected_neighbors_exact": true,
+      "eye_placement": [
+        0.15,
+        1.895
+      ],
+      "style": "228 outline and spacing retained; charcoal tonal surface, broad soft arched reflection, gentle dome; no sclera or pupils. Opaque vertex colors plus physical specular. Candidate, no profile-slot change."
+    },
+    "Masculine": {
+      "source": "E:\\Ravedio-Avatar\\refinement229\\output\\sources\\Masculine-soft-squint.blend",
+      "source_sha256": "45343ab709463b34ea2a8f825e25704a4143c3023cfbf227ee657f49b8eb080d",
+      "glb": "E:\\Ravedio-Avatar\\refinement229\\output\\components\\Masculine-eyes-squint.glb",
+      "glb_sha256": "798d3e26865ec577831a2c63674532cdb6037b3c311662de042df79a609d9736",
+      "baseline_source": "E:\\Ravedio-Avatar\\refinement224\\scenes\\Masculine-taper.blend",
+      "baseline_sha256": "161d7f5eaa922e19ab1cf8be9ec12a8241dccd91fa4bacaf01c60d276f55dabd",
+      "protected_neighbors_exact": true,
+      "eye_placement": [
+        0.15,
+        1.895
+      ],
+      "style": "228 outline and spacing retained; charcoal tonal surface, broad soft arched reflection, gentle dome; no sclera or pupils. Opaque vertex colors plus physical specular. Candidate, no profile-slot change."
+    }
+  },
+  "exports": {
+    "Feminine": {
+      "max_bidirectional_world_error": 0.0,
+      "bytes": 355588,
+      "triangles": 10944,
+      "materials": 1,
+      "source_sha256": "0ccc0eb3fd1bb4000acc1908735d7056ff42f074d8fd0c6ca1affaba93337bd5",
+      "glb_sha256": "81cd01cfb6fa87b123e3880979bec70324da4d56a84d48214b83e6aa5d8b79c6",
+      "compression": false
+    },
+    "Masculine": {
+      "max_bidirectional_world_error": 0.0,
+      "bytes": 353432,
+      "triangles": 10944,
+      "materials": 1,
+      "source_sha256": "45343ab709463b34ea2a8f825e25704a4143c3023cfbf227ee657f49b8eb080d",
+      "glb_sha256": "798d3e26865ec577831a2c63674532cdb6037b3c311662de042df79a609d9736",
+      "compression": false
+    }
+  },
+  "outline": {
+    "Feminine": {
+      "front_outline_and_spacing_exact": true,
+      "max_x_z_delta": 0,
+      "depth_change": "Only rounded eye dome; outline preserved"
+    },
+    "Masculine": {
+      "front_outline_and_spacing_exact": true,
+      "max_x_z_delta": 0,
+      "depth_change": "Only rounded eye dome; outline preserved"
+    }
+  },
+  "browser": {
+    "url": "http://127.0.0.1:9228/229/",
+    "proof": [
+      {
+        "build": "Feminine",
+        "state": {
+          "revision": 229,
+          "build": "Feminine",
+          "features": {
+            "hair": "ponytail",
+            "headwear": "none",
+            "glasses": "none",
+            "detail": "none",
+            "eyes": "squint",
+            "nose": "none",
+            "mouth": "line",
+            "groom": "none",
+            "top": "open",
+            "bottom": "skirt",
+            "skin": 1,
+            "hairColor": "default",
+            "headgearColor": "default",
+            "topColor": "default",
+            "bottomColor": "default"
+          },
+          "memory": {
+            "Feminine": {
+              "hair": "ponytail",
+              "headwear": "none",
+              "glasses": "none",
+              "detail": "none",
+              "eyes": "squint",
+              "nose": "none",
+              "mouth": "line",
+              "groom": "none",
+              "top": "open",
+              "bottom": "skirt",
+              "skin": 1,
+              "hairColor": "default",
+              "headgearColor": "default",
+              "topColor": "default",
+              "bottomColor": "default"
+            },
+            "Masculine": {
+              "hair": "taper",
+              "headwear": "none",
+              "glasses": "none",
+              "detail": "none",
+              "eyes": "squint",
+              "nose": "none",
+              "mouth": "line",
+              "groom": "stubble",
+              "top": "tank",
+              "bottom": "shorts",
+              "skin": 1,
+              "hairColor": "default",
+              "headgearColor": "default",
+              "topColor": "default",
+              "bottomColor": "default"
+            }
+          },
+          "angle": "front",
+          "mode": "face",
+          "yaw": 0,
+          "pitch": 0,
+          "zoom": 1,
+          "components": {
+            "base": "../224/components/Feminine-uncovered-base.glb",
+            "hair": "../224/components/Feminine-uncovered-hair.glb",
+            "eyes": "components/Feminine-eyes-squint.glb",
+            "mouth": "../209/Feminine-mouth-line.glb",
+            "top": "../215/Feminine-open-top.glb",
+            "bottom": "../216/Feminine-skirt-bottom.glb"
+          },
+          "scope": "Artwork review choices; no production profile-byte assignment"
+        },
+        "eyeChangesPreserveOtherGeometry": true
+      },
+      {
+        "build": "Masculine",
+        "state": {
+          "revision": 229,
+          "build": "Masculine",
+          "features": {
+            "hair": "taper",
+            "headwear": "none",
+            "glasses": "none",
+            "detail": "none",
+            "eyes": "squint",
+            "nose": "none",
+            "mouth": "line",
+            "groom": "stubble",
+            "top": "tank",
+            "bottom": "shorts",
+            "skin": 1,
+            "hairColor": "default",
+            "headgearColor": "default",
+            "topColor": "default",
+            "bottomColor": "default"
+          },
+          "memory": {
+            "Feminine": {
+              "hair": "ponytail",
+              "headwear": "none",
+              "glasses": "none",
+              "detail": "none",
+              "eyes": "squint",
+              "nose": "none",
+              "mouth": "line",
+              "groom": "none",
+              "top": "open",
+              "bottom": "skirt",
+              "skin": 1,
+              "hairColor": "default",
+              "headgearColor": "default",
+              "topColor": "default",
+              "bottomColor": "default"
+            },
+            "Masculine": {
+              "hair": "taper",
+              "headwear": "none",
+              "glasses": "none",
+              "detail": "none",
+              "eyes": "squint",
+              "nose": "none",
+              "mouth": "line",
+              "groom": "stubble",
+              "top": "tank",
+              "bottom": "shorts",
+              "skin": 1,
+              "hairColor": "default",
+              "headgearColor": "default",
+              "topColor": "default",
+              "bottomColor": "default"
+            }
+          },
+          "angle": "front",
+          "mode": "face",
+          "yaw": 0,
+          "pitch": 0,
+          "zoom": 1,
+          "components": {
+            "base": "../224/components/Masculine-taper-base.glb",
+            "hair": "../224/components/Masculine-taper-hair.glb",
+            "eyes": "components/Masculine-eyes-squint.glb",
+            "mouth": "../209/Masculine-mouth-line.glb",
+            "groom": "../209/Masculine-groom-stubble.glb",
+            "top": "../208/Masculine-tank-top.glb",
+            "bottom": "../215/Masculine-shorts-bottom.glb"
+          },
+          "scope": "Artwork review choices; no production profile-byte assignment"
+        },
+        "eyeChangesPreserveOtherGeometry": true
+      }
+    ],
+    "errors": [],
+    "http": [],
+    "mobileLayout": true,
+    "referenceImagesLoaded": true
+  },
+  "visual_review": {
+    "pass1": "First reflection too narrow and lower region too dark; broadened reflection, lifted charcoal, slightly reduced dome depth.",
+    "pass2": "Final exported front, three-quarter, both profiles, top/underside/rear and four-tone32/48/64/128 portraits reviewed. Final browser output reviewed separately. Eyes read as a soft squint; no sclera or realistic pupils.",
+    "limits": "Other catalogue artistic holds remain; no native/phone qualification. Web and Blender lighting are not identical."
+  },
+  "url": "https://recdpz.github.io/ravedio-avatar-previews/229/"
+}

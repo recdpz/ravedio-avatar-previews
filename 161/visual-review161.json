@@ -1,0 +1,54 @@
+{
+  "scope": "Separate native cartoon161 only",
+  "owner_acceptance": "pending",
+  "first_pass": {
+    "findings": [
+      "Sleeve bores revealed torso skin as an internal ball",
+      "Straight jersey hem did not read as baseball jersey",
+      "Shorts seams floated off evaluated fabric",
+      "Radial triangle-cup mesh showed faceted bands after bust refit",
+      "Feminine sweatshirt Boolean left only small mesh remnants",
+      "Open-shirt cloth intersected its aqua underlayer near bust sides"
+    ],
+    "corrections": [
+      "Shortened sleeves and lower independent orb hands; recessed sleeve facings",
+      "Button placket,V piping,rounded hem and original low-detail front/back graphics",
+      "Seams fitted to evaluated shorts",
+      "Regular fitted cup mesh with continuous cloth surface",
+      "Rebuilt cut with manifold fallback and smoothed final cloth; nonempty-garment checks",
+      "Body-based cloth envelope plus seated front collar leaves"
+    ]
+  },
+  "second_pass": {
+    "coverage": "All11 displayed assemblies from front,three-quarter,both profiles,rear,above; close-ups of cups,collar and cuff; final matte body views;32/48/64/128px portraits",
+    "evidence": [
+      "Feminine-turnarounds.jpg",
+      "Masculine-turnarounds.jpg",
+      "before-after161.jpg",
+      "cup-close3-161.png",
+      "portraits161.png",
+      "Feminine-matte-front.png",
+      "Feminine-matte-profile.png"
+    ],
+    "result": "No remaining obvious missing primary garments,faceted cups,underlayer protrusion,buried cross strap or hand/sleeve intersection identified in these reviewed views. Floating hands and leg blobs remain deliberate cartoon abstractions; owner review pending."
+  },
+  "protected": "160 head,eyes,hair,151palette; main master/Studio untouched",
+  "technical_separate": "Saved signatures,shared bases,hand clearances and GLB validation do not substitute for aesthetic approval",
+  "browser": {
+    "outfit_swaps": "All22 before160/after161 build/top paths loaded",
+    "skin_colors": "All4 choices on both builds",
+    "angles": "Six controls on both builds;face/body focus checked",
+    "png": "Actual export downloaded Ravedio161-Feminine-strappy.png",
+    "layout": "390x844 browser override:one canvas,no horizontal overflow",
+    "physical_phone_touch": "not tested"
+  },
+  "references": [
+    "https://raveuniform.com/products/vibration-baseball-jersey",
+    "https://ravebonfire.com/product/trae-custom-hooded-baseball-jersey/"
+  ],
+  "limitations": [
+    "Only displayed11 outfits reviewed; no full historical hairstyle/headwear catalogue adaptation",
+    "Realtime browser finish differs from Cycles; both inspected",
+    "No owner aesthetic approval claimed"
+  ]
+}

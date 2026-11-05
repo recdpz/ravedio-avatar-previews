@@ -1,0 +1,26 @@
+{
+  "revision": 215,
+  "owner_accepted": false,
+  "first_pass": [
+    "Read the ponytail correction as a back-view X/Z S, keeping side descent simple",
+    "Inspected collar turn, actual hood layers and rear waistband/skin contact with arms/sleeves/tops hidden"
+  ],
+  "iterations": [
+    "Replaced only the old appended shirt collar with a sewn downfold on the exact shirt bank",
+    "Removed hood layer intersections and unbounded even-offset corner expansion; fair outer/lining clearance",
+    "Separated garment waist fitting from bikini contextual skin; retain actual body geometry",
+    "Removed the redundant bikini inward return that produced an intersecting horizontal strip; one thickness-closed fabric edge"
+  ],
+  "second_pass": [
+    "Reopened all10 saved scenes and rendered front,three-quarter,both profiles,rear and top/underside as appropriate",
+    "Four tail presets, cap+glasses+hoodie combinations and four-tone32/48/64/128px face renders",
+    "Actual exported browser review, color controls, hidden sides/bottoms and PNG/choice downloads"
+  ],
+  "technical_evidence": [
+    "audit215.json",
+    "parameter-reference215.json",
+    "clearance215.json",
+    "browser215.json"
+  ],
+  "native_apps_or_physical_phones_tested": false
+}

@@ -1,0 +1,102 @@
+{
+  "source": "E:\\Ravedio-Avatar\\refinement174",
+  "preview": "https://recdpz.github.io/ravedio-avatar-previews/174/",
+  "status": "Saved and self-reviewed candidate; owner review pending",
+  "owner_acceptance": "Pending174",
+  "source_revisions": [
+    170,
+    172,
+    173
+  ],
+  "scope": "Detailed mini skirt; continuous fitted pants; collars integrated into neckline mesh; optional floating-arm experiment",
+  "coordinate_space": "Saved final-world173 donors; no historical deformation fields replayed",
+  "protected": "Head, eyes, torso, hair, palette and lighting. Original base legs retained; slimmer feminine leg copies apply only while Pants is selected.",
+  "top_counts": {
+    "Feminine": 8,
+    "Masculine": 5
+  },
+  "bottom_choices": {
+    "Feminine": [
+      "Shorts",
+      "Skirt",
+      "Bikini bottoms",
+      "Pants"
+    ],
+    "Masculine": [
+      "Shorts",
+      "Pants"
+    ]
+  },
+  "arm_choices": [
+    "Round hands",
+    "Floating arms"
+  ],
+  "arm_status": "Unencoded local experiment",
+  "eyes": [
+    "Original",
+    "Round",
+    "Almond",
+    "Soft square"
+  ],
+  "fit_combinations": 24,
+  "fit_review_views": [
+    "front",
+    "profile",
+    "rear"
+  ],
+  "manifest": "E:\\Ravedio-Avatar\\refinement174\\manifest174.json",
+  "technical": "E:\\Ravedio-Avatar\\refinement174\\technical174.json",
+  "visual_review": "E:\\Ravedio-Avatar\\refinement174\\visual174.json",
+  "recovery": "E:\\Ravedio-Avatar\\refinement174\\RECOVERY174.txt",
+  "main_master_studio_changed": false,
+  "profile_contract_changed": false,
+  "assets": {
+    "assets": [
+      {
+        "file": "Feminine-arms.glb",
+        "bytes": 274628,
+        "sha256": "d9c4ef29c7952e2f9091b9e1a0473edbc3168f37f2d56cc56c6969e7bdcc61c0"
+      },
+      {
+        "file": "Feminine-buttonup.glb",
+        "bytes": 5569280,
+        "sha256": "3a4b51293095e58aef1373b70947e054bc098aa6be1b936afbb40d67c0a6ff97"
+      },
+      {
+        "file": "Feminine-pants.glb",
+        "bytes": 2562420,
+        "sha256": "6d1f20329c9584e3e66a7ea749fd947e80f543ac53f324b41a652d4894a50370"
+      },
+      {
+        "file": "Feminine-skirt.glb",
+        "bytes": 1899636,
+        "sha256": "b199a40040f9d1f02acfbddf324b9f1f5a8ff43e0d272bf4b394df4d804bfe4a"
+      },
+      {
+        "file": "Masculine-arms.glb",
+        "bytes": 274628,
+        "sha256": "67d5c6fb939495809794238591218f23271b80d79242a3cd7461a49c2454957c"
+      },
+      {
+        "file": "Masculine-buttonup.glb",
+        "bytes": 5623260,
+        "sha256": "dbd129f3080c0e758cdf5bec3f09055e83ddb74563b4affdb1804ba907044c8e"
+      },
+      {
+        "file": "Masculine-pants.glb",
+        "bytes": 2322940,
+        "sha256": "d9a777132f84deb60ac31c621081203d5f8bd9ed7753690322dd30f313700d0a"
+      }
+    ]
+  },
+  "reused": {
+    "base": "172 Feminine;173 Masculine",
+    "eyes": "170 Original/Round/Almond;172 Soft square",
+    "bottoms": "172 Shorts;173 Bikini bottoms",
+    "tops": "170 except172 masculine T-shirt,173 feminine Strappy crop,174 Button-up"
+  },
+  "references": [
+    "https://dressed-in-a-dress.com/blog/sewing-shirt-collar/",
+    "https://www2.hm.com/en_gb/productpage.0524865001.html"
+  ]
+}

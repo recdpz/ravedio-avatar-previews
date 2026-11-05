@@ -1,0 +1,24 @@
+{
+  "revision": 256,
+  "review": "self",
+  "owner_direction": "Selected recovered B with fuller sides and original separate swept locks; extend the lower fade slightly higher.",
+  "scope": "Taper and Curly top side fades, all worn fits and colors.",
+  "passes": [
+    "Reconstructed and preserved the earlier separate-lock drafts after254 was rejected. Owner chose B.",
+    "Increased fade span from0.30 to0.38 within the unchanged lower footprint. Taper top positions, normals, UVs, indices and other attributes match selected B exactly.",
+    "Corrected exported texture-border sampling only on the fade textures, preserving B long-hair sampling. No source-geometry changes in the export pass.",
+    "Fresh actual-GLB eight-angle, color, skin and headgear checks; comparison against B and254; small portraits and additional covered/cloth-hidden views."
+  ],
+  "browser_checks": 97,
+  "approval": "B direction selected; new256 higher fade awaits owner review.",
+  "limits": "Artwork fidelity exports. Native/phone rendering and performance acceptance remain separate.",
+  "exported_visual_views": 180,
+  "covered_visual_views": 112,
+  "cloth_hidden_views": 4,
+  "exact120px_images": 8,
+  "extra_angle_checks": {
+    "additionalExportedViews": 60,
+    "errors": []
+  },
+  "selected_B_top_attributes_exact": true
+}

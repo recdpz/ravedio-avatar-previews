@@ -1,0 +1,1192 @@
+{
+  "Feminine-box-braids--cap": {
+    "label": "Feminine \u00b7 Box braids + cap",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-box-braids-covered-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "../224/components/Feminine-cap-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending.",
+    "fit": true
+  },
+  "Feminine-box-braids--beanie": {
+    "label": "Feminine \u00b7 Box braids + beanie",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-box-braids-covered-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-beanie-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending.",
+    "fit": true
+  },
+  "Feminine-box-braids--bucket": {
+    "label": "Feminine \u00b7 Box braids + bucket",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-box-braids-covered-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-bucket-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending. Review: Fit reviewed. Crown and brim still look rather rigid; fabric character needs further refinement before catalogue acceptance.",
+    "fit": true
+  },
+  "Feminine-box-braids--cowboy": {
+    "label": "Feminine \u00b7 Box braids + cowboy",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-box-braids-covered-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-cowboy-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending. Review: Fit reviewed. Crown reads as a simplified dress-hat form; cowboy crease and brim character need further refinement before catalogue acceptance.",
+    "fit": true
+  },
+  "Feminine-box-braids--headband": {
+    "label": "Feminine \u00b7 Box braids + headband",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-box-braids-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-headband-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending.",
+    "fit": true
+  },
+  "Feminine-box-braids--ears": {
+    "label": "Feminine \u00b7 Box braids + ears",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-box-braids-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-ears-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending.",
+    "fit": true
+  },
+  "Feminine-box-braids--pashmina": {
+    "label": "Feminine \u00b7 Box braids + pashmina",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-box-braids-pashmina-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-pashmina-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending. Review: Continuous coverage and hair clipping repaired. The silhouette still reads more like a hood/cape than soft folded fabric. Further fold refinement required before catalogue acceptance.",
+    "fit": true
+  },
+  "Feminine-curls--cap": {
+    "label": "Feminine \u00b7 Curls + cap",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-curls-covered-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "../224/components/Feminine-cap-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending. Review: Coverage and attachment corrected, but this reads as broad sculpted waves rather than a sufficiently distinct curly style. Further artistic revision required before catalogue acceptance.",
+    "fit": true
+  },
+  "Feminine-curls--beanie": {
+    "label": "Feminine \u00b7 Curls + beanie",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-curls-covered-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-beanie-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending. Review: Coverage and attachment corrected, but this reads as broad sculpted waves rather than a sufficiently distinct curly style. Further artistic revision required before catalogue acceptance.",
+    "fit": true
+  },
+  "Feminine-curls--bucket": {
+    "label": "Feminine \u00b7 Curls + bucket",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-curls-covered-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-bucket-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending. Review: Coverage and attachment corrected, but this reads as broad sculpted waves rather than a sufficiently distinct curly style. Further artistic revision required before catalogue acceptance. Fit reviewed. Crown and brim still look rather rigid; fabric character needs further refinement before catalogue acceptance.",
+    "fit": true
+  },
+  "Feminine-curls--cowboy": {
+    "label": "Feminine \u00b7 Curls + cowboy",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-curls-covered-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-cowboy-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending. Review: Coverage and attachment corrected, but this reads as broad sculpted waves rather than a sufficiently distinct curly style. Further artistic revision required before catalogue acceptance. Fit reviewed. Crown reads as a simplified dress-hat form; cowboy crease and brim character need further refinement before catalogue acceptance.",
+    "fit": true
+  },
+  "Feminine-curls--headband": {
+    "label": "Feminine \u00b7 Curls + headband",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-curls-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-headband-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending. Review: Coverage and attachment corrected, but this reads as broad sculpted waves rather than a sufficiently distinct curly style. Further artistic revision required before catalogue acceptance.",
+    "fit": true
+  },
+  "Feminine-curls--ears": {
+    "label": "Feminine \u00b7 Curls + ears",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-curls-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-ears-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending. Review: Coverage and attachment corrected, but this reads as broad sculpted waves rather than a sufficiently distinct curly style. Further artistic revision required before catalogue acceptance.",
+    "fit": true
+  },
+  "Feminine-curls--pashmina": {
+    "label": "Feminine \u00b7 Curls + pashmina",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-curls-pashmina-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-pashmina-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending. Review: Coverage and attachment corrected, but this reads as broad sculpted waves rather than a sufficiently distinct curly style. Further artistic revision required before catalogue acceptance. Continuous coverage and hair clipping repaired. The silhouette still reads more like a hood/cape than soft folded fabric. Further fold refinement required before catalogue acceptance.",
+    "fit": true
+  },
+  "Feminine-side-sweep--cap": {
+    "label": "Feminine \u00b7 Side sweep + cap",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-side-sweep-covered-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "../224/components/Feminine-cap-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending.",
+    "fit": true
+  },
+  "Feminine-side-sweep--beanie": {
+    "label": "Feminine \u00b7 Side sweep + beanie",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-side-sweep-covered-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-beanie-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending.",
+    "fit": true
+  },
+  "Feminine-side-sweep--bucket": {
+    "label": "Feminine \u00b7 Side sweep + bucket",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-side-sweep-covered-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-bucket-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending. Review: Fit reviewed. Crown and brim still look rather rigid; fabric character needs further refinement before catalogue acceptance.",
+    "fit": true
+  },
+  "Feminine-side-sweep--cowboy": {
+    "label": "Feminine \u00b7 Side sweep + cowboy",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-side-sweep-covered-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-cowboy-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending. Review: Fit reviewed. Crown reads as a simplified dress-hat form; cowboy crease and brim character need further refinement before catalogue acceptance.",
+    "fit": true
+  },
+  "Feminine-side-sweep--headband": {
+    "label": "Feminine \u00b7 Side sweep + headband",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-side-sweep-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-headband-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending.",
+    "fit": true
+  },
+  "Feminine-side-sweep--ears": {
+    "label": "Feminine \u00b7 Side sweep + ears",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-side-sweep-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-ears-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending.",
+    "fit": true
+  },
+  "Feminine-side-sweep--pashmina": {
+    "label": "Feminine \u00b7 Side sweep + pashmina",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-side-sweep-pashmina-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-pashmina-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending. Review: Continuous coverage and hair clipping repaired. The silhouette still reads more like a hood/cape than soft folded fabric. Further fold refinement required before catalogue acceptance.",
+    "fit": true
+  },
+  "Feminine-space-buns--cap": {
+    "label": "Feminine \u00b7 Space buns + cap",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-space-buns-covered-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "../224/components/Feminine-cap-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Low gathered buns. Owner acceptance and native-app qualification pending.",
+    "fit": true
+  },
+  "Feminine-space-buns--beanie": {
+    "label": "Feminine \u00b7 Space buns + beanie",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-space-buns-covered-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-beanie-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Low gathered buns. Owner acceptance and native-app qualification pending.",
+    "fit": true
+  },
+  "Feminine-space-buns--bucket": {
+    "label": "Feminine \u00b7 Space buns + bucket",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-space-buns-covered-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-bucket-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Low gathered buns. Owner acceptance and native-app qualification pending. Review: Fit reviewed. Crown and brim still look rather rigid; fabric character needs further refinement before catalogue acceptance.",
+    "fit": true
+  },
+  "Feminine-space-buns--cowboy": {
+    "label": "Feminine \u00b7 Space buns + cowboy",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-space-buns-covered-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-cowboy-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Low gathered buns. Owner acceptance and native-app qualification pending. Review: Fit reviewed. Crown reads as a simplified dress-hat form; cowboy crease and brim character need further refinement before catalogue acceptance.",
+    "fit": true
+  },
+  "Feminine-space-buns--headband": {
+    "label": "Feminine \u00b7 Space buns + headband",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-space-buns-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-headband-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Low gathered buns. Owner acceptance and native-app qualification pending.",
+    "fit": true
+  },
+  "Feminine-space-buns--ears": {
+    "label": "Feminine \u00b7 Space buns + ears",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-space-buns-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-ears-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Low gathered buns. Owner acceptance and native-app qualification pending.",
+    "fit": true
+  },
+  "Feminine-space-buns--pashmina": {
+    "label": "Feminine \u00b7 Space buns + pashmina",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-space-buns-pashmina-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-pashmina-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Low gathered buns. Owner acceptance and native-app qualification pending. Review: Continuous coverage and hair clipping repaired. The silhouette still reads more like a hood/cape than soft folded fabric. Further fold refinement required before catalogue acceptance.",
+    "fit": true
+  },
+  "Feminine-straight--cap": {
+    "label": "Feminine \u00b7 Straight + cap",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-straight-covered-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "../224/components/Feminine-cap-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending.",
+    "fit": true
+  },
+  "Feminine-straight--beanie": {
+    "label": "Feminine \u00b7 Straight + beanie",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-straight-covered-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-beanie-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending.",
+    "fit": true
+  },
+  "Feminine-straight--bucket": {
+    "label": "Feminine \u00b7 Straight + bucket",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-straight-covered-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-bucket-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending. Review: Fit reviewed. Crown and brim still look rather rigid; fabric character needs further refinement before catalogue acceptance.",
+    "fit": true
+  },
+  "Feminine-straight--cowboy": {
+    "label": "Feminine \u00b7 Straight + cowboy",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-straight-covered-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-cowboy-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending. Review: Fit reviewed. Crown reads as a simplified dress-hat form; cowboy crease and brim character need further refinement before catalogue acceptance.",
+    "fit": true
+  },
+  "Feminine-straight--headband": {
+    "label": "Feminine \u00b7 Straight + headband",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-straight-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-headband-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending.",
+    "fit": true
+  },
+  "Feminine-straight--ears": {
+    "label": "Feminine \u00b7 Straight + ears",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-straight-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-ears-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending.",
+    "fit": true
+  },
+  "Feminine-straight--pashmina": {
+    "label": "Feminine \u00b7 Straight + pashmina",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-straight-pashmina-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-pashmina-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending. Review: Continuous coverage and hair clipping repaired. The silhouette still reads more like a hood/cape than soft folded fabric. Further fold refinement required before catalogue acceptance.",
+    "fit": true
+  },
+  "Feminine-twin-braids--cap": {
+    "label": "Feminine \u00b7 Twin braids + cap",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-twin-braids-covered-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "../224/components/Feminine-cap-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending.",
+    "fit": true
+  },
+  "Feminine-twin-braids--beanie": {
+    "label": "Feminine \u00b7 Twin braids + beanie",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-twin-braids-covered-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-beanie-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending.",
+    "fit": true
+  },
+  "Feminine-twin-braids--bucket": {
+    "label": "Feminine \u00b7 Twin braids + bucket",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-twin-braids-covered-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-bucket-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending. Review: Fit reviewed. Crown and brim still look rather rigid; fabric character needs further refinement before catalogue acceptance.",
+    "fit": true
+  },
+  "Feminine-twin-braids--cowboy": {
+    "label": "Feminine \u00b7 Twin braids + cowboy",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-twin-braids-covered-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-cowboy-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending. Review: Fit reviewed. Crown reads as a simplified dress-hat form; cowboy crease and brim character need further refinement before catalogue acceptance.",
+    "fit": true
+  },
+  "Feminine-twin-braids--headband": {
+    "label": "Feminine \u00b7 Twin braids + headband",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-twin-braids-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-headband-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending.",
+    "fit": true
+  },
+  "Feminine-twin-braids--ears": {
+    "label": "Feminine \u00b7 Twin braids + ears",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-twin-braids-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-ears-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending.",
+    "fit": true
+  },
+  "Feminine-twin-braids--pashmina": {
+    "label": "Feminine \u00b7 Twin braids + pashmina",
+    "components": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "bottom": "../224/components/Feminine-uncovered-bottom.glb",
+      "eyes": "../224/components/Feminine-uncovered-eyes.glb",
+      "hair": "components/Feminine-twin-braids-pashmina-hair.glb",
+      "mouth": "../224/components/Feminine-uncovered-mouth.glb",
+      "top": "../224/components/Feminine-uncovered-top.glb",
+      "headgear": "components/Feminine-pashmina-headgear.glb"
+    },
+    "build": "Feminine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending. Review: Continuous coverage and hair clipping repaired. The silhouette still reads more like a hood/cape than soft folded fabric. Further fold refinement required before catalogue acceptance.",
+    "fit": true
+  },
+  "Masculine-afro--cap": {
+    "label": "Masculine \u00b7 Afro + cap",
+    "components": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "bottom": "../224/components/Masculine-taper-bottom.glb",
+      "eyes": "../224/components/Masculine-taper-eyes.glb",
+      "groom": "../224/components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-afro-cap-hair.glb",
+      "mouth": "../224/components/Masculine-taper-mouth.glb",
+      "top": "../224/components/Masculine-taper-top.glb",
+      "headgear": "../224/components/Masculine-details-headgear.glb"
+    },
+    "build": "Masculine",
+    "note": "Static authored fit. Uncovered hair remains separate. Compressed short curls. Owner acceptance and native-app qualification pending. Review: No exposed support skirt or crown penetration in the reviewed fits. Dense curl geometry is an art source, not a mobile derivative; close-up curl regularity remains an artistic refinement opportunity.",
+    "fit": true
+  },
+  "Masculine-afro--beanie": {
+    "label": "Masculine \u00b7 Afro + beanie",
+    "components": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "bottom": "../224/components/Masculine-taper-bottom.glb",
+      "eyes": "../224/components/Masculine-taper-eyes.glb",
+      "groom": "../224/components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-afro-beanie-hair.glb",
+      "mouth": "../224/components/Masculine-taper-mouth.glb",
+      "top": "../224/components/Masculine-taper-top.glb",
+      "headgear": "components/Feminine-beanie-headgear.glb"
+    },
+    "build": "Masculine",
+    "note": "Static authored fit. Uncovered hair remains separate. Compressed short curls. Owner acceptance and native-app qualification pending. Review: No exposed support skirt or crown penetration in the reviewed fits. Dense curl geometry is an art source, not a mobile derivative; close-up curl regularity remains an artistic refinement opportunity.",
+    "fit": true
+  },
+  "Masculine-afro--bucket": {
+    "label": "Masculine \u00b7 Afro + bucket",
+    "components": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "bottom": "../224/components/Masculine-taper-bottom.glb",
+      "eyes": "../224/components/Masculine-taper-eyes.glb",
+      "groom": "../224/components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-afro-bucket-hair.glb",
+      "mouth": "../224/components/Masculine-taper-mouth.glb",
+      "top": "../224/components/Masculine-taper-top.glb",
+      "headgear": "components/Feminine-bucket-headgear.glb"
+    },
+    "build": "Masculine",
+    "note": "Static authored fit. Uncovered hair remains separate. Compressed short curls. Owner acceptance and native-app qualification pending. Review: No exposed support skirt or crown penetration in the reviewed fits. Dense curl geometry is an art source, not a mobile derivative; close-up curl regularity remains an artistic refinement opportunity. Fit reviewed. Crown and brim still look rather rigid; fabric character needs further refinement before catalogue acceptance.",
+    "fit": true
+  },
+  "Masculine-afro--cowboy": {
+    "label": "Masculine \u00b7 Afro + cowboy",
+    "components": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "bottom": "../224/components/Masculine-taper-bottom.glb",
+      "eyes": "../224/components/Masculine-taper-eyes.glb",
+      "groom": "../224/components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-afro-cowboy-hair.glb",
+      "mouth": "../224/components/Masculine-taper-mouth.glb",
+      "top": "../224/components/Masculine-taper-top.glb",
+      "headgear": "components/Feminine-cowboy-headgear.glb"
+    },
+    "build": "Masculine",
+    "note": "Static authored fit. Uncovered hair remains separate. Compressed short curls. Owner acceptance and native-app qualification pending. Review: No exposed support skirt or crown penetration in the reviewed fits. Dense curl geometry is an art source, not a mobile derivative; close-up curl regularity remains an artistic refinement opportunity. Fit reviewed. Crown reads as a simplified dress-hat form; cowboy crease and brim character need further refinement before catalogue acceptance.",
+    "fit": true
+  },
+  "Masculine-afro--headband": {
+    "label": "Masculine \u00b7 Afro + headband",
+    "components": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "bottom": "../224/components/Masculine-taper-bottom.glb",
+      "eyes": "../224/components/Masculine-taper-eyes.glb",
+      "groom": "../224/components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-afro-hair.glb",
+      "mouth": "../224/components/Masculine-taper-mouth.glb",
+      "top": "../224/components/Masculine-taper-top.glb",
+      "headgear": "components/Feminine-headband-headgear.glb"
+    },
+    "build": "Masculine",
+    "note": "Static authored fit. Uncovered hair remains separate. Compressed short curls. Owner acceptance and native-app qualification pending. Review: No exposed support skirt or crown penetration in the reviewed fits. Dense curl geometry is an art source, not a mobile derivative; close-up curl regularity remains an artistic refinement opportunity.",
+    "fit": true
+  },
+  "Masculine-afro--ears": {
+    "label": "Masculine \u00b7 Afro + ears",
+    "components": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "bottom": "../224/components/Masculine-taper-bottom.glb",
+      "eyes": "../224/components/Masculine-taper-eyes.glb",
+      "groom": "../224/components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-afro-hair.glb",
+      "mouth": "../224/components/Masculine-taper-mouth.glb",
+      "top": "../224/components/Masculine-taper-top.glb",
+      "headgear": "components/Feminine-ears-headgear.glb"
+    },
+    "build": "Masculine",
+    "note": "Static authored fit. Uncovered hair remains separate. Compressed short curls. Owner acceptance and native-app qualification pending. Review: No exposed support skirt or crown penetration in the reviewed fits. Dense curl geometry is an art source, not a mobile derivative; close-up curl regularity remains an artistic refinement opportunity.",
+    "fit": true
+  },
+  "Masculine-afro--pashmina": {
+    "label": "Masculine \u00b7 Afro + pashmina",
+    "components": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "bottom": "../224/components/Masculine-taper-bottom.glb",
+      "eyes": "../224/components/Masculine-taper-eyes.glb",
+      "groom": "../224/components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-afro-pashmina-hair.glb",
+      "mouth": "../224/components/Masculine-taper-mouth.glb",
+      "top": "../224/components/Masculine-taper-top.glb",
+      "headgear": "components/Feminine-pashmina-headgear.glb"
+    },
+    "build": "Masculine",
+    "note": "Static authored fit. Uncovered hair remains separate. Compressed short curls. Owner acceptance and native-app qualification pending. Review: No exposed support skirt or crown penetration in the reviewed fits. Dense curl geometry is an art source, not a mobile derivative; close-up curl regularity remains an artistic refinement opportunity. Continuous coverage and hair clipping repaired. The silhouette still reads more like a hood/cape than soft folded fabric. Further fold refinement required before catalogue acceptance.",
+    "fit": true
+  },
+  "Masculine-buzz--cap": {
+    "label": "Masculine \u00b7 Buzz + cap",
+    "components": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "bottom": "../224/components/Masculine-taper-bottom.glb",
+      "eyes": "../224/components/Masculine-taper-eyes.glb",
+      "groom": "../224/components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-buzz-covered-hair.glb",
+      "mouth": "../224/components/Masculine-taper-mouth.glb",
+      "top": "../224/components/Masculine-taper-top.glb",
+      "headgear": "../224/components/Masculine-details-headgear.glb"
+    },
+    "build": "Masculine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending.",
+    "fit": true
+  },
+  "Masculine-buzz--beanie": {
+    "label": "Masculine \u00b7 Buzz + beanie",
+    "components": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "bottom": "../224/components/Masculine-taper-bottom.glb",
+      "eyes": "../224/components/Masculine-taper-eyes.glb",
+      "groom": "../224/components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-buzz-covered-hair.glb",
+      "mouth": "../224/components/Masculine-taper-mouth.glb",
+      "top": "../224/components/Masculine-taper-top.glb",
+      "headgear": "components/Feminine-beanie-headgear.glb"
+    },
+    "build": "Masculine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending.",
+    "fit": true
+  },
+  "Masculine-buzz--bucket": {
+    "label": "Masculine \u00b7 Buzz + bucket",
+    "components": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "bottom": "../224/components/Masculine-taper-bottom.glb",
+      "eyes": "../224/components/Masculine-taper-eyes.glb",
+      "groom": "../224/components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-buzz-covered-hair.glb",
+      "mouth": "../224/components/Masculine-taper-mouth.glb",
+      "top": "../224/components/Masculine-taper-top.glb",
+      "headgear": "components/Feminine-bucket-headgear.glb"
+    },
+    "build": "Masculine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending. Review: Fit reviewed. Crown and brim still look rather rigid; fabric character needs further refinement before catalogue acceptance.",
+    "fit": true
+  },
+  "Masculine-buzz--cowboy": {
+    "label": "Masculine \u00b7 Buzz + cowboy",
+    "components": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "bottom": "../224/components/Masculine-taper-bottom.glb",
+      "eyes": "../224/components/Masculine-taper-eyes.glb",
+      "groom": "../224/components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-buzz-covered-hair.glb",
+      "mouth": "../224/components/Masculine-taper-mouth.glb",
+      "top": "../224/components/Masculine-taper-top.glb",
+      "headgear": "components/Feminine-cowboy-headgear.glb"
+    },
+    "build": "Masculine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending. Review: Fit reviewed. Crown reads as a simplified dress-hat form; cowboy crease and brim character need further refinement before catalogue acceptance.",
+    "fit": true
+  },
+  "Masculine-buzz--headband": {
+    "label": "Masculine \u00b7 Buzz + headband",
+    "components": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "bottom": "../224/components/Masculine-taper-bottom.glb",
+      "eyes": "../224/components/Masculine-taper-eyes.glb",
+      "groom": "../224/components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-buzz-hair.glb",
+      "mouth": "../224/components/Masculine-taper-mouth.glb",
+      "top": "../224/components/Masculine-taper-top.glb",
+      "headgear": "components/Feminine-headband-headgear.glb"
+    },
+    "build": "Masculine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending.",
+    "fit": true
+  },
+  "Masculine-buzz--ears": {
+    "label": "Masculine \u00b7 Buzz + ears",
+    "components": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "bottom": "../224/components/Masculine-taper-bottom.glb",
+      "eyes": "../224/components/Masculine-taper-eyes.glb",
+      "groom": "../224/components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-buzz-hair.glb",
+      "mouth": "../224/components/Masculine-taper-mouth.glb",
+      "top": "../224/components/Masculine-taper-top.glb",
+      "headgear": "components/Feminine-ears-headgear.glb"
+    },
+    "build": "Masculine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending.",
+    "fit": true
+  },
+  "Masculine-buzz--pashmina": {
+    "label": "Masculine \u00b7 Buzz + pashmina",
+    "components": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "bottom": "../224/components/Masculine-taper-bottom.glb",
+      "eyes": "../224/components/Masculine-taper-eyes.glb",
+      "groom": "../224/components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-buzz-pashmina-hair.glb",
+      "mouth": "../224/components/Masculine-taper-mouth.glb",
+      "top": "../224/components/Masculine-taper-top.glb",
+      "headgear": "components/Feminine-pashmina-headgear.glb"
+    },
+    "build": "Masculine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending. Review: Continuous coverage and hair clipping repaired. The silhouette still reads more like a hood/cape than soft folded fabric. Further fold refinement required before catalogue acceptance.",
+    "fit": true
+  },
+  "Masculine-curly-top--cap": {
+    "label": "Masculine \u00b7 Curly top + cap",
+    "components": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "bottom": "../224/components/Masculine-taper-bottom.glb",
+      "eyes": "../224/components/Masculine-taper-eyes.glb",
+      "groom": "../224/components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-curly-top-cap-hair.glb",
+      "mouth": "../224/components/Masculine-taper-mouth.glb",
+      "top": "../224/components/Masculine-taper-top.glb",
+      "headgear": "../224/components/Masculine-details-headgear.glb"
+    },
+    "build": "Masculine",
+    "note": "Static authored fit. Uncovered hair remains separate. Compressed short curls. Owner acceptance and native-app qualification pending. Review: Actual head-following taper and curl coverage repaired. Dense curl geometry needs a visually compared mobile derivative; no performance approval.",
+    "fit": true
+  },
+  "Masculine-curly-top--beanie": {
+    "label": "Masculine \u00b7 Curly top + beanie",
+    "components": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "bottom": "../224/components/Masculine-taper-bottom.glb",
+      "eyes": "../224/components/Masculine-taper-eyes.glb",
+      "groom": "../224/components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-curly-top-beanie-hair.glb",
+      "mouth": "../224/components/Masculine-taper-mouth.glb",
+      "top": "../224/components/Masculine-taper-top.glb",
+      "headgear": "components/Feminine-beanie-headgear.glb"
+    },
+    "build": "Masculine",
+    "note": "Static authored fit. Uncovered hair remains separate. Compressed short curls. Owner acceptance and native-app qualification pending. Review: Actual head-following taper and curl coverage repaired. Dense curl geometry needs a visually compared mobile derivative; no performance approval.",
+    "fit": true
+  },
+  "Masculine-curly-top--bucket": {
+    "label": "Masculine \u00b7 Curly top + bucket",
+    "components": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "bottom": "../224/components/Masculine-taper-bottom.glb",
+      "eyes": "../224/components/Masculine-taper-eyes.glb",
+      "groom": "../224/components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-curly-top-bucket-hair.glb",
+      "mouth": "../224/components/Masculine-taper-mouth.glb",
+      "top": "../224/components/Masculine-taper-top.glb",
+      "headgear": "components/Feminine-bucket-headgear.glb"
+    },
+    "build": "Masculine",
+    "note": "Static authored fit. Uncovered hair remains separate. Compressed short curls. Owner acceptance and native-app qualification pending. Review: Actual head-following taper and curl coverage repaired. Dense curl geometry needs a visually compared mobile derivative; no performance approval. Fit reviewed. Crown and brim still look rather rigid; fabric character needs further refinement before catalogue acceptance.",
+    "fit": true
+  },
+  "Masculine-curly-top--cowboy": {
+    "label": "Masculine \u00b7 Curly top + cowboy",
+    "components": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "bottom": "../224/components/Masculine-taper-bottom.glb",
+      "eyes": "../224/components/Masculine-taper-eyes.glb",
+      "groom": "../224/components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-curly-top-cowboy-hair.glb",
+      "mouth": "../224/components/Masculine-taper-mouth.glb",
+      "top": "../224/components/Masculine-taper-top.glb",
+      "headgear": "components/Feminine-cowboy-headgear.glb"
+    },
+    "build": "Masculine",
+    "note": "Static authored fit. Uncovered hair remains separate. Compressed short curls. Owner acceptance and native-app qualification pending. Review: Actual head-following taper and curl coverage repaired. Dense curl geometry needs a visually compared mobile derivative; no performance approval. Fit reviewed. Crown reads as a simplified dress-hat form; cowboy crease and brim character need further refinement before catalogue acceptance.",
+    "fit": true
+  },
+  "Masculine-curly-top--headband": {
+    "label": "Masculine \u00b7 Curly top + headband",
+    "components": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "bottom": "../224/components/Masculine-taper-bottom.glb",
+      "eyes": "../224/components/Masculine-taper-eyes.glb",
+      "groom": "../224/components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-curly-top-hair.glb",
+      "mouth": "../224/components/Masculine-taper-mouth.glb",
+      "top": "../224/components/Masculine-taper-top.glb",
+      "headgear": "components/Feminine-headband-headgear.glb"
+    },
+    "build": "Masculine",
+    "note": "Static authored fit. Uncovered hair remains separate. Compressed short curls. Owner acceptance and native-app qualification pending. Review: Actual head-following taper and curl coverage repaired. Dense curl geometry needs a visually compared mobile derivative; no performance approval.",
+    "fit": true
+  },
+  "Masculine-curly-top--ears": {
+    "label": "Masculine \u00b7 Curly top + ears",
+    "components": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "bottom": "../224/components/Masculine-taper-bottom.glb",
+      "eyes": "../224/components/Masculine-taper-eyes.glb",
+      "groom": "../224/components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-curly-top-hair.glb",
+      "mouth": "../224/components/Masculine-taper-mouth.glb",
+      "top": "../224/components/Masculine-taper-top.glb",
+      "headgear": "components/Feminine-ears-headgear.glb"
+    },
+    "build": "Masculine",
+    "note": "Static authored fit. Uncovered hair remains separate. Compressed short curls. Owner acceptance and native-app qualification pending. Review: Actual head-following taper and curl coverage repaired. Dense curl geometry needs a visually compared mobile derivative; no performance approval.",
+    "fit": true
+  },
+  "Masculine-curly-top--pashmina": {
+    "label": "Masculine \u00b7 Curly top + pashmina",
+    "components": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "bottom": "../224/components/Masculine-taper-bottom.glb",
+      "eyes": "../224/components/Masculine-taper-eyes.glb",
+      "groom": "../224/components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-curly-top-pashmina-hair.glb",
+      "mouth": "../224/components/Masculine-taper-mouth.glb",
+      "top": "../224/components/Masculine-taper-top.glb",
+      "headgear": "components/Feminine-pashmina-headgear.glb"
+    },
+    "build": "Masculine",
+    "note": "Static authored fit. Uncovered hair remains separate. Compressed short curls. Owner acceptance and native-app qualification pending. Review: Actual head-following taper and curl coverage repaired. Dense curl geometry needs a visually compared mobile derivative; no performance approval. Continuous coverage and hair clipping repaired. The silhouette still reads more like a hood/cape than soft folded fabric. Further fold refinement required before catalogue acceptance.",
+    "fit": true
+  },
+  "Masculine-flow--cap": {
+    "label": "Masculine \u00b7 Flow + cap",
+    "components": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "bottom": "../224/components/Masculine-taper-bottom.glb",
+      "eyes": "../224/components/Masculine-taper-eyes.glb",
+      "groom": "../224/components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-flow-covered-hair.glb",
+      "mouth": "../224/components/Masculine-taper-mouth.glb",
+      "top": "../224/components/Masculine-taper-top.glb",
+      "headgear": "../224/components/Masculine-details-headgear.glb"
+    },
+    "build": "Masculine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending. Review: Surface intersection/checkerboard removed. The silhouette remains close to the feminine short bob; needs a more distinct masculine flow direction before catalogue acceptance.",
+    "fit": true
+  },
+  "Masculine-flow--beanie": {
+    "label": "Masculine \u00b7 Flow + beanie",
+    "components": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "bottom": "../224/components/Masculine-taper-bottom.glb",
+      "eyes": "../224/components/Masculine-taper-eyes.glb",
+      "groom": "../224/components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-flow-covered-hair.glb",
+      "mouth": "../224/components/Masculine-taper-mouth.glb",
+      "top": "../224/components/Masculine-taper-top.glb",
+      "headgear": "components/Feminine-beanie-headgear.glb"
+    },
+    "build": "Masculine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending. Review: Surface intersection/checkerboard removed. The silhouette remains close to the feminine short bob; needs a more distinct masculine flow direction before catalogue acceptance.",
+    "fit": true
+  },
+  "Masculine-flow--bucket": {
+    "label": "Masculine \u00b7 Flow + bucket",
+    "components": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "bottom": "../224/components/Masculine-taper-bottom.glb",
+      "eyes": "../224/components/Masculine-taper-eyes.glb",
+      "groom": "../224/components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-flow-covered-hair.glb",
+      "mouth": "../224/components/Masculine-taper-mouth.glb",
+      "top": "../224/components/Masculine-taper-top.glb",
+      "headgear": "components/Feminine-bucket-headgear.glb"
+    },
+    "build": "Masculine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending. Review: Surface intersection/checkerboard removed. The silhouette remains close to the feminine short bob; needs a more distinct masculine flow direction before catalogue acceptance. Fit reviewed. Crown and brim still look rather rigid; fabric character needs further refinement before catalogue acceptance.",
+    "fit": true
+  },
+  "Masculine-flow--cowboy": {
+    "label": "Masculine \u00b7 Flow + cowboy",
+    "components": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "bottom": "../224/components/Masculine-taper-bottom.glb",
+      "eyes": "../224/components/Masculine-taper-eyes.glb",
+      "groom": "../224/components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-flow-covered-hair.glb",
+      "mouth": "../224/components/Masculine-taper-mouth.glb",
+      "top": "../224/components/Masculine-taper-top.glb",
+      "headgear": "components/Feminine-cowboy-headgear.glb"
+    },
+    "build": "Masculine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending. Review: Surface intersection/checkerboard removed. The silhouette remains close to the feminine short bob; needs a more distinct masculine flow direction before catalogue acceptance. Fit reviewed. Crown reads as a simplified dress-hat form; cowboy crease and brim character need further refinement before catalogue acceptance.",
+    "fit": true
+  },
+  "Masculine-flow--headband": {
+    "label": "Masculine \u00b7 Flow + headband",
+    "components": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "bottom": "../224/components/Masculine-taper-bottom.glb",
+      "eyes": "../224/components/Masculine-taper-eyes.glb",
+      "groom": "../224/components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-flow-hair.glb",
+      "mouth": "../224/components/Masculine-taper-mouth.glb",
+      "top": "../224/components/Masculine-taper-top.glb",
+      "headgear": "components/Feminine-headband-headgear.glb"
+    },
+    "build": "Masculine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending. Review: Surface intersection/checkerboard removed. The silhouette remains close to the feminine short bob; needs a more distinct masculine flow direction before catalogue acceptance.",
+    "fit": true
+  },
+  "Masculine-flow--ears": {
+    "label": "Masculine \u00b7 Flow + ears",
+    "components": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "bottom": "../224/components/Masculine-taper-bottom.glb",
+      "eyes": "../224/components/Masculine-taper-eyes.glb",
+      "groom": "../224/components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-flow-hair.glb",
+      "mouth": "../224/components/Masculine-taper-mouth.glb",
+      "top": "../224/components/Masculine-taper-top.glb",
+      "headgear": "components/Feminine-ears-headgear.glb"
+    },
+    "build": "Masculine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending. Review: Surface intersection/checkerboard removed. The silhouette remains close to the feminine short bob; needs a more distinct masculine flow direction before catalogue acceptance.",
+    "fit": true
+  },
+  "Masculine-flow--pashmina": {
+    "label": "Masculine \u00b7 Flow + pashmina",
+    "components": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "bottom": "../224/components/Masculine-taper-bottom.glb",
+      "eyes": "../224/components/Masculine-taper-eyes.glb",
+      "groom": "../224/components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-flow-pashmina-hair.glb",
+      "mouth": "../224/components/Masculine-taper-mouth.glb",
+      "top": "../224/components/Masculine-taper-top.glb",
+      "headgear": "components/Feminine-pashmina-headgear.glb"
+    },
+    "build": "Masculine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending. Review: Surface intersection/checkerboard removed. The silhouette remains close to the feminine short bob; needs a more distinct masculine flow direction before catalogue acceptance. Continuous coverage and hair clipping repaired. The silhouette still reads more like a hood/cape than soft folded fabric. Further fold refinement required before catalogue acceptance.",
+    "fit": true
+  },
+  "Masculine-locs--cap": {
+    "label": "Masculine \u00b7 Locs + cap",
+    "components": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "bottom": "../224/components/Masculine-taper-bottom.glb",
+      "eyes": "../224/components/Masculine-taper-eyes.glb",
+      "groom": "../224/components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-locs-covered-hair.glb",
+      "mouth": "../224/components/Masculine-taper-mouth.glb",
+      "top": "../224/components/Masculine-taper-top.glb",
+      "headgear": "../224/components/Masculine-details-headgear.glb"
+    },
+    "build": "Masculine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending. Review: Ends and root coverage repaired. Locks are still too regular and parallel, especially from the side and crown. Further artistic revision required before catalogue acceptance.",
+    "fit": true
+  },
+  "Masculine-locs--beanie": {
+    "label": "Masculine \u00b7 Locs + beanie",
+    "components": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "bottom": "../224/components/Masculine-taper-bottom.glb",
+      "eyes": "../224/components/Masculine-taper-eyes.glb",
+      "groom": "../224/components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-locs-covered-hair.glb",
+      "mouth": "../224/components/Masculine-taper-mouth.glb",
+      "top": "../224/components/Masculine-taper-top.glb",
+      "headgear": "components/Feminine-beanie-headgear.glb"
+    },
+    "build": "Masculine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending. Review: Ends and root coverage repaired. Locks are still too regular and parallel, especially from the side and crown. Further artistic revision required before catalogue acceptance.",
+    "fit": true
+  },
+  "Masculine-locs--bucket": {
+    "label": "Masculine \u00b7 Locs + bucket",
+    "components": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "bottom": "../224/components/Masculine-taper-bottom.glb",
+      "eyes": "../224/components/Masculine-taper-eyes.glb",
+      "groom": "../224/components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-locs-covered-hair.glb",
+      "mouth": "../224/components/Masculine-taper-mouth.glb",
+      "top": "../224/components/Masculine-taper-top.glb",
+      "headgear": "components/Feminine-bucket-headgear.glb"
+    },
+    "build": "Masculine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending. Review: Ends and root coverage repaired. Locks are still too regular and parallel, especially from the side and crown. Further artistic revision required before catalogue acceptance. Fit reviewed. Crown and brim still look rather rigid; fabric character needs further refinement before catalogue acceptance.",
+    "fit": true
+  },
+  "Masculine-locs--cowboy": {
+    "label": "Masculine \u00b7 Locs + cowboy",
+    "components": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "bottom": "../224/components/Masculine-taper-bottom.glb",
+      "eyes": "../224/components/Masculine-taper-eyes.glb",
+      "groom": "../224/components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-locs-covered-hair.glb",
+      "mouth": "../224/components/Masculine-taper-mouth.glb",
+      "top": "../224/components/Masculine-taper-top.glb",
+      "headgear": "components/Feminine-cowboy-headgear.glb"
+    },
+    "build": "Masculine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending. Review: Ends and root coverage repaired. Locks are still too regular and parallel, especially from the side and crown. Further artistic revision required before catalogue acceptance. Fit reviewed. Crown reads as a simplified dress-hat form; cowboy crease and brim character need further refinement before catalogue acceptance.",
+    "fit": true
+  },
+  "Masculine-locs--headband": {
+    "label": "Masculine \u00b7 Locs + headband",
+    "components": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "bottom": "../224/components/Masculine-taper-bottom.glb",
+      "eyes": "../224/components/Masculine-taper-eyes.glb",
+      "groom": "../224/components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-locs-hair.glb",
+      "mouth": "../224/components/Masculine-taper-mouth.glb",
+      "top": "../224/components/Masculine-taper-top.glb",
+      "headgear": "components/Feminine-headband-headgear.glb"
+    },
+    "build": "Masculine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending. Review: Ends and root coverage repaired. Locks are still too regular and parallel, especially from the side and crown. Further artistic revision required before catalogue acceptance.",
+    "fit": true
+  },
+  "Masculine-locs--ears": {
+    "label": "Masculine \u00b7 Locs + ears",
+    "components": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "bottom": "../224/components/Masculine-taper-bottom.glb",
+      "eyes": "../224/components/Masculine-taper-eyes.glb",
+      "groom": "../224/components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-locs-hair.glb",
+      "mouth": "../224/components/Masculine-taper-mouth.glb",
+      "top": "../224/components/Masculine-taper-top.glb",
+      "headgear": "components/Feminine-ears-headgear.glb"
+    },
+    "build": "Masculine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending. Review: Ends and root coverage repaired. Locks are still too regular and parallel, especially from the side and crown. Further artistic revision required before catalogue acceptance.",
+    "fit": true
+  },
+  "Masculine-locs--pashmina": {
+    "label": "Masculine \u00b7 Locs + pashmina",
+    "components": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "bottom": "../224/components/Masculine-taper-bottom.glb",
+      "eyes": "../224/components/Masculine-taper-eyes.glb",
+      "groom": "../224/components/Masculine-taper-groom.glb",
+      "hair": "components/Masculine-locs-pashmina-hair.glb",
+      "mouth": "../224/components/Masculine-taper-mouth.glb",
+      "top": "../224/components/Masculine-taper-top.glb",
+      "headgear": "components/Feminine-pashmina-headgear.glb"
+    },
+    "build": "Masculine",
+    "note": "Static authored fit. Uncovered hair remains separate. Gradually seated crown; free lengths below1.78 retained. Owner acceptance and native-app qualification pending. Review: Ends and root coverage repaired. Locks are still too regular and parallel, especially from the side and crown. Further artistic revision required before catalogue acceptance. Continuous coverage and hair clipping repaired. The silhouette still reads more like a hood/cape than soft folded fabric. Further fold refinement required before catalogue acceptance.",
+    "fit": true
+  }
+}

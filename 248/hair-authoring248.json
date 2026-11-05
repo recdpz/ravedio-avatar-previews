@@ -1,0 +1,229 @@
+{
+  "Feminine-ponytail": {
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-ponytail-covered248.blend",
+    "component": "components/Feminine-ponytail-covered248-hair.glb",
+    "family": "gathered",
+    "style": "ponytail",
+    "method": "Hood-specific low gathered pony: whole sculpted locks follow one smooth descent beneath the rear edge; front locks and pulled-back crown retained.",
+    "sections": [],
+    "uncovered_unchanged": true
+  },
+  "Feminine-straight": {
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-straight-covered248.blend",
+    "component": "components/Feminine-straight-covered248-hair.glb",
+    "family": "long",
+    "style": "straight",
+    "method": "Retained concealed crown with newly authored continuous rear and face exit guides; visible widths/relief preserved by sculpted sections, never individual cloth projection.",
+    "sections": [
+      {
+        "method": "Fresh natural lower-edge guides",
+        "rear_locks": 9,
+        "front_locks": 2,
+        "concealed_crown_boundary_z": 1.78
+      }
+    ],
+    "uncovered_unchanged": true
+  },
+  "Feminine-curls": {
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-curls-covered248.blend",
+    "component": "components/Feminine-curls-covered248-hair.glb",
+    "family": "volume",
+    "style": "curls",
+    "method": "Retained concealed crown with newly authored continuous rear and face exit guides; visible widths/relief preserved by sculpted sections, never individual cloth projection.",
+    "sections": [
+      {
+        "method": "Fresh natural lower-edge guides",
+        "rear_locks": 9,
+        "front_locks": 2,
+        "concealed_crown_boundary_z": 1.78
+      }
+    ],
+    "uncovered_unchanged": true
+  },
+  "Feminine-box-braids": {
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-box-braids-covered248.blend",
+    "component": "components/Feminine-box-braids-covered248-hair.glb",
+    "family": "volume",
+    "style": "box-braids",
+    "method": "Retained concealed crown with newly authored continuous rear and face exit guides; visible widths/relief preserved by sculpted sections, never individual cloth projection.",
+    "sections": [
+      {
+        "method": "Fresh natural lower-edge guides",
+        "rear_locks": 12,
+        "front_locks": 4,
+        "concealed_crown_boundary_z": 1.78
+      }
+    ],
+    "uncovered_unchanged": true
+  },
+  "Masculine-taper": {
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-taper-covered248.blend",
+    "component": "components/Masculine-taper-covered248-hair.glb",
+    "family": "compact",
+    "style": "taper",
+    "method": "Existing compact arrangement with clearance refreshed against the actual248 cloth only in concealed crown/nape regions. Exposed front and free lengths retained.",
+    "sections": [
+      {
+        "concealed_vertices": 0,
+        "exposed_front_preserved": true
+      }
+    ],
+    "uncovered_unchanged": true
+  },
+  "Feminine-bob": {
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-bob-covered248.blend",
+    "component": "components/Feminine-bob-covered248-hair.glb",
+    "family": "compact",
+    "style": "bob",
+    "method": "Existing compact arrangement with clearance refreshed against the actual248 cloth only in concealed crown/nape regions. Exposed front and free lengths retained.",
+    "sections": [
+      {
+        "concealed_vertices": 2820,
+        "exposed_front_preserved": true
+      }
+    ],
+    "uncovered_unchanged": true
+  },
+  "Feminine-side-sweep": {
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-side-sweep-covered248.blend",
+    "component": "components/Feminine-side-sweep-covered248-hair.glb",
+    "family": "long",
+    "style": "side-sweep",
+    "method": "Retained concealed crown with newly authored continuous rear and face exit guides; visible widths/relief preserved by sculpted sections, never individual cloth projection.",
+    "sections": [
+      {
+        "method": "Fresh natural lower-edge guides",
+        "rear_locks": 9,
+        "front_locks": 2,
+        "concealed_crown_boundary_z": 1.78
+      }
+    ],
+    "uncovered_unchanged": true
+  },
+  "Feminine-space-buns": {
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-space-buns-covered248.blend",
+    "component": "components/Feminine-space-buns-covered248-hair.glb",
+    "family": "compact",
+    "style": "space-buns",
+    "method": "Existing compact arrangement with clearance refreshed against the actual248 cloth only in concealed crown/nape regions. Exposed front and free lengths retained.",
+    "sections": [
+      {
+        "concealed_vertices": 0,
+        "exposed_front_preserved": true
+      }
+    ],
+    "uncovered_unchanged": true
+  },
+  "Feminine-twin-braids": {
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Feminine-twin-braids-covered248.blend",
+    "component": "components/Feminine-twin-braids-covered248-hair.glb",
+    "family": "compact",
+    "style": "twin-braids",
+    "method": "Existing compact arrangement with clearance refreshed against the actual248 cloth only in concealed crown/nape regions. Exposed front and free lengths retained.",
+    "sections": [
+      {
+        "concealed_vertices": 0,
+        "exposed_front_preserved": true
+      }
+    ],
+    "uncovered_unchanged": true
+  },
+  "Masculine-sidepart": {
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-sidepart-covered248.blend",
+    "component": "components/Masculine-sidepart-covered248-hair.glb",
+    "family": "compact",
+    "style": "sidepart",
+    "method": "Existing compact arrangement with clearance refreshed against the actual248 cloth only in concealed crown/nape regions. Exposed front and free lengths retained.",
+    "sections": [
+      {
+        "concealed_vertices": 0,
+        "exposed_front_preserved": true
+      }
+    ],
+    "uncovered_unchanged": true
+  },
+  "Masculine-buzz": {
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-buzz-covered248.blend",
+    "component": "components/Masculine-buzz-covered248-hair.glb",
+    "family": "compact",
+    "style": "buzz",
+    "method": "Existing compact arrangement with clearance refreshed against the actual248 cloth only in concealed crown/nape regions. Exposed front and free lengths retained.",
+    "sections": [
+      {
+        "concealed_vertices": 0,
+        "exposed_front_preserved": true
+      }
+    ],
+    "uncovered_unchanged": true
+  },
+  "Masculine-curly-top": {
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-curly-top-covered248.blend",
+    "component": "components/Masculine-curly-top-covered248-hair.glb",
+    "family": "compact",
+    "style": "curly-top",
+    "method": "Existing compact arrangement with clearance refreshed against the actual248 cloth only in concealed crown/nape regions. Exposed front and free lengths retained.",
+    "sections": [
+      {
+        "concealed_vertices": 0,
+        "exposed_front_preserved": true
+      }
+    ],
+    "uncovered_unchanged": true
+  },
+  "Masculine-afro": {
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-afro-covered248.blend",
+    "component": "components/Masculine-afro-covered248-hair.glb",
+    "family": "compact",
+    "style": "afro",
+    "method": "Existing compact arrangement with clearance refreshed against the actual248 cloth only in concealed crown/nape regions. Exposed front and free lengths retained.",
+    "sections": [
+      {
+        "concealed_vertices": 0,
+        "exposed_front_preserved": true
+      }
+    ],
+    "uncovered_unchanged": true
+  },
+  "Masculine-flow": {
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-flow-covered248.blend",
+    "component": "components/Masculine-flow-covered248-hair.glb",
+    "family": "compact",
+    "style": "flow",
+    "method": "Existing compact arrangement with clearance refreshed against the actual248 cloth only in concealed crown/nape regions. Exposed front and free lengths retained.",
+    "sections": [
+      {
+        "concealed_vertices": 0,
+        "exposed_front_preserved": true
+      }
+    ],
+    "uncovered_unchanged": true
+  },
+  "Masculine-locs": {
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-locs-covered248.blend",
+    "component": "components/Masculine-locs-covered248-hair.glb",
+    "family": "compact",
+    "style": "locs",
+    "method": "Existing compact arrangement with clearance refreshed against the actual248 cloth only in concealed crown/nape regions. Exposed front and free lengths retained.",
+    "sections": [
+      {
+        "concealed_vertices": 0,
+        "exposed_front_preserved": true
+      }
+    ],
+    "uncovered_unchanged": true
+  },
+  "Masculine-middle-part": {
+    "source": "E:\\Ravedio-Avatar\\catalogue248\\sources\\Masculine-middle-part-covered248.blend",
+    "component": "components/Masculine-middle-part-covered248-hair.glb",
+    "family": "compact",
+    "style": "middle-part",
+    "method": "Existing compact arrangement with clearance refreshed against the actual248 cloth only in concealed crown/nape regions. Exposed front and free lengths retained.",
+    "sections": [
+      {
+        "concealed_vertices": 0,
+        "exposed_front_preserved": true
+      }
+    ],
+    "uncovered_unchanged": true
+  }
+}

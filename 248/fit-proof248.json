@@ -1,0 +1,876 @@
+{
+  "Feminine-open-gathered": {
+    "final_glbs_reopened": true,
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "protected_exact": true,
+    "inputs": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "top": "../215/Feminine-open-top.glb",
+      "bottom": "../216/Feminine-skirt-bottom.glb",
+      "mouth": "../209/Feminine-mouth-line.glb",
+      "eyes": "../181/Feminine-eyes-original.glb",
+      "hair": "components/Feminine-ponytail-covered248-hair.glb",
+      "headgear": "components/Feminine-open-gathered-pashmina248-headgear.glb",
+      "eyelashes": "../234/components/Feminine-original-lashes.glb"
+    }
+  },
+  "Feminine-open-long": {
+    "final_glbs_reopened": true,
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "protected_exact": true,
+    "inputs": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "top": "../215/Feminine-open-top.glb",
+      "bottom": "../216/Feminine-skirt-bottom.glb",
+      "mouth": "../209/Feminine-mouth-line.glb",
+      "eyes": "../181/Feminine-eyes-original.glb",
+      "hair": "components/Feminine-straight-covered248-hair.glb",
+      "headgear": "components/Feminine-open-long-pashmina248-headgear.glb",
+      "eyelashes": "../234/components/Feminine-original-lashes.glb"
+    }
+  },
+  "Feminine-open-volume": {
+    "final_glbs_reopened": true,
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "protected_exact": true,
+    "inputs": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "top": "../215/Feminine-open-top.glb",
+      "bottom": "../216/Feminine-skirt-bottom.glb",
+      "mouth": "../209/Feminine-mouth-line.glb",
+      "eyes": "../181/Feminine-eyes-original.glb",
+      "hair": "components/Feminine-curls-covered248-hair.glb",
+      "headgear": "components/Feminine-open-volume-pashmina248-headgear.glb",
+      "eyelashes": "../234/components/Feminine-original-lashes.glb"
+    }
+  },
+  "Masculine-tank-compact": {
+    "final_glbs_reopened": true,
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "protected_exact": true,
+    "inputs": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "top": "../208/Masculine-tank-top.glb",
+      "bottom": "../215/Masculine-shorts-bottom.glb",
+      "mouth": "../209/Masculine-mouth-line.glb",
+      "eyes": "../181/Masculine-eyes-original.glb",
+      "hair": "components/Masculine-taper-covered248-hair.glb",
+      "headgear": "components/Masculine-tank-compact-pashmina248-headgear.glb",
+      "groom": "../235/components/Masculine-groom-stubble.glb"
+    }
+  },
+  "Feminine-open-compact": {
+    "final_glbs_reopened": true,
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "protected_exact": true,
+    "inputs": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "top": "../215/Feminine-open-top.glb",
+      "bottom": "../216/Feminine-skirt-bottom.glb",
+      "mouth": "../209/Feminine-mouth-line.glb",
+      "eyes": "../181/Feminine-eyes-original.glb",
+      "hair": "components/Feminine-bob-covered248-hair.glb",
+      "headgear": "components/Feminine-open-compact-pashmina248-headgear.glb",
+      "eyelashes": "../234/components/Feminine-original-lashes.glb"
+    }
+  },
+  "Feminine-bandeau-compact": {
+    "final_glbs_reopened": true,
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "protected_exact": true,
+    "inputs": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "top": "../213/Feminine-bandeau-top.glb",
+      "bottom": "../216/Feminine-skirt-bottom.glb",
+      "mouth": "../209/Feminine-mouth-line.glb",
+      "eyes": "../181/Feminine-eyes-original.glb",
+      "hair": "components/Feminine-bob-covered248-hair.glb",
+      "headgear": "components/Feminine-bandeau-compact-pashmina248-headgear.glb",
+      "eyelashes": "../234/components/Feminine-original-lashes.glb"
+    }
+  },
+  "Feminine-triangle-compact": {
+    "final_glbs_reopened": true,
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "protected_exact": true,
+    "inputs": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "top": "../214/Feminine-triangle-top.glb",
+      "bottom": "../216/Feminine-skirt-bottom.glb",
+      "mouth": "../209/Feminine-mouth-line.glb",
+      "eyes": "../181/Feminine-eyes-original.glb",
+      "hair": "components/Feminine-bob-covered248-hair.glb",
+      "headgear": "components/Feminine-triangle-compact-pashmina248-headgear.glb",
+      "eyelashes": "../234/components/Feminine-original-lashes.glb"
+    }
+  },
+  "Feminine-strappy-compact": {
+    "final_glbs_reopened": true,
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "protected_exact": true,
+    "inputs": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "top": "../213/Feminine-strappy-top.glb",
+      "bottom": "../216/Feminine-skirt-bottom.glb",
+      "mouth": "../209/Feminine-mouth-line.glb",
+      "eyes": "../181/Feminine-eyes-original.glb",
+      "hair": "components/Feminine-bob-covered248-hair.glb",
+      "headgear": "components/Feminine-strappy-compact-pashmina248-headgear.glb",
+      "eyelashes": "../234/components/Feminine-original-lashes.glb"
+    }
+  },
+  "Feminine-tshirt-compact": {
+    "final_glbs_reopened": true,
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "protected_exact": true,
+    "inputs": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "top": "../214/Feminine-tshirt-top.glb",
+      "bottom": "../216/Feminine-skirt-bottom.glb",
+      "mouth": "../209/Feminine-mouth-line.glb",
+      "eyes": "../181/Feminine-eyes-original.glb",
+      "hair": "components/Feminine-bob-covered248-hair.glb",
+      "headgear": "components/Feminine-tshirt-compact-pashmina248-headgear.glb",
+      "eyelashes": "../234/components/Feminine-original-lashes.glb"
+    }
+  },
+  "Feminine-jersey-compact": {
+    "final_glbs_reopened": true,
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "protected_exact": true,
+    "inputs": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "top": "../213/Feminine-jersey-top.glb",
+      "bottom": "../216/Feminine-skirt-bottom.glb",
+      "mouth": "../209/Feminine-mouth-line.glb",
+      "eyes": "../181/Feminine-eyes-original.glb",
+      "hair": "components/Feminine-bob-covered248-hair.glb",
+      "headgear": "components/Feminine-jersey-compact-pashmina248-headgear.glb",
+      "eyelashes": "../234/components/Feminine-original-lashes.glb"
+    }
+  },
+  "Feminine-tank-compact": {
+    "final_glbs_reopened": true,
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "protected_exact": true,
+    "inputs": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "top": "../213/Feminine-tank-top.glb",
+      "bottom": "../216/Feminine-skirt-bottom.glb",
+      "mouth": "../209/Feminine-mouth-line.glb",
+      "eyes": "../181/Feminine-eyes-original.glb",
+      "hair": "components/Feminine-bob-covered248-hair.glb",
+      "headgear": "components/Feminine-tank-compact-pashmina248-headgear.glb",
+      "eyelashes": "../234/components/Feminine-original-lashes.glb"
+    }
+  },
+  "Feminine-sweatshirt-compact": {
+    "final_glbs_reopened": true,
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "protected_exact": true,
+    "inputs": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "top": "../215/Feminine-sweatshirt-top.glb",
+      "bottom": "../216/Feminine-skirt-bottom.glb",
+      "mouth": "../209/Feminine-mouth-line.glb",
+      "eyes": "../181/Feminine-eyes-original.glb",
+      "hair": "components/Feminine-bob-covered248-hair.glb",
+      "headgear": "components/Feminine-sweatshirt-compact-pashmina248-headgear.glb",
+      "eyelashes": "../234/components/Feminine-original-lashes.glb"
+    }
+  },
+  "Feminine-bandeau-gathered": {
+    "final_glbs_reopened": true,
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "protected_exact": true,
+    "inputs": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "top": "../213/Feminine-bandeau-top.glb",
+      "bottom": "../216/Feminine-skirt-bottom.glb",
+      "mouth": "../209/Feminine-mouth-line.glb",
+      "eyes": "../181/Feminine-eyes-original.glb",
+      "hair": "components/Feminine-ponytail-covered248-hair.glb",
+      "headgear": "components/Feminine-bandeau-gathered-pashmina248-headgear.glb",
+      "eyelashes": "../234/components/Feminine-original-lashes.glb"
+    }
+  },
+  "Feminine-triangle-gathered": {
+    "final_glbs_reopened": true,
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "protected_exact": true,
+    "inputs": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "top": "../214/Feminine-triangle-top.glb",
+      "bottom": "../216/Feminine-skirt-bottom.glb",
+      "mouth": "../209/Feminine-mouth-line.glb",
+      "eyes": "../181/Feminine-eyes-original.glb",
+      "hair": "components/Feminine-ponytail-covered248-hair.glb",
+      "headgear": "components/Feminine-triangle-gathered-pashmina248-headgear.glb",
+      "eyelashes": "../234/components/Feminine-original-lashes.glb"
+    }
+  },
+  "Feminine-strappy-gathered": {
+    "final_glbs_reopened": true,
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "protected_exact": true,
+    "inputs": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "top": "../213/Feminine-strappy-top.glb",
+      "bottom": "../216/Feminine-skirt-bottom.glb",
+      "mouth": "../209/Feminine-mouth-line.glb",
+      "eyes": "../181/Feminine-eyes-original.glb",
+      "hair": "components/Feminine-ponytail-covered248-hair.glb",
+      "headgear": "components/Feminine-strappy-gathered-pashmina248-headgear.glb",
+      "eyelashes": "../234/components/Feminine-original-lashes.glb"
+    }
+  },
+  "Feminine-tshirt-gathered": {
+    "final_glbs_reopened": true,
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "protected_exact": true,
+    "inputs": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "top": "../214/Feminine-tshirt-top.glb",
+      "bottom": "../216/Feminine-skirt-bottom.glb",
+      "mouth": "../209/Feminine-mouth-line.glb",
+      "eyes": "../181/Feminine-eyes-original.glb",
+      "hair": "components/Feminine-ponytail-covered248-hair.glb",
+      "headgear": "components/Feminine-tshirt-gathered-pashmina248-headgear.glb",
+      "eyelashes": "../234/components/Feminine-original-lashes.glb"
+    }
+  },
+  "Feminine-jersey-gathered": {
+    "final_glbs_reopened": true,
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "protected_exact": true,
+    "inputs": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "top": "../213/Feminine-jersey-top.glb",
+      "bottom": "../216/Feminine-skirt-bottom.glb",
+      "mouth": "../209/Feminine-mouth-line.glb",
+      "eyes": "../181/Feminine-eyes-original.glb",
+      "hair": "components/Feminine-ponytail-covered248-hair.glb",
+      "headgear": "components/Feminine-jersey-gathered-pashmina248-headgear.glb",
+      "eyelashes": "../234/components/Feminine-original-lashes.glb"
+    }
+  },
+  "Feminine-tank-gathered": {
+    "final_glbs_reopened": true,
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "protected_exact": true,
+    "inputs": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "top": "../213/Feminine-tank-top.glb",
+      "bottom": "../216/Feminine-skirt-bottom.glb",
+      "mouth": "../209/Feminine-mouth-line.glb",
+      "eyes": "../181/Feminine-eyes-original.glb",
+      "hair": "components/Feminine-ponytail-covered248-hair.glb",
+      "headgear": "components/Feminine-tank-gathered-pashmina248-headgear.glb",
+      "eyelashes": "../234/components/Feminine-original-lashes.glb"
+    }
+  },
+  "Feminine-sweatshirt-gathered": {
+    "final_glbs_reopened": true,
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "protected_exact": true,
+    "inputs": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "top": "../215/Feminine-sweatshirt-top.glb",
+      "bottom": "../216/Feminine-skirt-bottom.glb",
+      "mouth": "../209/Feminine-mouth-line.glb",
+      "eyes": "../181/Feminine-eyes-original.glb",
+      "hair": "components/Feminine-ponytail-covered248-hair.glb",
+      "headgear": "components/Feminine-sweatshirt-gathered-pashmina248-headgear.glb",
+      "eyelashes": "../234/components/Feminine-original-lashes.glb"
+    }
+  },
+  "Feminine-bandeau-long": {
+    "final_glbs_reopened": true,
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "protected_exact": true,
+    "inputs": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "top": "../213/Feminine-bandeau-top.glb",
+      "bottom": "../216/Feminine-skirt-bottom.glb",
+      "mouth": "../209/Feminine-mouth-line.glb",
+      "eyes": "../181/Feminine-eyes-original.glb",
+      "hair": "components/Feminine-straight-covered248-hair.glb",
+      "headgear": "components/Feminine-bandeau-long-pashmina248-headgear.glb",
+      "eyelashes": "../234/components/Feminine-original-lashes.glb"
+    }
+  },
+  "Feminine-triangle-long": {
+    "final_glbs_reopened": true,
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "protected_exact": true,
+    "inputs": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "top": "../214/Feminine-triangle-top.glb",
+      "bottom": "../216/Feminine-skirt-bottom.glb",
+      "mouth": "../209/Feminine-mouth-line.glb",
+      "eyes": "../181/Feminine-eyes-original.glb",
+      "hair": "components/Feminine-straight-covered248-hair.glb",
+      "headgear": "components/Feminine-triangle-long-pashmina248-headgear.glb",
+      "eyelashes": "../234/components/Feminine-original-lashes.glb"
+    }
+  },
+  "Feminine-strappy-long": {
+    "final_glbs_reopened": true,
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "protected_exact": true,
+    "inputs": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "top": "../213/Feminine-strappy-top.glb",
+      "bottom": "../216/Feminine-skirt-bottom.glb",
+      "mouth": "../209/Feminine-mouth-line.glb",
+      "eyes": "../181/Feminine-eyes-original.glb",
+      "hair": "components/Feminine-straight-covered248-hair.glb",
+      "headgear": "components/Feminine-strappy-long-pashmina248-headgear.glb",
+      "eyelashes": "../234/components/Feminine-original-lashes.glb"
+    }
+  },
+  "Feminine-tshirt-long": {
+    "final_glbs_reopened": true,
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "protected_exact": true,
+    "inputs": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "top": "../214/Feminine-tshirt-top.glb",
+      "bottom": "../216/Feminine-skirt-bottom.glb",
+      "mouth": "../209/Feminine-mouth-line.glb",
+      "eyes": "../181/Feminine-eyes-original.glb",
+      "hair": "components/Feminine-straight-covered248-hair.glb",
+      "headgear": "components/Feminine-tshirt-long-pashmina248-headgear.glb",
+      "eyelashes": "../234/components/Feminine-original-lashes.glb"
+    }
+  },
+  "Feminine-jersey-long": {
+    "final_glbs_reopened": true,
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "protected_exact": true,
+    "inputs": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "top": "../213/Feminine-jersey-top.glb",
+      "bottom": "../216/Feminine-skirt-bottom.glb",
+      "mouth": "../209/Feminine-mouth-line.glb",
+      "eyes": "../181/Feminine-eyes-original.glb",
+      "hair": "components/Feminine-straight-covered248-hair.glb",
+      "headgear": "components/Feminine-jersey-long-pashmina248-headgear.glb",
+      "eyelashes": "../234/components/Feminine-original-lashes.glb"
+    }
+  },
+  "Feminine-tank-long": {
+    "final_glbs_reopened": true,
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "protected_exact": true,
+    "inputs": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "top": "../213/Feminine-tank-top.glb",
+      "bottom": "../216/Feminine-skirt-bottom.glb",
+      "mouth": "../209/Feminine-mouth-line.glb",
+      "eyes": "../181/Feminine-eyes-original.glb",
+      "hair": "components/Feminine-straight-covered248-hair.glb",
+      "headgear": "components/Feminine-tank-long-pashmina248-headgear.glb",
+      "eyelashes": "../234/components/Feminine-original-lashes.glb"
+    }
+  },
+  "Feminine-sweatshirt-long": {
+    "final_glbs_reopened": true,
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "protected_exact": true,
+    "inputs": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "top": "../215/Feminine-sweatshirt-top.glb",
+      "bottom": "../216/Feminine-skirt-bottom.glb",
+      "mouth": "../209/Feminine-mouth-line.glb",
+      "eyes": "../181/Feminine-eyes-original.glb",
+      "hair": "components/Feminine-straight-covered248-hair.glb",
+      "headgear": "components/Feminine-sweatshirt-long-pashmina248-headgear.glb",
+      "eyelashes": "../234/components/Feminine-original-lashes.glb"
+    }
+  },
+  "Feminine-bandeau-volume": {
+    "final_glbs_reopened": true,
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "protected_exact": true,
+    "inputs": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "top": "../213/Feminine-bandeau-top.glb",
+      "bottom": "../216/Feminine-skirt-bottom.glb",
+      "mouth": "../209/Feminine-mouth-line.glb",
+      "eyes": "../181/Feminine-eyes-original.glb",
+      "hair": "components/Feminine-curls-covered248-hair.glb",
+      "headgear": "components/Feminine-bandeau-volume-pashmina248-headgear.glb",
+      "eyelashes": "../234/components/Feminine-original-lashes.glb"
+    }
+  },
+  "Feminine-triangle-volume": {
+    "final_glbs_reopened": true,
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "protected_exact": true,
+    "inputs": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "top": "../214/Feminine-triangle-top.glb",
+      "bottom": "../216/Feminine-skirt-bottom.glb",
+      "mouth": "../209/Feminine-mouth-line.glb",
+      "eyes": "../181/Feminine-eyes-original.glb",
+      "hair": "components/Feminine-curls-covered248-hair.glb",
+      "headgear": "components/Feminine-triangle-volume-pashmina248-headgear.glb",
+      "eyelashes": "../234/components/Feminine-original-lashes.glb"
+    }
+  },
+  "Feminine-strappy-volume": {
+    "final_glbs_reopened": true,
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "protected_exact": true,
+    "inputs": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "top": "../213/Feminine-strappy-top.glb",
+      "bottom": "../216/Feminine-skirt-bottom.glb",
+      "mouth": "../209/Feminine-mouth-line.glb",
+      "eyes": "../181/Feminine-eyes-original.glb",
+      "hair": "components/Feminine-curls-covered248-hair.glb",
+      "headgear": "components/Feminine-strappy-volume-pashmina248-headgear.glb",
+      "eyelashes": "../234/components/Feminine-original-lashes.glb"
+    }
+  },
+  "Feminine-tshirt-volume": {
+    "final_glbs_reopened": true,
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "protected_exact": true,
+    "inputs": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "top": "../214/Feminine-tshirt-top.glb",
+      "bottom": "../216/Feminine-skirt-bottom.glb",
+      "mouth": "../209/Feminine-mouth-line.glb",
+      "eyes": "../181/Feminine-eyes-original.glb",
+      "hair": "components/Feminine-curls-covered248-hair.glb",
+      "headgear": "components/Feminine-tshirt-volume-pashmina248-headgear.glb",
+      "eyelashes": "../234/components/Feminine-original-lashes.glb"
+    }
+  },
+  "Feminine-jersey-volume": {
+    "final_glbs_reopened": true,
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "protected_exact": true,
+    "inputs": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "top": "../213/Feminine-jersey-top.glb",
+      "bottom": "../216/Feminine-skirt-bottom.glb",
+      "mouth": "../209/Feminine-mouth-line.glb",
+      "eyes": "../181/Feminine-eyes-original.glb",
+      "hair": "components/Feminine-curls-covered248-hair.glb",
+      "headgear": "components/Feminine-jersey-volume-pashmina248-headgear.glb",
+      "eyelashes": "../234/components/Feminine-original-lashes.glb"
+    }
+  },
+  "Feminine-tank-volume": {
+    "final_glbs_reopened": true,
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "protected_exact": true,
+    "inputs": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "top": "../213/Feminine-tank-top.glb",
+      "bottom": "../216/Feminine-skirt-bottom.glb",
+      "mouth": "../209/Feminine-mouth-line.glb",
+      "eyes": "../181/Feminine-eyes-original.glb",
+      "hair": "components/Feminine-curls-covered248-hair.glb",
+      "headgear": "components/Feminine-tank-volume-pashmina248-headgear.glb",
+      "eyelashes": "../234/components/Feminine-original-lashes.glb"
+    }
+  },
+  "Feminine-sweatshirt-volume": {
+    "final_glbs_reopened": true,
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "protected_exact": true,
+    "inputs": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "top": "../215/Feminine-sweatshirt-top.glb",
+      "bottom": "../216/Feminine-skirt-bottom.glb",
+      "mouth": "../209/Feminine-mouth-line.glb",
+      "eyes": "../181/Feminine-eyes-original.glb",
+      "hair": "components/Feminine-curls-covered248-hair.glb",
+      "headgear": "components/Feminine-sweatshirt-volume-pashmina248-headgear.glb",
+      "eyelashes": "../234/components/Feminine-original-lashes.glb"
+    }
+  },
+  "Masculine-shirtless-compact": {
+    "final_glbs_reopened": true,
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "protected_exact": true,
+    "inputs": {
+      "base": "../208/Masculine-shirtless-base.glb",
+      "top": null,
+      "bottom": "../215/Masculine-shorts-bottom.glb",
+      "mouth": "../209/Masculine-mouth-line.glb",
+      "eyes": "../181/Masculine-eyes-original.glb",
+      "hair": "components/Masculine-taper-covered248-hair.glb",
+      "headgear": "components/Masculine-shirtless-compact-pashmina248-headgear.glb",
+      "groom": "../235/components/Masculine-groom-stubble.glb"
+    }
+  },
+  "Masculine-tshirt-compact": {
+    "final_glbs_reopened": true,
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "protected_exact": true,
+    "inputs": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "top": "../203/Masculine-tshirt-top.glb",
+      "bottom": "../215/Masculine-shorts-bottom.glb",
+      "mouth": "../209/Masculine-mouth-line.glb",
+      "eyes": "../181/Masculine-eyes-original.glb",
+      "hair": "components/Masculine-taper-covered248-hair.glb",
+      "headgear": "components/Masculine-tshirt-compact-pashmina248-headgear.glb",
+      "groom": "../235/components/Masculine-groom-stubble.glb"
+    }
+  },
+  "Masculine-jersey-compact": {
+    "final_glbs_reopened": true,
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "protected_exact": true,
+    "inputs": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "top": "../203/Masculine-jersey-top.glb",
+      "bottom": "../215/Masculine-shorts-bottom.glb",
+      "mouth": "../209/Masculine-mouth-line.glb",
+      "eyes": "../181/Masculine-eyes-original.glb",
+      "hair": "components/Masculine-taper-covered248-hair.glb",
+      "headgear": "components/Masculine-jersey-compact-pashmina248-headgear.glb",
+      "groom": "../235/components/Masculine-groom-stubble.glb"
+    }
+  },
+  "Masculine-buttonup-compact": {
+    "final_glbs_reopened": true,
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "protected_exact": true,
+    "inputs": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "top": "../208/Masculine-buttonup-top.glb",
+      "bottom": "../215/Masculine-shorts-bottom.glb",
+      "mouth": "../209/Masculine-mouth-line.glb",
+      "eyes": "../181/Masculine-eyes-original.glb",
+      "hair": "components/Masculine-taper-covered248-hair.glb",
+      "headgear": "components/Masculine-buttonup-compact-pashmina248-headgear.glb",
+      "groom": "../235/components/Masculine-groom-stubble.glb"
+    }
+  },
+  "Masculine-sweatshirt-compact": {
+    "final_glbs_reopened": true,
+    "angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "protected_exact": true,
+    "inputs": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "top": "../215/Masculine-sweatshirt-top.glb",
+      "bottom": "../215/Masculine-shorts-bottom.glb",
+      "mouth": "../209/Masculine-mouth-line.glb",
+      "eyes": "../181/Masculine-eyes-original.glb",
+      "hair": "components/Masculine-taper-covered248-hair.glb",
+      "headgear": "components/Masculine-sweatshirt-compact-pashmina248-headgear.glb",
+      "groom": "../235/components/Masculine-groom-stubble.glb"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "anchors": [
+    [
+      -0.00016539532225579023,
+      0.34265920519828796,
+      2.165325164794922
+    ],
+    [
+      -0.0001444826921215281,
+      0.29892683029174805,
+      2.2191574573516846
+    ]
+  ],
+  "presets": {
+    "relaxed": {
+      "length": 0.61,
+      "fullness": 0.205,
+      "arc": 0.16,
+      "bend": 0.07,
+      "side": 0.28,
+      "height": 0.35
+    },
+    "high": {
+      "length": 0.65,
+      "fullness": 0.22,
+      "arc": 0.2,
+      "bend": 0.06,
+      "side": 0.12,
+      "height": 1.0
+    },
+    "compact": {
+      "length": 0.46,
+      "fullness": 0.18,
+      "arc": 0.12,
+      "bend": 0.045,
+      "side": 0.2,
+      "height": 0.2
+    },
+    "full": {
+      "length": 0.72,
+      "fullness": 0.275,
+      "arc": 0.18,
+      "bend": 0.09,
+      "side": 0.38,
+      "height": 0.65
+    }
+  },
+  "default": {
+    "length": 0.61,
+    "fullness": 0.205,
+    "arc": 0.16,
+    "bend": 0.07,
+    "side": 0.28,
+    "height": 0.35
+  },
+  "hairline": "Raised front and temple/ear boundary; narrow vertex-alpha edge and backward directional relief",
+  "root_morph": "TieHeight"
+}

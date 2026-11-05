@@ -1,0 +1,23 @@
+{
+  "label": "Selected B with higher fade",
+  "log": "pilot4-254.log",
+  "fade_span": 0.38,
+  "fill": 0.55,
+  "lift": 0.012,
+  "ridge": 0.0018,
+  "rough": 0.51,
+  "start": 0.46,
+  "target": 1.12,
+  "angle_weight": 0.9,
+  "depth_reduce": 0.93,
+  "width_reduce": 0.38,
+  "radial_reduce": 0.88,
+  "normal_strength": 0.12,
+  "rear": false,
+  "clamp": true,
+  "status": "Reconstruction from recorded254 code changes; not an original preserved checkpoint.",
+  "geometry_source": "E:/Ravedio-Avatar/catalogue252/sources/Masculine-taper-hair252.blend",
+  "original_log": "E:/Ravedio-Avatar/catalogue254/pilot4-254.log",
+  "shared": "Same separate swept locks, body/face/wardrobe, material colors, camera and fixed studio.",
+  "interactive_export": "BLEND alpha and clamped texture borders preserve authored smooth coverage; original A/B export-cutoff artifacts are not the intended appearance."
+}

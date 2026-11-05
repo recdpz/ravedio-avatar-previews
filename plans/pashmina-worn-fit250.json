@@ -1,0 +1,27 @@
+{
+  "revision": 250,
+  "baseline_commit": "3228f60f6402b0ce0104ce83eb656a975d828ef3",
+  "status": "Implemented; self-reviewed source/export, wardrobe and browser checks complete; owner review pending",
+  "scope": "Jointly author worn hair and restrained cloth; preserve original styling and repair cloth support, lower-edge flow and visible hair exits",
+  "protected": [
+    "body",
+    "face",
+    "wardrobe",
+    "accepted front pashmina crossing and joins",
+    "uncovered hairstyles",
+    "other headwear",
+    "materials",
+    "shared coordinates"
+  ],
+  "success": [
+    "Stable drape with broad support rather than inflation around every uncovered lock.",
+    "Covered hair stays outside the actual head and rooted, with original exposed curl/braid pattern and framing.",
+    "Lower hair exits follow coherent original locks beneath the hem, with no chopped curtain, invented holes or solid collision.",
+    "Inspect whole silhouette/contact first, then seams and local detail; review actual exports and small portraits."
+  ],
+  "native_phone_qualified": false,
+  "owner_review": "250 shapes pending",
+  "updated_utc": "2026-11-02T23:42:29.135568+00:00",
+  "handoff": "250/handoff250.json",
+  "manifest": "250/manifest250.json"
+}

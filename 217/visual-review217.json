@@ -1,0 +1,41 @@
+{
+  "revision": 217,
+  "owner_approval": false,
+  "first_pass": [
+    "216 shallow sections flattened the side silhouette; five locks now have substantially deeper cross sections",
+    "Minimum departure preserves a smooth outward C arch and inward returning ends, rather than removing curvature",
+    "Five authored actual-head gather poses support a higher tie without extrapolating the old two-pose morph",
+    "Removed translucent edge: opaque clean geometry and37 discrete root-following ribbons",
+    "Retained existing214 cap after actual default/highest profile/rear/top fit review"
+  ],
+  "second_pass": [
+    "Saved/reopened source and fresh GLB browser output",
+    "Six angles for four presets, minimum departure, highest tie and both side-depth extremes",
+    "Four skin tones;32/48/64/128px portraits and close512px hairline views",
+    "Ponytail/cap/glasses/hoodie at default and maximum tie; existing cap opening retained",
+    "Front-lock independence/reset, depth geometry, download, persistence and native/browser parameter agreement"
+  ],
+  "technical_checks": {
+    "saved_scene_sha256": "d587794f493a6a9b90fc60e26c5a03d2ebc525839382df64d6d708d87f56f4e6",
+    "frozen_sources_unchanged": true,
+    "protected_exact": 25,
+    "all_nonhair_exact": true,
+    "front_locks_exact": true,
+    "fixed_studio_exact": true,
+    "native_parameter_error": 1.198988144205379e-07,
+    "tail_boundary_cases": 196,
+    "tail_head_clearance": true,
+    "owner_accepted": false
+  },
+  "browser": {
+    "higher_tie_maximum": 1.7,
+    "minimum_departure_curves": true,
+    "independent_depth_geometry": true,
+    "front_controls_retained": true,
+    "parameter_parity": 5.600302130988762e-15,
+    "choice_download": true,
+    "persistence": true,
+    "png_download": true
+  },
+  "native_phone_qualification": false
+}

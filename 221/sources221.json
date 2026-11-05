@@ -1,0 +1,26 @@
+{
+  "revision": 221,
+  "baseline": 220,
+  "sources": {
+    "E:\\Ravedio-Avatar\\refinement220\\scenes\\Feminine-ponytail.blend": "2c33b9dbea5f88812f90b93af30b8da249d833d8dfd56a72b96331dc62036671",
+    "E:\\Ravedio-Avatar\\refinement220\\scenes\\Feminine-ponytail-cap.blend": "8da9ecc5ea6cf3196c59a5ce659d36a97c228f8ce3d2e4bd75c0dbbc211189a8",
+    "E:\\Ravedio-Avatar\\refinement220\\pony-parameters220.json": "cd5e7d3744229828f18ad5aef0a323047da8a4d90f6ef18a7261063f4ef2318c",
+    "E:\\Ravedio-Avatar\\refinement220\\components\\Feminine-ponytail-cap.glb": "179bfcb054ecc31f1edd7d0413579c2983e10e30f02ce9f5db54cb62c4480670"
+  },
+  "scope": [
+    "Reduce inward tail hook",
+    "Physical-length trimming/growth without stretching upper locks",
+    "Surface-seated sideways tie position"
+  ],
+  "protected": [
+    "head/body/face/clothes/arms/palette/studio",
+    "front locks",
+    "normal220 cap and glasses"
+  ],
+  "recipes": {
+    "model221.py": "83e1f31da21f9460b579d569aaa41630eb0aa521b4193f5462db62bd0f8351ce",
+    "parameters221.py": "f3ce8897f5bee6621e51a30e1d204f1fdb6632ac2208f876a3c8af25c3b76aac",
+    "flow221.js": "44b3bcd7cbca71ee499d98b22cf82b5f1717340e8c39f3dd2355a573dfc16c51",
+    "site221.py": "0b0c602d4fb7c93e8c4db932d1aa2ca52e091510f328477eb963d5e5597c3b91"
+  }
+}

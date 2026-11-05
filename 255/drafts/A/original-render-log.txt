@@ -1,0 +1,69 @@
+00:00.688  blend            | Read blend: "E:\Ravedio-Avatar\catalogue252\sources\Masculine-taper-hair252.blend"
+BlenderMCP addon registered
+Info: Deleted 70 data-block(s)
+Info: No new files have been packed
+Info: Saved as "Masculine-taper-hair254.blend"
+INFO Draco is available, use library at E:\Ravedio-Avatar\tools\blender-5.2.0-windows-x64\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_draco_bridge.dll
+INFO MeshOptimizer is available, use library at E:\Ravedio-Avatar\tools\blender-5.2.0-windows-x64\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_meshopt_bridge.dll
+23:17:53 | INFO: Starting glTF 2.0 export
+23:17:53 | INFO: Extracting primitive: Hair252 / retained sweep Hair / Taper top 0 / static224.002
+23:17:53 | INFO: Primitives created: 1
+23:17:53 | INFO: Extracting primitive: Hair252 / retained sweep Hair / Taper top 1 / static224.002
+23:17:53 | INFO: Primitives created: 1
+23:17:53 | INFO: Extracting primitive: Hair254 / rooted clipper graduation / static224.001
+23:17:54 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+23:17:54 | INFO: Primitives created: 1
+23:17:54 | INFO: Finished glTF 2.0 export in 0.23529410362243652 s
+
+BUILD254 taper 18382
+00:03.281  cycles           | WARNING HIPEW initialization failed: Error opening HIP dynamic library
+00:04.859  render           | Saved: 'E:\Ravedio-Avatar\catalogue254\review1\taper-front.png'
+00:06.078  render           | Saved: 'E:\Ravedio-Avatar\catalogue254\review1\taper-threequarter.png'
+00:07.141  render           | Saved: 'E:\Ravedio-Avatar\catalogue254\review1\taper-profile.png'
+00:08.234  render           | Saved: 'E:\Ravedio-Avatar\catalogue254\review1\taper-rightprofile.png'
+00:09.297  render           | Saved: 'E:\Ravedio-Avatar\catalogue254\review1\taper-rear.png'
+00:10.281  render           | Saved: 'E:\Ravedio-Avatar\catalogue254\review1\taper-top.png'
+00:11.031  render           | Saved: 'E:\Ravedio-Avatar\catalogue254\review1\taper-underside.png'
+00:11.031  blend            | Read blend: "E:\Ravedio-Avatar\catalogue252\sources\Masculine-curly-top-hair252.blend"
+Info: Deleted 56 data-block(s)
+Info: No new files have been packed
+Info: Saved as "Masculine-curly-top-hair254.blend"
+23:18:04 | INFO: Starting glTF 2.0 export
+23:18:04 | INFO: Extracting primitive: Hair252 / unified rooted curly sculpt / static224.002
+23:18:04 | INFO: Primitives created: 1
+23:18:04 | INFO: Extracting primitive: Hair254 / rooted clipper graduation / static224.001
+23:18:04 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+23:18:04 | INFO: Primitives created: 1
+23:18:04 | INFO: Finished glTF 2.0 export in 0.4006540775299072 s
+
+BUILD254 curly-top 55644
+00:14.875  render           | Saved: 'E:\Ravedio-Avatar\catalogue254\review1\curly-top-front.png'
+00:15.734  render           | Saved: 'E:\Ravedio-Avatar\catalogue254\review1\curly-top-threequarter.png'
+00:16.578  render           | Saved: 'E:\Ravedio-Avatar\catalogue254\review1\curly-top-profile.png'
+00:17.391  render           | Saved: 'E:\Ravedio-Avatar\catalogue254\review1\curly-top-rightprofile.png'
+00:18.297  render           | Saved: 'E:\Ravedio-Avatar\catalogue254\review1\curly-top-rear.png'
+00:19.297  render           | Saved: 'E:\Ravedio-Avatar\catalogue254\review1\curly-top-top.png'
+00:20.094  render           | Saved: 'E:\Ravedio-Avatar\catalogue254\review1\curly-top-underside.png'
+00:20.094  blend            | Read blend: "E:\Ravedio-Avatar\catalogue252\sources\Masculine-buzz-hair252.blend"
+Info: Deleted 54 data-block(s)
+Info: No new files have been packed
+Info: Saved as "Masculine-buzz-hair254.blend"
+23:18:12 | INFO: Starting glTF 2.0 export
+23:18:12 | INFO: Extracting primitive: Hair254 / rooted clipper graduation / static224.001
+23:18:12 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+23:18:12 | INFO: Primitives created: 1
+23:18:12 | INFO: Finished glTF 2.0 export in 0.12944436073303223 s
+
+BUILD254 buzz 0
+00:22.656  render           | Saved: 'E:\Ravedio-Avatar\catalogue254\review1\buzz-front.png'
+00:23.781  render           | Saved: 'E:\Ravedio-Avatar\catalogue254\review1\buzz-threequarter.png'
+00:24.922  render           | Saved: 'E:\Ravedio-Avatar\catalogue254\review1\buzz-profile.png'
+00:26.031  render           | Saved: 'E:\Ravedio-Avatar\catalogue254\review1\buzz-rightprofile.png'
+00:27.141  render           | Saved: 'E:\Ravedio-Avatar\catalogue254\review1\buzz-rear.png'
+00:28.422  render           | Saved: 'E:\Ravedio-Avatar\catalogue254\review1\buzz-top.png'
+00:29.406  render           | Saved: 'E:\Ravedio-Avatar\catalogue254\review1\buzz-underside.png'
+BUILD254_COMPLETE 3
+BlenderMCP addon unregistered
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:35:40)
+
+Blender quit

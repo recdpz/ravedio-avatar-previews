@@ -1,0 +1,105 @@
+{
+  "basis": 256,
+  "upper_B_shape_preserved": true,
+  "tip_start": 0.7,
+  "locks": [
+    {
+      "name": "Hair252 / retained sweep Hair / Taper top 0",
+      "protected_upper_vertices": 1793,
+      "upper_positions_exact": true,
+      "terminal_vertices_changed": 64,
+      "max_terminal_shift": 0.0007419808095029239
+    },
+    {
+      "name": "Hair252 / retained sweep Hair / Taper top 1",
+      "protected_upper_vertices": 1793,
+      "upper_positions_exact": true,
+      "terminal_vertices_changed": 736,
+      "max_terminal_shift": 0.012622128611735799
+    },
+    {
+      "name": "Hair252 / retained sweep Hair / Taper top 2",
+      "protected_upper_vertices": 1793,
+      "upper_positions_exact": true,
+      "terminal_vertices_changed": 736,
+      "max_terminal_shift": 0.01265484310915697
+    },
+    {
+      "name": "Hair252 / retained sweep Hair / Taper top 3",
+      "protected_upper_vertices": 1793,
+      "upper_positions_exact": true,
+      "terminal_vertices_changed": 736,
+      "max_terminal_shift": 0.012119128609302102
+    },
+    {
+      "name": "Hair252 / retained sweep Hair / Taper top 4",
+      "protected_upper_vertices": 1793,
+      "upper_positions_exact": true,
+      "terminal_vertices_changed": 736,
+      "max_terminal_shift": 0.011506542414270689
+    },
+    {
+      "name": "Hair252 / retained sweep Hair / Taper short sweep 0",
+      "protected_upper_vertices": 1793,
+      "upper_positions_exact": true,
+      "terminal_vertices_changed": 320,
+      "max_terminal_shift": 0.008517947254027445
+    },
+    {
+      "name": "Hair252 / retained sweep Hair / Taper short sweep 1",
+      "protected_upper_vertices": 1793,
+      "upper_positions_exact": true,
+      "terminal_vertices_changed": 736,
+      "max_terminal_shift": 0.011122832182280466
+    },
+    {
+      "name": "Hair252 / retained sweep Hair / Taper short sweep 2",
+      "protected_upper_vertices": 1793,
+      "upper_positions_exact": true,
+      "terminal_vertices_changed": 736,
+      "max_terminal_shift": 0.011093942087372077
+    },
+    {
+      "name": "Hair252 / retained sweep Hair / Taper short sweep 3",
+      "protected_upper_vertices": 1793,
+      "upper_positions_exact": true,
+      "terminal_vertices_changed": 736,
+      "max_terminal_shift": 0.011041305317561007
+    },
+    {
+      "name": "Hair252 / retained sweep Hair / Taper crown 0",
+      "protected_upper_vertices": 1793,
+      "upper_positions_exact": true,
+      "terminal_vertices_changed": 736,
+      "max_terminal_shift": 0.01213123415818106
+    },
+    {
+      "name": "Hair252 / retained sweep Hair / Taper crown 1",
+      "protected_upper_vertices": 1793,
+      "upper_positions_exact": true,
+      "terminal_vertices_changed": 736,
+      "max_terminal_shift": 0.012183680817298832
+    },
+    {
+      "name": "Hair252 / retained sweep Hair / Taper crown 2",
+      "protected_upper_vertices": 1793,
+      "upper_positions_exact": true,
+      "terminal_vertices_changed": 736,
+      "max_terminal_shift": 0.012238489895516591
+    },
+    {
+      "name": "Hair252 / retained sweep Hair / Taper crown 3",
+      "protected_upper_vertices": 1793,
+      "upper_positions_exact": true,
+      "terminal_vertices_changed": 736,
+      "max_terminal_shift": 0.012224673552383254
+    },
+    {
+      "name": "Hair252 / retained sweep Hair / Taper crown 4",
+      "protected_upper_vertices": 1793,
+      "upper_positions_exact": true,
+      "terminal_vertices_changed": 736,
+      "max_terminal_shift": 0.01216065517024302
+    }
+  ]
+}

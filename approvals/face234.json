@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "id": "owner-no-nose-regular-smile-234",
+  "date": "2026-10-28",
+  "owner_statement": "i also accept no nose on models and regular smile only.",
+  "status": "approved",
+  "scope": "Both builds use no nose component and the existing regular line smile only. Other mouth/nose candidates retire from the current selector.",
+  "assets": {
+    "Feminine": {
+      "nose": "none",
+      "mouth": "line",
+      "mouth_asset": "209/Feminine-mouth-line.glb",
+      "mouth_sha256": "075fb169ebb51441febd7656008caf71dd4edbc5f3f49514f1cc4d874c69b114"
+    },
+    "Masculine": {
+      "nose": "none",
+      "mouth": "line",
+      "mouth_asset": "209/Masculine-mouth-line.glb",
+      "mouth_sha256": "873b11550f5bbce567aac077b4fbefcbf04b3793813678f35e1a416a19447872"
+    }
+  },
+  "source": "Direct owner message in this chat",
+  "eyelashes": "Requested new feminine lash study; not yet approved",
+  "no_profile_wire_change": true,
+  "recorded_utc": "2026-10-28T23:12:09.117746+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "Feminine": {
+    "source": "E:\\Ravedio-Avatar\\catalogue235\\sources\\Feminine-pashmina-knot235.blend",
+    "component": "components/Feminine-pashmina-knot235-headgear.glb",
+    "protected_neighbors_exact": true,
+    "max_lower_hood_change": 0.5404043255787532,
+    "rear": "Gathered into nape; no free rear curtain/hem; buried inward return",
+    "front": "Broad hood sides converge into a loose chest-supported knot, with two soft ends. Major-form envelope bridges small garment gaps. No neck ring, no runtime physics."
+  },
+  "Masculine": {
+    "source": "E:\\Ravedio-Avatar\\catalogue235\\sources\\Masculine-pashmina-knot235.blend",
+    "component": "components/Masculine-pashmina-knot235-headgear.glb",
+    "protected_neighbors_exact": true,
+    "max_lower_hood_change": 0.5313938731429342,
+    "rear": "Gathered into nape; no free rear curtain/hem; buried inward return",
+    "front": "Broad hood sides converge into a loose chest-supported knot, with two soft ends. Major-form envelope bridges small garment gaps. No neck ring, no runtime physics."
+  }
+}

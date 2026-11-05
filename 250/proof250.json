@@ -1,0 +1,530 @@
+{
+  "Feminine-bob": {
+    "paths": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "top": "../215/Feminine-open-top.glb",
+      "bottom": "../216/Feminine-skirt-bottom.glb",
+      "eyes": "../181/Feminine-eyes-original.glb",
+      "mouth": "../209/Feminine-mouth-line.glb",
+      "hair": "components/Feminine-bob-open-pashmina250-hair.glb",
+      "eyelashes": "../234/components/Feminine-original-lashes.glb",
+      "headgear": "components/Feminine-bob-open-pashmina250-headgear.glb"
+    },
+    "full_angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "enlarged_angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "cloth_hidden": true,
+    "matched249": true,
+    "final_glbs": true
+  },
+  "Feminine-straight": {
+    "paths": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "top": "../215/Feminine-open-top.glb",
+      "bottom": "../216/Feminine-skirt-bottom.glb",
+      "eyes": "../181/Feminine-eyes-original.glb",
+      "mouth": "../209/Feminine-mouth-line.glb",
+      "hair": "components/Feminine-straight-open-pashmina250-hair.glb",
+      "eyelashes": "../234/components/Feminine-original-lashes.glb",
+      "headgear": "components/Feminine-straight-open-pashmina250-headgear.glb"
+    },
+    "full_angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "enlarged_angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "cloth_hidden": true,
+    "matched249": true,
+    "final_glbs": true
+  },
+  "Feminine-curls": {
+    "paths": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "top": "../215/Feminine-open-top.glb",
+      "bottom": "../216/Feminine-skirt-bottom.glb",
+      "eyes": "../181/Feminine-eyes-original.glb",
+      "mouth": "../209/Feminine-mouth-line.glb",
+      "hair": "components/Feminine-curls-open-pashmina250-hair.glb",
+      "eyelashes": "../234/components/Feminine-original-lashes.glb",
+      "headgear": "components/Feminine-curls-open-pashmina250-headgear.glb"
+    },
+    "full_angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "enlarged_angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "cloth_hidden": true,
+    "matched249": true,
+    "final_glbs": true
+  },
+  "Feminine-side-sweep": {
+    "paths": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "top": "../215/Feminine-open-top.glb",
+      "bottom": "../216/Feminine-skirt-bottom.glb",
+      "eyes": "../181/Feminine-eyes-original.glb",
+      "mouth": "../209/Feminine-mouth-line.glb",
+      "hair": "components/Feminine-side-sweep-open-pashmina250-hair.glb",
+      "eyelashes": "../234/components/Feminine-original-lashes.glb",
+      "headgear": "components/Feminine-side-sweep-open-pashmina250-headgear.glb"
+    },
+    "full_angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "enlarged_angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "cloth_hidden": true,
+    "matched249": true,
+    "final_glbs": true
+  },
+  "Feminine-space-buns": {
+    "paths": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "top": "../215/Feminine-open-top.glb",
+      "bottom": "../216/Feminine-skirt-bottom.glb",
+      "eyes": "../181/Feminine-eyes-original.glb",
+      "mouth": "../209/Feminine-mouth-line.glb",
+      "hair": "components/Feminine-space-buns-open-pashmina250-hair.glb",
+      "eyelashes": "../234/components/Feminine-original-lashes.glb",
+      "headgear": "components/Feminine-space-buns-open-pashmina250-headgear.glb"
+    },
+    "full_angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "enlarged_angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "cloth_hidden": true,
+    "matched249": true,
+    "final_glbs": true
+  },
+  "Feminine-twin-braids": {
+    "paths": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "top": "../215/Feminine-open-top.glb",
+      "bottom": "../216/Feminine-skirt-bottom.glb",
+      "eyes": "../181/Feminine-eyes-original.glb",
+      "mouth": "../209/Feminine-mouth-line.glb",
+      "hair": "components/Feminine-twin-braids-open-pashmina250-hair.glb",
+      "eyelashes": "../234/components/Feminine-original-lashes.glb",
+      "headgear": "components/Feminine-twin-braids-open-pashmina250-headgear.glb"
+    },
+    "full_angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "enlarged_angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "cloth_hidden": true,
+    "matched249": true,
+    "final_glbs": true
+  },
+  "Feminine-box-braids": {
+    "paths": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "top": "../215/Feminine-open-top.glb",
+      "bottom": "../216/Feminine-skirt-bottom.glb",
+      "eyes": "../181/Feminine-eyes-original.glb",
+      "mouth": "../209/Feminine-mouth-line.glb",
+      "hair": "components/Feminine-box-braids-open-pashmina250-hair.glb",
+      "eyelashes": "../234/components/Feminine-original-lashes.glb",
+      "headgear": "components/Feminine-box-braids-open-pashmina250-headgear.glb"
+    },
+    "full_angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "enlarged_angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "cloth_hidden": true,
+    "matched249": true,
+    "final_glbs": true
+  },
+  "Masculine-sidepart": {
+    "paths": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "top": "../208/Masculine-tank-top.glb",
+      "bottom": "../215/Masculine-shorts-bottom.glb",
+      "eyes": "../181/Masculine-eyes-original.glb",
+      "mouth": "../209/Masculine-mouth-line.glb",
+      "hair": "components/Masculine-sidepart-tank-pashmina250-hair.glb",
+      "groom": "../235/components/Masculine-groom-stubble.glb",
+      "headgear": "components/Masculine-sidepart-tank-pashmina250-headgear.glb"
+    },
+    "full_angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "enlarged_angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "cloth_hidden": true,
+    "matched249": true,
+    "final_glbs": true
+  },
+  "Masculine-taper": {
+    "paths": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "top": "../208/Masculine-tank-top.glb",
+      "bottom": "../215/Masculine-shorts-bottom.glb",
+      "eyes": "../181/Masculine-eyes-original.glb",
+      "mouth": "../209/Masculine-mouth-line.glb",
+      "hair": "components/Masculine-taper-tank-pashmina250-hair.glb",
+      "groom": "../235/components/Masculine-groom-stubble.glb",
+      "headgear": "components/Masculine-taper-tank-pashmina250-headgear.glb"
+    },
+    "full_angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "enlarged_angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "cloth_hidden": true,
+    "matched249": true,
+    "final_glbs": true
+  },
+  "Masculine-buzz": {
+    "paths": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "top": "../208/Masculine-tank-top.glb",
+      "bottom": "../215/Masculine-shorts-bottom.glb",
+      "eyes": "../181/Masculine-eyes-original.glb",
+      "mouth": "../209/Masculine-mouth-line.glb",
+      "hair": "components/Masculine-buzz-tank-pashmina250-hair.glb",
+      "groom": "../235/components/Masculine-groom-stubble.glb",
+      "headgear": "components/Masculine-buzz-tank-pashmina250-headgear.glb"
+    },
+    "full_angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "enlarged_angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "cloth_hidden": true,
+    "matched249": true,
+    "final_glbs": true
+  },
+  "Masculine-curly-top": {
+    "paths": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "top": "../208/Masculine-tank-top.glb",
+      "bottom": "../215/Masculine-shorts-bottom.glb",
+      "eyes": "../181/Masculine-eyes-original.glb",
+      "mouth": "../209/Masculine-mouth-line.glb",
+      "hair": "components/Masculine-curly-top-tank-pashmina250-hair.glb",
+      "groom": "../235/components/Masculine-groom-stubble.glb",
+      "headgear": "components/Masculine-curly-top-tank-pashmina250-headgear.glb"
+    },
+    "full_angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "enlarged_angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "cloth_hidden": true,
+    "matched249": true,
+    "final_glbs": true
+  },
+  "Masculine-afro": {
+    "paths": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "top": "../208/Masculine-tank-top.glb",
+      "bottom": "../215/Masculine-shorts-bottom.glb",
+      "eyes": "../181/Masculine-eyes-original.glb",
+      "mouth": "../209/Masculine-mouth-line.glb",
+      "hair": "components/Masculine-afro-tank-pashmina250-hair.glb",
+      "groom": "../235/components/Masculine-groom-stubble.glb",
+      "headgear": "components/Masculine-afro-tank-pashmina250-headgear.glb"
+    },
+    "full_angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "enlarged_angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "cloth_hidden": true,
+    "matched249": true,
+    "final_glbs": true
+  },
+  "Masculine-flow": {
+    "paths": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "top": "../208/Masculine-tank-top.glb",
+      "bottom": "../215/Masculine-shorts-bottom.glb",
+      "eyes": "../181/Masculine-eyes-original.glb",
+      "mouth": "../209/Masculine-mouth-line.glb",
+      "hair": "components/Masculine-flow-tank-pashmina250-hair.glb",
+      "groom": "../235/components/Masculine-groom-stubble.glb",
+      "headgear": "components/Masculine-flow-tank-pashmina250-headgear.glb"
+    },
+    "full_angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "enlarged_angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "cloth_hidden": true,
+    "matched249": true,
+    "final_glbs": true
+  },
+  "Masculine-locs": {
+    "paths": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "top": "../208/Masculine-tank-top.glb",
+      "bottom": "../215/Masculine-shorts-bottom.glb",
+      "eyes": "../181/Masculine-eyes-original.glb",
+      "mouth": "../209/Masculine-mouth-line.glb",
+      "hair": "components/Masculine-locs-tank-pashmina250-hair.glb",
+      "groom": "../235/components/Masculine-groom-stubble.glb",
+      "headgear": "components/Masculine-locs-tank-pashmina250-headgear.glb"
+    },
+    "full_angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "enlarged_angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "cloth_hidden": true,
+    "matched249": true,
+    "final_glbs": true
+  },
+  "Masculine-middle-part": {
+    "paths": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "top": "../208/Masculine-tank-top.glb",
+      "bottom": "../215/Masculine-shorts-bottom.glb",
+      "eyes": "../181/Masculine-eyes-original.glb",
+      "mouth": "../209/Masculine-mouth-line.glb",
+      "hair": "components/Masculine-middle-part-tank-pashmina250-hair.glb",
+      "groom": "../235/components/Masculine-groom-stubble.glb",
+      "headgear": "components/Masculine-middle-part-tank-pashmina250-headgear.glb"
+    },
+    "full_angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "enlarged_angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "cloth_hidden": true,
+    "matched249": true,
+    "final_glbs": true
+  },
+  "Feminine-ponytail": {
+    "paths": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "top": "../215/Feminine-open-top.glb",
+      "bottom": "../216/Feminine-skirt-bottom.glb",
+      "eyes": "../181/Feminine-eyes-original.glb",
+      "mouth": "../209/Feminine-mouth-line.glb",
+      "hair": "components/Feminine-ponytail-open-pashmina250-hair.glb",
+      "eyelashes": "../234/components/Feminine-original-lashes.glb",
+      "headgear": "components/Feminine-ponytail-open-pashmina250-headgear.glb"
+    },
+    "full_angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "enlarged_angles": [
+      "front",
+      "threequarter",
+      "profile",
+      "rightprofile",
+      "rear",
+      "top",
+      "underside"
+    ],
+    "cloth_hidden": true,
+    "matched249": true,
+    "final_glbs": true
+  }
+}

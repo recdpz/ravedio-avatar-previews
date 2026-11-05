@@ -1,0 +1,297 @@
+{
+  "revision": 216,
+  "baseline": 215,
+  "state": "Self-reviewed correction candidate; owner approval pending",
+  "preview": "https://recdpz.github.io/ravedio-avatar-previews/216/",
+  "source_folder": "E:\\Ravedio-Avatar\\refinement216",
+  "scope": [
+    "Simple flush feminine shorts/skirt/pants waist edges with inward thickness; no added return panels",
+    "Correct the tiny covered lower-torso closure flare, retaining visible anatomy",
+    "Ponytail continuous cubic descent and broad rear wave with varied flatter sculpted locks",
+    "Independent or paired front-lock length, thickness, bend, spacing and root-height controls",
+    "Finer pulled-back root relief and actual tapered hairline strands"
+  ],
+  "retained": [
+    "Heads, faces, eyes, mouth,209 grooming,178 arms and sleeve construction",
+    "Visible feminine torso above1.022, entire masculine model",
+    "215 collar/hoods and all other current tops/accessories",
+    "Bikini215,151 skin palette,181 fixed lighting",
+    "Humanoid Studio and firmware/mobile/cloud/profile contracts"
+  ],
+  "source_manifest": "sources216.json",
+  "scenes": {
+    "Feminine-pants": {
+      "sha256": "e03b60ffb669440fd42eb9264f71df9fff484b1a1fcd5801715058c581a80291",
+      "protected_exact": 28,
+      "visible_torso_above_1022_exact": true,
+      "fixed_studio": true
+    },
+    "Feminine-ponytail": {
+      "sha256": "31b5aa3f0b55b36ae9582db9617f0d69c33460ceb05b49958d07f89185deedda",
+      "protected_exact": 17,
+      "visible_torso_above_1022_exact": true,
+      "fixed_studio": true
+    },
+    "Feminine-shorts": {
+      "sha256": "1cfc437300fa33807a2c943926e8b711ab318ebc983c09dd9c80cafd02259307",
+      "protected_exact": 28,
+      "visible_torso_above_1022_exact": true,
+      "fixed_studio": true
+    },
+    "Feminine-skirt": {
+      "sha256": "d91b2c4fc34c47ec1093e11c3c1d41acb5cb8b9fda81d20a3820202437f8372d",
+      "protected_exact": 28,
+      "visible_torso_above_1022_exact": true,
+      "fixed_studio": true
+    }
+  },
+  "base_adapter": {
+    "file": "Feminine-base.glb",
+    "change": "Covered terminal torso ring only, no body part removed",
+    "visible_torso_exact_above": 1.022,
+    "reason": "The old bottom closure ring flared out beyond the skin surface and showed through otherwise fitted garment shells."
+  },
+  "parameters": {
+    "anchors": [
+      [
+        -0.00016539532225579023,
+        0.34265920519828796,
+        2.165325164794922
+      ],
+      [
+        -0.0001444826921215281,
+        0.29892683029174805,
+        2.2191574573516846
+      ]
+    ],
+    "presets": {
+      "relaxed": {
+        "length": 0.72,
+        "fullness": 0.23,
+        "arc": 0.15,
+        "bend": 0.14,
+        "side": 0.035,
+        "height": 0.6
+      },
+      "high": {
+        "length": 0.68,
+        "fullness": 0.21,
+        "arc": 0.14,
+        "bend": 0.11,
+        "side": 0.035,
+        "height": 1.0
+      },
+      "compact": {
+        "length": 0.52,
+        "fullness": 0.2,
+        "arc": 0.14,
+        "bend": 0.08,
+        "side": 0.08,
+        "height": 0.45
+      },
+      "full": {
+        "length": 0.77,
+        "fullness": 0.27,
+        "arc": 0.16,
+        "bend": 0.16,
+        "side": 0.09,
+        "height": 0.75
+      }
+    },
+    "default": {
+      "length": 0.72,
+      "fullness": 0.23,
+      "arc": 0.15,
+      "bend": 0.14,
+      "side": 0.035,
+      "height": 0.6
+    },
+    "hairline": "Raised front and temple/ear boundary; narrow vertex-alpha edge and backward directional relief",
+    "root_morph": "TieHeight",
+    "gesture": "Continuous cubic fall with a broad quintic rear wave; five varied sculpted locks.",
+    "front_default": {
+      "length": 0.29,
+      "volume": 0.052,
+      "curl": 0.025,
+      "spread": 0.008,
+      "root": 0.5
+    },
+    "bounds": {
+      "length": [
+        0.48,
+        0.82
+      ],
+      "fullness": [
+        0.16,
+        0.3
+      ],
+      "arc": [
+        0.1,
+        0.22
+      ],
+      "bend": [
+        0,
+        0.2
+      ],
+      "side": [
+        -0.3,
+        0.35
+      ],
+      "height": [
+        0,
+        1
+      ]
+    },
+    "front_bounds": {
+      "length": [
+        0.2,
+        0.38
+      ],
+      "volume": [
+        0.035,
+        0.07
+      ],
+      "curl": [
+        0,
+        0.06
+      ],
+      "spread": [
+        -0.005,
+        0.045
+      ],
+      "root": [
+        0,
+        1
+      ]
+    },
+    "front_anchors": {
+      "-1": [
+        [
+          [
+            -0.1625368297100067,
+            -0.15013271570205688,
+            2.2461776733398438
+          ],
+          [
+            -0.22934490442276,
+            -0.21959730982780457,
+            2.171555757522583
+          ],
+          [
+            -0.27525606751441956,
+            -0.268017053604126,
+            2.080955743789673
+          ],
+          [
+            -0.2949749529361725,
+            -0.28935253620147705,
+            2.0207746028900146
+          ]
+        ],
+        [
+          [
+            -0.14166025817394257,
+            -0.12886281311511993,
+            2.2644317150115967
+          ],
+          [
+            -0.2128724306821823,
+            -0.20276705920696259,
+            2.1974422931671143
+          ],
+          [
+            -0.26363518834114075,
+            -0.25606510043144226,
+            2.1122994422912598
+          ],
+          [
+            -0.2866523265838623,
+            -0.2807695269584656,
+            2.054419755935669
+          ]
+        ]
+      ],
+      "1": [
+        [
+          [
+            0.1625368744134903,
+            -0.15013279020786285,
+            2.2461776733398438
+          ],
+          [
+            0.2293452024459839,
+            -0.21959760785102844,
+            2.171555995941162
+          ],
+          [
+            0.2752561867237091,
+            -0.26801711320877075,
+            2.080955743789673
+          ],
+          [
+            0.2949749529361725,
+            -0.28935253620147705,
+            2.0207746028900146
+          ]
+        ],
+        [
+          [
+            0.14166024327278137,
+            -0.1288628727197647,
+            2.2644317150115967
+          ],
+          [
+            0.2128724902868271,
+            -0.20276711881160736,
+            2.1974422931671143
+          ],
+          [
+            0.26363512873649597,
+            -0.2560650408267975,
+            2.1122994422912598
+          ],
+          [
+            0.2866523265838623,
+            -0.2807695269584656,
+            2.054419755935669
+          ]
+        ]
+      ]
+    }
+  },
+  "construction": {
+    "garments": "One continuous shell, one inward fabric thickness modifier after smoothing. No new waistband returns, outer rolled edges or secondary panels. Heights and lower cuts retained.",
+    "ponytail": "Cubic Y/Z gravity fall; a smooth quintic X rear wave expressed over actual fall distance; five varied shallow locks with restrained grooves.",
+    "front_locks": "Authored current-head root anchors interpolate between two safe heights; a coherent forward allowance keeps free lengths outside the face while the seated root zone stays embedded.",
+    "hairline": "Same general boundary height, lower relief directional pulled-back roots, narrow alpha edge and65 real tapered root-following ribbons.",
+    "native_visibility": "Pants replace the legacy skin leg blobs in the native review and browser. This is the existing lower-body assembly rule; waist repairs do not hide skin to conceal holes."
+  },
+  "rendering": {
+    "coordinates": "Common Blender Z-up/front -Y; native glTF conversion to Y-up/front +Z",
+    "studio": "Fixed181 lighting/color management retained; browser uses its retained fixed approximation",
+    "portable": "Packed scenes + parameters216.py/reproduce216.py/export216.py are self-contained. The local model216.py authoring recipe uses retained art-kit helpers.",
+    "choices": "Hair parameters are reproduced by the portable evaluator. Other selection fields refer to separate inherited components; no new profile assignments.",
+    "alpha": "Root edge uses vertex opacity COLOR_0/BLEND; this is not physical transmission. Existing glasses/lens transmission remains unchanged."
+  },
+  "inherited": {
+    "tops_and_hoods": "Same215 resolution to215/214/213/208/206/203 components",
+    "caps_and_taper": "214, unchanged",
+    "glasses": "213, unchanged",
+    "HOT": "212, unchanged",
+    "masculine_base": "208, unchanged",
+    "bikini": "215, unchanged"
+  },
+  "review": {
+    "self_review_only": true,
+    "source_saved_reopened": true,
+    "fresh_final_export_review": true,
+    "four_tones": true,
+    "source_report": "audit216.json",
+    "browser_report": "browser216.json",
+    "front_boundary_cases": 32,
+    "tail_boundary_cases": 100,
+    "owner_accepted": false,
+    "native_apps_or_phones_tested": false
+  },
+  "next": "Owner review of216. No implicit anatomy/catalogue acceptance or native renderer qualification."
+}

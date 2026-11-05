@@ -1,0 +1,20 @@
+{
+  "revision": 253,
+  "review": "self",
+  "scope": "Replace Highlights with Ombr\u00e9 across16 hairstyles, all authored worn variants and both garment-dependent twin-braid length families.",
+  "owner_approval": "New color awaits review.252 geometry is retained, not newly approved by this change.",
+  "passes": [
+    "Initial full-color pilot: reduced overly pale coil tips and corrected the ponytail bundle progression.",
+    "Second actual-GLB rotation pass across all16 styles, all headwear selections, braid/top cases, four skin tones and other colors.",
+    "Ordinary export integrity checks preserve every geometry/normal/index/alpha value, transforms and secondary texture coordinates. Lossless unused-buffer cleanup adds no compression or quantization.",
+    "Final right-profile and underside visual pass across all16 hairstyles:32 additional exported-model views."
+  ],
+  "browser_checks": 219,
+  "glb_color_variants": 128,
+  "geometry_changes": false,
+  "limits": "Artwork color review; native renderer/portrait composition and phone workload qualification remain separate.",
+  "additional_rotation_checks": {
+    "additional_angles": 32,
+    "errors": []
+  }
+}

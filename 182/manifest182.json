@@ -1,0 +1,25 @@
+{
+  "revision": 182,
+  "status": "Face-only candidates; owner review pending",
+  "source": 181,
+  "unchanged": "181 body, hair, eyes, skin, T-shirt and fixed3D lighting",
+  "changes": [
+    "One integrated optional nose replaces two similar attachments",
+    "Smile gesture more readable",
+    "Open smile rebuilt",
+    "Closed mouth replaces rolled/tiny lips"
+  ],
+  "scope": "Faces only; other garments still pending",
+  "files": {
+    "Feminine-mouth-line.glb": "e8c5791663d15b24155f00d01cb1250f2c649147f4e0c56b1215834e7999e558",
+    "Feminine-mouth-lips.glb": "e5fb8ea1ee948bcfccbe41736672166057e23bd4e248833a837858f00b0733fd",
+    "Feminine-mouth-smile.glb": "3638bfd9965c184f31d50cdf57d0899e9b635855d31cd3f75f5ac3b7f250a882",
+    "Feminine-nose-soft.glb": "15501b154de6cbadcd4550945a884e6f8839f3e7e104ddc57545a41e132b3c92",
+    "Masculine-mouth-line.glb": "397e5b49183f107855351c358432ebc3cbfed960aa2841d32ddf85db4e2b8c0f",
+    "Masculine-mouth-lips.glb": "e1442446497d722ed0f0504681dfe62bb22cba2d0f1669d510813fa26d79cc4b",
+    "Masculine-mouth-smile.glb": "b0cfdd92b3a100e5945cc943dc395f8d686b0178f9a8b44fc506c11ea70d786a",
+    "Masculine-nose-soft.glb": "5b228d3a21342ec6c402d789c4a279127a6496215f289c442e0803948bb3120a"
+  },
+  "presentation": "Unchanged181 fixed3D lighting; gallery captured from actual assembled GLBs",
+  "gallery_review": "Fresh second pass, owner approval pending"
+}

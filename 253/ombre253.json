@@ -1,0 +1,3446 @@
+[
+  {
+    "source": "../208/Feminine-hair.glb",
+    "previous_color": "components/Highlights-0d5b40b8b338252-hair.glb",
+    "path": "components/Ombre-0d5b40b8b338253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "bob",
+        "hair"
+      ],
+      [
+        "Feminine",
+        "bob",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 2863124
+  },
+  {
+    "source": "../208/Masculine-hair.glb",
+    "previous_color": "components/Highlights-05e11d5b8a1c252-hair.glb",
+    "path": "components/Ombre-05e11d5b8a1c253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "sidepart",
+        "hair"
+      ],
+      [
+        "Masculine",
+        "sidepart",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 3328280
+  },
+  {
+    "source": "../224/components/Feminine-cap-hair.glb",
+    "previous_color": "components/Highlights-16ae3440c514252-hair.glb",
+    "path": "components/Ombre-16ae3440c514253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "ponytail",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        0.9791666865348816
+      ],
+      [
+        0.0,
+        0.9791666865348816
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.009999999776482582,
+        0.009999999776482582
+      ]
+    ],
+    "bytes": 3530676
+  },
+  {
+    "source": "../224/components/Feminine-uncovered-hair.glb",
+    "previous_color": "components/Highlights-764dfc05363c252-hair.glb",
+    "path": "components/Ombre-764dfc05363c253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "ponytail",
+        "hair"
+      ],
+      [
+        "Feminine",
+        "ponytail",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        0.9791666865348816
+      ],
+      [
+        0.0,
+        0.9791666865348816
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.009999999776482582,
+        0.009999999776482582
+      ]
+    ],
+    "bytes": 3530664
+  },
+  {
+    "source": "../227/components/Feminine-box-braids-hair.glb",
+    "previous_color": "components/Highlights-5b8fd8b78645252-hair.glb",
+    "path": "components/Ombre-5b8fd8b78645253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "box-braids",
+        "hair"
+      ],
+      [
+        "Feminine",
+        "box-braids",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 16911712
+  },
+  {
+    "source": "../227/components/Feminine-curls-hair.glb",
+    "previous_color": "components/Highlights-e458574e0c9d252-hair.glb",
+    "path": "components/Ombre-e458574e0c9d253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "curls",
+        "hair"
+      ],
+      [
+        "Feminine",
+        "curls",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        0.9314452409744263
+      ],
+      [
+        0.0,
+        0.5523366332054138
+      ],
+      [
+        0.0,
+        0.933573842048645
+      ],
+      [
+        0.0,
+        0.9334056973457336
+      ]
+    ],
+    "bytes": 2988428
+  },
+  {
+    "source": "../227/components/Feminine-side-sweep-hair.glb",
+    "previous_color": "components/Highlights-0aad4aa9bf81252-hair.glb",
+    "path": "components/Ombre-0aad4aa9bf81253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "side-sweep",
+        "hair"
+      ],
+      [
+        "Feminine",
+        "side-sweep",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.009999999776482582,
+        0.009999999776482582
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 2988444
+  },
+  {
+    "source": "../227/components/Feminine-space-buns-hair.glb",
+    "previous_color": "components/Highlights-1196bdd12c81252-hair.glb",
+    "path": "components/Ombre-1196bdd12c81253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "space-buns",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 2132784
+  },
+  {
+    "source": "../235/components/Feminine-bob-closed-hair.glb",
+    "previous_color": "components/Highlights-7c408895751a252-hair.glb",
+    "path": "components/Ombre-7c408895751a253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "bob",
+        "hair"
+      ],
+      [
+        "Feminine",
+        "bob",
+        "hair"
+      ],
+      [
+        "Feminine",
+        "bob",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 2988056
+  },
+  {
+    "source": "../235/components/Feminine-box-braids-closed-hair.glb",
+    "previous_color": "components/Highlights-f68f257ad765252-hair.glb",
+    "path": "components/Ombre-f68f257ad765253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "box-braids",
+        "hair"
+      ],
+      [
+        "Feminine",
+        "box-braids",
+        "hair"
+      ],
+      [
+        "Feminine",
+        "box-braids",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 16911720
+  },
+  {
+    "source": "../235/components/Feminine-curls-closed-hair.glb",
+    "previous_color": "components/Highlights-f8f808efe737252-hair.glb",
+    "path": "components/Ombre-f8f808efe737253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "curls",
+        "hair"
+      ],
+      [
+        "Feminine",
+        "curls",
+        "hair"
+      ],
+      [
+        "Feminine",
+        "curls",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        0.9314452409744263
+      ],
+      [
+        0.0,
+        0.5523366332054138
+      ],
+      [
+        0.0,
+        0.933573842048645
+      ],
+      [
+        0.0,
+        0.9334056973457336
+      ]
+    ],
+    "bytes": 2988460
+  },
+  {
+    "source": "../235/components/Feminine-ponytail-closed-hair.glb",
+    "previous_color": "components/Highlights-61ed6273d619252-hair.glb",
+    "path": "components/Ombre-61ed6273d619253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "ponytail",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.009999999776482582,
+        0.009999999776482582
+      ],
+      [
+        0.0,
+        0.9791666865348816
+      ]
+    ],
+    "bytes": 3078204
+  },
+  {
+    "source": "../235/components/Feminine-side-sweep-closed-hair.glb",
+    "previous_color": "components/Highlights-75841277d4f9252-hair.glb",
+    "path": "components/Ombre-75841277d4f9253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "side-sweep",
+        "hair"
+      ],
+      [
+        "Feminine",
+        "side-sweep",
+        "hair"
+      ],
+      [
+        "Feminine",
+        "side-sweep",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.009999999776482582,
+        0.009999999776482582
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 2988456
+  },
+  {
+    "source": "../235/components/Masculine-sidepart-closed-hair.glb",
+    "previous_color": "components/Highlights-3c07971bc987252-hair.glb",
+    "path": "components/Ombre-3c07971bc987253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "sidepart",
+        "hair"
+      ],
+      [
+        "Masculine",
+        "sidepart",
+        "hair"
+      ],
+      [
+        "Masculine",
+        "sidepart",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 3883996
+  },
+  {
+    "source": "../250/components/Feminine-bob-open-pashmina250-hair.glb",
+    "previous_color": "components/Highlights-4ac4386bfc68252-hair.glb",
+    "path": "components/Ombre-4ac4386bfc68253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "bob",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 3157600
+  },
+  {
+    "source": "../250/components/Feminine-box-braids-open-pashmina250-hair.glb",
+    "previous_color": "components/Highlights-98ba5dd4d0c0252-hair.glb",
+    "path": "components/Ombre-98ba5dd4d0c0253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "box-braids",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 16911768
+  },
+  {
+    "source": "../250/components/Feminine-curls-open-pashmina250-hair.glb",
+    "previous_color": "components/Highlights-6e13555985ca252-hair.glb",
+    "path": "components/Ombre-6e13555985ca253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "curls",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        0.9314452409744263
+      ],
+      [
+        0.0,
+        0.5461912155151367
+      ],
+      [
+        0.0,
+        0.933573842048645
+      ],
+      [
+        0.0,
+        0.9334056973457336
+      ]
+    ],
+    "bytes": 3157992
+  },
+  {
+    "source": "../250/components/Feminine-side-sweep-open-pashmina250-hair.glb",
+    "previous_color": "components/Highlights-d62635bb6817252-hair.glb",
+    "path": "components/Ombre-d62635bb6817253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "side-sweep",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.009999999776482582,
+        0.009999999776482582
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 3327472
+  },
+  {
+    "source": "../250/components/Masculine-sidepart-tank-pashmina250-hair.glb",
+    "previous_color": "components/Highlights-988428c4273d252-hair.glb",
+    "path": "components/Ombre-988428c4273d253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "sidepart",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 3884036
+  },
+  {
+    "source": "../251/components/Feminine-bob-bucket251-hair.glb",
+    "previous_color": "components/Highlights-daeda9edd0b0252-hair.glb",
+    "path": "components/Ombre-daeda9edd0b0253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "bob",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 2988096
+  },
+  {
+    "source": "../251/components/Feminine-bob-headband251-hair.glb",
+    "previous_color": "components/Highlights-ba9c7ef5e7e8252-hair.glb",
+    "path": "components/Ombre-ba9c7ef5e7e8253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "bob",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 2988092
+  },
+  {
+    "source": "../251/components/Feminine-box-braids-bucket251-hair.glb",
+    "previous_color": "components/Highlights-301773003718252-hair.glb",
+    "path": "components/Ombre-301773003718253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "box-braids",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 16911768
+  },
+  {
+    "source": "../251/components/Feminine-box-braids-headband251-hair.glb",
+    "previous_color": "components/Highlights-e68e7167ff91252-hair.glb",
+    "path": "components/Ombre-e68e7167ff91253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "box-braids",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 16911772
+  },
+  {
+    "source": "../251/components/Feminine-curls-bucket251-hair.glb",
+    "previous_color": "components/Highlights-ac8048e2a6a2252-hair.glb",
+    "path": "components/Ombre-ac8048e2a6a2253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "curls",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        0.9314452409744263
+      ],
+      [
+        0.0,
+        0.5523366332054138
+      ],
+      [
+        0.0,
+        0.933573842048645
+      ],
+      [
+        0.0,
+        0.9334056973457336
+      ]
+    ],
+    "bytes": 3327476
+  },
+  {
+    "source": "../251/components/Feminine-curls-headband251-hair.glb",
+    "previous_color": "components/Highlights-0ff990406713252-hair.glb",
+    "path": "components/Ombre-0ff990406713253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "curls",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        0.9314452409744263
+      ],
+      [
+        0.0,
+        0.5523366332054138
+      ],
+      [
+        0.0,
+        0.933573842048645
+      ],
+      [
+        0.0,
+        0.9334056973457336
+      ]
+    ],
+    "bytes": 3157984
+  },
+  {
+    "source": "../251/components/Feminine-ponytail-beanie251-hair.glb",
+    "previous_color": "components/Highlights-20f16ecb6b36252-hair.glb",
+    "path": "components/Ombre-20f16ecb6b36253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "ponytail",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.009999999776482582,
+        0.009999999776482582
+      ],
+      [
+        0.0,
+        0.9791666865348816
+      ]
+    ],
+    "bytes": 3078304
+  },
+  {
+    "source": "../251/components/Feminine-ponytail-bucket251-hair.glb",
+    "previous_color": "components/Highlights-010e6871b0ff252-hair.glb",
+    "path": "components/Ombre-010e6871b0ff253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "ponytail",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.009999999776482582,
+        0.009999999776482582
+      ],
+      [
+        0.0,
+        0.9791666865348816
+      ]
+    ],
+    "bytes": 3078300
+  },
+  {
+    "source": "../251/components/Feminine-ponytail-headband251-hair.glb",
+    "previous_color": "components/Highlights-887dbbe70ee1252-hair.glb",
+    "path": "components/Ombre-887dbbe70ee1253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "ponytail",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.009999999776482582,
+        0.009999999776482582
+      ],
+      [
+        0.0,
+        0.9791666865348816
+      ]
+    ],
+    "bytes": 3078300
+  },
+  {
+    "source": "../251/components/Feminine-ponytail-pashmina251-hair.glb",
+    "previous_color": "components/Highlights-e7682a1e78ab252-hair.glb",
+    "path": "components/Ombre-e7682a1e78ab253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "ponytail",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        0.9642857313156128
+      ],
+      [
+        0.0,
+        0.9642857313156128
+      ],
+      [
+        0.0,
+        0.9642857313156128
+      ],
+      [
+        0.009999999776482582,
+        0.009999999776482582
+      ],
+      [
+        0.0,
+        0.9791666865348816
+      ]
+    ],
+    "bytes": 3663252
+  },
+  {
+    "source": "../251/components/Feminine-side-sweep-bucket251-hair.glb",
+    "previous_color": "components/Highlights-a8a5eb3fef03252-hair.glb",
+    "path": "components/Ombre-a8a5eb3fef03253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "side-sweep",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.009999999776482582,
+        0.009999999776482582
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 3327472
+  },
+  {
+    "source": "../251/components/Feminine-side-sweep-headband251-hair.glb",
+    "previous_color": "components/Highlights-69c2cb78c415252-hair.glb",
+    "path": "components/Ombre-69c2cb78c415253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "side-sweep",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.009999999776482582,
+        0.009999999776482582
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 3327476
+  },
+  {
+    "source": "../251/components/Feminine-space-buns-beanie251-hair.glb",
+    "previous_color": "components/Highlights-7dde74563731252-hair.glb",
+    "path": "components/Ombre-7dde74563731253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "space-buns",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 2132840
+  },
+  {
+    "source": "../251/components/Feminine-space-buns-bucket251-hair.glb",
+    "previous_color": "components/Highlights-c4b43c311630252-hair.glb",
+    "path": "components/Ombre-c4b43c311630253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "space-buns",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 2132840
+  },
+  {
+    "source": "../251/components/Feminine-space-buns-cap251-hair.glb",
+    "previous_color": "components/Highlights-13d7c995fe0c252-hair.glb",
+    "path": "components/Ombre-13d7c995fe0c253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "space-buns",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 2132840
+  },
+  {
+    "source": "../251/components/Feminine-space-buns-cowboy251-hair.glb",
+    "previous_color": "components/Highlights-121a504bc814252-hair.glb",
+    "path": "components/Ombre-121a504bc814253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "space-buns",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 2132840
+  },
+  {
+    "source": "../251/components/Feminine-space-buns-ears251-hair.glb",
+    "previous_color": "components/Highlights-5b44237b6e22252-hair.glb",
+    "path": "components/Ombre-5b44237b6e22253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "space-buns",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 2132840
+  },
+  {
+    "source": "../251/components/Feminine-space-buns-headband251-hair.glb",
+    "previous_color": "components/Highlights-a54081eb2144252-hair.glb",
+    "path": "components/Ombre-a54081eb2144253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "space-buns",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 2132840
+  },
+  {
+    "source": "../251/components/Feminine-space-buns-pashmina251-hair.glb",
+    "previous_color": "components/Highlights-1da0a6b29b01252-hair.glb",
+    "path": "components/Ombre-1da0a6b29b01253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "space-buns",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 2132840
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-bandeau-lengths251.glb",
+    "previous_color": "components/Highlights-4d3e317ddc33252-hair.glb",
+    "path": "components/Ombre-4d3e317ddc33253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "twin-braids",
+        "lengths"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 671832
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-bandeau-pashmina-lengths251.glb",
+    "previous_color": "components/Highlights-4b87e7c6ca21252-hair.glb",
+    "path": "components/Ombre-4b87e7c6ca21253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "twin-braids",
+        "lengths"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 671832
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-beanie251-hair.glb",
+    "previous_color": "components/Highlights-a17a6822dc38252-hair.glb",
+    "path": "components/Ombre-a17a6822dc38253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "twin-braids",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        0.43038779497146606
+      ]
+    ],
+    "bytes": 1302676
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-bucket251-hair.glb",
+    "previous_color": "components/Highlights-2040dfdb3eb7252-hair.glb",
+    "path": "components/Ombre-2040dfdb3eb7253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "twin-braids",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        0.43038779497146606
+      ]
+    ],
+    "bytes": 1302676
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-cap251-hair.glb",
+    "previous_color": "components/Highlights-3772e6a4ef8e252-hair.glb",
+    "path": "components/Ombre-3772e6a4ef8e253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "twin-braids",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        0.43038779497146606
+      ]
+    ],
+    "bytes": 1302676
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-cowboy251-hair.glb",
+    "previous_color": "components/Highlights-b977d45a968c252-hair.glb",
+    "path": "components/Ombre-b977d45a968c253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "twin-braids",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        0.43038779497146606
+      ]
+    ],
+    "bytes": 1302676
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-ears251-hair.glb",
+    "previous_color": "components/Highlights-84a1808c0f0d252-hair.glb",
+    "path": "components/Ombre-84a1808c0f0d253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "twin-braids",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        0.43038779497146606
+      ]
+    ],
+    "bytes": 1302676
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-headband251-hair.glb",
+    "previous_color": "components/Highlights-78e22c5b71cb252-hair.glb",
+    "path": "components/Ombre-78e22c5b71cb253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "twin-braids",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        0.43038779497146606
+      ]
+    ],
+    "bytes": 1302676
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-jersey-lengths251.glb",
+    "previous_color": "components/Highlights-83bda0f4629a252-hair.glb",
+    "path": "components/Ombre-83bda0f4629a253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "twin-braids",
+        "lengths"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 671832
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-jersey-pashmina-lengths251.glb",
+    "previous_color": "components/Highlights-c7cdcd9a4242252-hair.glb",
+    "path": "components/Ombre-c7cdcd9a4242253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "twin-braids",
+        "lengths"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 671832
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-open-lengths251.glb",
+    "previous_color": "components/Highlights-aa1585a6a48d252-hair.glb",
+    "path": "components/Ombre-aa1585a6a48d253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "twin-braids",
+        "lengths"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 671832
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-open-pashmina-lengths251.glb",
+    "previous_color": "components/Highlights-977ab3b6ca6d252-hair.glb",
+    "path": "components/Ombre-977ab3b6ca6d253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "twin-braids",
+        "lengths"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 671832
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-pashmina251-hair.glb",
+    "previous_color": "components/Highlights-9e8a23a746c8252-hair.glb",
+    "path": "components/Ombre-9e8a23a746c8253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "twin-braids",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        0.43038779497146606
+      ]
+    ],
+    "bytes": 1302676
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-roots251-hair.glb",
+    "previous_color": "components/Highlights-d12db29197b1252-hair.glb",
+    "path": "components/Ombre-d12db29197b1253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "twin-braids",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        0.43038779497146606
+      ]
+    ],
+    "bytes": 1302672
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-strappy-lengths251.glb",
+    "previous_color": "components/Highlights-4b8642ae93f0252-hair.glb",
+    "path": "components/Ombre-4b8642ae93f0253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "twin-braids",
+        "lengths"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 671832
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-strappy-pashmina-lengths251.glb",
+    "previous_color": "components/Highlights-a4a6b3562a90252-hair.glb",
+    "path": "components/Ombre-a4a6b3562a90253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "twin-braids",
+        "lengths"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 671832
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-sweatshirt-lengths251.glb",
+    "previous_color": "components/Highlights-4a8e6b11dd5d252-hair.glb",
+    "path": "components/Ombre-4a8e6b11dd5d253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "twin-braids",
+        "lengths"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 671832
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-sweatshirt-pashmina-lengths251.glb",
+    "previous_color": "components/Highlights-8f89c6f6601b252-hair.glb",
+    "path": "components/Ombre-8f89c6f6601b253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "twin-braids",
+        "lengths"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 671828
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-tank-lengths251.glb",
+    "previous_color": "components/Highlights-87a7004c0723252-hair.glb",
+    "path": "components/Ombre-87a7004c0723253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "twin-braids",
+        "lengths"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 671832
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-tank-pashmina-lengths251.glb",
+    "previous_color": "components/Highlights-d348a3fe28a1252-hair.glb",
+    "path": "components/Ombre-d348a3fe28a1253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "twin-braids",
+        "lengths"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 671832
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-triangle-lengths251.glb",
+    "previous_color": "components/Highlights-6ae0a500200f252-hair.glb",
+    "path": "components/Ombre-6ae0a500200f253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "twin-braids",
+        "lengths"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 671832
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-triangle-pashmina-lengths251.glb",
+    "previous_color": "components/Highlights-3e99e4fdd102252-hair.glb",
+    "path": "components/Ombre-3e99e4fdd102253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "twin-braids",
+        "lengths"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 671828
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-tshirt-lengths251.glb",
+    "previous_color": "components/Highlights-6e4438610747252-hair.glb",
+    "path": "components/Ombre-6e4438610747253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "twin-braids",
+        "lengths"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 671832
+  },
+  {
+    "source": "../251/components/Feminine-twin-braids-tshirt-pashmina-lengths251.glb",
+    "previous_color": "components/Highlights-79137781d454252-hair.glb",
+    "path": "components/Ombre-79137781d454253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "twin-braids",
+        "lengths"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 671832
+  },
+  {
+    "source": "../251/components/Masculine-sidepart-bucket251-hair.glb",
+    "previous_color": "components/Highlights-8b802f876ba7252-hair.glb",
+    "path": "components/Ombre-8b802f876ba7253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "sidepart",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 3884028
+  },
+  {
+    "source": "../251/components/Masculine-sidepart-headband251-hair.glb",
+    "previous_color": "components/Highlights-86894598a4e2252-hair.glb",
+    "path": "components/Ombre-86894598a4e2253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "sidepart",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 3884036
+  },
+  {
+    "source": "components/Feminine-straight-beanie252-hair.glb",
+    "previous_color": "components/Highlights-ae1d5543e798252-hair.glb",
+    "path": "components/Ombre-ae1d5543e798253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "straight",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 3424648
+  },
+  {
+    "source": "components/Feminine-straight-bucket252-hair.glb",
+    "previous_color": "components/Highlights-34017b98a9bc252-hair.glb",
+    "path": "components/Ombre-34017b98a9bc253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "straight",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 3594132
+  },
+  {
+    "source": "components/Feminine-straight-cap252-hair.glb",
+    "previous_color": "components/Highlights-49fe7fe0863f252-hair.glb",
+    "path": "components/Ombre-49fe7fe0863f253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "straight",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 3424648
+  },
+  {
+    "source": "components/Feminine-straight-cowboy252-hair.glb",
+    "previous_color": "components/Highlights-f93f70ff82d5252-hair.glb",
+    "path": "components/Ombre-f93f70ff82d5253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "straight",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 3424648
+  },
+  {
+    "source": "components/Feminine-straight-ears252-hair.glb",
+    "previous_color": "components/Highlights-9e580043f3ec252-hair.glb",
+    "path": "components/Ombre-9e580043f3ec253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "straight",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 3424584
+  },
+  {
+    "source": "components/Feminine-straight-hair252.glb",
+    "previous_color": "components/Highlights-8e3577a87979252-hair.glb",
+    "path": "components/Ombre-8e3577a87979253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "straight",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 3254952
+  },
+  {
+    "source": "components/Feminine-straight-headband252-hair.glb",
+    "previous_color": "components/Highlights-34c63707dc30252-hair.glb",
+    "path": "components/Ombre-34c63707dc30253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "straight",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 3424648
+  },
+  {
+    "source": "components/Feminine-straight-pashmina252-hair.glb",
+    "previous_color": "components/Highlights-05361faa6984252-hair.glb",
+    "path": "components/Ombre-05361faa6984253-hair.glb",
+    "roles": [
+      [
+        "Feminine",
+        "straight",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 3424648
+  },
+  {
+    "source": "components/Masculine-afro-beanie252-hair.glb",
+    "previous_color": "components/Highlights-7715271c244e252-hair.glb",
+    "path": "components/Ombre-7715271c244e253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "afro",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.10000000149011612,
+        0.8331113457679749
+      ]
+    ],
+    "bytes": 7096548
+  },
+  {
+    "source": "components/Masculine-afro-bucket252-hair.glb",
+    "previous_color": "components/Highlights-1712bc200eb3252-hair.glb",
+    "path": "components/Ombre-1712bc200eb3253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "afro",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.10000000149011612,
+        0.8890193104743958
+      ]
+    ],
+    "bytes": 7096548
+  },
+  {
+    "source": "components/Masculine-afro-cap252-hair.glb",
+    "previous_color": "components/Highlights-723f67051610252-hair.glb",
+    "path": "components/Ombre-723f67051610253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "afro",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.10000000149011612,
+        0.8271386027336121
+      ]
+    ],
+    "bytes": 7096548
+  },
+  {
+    "source": "components/Masculine-afro-cowboy252-hair.glb",
+    "previous_color": "components/Highlights-2d337a1d5c56252-hair.glb",
+    "path": "components/Ombre-2d337a1d5c56253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "afro",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.10000000149011612,
+        0.8890193104743958
+      ]
+    ],
+    "bytes": 7096548
+  },
+  {
+    "source": "components/Masculine-afro-ears252-hair.glb",
+    "previous_color": "components/Highlights-aa6c2561f5b1252-hair.glb",
+    "path": "components/Ombre-aa6c2561f5b1253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "afro",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.10000000149011612,
+        0.9280101656913757
+      ]
+    ],
+    "bytes": 7096548
+  },
+  {
+    "source": "components/Masculine-afro-hair252.glb",
+    "previous_color": "components/Highlights-7b2dde444bbf252-hair.glb",
+    "path": "components/Ombre-7b2dde444bbf253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "afro",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.10000000149011612,
+        0.9280101656913757
+      ]
+    ],
+    "bytes": 7096536
+  },
+  {
+    "source": "components/Masculine-afro-headband252-hair.glb",
+    "previous_color": "components/Highlights-5fcf2b980144252-hair.glb",
+    "path": "components/Ombre-5fcf2b980144253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "afro",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.10000000149011612,
+        0.9280101656913757
+      ]
+    ],
+    "bytes": 7096548
+  },
+  {
+    "source": "components/Masculine-afro-pashmina252-hair.glb",
+    "previous_color": "components/Highlights-03ca3a563e69252-hair.glb",
+    "path": "components/Ombre-03ca3a563e69253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "afro",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.10000000149011612,
+        0.9110358357429504
+      ]
+    ],
+    "bytes": 7096544
+  },
+  {
+    "source": "components/Masculine-buzz-beanie252-hair.glb",
+    "previous_color": "components/Highlights-c23de5bf589b252-hair.glb",
+    "path": "components/Ombre-c23de5bf589b253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "buzz",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.25,
+        0.36000001430511475
+      ]
+    ],
+    "bytes": 3713524
+  },
+  {
+    "source": "components/Masculine-buzz-bucket252-hair.glb",
+    "previous_color": "components/Highlights-13162f702c8e252-hair.glb",
+    "path": "components/Ombre-13162f702c8e253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "buzz",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.25,
+        0.36000001430511475
+      ]
+    ],
+    "bytes": 3713528
+  },
+  {
+    "source": "components/Masculine-buzz-cap252-hair.glb",
+    "previous_color": "components/Highlights-9e260947a864252-hair.glb",
+    "path": "components/Ombre-9e260947a864253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "buzz",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.25,
+        0.36000001430511475
+      ]
+    ],
+    "bytes": 3713528
+  },
+  {
+    "source": "components/Masculine-buzz-cowboy252-hair.glb",
+    "previous_color": "components/Highlights-13c2635cf274252-hair.glb",
+    "path": "components/Ombre-13c2635cf274253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "buzz",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.25,
+        0.36000001430511475
+      ]
+    ],
+    "bytes": 3713528
+  },
+  {
+    "source": "components/Masculine-buzz-ears252-hair.glb",
+    "previous_color": "components/Highlights-8fd567fb4035252-hair.glb",
+    "path": "components/Ombre-8fd567fb4035253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "buzz",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.25,
+        0.36000001430511475
+      ]
+    ],
+    "bytes": 3713524
+  },
+  {
+    "source": "components/Masculine-buzz-hair252.glb",
+    "previous_color": "components/Highlights-b0033e6ba995252-hair.glb",
+    "path": "components/Ombre-b0033e6ba995253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "buzz",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.25,
+        0.36000001430511475
+      ]
+    ],
+    "bytes": 3713532
+  },
+  {
+    "source": "components/Masculine-buzz-headband252-hair.glb",
+    "previous_color": "components/Highlights-cb743c1a9a75252-hair.glb",
+    "path": "components/Ombre-cb743c1a9a75253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "buzz",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.25,
+        0.36000001430511475
+      ]
+    ],
+    "bytes": 3713524
+  },
+  {
+    "source": "components/Masculine-buzz-pashmina252-hair.glb",
+    "previous_color": "components/Highlights-2ba9be9e11f8252-hair.glb",
+    "path": "components/Ombre-2ba9be9e11f8253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "buzz",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.25,
+        0.36000001430511475
+      ]
+    ],
+    "bytes": 3713524
+  },
+  {
+    "source": "components/Masculine-curly-top-beanie252-hair.glb",
+    "previous_color": "components/Highlights-6bb778cf5cdc252-hair.glb",
+    "path": "components/Ombre-6bb778cf5cdc253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "curly-top",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.10000000149011612,
+        0.5285118818283081
+      ]
+    ],
+    "bytes": 21135732
+  },
+  {
+    "source": "components/Masculine-curly-top-bucket252-hair.glb",
+    "previous_color": "components/Highlights-488d4d3bc975252-hair.glb",
+    "path": "components/Ombre-488d4d3bc975253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "curly-top",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.10000000149011612,
+        0.5429532527923584
+      ]
+    ],
+    "bytes": 21135792
+  },
+  {
+    "source": "components/Masculine-curly-top-cap252-hair.glb",
+    "previous_color": "components/Highlights-df79dd21012d252-hair.glb",
+    "path": "components/Ombre-df79dd21012d253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "curly-top",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.10000000149011612,
+        0.10000000149011612
+      ]
+    ],
+    "bytes": 21136624
+  },
+  {
+    "source": "components/Masculine-curly-top-cowboy252-hair.glb",
+    "previous_color": "components/Highlights-28e74ff87962252-hair.glb",
+    "path": "components/Ombre-28e74ff87962253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "curly-top",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.10000000149011612,
+        0.5429532527923584
+      ]
+    ],
+    "bytes": 21136052
+  },
+  {
+    "source": "components/Masculine-curly-top-ears252-hair.glb",
+    "previous_color": "components/Highlights-795e29d7d307252-hair.glb",
+    "path": "components/Ombre-795e29d7d307253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "curly-top",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.10000000149011612,
+        0.5429532527923584
+      ]
+    ],
+    "bytes": 21135732
+  },
+  {
+    "source": "components/Masculine-curly-top-hair252.glb",
+    "previous_color": "components/Highlights-788f91ea5d20252-hair.glb",
+    "path": "components/Ombre-788f91ea5d20253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "curly-top",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.10000000149011612,
+        0.5429532527923584
+      ]
+    ],
+    "bytes": 21112668
+  },
+  {
+    "source": "components/Masculine-curly-top-headband252-hair.glb",
+    "previous_color": "components/Highlights-8fae4cc57f24252-hair.glb",
+    "path": "components/Ombre-8fae4cc57f24253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "curly-top",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.10000000149011612,
+        0.5429532527923584
+      ]
+    ],
+    "bytes": 21135732
+  },
+  {
+    "source": "components/Masculine-curly-top-pashmina252-hair.glb",
+    "previous_color": "components/Highlights-d300b2738454252-hair.glb",
+    "path": "components/Ombre-d300b2738454253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "curly-top",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.10000000149011612,
+        0.5429532527923584
+      ]
+    ],
+    "bytes": 21135728
+  },
+  {
+    "source": "components/Masculine-flow-beanie252-hair.glb",
+    "previous_color": "components/Highlights-3270370b013b252-hair.glb",
+    "path": "components/Ombre-3270370b013b253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "flow",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 12048680
+  },
+  {
+    "source": "components/Masculine-flow-bucket252-hair.glb",
+    "previous_color": "components/Highlights-ce08f81a1451252-hair.glb",
+    "path": "components/Ombre-ce08f81a1451253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "flow",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 12048680
+  },
+  {
+    "source": "components/Masculine-flow-cap252-hair.glb",
+    "previous_color": "components/Highlights-690e5140026f252-hair.glb",
+    "path": "components/Ombre-690e5140026f253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "flow",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 12048680
+  },
+  {
+    "source": "components/Masculine-flow-cowboy252-hair.glb",
+    "previous_color": "components/Highlights-872aca8d5068252-hair.glb",
+    "path": "components/Ombre-872aca8d5068253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "flow",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 12048680
+  },
+  {
+    "source": "components/Masculine-flow-ears252-hair.glb",
+    "previous_color": "components/Highlights-5acb39feef0d252-hair.glb",
+    "path": "components/Ombre-5acb39feef0d253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "flow",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 12048680
+  },
+  {
+    "source": "components/Masculine-flow-hair252.glb",
+    "previous_color": "components/Highlights-96ada1a2b61a252-hair.glb",
+    "path": "components/Ombre-96ada1a2b61a253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "flow",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 12048672
+  },
+  {
+    "source": "components/Masculine-flow-headband252-hair.glb",
+    "previous_color": "components/Highlights-45d339fdd49e252-hair.glb",
+    "path": "components/Ombre-45d339fdd49e253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "flow",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 12048680
+  },
+  {
+    "source": "components/Masculine-flow-pashmina252-hair.glb",
+    "previous_color": "components/Highlights-f608a9380c9f252-hair.glb",
+    "path": "components/Ombre-f608a9380c9f253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "flow",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 12048680
+  },
+  {
+    "source": "components/Masculine-locs-beanie252-hair.glb",
+    "previous_color": "components/Highlights-124664157171252-hair.glb",
+    "path": "components/Ombre-124664157171253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "locs",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 5240340
+  },
+  {
+    "source": "components/Masculine-locs-bucket252-hair.glb",
+    "previous_color": "components/Highlights-efedeeb8b7f5252-hair.glb",
+    "path": "components/Ombre-efedeeb8b7f5253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "locs",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 5240344
+  },
+  {
+    "source": "components/Masculine-locs-cap252-hair.glb",
+    "previous_color": "components/Highlights-66e3ad10b2f8252-hair.glb",
+    "path": "components/Ombre-66e3ad10b2f8253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "locs",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 5240344
+  },
+  {
+    "source": "components/Masculine-locs-cowboy252-hair.glb",
+    "previous_color": "components/Highlights-3f358f84c80e252-hair.glb",
+    "path": "components/Ombre-3f358f84c80e253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "locs",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 5240340
+  },
+  {
+    "source": "components/Masculine-locs-ears252-hair.glb",
+    "previous_color": "components/Highlights-eb8cb57c6eb5252-hair.glb",
+    "path": "components/Ombre-eb8cb57c6eb5253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "locs",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 5240340
+  },
+  {
+    "source": "components/Masculine-locs-hair252.glb",
+    "previous_color": "components/Highlights-d146f7dcaade252-hair.glb",
+    "path": "components/Ombre-d146f7dcaade253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "locs",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 5240340
+  },
+  {
+    "source": "components/Masculine-locs-headband252-hair.glb",
+    "previous_color": "components/Highlights-25ce2f064639252-hair.glb",
+    "path": "components/Ombre-25ce2f064639253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "locs",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 5240340
+  },
+  {
+    "source": "components/Masculine-locs-pashmina252-hair.glb",
+    "previous_color": "components/Highlights-1ee73f66b1e4252-hair.glb",
+    "path": "components/Ombre-1ee73f66b1e4253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "locs",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 5240340
+  },
+  {
+    "source": "components/Masculine-middle-part-beanie252-hair.glb",
+    "previous_color": "components/Highlights-3c310fe1261f252-hair.glb",
+    "path": "components/Ombre-3c310fe1261f253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "middle-part",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 12048692
+  },
+  {
+    "source": "components/Masculine-middle-part-bucket252-hair.glb",
+    "previous_color": "components/Highlights-22ff1a42438c252-hair.glb",
+    "path": "components/Ombre-22ff1a42438c253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "middle-part",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 12048696
+  },
+  {
+    "source": "components/Masculine-middle-part-cap252-hair.glb",
+    "previous_color": "components/Highlights-30907b967027252-hair.glb",
+    "path": "components/Ombre-30907b967027253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "middle-part",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 12048692
+  },
+  {
+    "source": "components/Masculine-middle-part-cowboy252-hair.glb",
+    "previous_color": "components/Highlights-a0681f1f4abd252-hair.glb",
+    "path": "components/Ombre-a0681f1f4abd253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "middle-part",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 12048696
+  },
+  {
+    "source": "components/Masculine-middle-part-ears252-hair.glb",
+    "previous_color": "components/Highlights-a6ae87496c76252-hair.glb",
+    "path": "components/Ombre-a6ae87496c76253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "middle-part",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 12048692
+  },
+  {
+    "source": "components/Masculine-middle-part-hair252.glb",
+    "previous_color": "components/Highlights-fdc2eea04f66252-hair.glb",
+    "path": "components/Ombre-fdc2eea04f66253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "middle-part",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 12048680
+  },
+  {
+    "source": "components/Masculine-middle-part-headband252-hair.glb",
+    "previous_color": "components/Highlights-d250cf447480252-hair.glb",
+    "path": "components/Ombre-d250cf447480253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "middle-part",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 12048692
+  },
+  {
+    "source": "components/Masculine-middle-part-pashmina252-hair.glb",
+    "previous_color": "components/Highlights-d28395d933ab252-hair.glb",
+    "path": "components/Ombre-d28395d933ab253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "middle-part",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 12048692
+  },
+  {
+    "source": "components/Masculine-taper-beanie252-hair.glb",
+    "previous_color": "components/Highlights-4bbcb22e4b29252-hair.glb",
+    "path": "components/Ombre-4bbcb22e4b29253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "taper",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 6010304
+  },
+  {
+    "source": "components/Masculine-taper-bucket252-hair.glb",
+    "previous_color": "components/Highlights-c2a5ef5d558c252-hair.glb",
+    "path": "components/Ombre-c2a5ef5d558c253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "taper",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 6010300
+  },
+  {
+    "source": "components/Masculine-taper-cap252-hair.glb",
+    "previous_color": "components/Highlights-5ce50f685e44252-hair.glb",
+    "path": "components/Ombre-5ce50f685e44253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "taper",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 6010300
+  },
+  {
+    "source": "components/Masculine-taper-cowboy252-hair.glb",
+    "previous_color": "components/Highlights-45efe110d885252-hair.glb",
+    "path": "components/Ombre-45efe110d885253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "taper",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 6010300
+  },
+  {
+    "source": "components/Masculine-taper-ears252-hair.glb",
+    "previous_color": "components/Highlights-723bb6744bb2252-hair.glb",
+    "path": "components/Ombre-723bb6744bb2253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "taper",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 6010300
+  },
+  {
+    "source": "components/Masculine-taper-hair252.glb",
+    "previous_color": "components/Highlights-673158f0bb53252-hair.glb",
+    "path": "components/Ombre-673158f0bb53253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "taper",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 6010288
+  },
+  {
+    "source": "components/Masculine-taper-headband252-hair.glb",
+    "previous_color": "components/Highlights-253605f3c624252-hair.glb",
+    "path": "components/Ombre-253605f3c624253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "taper",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 6010300
+  },
+  {
+    "source": "components/Masculine-taper-pashmina252-hair.glb",
+    "previous_color": "components/Highlights-d5e730e4d5aa252-hair.glb",
+    "path": "components/Ombre-d5e730e4d5aa253-hair.glb",
+    "roles": [
+      [
+        "Masculine",
+        "taper",
+        "hair"
+      ]
+    ],
+    "all_geometry_normals_indices_alpha_transforms_preserved": true,
+    "changes": "Primary color UV progress and embedded color atlas only",
+    "growth_progress_ranges": [
+      [
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        1.0
+      ]
+    ],
+    "bytes": 6010300
+  }
+]

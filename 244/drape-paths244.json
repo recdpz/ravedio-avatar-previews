@@ -1,0 +1,174 @@
+{
+  "Feminine": {
+    "open": {
+      "source": "E:\\Ravedio-Avatar\\catalogue244\\sources\\Feminine-open-pashmina244.blend",
+      "component": "components/Feminine-open-pashmina244-headgear.glb",
+      "top": "open",
+      "protected_neighbors_exact": true,
+      "closed_surface": true,
+      "upper_hood_exact_above": 1.49,
+      "free_drape_exact243_after_t": 0.27,
+      "moved_vertices": 24460,
+      "border_rings": 62,
+      "construction": "Inherited lower-neck tabs gathered inward into one clean continuous neck transition.243 raised knot and outer-chest drape retained; border follows its attached fabric."
+    },
+    "bandeau": {
+      "source": "E:\\Ravedio-Avatar\\catalogue244\\sources\\Feminine-bandeau-pashmina244.blend",
+      "component": "components/Feminine-bandeau-pashmina244-headgear.glb",
+      "top": "bandeau",
+      "protected_neighbors_exact": true,
+      "closed_surface": true,
+      "upper_hood_exact_above": 1.49,
+      "free_drape_exact243_after_t": 0.27,
+      "moved_vertices": 24462,
+      "border_rings": 62,
+      "construction": "Inherited lower-neck tabs gathered inward into one clean continuous neck transition.243 raised knot and outer-chest drape retained; border follows its attached fabric."
+    },
+    "triangle": {
+      "source": "E:\\Ravedio-Avatar\\catalogue244\\sources\\Feminine-triangle-pashmina244.blend",
+      "component": "components/Feminine-triangle-pashmina244-headgear.glb",
+      "top": "triangle",
+      "protected_neighbors_exact": true,
+      "closed_surface": true,
+      "upper_hood_exact_above": 1.49,
+      "free_drape_exact243_after_t": 0.27,
+      "moved_vertices": 24462,
+      "border_rings": 62,
+      "construction": "Inherited lower-neck tabs gathered inward into one clean continuous neck transition.243 raised knot and outer-chest drape retained; border follows its attached fabric."
+    },
+    "strappy": {
+      "source": "E:\\Ravedio-Avatar\\catalogue244\\sources\\Feminine-strappy-pashmina244.blend",
+      "component": "components/Feminine-strappy-pashmina244-headgear.glb",
+      "top": "strappy",
+      "protected_neighbors_exact": true,
+      "closed_surface": true,
+      "upper_hood_exact_above": 1.49,
+      "free_drape_exact243_after_t": 0.27,
+      "moved_vertices": 24462,
+      "border_rings": 62,
+      "construction": "Inherited lower-neck tabs gathered inward into one clean continuous neck transition.243 raised knot and outer-chest drape retained; border follows its attached fabric."
+    },
+    "tshirt": {
+      "source": "E:\\Ravedio-Avatar\\catalogue244\\sources\\Feminine-tshirt-pashmina244.blend",
+      "component": "components/Feminine-tshirt-pashmina244-headgear.glb",
+      "top": "tshirt",
+      "protected_neighbors_exact": true,
+      "closed_surface": true,
+      "upper_hood_exact_above": 1.49,
+      "free_drape_exact243_after_t": 0.27,
+      "moved_vertices": 24462,
+      "border_rings": 62,
+      "construction": "Inherited lower-neck tabs gathered inward into one clean continuous neck transition.243 raised knot and outer-chest drape retained; border follows its attached fabric."
+    },
+    "jersey": {
+      "source": "E:\\Ravedio-Avatar\\catalogue244\\sources\\Feminine-jersey-pashmina244.blend",
+      "component": "components/Feminine-jersey-pashmina244-headgear.glb",
+      "top": "jersey",
+      "protected_neighbors_exact": true,
+      "closed_surface": true,
+      "upper_hood_exact_above": 1.49,
+      "free_drape_exact243_after_t": 0.27,
+      "moved_vertices": 24462,
+      "border_rings": 62,
+      "construction": "Inherited lower-neck tabs gathered inward into one clean continuous neck transition.243 raised knot and outer-chest drape retained; border follows its attached fabric."
+    },
+    "tank": {
+      "source": "E:\\Ravedio-Avatar\\catalogue244\\sources\\Feminine-tank-pashmina244.blend",
+      "component": "components/Feminine-tank-pashmina244-headgear.glb",
+      "top": "tank",
+      "protected_neighbors_exact": true,
+      "closed_surface": true,
+      "upper_hood_exact_above": 1.49,
+      "free_drape_exact243_after_t": 0.27,
+      "moved_vertices": 24462,
+      "border_rings": 62,
+      "construction": "Inherited lower-neck tabs gathered inward into one clean continuous neck transition.243 raised knot and outer-chest drape retained; border follows its attached fabric."
+    },
+    "sweatshirt": {
+      "source": "E:\\Ravedio-Avatar\\catalogue244\\sources\\Feminine-sweatshirt-pashmina244.blend",
+      "component": "components/Feminine-sweatshirt-pashmina244-headgear.glb",
+      "top": "sweatshirt",
+      "protected_neighbors_exact": true,
+      "closed_surface": true,
+      "upper_hood_exact_above": 1.49,
+      "free_drape_exact243_after_t": 0.27,
+      "moved_vertices": 24462,
+      "border_rings": 62,
+      "construction": "Inherited lower-neck tabs gathered inward into one clean continuous neck transition.243 raised knot and outer-chest drape retained; border follows its attached fabric."
+    }
+  },
+  "Masculine": {
+    "shirtless": {
+      "source": "E:\\Ravedio-Avatar\\catalogue244\\sources\\Masculine-shirtless-pashmina244.blend",
+      "component": "components/Masculine-shirtless-pashmina244-headgear.glb",
+      "top": "shirtless",
+      "protected_neighbors_exact": true,
+      "closed_surface": true,
+      "upper_hood_exact_above": 1.49,
+      "free_drape_exact243_after_t": 0.27,
+      "moved_vertices": 24434,
+      "border_rings": 62,
+      "construction": "Inherited lower-neck tabs gathered inward into one clean continuous neck transition.243 raised knot and outer-chest drape retained; border follows its attached fabric."
+    },
+    "tank": {
+      "source": "E:\\Ravedio-Avatar\\catalogue244\\sources\\Masculine-tank-pashmina244.blend",
+      "component": "components/Masculine-tank-pashmina244-headgear.glb",
+      "top": "tank",
+      "protected_neighbors_exact": true,
+      "closed_surface": true,
+      "upper_hood_exact_above": 1.49,
+      "free_drape_exact243_after_t": 0.27,
+      "moved_vertices": 24434,
+      "border_rings": 62,
+      "construction": "Inherited lower-neck tabs gathered inward into one clean continuous neck transition.243 raised knot and outer-chest drape retained; border follows its attached fabric."
+    },
+    "tshirt": {
+      "source": "E:\\Ravedio-Avatar\\catalogue244\\sources\\Masculine-tshirt-pashmina244.blend",
+      "component": "components/Masculine-tshirt-pashmina244-headgear.glb",
+      "top": "tshirt",
+      "protected_neighbors_exact": true,
+      "closed_surface": true,
+      "upper_hood_exact_above": 1.49,
+      "free_drape_exact243_after_t": 0.27,
+      "moved_vertices": 24432,
+      "border_rings": 62,
+      "construction": "Inherited lower-neck tabs gathered inward into one clean continuous neck transition.243 raised knot and outer-chest drape retained; border follows its attached fabric."
+    },
+    "jersey": {
+      "source": "E:\\Ravedio-Avatar\\catalogue244\\sources\\Masculine-jersey-pashmina244.blend",
+      "component": "components/Masculine-jersey-pashmina244-headgear.glb",
+      "top": "jersey",
+      "protected_neighbors_exact": true,
+      "closed_surface": true,
+      "upper_hood_exact_above": 1.49,
+      "free_drape_exact243_after_t": 0.27,
+      "moved_vertices": 24434,
+      "border_rings": 62,
+      "construction": "Inherited lower-neck tabs gathered inward into one clean continuous neck transition.243 raised knot and outer-chest drape retained; border follows its attached fabric."
+    },
+    "buttonup": {
+      "source": "E:\\Ravedio-Avatar\\catalogue244\\sources\\Masculine-buttonup-pashmina244.blend",
+      "component": "components/Masculine-buttonup-pashmina244-headgear.glb",
+      "top": "buttonup",
+      "protected_neighbors_exact": true,
+      "closed_surface": true,
+      "upper_hood_exact_above": 1.49,
+      "free_drape_exact243_after_t": 0.27,
+      "moved_vertices": 24434,
+      "border_rings": 62,
+      "construction": "Inherited lower-neck tabs gathered inward into one clean continuous neck transition.243 raised knot and outer-chest drape retained; border follows its attached fabric."
+    },
+    "sweatshirt": {
+      "source": "E:\\Ravedio-Avatar\\catalogue244\\sources\\Masculine-sweatshirt-pashmina244.blend",
+      "component": "components/Masculine-sweatshirt-pashmina244-headgear.glb",
+      "top": "sweatshirt",
+      "protected_neighbors_exact": true,
+      "closed_surface": true,
+      "upper_hood_exact_above": 1.49,
+      "free_drape_exact243_after_t": 0.27,
+      "moved_vertices": 24434,
+      "border_rings": 62,
+      "construction": "Inherited lower-neck tabs gathered inward into one clean continuous neck transition.243 raised knot and outer-chest drape retained; border follows its attached fabric."
+    }
+  }
+}

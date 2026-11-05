@@ -1,0 +1,43 @@
+{
+  "revision": 191,
+  "source": 190,
+  "status": "Self-reviewed candidate; owner aesthetic acceptance pending",
+  "hands": "Optional local C-grip experiment; not an encoded profile choice",
+  "frozen": [
+    "Female body/bust190",
+    "Heads,hair,eyes,noses,mouths",
+    "Clothed male body188",
+    "Lower legs and lower garment geometry outside waist/seat blend",
+    "151 palette,181 fixed lighting"
+  ],
+  "files": {
+    "Feminine-bandeau-top.glb": "1f8d4e06681dcbb87b7414f5a0c9fec650378d095100e8280b7f50ca59d015b2",
+    "Feminine-bikini-bottom.glb": "dd1d3b0b21b72b9863b516ab35ccb6c06593a80091354ea78b9eb5e044a3d4a6",
+    "Feminine-hands-grip.glb": "8fcee03899bac1e0d380f83c9928bd0168e6f69a05e18a50b0904ec6209e8009",
+    "Feminine-jersey-top.glb": "f10badf8fbedf29b461724543f041cdd34733b99f0c4602b253a5709afea41fe",
+    "Feminine-open-top.glb": "f161252f211828fcf096050bf67d8c329c50efe7d039c2022eef640666cf2533",
+    "Feminine-pants-bottom.glb": "4a78105d1a451033a68b0c23360c69d0b4259a335b8328e03eee4f6cdc0ca15e",
+    "Feminine-shorts-bottom.glb": "74892ef70e5a5681bf830f17a85f5962d883652ed87e0d7389e27d2f114aae6d",
+    "Feminine-skirt-bottom.glb": "4a350cd158db17647c4c083bfd7878272ff794f86819bc4db509d32333966ebf",
+    "Feminine-strappy-top.glb": "29705a28eb6b178d71bcdeb160838e7286af9101c0df278a8cf2a6eb17ab10a3",
+    "Feminine-sweatshirt-top.glb": "1dc7e77091a0f43a614bdefd9ca6521e0b84c5a01089db32bf9cedd50b8b4023",
+    "Feminine-tank-top.glb": "df53147923cac1c230695bee3413967aef9ef9d4665b206294d69c9f87587559",
+    "Feminine-triangle-top.glb": "086a036663e0d530176be941f7bb2884818334a87a2cf7f32985ba61833849be",
+    "Feminine-tshirt-top.glb": "500f2aef795fd12051edd8e3b132e1279851543e42ba17fdb0973c8351cfab8e",
+    "Masculine-groom-stubble.glb": "d1918e7541fb5752c2f0ab3210bcf56c9ab74721616b59955ae5301aa8421030",
+    "Masculine-hands-grip.glb": "f14d2dede191af8230e505ecb19b78ea49dd2b11875f5d8deb198b396a9b343d",
+    "Masculine-pants-bottom.glb": "7aa112f82285dc8ce5653213081aea8ab6a2b5203d9e64c07cfdc45a143314e5",
+    "Masculine-shirtless-base.glb": "5fdb6b6a70e174341e217bfab39792685a623b1b0424baff9b74ee2cbc73c96f",
+    "Masculine-shorts-bottom.glb": "40944ce380f8f33a17cbb8e85d28701d21b4e3a29a2bea51656198dee4cb98f3"
+  },
+  "verification": {
+    "saved_reopened": true,
+    "front_pairs": 44,
+    "all14_tops_both_hand_modes": true,
+    "two_visual_passes": true,
+    "female_body_bust_exact190": true,
+    "shirtless_only": true,
+    "lower_garment_z_and_protected_geometry_retained": true,
+    "mobile_saved_selection_png": true
+  }
+}

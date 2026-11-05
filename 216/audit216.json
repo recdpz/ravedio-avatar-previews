@@ -1,0 +1,32 @@
+{
+  "cases": {
+    "Feminine-pants": {
+      "sha256": "e03b60ffb669440fd42eb9264f71df9fff484b1a1fcd5801715058c581a80291",
+      "protected_exact": 28,
+      "visible_torso_above_1022_exact": true,
+      "fixed_studio": true
+    },
+    "Feminine-ponytail": {
+      "sha256": "31b5aa3f0b55b36ae9582db9617f0d69c33460ceb05b49958d07f89185deedda",
+      "protected_exact": 17,
+      "visible_torso_above_1022_exact": true,
+      "fixed_studio": true
+    },
+    "Feminine-shorts": {
+      "sha256": "1cfc437300fa33807a2c943926e8b711ab318ebc983c09dd9c80cafd02259307",
+      "protected_exact": 28,
+      "visible_torso_above_1022_exact": true,
+      "fixed_studio": true
+    },
+    "Feminine-skirt": {
+      "sha256": "d91b2c4fc34c47ec1093e11c3c1d41acb5cb8b9fda81d20a3820202437f8372d",
+      "protected_exact": 28,
+      "visible_torso_above_1022_exact": true,
+      "fixed_studio": true
+    }
+  },
+  "frozen_sources_unchanged": true,
+  "native_parameter_error": 1.3333123341416323e-07,
+  "owner_accepted": false,
+  "body_exception": "Only the hidden terminal closure below1.022; visible body unchanged"
+}

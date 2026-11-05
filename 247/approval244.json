@@ -1,0 +1,78 @@
+{
+  "revision": 244,
+  "frozen_commit": "ffb33aa31b246ce4dec49e9028a621383bd3a54a",
+  "owner_statement": "that is the placement i want but lets not make it a knot anymore and have them just cross while keeping the same placement",
+  "scope": "Acceptance of244 placement only.245 removes the knot and awaits review; this does not approve the whole catalogue or native rendering.",
+  "frozen_files": [
+    {
+      "path": "components/Feminine-bandeau-pashmina244-headgear.glb",
+      "bytes": 2703012,
+      "sha256": "996ee63f0de91db0fdfab12a26e3dbab48d3927e176885071b5eee2c154d5e0f"
+    },
+    {
+      "path": "components/Feminine-jersey-pashmina244-headgear.glb",
+      "bytes": 2703012,
+      "sha256": "6112b23cd81a546e554de011e934cdf1ef9d90434fe32ccffed2128d70dbe20c"
+    },
+    {
+      "path": "components/Feminine-open-pashmina244-headgear.glb",
+      "bytes": 2703008,
+      "sha256": "fc3b1384ddfddebedf3468bbc9168412795b0b660caf1ca483e1b154a44a1037"
+    },
+    {
+      "path": "components/Feminine-strappy-pashmina244-headgear.glb",
+      "bytes": 2703012,
+      "sha256": "9b66492a8c0ff993f6fbc3e2f8a1a40e4760b952ac1e2be134557c6e56d30270"
+    },
+    {
+      "path": "components/Feminine-sweatshirt-pashmina244-headgear.glb",
+      "bytes": 2703008,
+      "sha256": "f51e64f721c5714a3d1ba088c09e127d78de6420bd1578d901f05f541580f7a1"
+    },
+    {
+      "path": "components/Feminine-tank-pashmina244-headgear.glb",
+      "bytes": 2703008,
+      "sha256": "768ba16f17a5327035a86858318665b879acd2b2f29ae233955e07c77938f821"
+    },
+    {
+      "path": "components/Feminine-triangle-pashmina244-headgear.glb",
+      "bytes": 2703008,
+      "sha256": "a28976d0d00f253cfdf1c464804b81c940543d19ed9b263933da450a28628a07"
+    },
+    {
+      "path": "components/Feminine-tshirt-pashmina244-headgear.glb",
+      "bytes": 2703008,
+      "sha256": "1e106e161d8075e5aaa16ae13dcd0ae56386b08e58cedff7bd06d5f1047efeeb"
+    },
+    {
+      "path": "components/Masculine-buttonup-pashmina244-headgear.glb",
+      "bytes": 2700856,
+      "sha256": "cbeb98b96cdd28e9a71c0fd1f9c0fb05a0620d31dcfd64f62fb5dd40ac23e2c0"
+    },
+    {
+      "path": "components/Masculine-jersey-pashmina244-headgear.glb",
+      "bytes": 2700852,
+      "sha256": "0b535f4350bbf84d1ed36236deb9326ccd74b88af5148e92e7b0a12f033b6858"
+    },
+    {
+      "path": "components/Masculine-shirtless-pashmina244-headgear.glb",
+      "bytes": 2700852,
+      "sha256": "1d72248df1dc4727c38e4e85029015242ff70cf0bb1d74a9ef14a3816ad940d1"
+    },
+    {
+      "path": "components/Masculine-sweatshirt-pashmina244-headgear.glb",
+      "bytes": 2701208,
+      "sha256": "c4d84f61678af1b7c591c9e9b059342428289418264fbcb073a00de5a260d73d"
+    },
+    {
+      "path": "components/Masculine-tank-pashmina244-headgear.glb",
+      "bytes": 2700856,
+      "sha256": "824b084fb89327f94f2f3f2e0450ec90c8ce4713b5107f50a7de392a21a6aa4f"
+    },
+    {
+      "path": "components/Masculine-tshirt-pashmina244-headgear.glb",
+      "bytes": 2700856,
+      "sha256": "8a0ce1333016ce21d8065ac5e389bf6a8ba3cce941df95c789774d22b8b0bdf5"
+    }
+  ]
+}

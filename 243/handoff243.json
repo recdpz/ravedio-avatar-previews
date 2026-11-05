@@ -1,0 +1,27 @@
+{
+  "revision": 243,
+  "url": "https://recdpz.github.io/ravedio-avatar-previews/243/",
+  "status": "Owner-review raised loose-knot drape",
+  "baseline_commit": "5ce4cbe3005485adfe9ad648909e54b20196ad90",
+  "scope": "Raise the pashmina crossing to a small loose neck knot and redirect the ends toward the outer chest",
+  "changes": [
+    "Two existing continuous cloth lengths form the small folded knot high on the torso.",
+    "The crossing lengths fan outward before settling on major shoulder/chest forms, revealing the shirt centre.",
+    "Broad hanging-end widths are retained; fringe and sewn border follow their actual fabric attachments."
+  ],
+  "protected": "242 hood, sewn roots and underlying neck wrap are fixed; end paths change as requested. All non-headgear geometry, materials and fixed studio remain unchanged.",
+  "coordinates": "Shared coordinates unchanged; native Blender Z-up to glTF Y-up conversion only. No independent component recentering/resizing.",
+  "selection": "Independent controls retained. pashminaTops[build][top] selects the authored fit; Compare242 swaps only headgear with the same outfit and view.",
+  "assemblies": {
+    "Feminine": "assemblies/Feminine-pashmina243.blend",
+    "Masculine": "assemblies/Masculine-pashmina243.blend"
+  },
+  "reference_framing": "120 and512 portraits share camera transform and orthographic scale; exact studio/camera/color settings in fixtures243.json.",
+  "materials": "Retained woven texture, opaque cloth and0.12 sheen mapping. Ordinary uncompressed GLBs; no new transparency or refraction.",
+  "portable_sources": "Two packed scenes include their imported components. knot243.py starts from242 per-top authoring scenes and uses retained235/224 helper libraries.",
+  "qualification": "No native parity, depth-composition or phone-performance claim. No profile-byte or product-repository changes.",
+  "technical": "technical243.json",
+  "fixtures": "fixtures243.json",
+  "review": "review243.json",
+  "approval": "approval239.json"
+}

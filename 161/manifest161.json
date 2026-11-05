@@ -1,0 +1,134 @@
+{
+  "date": "2026-10-15",
+  "scope": "Separate native cartoon161; owner aesthetic approval pending",
+  "public_preview": "https://recdpz.github.io/ravedio-avatar-previews/161/",
+  "before": "160",
+  "source_files": [
+    {
+      "path": "E:\\Ravedio-Avatar\\outfits161\\model161.py",
+      "sha256": "0fb163e630c2f3d926b5bbb5be8f9a9b03402864de1e571ccd737abf83f56daa"
+    },
+    {
+      "path": "E:\\Ravedio-Avatar\\outfits161\\verify161.py",
+      "sha256": "a4cfa9faa849919319b4246841fa9cb6fe75f933eb4ae0597b2c995e5be0ecb9"
+    },
+    {
+      "path": "E:\\Ravedio-Avatar\\outfits161\\package161.py",
+      "sha256": "1ed579909a8c1bd436936b09201a6819c8a60b2f2314ed0d6bf5ca7d5c6086fc"
+    }
+  ],
+  "saved_candidates": 11,
+  "render_count": 66,
+  "angles": [
+    "front",
+    "threequarter",
+    "profile",
+    "rightprofile",
+    "rear",
+    "top"
+  ],
+  "glb_count": 13,
+  "glb_checks": [
+    {
+      "file": "Feminine-bandeau-top.glb",
+      "sha256": "943b00c2e4c38511764c58e6a4c98df33b9c13bb394f551e8d3e0a344bfd74b2",
+      "bytes": 2431832
+    },
+    {
+      "file": "Feminine-base.glb",
+      "sha256": "b22fe0f466fcbc1111de474ca6a3516f7728134d3e11bfaa69bb8b98435d0744",
+      "bytes": 16641884
+    },
+    {
+      "file": "Feminine-jersey-top.glb",
+      "sha256": "854a22db8b3af87621a3922716741931b765e9e4b07e9fd436104c14969e135e",
+      "bytes": 4005056
+    },
+    {
+      "file": "Feminine-open-top.glb",
+      "sha256": "aea07e51c8bc36d738e413ae94b5b5f080afd974ec6b02db37945beb49011967",
+      "bytes": 5396884
+    },
+    {
+      "file": "Feminine-strappy-top.glb",
+      "sha256": "ec7ea8128fa68a4c528ea1191b39be523beaaabdc9e30735be9df34273c31d33",
+      "bytes": 3716728
+    },
+    {
+      "file": "Feminine-sweatshirt-top.glb",
+      "sha256": "f9f5c5450a4b2e5bbd5e5432766bad70111781d2bdb817e7169a6f9f1bf7f541",
+      "bytes": 19902088
+    },
+    {
+      "file": "Feminine-tank-top.glb",
+      "sha256": "d9ce3ca869f7d1bd3d2877485e15b0fdfcea57c1342a0d738210dca5fc5f3982",
+      "bytes": 3658556
+    },
+    {
+      "file": "Feminine-triangle-top.glb",
+      "sha256": "b89bb45b7d39a7f25c95a855c3db1626da4a83424f8b62248587a803b5346fc7",
+      "bytes": 9792476
+    },
+    {
+      "file": "Feminine-tshirt-top.glb",
+      "sha256": "2c42828469e22803b987bf7a7fb64b7fd959920fa6ceae2d8461d837712c6030",
+      "bytes": 2667760
+    },
+    {
+      "file": "Masculine-base.glb",
+      "sha256": "451aa7914b56b5b1184fbe5905e261c9ae5457d383d5fdcccd4ecd65c5b16565",
+      "bytes": 16746700
+    },
+    {
+      "file": "Masculine-jersey-top.glb",
+      "sha256": "bffe9b31beac8b5663de346f4160f3f9d36931b4182eb04e52e44f7cf900498d",
+      "bytes": 3948864
+    },
+    {
+      "file": "Masculine-sweatshirt-top.glb",
+      "sha256": "ccf7b06e7e49ccc3f2170b75c7ff0f0c376cde4431bfd56aa4e98b5934c524b0",
+      "bytes": 4201188
+    },
+    {
+      "file": "Masculine-tank-top.glb",
+      "sha256": "5ae95607d427fa8d98116d13bf1e280ea7e3227b7c4c062c735d427cea8da895",
+      "bytes": 1185420
+    }
+  ],
+  "saved_file_check": "technical161.json",
+  "fit_check": "fit-verification161.json",
+  "visual_review": "visual-review161.json",
+  "protected_hashes_exact": true,
+  "protected": "160 heads,eyes,hair and151skin palette; main master/Studio/profile contract untouched",
+  "changes": [
+    "Restored feminine159 tank band-and-straps silhouette, fitted to new chest",
+    "Rounded feminine bust with blended transition, before refitting all8 tops",
+    "Fuller feminine upper thighs and fitted short shorts; seated contrasting seams",
+    "Button-front baseball/rave jerseys on both builds, V piping,5 buttons and original low-detail graphics",
+    "Floating orb hands moved clear of sleeves on both builds; shorter sleeve ends and recessed fabric facing",
+    "Slightly polished fabric and stronger shorts seam contrast"
+  ],
+  "limitations": [
+    "Only11 displayed outfit combinations reviewed",
+    "No new encoded profile choices or full hairstyle/headwear catalogue adaptation",
+    "Fixed renders use Light warm; all4 original skin tones available in3D",
+    "Browser rendering approximates Cycles lighting",
+    "Physical phone touch not tested"
+  ],
+  "references": [
+    {
+      "url": "https://raveuniform.com/products/vibration-baseball-jersey",
+      "evidence": "Inspected actual front and back gallery photos: button placket, V neckline,piping,relaxed sleeves,rounded hem and back graphic"
+    },
+    {
+      "url": "https://ravebonfire.com/product/trae-custom-hooded-baseball-jersey/",
+      "evidence": "Button-front rave/baseball cut and contrasting front/back graphics; own abstract graphic used"
+    }
+  ],
+  "runtime": {
+    "version": "Blender5.2.0 portable",
+    "official_archive": "https://download.blender.org/release/Blender5.2/blender-5.2.0-windows-x64.zip",
+    "sha256": "2d184b626c001692c362291911293b6a297179d618d95e9e9192c3a80318adc4",
+    "verified_against_official_checksums": true
+  }
+}

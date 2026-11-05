@@ -1,0 +1,283 @@
+{
+  "cases": {
+    "Feminine-bikini": {
+      "sha256": "2c350a5031e4a671669b4de350e89253b923257409ba9f6442ea47468de00481",
+      "source": "E:\\Ravedio-Avatar\\refinement214\\scenes\\Feminine-ponytail.blend",
+      "protected_exact": 26,
+      "fixed_lights_world_color": true,
+      "meshes": {
+        "Skin / bikini lower body201": {
+          "vertices": 124442,
+          "modifier_expansion": 0.0
+        },
+        "Bottom / seated bikini203": {
+          "vertices": 21039,
+          "modifier_expansion": 0.0009994059801101685
+        }
+      }
+    },
+    "Feminine-open": {
+      "sha256": "abfc74d60e60b5aabc3d28a965e9141de9a98f01380f6c30440d6e1f6ff45910",
+      "source": "E:\\Ravedio-Avatar\\refinement214\\scenes\\Feminine-open.blend",
+      "protected_exact": 42,
+      "fixed_lights_world_color": true,
+      "meshes": {
+        "Sleeve / full fabric wrap201 1": {
+          "vertices": 2411,
+          "modifier_expansion": 0.0014998912811279297
+        },
+        "Sleeve / full fabric wrap201 -1": {
+          "vertices": 2411,
+          "modifier_expansion": 0.0014998912811279297
+        },
+        "Button-up / sewn placket202": {
+          "vertices": 455,
+          "modifier_expansion": 0.0005999207496643066
+        },
+        "Button-up / button202.005": {
+          "vertices": 222,
+          "modifier_expansion": 0.0
+        },
+        "Button-up / button202.004": {
+          "vertices": 222,
+          "modifier_expansion": 0.0
+        },
+        "Button-up / button202.003": {
+          "vertices": 222,
+          "modifier_expansion": 0.0
+        },
+        "Button-up / button202.002": {
+          "vertices": 222,
+          "modifier_expansion": 0.0
+        },
+        "Button-up / button202.001": {
+          "vertices": 222,
+          "modifier_expansion": 0.0
+        },
+        "Button-up / button202": {
+          "vertices": 222,
+          "modifier_expansion": 0.0
+        },
+        "Clothing / repaired202 open": {
+          "vertices": 13092,
+          "modifier_expansion": 0.001745462417602539
+        }
+      }
+    },
+    "Feminine-pants": {
+      "sha256": "6e56fb03079084a9cd7591e43f3741a32d0b1fd1c01e8f2a542adea3af5288b1",
+      "source": "E:\\Ravedio-Avatar\\refinement214\\scenes\\Feminine-ponytail.blend",
+      "protected_exact": 26,
+      "fixed_lights_world_color": true,
+      "meshes": {
+        "Bottom / continuous pants187": {
+          "vertices": 15099,
+          "modifier_expansion": 0.0016588568687438965
+        }
+      }
+    },
+    "Feminine-ponytail": {
+      "sha256": "0df1875a754075ee526ed37c40ed97f6069ab976dd808693e37331e201d04e84",
+      "source": "E:\\Ravedio-Avatar\\refinement214\\scenes\\Feminine-ponytail.blend",
+      "protected_exact": 23,
+      "fixed_lights_world_color": true,
+      "meshes": {
+        "Hair / softly pulled roots214": {
+          "vertices": 19040,
+          "modifier_expansion": 0.00010409951210021973
+        },
+        "Hair / rooted framing214 -1": {
+          "vertices": 1706,
+          "modifier_expansion": 0.0
+        },
+        "Hair / rooted framing214 1": {
+          "vertices": 1706,
+          "modifier_expansion": 0.0
+        },
+        "Hair / fitted tie214": {
+          "vertices": 960,
+          "modifier_expansion": 0.029607772827148438
+        },
+        "Hair / selectable tail214 0": {
+          "vertices": 1706,
+          "modifier_expansion": 0.0
+        },
+        "Hair / selectable tail214 1": {
+          "vertices": 1706,
+          "modifier_expansion": 0.0
+        },
+        "Hair / selectable tail214 2": {
+          "vertices": 1706,
+          "modifier_expansion": 0.0
+        },
+        "Hair / selectable tail214 3": {
+          "vertices": 1706,
+          "modifier_expansion": 0.0
+        },
+        "Hair / selectable tail214 4": {
+          "vertices": 1706,
+          "modifier_expansion": 0.0
+        },
+        "Hair / selectable tail214 5": {
+          "vertices": 1706,
+          "modifier_expansion": 0.0
+        },
+        "Hair / selectable tail214 6": {
+          "vertices": 1706,
+          "modifier_expansion": 0.0
+        }
+      }
+    },
+    "Feminine-shorts": {
+      "sha256": "fea90634a07554bd7a596c8030f2ea7450cefe1b960de81df4e26025f5cff167",
+      "source": "E:\\Ravedio-Avatar\\refinement214\\scenes\\Feminine-ponytail.blend",
+      "protected_exact": 26,
+      "fixed_lights_world_color": true,
+      "meshes": {
+        "Bottom / clean shorts201": {
+          "vertices": 17759,
+          "modifier_expansion": 0.0012526214122772217
+        }
+      }
+    },
+    "Feminine-skirt": {
+      "sha256": "e49faf8c355c4703c4f3b7aef5d9e9def1a51f11bfbb4b7d2eaab80dcbc00863",
+      "source": "E:\\Ravedio-Avatar\\refinement214\\scenes\\Feminine-ponytail.blend",
+      "protected_exact": 26,
+      "fixed_lights_world_color": true,
+      "meshes": {
+        "Bottom / flowing skirt201": {
+          "vertices": 14880,
+          "modifier_expansion": 0.0009998083114624023
+        },
+        "Bottom / clean skirt underlayer201": {
+          "vertices": 16991,
+          "modifier_expansion": 0.0019658058881759644
+        }
+      }
+    },
+    "Feminine-sweatshirt": {
+      "sha256": "740bb834f6cddfcab5ed4089a099c1272e980eec4790964edc4719917ca96c3a",
+      "source": "E:\\Ravedio-Avatar\\refinement214\\scenes\\Feminine-sweatshirt.blend",
+      "protected_exact": 42,
+      "fixed_lights_world_color": true,
+      "meshes": {
+        "Sleeve / shaped cuff202 1": {
+          "vertices": 532,
+          "modifier_expansion": 0.001959279179573059
+        },
+        "Sleeve / shaped cuff202 -1": {
+          "vertices": 532,
+          "modifier_expansion": 0.001959279179573059
+        },
+        "Sleeve / full fabric wrap201 1": {
+          "vertices": 4367,
+          "modifier_expansion": 0.0015000104904174805
+        },
+        "Sleeve / full fabric wrap201 -1": {
+          "vertices": 4367,
+          "modifier_expansion": 0.0015000104904174805
+        },
+        "Hoodie / seated pouch202": {
+          "vertices": 1728,
+          "modifier_expansion": 0.0009484589099884033
+        },
+        "Hoodie / attached opening204": {
+          "vertices": 2400,
+          "modifier_expansion": 0.0034997165203094482
+        },
+        "Hoodie / aglet205 1": {
+          "vertices": 222,
+          "modifier_expansion": 0.0
+        },
+        "Hoodie / aglet205 -1": {
+          "vertices": 222,
+          "modifier_expansion": 0.0
+        },
+        "Clothing / tailored203": {
+          "vertices": 9984,
+          "modifier_expansion": 0.0019609928131103516
+        },
+        "Hoodie / rounded resting hood215": {
+          "vertices": 17910,
+          "modifier_expansion": 0.0012967288494110107
+        }
+      }
+    },
+    "Masculine-pants": {
+      "sha256": "3ada30d9ac5eb4d4e1530a1c1612981d59a864e193061851add219d468b01638",
+      "source": "E:\\Ravedio-Avatar\\refinement211\\baseline\\Masculine-fair.blend",
+      "protected_exact": 36,
+      "fixed_lights_world_color": true,
+      "meshes": {
+        "Bottom / continuous pants187": {
+          "vertices": 15099,
+          "modifier_expansion": 0.001655280590057373
+        }
+      }
+    },
+    "Masculine-shorts": {
+      "sha256": "e7c54963ee93d88d220c475c5686bf83551725d1a0672693a2e75265b815f621",
+      "source": "E:\\Ravedio-Avatar\\refinement211\\baseline\\Masculine-fair.blend",
+      "protected_exact": 36,
+      "fixed_lights_world_color": true,
+      "meshes": {
+        "Bottom / shorts": {
+          "vertices": 7535,
+          "modifier_expansion": 0.00225946307182312
+        }
+      }
+    },
+    "Masculine-sweatshirt": {
+      "sha256": "6895e052c0a9dd2237a624a29e922def06589828ed35db069d792d0a6a6715f6",
+      "source": "E:\\Ravedio-Avatar\\refinement206\\Masculine-sweatshirt.blend",
+      "protected_exact": 41,
+      "fixed_lights_world_color": true,
+      "meshes": {
+        "Sleeve / full fabric wrap201 -1": {
+          "vertices": 4367,
+          "modifier_expansion": 0.0015000104904174805
+        },
+        "Sleeve / full fabric wrap201 1": {
+          "vertices": 4367,
+          "modifier_expansion": 0.0015000104904174805
+        },
+        "Hoodie / seated pouch202": {
+          "vertices": 1728,
+          "modifier_expansion": 0.000992804765701294
+        },
+        "Sleeve / shaped cuff202 -1": {
+          "vertices": 532,
+          "modifier_expansion": 0.001959286630153656
+        },
+        "Sleeve / shaped cuff202 1": {
+          "vertices": 532,
+          "modifier_expansion": 0.001959279179573059
+        },
+        "Clothing / tailored203": {
+          "vertices": 9984,
+          "modifier_expansion": 0.0019557327032089233
+        },
+        "Hoodie / attached opening204": {
+          "vertices": 2400,
+          "modifier_expansion": 0.003499925136566162
+        },
+        "Hoodie / aglet205 -1": {
+          "vertices": 222,
+          "modifier_expansion": 0.0
+        },
+        "Hoodie / aglet205 1": {
+          "vertices": 222,
+          "modifier_expansion": 0.0
+        },
+        "Hoodie / rounded resting hood215": {
+          "vertices": 17910,
+          "modifier_expansion": 0.0013407021760940552
+        }
+      }
+    }
+  },
+  "frozen_sources_unchanged": true,
+  "body_face_arms_geometry_exact": true,
+  "owner_accepted": false
+}

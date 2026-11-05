@@ -1,0 +1,12 @@
+# Authored binary assets are preserved in Git and loaded from the pinned ref in asset-host.js.
+exclude:
+  - "**/*.blend"
+  - "**/*.exr"
+  - "**/*.glb"
+  - "**/*.png"
+  - "**/*.zip"
+  - "*.blend"
+  - "*.exr"
+  - "*.glb"
+  - "*.png"
+  - "*.zip"

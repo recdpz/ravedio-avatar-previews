@@ -1,0 +1,21 @@
+{
+  "revision": 252,
+  "baseline_commit": "14e8b86f01c6db22da33b2f9e63775f07dd8f70b",
+  "scope": "Seven masculine cuts, feminine Straight root/temple cleanup,56 covered fits, re-seated sprout clips and refined Highlights across the catalogue.",
+  "art_status": "New hair and Highlights await review;251 masculine artwork was rejected.",
+  "selection": "Independent feature selectors retained. fits[build-style][headwear] chooses authored hair with the retained headgear. Existing per-top pashmina and twin-braid length selectors are retained. Sprout clips are re-seated on changed hair/fits.",
+  "coordinates": "Common coordinates and transforms unchanged. Do not center, normalize bounds or independently scale components. Bodies, face and clothing are retained byte-for-byte; compare mode verifies their loaded geometry.",
+  "geometry": "Continuous close-cut surface rather than sparse particles. Flow and Middle part use a shared authored growth field from part to hem, with coherent coverage and curved growth ridges. Locs use short consistent sections. Afro uses compact irregular coil relief; Curly top uses broad sculpted curls and close sides. No runtime physics.",
+  "highlights": "Ordinary embedded PNG base-color textures follow authored lock flow UVs or a smooth local centerline field for retained legacy components. Brown roots blend into caramel/honey ribbons. Base color uses TEXCOORD_0; previous UV sets are preserved at the next indices and existing maps are updated. Highlights variants keep their own color; skip uniform runtime recolor. Preserve COLOR_0 alpha and tonal shading. Groom uses the brown base. Geometry position buffers are verified unchanged against their canonical sources.",
+  "transparency": "Only genuinely faded/clipped hair coverage uses BLEND plus vertex alpha. Dense hair is OPAQUE. This is opacity coverage, not transmission or refraction. Clear lenses remain retained thin-opacity panes with no facial blur. Do not infer all transparency behavior from alphaMode alone.",
+  "sources": "Two packed final-GLB Blender assemblies and matched light/dark120/512 front portraits are included, plus four-tone small-size references. Packed scenes contain their dependencies. Full generator regeneration also uses retained earlier authoring inputs referenced by the source scripts; those inputs are not silently replaced by this package.",
+  "rendering": "Packed Blender camera, fixed studio, exposure and color-management metadata are recorded. GLB transfers geometry, ordinary PBR materials, textures and alpha; it does not carry the complete Blender node graph, studio environment, AgX view transform or ray-visibility behavior. Browser lighting is unchanged. Re-test normal-map secondary UV support in native renderers.",
+  "depth": "depth252.json regenerates color and Z together from identical geometry/camera/version. These assembled Z references are not a native component occlusion bake or an alpha/lens composition solution.",
+  "technical": "technical252.json",
+  "review": "review252.json",
+  "qualification": "Artwork correction candidate; technical checks are not owner art approval. Native renderer, transparency composition and phone workload performance remain separate qualifications.",
+  "palette": "../235/face-palette209.json",
+  "reference_looks": "Both builds in Fair (skin0) and Brown (skin3), each at120 and512 with identical framing; see depth252.json for exact color/Z paths and camera settings. Default skin1 references and four-tone small-size exports are also included.",
+  "material_culling": "Short cut opacity coverage surfaces are outward-facing and single-sided; preserve vertex alpha. Dense sculpted hair remains opaque.",
+  "cleanup": "Removed unused buffer regions, accessors and unreferenced material definitions only; all attribute/index values verified byte-identical. No quantization or geometry simplification."
+}

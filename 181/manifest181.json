@@ -1,0 +1,40 @@
+{
+  "revision": 181,
+  "status": "Optional face candidates and corrected representative fit; owner review pending",
+  "source": 178,
+  "changes": [
+    "Relaxed arms",
+    "Separate hem and cuffs",
+    "Reflective charcoal eye materials and attached highlights",
+    "Optional button/rounded noses and three mouths",
+    "One fixed 3D lighting setup"
+  ],
+  "scope": "Both builds, T-shirt; remaining wardrobe refit pending",
+  "files": {
+    "Feminine-base.glb": "4f51e08dde978c1093440672baedff2a9a4d21bbcb5c2c956b81af7c6d2aadf4",
+    "Feminine-eyes-almond.glb": "c24b3f7cb1a8bad9078dd27cf3337bff3f75200d6ae729e7bd3f308a02898759",
+    "Feminine-eyes-original.glb": "c5e9d35a439db8b51f1e3eb3d3e92a9454187a2c0620128c86a0bdcabb6a09ac",
+    "Feminine-eyes-soft.glb": "b544c3dbd53518e0701a79295ea35f9eb477ca24f74264717d131f48da260a75",
+    "Feminine-eyes-square.glb": "c4e273c02a10bfcf2a7bdf570541391472fddf06d74439136cbab2fcc5b56e36",
+    "Feminine-mouth-line.glb": "698ca4380d64ce31f75e806d40575f7d2becc1155de23c3f6b15707ef52fff4c",
+    "Feminine-mouth-lips.glb": "fb75fca8a7ce992c429298ceb7452e2b1cbd4467c89e607b6ec25f918535988b",
+    "Feminine-mouth-smile.glb": "06e05962991138173564352ea9539e5b4a711c40fc90a8cfac2875a61bd04ebf",
+    "Feminine-nose-button.glb": "e952d91dd019b0e8e487eac85144d83e6b9b2ce92b2fc7d6b8766c53c8de3321",
+    "Feminine-nose-rounded.glb": "b10c7e3b73ee5a64da5794f9d0b0e2ebec7a3a9746de27836d9298c74c660a39",
+    "Feminine-skirt.glb": "db655965378a5ff6795fad8b08a05a8e2f99fccc5f300d1f3e4efb31f35fbf5a",
+    "Feminine-tshirt-top.glb": "7df07d502e2d184a1a94f12bbd472328d89f4b7315ce0baa1b1d314932f05ca8",
+    "Masculine-base.glb": "159995d9edc622426964a037c415a44ecc629b7d7284ca562fac5591ca8d7a9a",
+    "Masculine-eyes-almond.glb": "40d429637faba7cd9b3b94b6e427dbca2f4cbca3befe0d01491d6e888283ca7e",
+    "Masculine-eyes-original.glb": "7678b41b81afe5a13571f2943d72412a06f27bb8956bbb19dfb482233730ec0d",
+    "Masculine-eyes-soft.glb": "060de2aabf74764360e3e58b838aa2527c932dd87d086d3fa517204f52b8ee58",
+    "Masculine-eyes-square.glb": "37ced59c9b295193dbce929ef34907edb6d00a625adf76c86b4ea89d68d10724",
+    "Masculine-mouth-line.glb": "74407ba75b3f79dd073c70c0c95894f26a903282a0f2264e776462d36ffe27fc",
+    "Masculine-mouth-lips.glb": "d7a47635645d18b71166d2e3153c3798633a9a2cad98f212b91a74fcc9d9744c",
+    "Masculine-mouth-smile.glb": "f267682e40f60b26e65e3e3c7408ced841b31d73adc45e95393d42883bcd5414",
+    "Masculine-nose-button.glb": "90fee7635acaec2d95bd991e3be2ab2e10053085d44bf4af3457060a0832313f",
+    "Masculine-nose-rounded.glb": "b2d5c1b374e33268e49ae71ed08b56ecbf81da03cf86ad1fb491e9d3e48203db",
+    "Masculine-tshirt-top.glb": "f584bf7c0d033096f0ef781ee6b6236ec633a98e2a1ab6f664c02f8bb0b01d0b"
+  },
+  "presentation": "One fixed180 default 3D lighting setup; gallery and posters captured from actual GLB viewer",
+  "review": "Local assembled selector checks passed; owner review pending"
+}

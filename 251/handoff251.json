@@ -1,0 +1,17 @@
+{
+  "revision": 251,
+  "baseline_commit": "b45d0d5f5ab18fa457f26b6477f2a0e20d73c321",
+  "scope": "Seven masculine hairstyles; space-bun concealment; resting twin plaits; cuff-affected front locks; tucked ponytail; bandana knots; short bucket hat; beanie crown clearance; Highlights replacing Brown.",
+  "selection": "Independent selectors retained. fits[build-style][headwear] supplies authored hair/headgear. pashminaVariants chooses cloth by build/style/top. Feminine twin braids add independently recolorable hairLengths from braidLengths[normal|pashmina][top]. For Highlights, resolve canonical hair/hairLengths paths through highlights mapping. Compare250 restores previous hair/headgear/sprout together and removes the new plait-length component.",
+  "fit_policy": "Normal closed hats conceal flattened gathered space buns; ear headbands retain buns. Ponytail beneath pashmina is folded against the actual head and concealed, with no forced low exit or arbitrary punched hole. Beanie front locks are seated under the cuff. Plait lengths bridge broad garment support, rather than following every fabric hollow. Beanie crowns have clearance above the retained head and hair while cuffs stay fixed. No runtime cloth or hair simulation.",
+  "coordinates": "Shared coordinates and transforms unchanged; no independent centering or resizing. Protected bodies, faces, clothing and retained dependency files are hash-checked.",
+  "highlights": "Ordinary baked COLOR_0 variants, warm lighter locks over a brown base. Geometry and vertex alpha unchanged. Skip uniform runtime hair recoloring for these variants. Facial hair uses the brown base. Original Brown menu slot replaced; no profile-byte assignments changed.",
+  "source": "Two final-GLB packed Blender assemblies are portable. Ordinary uncompressed/unquantized GLBs are independently selectable. Generator sources and construction/reference notes included; full catalogue regeneration also needs the unchanged earlier authoring inputs referenced by those scripts.",
+  "rendering": "Recorded packed Blender camera/studio/exposure/color management is the reference. GLB does not carry the complete Blender shader graph, studio environment, AgX view transform, or ray-visibility behavior. The browser uses the unchanged fixed review lighting.",
+  "transparency": "Clipped/faded hair uses vertex alpha and BLEND; it is opacity coverage, not transmission/refraction. Preserve COLOR_0 alpha when recoloring. Lenses remain a separate retained component, with thin-opacity clear tint rather than refractive glass. Nearest-opaque portrait composition requires its own alpha/lens qualification.",
+  "depth": "depth251.json contains same-geometry, same-camera, same-version assembled color/Z pairs at120/512. These are reference Z passes, not a native component occlusion bake; alpha-threshold0.5 does not solve translucent compositing.",
+  "technical": "technical251.json",
+  "review": "review251.json",
+  "qualification": "Artwork review candidate. Native rendering, mobile memory, transparency composition and phone performance are not qualified by these renders.",
+  "export_materials": "Solid curly-top and Afro masses have all vertex/material alpha1 and are explicitly OPAQUE, avoiding unnecessary transparency sorting. Their clipped side fades remain BLEND. The neutral clipped-grain texture has an explicit brown PBR factor; Blender MixRGB constants are not inferred by native renderers."
+}

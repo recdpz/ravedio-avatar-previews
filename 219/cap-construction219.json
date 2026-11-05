@@ -1,0 +1,47 @@
+{
+  "construction": "Real oval crown/rear opening, closed fabric thickness, original lower opening retained",
+  "oval": {
+    "center": [
+      0,
+      0.2
+    ],
+    "radii": [
+      0.14,
+      0.25
+    ]
+  },
+  "changed": {
+    "Cap / sewn crown and curved bill212": {
+      "before": 19092,
+      "after": 14920
+    },
+    "Cap / panel seam212 0": {
+      "before": 670,
+      "after": 522
+    },
+    "Cap / panel seam212 1": {
+      "before": 670,
+      "after": 560
+    },
+    "Cap / panel seam212 2": {
+      "before": 670,
+      "after": 530
+    },
+    "Cap / panel seam212 3": "Removed covered crown button/seam within opening",
+    "Cap / panel seam212 4": {
+      "before": 670,
+      "after": 530
+    },
+    "Cap / panel seam212 5": {
+      "before": 670,
+      "after": 560
+    },
+    "Cap / sewn lower edge212": {
+      "before": 2400,
+      "after": 2230
+    },
+    "Cap / cloth button212": "Removed covered crown button/seam within opening"
+  },
+  "front_bill_graphics_retained": true,
+  "glasses_displacement": 0
+}

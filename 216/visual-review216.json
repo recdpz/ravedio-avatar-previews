@@ -1,0 +1,33 @@
+{
+  "revision": 216,
+  "owner_approval": false,
+  "first_pass": [
+    "215 added inward return panels caused raised fabric edges; remove them instead of adding bands",
+    "Found the underlying terminal torso ring flaring17mm outside the true waist below1.022, poking through cloth",
+    "Ponytail tight point-to-point bends/equal lock cross-sections looked rigid; replaced with continuous fall-space wave",
+    "Root texture rebuilt with finer directional relief and65 physical tapered edge ribbons"
+  ],
+  "second_pass": [
+    "Saved/reopened all4 scenes; front,three-quarter,both profiles,rear and underside/top",
+    "Pants source visibility aligned with existing browser behavior: original leg blobs are hidden when pants supply the lower silhouette",
+    "Reviewed4 tail presets, cap+glasses+hoodie and front-control limits",
+    "Four skin tones and32/48/64/128px portrait renders",
+    "Final actual browser review:75 captures; independent controls, reset, persistence, downloads and native/JS numeric parity"
+  ],
+  "body_change": "Only covered terminal closure below1.022; all visible torso above that plane, chest/head/face/arms exact",
+  "technical_checks": {
+    "tail_cases": 100,
+    "front_cases": 32,
+    "front_rooted_zone": "t<=.54 is the intentionally embedded root transition, not a free hair length",
+    "native_parameter_error": 1.3333123341416323e-07,
+    "browser": {
+      "four_distinct_tails": true,
+      "independent_front_controls_and_reset": true,
+      "parameter_parity": 6.731513925673992e-15,
+      "choice_download": true,
+      "persistence": true,
+      "png_download": true
+    }
+  },
+  "native_phone_qualification": false
+}

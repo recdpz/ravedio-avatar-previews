@@ -1,0 +1,22 @@
+{
+  "source": "E:\\Ravedio-Avatar\\refinement176",
+  "preview": "https://recdpz.github.io/ravedio-avatar-previews/176/",
+  "status": "Reviewed twice; owner closer-placement review pending",
+  "owner_acceptance": "Pending176",
+  "owner_direction": "Swept preferred; bring it closer to the torso while floating",
+  "source_revision": 175,
+  "source_preview_commit": "5eb97f543bfd561dd5786c8c59b880da882ca832",
+  "scope": "Move each Swept arm inward .055; reduce additional sleeve offset from .075 to .055 and lower sleeve-context arm tips .012",
+  "coordinate_space": "Selected175 final-world saved candidates; no historical support field replay",
+  "protected": "Exact Swept shape; head, body, hair, eyes, materials, skirt and garments retained",
+  "main_master_studio_changed": false,
+  "profile_contract_changed": false,
+  "manifest": "E:\\Ravedio-Avatar\\refinement176\\manifest176.json",
+  "technical": "E:\\Ravedio-Avatar\\refinement176\\technical176.json",
+  "visual_review": "E:\\Ravedio-Avatar\\refinement176\\visual176.json",
+  "recovery": "E:\\Ravedio-Avatar\\refinement176\\RECOVERY176.txt",
+  "fit_combinations": 13,
+  "technical_cases": 2,
+  "browser": "browser176.json",
+  "browser_selections": 26
+}

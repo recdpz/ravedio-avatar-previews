@@ -1,0 +1,20 @@
+{
+  "revision": 238,
+  "reviewer": "self",
+  "owner_approval": "pending",
+  "scope": "Repair the two hood-to-neck-fold junctions only",
+  "passes": [
+    "Construction close-ups and all-angle checks of both builds and all14 top-specific fits.",
+    "Actual GLBs reopened, all14 tops at seven angles;16 covered hairstyles rechecked; both final assemblies packed/reopened.",
+    "Final browser comparison, close side/back/underside review and retained feature controls."
+  ],
+  "protected": "All237 heads, bodies, wardrobe, face/eyes, palette, fixed studio, covered/uncovered hair and all other headwear unchanged.",
+  "changes": [
+    "Join hood, wrap and both fold roots with shared mesh vertices and matching UVs.",
+    "Continue the face border into each neck fold instead of drawing a hem across the internal join.",
+    "Blend the local junction normals and apply cloth thickness once to the connected surface.",
+    "Retain237 wrap, narrow crossings, upper hood, top-specific contact and all other assets."
+  ],
+  "hair": "Every covered and uncovered hairstyle reuses its exact237 export; no hair geometry changed.",
+  "native_qualification": "Not performed in this artwork correction."
+}

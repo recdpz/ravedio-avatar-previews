@@ -1,0 +1,145 @@
+{
+  "date": "2026-10-15",
+  "scope": "Native160 correction of159 shoulders,sleeves,cross strap and masculine tank; owner review pending",
+  "public_preview": "https://recdpz.github.io/ravedio-avatar-previews/160/",
+  "baseline_public_commit": "96f5b253e370177646fb549cdbd6d2ee335ecf38",
+  "source_files": [
+    {
+      "path": "E:\\Ravedio-Avatar\\outfits160\\model160.py",
+      "sha256": "19a79ec0870360ec42dc2b3eb647d9977e3396f54e5fe288aa34d8fd6c3aaf48"
+    },
+    {
+      "path": "E:\\Ravedio-Avatar\\outfits160\\verify160.py",
+      "sha256": "c4c7774788355a35d8d81dfe24bf33ccf6c71e8c77da486cd0243407aff76155"
+    }
+  ],
+  "saved_candidates": 11,
+  "render_count": 66,
+  "angles": [
+    "front",
+    "threequarter",
+    "profile",
+    "rightprofile",
+    "rear",
+    "top"
+  ],
+  "glb_count": 13,
+  "glb_checks": [
+    {
+      "file": "Feminine-bandeau-top.glb",
+      "bytes": 2431840,
+      "sha256": "d99997916c2f57e36244748af1aafbba301fe0d43355740587f8a0a7c89edca9",
+      "meshes": 3,
+      "materials": 2
+    },
+    {
+      "file": "Feminine-base.glb",
+      "bytes": 10312576,
+      "sha256": "4144d87165a42a26bf79b037f2724f3ce684c2f3319770feb6b34e326479607e",
+      "meshes": 40,
+      "materials": 8
+    },
+    {
+      "file": "Feminine-jersey-top.glb",
+      "bytes": 3500192,
+      "sha256": "c585450af3a12ac96bb242edc3cf1b1afebd23eedeeae33ccf3c1677034649c4",
+      "meshes": 4,
+      "materials": 2
+    },
+    {
+      "file": "Feminine-open-top.glb",
+      "bytes": 5383452,
+      "sha256": "1cff41c53439ee2e788605ece9b804280615e6bd647dcd9042651b1eaad15d20",
+      "meshes": 13,
+      "materials": 3
+    },
+    {
+      "file": "Feminine-strappy-top.glb",
+      "bytes": 3512404,
+      "sha256": "2dda3f4e5ae736d3cd0af96474f9ba7aaee7af3cf28f4a751320751f14953fa5",
+      "meshes": 6,
+      "materials": 2
+    },
+    {
+      "file": "Feminine-sweatshirt-top.glb",
+      "bytes": 4278740,
+      "sha256": "a782aa947e2de9a6edf7d462f2c147bf98aaab56f955f1cb1666469bf6631247",
+      "meshes": 5,
+      "materials": 2
+    },
+    {
+      "file": "Feminine-tank-top.glb",
+      "bytes": 1137332,
+      "sha256": "b0e560fecfb4e21b50689e9e808e6e16b8d30b4a04c1f5d99c150f7e6c292bc8",
+      "meshes": 2,
+      "materials": 2
+    },
+    {
+      "file": "Feminine-triangle-top.glb",
+      "bytes": 2679552,
+      "sha256": "661fa132fcecab09e118e80e62abe3f9718ce27bd651581a04e01534fe186670",
+      "meshes": 9,
+      "materials": 2
+    },
+    {
+      "file": "Feminine-tshirt-top.glb",
+      "bytes": 2662804,
+      "sha256": "81c6ae858d3f8d3311fea71abbaf8b5512d5859c8be4d163a008fd017622b765",
+      "meshes": 4,
+      "materials": 2
+    },
+    {
+      "file": "Masculine-base.glb",
+      "bytes": 10417400,
+      "sha256": "9920b7cef5ddf2346fdd3d9ae3fb5d6b2c96df9544a2520d0aa878fa02a3aebf",
+      "meshes": 37,
+      "materials": 8
+    },
+    {
+      "file": "Masculine-jersey-top.glb",
+      "bytes": 3542028,
+      "sha256": "a5e4e9e27c154477e0a4c3db48c14d1e5fda1af2d7cd9568572987bb35f994da",
+      "meshes": 4,
+      "materials": 2
+    },
+    {
+      "file": "Masculine-sweatshirt-top.glb",
+      "bytes": 4293356,
+      "sha256": "7330723ed0946f77b6355c8198134039f744e9a0cdcdd28ea43883d29a47f2ed",
+      "meshes": 5,
+      "materials": 2
+    },
+    {
+      "file": "Masculine-tank-top.glb",
+      "bytes": 1185412,
+      "sha256": "97ca9357e0db28447692c24549b11c53ae0e84ec3f576114bf1f4e7c6870c09c",
+      "meshes": 2,
+      "materials": 2
+    }
+  ],
+  "save_reopen_proof": "technical160.json",
+  "fit_proof": "fit-verification160.json",
+  "visual_review": "visual-review160.json",
+  "protected_hashes_exact": true,
+  "protected": "159 heads,eyes,hair,hands,leg blobs,shorts and151palette retained. Original Studio and profile contracts unchanged.",
+  "coordinate_space": "Same final-world Blender Z-up as159; glTF exporter converts once to Y-up",
+  "changes": [
+    "Broader,softer upper torso silhouette",
+    "Continuous tapered open sleeves; no sphere caps",
+    "Smoother garment drape with shorts-seam clearance",
+    "Cross strap fitted outside actual torso surface",
+    "Masculine tank is a connected crew-neck sleeveless shirt with broad shoulders",
+    "Open-shirt hem interrupted at the opening and plackets seated on cloth"
+  ],
+  "limitations": [
+    "Prototype art awaiting owner approval",
+    "Only11 displayed build/top combinations checked",
+    "Main historical hairstyle/headwear catalogue not adapted",
+    "Physical phone touch not tested; phone-width layout checked in browser",
+    "Cycles and live viewer lighting differ"
+  ],
+  "references": [
+    "https://ascolour.com/mens-classic-tank-5073/",
+    "https://ascolour.com/staple-tee-5001/"
+  ]
+}

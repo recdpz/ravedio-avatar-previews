@@ -1,0 +1,102 @@
+[
+  {
+    "case": "Feminine-bandeau",
+    "saved_signature_exact": true,
+    "base_matches_other_outfits": true,
+    "sampled_hand_to_clothing_min": [
+      0.15551143884658813,
+      0.15551181137561798
+    ]
+  },
+  {
+    "case": "Feminine-strappy",
+    "saved_signature_exact": true,
+    "base_matches_other_outfits": true,
+    "sampled_hand_to_clothing_min": [
+      0.1428012251853943,
+      0.1428014636039734
+    ],
+    "strap_min_signed_clearance": 0.0010612157348077744
+  },
+  {
+    "case": "Feminine-tank",
+    "saved_signature_exact": true,
+    "base_matches_other_outfits": true,
+    "sampled_hand_to_clothing_min": [
+      0.10364717245101929,
+      0.10364717990159988
+    ]
+  },
+  {
+    "case": "Masculine-tank",
+    "saved_signature_exact": true,
+    "base_matches_other_outfits": true,
+    "sampled_hand_to_clothing_min": [
+      0.07144021987915039,
+      0.07144021987915039
+    ]
+  },
+  {
+    "case": "Masculine-jersey",
+    "saved_signature_exact": true,
+    "base_matches_other_outfits": true,
+    "sampled_hand_to_clothing_min": [
+      0.07147610187530518,
+      0.0714818686246872
+    ]
+  },
+  {
+    "case": "Masculine-sweatshirt",
+    "saved_signature_exact": true,
+    "base_matches_other_outfits": true,
+    "sampled_hand_to_clothing_min": [
+      0.05748487636446953,
+      0.057483889162540436
+    ]
+  },
+  {
+    "case": "Feminine-tshirt",
+    "saved_signature_exact": true,
+    "base_matches_other_outfits": true,
+    "sampled_hand_to_clothing_min": [
+      0.09269940108060837,
+      0.09269940108060837
+    ]
+  },
+  {
+    "case": "Feminine-jersey",
+    "saved_signature_exact": true,
+    "base_matches_other_outfits": true,
+    "sampled_hand_to_clothing_min": [
+      0.09269940108060837,
+      0.09269940108060837
+    ]
+  },
+  {
+    "case": "Feminine-open",
+    "saved_signature_exact": true,
+    "base_matches_other_outfits": true,
+    "sampled_hand_to_clothing_min": [
+      0.09269940108060837,
+      0.09269940108060837
+    ]
+  },
+  {
+    "case": "Feminine-triangle",
+    "saved_signature_exact": true,
+    "base_matches_other_outfits": true,
+    "sampled_hand_to_clothing_min": [
+      0.14239804446697235,
+      0.14239828288555145
+    ]
+  },
+  {
+    "case": "Feminine-sweatshirt",
+    "saved_signature_exact": true,
+    "base_matches_other_outfits": true,
+    "sampled_hand_to_clothing_min": [
+      0.061021916568279266,
+      0.061021916568279266
+    ]
+  }
+]
