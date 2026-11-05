@@ -1,0 +1,33 @@
+{
+  "revision": 261,
+  "baseline_commit": "b40c9c9de2875054e9400d6af8b76771402860da",
+  "scope": "Hair construction cleanup; no profile/wire/product code changes",
+  "corrected_styles": [
+    "Feminine-side-sweep",
+    "Feminine-straight",
+    "Feminine-curls",
+    "Feminine-bob",
+    "Masculine-flow",
+    "Masculine-middle-part"
+  ],
+  "retained_styles": [
+    "Feminine-ponytail",
+    "Feminine-space-buns",
+    "Feminine-twin-braids",
+    "Feminine-box-braids",
+    "Masculine-sidepart",
+    "Masculine-taper",
+    "Masculine-buzz",
+    "Masculine-curly-top",
+    "Masculine-afro",
+    "Masculine-locs"
+  ],
+  "components": "144 ordinary GLBs:48 corrected hair,48 matching Ombr\u00e9,48 seated sprouts. Six packed final-GLB assemblies and24 matched color/32-bit-Z references.",
+  "coordinates": "Shared coordinates unchanged; hair/headwear/clothes/lenses/frames remain independent; existing colors retained.",
+  "fit_strategy": "Retained headgear geometry; proportional compression for closed hats, existing authored root seating for bandanas/pashminas; reviewed actual exports.",
+  "rendering": "Material/COLOR_0 opacity remains distinct from transmission. No compression or quantization added. Preserve ordinary GLBs for native and offline bakers.",
+  "depth": "Color and depth regenerated together from final geometry, same camera, at120/512. Previous depth fixtures are not reused for these changed assemblies.",
+  "blender_transfer": "Packed scenes retain the reference studio and color management. Procedural bump/normal effects, environment, view transform and some shader responses require explicit native matching; GLB alone is not the complete Blender appearance.",
+  "qualification": "Source/export validation; native renderer and phone performance remain separate.",
+  "comparison": "Compare260 keeps matching prior hair and the other selected components, including separate Twin braid lengths."
+}

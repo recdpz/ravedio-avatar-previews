@@ -1,0 +1,107 @@
+{
+  "Feminine-side-sweep": {
+    "replaced_support_objects": 1,
+    "boundary_range": [
+      0.8313128491620111,
+      1.72
+    ],
+    "continuous_boundary": true,
+    "actual_head_clearance": 0.0025,
+    "main_locks_preserved": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue261\\pass5\\sources\\Feminine-side-sweep-hair261.blend",
+    "path": "E:\\Ravedio-Avatar\\catalogue261\\pass5\\components\\Feminine-side-sweep-hair261.glb",
+    "rear_coverage_extended_beneath_locks": true,
+    "main_lock_positions_retained_from_previous_pass": true
+  },
+  "Feminine-straight": {
+    "replaced_support_objects": 1,
+    "boundary_range": [
+      0.730754189944134,
+      1.72
+    ],
+    "continuous_boundary": true,
+    "actual_head_clearance": 0.0025,
+    "main_locks_preserved": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue261\\pass5\\sources\\Feminine-straight-hair261.blend",
+    "path": "E:\\Ravedio-Avatar\\catalogue261\\pass5\\components\\Feminine-straight-hair261.glb",
+    "rear_coverage_extended_beneath_locks": true,
+    "main_lock_positions_retained_from_previous_pass": true
+  },
+  "Feminine-curls": {
+    "replaced_support_objects": 1,
+    "boundary_range": [
+      0.7056145251396647,
+      1.72
+    ],
+    "continuous_boundary": true,
+    "actual_head_clearance": 0.0025,
+    "main_locks_preserved": true,
+    "reconstructed_pinched_sections": [
+      "Hair / Curls / side sweep 9",
+      "Hair / Curls / side sweep 8",
+      "Hair / Curls / side sweep 7",
+      "Hair / Curls / side sweep 6",
+      "Hair / Curls / side sweep 5",
+      "Hair / Curls / side sweep 4",
+      "Hair / Curls / side sweep 3",
+      "Hair / Curls / side sweep 21",
+      "Hair / Curls / side sweep 20",
+      "Hair / Curls / side sweep 2",
+      "Hair / Curls / side sweep 19",
+      "Hair / Curls / side sweep 18",
+      "Hair / Curls / side sweep 17",
+      "Hair / Curls / side sweep 16",
+      "Hair / Curls / side sweep 15",
+      "Hair / Curls / side sweep 14",
+      "Hair / Curls / side sweep 13",
+      "Hair / Curls / side sweep 11",
+      "Hair / Curls / side sweep 10",
+      "Hair / Curls / side sweep 1",
+      "Hair / Curls / side sweep 0"
+    ],
+    "source": "E:\\Ravedio-Avatar\\catalogue261\\pass5\\sources\\Feminine-curls-hair261.blend",
+    "path": "E:\\Ravedio-Avatar\\catalogue261\\pass5\\components\\Feminine-curls-hair261.glb",
+    "front_support_stops_beneath_first_curl_bank": true,
+    "rear_coverage_extended_beneath_locks": true,
+    "main_lock_positions_retained_from_previous_pass": true
+  },
+  "Feminine-bob": {
+    "replaced_support_objects": 1,
+    "boundary_range": [
+      0.65,
+      1.72
+    ],
+    "continuous_boundary": true,
+    "actual_head_clearance": 0.0025,
+    "main_locks_preserved": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue261\\pass5\\sources\\Feminine-bob-hair261.blend",
+    "path": "E:\\Ravedio-Avatar\\catalogue261\\pass5\\components\\Feminine-bob-hair261.glb",
+    "rear_coverage_extended_beneath_locks": true,
+    "main_lock_positions_retained_from_previous_pass": true
+  },
+  "Masculine-flow": {
+    "replaced_support_objects": 2,
+    "boundary_range": [
+      0.8229329608938547,
+      1.72
+    ],
+    "continuous_boundary": true,
+    "actual_head_clearance": 0.0025,
+    "main_locks_preserved": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue261\\pass1\\sources\\Masculine-flow-hair261.blend",
+    "path": "E:\\Ravedio-Avatar\\catalogue261\\pass1\\components\\Masculine-flow-hair261.glb",
+    "iteration_note": "Retain original main locks. Reject the raised crown bridge; alpha inspection confirms the dark front groove is opaque shaded hair, not a hole. Additional inter-bank filler produced no visible improvement and was discarded."
+  },
+  "Masculine-middle-part": {
+    "replaced_support_objects": 2,
+    "boundary_range": [
+      0.8815921787709496,
+      1.3956700257087553
+    ],
+    "continuous_boundary": true,
+    "actual_head_clearance": 0.0025,
+    "main_locks_preserved": true,
+    "source": "E:\\Ravedio-Avatar\\catalogue261\\pass1\\sources\\Masculine-middle-part-hair261.blend",
+    "path": "E:\\Ravedio-Avatar\\catalogue261\\pass1\\components\\Masculine-middle-part-hair261.glb"
+  }
+}
