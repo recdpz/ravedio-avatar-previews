@@ -1,0 +1,798 @@
+{
+  "checks": [
+    [
+      "Feminine",
+      "four eyes"
+    ],
+    [
+      "Feminine",
+      "hair",
+      "bob",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Feminine",
+      "hair",
+      "ponytail",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Feminine",
+      "hair",
+      "straight",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Feminine",
+      "hair",
+      "curls",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Feminine",
+      "hair",
+      "side-sweep",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Feminine",
+      "hair",
+      "space-buns",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Feminine",
+      "hair",
+      "twin-braids",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Feminine",
+      "hair",
+      "box-braids",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Feminine",
+      "top",
+      "bandeau",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Feminine",
+      "top",
+      "triangle",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Feminine",
+      "top",
+      "strappy",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Feminine",
+      "top",
+      "tshirt",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Feminine",
+      "top",
+      "jersey",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Feminine",
+      "top",
+      "open",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Feminine",
+      "top",
+      "tank",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Feminine",
+      "top",
+      "sweatshirt",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Feminine",
+      "bottom",
+      "shorts",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Feminine",
+      "bottom",
+      "skirt",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Feminine",
+      "bottom",
+      "bikini",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Feminine",
+      "bottom",
+      "pants",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Feminine",
+      "headgear",
+      "cap",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Feminine",
+      "headgear",
+      "beanie",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Feminine",
+      "headgear",
+      "bucket",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Feminine",
+      "headgear",
+      "cowboy",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Feminine",
+      "headgear",
+      "headband",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Feminine",
+      "headgear",
+      "ears",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Feminine",
+      "headgear",
+      "pashmina",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Feminine",
+      "bandeau",
+      "shorts",
+      "base and compare geometry"
+    ],
+    [
+      "Feminine",
+      "bandeau",
+      "skirt",
+      "base and compare geometry"
+    ],
+    [
+      "Feminine",
+      "bandeau",
+      "bikini",
+      "base and compare geometry"
+    ],
+    [
+      "Feminine",
+      "bandeau",
+      "pants",
+      "base and compare geometry"
+    ],
+    [
+      "Feminine",
+      "triangle",
+      "shorts",
+      "base and compare geometry"
+    ],
+    [
+      "Feminine",
+      "triangle",
+      "skirt",
+      "base and compare geometry"
+    ],
+    [
+      "Feminine",
+      "triangle",
+      "bikini",
+      "base and compare geometry"
+    ],
+    [
+      "Feminine",
+      "triangle",
+      "pants",
+      "base and compare geometry"
+    ],
+    [
+      "Feminine",
+      "strappy",
+      "shorts",
+      "base and compare geometry"
+    ],
+    [
+      "Feminine",
+      "strappy",
+      "skirt",
+      "base and compare geometry"
+    ],
+    [
+      "Feminine",
+      "strappy",
+      "bikini",
+      "base and compare geometry"
+    ],
+    [
+      "Feminine",
+      "strappy",
+      "pants",
+      "base and compare geometry"
+    ],
+    [
+      "Feminine",
+      "tshirt",
+      "shorts",
+      "base and compare geometry"
+    ],
+    [
+      "Feminine",
+      "tshirt",
+      "skirt",
+      "base and compare geometry"
+    ],
+    [
+      "Feminine",
+      "tshirt",
+      "bikini",
+      "base and compare geometry"
+    ],
+    [
+      "Feminine",
+      "tshirt",
+      "pants",
+      "base and compare geometry"
+    ],
+    [
+      "Feminine",
+      "jersey",
+      "shorts",
+      "base and compare geometry"
+    ],
+    [
+      "Feminine",
+      "jersey",
+      "skirt",
+      "base and compare geometry"
+    ],
+    [
+      "Feminine",
+      "jersey",
+      "bikini",
+      "base and compare geometry"
+    ],
+    [
+      "Feminine",
+      "jersey",
+      "pants",
+      "base and compare geometry"
+    ],
+    [
+      "Feminine",
+      "open",
+      "shorts",
+      "base and compare geometry"
+    ],
+    [
+      "Feminine",
+      "open",
+      "skirt",
+      "base and compare geometry"
+    ],
+    [
+      "Feminine",
+      "open",
+      "bikini",
+      "base and compare geometry"
+    ],
+    [
+      "Feminine",
+      "open",
+      "pants",
+      "base and compare geometry"
+    ],
+    [
+      "Feminine",
+      "tank",
+      "shorts",
+      "base and compare geometry"
+    ],
+    [
+      "Feminine",
+      "tank",
+      "skirt",
+      "base and compare geometry"
+    ],
+    [
+      "Feminine",
+      "tank",
+      "bikini",
+      "base and compare geometry"
+    ],
+    [
+      "Feminine",
+      "tank",
+      "pants",
+      "base and compare geometry"
+    ],
+    [
+      "Feminine",
+      "sweatshirt",
+      "shorts",
+      "base and compare geometry"
+    ],
+    [
+      "Feminine",
+      "sweatshirt",
+      "skirt",
+      "base and compare geometry"
+    ],
+    [
+      "Feminine",
+      "sweatshirt",
+      "bikini",
+      "base and compare geometry"
+    ],
+    [
+      "Feminine",
+      "sweatshirt",
+      "pants",
+      "base and compare geometry"
+    ],
+    [
+      "Feminine",
+      "separate sleeves remain addressable"
+    ],
+    [
+      "Feminine",
+      "original",
+      "selection/lashes"
+    ],
+    [
+      "Feminine",
+      "tapered",
+      "selection/lashes"
+    ],
+    [
+      "Feminine",
+      "hooded",
+      "selection/lashes"
+    ],
+    [
+      "Feminine",
+      "bean",
+      "selection/lashes"
+    ],
+    [
+      "Feminine",
+      "rectangular",
+      "frames/lens controls"
+    ],
+    [
+      "Feminine",
+      "reading",
+      "frames/lens controls"
+    ],
+    [
+      "Feminine",
+      "wayfarer",
+      "frames/lens controls"
+    ],
+    [
+      "Feminine",
+      "cat-eye",
+      "frames/lens controls"
+    ],
+    [
+      "Feminine",
+      "heart",
+      "frames/lens controls"
+    ],
+    [
+      "Feminine",
+      "wraparound",
+      "frames/lens controls"
+    ],
+    [
+      "Feminine",
+      "kaleidoscope",
+      "frames/lens controls"
+    ],
+    [
+      "Masculine",
+      "four eyes"
+    ],
+    [
+      "Masculine",
+      "hair",
+      "sidepart",
+      "GPU8bit rounding",
+      {
+        "max": 1,
+        "changed": 42,
+        "total": 1493284
+      }
+    ],
+    [
+      "Masculine",
+      "hair",
+      "sidepart",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Masculine",
+      "hair",
+      "taper",
+      "GPU8bit rounding",
+      {
+        "max": 1,
+        "changed": 31,
+        "total": 1493284
+      }
+    ],
+    [
+      "Masculine",
+      "hair",
+      "taper",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Masculine",
+      "hair",
+      "buzz",
+      "GPU8bit rounding",
+      {
+        "max": 2,
+        "changed": 162,
+        "total": 1493284
+      }
+    ],
+    [
+      "Masculine",
+      "hair",
+      "buzz",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Masculine",
+      "hair",
+      "curly-top",
+      "GPU8bit rounding",
+      {
+        "max": 1,
+        "changed": 31,
+        "total": 1493284
+      }
+    ],
+    [
+      "Masculine",
+      "hair",
+      "curly-top",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Masculine",
+      "hair",
+      "afro",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Masculine",
+      "hair",
+      "flow",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Masculine",
+      "hair",
+      "locs",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Masculine",
+      "hair",
+      "middle-part",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Masculine",
+      "shirtless",
+      "no fabric recolor"
+    ],
+    [
+      "Masculine",
+      "top",
+      "tank",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Masculine",
+      "top",
+      "tshirt",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Masculine",
+      "top",
+      "jersey",
+      "GPU8bit rounding",
+      {
+        "max": 1,
+        "changed": 51,
+        "total": 1493284
+      }
+    ],
+    [
+      "Masculine",
+      "top",
+      "jersey",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Masculine",
+      "top",
+      "buttonup",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Masculine",
+      "top",
+      "sweatshirt",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Masculine",
+      "bottom",
+      "shorts",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Masculine",
+      "bottom",
+      "pants",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Masculine",
+      "headgear",
+      "cap",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Masculine",
+      "headgear",
+      "beanie",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Masculine",
+      "headgear",
+      "bucket",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Masculine",
+      "headgear",
+      "cowboy",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Masculine",
+      "headgear",
+      "headband",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Masculine",
+      "headgear",
+      "ears",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Masculine",
+      "headgear",
+      "pashmina",
+      "authored materials exact; pixels exact or sparse <=4LSB alpha/GPU ordering variation"
+    ],
+    [
+      "Masculine",
+      "shirtless",
+      "shorts",
+      "base and compare geometry"
+    ],
+    [
+      "Masculine",
+      "shirtless",
+      "pants",
+      "base and compare geometry"
+    ],
+    [
+      "Masculine",
+      "tank",
+      "shorts",
+      "base and compare geometry"
+    ],
+    [
+      "Masculine",
+      "tank",
+      "pants",
+      "base and compare geometry"
+    ],
+    [
+      "Masculine",
+      "tshirt",
+      "shorts",
+      "base and compare geometry"
+    ],
+    [
+      "Masculine",
+      "tshirt",
+      "pants",
+      "base and compare geometry"
+    ],
+    [
+      "Masculine",
+      "jersey",
+      "shorts",
+      "base and compare geometry"
+    ],
+    [
+      "Masculine",
+      "jersey",
+      "pants",
+      "base and compare geometry"
+    ],
+    [
+      "Masculine",
+      "buttonup",
+      "shorts",
+      "base and compare geometry"
+    ],
+    [
+      "Masculine",
+      "buttonup",
+      "pants",
+      "base and compare geometry"
+    ],
+    [
+      "Masculine",
+      "sweatshirt",
+      "shorts",
+      "base and compare geometry"
+    ],
+    [
+      "Masculine",
+      "sweatshirt",
+      "pants",
+      "base and compare geometry"
+    ],
+    [
+      "Masculine",
+      "separate sleeves remain addressable"
+    ],
+    [
+      "Masculine",
+      "original",
+      "selection/lashes"
+    ],
+    [
+      "Masculine",
+      "tapered",
+      "selection/lashes"
+    ],
+    [
+      "Masculine",
+      "hooded",
+      "selection/lashes"
+    ],
+    [
+      "Masculine",
+      "bean",
+      "selection/lashes"
+    ],
+    [
+      "Masculine",
+      "rectangular",
+      "frames/lens controls"
+    ],
+    [
+      "Masculine",
+      "reading",
+      "frames/lens controls"
+    ],
+    [
+      "Masculine",
+      "wayfarer",
+      "frames/lens controls"
+    ],
+    [
+      "Masculine",
+      "cat-eye",
+      "frames/lens controls"
+    ],
+    [
+      "Masculine",
+      "heart",
+      "frames/lens controls"
+    ],
+    [
+      "Masculine",
+      "wraparound",
+      "frames/lens controls"
+    ],
+    [
+      "Masculine",
+      "kaleidoscope",
+      "frames/lens controls"
+    ],
+    [
+      "Masculine",
+      "none",
+      "headgear contacts"
+    ],
+    [
+      "Masculine",
+      "stubble",
+      "headgear contacts"
+    ],
+    [
+      "Masculine",
+      "mustache",
+      "headgear contacts"
+    ],
+    [
+      "Masculine",
+      "patch",
+      "headgear contacts"
+    ],
+    [
+      "Masculine",
+      "goatee",
+      "headgear contacts"
+    ],
+    [
+      "Masculine",
+      "short",
+      "headgear contacts"
+    ],
+    [
+      "Masculine",
+      "long",
+      "headgear contacts"
+    ],
+    [
+      "legacy review eye",
+      "almond"
+    ],
+    [
+      "legacy review eye",
+      "squint"
+    ],
+    [
+      "mobile layout, zoom, orbit, PNG"
+    ]
+  ],
+  "errors": [],
+  "http": [],
+  "source": "Actual local262 GLBs and viewer",
+  "qualification": "Artwork/browser verification; not native performance"
+}

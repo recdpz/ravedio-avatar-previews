@@ -1,0 +1,57 @@
+{
+  "revision": 262,
+  "baseline_commit": "b0a1a1215617e93f30af14108c58929c37f26e2d",
+  "scope": "Combined wardrobe/accessory finishing and small-portrait review. Existing source artwork remains authoritative.",
+  "corrections": [
+    "pants-bare-leg-overlap",
+    "triangle-lower-corner",
+    "hood-rear-corner"
+  ],
+  "catalogue": "Four eyes: Original, Tapered oval, Soft hooded, Rounded bean. No nose; regular smile. Eight canonical colors per hair/top/bottom/headwear, plus Original(review) as contextual authored alias. Four independent frame colors; Reading defaults clear, other glasses dark.",
+  "wire": "No production IDs, firmware, BLE/LoRa layout, profile bytes or native product code changed. Catalogue keys are artwork review identifiers.",
+  "package": "Six independent ordinary component GLBs, two ordinary assembled GLBs, two packed assembled Blender scenes, three packed changed-top source scenes and24 matched color/32-bit-Z pairs.",
+  "coordinates": "Shared world coordinates/transforms retained. Keep hair/headwear, top/bottom, eyes/lashes, frames/lenses and sleeve/torso nodes separately addressable. No per-component centering/resizing or material-only consolidation.",
+  "pants_contract": "Use pantsBases.clothed or shirtless only for Pants. Their two inactive original leg nodes are not part of the selected glTF scene. Unreachable BIN data is retained; these are compatibility fixtures, not optimized derivatives. Importers must honor active scene graph. Packed Blender fixtures omit excluded leg nodes.",
+  "depth": "Regenerated from final actual GLBs at120/512(reference span1.65,target1.88) and32/48/64/120(chat span1.35,target1.90). Color/Z pairs share geometry,camera and version. Z does not encode transmitted or refracted layers. Cowboy chat browser framing widens to1.75.",
+  "glasses": "Frame color is Black in both assembled references. Source lens transmission, alpha, volume and IOR are listed separately in technical262.json. Browser uses a sharp alpha lens approximation. Native transmitted lenses are not certified by the browser images.",
+  "blender_transfer": "Packed scenes include exact studio lights/world/exposure/color management in assemblies262.json. GLB alone does not carry the studio, view transform, ray-visibility rules or all procedural/normal shader effects. Re-imports can alter reflection/contact shading; retain faithful Blender color references as the comparison authority, do not retune them to match a native renderer.",
+  "camera": "Face and Body controls retain prior framing; Chat portrait is an added review preset, not a native implementation change.",
+  "evidence": {
+    "revision": 262,
+    "outfit_pairings": 44,
+    "outfit_angles": 8,
+    "final_exported_images": 1269,
+    "capture_breakdown": {
+      "wardrobe": {
+        "images": 438,
+        "errors": [],
+        "http": []
+      },
+      "accessories": {
+        "images": 512,
+        "errors": [],
+        "http": []
+      },
+      "small": {
+        "images": 240,
+        "errors": [],
+        "http": []
+      },
+      "groom_contacts": {
+        "images": 63
+      },
+      "assembled_glb": {
+        "images": 16
+      }
+    },
+    "local_feature_checks": 135,
+    "second_pass": "Reinspect actual exported geometry, hidden-arm contacts, top/bottom details, headgear/glasses matrices, all4 tones and exact small outputs. Three source/export passes; stripe and sleeve-merge trials rejected.",
+    "qualification": "Source/export/browser artwork validation. Native rendering, transparent optics and phone performance remain separate."
+  },
+  "next_slice": [
+    "Optimize copies of these two assemblies with ordinary uncompressed GLBs first; preserve semantic nodes, materials, silhouettes and attachment boundaries. Compare262 source against each derivative before accepting it.",
+    "Regenerate color and depth together for every changed derivative. Explicitly test transparency and transmission; do not treat alphaMode=OPAQUE as opaque glass.",
+    "Compare faithful source -> optimized GLB -> native3D -> lightweight portrait in seeded real-app workloads on iOS and Android. Measure first-use/scroll cost, loading peaks, decoded memory, draw calls and appearance. No whole-catalogue or fixed50\u2013100k acceptance threshold."
+  ],
+  "approval": "New corrections await owner review. This package completes the authorized art/export slice, not production readiness or native/phone qualification."
+}

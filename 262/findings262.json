@@ -1,0 +1,87 @@
+{
+  "revision": 262,
+  "baseline_commit": "b0a1a1215617e93f30af14108c58929c37f26e2d",
+  "status": "Corrections ready for owner review; not blanket catalogue approval",
+  "fixed": [
+    {
+      "id": "pants-bare-leg-overlap",
+      "evidence": "Both builds showed the legacy bare leg blobs through the pants surface, producing large skin panels and broken hems.",
+      "correction": "Explicit pants-only clothed bases; omit the two bare leg nodes from the active scene graph. Preserve original bases for Shorts, Skirt and Bikini. Shirtless masculine pants has its own matching base.",
+      "protection": "Original BIN payload, retained transforms/materials/accessors exact. No anatomy or pants geometry alteration."
+    },
+    {
+      "id": "triangle-lower-corner",
+      "evidence": "Feminine side view had a stretched low outer triangle corner above the band.",
+      "correction": "Small lower-edge displacement carried through both cloth surfaces using the existing torso slope.",
+      "second_pass": "First projection/clamp trial collapsed thickness and striped the surface; rejected. Final pass preserves thickness, strap geometry and body shape."
+    },
+    {
+      "id": "hood-rear-corner",
+      "evidence": "Both hoodies had a triangular rear hood corner hovering too far off the upper shirt.",
+      "correction": "Seat the lower posterior hood fold nearer the shirt with a smooth bounded displacement; retain cavity, collar, cords, pocket and cuffs.",
+      "second_pass": "Material-only export consolidation merged cuff trim with torso cloth in the trial. Final export retains individual semantic nodes; hidden-arm tests now hide the cuffs with sleeves."
+    }
+  ],
+  "retained": "Existing bodies, detached178 arms, face shapes, all16 haircuts, hats, glasses, details, remaining11 tops and all6 bottom meshes retain original source geometry. No new accessory-fit fault was confirmed in the selected matrix. This is not a claim that every possible combination is perfect.",
+  "catalogue_decisions": {
+    "status": "Owner-directed artwork catalogue; no wire IDs or encoders changed",
+    "eyes": [
+      "original",
+      "tapered",
+      "hooded",
+      "bean"
+    ],
+    "retired_review_eyes": {
+      "almond": "tapered",
+      "squint": "hooded"
+    },
+    "canonical_colors": {
+      "hair": [
+        "black",
+        "ombre",
+        "darkbrown",
+        "auburn",
+        "blonde",
+        "platinum",
+        "pink",
+        "purple"
+      ],
+      "top": [
+        "black",
+        "white",
+        "blue",
+        "teal",
+        "purple",
+        "pink",
+        "red",
+        "lime"
+      ],
+      "bottom": [
+        "black",
+        "white",
+        "gray",
+        "navy",
+        "blue",
+        "khaki",
+        "red",
+        "pink"
+      ],
+      "headgear": [
+        "black",
+        "white",
+        "gray",
+        "navy",
+        "blue",
+        "khaki",
+        "red",
+        "pink"
+      ]
+    },
+    "default_rule": "Original (review) is a source-color preset, not a ninth color. It resolves to the contextual authored palette entry. Selecting that entry retains the original fabric/hair material variation rather than flattening it to one HEX.",
+    "brown": "Brown uses authored brown materials; the redundant darker-brown review treatment is retired with261.",
+    "lens_rule": "Dark by default except Reading clear; alternative lens preview and lash hiding are review controls, not new profile bits."
+  },
+  "conversation_review": "Exact32/48/64/120px exports on all4 skin tones. Tighter optional Chat portrait framing improves facial area. Keep eye/lash/mouth/stubble geometry; prefer48\u201364 logical px for conversation UI.32px is a stress case with inevitable loss of smile/fine detail. No native UI size change implemented.",
+  "remaining_art_review": "Female Curls remains a broad-wave interpretation; Curly top, Afro and Locs retain their existing artistic character. Any further art direction requires a focused review, not an unverified automatic rebuild.",
+  "native_gates": "No optimization or native/phone certification in this slice. Transmission/glossy lighting parity and actual app workload measurements remain required."
+}
