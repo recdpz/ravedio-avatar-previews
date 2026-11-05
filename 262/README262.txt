@@ -13,3 +13,5 @@ Package:6 independent component GLBs,2 assembled GLBs,2 packed final-GLB Blender
 Validation:44 outfit pairings in8angles; hidden-arm contacts and bottom details;512 headgear/glasses/hair-detail images;240 exact small portraits;63 beard/headgear contacts;16 final assembly angles.135 local feature/assembly/color checks.1064 prior GLBs verified unchanged. Scripts under source record the local authoring pipeline; packed scenes are the portable reproducible references.
 
 Next:optimize copies of the two assemblies, compare appearance, then qualify native3D/portrait rendering and transparency in seeded iOS/Android workloads. Source/export checks do not certify native rendering or phone performance. New corrections await owner review.
+
+Immutable binary artwork commit: 95e4897772ea8197b7295f3f6c7700fa300b6e3b
