@@ -1,0 +1,1026 @@
+{
+  "Feminine-bob|none": {
+    "path": "../208/Feminine-hair.glb",
+    "vertices": 47628,
+    "triangles": 95168,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-bob|cap": {
+    "path": "../235/components/Feminine-bob-closed-hair.glb",
+    "vertices": 47628,
+    "triangles": 95168,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-bob|beanie": {
+    "path": "../235/components/Feminine-bob-closed-hair.glb",
+    "vertices": 47628,
+    "triangles": 95168,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-bob|bucket": {
+    "path": "../251/components/Feminine-bob-bucket251-hair.glb",
+    "vertices": 47628,
+    "triangles": 95168,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-bob|cowboy": {
+    "path": "../235/components/Feminine-bob-closed-hair.glb",
+    "vertices": 47628,
+    "triangles": 95168,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-bob|headband": {
+    "path": "../251/components/Feminine-bob-headband251-hair.glb",
+    "vertices": 47628,
+    "triangles": 95168,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-bob|ears": {
+    "path": "../208/Feminine-hair.glb",
+    "vertices": 47628,
+    "triangles": 95168,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-bob|pashmina": {
+    "path": "../250/components/Feminine-bob-open-pashmina250-hair.glb",
+    "vertices": 47628,
+    "triangles": 95168,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-ponytail|none": {
+    "path": "../224/components/Feminine-uncovered-hair.glb",
+    "vertices": 48333,
+    "triangles": 95912,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-ponytail|cap": {
+    "path": "../224/components/Feminine-cap-hair.glb",
+    "vertices": 48333,
+    "triangles": 95912,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-ponytail|beanie": {
+    "path": "../251/components/Feminine-ponytail-beanie251-hair.glb",
+    "vertices": 40286,
+    "triangles": 80028,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-ponytail|bucket": {
+    "path": "../251/components/Feminine-ponytail-bucket251-hair.glb",
+    "vertices": 40286,
+    "triangles": 80028,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-ponytail|cowboy": {
+    "path": "../235/components/Feminine-ponytail-closed-hair.glb",
+    "vertices": 40286,
+    "triangles": 80028,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-ponytail|headband": {
+    "path": "../251/components/Feminine-ponytail-headband251-hair.glb",
+    "vertices": 40286,
+    "triangles": 80028,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-ponytail|ears": {
+    "path": "../224/components/Feminine-uncovered-hair.glb",
+    "vertices": 48333,
+    "triangles": 95912,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-ponytail|pashmina": {
+    "path": "../251/components/Feminine-ponytail-pashmina251-hair.glb",
+    "vertices": 48333,
+    "triangles": 95912,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-straight|none": {
+    "path": "components/Feminine-straight-hair260.glb",
+    "vertices": 46510,
+    "triangles": 90036,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-straight|cap": {
+    "path": "components/Feminine-straight-cap260-hair.glb",
+    "vertices": 46510,
+    "triangles": 90036,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-straight|beanie": {
+    "path": "components/Feminine-straight-beanie260-hair.glb",
+    "vertices": 46510,
+    "triangles": 90036,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-straight|bucket": {
+    "path": "components/Feminine-straight-bucket260-hair.glb",
+    "vertices": 46510,
+    "triangles": 90036,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-straight|cowboy": {
+    "path": "components/Feminine-straight-cowboy260-hair.glb",
+    "vertices": 46510,
+    "triangles": 90036,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-straight|headband": {
+    "path": "components/Feminine-straight-headband260-hair.glb",
+    "vertices": 46510,
+    "triangles": 90036,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-straight|ears": {
+    "path": "components/Feminine-straight-ears260-hair.glb",
+    "vertices": 46510,
+    "triangles": 90036,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-straight|pashmina": {
+    "path": "components/Feminine-straight-pashmina260-hair.glb",
+    "vertices": 46510,
+    "triangles": 90036,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-curls|none": {
+    "path": "../227/components/Feminine-curls-hair.glb",
+    "vertices": 47628,
+    "triangles": 95168,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-curls|cap": {
+    "path": "../235/components/Feminine-curls-closed-hair.glb",
+    "vertices": 47628,
+    "triangles": 95168,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-curls|beanie": {
+    "path": "../235/components/Feminine-curls-closed-hair.glb",
+    "vertices": 47628,
+    "triangles": 95168,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-curls|bucket": {
+    "path": "../251/components/Feminine-curls-bucket251-hair.glb",
+    "vertices": 47628,
+    "triangles": 95168,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-curls|cowboy": {
+    "path": "../235/components/Feminine-curls-closed-hair.glb",
+    "vertices": 47628,
+    "triangles": 95168,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-curls|headband": {
+    "path": "../251/components/Feminine-curls-headband251-hair.glb",
+    "vertices": 47628,
+    "triangles": 95168,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-curls|ears": {
+    "path": "../227/components/Feminine-curls-hair.glb",
+    "vertices": 47628,
+    "triangles": 95168,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-curls|pashmina": {
+    "path": "../250/components/Feminine-curls-open-pashmina250-hair.glb",
+    "vertices": 47628,
+    "triangles": 95168,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-side-sweep|none": {
+    "path": "components/Feminine-side-sweep-hair260.glb",
+    "vertices": 46713,
+    "triangles": 90437,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-side-sweep|cap": {
+    "path": "components/Feminine-side-sweep-cap260-hair.glb",
+    "vertices": 46713,
+    "triangles": 90437,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-side-sweep|beanie": {
+    "path": "components/Feminine-side-sweep-beanie260-hair.glb",
+    "vertices": 46713,
+    "triangles": 90437,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-side-sweep|bucket": {
+    "path": "components/Feminine-side-sweep-bucket260-hair.glb",
+    "vertices": 46713,
+    "triangles": 90437,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-side-sweep|cowboy": {
+    "path": "components/Feminine-side-sweep-cowboy260-hair.glb",
+    "vertices": 46713,
+    "triangles": 90437,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-side-sweep|headband": {
+    "path": "components/Feminine-side-sweep-headband260-hair.glb",
+    "vertices": 46713,
+    "triangles": 90437,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-side-sweep|ears": {
+    "path": "components/Feminine-side-sweep-ears260-hair.glb",
+    "vertices": 46713,
+    "triangles": 90437,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-side-sweep|pashmina": {
+    "path": "components/Feminine-side-sweep-pashmina260-hair.glb",
+    "vertices": 46713,
+    "triangles": 90437,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-space-buns|none": {
+    "path": "../227/components/Feminine-space-buns-hair.glb",
+    "vertices": 26998,
+    "triangles": 53446,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-space-buns|cap": {
+    "path": "../251/components/Feminine-space-buns-cap251-hair.glb",
+    "vertices": 26998,
+    "triangles": 53446,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-space-buns|beanie": {
+    "path": "../251/components/Feminine-space-buns-beanie251-hair.glb",
+    "vertices": 26998,
+    "triangles": 53446,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-space-buns|bucket": {
+    "path": "../251/components/Feminine-space-buns-bucket251-hair.glb",
+    "vertices": 26998,
+    "triangles": 53446,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-space-buns|cowboy": {
+    "path": "../251/components/Feminine-space-buns-cowboy251-hair.glb",
+    "vertices": 26998,
+    "triangles": 53446,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-space-buns|headband": {
+    "path": "../251/components/Feminine-space-buns-headband251-hair.glb",
+    "vertices": 26998,
+    "triangles": 53446,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-space-buns|ears": {
+    "path": "../251/components/Feminine-space-buns-ears251-hair.glb",
+    "vertices": 26998,
+    "triangles": 53446,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-space-buns|pashmina": {
+    "path": "../251/components/Feminine-space-buns-pashmina251-hair.glb",
+    "vertices": 26998,
+    "triangles": 53446,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-twin-braids|none": {
+    "path": "../251/components/Feminine-twin-braids-roots251-hair.glb",
+    "vertices": 17936,
+    "triangles": 35686,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-twin-braids|cap": {
+    "path": "../251/components/Feminine-twin-braids-cap251-hair.glb",
+    "vertices": 17936,
+    "triangles": 35686,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-twin-braids|beanie": {
+    "path": "../251/components/Feminine-twin-braids-beanie251-hair.glb",
+    "vertices": 17936,
+    "triangles": 35686,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-twin-braids|bucket": {
+    "path": "../251/components/Feminine-twin-braids-bucket251-hair.glb",
+    "vertices": 17936,
+    "triangles": 35686,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-twin-braids|cowboy": {
+    "path": "../251/components/Feminine-twin-braids-cowboy251-hair.glb",
+    "vertices": 17936,
+    "triangles": 35686,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-twin-braids|headband": {
+    "path": "../251/components/Feminine-twin-braids-headband251-hair.glb",
+    "vertices": 17936,
+    "triangles": 35686,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-twin-braids|ears": {
+    "path": "../251/components/Feminine-twin-braids-ears251-hair.glb",
+    "vertices": 17936,
+    "triangles": 35686,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-twin-braids|pashmina": {
+    "path": "../251/components/Feminine-twin-braids-pashmina251-hair.glb",
+    "vertices": 17936,
+    "triangles": 35686,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-box-braids|none": {
+    "path": "components/Feminine-box-braids-hair260.glb",
+    "vertices": 217364,
+    "triangles": 433748,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-box-braids|cap": {
+    "path": "components/Feminine-box-braids-cap260-hair.glb",
+    "vertices": 217364,
+    "triangles": 433748,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-box-braids|beanie": {
+    "path": "components/Feminine-box-braids-beanie260-hair.glb",
+    "vertices": 217364,
+    "triangles": 433748,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-box-braids|bucket": {
+    "path": "components/Feminine-box-braids-bucket260-hair.glb",
+    "vertices": 217364,
+    "triangles": 433748,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-box-braids|cowboy": {
+    "path": "components/Feminine-box-braids-cowboy260-hair.glb",
+    "vertices": 217364,
+    "triangles": 433748,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-box-braids|headband": {
+    "path": "components/Feminine-box-braids-headband260-hair.glb",
+    "vertices": 217364,
+    "triangles": 433748,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-box-braids|ears": {
+    "path": "components/Feminine-box-braids-ears260-hair.glb",
+    "vertices": 217364,
+    "triangles": 433748,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Feminine-box-braids|pashmina": {
+    "path": "components/Feminine-box-braids-pashmina260-hair.glb",
+    "vertices": 217364,
+    "triangles": 433748,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-sidepart|none": {
+    "path": "../259/components/Masculine-sidepart-hair259.glb",
+    "vertices": 146623,
+    "triangles": 286254,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-sidepart|cap": {
+    "path": "../259/components/Masculine-sidepart-cap259-hair.glb",
+    "vertices": 146623,
+    "triangles": 286254,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-sidepart|beanie": {
+    "path": "../259/components/Masculine-sidepart-beanie259-hair.glb",
+    "vertices": 146623,
+    "triangles": 286254,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-sidepart|bucket": {
+    "path": "../259/components/Masculine-sidepart-bucket259-hair.glb",
+    "vertices": 146623,
+    "triangles": 286254,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-sidepart|cowboy": {
+    "path": "../259/components/Masculine-sidepart-cowboy259-hair.glb",
+    "vertices": 146623,
+    "triangles": 286254,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-sidepart|headband": {
+    "path": "../259/components/Masculine-sidepart-headband259-hair.glb",
+    "vertices": 146623,
+    "triangles": 286254,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-sidepart|ears": {
+    "path": "../259/components/Masculine-sidepart-ears259-hair.glb",
+    "vertices": 146623,
+    "triangles": 286254,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-sidepart|pashmina": {
+    "path": "../259/components/Masculine-sidepart-pashmina259-hair.glb",
+    "vertices": 146623,
+    "triangles": 286254,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-taper|none": {
+    "path": "../259/components/Masculine-taper-hair259.glb",
+    "vertices": 136307,
+    "triangles": 264494,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-taper|cap": {
+    "path": "../259/components/Masculine-taper-cap259-hair.glb",
+    "vertices": 136307,
+    "triangles": 264494,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-taper|beanie": {
+    "path": "../259/components/Masculine-taper-beanie259-hair.glb",
+    "vertices": 136307,
+    "triangles": 264494,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-taper|bucket": {
+    "path": "../259/components/Masculine-taper-bucket259-hair.glb",
+    "vertices": 136307,
+    "triangles": 264494,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-taper|cowboy": {
+    "path": "../259/components/Masculine-taper-cowboy259-hair.glb",
+    "vertices": 136307,
+    "triangles": 264494,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-taper|headband": {
+    "path": "../259/components/Masculine-taper-headband259-hair.glb",
+    "vertices": 136307,
+    "triangles": 264494,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-taper|ears": {
+    "path": "../259/components/Masculine-taper-ears259-hair.glb",
+    "vertices": 136307,
+    "triangles": 264494,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-taper|pashmina": {
+    "path": "../259/components/Masculine-taper-pashmina259-hair.glb",
+    "vertices": 136307,
+    "triangles": 264494,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-buzz|none": {
+    "path": "../252/components/Masculine-buzz-hair252.glb",
+    "vertices": 37345,
+    "triangles": 74110,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-buzz|cap": {
+    "path": "../252/components/Masculine-buzz-cap252-hair.glb",
+    "vertices": 37345,
+    "triangles": 74110,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-buzz|beanie": {
+    "path": "../252/components/Masculine-buzz-beanie252-hair.glb",
+    "vertices": 37345,
+    "triangles": 74110,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-buzz|bucket": {
+    "path": "../252/components/Masculine-buzz-bucket252-hair.glb",
+    "vertices": 37345,
+    "triangles": 74110,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-buzz|cowboy": {
+    "path": "../252/components/Masculine-buzz-cowboy252-hair.glb",
+    "vertices": 37345,
+    "triangles": 74110,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-buzz|headband": {
+    "path": "../252/components/Masculine-buzz-headband252-hair.glb",
+    "vertices": 37345,
+    "triangles": 74110,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-buzz|ears": {
+    "path": "../252/components/Masculine-buzz-ears252-hair.glb",
+    "vertices": 37345,
+    "triangles": 74110,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-buzz|pashmina": {
+    "path": "../252/components/Masculine-buzz-pashmina252-hair.glb",
+    "vertices": 37345,
+    "triangles": 74110,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-curly-top|none": {
+    "path": "../259/components/Masculine-curly-top-hair259.glb",
+    "vertices": 297103,
+    "triangles": 589762,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-curly-top|cap": {
+    "path": "../259/components/Masculine-curly-top-cap259-hair.glb",
+    "vertices": 297103,
+    "triangles": 589762,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-curly-top|beanie": {
+    "path": "../259/components/Masculine-curly-top-beanie259-hair.glb",
+    "vertices": 297103,
+    "triangles": 589762,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-curly-top|bucket": {
+    "path": "../259/components/Masculine-curly-top-bucket259-hair.glb",
+    "vertices": 297103,
+    "triangles": 589762,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-curly-top|cowboy": {
+    "path": "../259/components/Masculine-curly-top-cowboy259-hair.glb",
+    "vertices": 297103,
+    "triangles": 589762,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-curly-top|headband": {
+    "path": "../259/components/Masculine-curly-top-headband259-hair.glb",
+    "vertices": 297103,
+    "triangles": 589762,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-curly-top|ears": {
+    "path": "../259/components/Masculine-curly-top-ears259-hair.glb",
+    "vertices": 297103,
+    "triangles": 589762,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-curly-top|pashmina": {
+    "path": "../259/components/Masculine-curly-top-pashmina259-hair.glb",
+    "vertices": 297103,
+    "triangles": 589762,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-afro|none": {
+    "path": "components/Masculine-afro-hair260.glb",
+    "vertices": 87686,
+    "triangles": 175356,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-afro|cap": {
+    "path": "components/Masculine-afro-cap260-hair.glb",
+    "vertices": 87695,
+    "triangles": 175356,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-afro|beanie": {
+    "path": "components/Masculine-afro-beanie260-hair.glb",
+    "vertices": 87695,
+    "triangles": 175356,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-afro|bucket": {
+    "path": "components/Masculine-afro-bucket260-hair.glb",
+    "vertices": 87695,
+    "triangles": 175356,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-afro|cowboy": {
+    "path": "components/Masculine-afro-cowboy260-hair.glb",
+    "vertices": 87695,
+    "triangles": 175356,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-afro|headband": {
+    "path": "components/Masculine-afro-headband260-hair.glb",
+    "vertices": 87702,
+    "triangles": 175356,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-afro|ears": {
+    "path": "components/Masculine-afro-ears260-hair.glb",
+    "vertices": 87686,
+    "triangles": 175356,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-afro|pashmina": {
+    "path": "components/Masculine-afro-pashmina260-hair.glb",
+    "vertices": 87743,
+    "triangles": 175356,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-flow|none": {
+    "path": "components/Masculine-flow-hair260.glb",
+    "vertices": 77506,
+    "triangles": 150964,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-flow|cap": {
+    "path": "components/Masculine-flow-cap260-hair.glb",
+    "vertices": 77506,
+    "triangles": 150964,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-flow|beanie": {
+    "path": "components/Masculine-flow-beanie260-hair.glb",
+    "vertices": 77506,
+    "triangles": 150964,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-flow|bucket": {
+    "path": "components/Masculine-flow-bucket260-hair.glb",
+    "vertices": 77506,
+    "triangles": 150964,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-flow|cowboy": {
+    "path": "components/Masculine-flow-cowboy260-hair.glb",
+    "vertices": 77506,
+    "triangles": 150964,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-flow|headband": {
+    "path": "components/Masculine-flow-headband260-hair.glb",
+    "vertices": 77506,
+    "triangles": 150964,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-flow|ears": {
+    "path": "components/Masculine-flow-ears260-hair.glb",
+    "vertices": 77506,
+    "triangles": 150964,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-flow|pashmina": {
+    "path": "components/Masculine-flow-pashmina260-hair.glb",
+    "vertices": 77506,
+    "triangles": 150964,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-locs|none": {
+    "path": "components/Masculine-locs-hair260.glb",
+    "vertices": 112336,
+    "triangles": 218484,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-locs|cap": {
+    "path": "components/Masculine-locs-cap260-hair.glb",
+    "vertices": 112336,
+    "triangles": 218484,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-locs|beanie": {
+    "path": "components/Masculine-locs-beanie260-hair.glb",
+    "vertices": 112336,
+    "triangles": 218484,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-locs|bucket": {
+    "path": "components/Masculine-locs-bucket260-hair.glb",
+    "vertices": 112336,
+    "triangles": 218484,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-locs|cowboy": {
+    "path": "components/Masculine-locs-cowboy260-hair.glb",
+    "vertices": 112336,
+    "triangles": 218484,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-locs|headband": {
+    "path": "components/Masculine-locs-headband260-hair.glb",
+    "vertices": 112336,
+    "triangles": 218484,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-locs|ears": {
+    "path": "components/Masculine-locs-ears260-hair.glb",
+    "vertices": 112336,
+    "triangles": 218484,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-locs|pashmina": {
+    "path": "components/Masculine-locs-pashmina260-hair.glb",
+    "vertices": 112336,
+    "triangles": 218484,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-middle-part|none": {
+    "path": "components/Masculine-middle-part-hair260.glb",
+    "vertices": 77506,
+    "triangles": 150964,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-middle-part|cap": {
+    "path": "components/Masculine-middle-part-cap260-hair.glb",
+    "vertices": 77506,
+    "triangles": 150964,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-middle-part|beanie": {
+    "path": "components/Masculine-middle-part-beanie260-hair.glb",
+    "vertices": 77506,
+    "triangles": 150964,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-middle-part|bucket": {
+    "path": "components/Masculine-middle-part-bucket260-hair.glb",
+    "vertices": 77506,
+    "triangles": 150964,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-middle-part|cowboy": {
+    "path": "components/Masculine-middle-part-cowboy260-hair.glb",
+    "vertices": 77506,
+    "triangles": 150964,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-middle-part|headband": {
+    "path": "components/Masculine-middle-part-headband260-hair.glb",
+    "vertices": 77506,
+    "triangles": 150964,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-middle-part|ears": {
+    "path": "components/Masculine-middle-part-ears260-hair.glb",
+    "vertices": 77506,
+    "triangles": 150964,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  },
+  "Masculine-middle-part|pashmina": {
+    "path": "components/Masculine-middle-part-pashmina260-hair.glb",
+    "vertices": 77506,
+    "triangles": 150964,
+    "nonfinite_position_values": 0,
+    "invalid_normals": 0,
+    "long_zero_area_triangles": 0
+  }
+}

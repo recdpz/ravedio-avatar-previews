@@ -1,0 +1,79 @@
+{
+  "revision": 261,
+  "scope": "Hair construction defects and adjacent headwear fits; not a complete catalogue style redesign",
+  "baseline_geometry_audit": {
+    "selection_count": 128,
+    "unique_glbs": 121,
+    "finite_positions": true,
+    "unit_normals": true,
+    "no_long_collapsed_triangles": true
+  },
+  "findings": [
+    {
+      "styles": [
+        "Feminine-side-sweep",
+        "Feminine-straight",
+        "Feminine-bob",
+        "Feminine-curls"
+      ],
+      "cause": "Exposed recessed-root support and jagged or intersecting support boundaries",
+      "repair": "Replace the damaged support with continuous head-conforming coverage terminating beneath the main locks; no face-center deletion or blurred texture concealment"
+    },
+    {
+      "styles": [
+        "Feminine-curls"
+      ],
+      "cause": "Point-projected cross-sections were flattened/pinched at the temples and side lengths",
+      "repair": "Reconstruct whole rounded cross-sections, preserve curl center paths, terminate front support behind the first curl bank. A second isolated export exposed remaining support; fourth source pass corrects it."
+    },
+    {
+      "styles": [
+        "Masculine-flow",
+        "Masculine-middle-part"
+      ],
+      "cause": "Coverage gaps at separated root/crown banks",
+      "repair": "Continuous recessed coverage beneath the separate main banks; preserve the intentional part. An added Flow crown bridge was rejected after it produced a raised root nub."
+    },
+    {
+      "styles": [
+        "Feminine-twin-braids"
+      ],
+      "cause": "Compare mode omitted separate braid lengths even though normal feature selection retained them",
+      "repair": "Use the matching historical braid-length component in Compare260"
+    },
+    {
+      "styles": [
+        "Feminine-curls",
+        "Feminine-straight",
+        "Feminine-side-sweep",
+        "Feminine-bob"
+      ],
+      "cause": "Insufficient rear/nape coverage between separate long locks; cap-only replacement left existing scalp gaps or increased their visible area",
+      "repair": "Extend the recessed coverage to the appropriate nape hairline behind the existing locks, preserving the front boundary and all main lock positions. Fifth source pass reviewed in eight actual GLB angles."
+    }
+  ],
+  "retained_after_bare_visual_review": [
+    "Feminine-ponytail",
+    "Feminine-space-buns",
+    "Feminine-twin-braids",
+    "Feminine-box-braids",
+    "Masculine-sidepart",
+    "Masculine-taper",
+    "Masculine-buzz",
+    "Masculine-curly-top",
+    "Masculine-afro",
+    "Masculine-locs"
+  ],
+  "retained_meaning": "No confirmed related geometry fault requiring a new bare asset in this audit; not a claim of artistic perfection",
+  "protected": "Shared coordinates, independent feature/color controls, main locks except the identified Curls section repair, body/face/clothing/palettes/fixed studio/headgear remain unchanged",
+  "limitations": "Artist/source/export validation; native renderer and phone performance are separate qualification work",
+  "false_positive_check": {
+    "style": "Masculine-flow",
+    "region": "Dark groove at the upper front",
+    "evidence": "RGBA samples in the groove are fully opaque (alpha255), with brown pigment. Magenta-background inspection confirms no transparent opening. Preserve the main locks rather than filling a shadow.",
+    "rejected_trials": [
+      "Raised crown bridge (front nub)",
+      "Unnecessary inter-bank filler (no visible change)"
+    ]
+  }
+}
