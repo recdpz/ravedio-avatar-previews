@@ -1,0 +1,33 @@
+{
+  "revision": 259,
+  "baseline_commit": "f5e302d931298e6267aa058516d396e74756918b",
+  "changed_styles": [
+    "taper",
+    "sidepart",
+    "curly-top"
+  ],
+  "labels": {
+    "sidepart": "Crop",
+    "taper": "Taper",
+    "curly-top": "Curly top"
+  },
+  "geometry": "Taper side banks cut shorter along original paths with rounded closures; upper height and six rear banks preserved. New Crop uses a closed crown-to-front sculpt with shallow irregular clumps, slight diagonal drift and no hard part. Curly crown retained.",
+  "directional_fade": "Actual214 rounded curved fine-direction mesh reused and reseated on the current head; original vertex opacity retained. Smooth258 base field retained without the ripple/white-glint artifact.",
+  "rendering": "Main hair cores remain OPAQUE. Fade, direction marks and narrow terminal boundaries use BLEND vertex opacity; no transmission/refraction. Preserve COLOR_0 alpha and material separation. A nearest-opaque baker alone cannot reproduce these edges.",
+  "colors": "Palettes unchanged, including neutral Black#303030. Material shade control retains hairShade258 as a compatibility key. Ombr\u00e9 buffers preserve geometry/UV/indices/normals/transforms and opacity. Taper/Crop Ombr\u00e9 now follows authored root-to-tip flow after the glTF UV flip; roots stay darker and grown ends lighten.",
+  "coordinates": "Shared coordinates and independently selectable/recolorable components preserved. No recentering or per-component resizing.",
+  "exports": "72 ordinary GLBs:24 hair,24 Ombr\u00e9,24 seated sprouts. Three packed final-GLB assemblies and30 matched120/512 color/Z pairs.",
+  "references": "Color and32-bit Z share final geometry/camera/version, alpha threshold0.5. These assembled references are not a complete component/alpha occlusion bake. Regenerate both together when geometry or camera changes.",
+  "lighting": "Fixed studio/camera/exposure/color management recorded in assemblies259.json. Blender shader/tonemapping effects do not transfer identically through GLB.",
+  "controls": "Compare258 shows the previous Taper, Side part and Curly side detail.214 directional reference is a matched board; original raised B comparison remains available for bare Taper.",
+  "qualification": "Artwork/browser export checks only. Native alpha rendering and phone performance qualification remain separate.",
+  "technical": "technical259.json",
+  "profile_contract": "No wire/profile-byte assignment, mobile renderer or product-repository changes.",
+  "asset_delivery": {
+    "art_commit": "b1ab56e5c8a65b5484f9cc008be7961e8724a67e",
+    "raw_base": "https://raw.githubusercontent.com/recdpz/ravedio-avatar-previews/b1ab56e5c8a65b5484f9cc008be7961e8724a67e/",
+    "current_component_base": "https://raw.githubusercontent.com/recdpz/ravedio-avatar-previews/b1ab56e5c8a65b5484f9cc008be7961e8724a67e/259/",
+    "pages": "https://recdpz.github.io/ravedio-avatar-previews/259/",
+    "method": "Ordinary GLB/source/PNG/EXR files are excluded from Pages and served unchanged at this pinned GitHub raw commit. Resolve paths against259; retained components may use parent revision paths. JSON/JS/JPG stay on Pages. Browser asset-host.js maps repository binary URLs only; no credentials."
+  }
+}
