@@ -1,0 +1,1370 @@
+[
+  {
+    "path": "components/Masculine-curly-top-beanie258-hair-ombre.glb",
+    "bytes": 18775916,
+    "sha256": "9029b787a1ffd8a4025f3e6b47010206a7b6ba8fdf75133841106337fbc2de40",
+    "triangles": 502322,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-curly-top-beanie258-hair.glb",
+    "bytes": 15527336,
+    "sha256": "c53313c7521678019aa4511b2b9f05809f03750d507224099374d1e811a42052",
+    "triangles": 502322,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-curly-top-beanie258-sprout.glb",
+    "bytes": 150172,
+    "sha256": "ee6b857b31810885e6302c5f2fa19d7fd31b2de976df25b31a57685cd663b4ec",
+    "triangles": 7102,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-curly-top-bucket258-hair-ombre.glb",
+    "bytes": 18775908,
+    "sha256": "ec732d34c94a978f57a24adb606eaea74a5750424ebffcc543554f547e890927",
+    "triangles": 502322,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-curly-top-bucket258-hair.glb",
+    "bytes": 15527332,
+    "sha256": "2b8622ba1cc0f10784ab40ead57bd2ce85189b9ed50258015975cadc8d8df4e4",
+    "triangles": 502322,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-curly-top-bucket258-sprout.glb",
+    "bytes": 150180,
+    "sha256": "418b49663f4dcb2d7381d2b85a844b79fe2435f0364ee1035f899b87ed66cecc",
+    "triangles": 7102,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-curly-top-cap258-hair-ombre.glb",
+    "bytes": 18775912,
+    "sha256": "b7f700c835059b4b1b5de21e96f9928979ea82a6389f1b1ac1530316678f0eab",
+    "triangles": 502322,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-curly-top-cap258-hair.glb",
+    "bytes": 15527332,
+    "sha256": "9d2e38dc9d26f30bf034dd56bb301b7fe2f93030aadcca2f3135fd0ed5378d77",
+    "triangles": 502322,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-curly-top-cap258-sprout.glb",
+    "bytes": 150180,
+    "sha256": "30d6a1865c75ce2e4449dd6e85361bed17b818cc910a1b7926828806cc3e4c08",
+    "triangles": 7102,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-curly-top-cowboy258-hair-ombre.glb",
+    "bytes": 18775912,
+    "sha256": "d3f1720d60069618a27274b0bfc8b8ec93ecaaf35c114b95d38c23b7f97e3982",
+    "triangles": 502322,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-curly-top-cowboy258-hair.glb",
+    "bytes": 15527336,
+    "sha256": "ee60f5742513d53a1dd4cadb951961e7fde87cbbb4384ef61846a52e5bc623a0",
+    "triangles": 502322,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-curly-top-cowboy258-sprout.glb",
+    "bytes": 150176,
+    "sha256": "20ab9b37e7809caef24868baf9292bff61089d0c8fae7b602356a395120127ff",
+    "triangles": 7102,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-curly-top-ears258-hair-ombre.glb",
+    "bytes": 18775912,
+    "sha256": "deff9c275139a444486bb096a3e09c4c668dbc81c97b1eee5013c6777f32262d",
+    "triangles": 502322,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-curly-top-ears258-hair.glb",
+    "bytes": 15527336,
+    "sha256": "8fe4119620c9fce68dcf9b29b1657bd17b2772b8c45cf52db7b74d46cf669884",
+    "triangles": 502322,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-curly-top-ears258-sprout.glb",
+    "bytes": 150172,
+    "sha256": "3b3c6efd4f6b19ba7a8d523be715748277fb63e1a4e4db3afd43b4dd8863ee89",
+    "triangles": 7102,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-curly-top-hair258-ombre.glb",
+    "bytes": 18775912,
+    "sha256": "deff9c275139a444486bb096a3e09c4c668dbc81c97b1eee5013c6777f32262d",
+    "triangles": 502322,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-curly-top-hair258.glb",
+    "bytes": 15527336,
+    "sha256": "8fe4119620c9fce68dcf9b29b1657bd17b2772b8c45cf52db7b74d46cf669884",
+    "triangles": 502322,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-curly-top-headband258-hair-ombre.glb",
+    "bytes": 18775912,
+    "sha256": "0fec674d8bd0ea2033ffd394c622c16ff2efa18a410eb193dbb42c8942b2652f",
+    "triangles": 502322,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-curly-top-headband258-hair.glb",
+    "bytes": 15527336,
+    "sha256": "615089024339eba1df632ada9d0873b355b55938651026ac6cf964e70fbd1a5b",
+    "triangles": 502322,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-curly-top-headband258-sprout.glb",
+    "bytes": 150172,
+    "sha256": "aea67d2e9319dc56e7f2903fc29c21ddf340a8e9d716399f3c96478382d66fba",
+    "triangles": 7102,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-curly-top-none258-sprout.glb",
+    "bytes": 150172,
+    "sha256": "3b3c6efd4f6b19ba7a8d523be715748277fb63e1a4e4db3afd43b4dd8863ee89",
+    "triangles": 7102,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-curly-top-pashmina258-hair-ombre.glb",
+    "bytes": 18775908,
+    "sha256": "94707cc532cf7696013c5355582dd3f0085742c32af2a11904db8f76c02e445b",
+    "triangles": 502322,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-curly-top-pashmina258-hair.glb",
+    "bytes": 15527328,
+    "sha256": "c9155e69947ae71383c3753be82a82bd2f6424a5584c154612b12e14c303aea9",
+    "triangles": 502322,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-curly-top-pashmina258-sprout.glb",
+    "bytes": 150176,
+    "sha256": "d86d6a288661472fe3f2d6ef7d78a7359078232bbd83535f8e65c04a0f3db1ed",
+    "triangles": 7102,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-sidepart-beanie258-hair-ombre.glb",
+    "bytes": 3540624,
+    "sha256": "31b54fb6285d50bcd10cb9aa1b6d4d6ff88bc23378e45916b2259d1dc044b219",
+    "triangles": 111616,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 230757
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-sidepart-beanie258-hair.glb",
+    "bytes": 2704796,
+    "sha256": "4fcc81a37ef9daf9ff97bbbdf9471e01110d875b27d241509a8e34a45e3a4386",
+    "triangles": 111616,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 230757
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-sidepart-beanie258-sprout.glb",
+    "bytes": 150164,
+    "sha256": "a13b18f8a7364f8ea9e6e01de5b4ed5b2326dc5f6f3e75103246c6dc5040a56a",
+    "triangles": 7102,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-sidepart-bucket258-hair-ombre.glb",
+    "bytes": 3540624,
+    "sha256": "5c01302111afb61d93c94b472b5b9c8fe9b655f4f621aee592c85ca16771f682",
+    "triangles": 111616,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 230757
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-sidepart-bucket258-hair.glb",
+    "bytes": 2704796,
+    "sha256": "20d11986da0a9b540cab40f13e469a3a9a6c5466b706c3d01aecaeeb7b1c369a",
+    "triangles": 111616,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 230757
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-sidepart-bucket258-sprout.glb",
+    "bytes": 150180,
+    "sha256": "490c76c7359564a400e69514516a8c0b13062418273aaba27a3bb0b829c0ab5c",
+    "triangles": 7102,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-sidepart-cap258-hair-ombre.glb",
+    "bytes": 3540620,
+    "sha256": "c1fa34052b2825191b8cc09991e935b64ecb134c1e5a2f2b017ffd992575a09e",
+    "triangles": 111616,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 230757
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-sidepart-cap258-hair.glb",
+    "bytes": 2704792,
+    "sha256": "2f9036ec2579272afcfb4e9679031201f2ca4703613d58c0dcbcfcb72db7df5f",
+    "triangles": 111616,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 230757
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-sidepart-cap258-sprout.glb",
+    "bytes": 150176,
+    "sha256": "7fbecd59aad053e570efb9413a49ac7e84a8e19f28492ba5a03d78889fa472c8",
+    "triangles": 7102,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-sidepart-cowboy258-hair-ombre.glb",
+    "bytes": 3540624,
+    "sha256": "67bdf3974041d38439d18c6affc7727c05baed8a85c19425a4a1ac8b2642ee62",
+    "triangles": 111616,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 230757
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-sidepart-cowboy258-hair.glb",
+    "bytes": 2704796,
+    "sha256": "252fc5fe2f8442e8644ae54324acad0bae36c2f927d71c23a8ebe1475afe9d00",
+    "triangles": 111616,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 230757
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-sidepart-cowboy258-sprout.glb",
+    "bytes": 150172,
+    "sha256": "418a350184577d9e2d8e9d6579ad2e2085fcf16f0c3df038c11258ca2c4d7d8c",
+    "triangles": 7102,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-sidepart-ears258-hair-ombre.glb",
+    "bytes": 3540624,
+    "sha256": "49319b37a17ee540b99f2a73cb1bb3d40b638f566b999d75fb4d207d66985222",
+    "triangles": 111616,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 230757
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-sidepart-ears258-hair.glb",
+    "bytes": 2704792,
+    "sha256": "1665e85338b66c3b35a83dbe170ad21dd350e36c0e0381a8078800d12553be94",
+    "triangles": 111616,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 230757
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-sidepart-ears258-sprout.glb",
+    "bytes": 150168,
+    "sha256": "2d11dba790e59e0ff4de7815d50f72dd253dfffaaaba59f40dc102482e055277",
+    "triangles": 7102,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-sidepart-hair258-ombre.glb",
+    "bytes": 3540624,
+    "sha256": "de5cb44ef9a55a949a5e7448eeb3fe403f4b9c4b32198468915201302cb94379",
+    "triangles": 111616,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 230757
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-sidepart-hair258.glb",
+    "bytes": 2704796,
+    "sha256": "b8ba99462faeff4cae295335e78fa2096bc9037d5c4b6f37bf76d84871164ae1",
+    "triangles": 111616,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 230757
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-sidepart-headband258-hair-ombre.glb",
+    "bytes": 3540628,
+    "sha256": "d38ee93f8a202c56dff43db739e8ef33b6855d9dc664140573fa3d0e1cb456be",
+    "triangles": 111616,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 230757
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-sidepart-headband258-hair.glb",
+    "bytes": 2704800,
+    "sha256": "99cd9e6e9470c77d5b80da8d6d62b6873c2afae0c5273403dde4b7f18d7f32c9",
+    "triangles": 111616,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 230757
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-sidepart-headband258-sprout.glb",
+    "bytes": 150172,
+    "sha256": "9094e830ef14b9cb51156a1ac7e74f9435c24c8bc1da197f892cfb7329cad42d",
+    "triangles": 7102,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-sidepart-none258-sprout.glb",
+    "bytes": 150172,
+    "sha256": "64bf91bb2a1e09c9da02b04c9524ce4118ddb7a2aeff142ae587bc0de598b998",
+    "triangles": 7102,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-sidepart-pashmina258-hair-ombre.glb",
+    "bytes": 3540624,
+    "sha256": "3a0d8796902e85a50b99a11a074082062807d4fc3208114cad0540ed493d9832",
+    "triangles": 111616,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 230757
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-sidepart-pashmina258-hair.glb",
+    "bytes": 2704792,
+    "sha256": "59c34fc87e2950e9546ede1ac6bdc1918e2ffd8deca9535751113551715cc731",
+    "triangles": 111616,
+    "materials": 4,
+    "primitives": 4,
+    "textures": [
+      {
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 230757
+      }
+    ],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-sidepart-pashmina258-sprout.glb",
+    "bytes": 150172,
+    "sha256": "ee54f95707e489a99b5e8500a5eca601ee425246b786b3db26ebafd88b0a9195",
+    "triangles": 7102,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-taper-beanie258-hair-ombre.glb",
+    "bytes": 8164340,
+    "sha256": "b056a01986f9fc0097c3000b5b13da3dc91755cc3439287aad6ea2b64a80cf47",
+    "triangles": 177054,
+    "materials": 8,
+    "primitives": 8,
+    "textures": [
+      {
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 230757
+      }
+    ],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-taper-beanie258-hair.glb",
+    "bytes": 7488068,
+    "sha256": "e669e5c5c5dde62c122421a1a4da7eecef84c43024bc6166c57c4784a9b78b9d",
+    "triangles": 177054,
+    "materials": 8,
+    "primitives": 8,
+    "textures": [
+      {
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 230757
+      }
+    ],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-taper-beanie258-sprout.glb",
+    "bytes": 150168,
+    "sha256": "711f1c0dcfa5e229c05b224cc4b94ef659acf4089eea54cc7b1db2f290a6fa20",
+    "triangles": 7102,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-taper-bucket258-hair-ombre.glb",
+    "bytes": 8164344,
+    "sha256": "0b315dc208e1038af12027fd0391163475a0c2acf4ab5db9b5b01d5fef486554",
+    "triangles": 177054,
+    "materials": 8,
+    "primitives": 8,
+    "textures": [
+      {
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 230757
+      }
+    ],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-taper-bucket258-hair.glb",
+    "bytes": 7488072,
+    "sha256": "f9038eebd0b8a3d68ba8c70fe711a68680bed257c03c91466ee4cee8986f810b",
+    "triangles": 177054,
+    "materials": 8,
+    "primitives": 8,
+    "textures": [
+      {
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 230757
+      }
+    ],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-taper-bucket258-sprout.glb",
+    "bytes": 150180,
+    "sha256": "2d8677acb3607fbb453c0b583d1c7f67385e454db0f6ed74e9fd7976d4eceb0f",
+    "triangles": 7102,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-taper-cap258-hair-ombre.glb",
+    "bytes": 8164344,
+    "sha256": "e17bf6534028c1618d712bf783f330e29cfd664394153b00cc4b9a2d98d5e24e",
+    "triangles": 177054,
+    "materials": 8,
+    "primitives": 8,
+    "textures": [
+      {
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 230757
+      }
+    ],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-taper-cap258-hair.glb",
+    "bytes": 7488072,
+    "sha256": "24f47ae931707363aa5e344999eebb4f4d42208c834395bd6f34ad87cc8957a2",
+    "triangles": 177054,
+    "materials": 8,
+    "primitives": 8,
+    "textures": [
+      {
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 230757
+      }
+    ],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-taper-cap258-sprout.glb",
+    "bytes": 150176,
+    "sha256": "fd9275fe6b8ce423062c7957256bfefbf4f25e8afcfd5bb3d6f8993c9699c93d",
+    "triangles": 7102,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-taper-cowboy258-hair-ombre.glb",
+    "bytes": 8164344,
+    "sha256": "1232ddc9854c97eccbea74407fadbb7707e268e21eacbec5bfd6ef69ad88ac1a",
+    "triangles": 177054,
+    "materials": 8,
+    "primitives": 8,
+    "textures": [
+      {
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 230757
+      }
+    ],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-taper-cowboy258-hair.glb",
+    "bytes": 7488072,
+    "sha256": "acb880a0e69e8c16f1a3bd0a15f8c7ab40063d4763eae15a316442ed3f47e71f",
+    "triangles": 177054,
+    "materials": 8,
+    "primitives": 8,
+    "textures": [
+      {
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 230757
+      }
+    ],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-taper-cowboy258-sprout.glb",
+    "bytes": 150172,
+    "sha256": "75fc09dddbeddcb6d1642e45ba2a6a76197cae26f76a78b83def2e9177ec84cc",
+    "triangles": 7102,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-taper-ears258-hair-ombre.glb",
+    "bytes": 8164344,
+    "sha256": "8c980a378da12c84b0d5065cf09b63d1161872141c731877435b53a291386e72",
+    "triangles": 177054,
+    "materials": 8,
+    "primitives": 8,
+    "textures": [
+      {
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 230757
+      }
+    ],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-taper-ears258-hair.glb",
+    "bytes": 7488072,
+    "sha256": "f5436a53548c84373479d7dc9349e3acd3c6325228e4be3a15aefe0506f29e41",
+    "triangles": 177054,
+    "materials": 8,
+    "primitives": 8,
+    "textures": [
+      {
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 230757
+      }
+    ],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-taper-ears258-sprout.glb",
+    "bytes": 150164,
+    "sha256": "fccce25f0ba64330b11a1d63ba31267e0c7a01f07c820a8fc0ae8cb2a60e3423",
+    "triangles": 7102,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-taper-hair258-ombre.glb",
+    "bytes": 8164344,
+    "sha256": "8c980a378da12c84b0d5065cf09b63d1161872141c731877435b53a291386e72",
+    "triangles": 177054,
+    "materials": 8,
+    "primitives": 8,
+    "textures": [
+      {
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 230757
+      }
+    ],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-taper-hair258.glb",
+    "bytes": 7488072,
+    "sha256": "f5436a53548c84373479d7dc9349e3acd3c6325228e4be3a15aefe0506f29e41",
+    "triangles": 177054,
+    "materials": 8,
+    "primitives": 8,
+    "textures": [
+      {
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 230757
+      }
+    ],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-taper-headband258-hair-ombre.glb",
+    "bytes": 8164348,
+    "sha256": "3893743c4cd30571418550d0888ebc2d6159545f0223852de56ea92ad159811c",
+    "triangles": 177054,
+    "materials": 8,
+    "primitives": 8,
+    "textures": [
+      {
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 230757
+      }
+    ],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-taper-headband258-hair.glb",
+    "bytes": 7488072,
+    "sha256": "216d7e7dcdf2a0e574932c3e7fb595d1c46a992c592f9515c9b7e6d46ce60d5a",
+    "triangles": 177054,
+    "materials": 8,
+    "primitives": 8,
+    "textures": [
+      {
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 230757
+      }
+    ],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-taper-headband258-sprout.glb",
+    "bytes": 150164,
+    "sha256": "818f0d5635c0f0bc0cdb23d5fe3c043130ecaf6bb6f8d345525cd3c7396c45c7",
+    "triangles": 7102,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-taper-none258-sprout.glb",
+    "bytes": 150164,
+    "sha256": "2f68267a78e52b36efa96f59411675e252b9f50f9bad2d4477b0cc55323245e1",
+    "triangles": 7102,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-taper-pashmina258-hair-ombre.glb",
+    "bytes": 8164344,
+    "sha256": "446ec8c4c2319c5bbafd8f374a7d015406bf91b5244bca5a045fe8d0884b0001",
+    "triangles": 177054,
+    "materials": 8,
+    "primitives": 8,
+    "textures": [
+      {
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 230757
+      }
+    ],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-taper-pashmina258-hair.glb",
+    "bytes": 7488072,
+    "sha256": "576339f37df767171939a460216dffcd764596d702146fc67b015b3f1af7af1a",
+    "triangles": 177054,
+    "materials": 8,
+    "primitives": 8,
+    "textures": [
+      {
+        "size": [
+          512,
+          512
+        ],
+        "bytes": 230757
+      }
+    ],
+    "alpha_modes": [
+      "BLEND",
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  },
+  {
+    "path": "components/Masculine-taper-pashmina258-sprout.glb",
+    "bytes": 150168,
+    "sha256": "c169ab906c9caee7a4123e4c617ad7648bde6f2366e3ae100404b6f6c6d4b82c",
+    "triangles": 7102,
+    "materials": 3,
+    "primitives": 3,
+    "textures": [],
+    "alpha_modes": [
+      "OPAQUE"
+    ],
+    "transmission": [],
+    "compressed": false,
+    "quantized": false
+  }
+]
