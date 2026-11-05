@@ -18,3 +18,21 @@ For the next publication, commit the new art assets first, then pin the loader
 and explicit links to that commit, update the exclusion list and current
 review manifests, and verify both public asset hashes and browser controls.
 Never remove saved sources or silently repoint old revisions to changed art.
+
+Pages now publishes from the generated `gh-pages` branch at `/`. Cloning the full
+artwork tree exhausted the hosted runner's disk even though Jekyll excluded those
+assets afterward. `main` remains the source/archive authority.
+
+After committing the verified art and UI on `main`, run
+`python tools/prepare-pages.py --source main --index ABSENT_ABSOLUTE_INDEX_PATH`.
+The script reuses exact Git blobs for UI/text/JPG/vendor files, omits the same
+large binary suffixes, and records source and asset commits in
+`hosting-source.json`. It uses a separate index and never checks out the branch
+or changes the working index. Review and push `gh-pages`; never merge its
+generated tree into `main`. Later publications must regenerate this branch.
+Verify the Pages job on the exact generated commit, provenance, file hashes,
+versioned asset loader, old preview compatibility, and current viewer controls.
+
+Large pushes from Windows stalled/reset in this environment. The same push from
+WSL Git succeeded; credentials were passed in process memory only. Avoid logging
+credentials or changing global Git settings to work around a transfer failure.
