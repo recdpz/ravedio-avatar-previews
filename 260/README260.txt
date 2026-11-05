@@ -5,3 +5,6 @@ Afro is slightly lower. Flow has a new off-center part with curved face framing 
 Use Compare259 for matching previous hairstyles. All features/colors remain independent, with rotation/zoom and fixed lighting. Eight-angle source and exported headwear reviews plus color/small checks were performed; first source gaps and root ridges were rejected and iterated.
 
 168 ordinary GLBs, seven packed assemblies and28 matched color/depth pairs. Preserve shared transforms, component/color separation and any vertex opacity. Native/phone qualification is separate; new260 artwork awaits owner review.
+
+Binary source/art commit: 783974321356ac5c7b8e624dc84832c5a9fe6002
+Raw asset base: https://raw.githubusercontent.com/recdpz/ravedio-avatar-previews/783974321356ac5c7b8e624dc84832c5a9fe6002/

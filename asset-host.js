@@ -3,7 +3,7 @@
  */
 (() => {
   'use strict';
-  const assetRef = 'b1ab56e5c8a65b5484f9cc008be7961e8724a67e';
+  const assetRef = '783974321356ac5c7b8e624dc84832c5a9fe6002';
   const assetBase = `https://raw.githubusercontent.com/recdpz/ravedio-avatar-previews/${assetRef}/`;
   const pagePrefix = location.hostname === 'recdpz.github.io' ? '/ravedio-avatar-previews/' : '/';
   const extensions = /\.(?:glb|blend|zip|png|exr)$/i;

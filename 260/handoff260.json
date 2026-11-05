@@ -602,5 +602,11 @@
   "profile_contract": "No profile bytes, wire changes, mobile renderer or product-repository edits.",
   "technical": "technical260.json",
   "controls": "All independent feature controls, fixed lighting, zoom/rotation and Compare259 retained.",
-  "fit_strategy": "Cap, beanie, bucket and cowboy hair fits use proportional radial compression with a smooth transition below the rim; layer order and relief are retained. Other fitted hair retains the existing covered-root method. Final female variants use the complete repaired temple/middle lengths. Headgear geometry stays unchanged."
+  "fit_strategy": "Cap, beanie, bucket and cowboy hair fits use proportional radial compression with a smooth transition below the rim; layer order and relief are retained. Other fitted hair retains the existing covered-root method. Final female variants use the complete repaired temple/middle lengths. Headgear geometry stays unchanged.",
+  "asset_delivery": {
+    "art_commit": "783974321356ac5c7b8e624dc84832c5a9fe6002",
+    "raw_asset_base": "https://raw.githubusercontent.com/recdpz/ravedio-avatar-previews/783974321356ac5c7b8e624dc84832c5a9fe6002/",
+    "raw_component_base": "https://raw.githubusercontent.com/recdpz/ravedio-avatar-previews/783974321356ac5c7b8e624dc84832c5a9fe6002/260/components/",
+    "pages_url": "https://recdpz.github.io/ravedio-avatar-previews/260/"
+  }
 }
