@@ -1,0 +1,906 @@
+{
+  "revision": 259,
+  "baseline_commit": "f5e302d931298e6267aa058516d396e74756918b",
+  "files": [
+    {
+      "path": "assemblies/Masculine-curly-top-assembly259.blend",
+      "bytes": 29336745,
+      "sha256": "73d6c8abfdff576baf3889d4faf70e20ab65b5bbc94d35eec6e4979f5f8992c7"
+    },
+    {
+      "path": "assemblies/Masculine-sidepart-assembly259.blend",
+      "bytes": 18392863,
+      "sha256": "345b974d5006f34cea0bf015c27d08e22a5ada5753f9a6d89db5115f0eba63de"
+    },
+    {
+      "path": "assemblies/Masculine-taper-assembly259.blend",
+      "bytes": 16606822,
+      "sha256": "d4e0c9175528ab9da01d7c276340f271c0a2cf14a6519309d65f098903de2564"
+    },
+    {
+      "path": "assemblies259.json",
+      "bytes": 18913,
+      "sha256": "93ab16d939852035cc3acc7ec0773a31c4c88cc3f7602a63915915f1d2d6cbee"
+    },
+    {
+      "path": "browser259.json",
+      "bytes": 8424,
+      "sha256": "6932d6cee1549d87f9b0f9b5a7ad89881a74963dbbf0eb58a3cbf6be7443f3e3"
+    },
+    {
+      "path": "catalogue259.json",
+      "bytes": 251568,
+      "sha256": "41e678d4bcfbfc29e27d6a735ad8b954a631672ad8c24cff3d225479855e25d6"
+    },
+    {
+      "path": "components/Masculine-curly-top-beanie259-hair-ombre.glb",
+      "bytes": 22124552,
+      "sha256": "87dfb9c340153a70ae825de90fc3b1668a1d054f7476ebaead2813745934d2a6"
+    },
+    {
+      "path": "components/Masculine-curly-top-beanie259-hair.glb",
+      "bytes": 18875992,
+      "sha256": "bee87ac2e9abbd011b8f073629b4f793a6bdd02718cc4725b818dd7aff6e74ce"
+    },
+    {
+      "path": "components/Masculine-curly-top-beanie259-sprout.glb",
+      "bytes": 150172,
+      "sha256": "21fe0ad34b71ab607e159b8b5fb72071490d882cda389456fa2d52cb3c7a1e70"
+    },
+    {
+      "path": "components/Masculine-curly-top-bucket259-hair-ombre.glb",
+      "bytes": 22124548,
+      "sha256": "d8e3794f71408805f78ed014ec5f29000d669a88428fbf93135cbd6386a8c17a"
+    },
+    {
+      "path": "components/Masculine-curly-top-bucket259-hair.glb",
+      "bytes": 18875988,
+      "sha256": "0efe3a4427f2df1d59f96fb03709b8c745c549b688204d795afdcbc9ffddfb31"
+    },
+    {
+      "path": "components/Masculine-curly-top-bucket259-sprout.glb",
+      "bytes": 150180,
+      "sha256": "c527b15c484a0f1fb97e6b04b01af46675e9e84c744c84d090d5e5452986984d"
+    },
+    {
+      "path": "components/Masculine-curly-top-cap259-hair-ombre.glb",
+      "bytes": 22124548,
+      "sha256": "42f1e18162cb06b85917fe3cf97d4552ba30ad4116a14823fb134373bce6476d"
+    },
+    {
+      "path": "components/Masculine-curly-top-cap259-hair.glb",
+      "bytes": 18875988,
+      "sha256": "b5f38b79dbf3d3129516b885c26b7615f2df2690a4cb1630f47994a8d31d81ae"
+    },
+    {
+      "path": "components/Masculine-curly-top-cap259-sprout.glb",
+      "bytes": 150180,
+      "sha256": "5171c18043c092d75b6b022b2a6fd57535d7dcd01b14ed66778d7790ecb32f22"
+    },
+    {
+      "path": "components/Masculine-curly-top-cowboy259-hair-ombre.glb",
+      "bytes": 22124552,
+      "sha256": "2b8dc114adced3129b1fc79a621f7ac8f14db204a6d32683fc0db99629d49453"
+    },
+    {
+      "path": "components/Masculine-curly-top-cowboy259-hair.glb",
+      "bytes": 18875992,
+      "sha256": "17c03e9265e81f383a03c5c7fc770990b3799f4c4cfdf013b4bcdd596272aa66"
+    },
+    {
+      "path": "components/Masculine-curly-top-cowboy259-sprout.glb",
+      "bytes": 150176,
+      "sha256": "c4183d3cc9c6aa58fc1704eb78ff447fe05e7fbea0d5955434bf60569b32390c"
+    },
+    {
+      "path": "components/Masculine-curly-top-ears259-hair-ombre.glb",
+      "bytes": 22124552,
+      "sha256": "b9fa917efec37d99a96b841e6c23dd417f6108acf7166958d55ac0bbd5c8079a"
+    },
+    {
+      "path": "components/Masculine-curly-top-ears259-hair.glb",
+      "bytes": 18875992,
+      "sha256": "576167e163deec066893b85d2f0196e3505916b64c63d496803107a369ca23cc"
+    },
+    {
+      "path": "components/Masculine-curly-top-ears259-sprout.glb",
+      "bytes": 150172,
+      "sha256": "7676414f13c6a73fea66daba53c5509f8a97bfcab14b5da1fb6f4aa66e205976"
+    },
+    {
+      "path": "components/Masculine-curly-top-hair259-ombre.glb",
+      "bytes": 22124552,
+      "sha256": "b6c80f5215836d1cfc38333962f5e4ff973eeb7c4895f63452c18e6bbc193e7d"
+    },
+    {
+      "path": "components/Masculine-curly-top-hair259.glb",
+      "bytes": 18875992,
+      "sha256": "74df9f24b6403c600f5712c5fcf226fc6e3d89e75f3d6c5d7978ad7f5a086349"
+    },
+    {
+      "path": "components/Masculine-curly-top-headband259-hair-ombre.glb",
+      "bytes": 22124552,
+      "sha256": "06fe6441531b31c78d36c747d65af58f961e2f34fcf4e1ead43d6dc8cf3c7f95"
+    },
+    {
+      "path": "components/Masculine-curly-top-headband259-hair.glb",
+      "bytes": 18875992,
+      "sha256": "36a6081362b1de701711a1384e7302a477e669b68d051f1e190830ae7cf45739"
+    },
+    {
+      "path": "components/Masculine-curly-top-headband259-sprout.glb",
+      "bytes": 150172,
+      "sha256": "4e22aa6810780979b8aaddb90aa4750e883ce9d591fdd884e39473f49c37916c"
+    },
+    {
+      "path": "components/Masculine-curly-top-none259-sprout.glb",
+      "bytes": 150172,
+      "sha256": "aea67d2e9319dc56e7f2903fc29c21ddf340a8e9d716399f3c96478382d66fba"
+    },
+    {
+      "path": "components/Masculine-curly-top-pashmina259-hair-ombre.glb",
+      "bytes": 22124544,
+      "sha256": "a7ab8c7a5a1f15649ef716135ecacf1c2ad714c61e8d1796bf87bd82ec1a8111"
+    },
+    {
+      "path": "components/Masculine-curly-top-pashmina259-hair.glb",
+      "bytes": 18875984,
+      "sha256": "3637ca20ec57b601bcda715adf58ab23dca317a002ff0aebe7971be89b88ade2"
+    },
+    {
+      "path": "components/Masculine-curly-top-pashmina259-sprout.glb",
+      "bytes": 150176,
+      "sha256": "2253377e7bbef4eb2e27d1fec19586599f154b12b939395055358a74623fd22a"
+    },
+    {
+      "path": "components/Masculine-sidepart-beanie259-hair-ombre.glb",
+      "bytes": 12435868,
+      "sha256": "e7c1e2f825d7dc07bdcc64954ad695bfc93b5e21ee89210cb981d58e155b602d"
+    },
+    {
+      "path": "components/Masculine-sidepart-beanie259-hair.glb",
+      "bytes": 11594912,
+      "sha256": "4b677287cecb2f992ab256973c6c29a4cdb76466b24d0d8bb46be626878a8924"
+    },
+    {
+      "path": "components/Masculine-sidepart-beanie259-sprout.glb",
+      "bytes": 150164,
+      "sha256": "471df040b74fafb4a3a2a2e0212dd44e1081fa278350439b813d1a98e32b8adb"
+    },
+    {
+      "path": "components/Masculine-sidepart-bucket259-hair-ombre.glb",
+      "bytes": 12435868,
+      "sha256": "611d504ef38890644e0c440a9dd81334c69bf7073da6bd2e7fd3408ba6a26529"
+    },
+    {
+      "path": "components/Masculine-sidepart-bucket259-hair.glb",
+      "bytes": 11594912,
+      "sha256": "f11e83dc4fc573c0cd24141f03ec03e7d1d7b726e764f8d7ffb699c2f2d976a6"
+    },
+    {
+      "path": "components/Masculine-sidepart-bucket259-sprout.glb",
+      "bytes": 150180,
+      "sha256": "c9247210f275a9c349c31c7c225fea4953cb4530067e9c04774f1baf2e0f6859"
+    },
+    {
+      "path": "components/Masculine-sidepart-cap259-hair-ombre.glb",
+      "bytes": 12435868,
+      "sha256": "a06deb9b404580b7523040a6895db573c81ae2c9d6fe0083e491113be40bf52d"
+    },
+    {
+      "path": "components/Masculine-sidepart-cap259-hair.glb",
+      "bytes": 11594912,
+      "sha256": "dcc0a70a45a211745bff83b61fca9817ceced0acf0ef8699f39ace343397fcfa"
+    },
+    {
+      "path": "components/Masculine-sidepart-cap259-sprout.glb",
+      "bytes": 150176,
+      "sha256": "6b9ead57ccb793122c14bea94cec7ef86dd09ef741c16b89b4169bd06dab053c"
+    },
+    {
+      "path": "components/Masculine-sidepart-cowboy259-hair-ombre.glb",
+      "bytes": 12435868,
+      "sha256": "bb9eea21f39abe1e30326ff9c7bbfc80dbb779c66ed72f29de0dd9d8d8ef00c0"
+    },
+    {
+      "path": "components/Masculine-sidepart-cowboy259-hair.glb",
+      "bytes": 11594912,
+      "sha256": "e9a7b126b4a95205e7f63b8a9799c1e8e24386c7fef71a8b8dbc7c045852a62a"
+    },
+    {
+      "path": "components/Masculine-sidepart-cowboy259-sprout.glb",
+      "bytes": 150172,
+      "sha256": "b71cdebc0817378685634d584cd386eddc4f98b28a4ec4c23abbcab3662dc052"
+    },
+    {
+      "path": "components/Masculine-sidepart-ears259-hair-ombre.glb",
+      "bytes": 12435868,
+      "sha256": "4cba0d4c84d600dff108380f372690c50c7fae9155511f5fd2674fafb30c5e2f"
+    },
+    {
+      "path": "components/Masculine-sidepart-ears259-hair.glb",
+      "bytes": 11594912,
+      "sha256": "53b48f6d0599d97498766dc78f91e7de8e13de12ce9e37dfe7d6164bf948cef2"
+    },
+    {
+      "path": "components/Masculine-sidepart-ears259-sprout.glb",
+      "bytes": 150168,
+      "sha256": "9a26434ef3845a0c9fb0d968329ecf47b6618fdba92b984d6aacbb913eb10411"
+    },
+    {
+      "path": "components/Masculine-sidepart-hair259-ombre.glb",
+      "bytes": 12435868,
+      "sha256": "4e60fd19ba217991a36c300b0b847aea43a4e26a9580be437687bb2017c983e2"
+    },
+    {
+      "path": "components/Masculine-sidepart-hair259.glb",
+      "bytes": 11594912,
+      "sha256": "b42d66accfac99f26be4557ae976e66cfb423f111ab048077a411787ee169a71"
+    },
+    {
+      "path": "components/Masculine-sidepart-headband259-hair-ombre.glb",
+      "bytes": 12435872,
+      "sha256": "05f67a183d2439d40053abc48a0177bb915a34ad6f3c85ab7fa67127596703be"
+    },
+    {
+      "path": "components/Masculine-sidepart-headband259-hair.glb",
+      "bytes": 11594916,
+      "sha256": "2485d876999b94041c6d76d5b1c0e3aae5909a11cdf357b173e9365d9bcf5d99"
+    },
+    {
+      "path": "components/Masculine-sidepart-headband259-sprout.glb",
+      "bytes": 150172,
+      "sha256": "f29c33b46288c41410cbc0a2a4cfbf2fc47a6ff50052eea8d56fb7c449bc2438"
+    },
+    {
+      "path": "components/Masculine-sidepart-none259-sprout.glb",
+      "bytes": 150168,
+      "sha256": "94ef66fc686652b0ccb0f58ec7aece04fbb2beeb46ab39106151a758fa16cb75"
+    },
+    {
+      "path": "components/Masculine-sidepart-pashmina259-hair-ombre.glb",
+      "bytes": 12435868,
+      "sha256": "04a3648fa8d9c54948483831317b809a92b74c847ea52832258236767d19bc0c"
+    },
+    {
+      "path": "components/Masculine-sidepart-pashmina259-hair.glb",
+      "bytes": 11594912,
+      "sha256": "019704dde8c6208cf13dcf119742c319c9754ff4f90b69241e35eecf37761e7c"
+    },
+    {
+      "path": "components/Masculine-sidepart-pashmina259-sprout.glb",
+      "bytes": 150172,
+      "sha256": "9c17113d2c458ae48e13d534979a4375a765acd014021e56c725a7cc8e74fd63"
+    },
+    {
+      "path": "components/Masculine-taper-beanie259-hair-ombre.glb",
+      "bytes": 11512964,
+      "sha256": "a367778a254d462eb7ce896356b29589be1d9908e894dff9716bb9b0e524ce2f"
+    },
+    {
+      "path": "components/Masculine-taper-beanie259-hair.glb",
+      "bytes": 10836704,
+      "sha256": "f84a4340b7f3da48737bdba3b11bf80e16e53eb1437a2ff579b19ee6ebe49808"
+    },
+    {
+      "path": "components/Masculine-taper-beanie259-sprout.glb",
+      "bytes": 150168,
+      "sha256": "71776a9fdd082a88e111edf31400db1dcebcb414ce2ee58eb702a96bb400cd74"
+    },
+    {
+      "path": "components/Masculine-taper-bucket259-hair-ombre.glb",
+      "bytes": 11512968,
+      "sha256": "448f6a1c2de3f44e9c2a3dfa69aeaab4e985880c2a6939bba9e75a89d282a284"
+    },
+    {
+      "path": "components/Masculine-taper-bucket259-hair.glb",
+      "bytes": 10836704,
+      "sha256": "cf33ac3fac6e86581e46f11ae734da053e643cf043cbb84557ed43d2ea7e80a2"
+    },
+    {
+      "path": "components/Masculine-taper-bucket259-sprout.glb",
+      "bytes": 150180,
+      "sha256": "6764cd284fcf4bea953f520689ba8cf6c35454eaed2d3256eb812a8e6a6c0573"
+    },
+    {
+      "path": "components/Masculine-taper-cap259-hair-ombre.glb",
+      "bytes": 11512968,
+      "sha256": "23144cffacda89b590f3571ce867bef0526a9aa849effa4fef5a83b8ff8823bf"
+    },
+    {
+      "path": "components/Masculine-taper-cap259-hair.glb",
+      "bytes": 10836704,
+      "sha256": "c02c9f05346f47068255cc0ed9aef60eaa94668c5f71a881d3ec1c8c5f4d4bd7"
+    },
+    {
+      "path": "components/Masculine-taper-cap259-sprout.glb",
+      "bytes": 150176,
+      "sha256": "97cbe8915629020ecd5f37ddcfbabe0f630f48c3f8425540c0c07f3f80f2b253"
+    },
+    {
+      "path": "components/Masculine-taper-cowboy259-hair-ombre.glb",
+      "bytes": 11512968,
+      "sha256": "8fef57acdf47a41c61459bb739fa3b5e5f9785a768d2a3db64b670fa55fade07"
+    },
+    {
+      "path": "components/Masculine-taper-cowboy259-hair.glb",
+      "bytes": 10836704,
+      "sha256": "d5a4b5ace36336596fcbf41b9b8a0d679b57d6f93db77dc401d6c883e1cec324"
+    },
+    {
+      "path": "components/Masculine-taper-cowboy259-sprout.glb",
+      "bytes": 150172,
+      "sha256": "149b348a7ec5dc31d72a1cec4d8002f37383e3fb3fad20fcc15b06d5192f56bc"
+    },
+    {
+      "path": "components/Masculine-taper-ears259-hair-ombre.glb",
+      "bytes": 11512968,
+      "sha256": "f14660b11428e6838a1e82677af2c484e9b7829ebc40dd7ac2d2dc9811a79769"
+    },
+    {
+      "path": "components/Masculine-taper-ears259-hair.glb",
+      "bytes": 10836708,
+      "sha256": "24913aa947e9f1eb2e724b7c54267107175f2af83bf3ae04de830fd9d09e6b48"
+    },
+    {
+      "path": "components/Masculine-taper-ears259-sprout.glb",
+      "bytes": 150164,
+      "sha256": "f1967a7dfe391663c7206bc432bc3aae209459d17a807936d03ed9f7d41613d1"
+    },
+    {
+      "path": "components/Masculine-taper-hair259-ombre.glb",
+      "bytes": 11512968,
+      "sha256": "52b12e94dd283c5b7313cd8e5437b65b529eea9083e6257ff91dc08d2e2b7969"
+    },
+    {
+      "path": "components/Masculine-taper-hair259.glb",
+      "bytes": 10836708,
+      "sha256": "d568f86268819ea0a8d47a4a45eb2f4e9a3f7d3949c7c8997e094891739353d4"
+    },
+    {
+      "path": "components/Masculine-taper-headband259-hair-ombre.glb",
+      "bytes": 11512964,
+      "sha256": "f0518672b37f7345dcf8205047d3caf1572af2883ab09f975fef35bbf84850d6"
+    },
+    {
+      "path": "components/Masculine-taper-headband259-hair.glb",
+      "bytes": 10836704,
+      "sha256": "d6f95cb81e5c3e6ce4b6224d03cbd50a6fc13c43b8cd38844c86bbb340bbe9f6"
+    },
+    {
+      "path": "components/Masculine-taper-headband259-sprout.glb",
+      "bytes": 150164,
+      "sha256": "0b126c2b406cb3792ab51a5ea862f444dc7fe15849f0f1a90f595b612c647c73"
+    },
+    {
+      "path": "components/Masculine-taper-none259-sprout.glb",
+      "bytes": 150164,
+      "sha256": "50af5e6e732f5cc95829a36b62510400abdf99f55d1056436ed27e38f09099d1"
+    },
+    {
+      "path": "components/Masculine-taper-pashmina259-hair-ombre.glb",
+      "bytes": 11512968,
+      "sha256": "c801934e2beab74bb606ebf2c8a63a538c40356fafebfcefca1c0669b6b89b5b"
+    },
+    {
+      "path": "components/Masculine-taper-pashmina259-hair.glb",
+      "bytes": 10836708,
+      "sha256": "7d9d211d027b0b8bac2c341920b1d328e48a4515132825f78e7f437cf0baf97f"
+    },
+    {
+      "path": "components/Masculine-taper-pashmina259-sprout.glb",
+      "bytes": 150168,
+      "sha256": "f455cba41474d24fe63e2f2d13ca32d2dba2f7f991c0b79c7e35b62c1b40d7ce"
+    },
+    {
+      "path": "dependencies259.json",
+      "bytes": 140154,
+      "sha256": "773a1f469b09f5203bfbf2f6e23ae2a6b147d340812b6aa862df59e86e801333"
+    },
+    {
+      "path": "depth259.json",
+      "bytes": 39417,
+      "sha256": "ce3f0d7eb6450b1583debd6d2e1e67b5ef875135a84712044eb94224fa56c1bc"
+    },
+    {
+      "path": "extra-angles259.json",
+      "bytes": 52,
+      "sha256": "4db146b8277fd5681b702ef8cf682b3b41dd85e7cee36fd5dc3497348f1923f0"
+    },
+    {
+      "path": "fits259.json",
+      "bytes": 4171,
+      "sha256": "27965e4dc15f6643977de8cc60d99837f6cb972a838d92c5ca6d04de08b788a7"
+    },
+    {
+      "path": "handoff259.json",
+      "bytes": 3237,
+      "sha256": "f9d0328fd14f2a4ce0e27e8b2ea61a5abce3ea8b20dc009f150b03d6280fcdba"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9261,
+      "sha256": "e21e79966562b21b8d5c93c1a5f65ebc4560081b4c870433edb6b707d0619acc"
+    },
+    {
+      "path": "ombre-flow259.json",
+      "bytes": 997,
+      "sha256": "9ad6dc6fffd02982a2eaea36d5c749978715fceb97848be806f2d0d3850dda9f"
+    },
+    {
+      "path": "ombre259.json",
+      "bytes": 8707,
+      "sha256": "ae09c7a4f7032e7f6c6379da7d89ceb5ed45273139d39d9e5af5aeffc803ee97"
+    },
+    {
+      "path": "README259.txt",
+      "bytes": 1214,
+      "sha256": "34f6cb29ede4e844dfb36873052ba1972f86417af1f5f75c09ed7bf271f948ff"
+    },
+    {
+      "path": "references/colors259.jpg",
+      "bytes": 165953,
+      "sha256": "44d5490b5f95a2ae18b9d3e725d9f82985c42d530d5a76774a1a6d9cdd25e712"
+    },
+    {
+      "path": "references/curly-top-angles259.jpg",
+      "bytes": 221719,
+      "sha256": "f1578030db83f5377c9d8e36df399d54bf7489ee2d7d263fdf901043cc94e3f3"
+    },
+    {
+      "path": "references/curly-top-comparison259.jpg",
+      "bytes": 118845,
+      "sha256": "a686cef608f753ba5abff9b3db81065753a54ab49b1b29b438624892c2ce5e5b"
+    },
+    {
+      "path": "references/curly-top-covered259.jpg",
+      "bytes": 482666,
+      "sha256": "ef977e480f942dbb7514945810594a9c642930db07c78fadfb4c579c961df24e"
+    },
+    {
+      "path": "references/direction214-comparison259.jpg",
+      "bytes": 122018,
+      "sha256": "132542ae94971b5bf0bea0eed12bb6e8383f98f038391fc2f404c072a1036ced"
+    },
+    {
+      "path": "references/Masculine-curly-top-black-skin0-portrait120-paired259-color.png",
+      "bytes": 23043,
+      "sha256": "1c45ea2015176b361b2ed9926d1001a26c1e2a1ab695e7d7f1d94b9d20eb46b3"
+    },
+    {
+      "path": "references/Masculine-curly-top-black-skin0-portrait120-paired259-depth.exr",
+      "bytes": 60269,
+      "sha256": "af9c0d7c433c29c24f66b6a6a387009880680e6e8d8b3930ca61740170d06205"
+    },
+    {
+      "path": "references/Masculine-curly-top-black-skin0-portrait512-paired259-color.png",
+      "bytes": 309717,
+      "sha256": "0bbcf6d6a1d5db995e9cc1679d0ac23077ae7f05597d6d0f62899bb2aa9f1688"
+    },
+    {
+      "path": "references/Masculine-curly-top-black-skin0-portrait512-paired259-depth.exr",
+      "bytes": 1057517,
+      "sha256": "baca143f356cf686b2faec308b2fdfb7a1ffe11cf925102020fc84eaf63ae73d"
+    },
+    {
+      "path": "references/Masculine-curly-top-black-skin3-portrait120-paired259-color.png",
+      "bytes": 23182,
+      "sha256": "1c1113cb22ad60dccb6f3f74b44900ef5d566f5ca9c7d6dc2d95c7181df88c25"
+    },
+    {
+      "path": "references/Masculine-curly-top-black-skin3-portrait120-paired259-depth.exr",
+      "bytes": 60269,
+      "sha256": "e36f4f5e56eab6e074efc7f76e6bc2cd1fbb4208f775969abf4e11fe22160723"
+    },
+    {
+      "path": "references/Masculine-curly-top-black-skin3-portrait512-paired259-color.png",
+      "bytes": 312841,
+      "sha256": "41f1d6d95652c6d6613fd9afb755326f8e255c8d0adef4f91ef27dcb44a441a6"
+    },
+    {
+      "path": "references/Masculine-curly-top-black-skin3-portrait512-paired259-depth.exr",
+      "bytes": 1057517,
+      "sha256": "263613f95b79815a1e7cad82be3c65f8d966469e3219369a1ae970e33869f095"
+    },
+    {
+      "path": "references/Masculine-curly-top-default-skin0-portrait120-paired259-color.png",
+      "bytes": 23459,
+      "sha256": "f8a8177b4fe27f27222c700465a9287fce3aeffc1c58a58830e4bac5add4a6f2"
+    },
+    {
+      "path": "references/Masculine-curly-top-default-skin0-portrait120-paired259-depth.exr",
+      "bytes": 60269,
+      "sha256": "07623794eacf6f1cfeeaa97034bcc4418c75735eddc60c1f1f1e6b1f9dafbd06"
+    },
+    {
+      "path": "references/Masculine-curly-top-default-skin0-portrait512-paired259-color.png",
+      "bytes": 313195,
+      "sha256": "818a1661da2b2c681977783742bbb11900f19107b590a2c90008a94537ed74c7"
+    },
+    {
+      "path": "references/Masculine-curly-top-default-skin0-portrait512-paired259-depth.exr",
+      "bytes": 1057517,
+      "sha256": "15ebcd0f30b8000201293695f8a8c03890b0a7fda09a9b96789bc6b906272b03"
+    },
+    {
+      "path": "references/Masculine-curly-top-default-skin1-portrait120-paired259-color.png",
+      "bytes": 23616,
+      "sha256": "f5bc2914345f2d62aa144a58634377b516cd5f7050fe5e9084d3de661d814330"
+    },
+    {
+      "path": "references/Masculine-curly-top-default-skin1-portrait120-paired259-depth.exr",
+      "bytes": 60269,
+      "sha256": "f05dfd82586d3a924724a61e7cb7c253a6cc54b68ed7156f1eb68247c31494f1"
+    },
+    {
+      "path": "references/Masculine-curly-top-default-skin1-portrait512-paired259-color.png",
+      "bytes": 315222,
+      "sha256": "99078ccb47c3fdef69f82bb1138cd3016ee8c16cbfdf543fe6f6b95e7278e948"
+    },
+    {
+      "path": "references/Masculine-curly-top-default-skin1-portrait512-paired259-depth.exr",
+      "bytes": 1057517,
+      "sha256": "7661b0533d243decc41a7768bc8b7882c50e19aa2b23167a327d254729406da0"
+    },
+    {
+      "path": "references/Masculine-curly-top-default-skin3-portrait120-paired259-color.png",
+      "bytes": 23381,
+      "sha256": "94a221f40963c72a57c4a8c72a838e508cedd10d49b6e5f6c198857112ed0a7b"
+    },
+    {
+      "path": "references/Masculine-curly-top-default-skin3-portrait120-paired259-depth.exr",
+      "bytes": 60269,
+      "sha256": "f657d7b4ac4e7758e090ea0c3f98a6a3b324a64fb59ae9cc8ffbe5a694f64e83"
+    },
+    {
+      "path": "references/Masculine-curly-top-default-skin3-portrait512-paired259-color.png",
+      "bytes": 316116,
+      "sha256": "1e259c64d1e5d0276a5e871c6b220cfc9964456253655e1fe7f5215463fae48b"
+    },
+    {
+      "path": "references/Masculine-curly-top-default-skin3-portrait512-paired259-depth.exr",
+      "bytes": 1057517,
+      "sha256": "6ea17bd99f1be5b2aa0f90a5825853098edfc7abbb99d45197f1d25524319754"
+    },
+    {
+      "path": "references/Masculine-sidepart-black-skin0-portrait120-paired259-color.png",
+      "bytes": 22531,
+      "sha256": "6017b452b4116a1e5a7c07a18c90bf38e38ae1cc283df03f9ef6ec68190f91ec"
+    },
+    {
+      "path": "references/Masculine-sidepart-black-skin0-portrait120-paired259-depth.exr",
+      "bytes": 60268,
+      "sha256": "5d970a6e083a9575ba000732e3020f53902a77e3987d36f95d4d576d34601065"
+    },
+    {
+      "path": "references/Masculine-sidepart-black-skin0-portrait512-paired259-color.png",
+      "bytes": 301264,
+      "sha256": "e5f536bcc1b52de1dff0a897d4955ad060d4b500d90d65faf4692c9ef6ac7a0b"
+    },
+    {
+      "path": "references/Masculine-sidepart-black-skin0-portrait512-paired259-depth.exr",
+      "bytes": 1057516,
+      "sha256": "ef51fdb65445f7704b20f39c4f0000b0778b14c22f0f787fe73d62e7a157839d"
+    },
+    {
+      "path": "references/Masculine-sidepart-black-skin3-portrait120-paired259-color.png",
+      "bytes": 22512,
+      "sha256": "2e3da60cfc4204c97f1d6cec1acce722362a60a1982824b2ccb66eb74d5de7c5"
+    },
+    {
+      "path": "references/Masculine-sidepart-black-skin3-portrait120-paired259-depth.exr",
+      "bytes": 60268,
+      "sha256": "6188711f933cecc7f0e3051d385911181c70bccf84d8bec4ffcabd29f0728192"
+    },
+    {
+      "path": "references/Masculine-sidepart-black-skin3-portrait512-paired259-color.png",
+      "bytes": 304757,
+      "sha256": "d49fd90f41af11c57f5ae0eeb679e8404f5a5693f0fe17fb586a5ddd2636b1b1"
+    },
+    {
+      "path": "references/Masculine-sidepart-black-skin3-portrait512-paired259-depth.exr",
+      "bytes": 1057516,
+      "sha256": "6ab139ae7f223d72ce933ac4ea06e04df1ce591ceaf9fd35bfbfccbaeccc8184"
+    },
+    {
+      "path": "references/Masculine-sidepart-default-skin0-portrait120-paired259-color.png",
+      "bytes": 22793,
+      "sha256": "7d21f75b69f0853444364bd6000f711a574395234e4b8b02afafb286fc308ac2"
+    },
+    {
+      "path": "references/Masculine-sidepart-default-skin0-portrait120-paired259-depth.exr",
+      "bytes": 60268,
+      "sha256": "b62d0bc2003b2fe44afca2885b79db4a84d52aa7a58b813c7c037ab481780bf1"
+    },
+    {
+      "path": "references/Masculine-sidepart-default-skin0-portrait512-paired259-color.png",
+      "bytes": 303834,
+      "sha256": "4efb70e8e19d755d2ccd02c4f7cc462e98ec98211319d64a9fcef7c2e39aa0c7"
+    },
+    {
+      "path": "references/Masculine-sidepart-default-skin0-portrait512-paired259-depth.exr",
+      "bytes": 1057516,
+      "sha256": "b72230ada5b9fdd369302678d042b0516be362f88df2e0670bc4a8ec54bc834c"
+    },
+    {
+      "path": "references/Masculine-sidepart-default-skin1-portrait120-paired259-color.png",
+      "bytes": 22931,
+      "sha256": "063f051dc794f1a341e380d5f39f11bbe31f7c2e0e7cf9f6ebeafecca61f01ee"
+    },
+    {
+      "path": "references/Masculine-sidepart-default-skin1-portrait120-paired259-depth.exr",
+      "bytes": 60268,
+      "sha256": "31e42256efff3370f30c8fd0831016d4157ac01c302bb05ab0ea5d692d46aa3a"
+    },
+    {
+      "path": "references/Masculine-sidepart-default-skin1-portrait512-paired259-color.png",
+      "bytes": 305530,
+      "sha256": "be93d4864143b774d3c2b70b47e3bb05b2ec69c8954d053670ac63804e6435e3"
+    },
+    {
+      "path": "references/Masculine-sidepart-default-skin1-portrait512-paired259-depth.exr",
+      "bytes": 1057516,
+      "sha256": "373b231f4cbc043e1d594f9a1721f31d0627faabeb83d665dce47f9a96427b30"
+    },
+    {
+      "path": "references/Masculine-sidepart-default-skin3-portrait120-paired259-color.png",
+      "bytes": 22657,
+      "sha256": "3db77f915daad88c102d915a948aeb9ddd0b5d02923b31c0142bd4f2d9d2fd22"
+    },
+    {
+      "path": "references/Masculine-sidepart-default-skin3-portrait120-paired259-depth.exr",
+      "bytes": 60268,
+      "sha256": "bf8ac9d1e57c93f01a95d91ecb809be5d0634743f7e964c5ff2b032989c64421"
+    },
+    {
+      "path": "references/Masculine-sidepart-default-skin3-portrait512-paired259-color.png",
+      "bytes": 307116,
+      "sha256": "cc5e82af3825a22b752177471aa52d6d7931f05569dc013567b7f2d4922c31d4"
+    },
+    {
+      "path": "references/Masculine-sidepart-default-skin3-portrait512-paired259-depth.exr",
+      "bytes": 1057516,
+      "sha256": "cc1c313e1bfed2675fa8c130d44aef42275c28b9a21c8daff1110f63d7ea7ecd"
+    },
+    {
+      "path": "references/Masculine-taper-black-skin0-portrait120-paired259-color.png",
+      "bytes": 22561,
+      "sha256": "0351b7b5d6f84396f8ed1f9314c5a20751bcfc4911c4246b458e55527e896147"
+    },
+    {
+      "path": "references/Masculine-taper-black-skin0-portrait120-paired259-depth.exr",
+      "bytes": 60265,
+      "sha256": "cfc68e308ba9142c3c3f2728e71272f4ae9a12fbe855eb343e666ee86d1e8ce5"
+    },
+    {
+      "path": "references/Masculine-taper-black-skin0-portrait512-paired259-color.png",
+      "bytes": 302329,
+      "sha256": "25e19f6ae9d5f614e69d72625f23b124bf7bea6a6b647383e6fd1e0fe1982f97"
+    },
+    {
+      "path": "references/Masculine-taper-black-skin0-portrait512-paired259-depth.exr",
+      "bytes": 1057513,
+      "sha256": "fa0b8d1ce95380d1b779798389465a332eab05d425f8c82e9e6239436dc3dc2c"
+    },
+    {
+      "path": "references/Masculine-taper-black-skin3-portrait120-paired259-color.png",
+      "bytes": 22485,
+      "sha256": "b647a64978ebe83099820db24ab10e519312a1d8b4aa3350917f10fb4b026050"
+    },
+    {
+      "path": "references/Masculine-taper-black-skin3-portrait120-paired259-depth.exr",
+      "bytes": 60265,
+      "sha256": "813f02e183dded532e37202812464351152d9873e47254dbe761f0179cbae2e1"
+    },
+    {
+      "path": "references/Masculine-taper-black-skin3-portrait512-paired259-color.png",
+      "bytes": 304412,
+      "sha256": "1eed4037cf3f7e38950a543d3e28b40532e591843adef795d2b81db7011623e1"
+    },
+    {
+      "path": "references/Masculine-taper-black-skin3-portrait512-paired259-depth.exr",
+      "bytes": 1057513,
+      "sha256": "f605cabd3ff5cb3ad97080853f3aae2fe3011141b3fe2f3392d4540089e0de62"
+    },
+    {
+      "path": "references/Masculine-taper-default-skin0-portrait120-paired259-color.png",
+      "bytes": 22796,
+      "sha256": "be4b7d5640e9432834b36abe5b39418dca2b5ecd41d0d473d4c1799528c15972"
+    },
+    {
+      "path": "references/Masculine-taper-default-skin0-portrait120-paired259-depth.exr",
+      "bytes": 60265,
+      "sha256": "176c94856afa22b95f6aad16cc9b7bcd376a7201b5fbe959d67523c146de7889"
+    },
+    {
+      "path": "references/Masculine-taper-default-skin0-portrait512-paired259-color.png",
+      "bytes": 304534,
+      "sha256": "1ac05eb4c7ea19943679ec3ae1579c91c2de9c8de647aab0c349dc9effbd2be3"
+    },
+    {
+      "path": "references/Masculine-taper-default-skin0-portrait512-paired259-depth.exr",
+      "bytes": 1057513,
+      "sha256": "784f79fbdc72c7800fa2126b0dce1782b4cf8e4f44824a0ef495e6adf13a3aa8"
+    },
+    {
+      "path": "references/Masculine-taper-default-skin1-portrait120-paired259-color.png",
+      "bytes": 22993,
+      "sha256": "71acf21b37bb6e7c00cf6a1a461842a82868d3a1a0af9c9a42b620d7e032fb10"
+    },
+    {
+      "path": "references/Masculine-taper-default-skin1-portrait120-paired259-depth.exr",
+      "bytes": 60265,
+      "sha256": "507c724408a1eb7f582562e720619ee33531a43b43af874301254e8505715b75"
+    },
+    {
+      "path": "references/Masculine-taper-default-skin1-portrait512-paired259-color.png",
+      "bytes": 306807,
+      "sha256": "6d6f64ca56a5ccd00dc83dc20be4b17d5364718fc30ecb616a99229a294ca317"
+    },
+    {
+      "path": "references/Masculine-taper-default-skin1-portrait512-paired259-depth.exr",
+      "bytes": 1057513,
+      "sha256": "dd4ee09d65352086f539561840359fd3b214df4494ef9e06ea9764a480e7c5db"
+    },
+    {
+      "path": "references/Masculine-taper-default-skin3-portrait120-paired259-color.png",
+      "bytes": 22746,
+      "sha256": "63efa381bc75aabfc652cfcbdec43ba82de99b3ef2997af49ded64779aeef723"
+    },
+    {
+      "path": "references/Masculine-taper-default-skin3-portrait120-paired259-depth.exr",
+      "bytes": 60265,
+      "sha256": "fa0a91373acea13b16d5e9a1ed373f0cb3f4604a5e5ebd421e0050b1f7ddd4f4"
+    },
+    {
+      "path": "references/Masculine-taper-default-skin3-portrait512-paired259-color.png",
+      "bytes": 306802,
+      "sha256": "4843d2601106d0ccb38db3fc38a4d06f07a1328791505944db5c76126c2a9ca2"
+    },
+    {
+      "path": "references/Masculine-taper-default-skin3-portrait512-paired259-depth.exr",
+      "bytes": 1057513,
+      "sha256": "f27c920f6c4e7f795e10ace66d4ba9505bd6a2d47c816085ec1cc2062ac351b2"
+    },
+    {
+      "path": "references/sidepart-angles259.jpg",
+      "bytes": 199883,
+      "sha256": "723adf7a380af8c725ce08f0ad242ec4eaf78c905badeb0e24cb5962e83460e8"
+    },
+    {
+      "path": "references/sidepart-comparison259.jpg",
+      "bytes": 109903,
+      "sha256": "ad9db9f9e7382549f28f3d4845ec5fff473930dac03c44289c79b02da8802f3b"
+    },
+    {
+      "path": "references/sidepart-covered259.jpg",
+      "bytes": 470533,
+      "sha256": "b93cd58cdc63beaa090d75ce855f7518e8acfbe9faa58780acfb2130cca5d860"
+    },
+    {
+      "path": "references/small259.jpg",
+      "bytes": 71292,
+      "sha256": "6e5214e981d62df8d24a20d8d952fe92ca844bb3180b646dc05e6d37716bcd4e"
+    },
+    {
+      "path": "references/taper-angles259.jpg",
+      "bytes": 209828,
+      "sha256": "bbe7c3aec9dca341a8abaf3dfb62f17a2bb3bedfe3144a26b32014bfde7c8231"
+    },
+    {
+      "path": "references/taper-comparison259.jpg",
+      "bytes": 109473,
+      "sha256": "dd7a44192194bef8df9ea329d2d5da9b443fd0f037c19fb74fdb427f42d32a42"
+    },
+    {
+      "path": "references/taper-covered259.jpg",
+      "bytes": 476690,
+      "sha256": "502543570fb6bb90c189c71a5b7a46d65d95eb6a6ea7e908ee9b9e1e9bc93a8c"
+    },
+    {
+      "path": "review259.json",
+      "bytes": 5498,
+      "sha256": "4a4ca88e6aa0a8f4bfaaa0d04a9935413a1f4aa963319bb46a3fdeaddbbc5cd8"
+    },
+    {
+      "path": "selected-settings259.json",
+      "bytes": 11080,
+      "sha256": "c0f188174469d7f6ad578121b6ae00abc1502065d8d20e241f42a95ed5b62957"
+    },
+    {
+      "path": "shape259.json",
+      "bytes": 4211,
+      "sha256": "4e55a3e920c360baa0f7dbf27731547ff458465dc3751f247fa76121cdac1cd1"
+    },
+    {
+      "path": "source/board259.py",
+      "bytes": 1352,
+      "sha256": "e08d5210989ce21d211ecc81954f025ce99471ae28bd06e6957cb62abe1d1b57"
+    },
+    {
+      "path": "source/browser259.cjs",
+      "bytes": 6517,
+      "sha256": "5013093771e16f8a842f35681022f021c3ce58a586dc0bd2d6eadeac6d510f3d"
+    },
+    {
+      "path": "source/build259.py",
+      "bytes": 8195,
+      "sha256": "461af913dd57373145db2709618bd589926c24b7d4f485a59b0c4579ff24ed32"
+    },
+    {
+      "path": "source/extra-angles259.cjs",
+      "bytes": 1922,
+      "sha256": "5435f8d962f9fa744a9b63bac5e5b5afbb3cd39debcef328534fa684af59bda8"
+    },
+    {
+      "path": "source/finish-sculpt259.py",
+      "bytes": 4728,
+      "sha256": "c715a61fc4425988c7ae973415b6b7412aa685befb45371735f9b61b941e84b9"
+    },
+    {
+      "path": "source/finish259.py",
+      "bytes": 11706,
+      "sha256": "9bd25fe07176666183f4da4c6d29932173e8f59583ce0bac85019b688f1b81a9"
+    },
+    {
+      "path": "source/fits259.py",
+      "bytes": 1939,
+      "sha256": "85cf528df7413c5c932b90fb63a05c946a53b9da8c3049fd4a66daa4220e5fac"
+    },
+    {
+      "path": "source/glbcheck259.py",
+      "bytes": 1031,
+      "sha256": "7109a7b8f9ddfc68f2880f73b797327c8a57eebd239b97aa85813fd46a8c51b2"
+    },
+    {
+      "path": "source/ombre-flow259.cjs",
+      "bytes": 2366,
+      "sha256": "95ec1f849e1031c1888c769c8363f4d95311b7fc8413de9289ba3845d615e2b9"
+    },
+    {
+      "path": "source/ombre259.py",
+      "bytes": 3956,
+      "sha256": "7b9a7d247aa6046c21d815e518479be0a6e5631cda8f2caad179ec558f4f40bc"
+    },
+    {
+      "path": "source/package259.py",
+      "bytes": 3193,
+      "sha256": "16c05285195d850e90205798517b6e81f244a5c563443ed98022a6891e2b0e19"
+    },
+    {
+      "path": "source/prototype259.cjs",
+      "bytes": 2465,
+      "sha256": "944a61daf39caa5a501a18e5120b94f464f817a5df609ad3cd8f5df152bb0988"
+    },
+    {
+      "path": "source/reference259-final.py",
+      "bytes": 5132,
+      "sha256": "18fb0d7db0a0ca60d14c5f1e2a88fc74f5e5fd83e1be705404848ad498cf93cb"
+    },
+    {
+      "path": "source/refine259.py",
+      "bytes": 8507,
+      "sha256": "138df6666346dbfe6fdbf6ea115f93005e97459d2cc74860f7d4f351b5197123"
+    },
+    {
+      "path": "source/sculpt259.py",
+      "bytes": 5952,
+      "sha256": "ffbb3d15cbd133a3cd4729e84f125c9ab64cc17b2787eaef7ee3d0312b46ba92"
+    },
+    {
+      "path": "source/shape259.py",
+      "bytes": 2891,
+      "sha256": "5337e64c18f31b47ded7306d49efac86fbfa0abe3162cc2cea4feb348040f6f3"
+    },
+    {
+      "path": "technical259.json",
+      "bytes": 31298,
+      "sha256": "41065a77083e8a90ba04374b22fa02425a4a94d68d9af035bed3a5915554a43f"
+    },
+    {
+      "path": "viewer259.js",
+      "bytes": 21264,
+      "sha256": "9d7421927c8971cc9dd569c35674374a84519449efb59093d456990bc3e297b4"
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "plan": {
+    "revision": 259,
+    "basis": 258,
+    "owner_direction": [
+      "Taper side locks shorter and much less low on both sides",
+      "Directional marks should match214",
+      "Completely rebuild Side part as a useful typical men's hairstyle"
+    ],
+    "chosen_replacement": "Crop: short textured forward fringe with slight diagonal drift, modest front volume, shorter sides and no hard part",
+    "references": [
+      "https://www.reuzel.com/blogs/news/crop-haircut",
+      "https://lumberjack.style/en/lookbook/stryzhka-krop/"
+    ],
+    "fade_strategy": "Reuse214 actual rounded curved fine-direction geometry, reseated on the actual current head. Retain258 unrippled base fade and low-glare response. Share this treatment with Curly top.",
+    "scope": [
+      "Taper main/short side-bank endings",
+      "Taper and Curly top directional groom",
+      "New Crop in existing sidepart catalogue slot",
+      "Their covered fits and Ombr\u00c3\u00a9 exports"
+    ],
+    "protected": [
+      "Bodies,faces,wardrobe,skin palettes,neutral Black,studio,headgear shapes,all other hairstyle geometry",
+      "Taper upper outline and repaired rounded rear locks",
+      "Independent controls,shared coordinates and fixed lighting"
+    ],
+    "review": "Source then fresh GLB, both profiles/rear/top/underside, covered hair with cloth hidden, all colors and small portraits; iterate before propagating fits",
+    "profile_changes": false,
+    "owner_status": "New artwork candidate pending review",
+    "status": "Final artwork/export review complete; publication pending",
+    "latest_owner_confirmation": "Improve directional fade lines and shorten side locks on both sides"
+  },
+  "authors": {
+    "taper": {
+      "banks": [
+        {
+          "name": "Hair / Side part crown",
+          "end_before_z": 1.9887691736221313,
+          "end_after_z": 2.0999999046325684,
+          "original_path_end": 0.8374958100181115,
+          "round_cap_start": 0.6974958100181115,
+          "upper_positions_exact_before": 0.6974958100181115,
+          "method": "Original path truncated and rounded with interpolated original cross sections; no relocated/compressed path"
+        },
+        {
+          "name": "Hair / Side part main 0",
+          "end_before_z": 1.9746012687683105,
+          "end_after_z": 2.1100001335144043,
+          "original_path_end": 0.7330070274483867,
+          "round_cap_start": 0.5930070274483867,
+          "upper_positions_exact_before": 0.5930070274483867,
+          "method": "Original path truncated and rounded with interpolated original cross sections; no relocated/compressed path"
+        },
+        {
+          "name": "Hair / Side part main 1",
+          "end_before_z": 1.978736400604248,
+          "end_after_z": 2.1162667274475098,
+          "original_path_end": 0.7457067862606406,
+          "round_cap_start": 0.6057067862606406,
+          "upper_positions_exact_before": 0.6057067862606406,
+          "method": "Original path truncated and rounded with interpolated original cross sections; no relocated/compressed path"
+        },
+        {
+          "name": "Hair / Side part main 2",
+          "end_before_z": 1.9759856462478638,
+          "end_after_z": 2.117790699005127,
+          "original_path_end": 0.743183749050701,
+          "round_cap_start": 0.6031837490507009,
+          "upper_positions_exact_before": 0.6031837490507009,
+          "method": "Original path truncated and rounded with interpolated original cross sections; no relocated/compressed path"
+        },
+        {
+          "name": "Hair / Side part main 3",
+          "end_before_z": 1.9678308963775635,
+          "end_after_z": 2.1134190559387207,
+          "original_path_end": 0.7474630668759364,
+          "round_cap_start": 0.6074630668759364,
+          "upper_positions_exact_before": 0.6074630668759364,
+          "method": "Original path truncated and rounded with interpolated original cross sections; no relocated/compressed path"
+        },
+        {
+          "name": "Hair / Side part main 4",
+          "end_before_z": 1.9576506614685059,
+          "end_after_z": 2.106459856033325,
+          "original_path_end": 0.7452493410395544,
+          "round_cap_start": 0.6052493410395544,
+          "upper_positions_exact_before": 0.6052493410395544,
+          "method": "Original path truncated and rounded with interpolated original cross sections; no relocated/compressed path"
+        },
+        {
+          "name": "Hair / Side part short 0",
+          "end_before_z": 1.93962824344635,
+          "end_after_z": 2.109999895095825,
+          "original_path_end": 0.677324913775614,
+          "round_cap_start": 0.537324913775614,
+          "upper_positions_exact_before": 0.537324913775614,
+          "method": "Original path truncated and rounded with interpolated original cross sections; no relocated/compressed path"
+        },
+        {
+          "name": "Hair / Side part short 1",
+          "end_before_z": 1.9414499998092651,
+          "end_after_z": 2.1162667274475098,
+          "original_path_end": 0.6862710282552602,
+          "round_cap_start": 0.5462710282552602,
+          "upper_positions_exact_before": 0.5462710282552602,
+          "method": "Original path truncated and rounded with interpolated original cross sections; no relocated/compressed path"
+        },
+        {
+          "name": "Hair / Side part short 2",
+          "end_before_z": 1.9384028911590576,
+          "end_after_z": 2.117790699005127,
+          "original_path_end": 0.68379284081824,
+          "round_cap_start": 0.54379284081824,
+          "upper_positions_exact_before": 0.54379284081824,
+          "method": "Original path truncated and rounded with interpolated original cross sections; no relocated/compressed path"
+        },
+        {
+          "name": "Hair / Side part short 3",
+          "end_before_z": 1.9321861267089844,
+          "end_after_z": 2.1134190559387207,
+          "original_path_end": 0.6737940070568788,
+          "round_cap_start": 0.5337940070568787,
+          "upper_positions_exact_before": 0.5337940070568787,
+          "method": "Original path truncated and rounded with interpolated original cross sections; no relocated/compressed path"
+        }
+      ],
+      "tip_alpha": [
+        {
+          "name": "Hair / Side part crown",
+          "geometry_undeformed": true,
+          "alpha_start": 0.86
+        },
+        {
+          "name": "Hair / Side part main 0",
+          "geometry_undeformed": true,
+          "alpha_start": 0.86
+        },
+        {
+          "name": "Hair / Side part main 1",
+          "geometry_undeformed": true,
+          "alpha_start": 0.86
+        },
+        {
+          "name": "Hair / Side part main 2",
+          "geometry_undeformed": true,
+          "alpha_start": 0.86
+        },
+        {
+          "name": "Hair / Side part main 3",
+          "geometry_undeformed": true,
+          "alpha_start": 0.86
+        },
+        {
+          "name": "Hair / Side part main 4",
+          "geometry_undeformed": true,
+          "alpha_start": 0.86
+        },
+        {
+          "name": "Hair / Side part nape 0",
+          "geometry_undeformed": true,
+          "alpha_start": 0.86
+        },
+        {
+          "name": "Hair / Side part nape 1",
+          "geometry_undeformed": true,
+          "alpha_start": 0.86
+        },
+        {
+          "name": "Hair / Side part nape 2",
+          "geometry_undeformed": true,
+          "alpha_start": 0.86
+        },
+        {
+          "name": "Hair / Side part nape 3",
+          "geometry_undeformed": true,
+          "alpha_start": 0.86
+        },
+        {
+          "name": "Hair / Side part nape 4",
+          "geometry_undeformed": true,
+          "alpha_start": 0.86
+        },
+        {
+          "name": "Hair / Side part nape 5",
+          "geometry_undeformed": true,
+          "alpha_start": 0.86
+        },
+        {
+          "name": "Hair / Side part short 0",
+          "geometry_undeformed": true,
+          "alpha_start": 0.86
+        },
+        {
+          "name": "Hair / Side part short 1",
+          "geometry_undeformed": true,
+          "alpha_start": 0.86
+        },
+        {
+          "name": "Hair / Side part short 2",
+          "geometry_undeformed": true,
+          "alpha_start": 0.86
+        },
+        {
+          "name": "Hair / Side part short 3",
+          "geometry_undeformed": true,
+          "alpha_start": 0.86
+        }
+      ],
+      "direction214": {
+        "source": "214/Masculine-taper-hair.glb",
+        "source_mesh": "Hair / Taper fine direction",
+        "vertices": 49410,
+        "alpha_sha256": "d87c0398d48d42f4823e190ea34d58ac228363013dcb6d05f169b7e7eff1461f",
+        "source_direction_geometry_reused": true,
+        "reseated_max_shift": 0.0013125647092238069
+      },
+      "modified_geometry_normals_rebuilt": true,
+      "source": "E:\\Ravedio-Avatar\\catalogue259\\pass4\\sources\\Masculine-taper-hair259.blend",
+      "path": "E:\\Ravedio-Avatar\\catalogue259\\pass4\\components\\Masculine-taper-hair259.glb",
+      "other_geometry_preserved": true,
+      "pass3_geometry_and_materials_exact": true
+    },
+    "sidepart": {
+      "label": "Crop",
+      "key": "sidepart",
+      "new_geometry": true,
+      "construction": "Closed forward-flow sculpt with varied rounded fringe clumps, shallow coherent grooves, and narrow edge transitions into the short groom",
+      "flow": "Crown to front with gentle diagonal drift, compact textured fringe, no hard part",
+      "fade_span": 0.3,
+      "vertices": 51330,
+      "direction214": {
+        "source": "214/Masculine-taper-hair.glb",
+        "source_mesh": "Hair / Taper fine direction",
+        "vertices": 49410,
+        "alpha_sha256": "d87c0398d48d42f4823e190ea34d58ac228363013dcb6d05f169b7e7eff1461f",
+        "source_direction_geometry_reused": true,
+        "reseated_max_shift": 0.0013125647092238069
+      },
+      "modified_geometry_normals_rebuilt": true,
+      "source": "E:\\Ravedio-Avatar\\catalogue259\\pass4\\sources\\Masculine-sidepart-hair259.blend",
+      "path": "E:\\Ravedio-Avatar\\catalogue259\\pass4\\components\\Masculine-sidepart-hair259.glb",
+      "other_geometry_preserved": true,
+      "edge_treatment": "Main surface opaque; only narrow terminal boundaries use vertex alpha. Geometric lift tapers into side/back coverage, removing raised shell rim."
+    },
+    "curly-top": {
+      "direction214": {
+        "source": "214/Masculine-taper-hair.glb",
+        "source_mesh": "Hair / Taper fine direction",
+        "vertices": 49410,
+        "alpha_sha256": "d87c0398d48d42f4823e190ea34d58ac228363013dcb6d05f169b7e7eff1461f",
+        "source_direction_geometry_reused": true,
+        "reseated_max_shift": 0.0013125647092238069
+      },
+      "modified_geometry_normals_rebuilt": true,
+      "source": "E:\\Ravedio-Avatar\\catalogue259\\pass4\\sources\\Masculine-curly-top-hair259.blend",
+      "path": "E:\\Ravedio-Avatar\\catalogue259\\pass4\\components\\Masculine-curly-top-hair259.glb",
+      "other_geometry_preserved": true,
+      "pass3_geometry_and_materials_exact": true
+    }
+  }
+}

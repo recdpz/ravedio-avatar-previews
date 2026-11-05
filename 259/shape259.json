@@ -1,0 +1,100 @@
+{
+  "taper": {
+    "banks": [
+      {
+        "name": "Hair / Side part crown",
+        "upper_vertices_exact": 1761,
+        "end_rise": 0.11123073101043701,
+        "geometry_before_sha256": "724cc10a5ba6f2f9e08b2b827e0ddde940bb19ebd394e43e061f493afcd50f4a",
+        "geometry_after_sha256": "73faf44a08c6760c5ec548c3ac5db501f8e9a122f5f9776e891c8ccb111d534e"
+      },
+      {
+        "name": "Hair / Side part main 0",
+        "upper_vertices_exact": 1505,
+        "end_rise": 0.13539886474609375,
+        "geometry_before_sha256": "a537b247d2fc9998797e6f123c4ac291df74da6e378210326404ca9f2fdd216c",
+        "geometry_after_sha256": "35cd0e583ac1ba85295847032b7a627b31074226c1c0aadd24820fdfbabe32e9"
+      },
+      {
+        "name": "Hair / Side part main 1",
+        "upper_vertices_exact": 1537,
+        "end_rise": 0.13753032684326172,
+        "geometry_before_sha256": "1a2969661b2257a8fb5067a4aca7faf4617c9f2eb954c9391a85029179196167",
+        "geometry_after_sha256": "4cd319180767c20e888111207384de5bc22fcda2c44e4e8dd163a11e6113afe0"
+      },
+      {
+        "name": "Hair / Side part main 2",
+        "upper_vertices_exact": 1537,
+        "end_rise": 0.14180505275726318,
+        "geometry_before_sha256": "970ae862030911b5fbaeeff1291b4d2c3bc335f9f9888e43102ff0b92ea040f0",
+        "geometry_after_sha256": "33cd9cf3a1d9c50192601fe44ef2ab9247a1ca437dee7474a7a78d352d7f3b78"
+      },
+      {
+        "name": "Hair / Side part main 3",
+        "upper_vertices_exact": 1537,
+        "end_rise": 0.14558815956115723,
+        "geometry_before_sha256": "2650f8b81eee163f863bf19e1f0f459751872aaaf5d581abf45c4b4822f67892",
+        "geometry_after_sha256": "8a1ad33b40de7560cfe7f42be22fd70e6395f53447ff8b63b1d384963f3673a0"
+      },
+      {
+        "name": "Hair / Side part main 4",
+        "upper_vertices_exact": 1537,
+        "end_rise": 0.14880919456481934,
+        "geometry_before_sha256": "adb38c4f6aac3b65633511bac8c5d3b26992a593e084d30c10bb078338c9a69a",
+        "geometry_after_sha256": "2baf95612f572e2da926f317cc89392f5c62553cd5a4ade4ce9a01eb61c74eab"
+      },
+      {
+        "name": "Hair / Side part short 0",
+        "upper_vertices_exact": 1345,
+        "end_rise": 0.1703716516494751,
+        "geometry_before_sha256": "264c81ac9527e0e6f4baac9862e353d1deac72160f3ee818c2849a4fbbb31745",
+        "geometry_after_sha256": "1b02cbae44da459f66b1f655c53a26cfe616327a37668b943741bc92aaa52a24"
+      },
+      {
+        "name": "Hair / Side part short 1",
+        "upper_vertices_exact": 1377,
+        "end_rise": 0.17481672763824463,
+        "geometry_before_sha256": "f2697b3f5869c739f77d3b0ac8bfdc9449e0a1956c8006c76b1fe587bf7a2a79",
+        "geometry_after_sha256": "4dcf26b1c7edb1412b91e10e97c70b59a0e6f14b5f666477beb017f9d452cc08"
+      },
+      {
+        "name": "Hair / Side part short 2",
+        "upper_vertices_exact": 1377,
+        "end_rise": 0.17938780784606934,
+        "geometry_before_sha256": "87d0c4ee1d27271590014087c2e7dc855617ee205a014bd26575863485239b4c",
+        "geometry_after_sha256": "970eaae9d4896acdf9e1fadd32e06d478ef441193ff1ccc40089d4f990486f9a"
+      },
+      {
+        "name": "Hair / Side part short 3",
+        "upper_vertices_exact": 1345,
+        "end_rise": 0.18123292922973633,
+        "geometry_before_sha256": "8f2494c43085c8539f95e3d659b7e9ddee017205f57fa47b9feba43f0f1d2e7d",
+        "geometry_after_sha256": "5d8f307662b5be343ec58ec1daa4065065adc8023e04d28bd0efcc29d495fce7"
+      }
+    ],
+    "rounded_rear_banks_exact": [
+      "Hair / Side part nape 0",
+      "Hair / Side part nape 1",
+      "Hair / Side part nape 2",
+      "Hair / Side part nape 3",
+      "Hair / Side part nape 4",
+      "Hair / Side part nape 5"
+    ],
+    "top_height_unchanged": true,
+    "top_max_z": 2.4117095470428467,
+    "cut": "Original centerline retained through cap start, then rounded closure along truncated path"
+  },
+  "curly-top": {
+    "crown_positions_exact": [
+      "Hair252 / unified rooted curly sculpt"
+    ]
+  },
+  "crop": {
+    "new_source": true,
+    "no_old_sidepart_objects": true,
+    "closed_surface": true,
+    "vertices": 51330,
+    "flow": "Crown to front, shallow irregular clumps, no hard part",
+    "shared_coordinates_unchanged": true
+  }
+}
