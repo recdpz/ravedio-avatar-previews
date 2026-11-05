@@ -1,0 +1,316 @@
+{
+  "Masculine-afro|cap": {
+    "hair": "components/Masculine-afro-cap260-hair.glb",
+    "changed_vertices": 86440,
+    "smooth_rim_transition": true,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Masculine-afro|beanie": {
+    "hair": "components/Masculine-afro-beanie260-hair.glb",
+    "changed_vertices": 86440,
+    "smooth_rim_transition": true,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Masculine-afro|bucket": {
+    "hair": "components/Masculine-afro-bucket260-hair.glb",
+    "changed_vertices": 86440,
+    "smooth_rim_transition": true,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Masculine-afro|cowboy": {
+    "hair": "components/Masculine-afro-cowboy260-hair.glb",
+    "changed_vertices": 86440,
+    "smooth_rim_transition": true,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Masculine-afro|headband": {
+    "hair": "components/Masculine-afro-headband260-hair.glb",
+    "changed_vertices": 14219,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Masculine-afro|ears": {
+    "hair": "components/Masculine-afro-ears260-hair.glb",
+    "changed_vertices": 0,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Masculine-afro|pashmina": {
+    "hair": "components/Masculine-afro-pashmina260-hair.glb",
+    "changed_vertices": 31764,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Feminine-straight|cap": {
+    "hair": "components/Feminine-straight-cap260-hair.glb",
+    "changed_vertices": 44259,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Feminine-straight|beanie": {
+    "hair": "components/Feminine-straight-beanie260-hair.glb",
+    "changed_vertices": 44259,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Feminine-straight|bucket": {
+    "hair": "components/Feminine-straight-bucket260-hair.glb",
+    "changed_vertices": 44259,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Feminine-straight|cowboy": {
+    "hair": "components/Feminine-straight-cowboy260-hair.glb",
+    "changed_vertices": 44259,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Feminine-straight|headband": {
+    "hair": "components/Feminine-straight-headband260-hair.glb",
+    "changed_vertices": 9661,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Feminine-straight|ears": {
+    "hair": "components/Feminine-straight-ears260-hair.glb",
+    "changed_vertices": 0,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Feminine-straight|pashmina": {
+    "hair": "components/Feminine-straight-pashmina260-hair.glb",
+    "changed_vertices": 79,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Masculine-flow|cap": {
+    "hair": "components/Masculine-flow-cap260-hair.glb",
+    "changed_vertices": 75696,
+    "smooth_rim_transition": true,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Masculine-flow|beanie": {
+    "hair": "components/Masculine-flow-beanie260-hair.glb",
+    "changed_vertices": 75696,
+    "smooth_rim_transition": true,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Masculine-flow|bucket": {
+    "hair": "components/Masculine-flow-bucket260-hair.glb",
+    "changed_vertices": 75696,
+    "smooth_rim_transition": true,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Masculine-flow|cowboy": {
+    "hair": "components/Masculine-flow-cowboy260-hair.glb",
+    "changed_vertices": 75696,
+    "smooth_rim_transition": true,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Masculine-flow|headband": {
+    "hair": "components/Masculine-flow-headband260-hair.glb",
+    "changed_vertices": 6097,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Masculine-flow|ears": {
+    "hair": "components/Masculine-flow-ears260-hair.glb",
+    "changed_vertices": 0,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Masculine-flow|pashmina": {
+    "hair": "components/Masculine-flow-pashmina260-hair.glb",
+    "changed_vertices": 7457,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Feminine-side-sweep|cap": {
+    "hair": "components/Feminine-side-sweep-cap260-hair.glb",
+    "changed_vertices": 43002,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Feminine-side-sweep|beanie": {
+    "hair": "components/Feminine-side-sweep-beanie260-hair.glb",
+    "changed_vertices": 43002,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Feminine-side-sweep|bucket": {
+    "hair": "components/Feminine-side-sweep-bucket260-hair.glb",
+    "changed_vertices": 43002,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Feminine-side-sweep|cowboy": {
+    "hair": "components/Feminine-side-sweep-cowboy260-hair.glb",
+    "changed_vertices": 43002,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Feminine-side-sweep|headband": {
+    "hair": "components/Feminine-side-sweep-headband260-hair.glb",
+    "changed_vertices": 8279,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Feminine-side-sweep|ears": {
+    "hair": "components/Feminine-side-sweep-ears260-hair.glb",
+    "changed_vertices": 0,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Feminine-side-sweep|pashmina": {
+    "hair": "components/Feminine-side-sweep-pashmina260-hair.glb",
+    "changed_vertices": 18,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Masculine-locs|cap": {
+    "hair": "components/Masculine-locs-cap260-hair.glb",
+    "changed_vertices": 106893,
+    "smooth_rim_transition": true,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Masculine-locs|beanie": {
+    "hair": "components/Masculine-locs-beanie260-hair.glb",
+    "changed_vertices": 106893,
+    "smooth_rim_transition": true,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Masculine-locs|bucket": {
+    "hair": "components/Masculine-locs-bucket260-hair.glb",
+    "changed_vertices": 106893,
+    "smooth_rim_transition": true,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Masculine-locs|cowboy": {
+    "hair": "components/Masculine-locs-cowboy260-hair.glb",
+    "changed_vertices": 106893,
+    "smooth_rim_transition": true,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Masculine-locs|headband": {
+    "hair": "components/Masculine-locs-headband260-hair.glb",
+    "changed_vertices": 13597,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Masculine-locs|ears": {
+    "hair": "components/Masculine-locs-ears260-hair.glb",
+    "changed_vertices": 0,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Masculine-locs|pashmina": {
+    "hair": "components/Masculine-locs-pashmina260-hair.glb",
+    "changed_vertices": 14017,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Feminine-box-braids|cap": {
+    "hair": "components/Feminine-box-braids-cap260-hair.glb",
+    "changed_vertices": 212353,
+    "smooth_rim_transition": true,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Feminine-box-braids|beanie": {
+    "hair": "components/Feminine-box-braids-beanie260-hair.glb",
+    "changed_vertices": 212353,
+    "smooth_rim_transition": true,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Feminine-box-braids|bucket": {
+    "hair": "components/Feminine-box-braids-bucket260-hair.glb",
+    "changed_vertices": 212353,
+    "smooth_rim_transition": true,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Feminine-box-braids|cowboy": {
+    "hair": "components/Feminine-box-braids-cowboy260-hair.glb",
+    "changed_vertices": 212353,
+    "smooth_rim_transition": true,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Feminine-box-braids|headband": {
+    "hair": "components/Feminine-box-braids-headband260-hair.glb",
+    "changed_vertices": 36091,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Feminine-box-braids|ears": {
+    "hair": "components/Feminine-box-braids-ears260-hair.glb",
+    "changed_vertices": 0,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Feminine-box-braids|pashmina": {
+    "hair": "components/Feminine-box-braids-pashmina260-hair.glb",
+    "changed_vertices": 714,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Masculine-middle-part|cap": {
+    "hair": "components/Masculine-middle-part-cap260-hair.glb",
+    "changed_vertices": 75945,
+    "smooth_rim_transition": true,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Masculine-middle-part|beanie": {
+    "hair": "components/Masculine-middle-part-beanie260-hair.glb",
+    "changed_vertices": 75945,
+    "smooth_rim_transition": true,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Masculine-middle-part|bucket": {
+    "hair": "components/Masculine-middle-part-bucket260-hair.glb",
+    "changed_vertices": 75945,
+    "smooth_rim_transition": true,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Masculine-middle-part|cowboy": {
+    "hair": "components/Masculine-middle-part-cowboy260-hair.glb",
+    "changed_vertices": 75945,
+    "smooth_rim_transition": true,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Masculine-middle-part|headband": {
+    "hair": "components/Masculine-middle-part-headband260-hair.glb",
+    "changed_vertices": 7279,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Masculine-middle-part|ears": {
+    "hair": "components/Masculine-middle-part-ears260-hair.glb",
+    "changed_vertices": 0,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  },
+  "Masculine-middle-part|pashmina": {
+    "hair": "components/Masculine-middle-part-pashmina260-hair.glb",
+    "changed_vertices": 2156,
+    "headgear_geometry_preserved": true,
+    "protected_geometry_preserved": true
+  }
+}

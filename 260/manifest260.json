@@ -1,0 +1,1461 @@
+{
+  "revision": 260,
+  "baseline_commit": "f20258331ae04f0965fd6df8043faad352556ff6",
+  "files": [
+    {
+      "path": "assemblies/Feminine-box-braids-assembly260.blend",
+      "bytes": 31561057,
+      "sha256": "e6047b35fcd1043f0909135bbfb7306fcca83f265ab08b290d6dc7eaf8df52f7"
+    },
+    {
+      "path": "assemblies/Feminine-side-sweep-assembly260.blend",
+      "bytes": 20294101,
+      "sha256": "16be642e88f3289fccc734611644c6d90e4f746c896846d4e26535e59b85deec"
+    },
+    {
+      "path": "assemblies/Feminine-straight-assembly260.blend",
+      "bytes": 20236152,
+      "sha256": "89f355d90dd2574353bedcadec9ddf0553fb915604613d6c4c1ec67445f647f7"
+    },
+    {
+      "path": "assemblies/Masculine-afro-assembly260.blend",
+      "bytes": 16042409,
+      "sha256": "9c650878df30265774a77bcb5d9adb993faac26c949c6c0088ba273f9ef1055f"
+    },
+    {
+      "path": "assemblies/Masculine-flow-assembly260.blend",
+      "bytes": 15316030,
+      "sha256": "a30465139ca528347f1685202d4c577ad6e75fdb756d9106d74ef97e84e299f9"
+    },
+    {
+      "path": "assemblies/Masculine-locs-assembly260.blend",
+      "bytes": 17653406,
+      "sha256": "f9a76aefe9c2a75f9acbf053fe155de767974297470cfb89ebaabce4329af1ce"
+    },
+    {
+      "path": "assemblies/Masculine-middle-part-assembly260.blend",
+      "bytes": 15223093,
+      "sha256": "e59a444e6ddcac8e3ad25ca6ad9100a0ec90d4ebe171996455ffeace95891299"
+    },
+    {
+      "path": "assemblies260.json",
+      "bytes": 42169,
+      "sha256": "9652846d7e03cc570c65e4dc7b979c6f82f4de593de6a8e1f59d037c7525869c"
+    },
+    {
+      "path": "browser-patch260.json",
+      "bytes": 5523,
+      "sha256": "d62e401b4d079818f05db8d34daca34f09e733a14815ac4bafac88429359111a"
+    },
+    {
+      "path": "browser260.json",
+      "bytes": 12416,
+      "sha256": "fb5bf1fe480c6afcabbf47fbf511c37d0b9c96785c58fb95ff9a1be93953099c"
+    },
+    {
+      "path": "catalogue260.json",
+      "bytes": 260877,
+      "sha256": "bfc65dd961910f0277664b51748171c3727655a64c26085d7ec2e507e8cf3c7a"
+    },
+    {
+      "path": "closed-fits260.json",
+      "bytes": 9364,
+      "sha256": "0b6f1cd0023efb7056f98657a4b7acd42e7058ae956d92b815aa1992e5f0b231"
+    },
+    {
+      "path": "components/Feminine-box-braids-beanie260-hair-ombre.glb",
+      "bytes": 13555536,
+      "sha256": "9cfb23b4e9750d4bb03f401b5edbcceee49fbcb8d017aca060c18e9adcfd587c"
+    },
+    {
+      "path": "components/Feminine-box-braids-beanie260-hair.glb",
+      "bytes": 10278312,
+      "sha256": "5d5c05efd4ffaa88e2b3adacafda12486e2fbd960128f7a4a757850abab1c6bb"
+    },
+    {
+      "path": "components/Feminine-box-braids-beanie260-sprout.glb",
+      "bytes": 152328,
+      "sha256": "41acd1ab49a7a9be5dcf18cfd7658b98082804d0fafa4fb586fd53d48d74aefd"
+    },
+    {
+      "path": "components/Feminine-box-braids-bucket260-hair-ombre.glb",
+      "bytes": 13555532,
+      "sha256": "59eb45938d0805279c805a0f01cbdde290f8bb8ff044d112ef0a8dfe7f5b64d6"
+    },
+    {
+      "path": "components/Feminine-box-braids-bucket260-hair.glb",
+      "bytes": 10278308,
+      "sha256": "5f301488f5081a0c872ab40653fda98ba1ad04844b371f8e301690fc12bd0ab3"
+    },
+    {
+      "path": "components/Feminine-box-braids-bucket260-sprout.glb",
+      "bytes": 152336,
+      "sha256": "2bdf619c2c18843b859d73e356e06cb4581aba257a5ac9422a835f97e46a07f6"
+    },
+    {
+      "path": "components/Feminine-box-braids-cap260-hair-ombre.glb",
+      "bytes": 13555536,
+      "sha256": "9cfb23b4e9750d4bb03f401b5edbcceee49fbcb8d017aca060c18e9adcfd587c"
+    },
+    {
+      "path": "components/Feminine-box-braids-cap260-hair.glb",
+      "bytes": 10278312,
+      "sha256": "5d5c05efd4ffaa88e2b3adacafda12486e2fbd960128f7a4a757850abab1c6bb"
+    },
+    {
+      "path": "components/Feminine-box-braids-cap260-sprout.glb",
+      "bytes": 152328,
+      "sha256": "3290beb237028f9dbd1588ee535af78db2f20a14c83c94af386db849551ca4e7"
+    },
+    {
+      "path": "components/Feminine-box-braids-cowboy260-hair-ombre.glb",
+      "bytes": 13555536,
+      "sha256": "9cfb23b4e9750d4bb03f401b5edbcceee49fbcb8d017aca060c18e9adcfd587c"
+    },
+    {
+      "path": "components/Feminine-box-braids-cowboy260-hair.glb",
+      "bytes": 10278312,
+      "sha256": "5d5c05efd4ffaa88e2b3adacafda12486e2fbd960128f7a4a757850abab1c6bb"
+    },
+    {
+      "path": "components/Feminine-box-braids-cowboy260-sprout.glb",
+      "bytes": 152332,
+      "sha256": "c6df0069d78178a18d6ff1486fc4bcb9c36d8cec418c764adbd7fffc886f6d5f"
+    },
+    {
+      "path": "components/Feminine-box-braids-ears260-hair-ombre.glb",
+      "bytes": 13555540,
+      "sha256": "b071d572ce296ffe6926c786f192c7888af806dc163da7faa45b03607d79a2cc"
+    },
+    {
+      "path": "components/Feminine-box-braids-ears260-hair.glb",
+      "bytes": 10278316,
+      "sha256": "7d9c26822906780071ca3445dc99bae3b694650f9de300b7b82132a17ab125c1"
+    },
+    {
+      "path": "components/Feminine-box-braids-ears260-sprout.glb",
+      "bytes": 152328,
+      "sha256": "844f21d884f1ab4be25d144afdcb5b533d4367cf563d882a13311ed2346a2a4c"
+    },
+    {
+      "path": "components/Feminine-box-braids-hair260-ombre.glb",
+      "bytes": 13555540,
+      "sha256": "b071d572ce296ffe6926c786f192c7888af806dc163da7faa45b03607d79a2cc"
+    },
+    {
+      "path": "components/Feminine-box-braids-hair260.glb",
+      "bytes": 10278316,
+      "sha256": "7d9c26822906780071ca3445dc99bae3b694650f9de300b7b82132a17ab125c1"
+    },
+    {
+      "path": "components/Feminine-box-braids-headband260-hair-ombre.glb",
+      "bytes": 13555536,
+      "sha256": "662770f9696ccdc8c29de3aa56ed279d9f898e7314ed2127a45b122f5a87e0b2"
+    },
+    {
+      "path": "components/Feminine-box-braids-headband260-hair.glb",
+      "bytes": 10278312,
+      "sha256": "b89f693c51146fe22d9818c03b995a0804e0ccc7cafc6fd19fc7511af717d946"
+    },
+    {
+      "path": "components/Feminine-box-braids-headband260-sprout.glb",
+      "bytes": 152332,
+      "sha256": "26b2f8f7588c1613539962821b09a58f0993470a2b8564db1147a86739de74d0"
+    },
+    {
+      "path": "components/Feminine-box-braids-none260-sprout.glb",
+      "bytes": 152328,
+      "sha256": "174c4b4b41cb8d52ba98ffd5fe92d388c4d6c9fefcb9ec741a5abc05b2cd6a4b"
+    },
+    {
+      "path": "components/Feminine-box-braids-pashmina260-hair-ombre.glb",
+      "bytes": 13555536,
+      "sha256": "00c2a34330457a97258da068344ea858d8f176cb2a5d42611c0d2092b31af73b"
+    },
+    {
+      "path": "components/Feminine-box-braids-pashmina260-hair.glb",
+      "bytes": 10278312,
+      "sha256": "1d099262ea3a9b56f541cac259f71c18c9dfcbb600e54f701b83e122b2bacc22"
+    },
+    {
+      "path": "components/Feminine-box-braids-pashmina260-sprout.glb",
+      "bytes": 152332,
+      "sha256": "7e83fddf1524276756040e58253018c29ca78147dde18233ffc05c6bee4b7842"
+    },
+    {
+      "path": "components/Feminine-side-sweep-beanie260-hair-ombre.glb",
+      "bytes": 2431828,
+      "sha256": "27a73bf61de75f554d50a6110f5fb3df26a7bd8ce81d6c23b695fac062609f94"
+    },
+    {
+      "path": "components/Feminine-side-sweep-beanie260-hair.glb",
+      "bytes": 1684008,
+      "sha256": "bf2512bf076b752dd44434212efd65899b60c1a0a437fa3f7d1f58e397636cde"
+    },
+    {
+      "path": "components/Feminine-side-sweep-beanie260-sprout.glb",
+      "bytes": 152328,
+      "sha256": "404e7a1b682a9f869cd7a67ff5df7caa8f3719ac9709730dbd4b4cf48607649f"
+    },
+    {
+      "path": "components/Feminine-side-sweep-bucket260-hair-ombre.glb",
+      "bytes": 2431828,
+      "sha256": "5ce5566663e1247daaedce5f832dc395e3b673f3968be9d70ca6de4183fb80f3"
+    },
+    {
+      "path": "components/Feminine-side-sweep-bucket260-hair.glb",
+      "bytes": 1684008,
+      "sha256": "33e3faa68a3c2201d04027c81303acbb09a5c0904c71faeabf55ae207bddfc99"
+    },
+    {
+      "path": "components/Feminine-side-sweep-bucket260-sprout.glb",
+      "bytes": 152336,
+      "sha256": "edffb9f127706be9dc7695574575fd95aa8a0b401d5d0d719c17c3b41a7b2d85"
+    },
+    {
+      "path": "components/Feminine-side-sweep-cap260-hair-ombre.glb",
+      "bytes": 2431828,
+      "sha256": "27a73bf61de75f554d50a6110f5fb3df26a7bd8ce81d6c23b695fac062609f94"
+    },
+    {
+      "path": "components/Feminine-side-sweep-cap260-hair.glb",
+      "bytes": 1684008,
+      "sha256": "bf2512bf076b752dd44434212efd65899b60c1a0a437fa3f7d1f58e397636cde"
+    },
+    {
+      "path": "components/Feminine-side-sweep-cap260-sprout.glb",
+      "bytes": 152328,
+      "sha256": "fa5b298faab3528cc7eb680daa64cbeb37f9f9a4b6cdadc2c80e94477e9c2ce8"
+    },
+    {
+      "path": "components/Feminine-side-sweep-cowboy260-hair-ombre.glb",
+      "bytes": 2431828,
+      "sha256": "27a73bf61de75f554d50a6110f5fb3df26a7bd8ce81d6c23b695fac062609f94"
+    },
+    {
+      "path": "components/Feminine-side-sweep-cowboy260-hair.glb",
+      "bytes": 1684008,
+      "sha256": "bf2512bf076b752dd44434212efd65899b60c1a0a437fa3f7d1f58e397636cde"
+    },
+    {
+      "path": "components/Feminine-side-sweep-cowboy260-sprout.glb",
+      "bytes": 152332,
+      "sha256": "2fa330108a51ce57875b442afd3d03b3e0c1774d8c066712284ed2e06d658c74"
+    },
+    {
+      "path": "components/Feminine-side-sweep-ears260-hair-ombre.glb",
+      "bytes": 2431832,
+      "sha256": "f9693609b0af396cb81ff0be054467b1eb0f2bc9cdc3a3e80f19133637c4bc4c"
+    },
+    {
+      "path": "components/Feminine-side-sweep-ears260-hair.glb",
+      "bytes": 1684012,
+      "sha256": "fe21af543d62afa9e1d2f2b426741f00cc354e5f87f7558c894b96ab983d2fea"
+    },
+    {
+      "path": "components/Feminine-side-sweep-ears260-sprout.glb",
+      "bytes": 152328,
+      "sha256": "14999729f2a60254564773f4cb610afb5c4c26d685747e303f459bf9100c85da"
+    },
+    {
+      "path": "components/Feminine-side-sweep-hair260-ombre.glb",
+      "bytes": 2431832,
+      "sha256": "9284918b0a3a1a1c3648f2d8e2aba96c0bd85448b7521f9b450a0add75691926"
+    },
+    {
+      "path": "components/Feminine-side-sweep-hair260.glb",
+      "bytes": 1684012,
+      "sha256": "6dfb96feb41210160d1c8742dade0c8af09b9a208b3b3434f81da62d0fc44fc4"
+    },
+    {
+      "path": "components/Feminine-side-sweep-headband260-hair-ombre.glb",
+      "bytes": 2770796,
+      "sha256": "39cbb4344646dbb61d5f11465fdf636c8d2c8da82b69698cfffbca7026e39378"
+    },
+    {
+      "path": "components/Feminine-side-sweep-headband260-hair.glb",
+      "bytes": 2022976,
+      "sha256": "0e982427342d28d6220ee18c44268479e6e42d58fb717a507ab07f02372f84d4"
+    },
+    {
+      "path": "components/Feminine-side-sweep-headband260-sprout.glb",
+      "bytes": 152332,
+      "sha256": "7adf2eb36153cd9895896332c8de1a1ba8a93b9e8a923ffaa49bff823e7600a7"
+    },
+    {
+      "path": "components/Feminine-side-sweep-none260-sprout.glb",
+      "bytes": 152328,
+      "sha256": "e20633460deaaf2946ab2a8849375e4eb67e737438850a8ea2c2e1a12c3e3dba"
+    },
+    {
+      "path": "components/Feminine-side-sweep-pashmina260-hair-ombre.glb",
+      "bytes": 2601312,
+      "sha256": "3cbf2e7192d8976a17fb8d388d3751e5a44aeb459ad90c0cebf0a0263ff2802c"
+    },
+    {
+      "path": "components/Feminine-side-sweep-pashmina260-hair.glb",
+      "bytes": 1853492,
+      "sha256": "a4d992683e5bca6c2199456471659036b34ef0afbb5966d62f3c832882832570"
+    },
+    {
+      "path": "components/Feminine-side-sweep-pashmina260-sprout.glb",
+      "bytes": 152328,
+      "sha256": "add39a9feff536a28018728c323c5054709f0806a2c7984e2df02dfa686fb793"
+    },
+    {
+      "path": "components/Feminine-straight-beanie260-hair-ombre.glb",
+      "bytes": 2771716,
+      "sha256": "5471f933253389bf1f36f0ba3bec98c8fb86eb6448ac94ab616db0fe329a3c22"
+    },
+    {
+      "path": "components/Feminine-straight-beanie260-hair.glb",
+      "bytes": 2027144,
+      "sha256": "546c61a5b309861bc4b9e2ad8a2707551e6711624bac91ea5355859a8e5995c5"
+    },
+    {
+      "path": "components/Feminine-straight-beanie260-sprout.glb",
+      "bytes": 152344,
+      "sha256": "98c6edb26e7fe669aa93ba5b482b60053e1b97cc052435ff933ee10ac0934afc"
+    },
+    {
+      "path": "components/Feminine-straight-bucket260-hair-ombre.glb",
+      "bytes": 2771716,
+      "sha256": "83e667654b580ffcbc572fab331701080331599386aa548b5511e0a389fff5c8"
+    },
+    {
+      "path": "components/Feminine-straight-bucket260-hair.glb",
+      "bytes": 2027144,
+      "sha256": "b8f3e757bf93b3728432f678548d8c596fbfa35b5501de368c3ee692f7f008c9"
+    },
+    {
+      "path": "components/Feminine-straight-bucket260-sprout.glb",
+      "bytes": 152356,
+      "sha256": "e5e3cd66bfd036b7eda0ddd42ba7b75053cfe6d18c2991df6f55fa68fde1dc32"
+    },
+    {
+      "path": "components/Feminine-straight-cap260-hair-ombre.glb",
+      "bytes": 2771716,
+      "sha256": "5471f933253389bf1f36f0ba3bec98c8fb86eb6448ac94ab616db0fe329a3c22"
+    },
+    {
+      "path": "components/Feminine-straight-cap260-hair.glb",
+      "bytes": 2027144,
+      "sha256": "546c61a5b309861bc4b9e2ad8a2707551e6711624bac91ea5355859a8e5995c5"
+    },
+    {
+      "path": "components/Feminine-straight-cap260-sprout.glb",
+      "bytes": 152348,
+      "sha256": "d49704cec979a3d49e3b009f6327c33f0da47701236730229b4d4f60928cedc5"
+    },
+    {
+      "path": "components/Feminine-straight-cowboy260-hair-ombre.glb",
+      "bytes": 2771716,
+      "sha256": "5471f933253389bf1f36f0ba3bec98c8fb86eb6448ac94ab616db0fe329a3c22"
+    },
+    {
+      "path": "components/Feminine-straight-cowboy260-hair.glb",
+      "bytes": 2027144,
+      "sha256": "546c61a5b309861bc4b9e2ad8a2707551e6711624bac91ea5355859a8e5995c5"
+    },
+    {
+      "path": "components/Feminine-straight-cowboy260-sprout.glb",
+      "bytes": 152348,
+      "sha256": "72c55c7932ad91723a9ad8391db6dd953b2f7794fcd3f366179e141c8496ff52"
+    },
+    {
+      "path": "components/Feminine-straight-ears260-hair-ombre.glb",
+      "bytes": 2771716,
+      "sha256": "260bcd2f4f76651ff4f5537cd88bcc37050eaad46f488a904c3ce91b42b57e6d"
+    },
+    {
+      "path": "components/Feminine-straight-ears260-hair.glb",
+      "bytes": 2027144,
+      "sha256": "6ec69776bd27850070e055a06c2931f0a05a767dfa79d16ab2126f486ccd4a2d"
+    },
+    {
+      "path": "components/Feminine-straight-ears260-sprout.glb",
+      "bytes": 152344,
+      "sha256": "676896554e7a685a9374d1601f344ed5fc37dbf93d6360bd2ad83e780403f28c"
+    },
+    {
+      "path": "components/Feminine-straight-hair260-ombre.glb",
+      "bytes": 2771716,
+      "sha256": "43f40feec7f070ccf66390460ad33ab494cedc3d95e3604499a7f607ead84a1f"
+    },
+    {
+      "path": "components/Feminine-straight-hair260.glb",
+      "bytes": 2027144,
+      "sha256": "31e090220295a2a00c8942ca45433ad98286a4eac26652280fcbc609deb6ccc2"
+    },
+    {
+      "path": "components/Feminine-straight-headband260-hair-ombre.glb",
+      "bytes": 3110680,
+      "sha256": "174740dd12396f49ec31be61c56a3b92113fedd1297156214531176e6a519fde"
+    },
+    {
+      "path": "components/Feminine-straight-headband260-hair.glb",
+      "bytes": 2366108,
+      "sha256": "8e17679e87e185849d3bb8ca88f49f02c1dceabbd6156c536dbbf16b1707758a"
+    },
+    {
+      "path": "components/Feminine-straight-headband260-sprout.glb",
+      "bytes": 152348,
+      "sha256": "9d84dbdfd75e6fb6041eb80bbc5f98a5d96a77a36895b4a2403ea0e946149b5d"
+    },
+    {
+      "path": "components/Feminine-straight-none260-sprout.glb",
+      "bytes": 152344,
+      "sha256": "6b3d6ec3bebc2e9eecfafcfa25690b5a6cfe46a6817a91f4ac424931870d940e"
+    },
+    {
+      "path": "components/Feminine-straight-pashmina260-hair-ombre.glb",
+      "bytes": 2941196,
+      "sha256": "619898344d02aa88e970eb24fcc6434e103e6936086deb8742609f7970af8b67"
+    },
+    {
+      "path": "components/Feminine-straight-pashmina260-hair.glb",
+      "bytes": 2196624,
+      "sha256": "8ced0ebfb322fb91c92ee1f6d9bc79e0241829158146759f7bd662c09adc8a07"
+    },
+    {
+      "path": "components/Feminine-straight-pashmina260-sprout.glb",
+      "bytes": 152348,
+      "sha256": "bb59a040aa28c6cf22fa630daefb6f15b0d07b7e815a69cc51682f583ea38c46"
+    },
+    {
+      "path": "components/Masculine-afro-beanie260-hair-ombre.glb",
+      "bytes": 5615108,
+      "sha256": "28dc7dd74828f0500746d4bf7a344897bbf6e98cda751b23d6374558359a9100"
+    },
+    {
+      "path": "components/Masculine-afro-beanie260-hair.glb",
+      "bytes": 4211884,
+      "sha256": "219079dee1f968b5670ab43fca6dbd3d5555192a7b278a6ac99460cc5284def1"
+    },
+    {
+      "path": "components/Masculine-afro-beanie260-sprout.glb",
+      "bytes": 150184,
+      "sha256": "5aa36b052d304b21468a9949f8009d3f8357924bf60a1a461fa4e3fef0872c71"
+    },
+    {
+      "path": "components/Masculine-afro-bucket260-hair-ombre.glb",
+      "bytes": 5615108,
+      "sha256": "a4811b173b5863c1fdc792229440dac6d1b064c93aaa82e133400fcdccfa3403"
+    },
+    {
+      "path": "components/Masculine-afro-bucket260-hair.glb",
+      "bytes": 4211888,
+      "sha256": "6a8bb1dcd451bc3cfebab85063c16c66bb105f63bf022d4fe16fcd84dcea5bef"
+    },
+    {
+      "path": "components/Masculine-afro-bucket260-sprout.glb",
+      "bytes": 150200,
+      "sha256": "453c17dae1cb33e1440bcb89055f6c21b0c668b39485cc06a597a00df97b18be"
+    },
+    {
+      "path": "components/Masculine-afro-cap260-hair-ombre.glb",
+      "bytes": 5615108,
+      "sha256": "28dc7dd74828f0500746d4bf7a344897bbf6e98cda751b23d6374558359a9100"
+    },
+    {
+      "path": "components/Masculine-afro-cap260-hair.glb",
+      "bytes": 4211884,
+      "sha256": "219079dee1f968b5670ab43fca6dbd3d5555192a7b278a6ac99460cc5284def1"
+    },
+    {
+      "path": "components/Masculine-afro-cap260-sprout.glb",
+      "bytes": 150192,
+      "sha256": "89e9f7364ba99bc502795574c6381ac49c386fd69e5cf7a279ec98e4aaefa9da"
+    },
+    {
+      "path": "components/Masculine-afro-cowboy260-hair-ombre.glb",
+      "bytes": 5615108,
+      "sha256": "28dc7dd74828f0500746d4bf7a344897bbf6e98cda751b23d6374558359a9100"
+    },
+    {
+      "path": "components/Masculine-afro-cowboy260-hair.glb",
+      "bytes": 4211884,
+      "sha256": "219079dee1f968b5670ab43fca6dbd3d5555192a7b278a6ac99460cc5284def1"
+    },
+    {
+      "path": "components/Masculine-afro-cowboy260-sprout.glb",
+      "bytes": 150188,
+      "sha256": "921f894385d41b621123a3359bc769ab11238451a36ddaec7d618b288d0a390d"
+    },
+    {
+      "path": "components/Masculine-afro-ears260-hair-ombre.glb",
+      "bytes": 5614744,
+      "sha256": "1f83e82cfb7f3adde896f9a4dd766db65f59e93ef3000adbe5c2dae21fbdfa02"
+    },
+    {
+      "path": "components/Masculine-afro-ears260-hair.glb",
+      "bytes": 4211668,
+      "sha256": "0d32aee9faf802474827d669b6c2487189a5ad50c9dea952cc3ebb6400151605"
+    },
+    {
+      "path": "components/Masculine-afro-ears260-sprout.glb",
+      "bytes": 150192,
+      "sha256": "b6291baa2bcdf9c20ab1e665d89caa0415b4eb5e6040392ff1519588608b4838"
+    },
+    {
+      "path": "components/Masculine-afro-hair260-ombre.glb",
+      "bytes": 5614744,
+      "sha256": "5260d8eb63e8a5e42dac72a50dea9149b38f110338afbc46c534d6d49a6247ab"
+    },
+    {
+      "path": "components/Masculine-afro-hair260.glb",
+      "bytes": 4211668,
+      "sha256": "5a916db2713587c75bda2d06a08f7d7a23242194fd421919e3f4f3deb749969e"
+    },
+    {
+      "path": "components/Masculine-afro-headband260-hair-ombre.glb",
+      "bytes": 5615384,
+      "sha256": "7994177fccfd69fade35359f3504e76ca0a95957338579f8dba496ffa577210d"
+    },
+    {
+      "path": "components/Masculine-afro-headband260-hair.glb",
+      "bytes": 4212052,
+      "sha256": "79af0bbe8729cb308557530bde81fe4d8a2b7677e6cef9831d5b81f4f4076fd1"
+    },
+    {
+      "path": "components/Masculine-afro-headband260-sprout.glb",
+      "bytes": 150192,
+      "sha256": "905fc5a0c85bda6da7b5bcff818a9159cabbea62d7ddb6a4ba0c48c878d9a922"
+    },
+    {
+      "path": "components/Masculine-afro-none260-sprout.glb",
+      "bytes": 150192,
+      "sha256": "fb142296c0104ef1acd722c1d9a44da34cd176bf88e88f137e8af3210befa8ed"
+    },
+    {
+      "path": "components/Masculine-afro-pashmina260-hair-ombre.glb",
+      "bytes": 5617028,
+      "sha256": "e2a79ab8779d838405b7bf873497715bddef997433407b6fa46b2ae641a3c44b"
+    },
+    {
+      "path": "components/Masculine-afro-pashmina260-hair.glb",
+      "bytes": 4213036,
+      "sha256": "8c8537ad2ae1689ba489739ceed51dea52375e4da283e3deeb7f2edf38b31f3b"
+    },
+    {
+      "path": "components/Masculine-afro-pashmina260-sprout.glb",
+      "bytes": 150188,
+      "sha256": "d225b2db1279308e8bd35554e6ba50b2e03151972a2e90ca619945c3dd3ef683"
+    },
+    {
+      "path": "components/Masculine-flow-beanie260-hair-ombre.glb",
+      "bytes": 6386332,
+      "sha256": "c30f5b9e831da1fe722dd87957a74ce2be3d924e2090d36d30e91c500508cebb"
+    },
+    {
+      "path": "components/Masculine-flow-beanie260-hair.glb",
+      "bytes": 5146136,
+      "sha256": "f6510f3b0f9491340096c62638a06bd21da9ea14ad0ee633a36ea60795a817d1"
+    },
+    {
+      "path": "components/Masculine-flow-beanie260-sprout.glb",
+      "bytes": 150184,
+      "sha256": "14c3a34fa21fb02ab844bc4aa4babe7e991b3db5de83e60b21f1e82920e5a281"
+    },
+    {
+      "path": "components/Masculine-flow-bucket260-hair-ombre.glb",
+      "bytes": 6386336,
+      "sha256": "da7fdb3d24d56af4c390cc17af11b6405f5a20c9e48a84dbf90d5b7f10fb3c73"
+    },
+    {
+      "path": "components/Masculine-flow-bucket260-hair.glb",
+      "bytes": 5146136,
+      "sha256": "4f97e42a9c6820098508824ffa66cc6de1e7f51b1b5793b0daaf2da856538e35"
+    },
+    {
+      "path": "components/Masculine-flow-bucket260-sprout.glb",
+      "bytes": 150200,
+      "sha256": "3a43e1b50a8bd8d878a0a193e8e31f109140b56d0f09a0606354685d8b0a5911"
+    },
+    {
+      "path": "components/Masculine-flow-cap260-hair-ombre.glb",
+      "bytes": 6386332,
+      "sha256": "c30f5b9e831da1fe722dd87957a74ce2be3d924e2090d36d30e91c500508cebb"
+    },
+    {
+      "path": "components/Masculine-flow-cap260-hair.glb",
+      "bytes": 5146136,
+      "sha256": "f6510f3b0f9491340096c62638a06bd21da9ea14ad0ee633a36ea60795a817d1"
+    },
+    {
+      "path": "components/Masculine-flow-cap260-sprout.glb",
+      "bytes": 150192,
+      "sha256": "7b60711f91c8e96c33b959e479ff7da55c45dfc82741a5909fab8007d7a2bb98"
+    },
+    {
+      "path": "components/Masculine-flow-cowboy260-hair-ombre.glb",
+      "bytes": 6386332,
+      "sha256": "c30f5b9e831da1fe722dd87957a74ce2be3d924e2090d36d30e91c500508cebb"
+    },
+    {
+      "path": "components/Masculine-flow-cowboy260-hair.glb",
+      "bytes": 5146136,
+      "sha256": "f6510f3b0f9491340096c62638a06bd21da9ea14ad0ee633a36ea60795a817d1"
+    },
+    {
+      "path": "components/Masculine-flow-cowboy260-sprout.glb",
+      "bytes": 150188,
+      "sha256": "b1d50fb36f24765114e6d30af396d969a69099089e0fb108de3a9e898757ae83"
+    },
+    {
+      "path": "components/Masculine-flow-ears260-hair-ombre.glb",
+      "bytes": 6386336,
+      "sha256": "431d5f44add1ce278106227e4d33e6b0be7e6dbc8525f308c82588ed6dbd6d36"
+    },
+    {
+      "path": "components/Masculine-flow-ears260-hair.glb",
+      "bytes": 5146136,
+      "sha256": "8c658aed83f136ef85a2f9834f4595ea2f71780b0a4c72cb04d1475d148ebdc5"
+    },
+    {
+      "path": "components/Masculine-flow-ears260-sprout.glb",
+      "bytes": 150188,
+      "sha256": "cea5736648b11111973db0e913a66229371849f3bc7d2b86f363acf8902518ac"
+    },
+    {
+      "path": "components/Masculine-flow-hair260-ombre.glb",
+      "bytes": 6386336,
+      "sha256": "ad06d203f814174547ae5c28082571bff0d197e84e941477562274eeadc90f7d"
+    },
+    {
+      "path": "components/Masculine-flow-hair260.glb",
+      "bytes": 5146136,
+      "sha256": "ed616cc5d6b9294319afb7b7ef89cf0ac3b94325aa7ab49dbd43fe742889fb18"
+    },
+    {
+      "path": "components/Masculine-flow-headband260-hair-ombre.glb",
+      "bytes": 6386336,
+      "sha256": "1f012dd4b704a23549cc8af668c788c6175063aadc91f030a8f3218465b40ccd"
+    },
+    {
+      "path": "components/Masculine-flow-headband260-hair.glb",
+      "bytes": 5146136,
+      "sha256": "9277a1d17e5c8a3503b9f3489282340de66cc5ea632512c7f2f3543ac4f76232"
+    },
+    {
+      "path": "components/Masculine-flow-headband260-sprout.glb",
+      "bytes": 150188,
+      "sha256": "c6ea36d2f35e279caf6d6d7f05f2554eeebe27ac791e4c22e402361538b88e11"
+    },
+    {
+      "path": "components/Masculine-flow-none260-sprout.glb",
+      "bytes": 150188,
+      "sha256": "eadc510e9cfab730749eef517068f7b149ac82d28497451357aa3c4233363a11"
+    },
+    {
+      "path": "components/Masculine-flow-pashmina260-hair-ombre.glb",
+      "bytes": 6386336,
+      "sha256": "a0e37b8c2757b4ee68d0dcb6ead75b592d2a5639d18fec22868abe77794c02b4"
+    },
+    {
+      "path": "components/Masculine-flow-pashmina260-hair.glb",
+      "bytes": 5146136,
+      "sha256": "b48b9a9fad2ef43b690582ad449b845c3233fbec69ec80b18ed04d1cd9456881"
+    },
+    {
+      "path": "components/Masculine-flow-pashmina260-sprout.glb",
+      "bytes": 150192,
+      "sha256": "e727d1a19e96f19b4debb7e35e6ffad60ecd867b7b7087895cd871e7ba237089"
+    },
+    {
+      "path": "components/Masculine-locs-beanie260-hair-ombre.glb",
+      "bytes": 9147076,
+      "sha256": "fc20c74ef09fd7e1805e66e09d2f045c340b79f31bb5f0b34a6839d10f8eec76"
+    },
+    {
+      "path": "components/Masculine-locs-beanie260-hair.glb",
+      "bytes": 7349596,
+      "sha256": "ac98beca28c68df515fc0ec5781dad66df922d0eddc8117e19e8ac3dbf636577"
+    },
+    {
+      "path": "components/Masculine-locs-beanie260-sprout.glb",
+      "bytes": 150184,
+      "sha256": "24020f42be7e7141289752e9eb9a6b8c505e7345802d1debb265023afc6bc7da"
+    },
+    {
+      "path": "components/Masculine-locs-bucket260-hair-ombre.glb",
+      "bytes": 9147076,
+      "sha256": "75af1c5fa04c258f0bf931fc70fb92738d3fa07e95e118e86400d05c02dfa769"
+    },
+    {
+      "path": "components/Masculine-locs-bucket260-hair.glb",
+      "bytes": 7349600,
+      "sha256": "51ef4f3f7bc48750fe550188a6444203030c8cb82b8fe731f391a2d9d6789e5d"
+    },
+    {
+      "path": "components/Masculine-locs-bucket260-sprout.glb",
+      "bytes": 150200,
+      "sha256": "3b6d8301a2321b21e65abea9ffe864b37d4e82ae6be58aaabceb4fcc4306d4c6"
+    },
+    {
+      "path": "components/Masculine-locs-cap260-hair-ombre.glb",
+      "bytes": 9147076,
+      "sha256": "fc20c74ef09fd7e1805e66e09d2f045c340b79f31bb5f0b34a6839d10f8eec76"
+    },
+    {
+      "path": "components/Masculine-locs-cap260-hair.glb",
+      "bytes": 7349596,
+      "sha256": "ac98beca28c68df515fc0ec5781dad66df922d0eddc8117e19e8ac3dbf636577"
+    },
+    {
+      "path": "components/Masculine-locs-cap260-sprout.glb",
+      "bytes": 150192,
+      "sha256": "63c2af4a3b9b5ae665f4bec00939f3d16c6c14094d10879499c240ec5176d706"
+    },
+    {
+      "path": "components/Masculine-locs-cowboy260-hair-ombre.glb",
+      "bytes": 9147076,
+      "sha256": "fc20c74ef09fd7e1805e66e09d2f045c340b79f31bb5f0b34a6839d10f8eec76"
+    },
+    {
+      "path": "components/Masculine-locs-cowboy260-hair.glb",
+      "bytes": 7349596,
+      "sha256": "ac98beca28c68df515fc0ec5781dad66df922d0eddc8117e19e8ac3dbf636577"
+    },
+    {
+      "path": "components/Masculine-locs-cowboy260-sprout.glb",
+      "bytes": 150188,
+      "sha256": "45ad91c27f367de8e8f393805465d7dcd1fe5b12ca857062a2e60b058fb2a151"
+    },
+    {
+      "path": "components/Masculine-locs-ears260-hair-ombre.glb",
+      "bytes": 9147076,
+      "sha256": "6143099bcdde67fb5c2d2a7124b442fce89aded0ea07009feb7eb6407ae5f800"
+    },
+    {
+      "path": "components/Masculine-locs-ears260-hair.glb",
+      "bytes": 7349600,
+      "sha256": "8b0c916b1559ddc89793b6c6bea4fe8c03ab48cc4bc11a7a5182b809bfd398a5"
+    },
+    {
+      "path": "components/Masculine-locs-ears260-sprout.glb",
+      "bytes": 150192,
+      "sha256": "2a16b8d1276e86f6870104a34f720d6d8240a85c3a7f564e0dcdc192f1955402"
+    },
+    {
+      "path": "components/Masculine-locs-hair260-ombre.glb",
+      "bytes": 9147076,
+      "sha256": "fbc2847f1cf764da3b5efc39f71a20b84d022df94449dbbbe0cf073fcb800b31"
+    },
+    {
+      "path": "components/Masculine-locs-hair260.glb",
+      "bytes": 7349600,
+      "sha256": "8ccfe75cd2bf3e1ef651e074684d05be0990a94872a296cb012cae76359f2af7"
+    },
+    {
+      "path": "components/Masculine-locs-headband260-hair-ombre.glb",
+      "bytes": 9147080,
+      "sha256": "32fcf14ad6758ac23c2d5d270f18b9488231924294d715b7d1a80ee01095f830"
+    },
+    {
+      "path": "components/Masculine-locs-headband260-hair.glb",
+      "bytes": 7349600,
+      "sha256": "698bdc846359c3e945bb37bcc603c6771b4a202ea31d7306c23b5a0f40b081ed"
+    },
+    {
+      "path": "components/Masculine-locs-headband260-sprout.glb",
+      "bytes": 150192,
+      "sha256": "9ebad6793095f2353fbbc7fd87bc899c11093f73df51a410936ac1579b797129"
+    },
+    {
+      "path": "components/Masculine-locs-none260-sprout.glb",
+      "bytes": 150192,
+      "sha256": "2ffe72de6e96b8f2d4319d25b0d205f203a87c3e276366410ce19e24065b24e5"
+    },
+    {
+      "path": "components/Masculine-locs-pashmina260-hair-ombre.glb",
+      "bytes": 9147076,
+      "sha256": "5a0c57ce3dea622c7932455abf47b080178d4cd400efdf9d90c7329e086a6408"
+    },
+    {
+      "path": "components/Masculine-locs-pashmina260-hair.glb",
+      "bytes": 7349600,
+      "sha256": "78ec0efabf28e367d23115db765e2239d0893b5d7ac530fe3c5a295a3fba639b"
+    },
+    {
+      "path": "components/Masculine-locs-pashmina260-sprout.glb",
+      "bytes": 150184,
+      "sha256": "3e388276384da8f1abe0c1ca131c8a85cf98168a6a7cb08aa40eb4d44a8ded5f"
+    },
+    {
+      "path": "components/Masculine-middle-part-beanie260-hair-ombre.glb",
+      "bytes": 6386356,
+      "sha256": "397493e3e4c6759d80776dd65e68b0461fecc7505b3c863b92f811c106b953ad"
+    },
+    {
+      "path": "components/Masculine-middle-part-beanie260-hair.glb",
+      "bytes": 5146156,
+      "sha256": "7e759dc660f4d3fc86b7b686c1898494500b0372924a49c338e7687b839aa5f7"
+    },
+    {
+      "path": "components/Masculine-middle-part-beanie260-sprout.glb",
+      "bytes": 150192,
+      "sha256": "203b3c8682b2bd729614cc6178b6e409a2d35cd2c9d1311b5f986fbe07dd9e81"
+    },
+    {
+      "path": "components/Masculine-middle-part-bucket260-hair-ombre.glb",
+      "bytes": 6386348,
+      "sha256": "215fec95cbd959fb45dfe898c43b91f90cd4ecff9155d71e4491784f16a4814b"
+    },
+    {
+      "path": "components/Masculine-middle-part-bucket260-hair.glb",
+      "bytes": 5146152,
+      "sha256": "94986f84207a9adee98961f1a09ee14341a1045344e66b10ce02c50fc74560e1"
+    },
+    {
+      "path": "components/Masculine-middle-part-bucket260-sprout.glb",
+      "bytes": 150200,
+      "sha256": "cd32bbfa034ec801271ee449dbd84ed6d4aad3c5b2a246c7e52d1142246080d6"
+    },
+    {
+      "path": "components/Masculine-middle-part-cap260-hair-ombre.glb",
+      "bytes": 6386356,
+      "sha256": "397493e3e4c6759d80776dd65e68b0461fecc7505b3c863b92f811c106b953ad"
+    },
+    {
+      "path": "components/Masculine-middle-part-cap260-hair.glb",
+      "bytes": 5146156,
+      "sha256": "7e759dc660f4d3fc86b7b686c1898494500b0372924a49c338e7687b839aa5f7"
+    },
+    {
+      "path": "components/Masculine-middle-part-cap260-sprout.glb",
+      "bytes": 150200,
+      "sha256": "4d9c8414ec04aa3b130b392105130e3008efb60bf07564abaf6ee1ccd5ba4bcb"
+    },
+    {
+      "path": "components/Masculine-middle-part-cowboy260-hair-ombre.glb",
+      "bytes": 6386356,
+      "sha256": "397493e3e4c6759d80776dd65e68b0461fecc7505b3c863b92f811c106b953ad"
+    },
+    {
+      "path": "components/Masculine-middle-part-cowboy260-hair.glb",
+      "bytes": 5146156,
+      "sha256": "7e759dc660f4d3fc86b7b686c1898494500b0372924a49c338e7687b839aa5f7"
+    },
+    {
+      "path": "components/Masculine-middle-part-cowboy260-sprout.glb",
+      "bytes": 150196,
+      "sha256": "81934915477708974aee13810f401d092f601b4448405c67178f616b1e5d569f"
+    },
+    {
+      "path": "components/Masculine-middle-part-ears260-hair-ombre.glb",
+      "bytes": 6386356,
+      "sha256": "8940efc65b0463365711b3324ec3c14275673efe5801e512e0e045a5c96ca9ae"
+    },
+    {
+      "path": "components/Masculine-middle-part-ears260-hair.glb",
+      "bytes": 5146156,
+      "sha256": "113edde10db96c584b9657a4da863dac9ed6e9c9e507b3178b8c879b7713bba8"
+    },
+    {
+      "path": "components/Masculine-middle-part-ears260-sprout.glb",
+      "bytes": 150200,
+      "sha256": "2a622a9510bd1854d537bbd07cdb622a4ff8684a5038a8aeb4daa932176955b2"
+    },
+    {
+      "path": "components/Masculine-middle-part-hair260-ombre.glb",
+      "bytes": 6386356,
+      "sha256": "b9a3994f6ea22f98f2698d2a4a151bccea7e041bcb595954e555e5f8fe088717"
+    },
+    {
+      "path": "components/Masculine-middle-part-hair260.glb",
+      "bytes": 5146156,
+      "sha256": "1d2233f5bc2b29ef0bf0128b01730a29bd16482ce217af3d64c30ede6940f007"
+    },
+    {
+      "path": "components/Masculine-middle-part-headband260-hair-ombre.glb",
+      "bytes": 6386356,
+      "sha256": "9d6f9963740179cc42cf53e30f00f6c99bc877c2b45dfc89320ebd494378fd6c"
+    },
+    {
+      "path": "components/Masculine-middle-part-headband260-hair.glb",
+      "bytes": 5146156,
+      "sha256": "97107181f1c5ea52c36f5df89a0023847a4e7f9ad05490d90d0536fe57a1deee"
+    },
+    {
+      "path": "components/Masculine-middle-part-headband260-sprout.glb",
+      "bytes": 150200,
+      "sha256": "bcb044abc496dd8ad5729f7e11a5acf6191950c8adc71497049c69afe07f6781"
+    },
+    {
+      "path": "components/Masculine-middle-part-none260-sprout.glb",
+      "bytes": 150200,
+      "sha256": "8b435889f5a9818c32d8a80b97093dc9e8f3a1b08d78185778f1eadecd323f79"
+    },
+    {
+      "path": "components/Masculine-middle-part-pashmina260-hair-ombre.glb",
+      "bytes": 6386348,
+      "sha256": "4f4d7276588089c643f9f0943091e8fdc569b12b57d0e626314a4731b668d722"
+    },
+    {
+      "path": "components/Masculine-middle-part-pashmina260-hair.glb",
+      "bytes": 5146152,
+      "sha256": "658adfe7ed57e61edec53134516e949058850d7165d8da4f52f5c3806f1c1f2b"
+    },
+    {
+      "path": "components/Masculine-middle-part-pashmina260-sprout.glb",
+      "bytes": 150188,
+      "sha256": "65f828cea9e9b5c141c371a91c055a516c58fd73452da91cb4364f574d6dbca1"
+    },
+    {
+      "path": "dependencies260.json",
+      "bytes": 144858,
+      "sha256": "276a8033493eb7fc04ff46a1f5df1f1b7625b7ef07ca25893e920f37d7bec237"
+    },
+    {
+      "path": "depth260.json",
+      "bytes": 35468,
+      "sha256": "8b45fccdd89507f94337e80bdc5b48fc07be1d1e3c4218c9ac7a3d369c0070f1"
+    },
+    {
+      "path": "fits260.json",
+      "bytes": 11078,
+      "sha256": "d9a8dbae37c6cbe20f8d0f58ea40e589a6a2031084d00435a8366bc6e33b4949"
+    },
+    {
+      "path": "handoff260.json",
+      "bytes": 24240,
+      "sha256": "678434c8422894875a52f9dc1d682d489b995401b4e2cbdff8e56eb95b0b7db8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 12722,
+      "sha256": "24139fc211b81292b86bb36acc4954402f55728f5faf8b664e5f355201936d8d"
+    },
+    {
+      "path": "ombre260.json",
+      "bytes": 11299,
+      "sha256": "aa8951ce361c5e6cd3f8b301138339e3a4240597dd34084bbcff28502c2c9d57"
+    },
+    {
+      "path": "README260.txt",
+      "bytes": 980,
+      "sha256": "7a1cbcd1ec1787f752806ad096a1f2a94f43d7bdf7e92a58d1fad0532b2e161d"
+    },
+    {
+      "path": "references/colors260.jpg",
+      "bytes": 359168,
+      "sha256": "bb5ec844e62b0fa3b349713b0410be8feaa9babbc58411b8c0995ea914eef239"
+    },
+    {
+      "path": "references/Feminine-box-braids-angles260.jpg",
+      "bytes": 166135,
+      "sha256": "e8f405bb9c98180b6d664f256103ca703b670952b543f5950e5b37dba1660c2d"
+    },
+    {
+      "path": "references/Feminine-box-braids-comparison260.jpg",
+      "bytes": 166275,
+      "sha256": "d7611ca89c55898447bf6c0229e5901ac3008aaeb3d586f01c5495775e537822"
+    },
+    {
+      "path": "references/Feminine-box-braids-covered260.jpg",
+      "bytes": 962707,
+      "sha256": "a7cf6a7e0d40fb1a58d505dd35a229fa5f6a3b96628909dd5529fb199edea9fa"
+    },
+    {
+      "path": "references/Feminine-box-braids-skin0-portrait120-paired260-color.png",
+      "bytes": 24615,
+      "sha256": "702d1120810da8d808ca68376b096fb99a182130bc68c67aee0936676a103fb7"
+    },
+    {
+      "path": "references/Feminine-box-braids-skin0-portrait120-paired260-depth.exr",
+      "bytes": 60265,
+      "sha256": "0e229361265300aa21fa44970e34377750abc7396780e71a562a3467e9bda4d3"
+    },
+    {
+      "path": "references/Feminine-box-braids-skin0-portrait512-paired260-color.png",
+      "bytes": 404468,
+      "sha256": "c0c151cb0f84e518d61a15d0f9463aa901bf57f17a2d77af5118b15356d8b46f"
+    },
+    {
+      "path": "references/Feminine-box-braids-skin0-portrait512-paired260-depth.exr",
+      "bytes": 1057513,
+      "sha256": "9de0dc7f258c5dc4d86f67472db193333442e9fe5c08b99f57115c7ac7a31362"
+    },
+    {
+      "path": "references/Feminine-box-braids-skin3-portrait120-paired260-color.png",
+      "bytes": 24383,
+      "sha256": "946b5138e78f2904e7c430f521d5801b0afb7bd6c853626c5ffb4a374291e5e3"
+    },
+    {
+      "path": "references/Feminine-box-braids-skin3-portrait120-paired260-depth.exr",
+      "bytes": 60265,
+      "sha256": "0a5b83790f4ad683517d08338b93addf550b778200e913b14ec476a9cd3913b2"
+    },
+    {
+      "path": "references/Feminine-box-braids-skin3-portrait512-paired260-color.png",
+      "bytes": 403026,
+      "sha256": "1006540963ee231a154063bfe641458fcd46a9666ab2b36704071d6b9ce18da4"
+    },
+    {
+      "path": "references/Feminine-box-braids-skin3-portrait512-paired260-depth.exr",
+      "bytes": 1057513,
+      "sha256": "fb066de4243ceba1471e86d9565d5d2cad9d6b46d6a7e3ef19460620698dd5e0"
+    },
+    {
+      "path": "references/Feminine-side-sweep-angles260.jpg",
+      "bytes": 114732,
+      "sha256": "f75f48e51f0d084b84dd38f3be8f9238a596a8e6d35d04920cf62e18cfa84bc1"
+    },
+    {
+      "path": "references/Feminine-side-sweep-comparison260.jpg",
+      "bytes": 110584,
+      "sha256": "68984d33ecc9d24ed6c18b328bf4d5a0cb71af19e161ece70392f570ce49752f"
+    },
+    {
+      "path": "references/Feminine-side-sweep-covered260.jpg",
+      "bytes": 731868,
+      "sha256": "e2f6ddb37aad2dfcdb935bd678adbc93d8ae33bc7edac8a708298e976d3a4f21"
+    },
+    {
+      "path": "references/Feminine-side-sweep-skin0-portrait120-paired260-color.png",
+      "bytes": 24482,
+      "sha256": "2afacc4d64e1626493e03759719e4a8ea269dde4b0a64785685708eb4311ade8"
+    },
+    {
+      "path": "references/Feminine-side-sweep-skin0-portrait120-paired260-depth.exr",
+      "bytes": 60266,
+      "sha256": "1bc9f03881ed192682bc18ef1476b048126143fc7c36f6ac6439f645904fa50d"
+    },
+    {
+      "path": "references/Feminine-side-sweep-skin0-portrait512-paired260-color.png",
+      "bytes": 326961,
+      "sha256": "b23a28c001a7523397b2cc8a0a30373d8d31d8491a9c0879043568e1748bdcfa"
+    },
+    {
+      "path": "references/Feminine-side-sweep-skin0-portrait512-paired260-depth.exr",
+      "bytes": 1057514,
+      "sha256": "cd3e85720cc58c783534c6798809258c0c843a67f18cb4c6d911d2d8bcb9044a"
+    },
+    {
+      "path": "references/Feminine-side-sweep-skin3-portrait120-paired260-color.png",
+      "bytes": 24411,
+      "sha256": "b336ab8e6b05b52004cc005da0e51985c72939cf26f3cdbc3d2d758edb875c08"
+    },
+    {
+      "path": "references/Feminine-side-sweep-skin3-portrait120-paired260-depth.exr",
+      "bytes": 60266,
+      "sha256": "415cd1939229e8b5661340d7ae27fb062596eff0c1e7548642f852882dee3cdc"
+    },
+    {
+      "path": "references/Feminine-side-sweep-skin3-portrait512-paired260-color.png",
+      "bytes": 325316,
+      "sha256": "46612cdb8cce91e8ba3ce41138a136aa43baebfa76e05c28fedfa75e73bde6d2"
+    },
+    {
+      "path": "references/Feminine-side-sweep-skin3-portrait512-paired260-depth.exr",
+      "bytes": 1057514,
+      "sha256": "2e967da524a151b7be501b38015827a87b3ddb1dafc34a005206327e1f063f19"
+    },
+    {
+      "path": "references/Feminine-straight-angles260.jpg",
+      "bytes": 114637,
+      "sha256": "2379a4602f82a5f4aab9dba63f92ec0c8875da2eb406fae646bef63ff7ec3488"
+    },
+    {
+      "path": "references/Feminine-straight-comparison260.jpg",
+      "bytes": 110487,
+      "sha256": "e55f0e50da8ce1032a5a772febda2ded567a36c1010ae5c8bc1e7ec822dcdd5e"
+    },
+    {
+      "path": "references/Feminine-straight-covered260.jpg",
+      "bytes": 734703,
+      "sha256": "10db70dac32663a3d7c8737fec35df8ecc4122e9ab73da11fe42d8144cddd794"
+    },
+    {
+      "path": "references/Feminine-straight-skin0-portrait120-paired260-color.png",
+      "bytes": 24024,
+      "sha256": "026123c6c1d91e55dcc40950fe619a49f648c231fa9cee5a24abea930298b8ab"
+    },
+    {
+      "path": "references/Feminine-straight-skin0-portrait120-paired260-depth.exr",
+      "bytes": 60264,
+      "sha256": "c5a316cf144df77a832f91127e4573884f246d276842d54edfda2a476fe1429e"
+    },
+    {
+      "path": "references/Feminine-straight-skin0-portrait512-paired260-color.png",
+      "bytes": 322913,
+      "sha256": "40abd589f8a364526c8450eaf66d9a001281a2f79064a3999b5d98bd1f7984dc"
+    },
+    {
+      "path": "references/Feminine-straight-skin0-portrait512-paired260-depth.exr",
+      "bytes": 1057512,
+      "sha256": "1abcce73f2a4295cb7cc12d77d8d793d356577e68560b635e06757d23ec38769"
+    },
+    {
+      "path": "references/Feminine-straight-skin3-portrait120-paired260-color.png",
+      "bytes": 23995,
+      "sha256": "1fe47d5cd14f84065c736a4bcfbf405709341eb4f70a0201e56f85d36bf836ef"
+    },
+    {
+      "path": "references/Feminine-straight-skin3-portrait120-paired260-depth.exr",
+      "bytes": 60264,
+      "sha256": "6b57aa47e9c9dfa70609133e162eee43f45dce4f68e9c1231a77cf1eca57819c"
+    },
+    {
+      "path": "references/Feminine-straight-skin3-portrait512-paired260-color.png",
+      "bytes": 321315,
+      "sha256": "8334959dae92c1ae98448e1f7eaca747b7043957460ad0aad39924384140bae1"
+    },
+    {
+      "path": "references/Feminine-straight-skin3-portrait512-paired260-depth.exr",
+      "bytes": 1057512,
+      "sha256": "5e4fcbc4788bf90fbc4640c24061bafbad297357db2ec0d70a29faf91e43f624"
+    },
+    {
+      "path": "references/Masculine-afro-angles260.jpg",
+      "bytes": 116394,
+      "sha256": "b955dd1f23d93de28abb00b49b81b400b705222e141361669f8f467dd97b4e2a"
+    },
+    {
+      "path": "references/Masculine-afro-comparison260.jpg",
+      "bytes": 112831,
+      "sha256": "e0e83008ed5485989b53f8e73da557d046c42a51ff8b9c55500a971e047f7a8f"
+    },
+    {
+      "path": "references/Masculine-afro-covered260.jpg",
+      "bytes": 690187,
+      "sha256": "7278c87fd982af805bba2226c66f8bd41a288dd53f95078405f74e16052ac280"
+    },
+    {
+      "path": "references/Masculine-afro-skin0-portrait120-paired260-color.png",
+      "bytes": 23773,
+      "sha256": "d5829a2d30c523236721c07e3c6078a3bdedd337b1b12ec5a0446ae3ca233b97"
+    },
+    {
+      "path": "references/Masculine-afro-skin0-portrait120-paired260-depth.exr",
+      "bytes": 60257,
+      "sha256": "6c49c9daec04add7e9272d141d636c545630fd534f6ec76071ab9ed00f35188d"
+    },
+    {
+      "path": "references/Masculine-afro-skin0-portrait512-paired260-color.png",
+      "bytes": 323805,
+      "sha256": "32a5fd6304287d016b9738461f14265e6d9b93464d3d47c55ca650a36d7a560a"
+    },
+    {
+      "path": "references/Masculine-afro-skin0-portrait512-paired260-depth.exr",
+      "bytes": 1057505,
+      "sha256": "d3015506a45a79efdfe8959c7dc16cf5ba51de8de076879c096cab3ed08dfe4d"
+    },
+    {
+      "path": "references/Masculine-afro-skin3-portrait120-paired260-color.png",
+      "bytes": 23597,
+      "sha256": "d4804f2dc8e6924c47c5fb5b816236b06969244f224c4168de6892376998f1ae"
+    },
+    {
+      "path": "references/Masculine-afro-skin3-portrait120-paired260-depth.exr",
+      "bytes": 60257,
+      "sha256": "db7f2328e394417a37d2fb8ed7484e866286885030f160966c5e6b9c27ffc36d"
+    },
+    {
+      "path": "references/Masculine-afro-skin3-portrait512-paired260-color.png",
+      "bytes": 326088,
+      "sha256": "e0cb3c5b628c6ee15891e201e92eb3aa395106ecd56e97279302ef1f3c099ddb"
+    },
+    {
+      "path": "references/Masculine-afro-skin3-portrait512-paired260-depth.exr",
+      "bytes": 1057505,
+      "sha256": "b8ef1346b09ce607fc01e8ef82e9808281ba1513f6067c4f5b3699b0f61009b1"
+    },
+    {
+      "path": "references/Masculine-flow-angles260.jpg",
+      "bytes": 110162,
+      "sha256": "91ce524adf4c9132a943a11eaacb66c3d4371d35bd349a03d19e5beefb136aa2"
+    },
+    {
+      "path": "references/Masculine-flow-comparison260.jpg",
+      "bytes": 111761,
+      "sha256": "f66541d2129d2231a4dd9873348b22c88c176119352b23de660336e0eedab675"
+    },
+    {
+      "path": "references/Masculine-flow-covered260.jpg",
+      "bytes": 705415,
+      "sha256": "9bb74a15fcb45e502b1bc6f2aeb054e703731a4c53266baec037d703f793dde6"
+    },
+    {
+      "path": "references/Masculine-flow-skin0-portrait120-paired260-color.png",
+      "bytes": 24024,
+      "sha256": "b0e845c7b6f99bff0f29935057f2787387c27d4e238914fa05498366faf199ee"
+    },
+    {
+      "path": "references/Masculine-flow-skin0-portrait120-paired260-depth.exr",
+      "bytes": 60257,
+      "sha256": "da8d41c889328458b27aaeaff2c37f7ca03b1ea9dc9812323d1ac98f75e33f22"
+    },
+    {
+      "path": "references/Masculine-flow-skin0-portrait512-paired260-color.png",
+      "bytes": 314549,
+      "sha256": "7eb7eacfff420688f270bf1ad06fd16b0c6074108e32f20bb2a9444cfd634047"
+    },
+    {
+      "path": "references/Masculine-flow-skin0-portrait512-paired260-depth.exr",
+      "bytes": 1057505,
+      "sha256": "9bff890a81b8fe7652269c9ce89f4e89addc06b5c3751aad7d308ff6c2bd771e"
+    },
+    {
+      "path": "references/Masculine-flow-skin3-portrait120-paired260-color.png",
+      "bytes": 23540,
+      "sha256": "8b912e0b73d5121c1d5089b4e4eb99b8a1d5ddbf5092ef28fb54a914a93105e4"
+    },
+    {
+      "path": "references/Masculine-flow-skin3-portrait120-paired260-depth.exr",
+      "bytes": 60257,
+      "sha256": "c65c2115886d4a1a34e14ba51c82d61517b36b86773d4c4b5e8fadce1701d148"
+    },
+    {
+      "path": "references/Masculine-flow-skin3-portrait512-paired260-color.png",
+      "bytes": 314054,
+      "sha256": "b5a758324f8784d9247df43a484bcda0afc34ae9173f81cd2522d6c3e06a2caf"
+    },
+    {
+      "path": "references/Masculine-flow-skin3-portrait512-paired260-depth.exr",
+      "bytes": 1057505,
+      "sha256": "1d7669430fb245dba1be0edb897f4414427033a2967afe69e4d6205b76f71ddb"
+    },
+    {
+      "path": "references/Masculine-locs-angles260.jpg",
+      "bytes": 115519,
+      "sha256": "1c2d097b3898ac86ce63a817f2dffd86f13981d3c41e717f5f9c0b454b7d4c45"
+    },
+    {
+      "path": "references/Masculine-locs-comparison260.jpg",
+      "bytes": 110551,
+      "sha256": "a2a2b00311453baba722e0fd6bb1e96f79c590a5cc51b5a9af993ead6bdbcc83"
+    },
+    {
+      "path": "references/Masculine-locs-covered260.jpg",
+      "bytes": 714102,
+      "sha256": "9d9e499bb9b9ea22c504717975ad27663d1f5d79abf1098d8e793ef5dd5638d8"
+    },
+    {
+      "path": "references/Masculine-locs-skin0-portrait120-paired260-color.png",
+      "bytes": 23886,
+      "sha256": "09e7093b704c24cc9c1a2b19119884177176f8186a95ec26807d812c346df6e4"
+    },
+    {
+      "path": "references/Masculine-locs-skin0-portrait120-paired260-depth.exr",
+      "bytes": 60257,
+      "sha256": "39c7ff71699e4f7915ff46a52956e32aa3697e8630f0c408196fa6337a649b24"
+    },
+    {
+      "path": "references/Masculine-locs-skin0-portrait512-paired260-color.png",
+      "bytes": 316108,
+      "sha256": "8170c011aab87e5d407c800aedcba4c1c66f2d30229ab90bb0a45d6a5a4b9834"
+    },
+    {
+      "path": "references/Masculine-locs-skin0-portrait512-paired260-depth.exr",
+      "bytes": 1057505,
+      "sha256": "1eb85b71eecadfc5b978f0181c6a7c8d6edeb663302bc096ea6d61afd6c0ff93"
+    },
+    {
+      "path": "references/Masculine-locs-skin3-portrait120-paired260-color.png",
+      "bytes": 23596,
+      "sha256": "191ade944334e64a0666fdb97d31f6f071527a644f8313bf218a979c10f64469"
+    },
+    {
+      "path": "references/Masculine-locs-skin3-portrait120-paired260-depth.exr",
+      "bytes": 60257,
+      "sha256": "ac09cfc2d5b2e92a5363f5be098ac11ea85f747e72292423eca3126a6b839622"
+    },
+    {
+      "path": "references/Masculine-locs-skin3-portrait512-paired260-color.png",
+      "bytes": 317355,
+      "sha256": "82d8263b375a3f02c2590a4c60a623a522fb9f96c27c60f4b8ab2981db10f80f"
+    },
+    {
+      "path": "references/Masculine-locs-skin3-portrait512-paired260-depth.exr",
+      "bytes": 1057505,
+      "sha256": "0679a59cff0afede18c0fff716c71855735d0f7a668c59829c80164a83e81e8a"
+    },
+    {
+      "path": "references/Masculine-middle-part-angles260.jpg",
+      "bytes": 105662,
+      "sha256": "c4c463c5fbd41d431cc2264ba95238420cbb12bd8fbaa1e2eac3c50c32b3110a"
+    },
+    {
+      "path": "references/Masculine-middle-part-comparison260.jpg",
+      "bytes": 104417,
+      "sha256": "4606c2009249ef92c86cc179cea3f40cbcbdce6e0b8cae54795236d879f0326e"
+    },
+    {
+      "path": "references/Masculine-middle-part-covered260.jpg",
+      "bytes": 681061,
+      "sha256": "3b9bf7c4de587a99d19fd5474003f1ab385ff55bab4ffaad7f54ce8001f61045"
+    },
+    {
+      "path": "references/Masculine-middle-part-skin0-portrait120-paired260-color.png",
+      "bytes": 23815,
+      "sha256": "e407a8742065f93f91f013936fe46540cfa21cc2920aae850744408d57241bfb"
+    },
+    {
+      "path": "references/Masculine-middle-part-skin0-portrait120-paired260-depth.exr",
+      "bytes": 60264,
+      "sha256": "9604f7e6b15bfe9abc0ab4f88755ff797f3f784f8525f9e6e6cee510b1c86932"
+    },
+    {
+      "path": "references/Masculine-middle-part-skin0-portrait512-paired260-color.png",
+      "bytes": 311812,
+      "sha256": "5135030cfdcdc4c4deb87384e4b2771498c90fabbdd82990a1e9ba6c2f5bae9f"
+    },
+    {
+      "path": "references/Masculine-middle-part-skin0-portrait512-paired260-depth.exr",
+      "bytes": 1057512,
+      "sha256": "81b99cacdc7e6cf8728e00f0c8e9dd84aa18f1f1af867bc045fc6f0722a73b6f"
+    },
+    {
+      "path": "references/Masculine-middle-part-skin3-portrait120-paired260-color.png",
+      "bytes": 23539,
+      "sha256": "aa7cffb94a50c653c3f3dfac4024b6e11bad7316357cb3dba6fdf5d96afdeb75"
+    },
+    {
+      "path": "references/Masculine-middle-part-skin3-portrait120-paired260-depth.exr",
+      "bytes": 60264,
+      "sha256": "352c3e4e75bb06da633c934aa69b01d37708619ff96379df5eae6cc7a90f61f5"
+    },
+    {
+      "path": "references/Masculine-middle-part-skin3-portrait512-paired260-color.png",
+      "bytes": 312765,
+      "sha256": "cd92d174ec45525bfca5f46920da4e43734344f58f76a12505692fb96c693fd0"
+    },
+    {
+      "path": "references/Masculine-middle-part-skin3-portrait512-paired260-depth.exr",
+      "bytes": 1057512,
+      "sha256": "79f5595588af3279acd39f1cbf9fa3a3dd5959685b30653bb94587861dfa4b63"
+    },
+    {
+      "path": "references/small260.jpg",
+      "bytes": 87527,
+      "sha256": "cff468953b004db4d9a49c89faf38f06236e4e0c2be501a440bf4fb0c15dc5b9"
+    },
+    {
+      "path": "review260.json",
+      "bytes": 1131,
+      "sha256": "f8be6b31e3f96bc69d62a9a635467ecf2b37f183686217cfbe2a19d7e6360a96"
+    },
+    {
+      "path": "selected-settings260.json",
+      "bytes": 20563,
+      "sha256": "02615e8734e44fa8b769079d6b6c51987bad09fb192810488e127f508ad887d1"
+    },
+    {
+      "path": "source/browser-patch260.cjs",
+      "bytes": 5622,
+      "sha256": "31f392bba9dd6a57e05c0391e48c1f7f73321bab5d9bde884d0c33447c235f2a"
+    },
+    {
+      "path": "source/browser260.cjs",
+      "bytes": 5337,
+      "sha256": "37abfd721d76e4a46bdf5317a4bc7c3d4fa453536588f194432e359c12933ca3"
+    },
+    {
+      "path": "source/build260.py",
+      "bytes": 8826,
+      "sha256": "aa416f116b3209c8d172e4cbc74c0fd1d3818ec2fed28f34b46f11cc91e1c038"
+    },
+    {
+      "path": "source/closed-fits260.cjs",
+      "bytes": 2783,
+      "sha256": "93686d2b3747a2d1bc88d9a6a98328617b045a36ad7cf0a027156e49c723aa3e"
+    },
+    {
+      "path": "source/common260.py",
+      "bytes": 3406,
+      "sha256": "32292d6fd9e1fcd98e5a9f9c96af8c74432e973f0572f0082dd12f38c41d2f20"
+    },
+    {
+      "path": "source/female-fits260.py",
+      "bytes": 2003,
+      "sha256": "0f792c6d80a584749600d36dcd8e247846ae669adc3d7abff05c48b1937dbc67"
+    },
+    {
+      "path": "source/female260.py",
+      "bytes": 4469,
+      "sha256": "97ff077b1d81ad5b776cdcb63624798c7d787ea358d65362294930edf8921a52"
+    },
+    {
+      "path": "source/finish260.py",
+      "bytes": 10486,
+      "sha256": "8516ec210be97ea70d9e76c94b36d57cd474e679828d90066bc8208d9c316209"
+    },
+    {
+      "path": "source/fits260.py",
+      "bytes": 1863,
+      "sha256": "560d0b586033cb1f5f2390f4d72bf8b3f9c2b972a86eb62bc29b3bf92442a83a"
+    },
+    {
+      "path": "source/gallery260.py",
+      "bytes": 2472,
+      "sha256": "67a9fb486f875fe34473e00695c850964720dbfc24de41e26752477c256d7be7"
+    },
+    {
+      "path": "source/ombre260.py",
+      "bytes": 3155,
+      "sha256": "58312bcd9c9db81825ab6ec91c7b92f434680b55435af73a9dfb42423c03063f"
+    },
+    {
+      "path": "source/overlay-female260.py",
+      "bytes": 1026,
+      "sha256": "3dc073a426cef86ed13655eb418d7400fc274116715ef98054eacf83090beddb"
+    },
+    {
+      "path": "source/overlay-fits260.py",
+      "bytes": 767,
+      "sha256": "1d76fd9969f98b4e53b740f47680b776ca58bb0194486b20d13e3c9c50a230b3"
+    },
+    {
+      "path": "source/package260.py",
+      "bytes": 4274,
+      "sha256": "af696744f8a6162e5018ce23d77db6e46d54d91b1e3e39cb5e1d07f9e9a5322c"
+    },
+    {
+      "path": "source/plan260.json",
+      "bytes": 1030,
+      "sha256": "a6bc388be4e8ba8ad25d01c5acf729fff80dc4c8858621548f6ef150dcb09856"
+    },
+    {
+      "path": "source/prepare-female-patch260.py",
+      "bytes": 1579,
+      "sha256": "d6ef6da977eed59550c295f6549b9e04a2871450ff32c1d0fc60bbc3ac124045"
+    },
+    {
+      "path": "source/prototype260.cjs",
+      "bytes": 2720,
+      "sha256": "ebf75e568effb64f0c42e3247bddc6ab1f45bbdcd742a908dedaf20b951e3ff2"
+    },
+    {
+      "path": "source/reference-patch260.py",
+      "bytes": 3663,
+      "sha256": "377251afa2e3eaa75dc861346ed10f1a1602af46e2e7edd6bc3c437f5960e3da"
+    },
+    {
+      "path": "source/reference260.py",
+      "bytes": 3411,
+      "sha256": "a239d4a2205c69987e3cf9ed0127538ac439bcd0069952ff4b534e09128eed76"
+    },
+    {
+      "path": "source/select260.py",
+      "bytes": 601,
+      "sha256": "d6d2ac146317ababb2e65875161f823da6a8682878fbdeb831b1286370110342"
+    },
+    {
+      "path": "source/soft-fits260.py",
+      "bytes": 2315,
+      "sha256": "be2ae61c363b44d6d8fac4d0e3642dcaca29af46d3cf6e316c511004fa875771"
+    },
+    {
+      "path": "technical260.json",
+      "bytes": 68462,
+      "sha256": "b39362ed4b7eb043cf86cd91594f952504cfa9b5620d8b3d3f822ad7916c583b"
+    },
+    {
+      "path": "viewer260.js",
+      "bytes": 21264,
+      "sha256": "520386f3cdc4a546bf4a519407217118e9b262287c2acb3f43f776d5c5c260bc"
+    }
+  ]
+}
