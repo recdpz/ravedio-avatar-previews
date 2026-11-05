@@ -1,0 +1,612 @@
+{
+  "revision": 260,
+  "baseline_commit": "f20258331ae04f0965fd6df8043faad352556ff6",
+  "selected_sources": {
+    "Masculine-afro": {
+      "method": "Upper crown lowered smoothly, lower coverage and width retained",
+      "bounds": [
+        {
+          "before_top": 2.4779958724975586,
+          "after_top": 2.44299578666687
+        }
+      ],
+      "source": "E:\\Ravedio-Avatar\\catalogue260\\pass2\\sources\\Masculine-afro-hair260.blend",
+      "path": "E:\\Ravedio-Avatar\\catalogue260\\pass2\\components\\Masculine-afro-hair260.glb",
+      "shared_coordinates": true,
+      "non_hair_geometry_protected": true
+    },
+    "Feminine-straight": {
+      "method": "Reconstruct round whole root cross-sections and smooth root trajectories; remove exposed smooth temple support faces. No pointwise projection or texture cover-up",
+      "locks": [
+        {
+          "name": "Hair / Straight / side sweep 9",
+          "vertices_changed": 1600,
+          "max_shift": 0.024420817025682003,
+          "root_tips_and_last_six_rings_exact": true,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true
+        },
+        {
+          "name": "Hair / Straight / side sweep 8",
+          "vertices_changed": 1600,
+          "max_shift": 0.0257020350106185,
+          "root_tips_and_last_six_rings_exact": true,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true
+        },
+        {
+          "name": "Hair / Straight / side sweep 7",
+          "vertices_changed": 1600,
+          "max_shift": 0.03143980954938697,
+          "root_tips_and_last_six_rings_exact": true,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true
+        },
+        {
+          "name": "Hair / Straight / side sweep 6",
+          "vertices_changed": 1600,
+          "max_shift": 0.02987644392822374,
+          "root_tips_and_last_six_rings_exact": true,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true
+        },
+        {
+          "name": "Hair / Straight / side sweep 5",
+          "vertices_changed": 1600,
+          "max_shift": 0.028737612626004133,
+          "root_tips_and_last_six_rings_exact": true,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true
+        },
+        {
+          "name": "Hair / Straight / side sweep 4",
+          "vertices_changed": 1600,
+          "max_shift": 0.02662735544423637,
+          "root_tips_and_last_six_rings_exact": true,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true
+        },
+        {
+          "name": "Hair / Straight / side sweep 3",
+          "vertices_changed": 1600,
+          "max_shift": 0.028912579025905466,
+          "root_tips_and_last_six_rings_exact": true,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true
+        },
+        {
+          "name": "Hair / Straight / side sweep 21",
+          "vertices_changed": 1600,
+          "max_shift": 0.025132359446441762,
+          "root_tips_and_last_six_rings_exact": true,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true
+        },
+        {
+          "name": "Hair / Straight / side sweep 20",
+          "vertices_changed": 1600,
+          "max_shift": 0.019930934779148025,
+          "root_tips_and_last_six_rings_exact": true,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true
+        },
+        {
+          "name": "Hair / Straight / side sweep 2",
+          "vertices_changed": 1600,
+          "max_shift": 0.029530184789937537,
+          "root_tips_and_last_six_rings_exact": true,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true
+        },
+        {
+          "name": "Hair / Straight / side sweep 19",
+          "vertices_changed": 1600,
+          "max_shift": 0.019499854329611446,
+          "root_tips_and_last_six_rings_exact": true,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true
+        },
+        {
+          "name": "Hair / Straight / side sweep 18",
+          "vertices_changed": 1600,
+          "max_shift": 0.01941133040803831,
+          "root_tips_and_last_six_rings_exact": true,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true
+        },
+        {
+          "name": "Hair / Straight / side sweep 17",
+          "vertices_changed": 1600,
+          "max_shift": 0.018133596296953467,
+          "root_tips_and_last_six_rings_exact": true,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true
+        },
+        {
+          "name": "Hair / Straight / side sweep 16",
+          "vertices_changed": 1600,
+          "max_shift": 0.020105268004820168,
+          "root_tips_and_last_six_rings_exact": true,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true
+        },
+        {
+          "name": "Hair / Straight / side sweep 15",
+          "vertices_changed": 1600,
+          "max_shift": 0.020065315050769198,
+          "root_tips_and_last_six_rings_exact": true,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true
+        },
+        {
+          "name": "Hair / Straight / side sweep 14",
+          "vertices_changed": 1600,
+          "max_shift": 0.020127490999989145,
+          "root_tips_and_last_six_rings_exact": true,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true
+        },
+        {
+          "name": "Hair / Straight / side sweep 13",
+          "vertices_changed": 1600,
+          "max_shift": 0.02511116825963373,
+          "root_tips_and_last_six_rings_exact": true,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true
+        },
+        {
+          "name": "Hair / Straight / side sweep 11",
+          "vertices_changed": 1600,
+          "max_shift": 0.028438999010377296,
+          "root_tips_and_last_six_rings_exact": true,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true
+        },
+        {
+          "name": "Hair / Straight / side sweep 10",
+          "vertices_changed": 1600,
+          "max_shift": 0.028620350317576693,
+          "root_tips_and_last_six_rings_exact": true,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true
+        },
+        {
+          "name": "Hair / Straight / side sweep 1",
+          "vertices_changed": 1600,
+          "max_shift": 0.02620834911944413,
+          "root_tips_and_last_six_rings_exact": true,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true
+        },
+        {
+          "name": "Hair / Straight / side sweep 0",
+          "vertices_changed": 1600,
+          "max_shift": 0.024760968547063576,
+          "root_tips_and_last_six_rings_exact": true,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true
+        }
+      ],
+      "source": "E:\\Ravedio-Avatar\\catalogue260\\pass6\\sources\\Feminine-straight-hair260.blend",
+      "path": "E:\\Ravedio-Avatar\\catalogue260\\pass6\\components\\Feminine-straight-hair260.glb",
+      "shared_coordinates": true,
+      "non_hair_geometry_protected": true
+    },
+    "Masculine-flow": {
+      "method": "Individual crown-to-length locks; no mirrored two-bank sheet",
+      "part_x": 0.13,
+      "flow": "Off-center curved overlapping sweep, longer relaxed ear/nape layers",
+      "banks": 19,
+      "source": "E:\\Ravedio-Avatar\\catalogue260\\pass3\\sources\\Masculine-flow-hair260.blend",
+      "path": "E:\\Ravedio-Avatar\\catalogue260\\pass3\\components\\Masculine-flow-hair260.glb",
+      "shared_coordinates": true,
+      "non_hair_geometry_protected": true
+    },
+    "Feminine-side-sweep": {
+      "method": "Reconstruct round whole root cross-sections and smooth root trajectories; remove exposed smooth temple support faces. No pointwise projection or texture cover-up",
+      "locks": [
+        {
+          "name": "Hair / Side-Sweep / side sweep 9",
+          "vertices_changed": 1600,
+          "max_shift": 0.023928581164510337,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true,
+          "root_tips_exact": true,
+          "last_six_rings_exact": true,
+          "forelock_root_seated_under_neighboring_part": false
+        },
+        {
+          "name": "Hair / Side-Sweep / side sweep 8",
+          "vertices_changed": 1600,
+          "max_shift": 0.040442023584185555,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true,
+          "root_tips_exact": true,
+          "last_six_rings_exact": true,
+          "forelock_root_seated_under_neighboring_part": false
+        },
+        {
+          "name": "Hair / Side-Sweep / side sweep 7",
+          "vertices_changed": 1824,
+          "max_shift": 0.09730187218324678,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true,
+          "root_tips_exact": false,
+          "last_six_rings_exact": true,
+          "forelock_root_seated_under_neighboring_part": true
+        },
+        {
+          "name": "Hair / Side-Sweep / side sweep 6",
+          "vertices_changed": 1600,
+          "max_shift": 0.02405376372240658,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true,
+          "root_tips_exact": true,
+          "last_six_rings_exact": true,
+          "forelock_root_seated_under_neighboring_part": false
+        },
+        {
+          "name": "Hair / Side-Sweep / side sweep 5",
+          "vertices_changed": 1600,
+          "max_shift": 0.020829826217636325,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true,
+          "root_tips_exact": true,
+          "last_six_rings_exact": true,
+          "forelock_root_seated_under_neighboring_part": false
+        },
+        {
+          "name": "Hair / Side-Sweep / side sweep 4",
+          "vertices_changed": 1600,
+          "max_shift": 0.025881707446411755,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true,
+          "root_tips_exact": true,
+          "last_six_rings_exact": true,
+          "forelock_root_seated_under_neighboring_part": false
+        },
+        {
+          "name": "Hair / Side-Sweep / side sweep 3",
+          "vertices_changed": 1600,
+          "max_shift": 0.03550700680309018,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true,
+          "root_tips_exact": true,
+          "last_six_rings_exact": true,
+          "forelock_root_seated_under_neighboring_part": false
+        },
+        {
+          "name": "Hair / Side-Sweep / side sweep 21",
+          "vertices_changed": 1600,
+          "max_shift": 0.025262187242634113,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true,
+          "root_tips_exact": true,
+          "last_six_rings_exact": true,
+          "forelock_root_seated_under_neighboring_part": false
+        },
+        {
+          "name": "Hair / Side-Sweep / side sweep 20",
+          "vertices_changed": 1600,
+          "max_shift": 0.020307404564336908,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true,
+          "root_tips_exact": true,
+          "last_six_rings_exact": true,
+          "forelock_root_seated_under_neighboring_part": false
+        },
+        {
+          "name": "Hair / Side-Sweep / side sweep 2",
+          "vertices_changed": 1600,
+          "max_shift": 0.046312407146954164,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true,
+          "root_tips_exact": true,
+          "last_six_rings_exact": true,
+          "forelock_root_seated_under_neighboring_part": false
+        },
+        {
+          "name": "Hair / Side-Sweep / side sweep 19",
+          "vertices_changed": 1600,
+          "max_shift": 0.019667715670719822,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true,
+          "root_tips_exact": true,
+          "last_six_rings_exact": true,
+          "forelock_root_seated_under_neighboring_part": false
+        },
+        {
+          "name": "Hair / Side-Sweep / side sweep 18",
+          "vertices_changed": 1600,
+          "max_shift": 0.019589625605888023,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true,
+          "root_tips_exact": true,
+          "last_six_rings_exact": true,
+          "forelock_root_seated_under_neighboring_part": false
+        },
+        {
+          "name": "Hair / Side-Sweep / side sweep 17",
+          "vertices_changed": 1600,
+          "max_shift": 0.018093001558167825,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true,
+          "root_tips_exact": true,
+          "last_six_rings_exact": true,
+          "forelock_root_seated_under_neighboring_part": false
+        },
+        {
+          "name": "Hair / Side-Sweep / side sweep 16",
+          "vertices_changed": 1600,
+          "max_shift": 0.019702289147720976,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true,
+          "root_tips_exact": true,
+          "last_six_rings_exact": true,
+          "forelock_root_seated_under_neighboring_part": false
+        },
+        {
+          "name": "Hair / Side-Sweep / side sweep 15",
+          "vertices_changed": 1600,
+          "max_shift": 0.01985928442583148,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true,
+          "root_tips_exact": true,
+          "last_six_rings_exact": true,
+          "forelock_root_seated_under_neighboring_part": false
+        },
+        {
+          "name": "Hair / Side-Sweep / side sweep 14",
+          "vertices_changed": 1600,
+          "max_shift": 0.02033763354028902,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true,
+          "root_tips_exact": true,
+          "last_six_rings_exact": true,
+          "forelock_root_seated_under_neighboring_part": false
+        },
+        {
+          "name": "Hair / Side-Sweep / side sweep 13",
+          "vertices_changed": 1600,
+          "max_shift": 0.025491218931345778,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true,
+          "root_tips_exact": true,
+          "last_six_rings_exact": true,
+          "forelock_root_seated_under_neighboring_part": false
+        },
+        {
+          "name": "Hair / Side-Sweep / side sweep 11",
+          "vertices_changed": 1600,
+          "max_shift": 0.02853893728587056,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true,
+          "root_tips_exact": true,
+          "last_six_rings_exact": true,
+          "forelock_root_seated_under_neighboring_part": false
+        },
+        {
+          "name": "Hair / Side-Sweep / side sweep 10",
+          "vertices_changed": 1600,
+          "max_shift": 0.027248601294122893,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true,
+          "root_tips_exact": true,
+          "last_six_rings_exact": true,
+          "forelock_root_seated_under_neighboring_part": false
+        },
+        {
+          "name": "Hair / Side-Sweep / side sweep 1",
+          "vertices_changed": 1824,
+          "max_shift": 0.1249522121545644,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true,
+          "root_tips_exact": false,
+          "last_six_rings_exact": true,
+          "forelock_root_seated_under_neighboring_part": true
+        },
+        {
+          "name": "Hair / Side-Sweep / side sweep 0",
+          "vertices_changed": 1824,
+          "max_shift": 0.11846071042592123,
+          "full_temple_and_mid_length_cross_sections_reconstructed": true,
+          "root_tips_exact": false,
+          "last_six_rings_exact": true,
+          "forelock_root_seated_under_neighboring_part": true
+        }
+      ],
+      "source": "E:\\Ravedio-Avatar\\catalogue260\\pass7\\sources\\Feminine-side-sweep-hair260.blend",
+      "path": "E:\\Ravedio-Avatar\\catalogue260\\pass7\\components\\Feminine-side-sweep-hair260.glb",
+      "shared_coordinates": true,
+      "non_hair_geometry_protected": true
+    },
+    "Masculine-locs": {
+      "method": "Separate fuller rooted mature locs, compact fiber relief and rounded tips; no painted root sheet",
+      "count": 35,
+      "sections": [
+        {
+          "root_theta": 0.19,
+          "phi": -0.03471947544380473,
+          "radius": 0.05166799846195348
+        },
+        {
+          "root_theta": 0.19,
+          "phi": 2.092256555876991,
+          "radius": 0.05207115974664082
+        },
+        {
+          "root_theta": 0.19,
+          "phi": 4.162470986600025,
+          "radius": 0.04864744606674073
+        },
+        {
+          "root_theta": 0.48,
+          "phi": 0.4592886174758101,
+          "radius": 0.055893434542570855
+        },
+        {
+          "root_theta": 0.48,
+          "phi": 1.2693050379992514,
+          "radius": 0.05362895052905963
+        },
+        {
+          "root_theta": 0.48,
+          "phi": 2.1726972426422884,
+          "radius": 0.05196545142063356
+        },
+        {
+          "root_theta": 0.48,
+          "phi": 3.1143257858285556,
+          "radius": 0.05427907730926165
+        },
+        {
+          "root_theta": 0.48,
+          "phi": 4.032485609233684,
+          "radius": 0.0528671458488118
+        },
+        {
+          "root_theta": 0.48,
+          "phi": 4.918558512272754,
+          "radius": 0.049685845360665074
+        },
+        {
+          "root_theta": 0.48,
+          "phi": 5.814926191844336,
+          "radius": 0.05192805073085458
+        },
+        {
+          "root_theta": 0.81,
+          "phi": -0.030449967771567932,
+          "radius": 0.053569077546796504
+        },
+        {
+          "root_theta": 0.81,
+          "phi": 0.5354421674148262,
+          "radius": 0.05058928112239744
+        },
+        {
+          "root_theta": 0.81,
+          "phi": 0.9932392140278481,
+          "radius": 0.05069417248920957
+        },
+        {
+          "root_theta": 0.81,
+          "phi": 1.5033990141253595,
+          "radius": 0.055776067560233046
+        },
+        {
+          "root_theta": 0.81,
+          "phi": 1.9845060233726706,
+          "radius": 0.04788640280134447
+        },
+        {
+          "root_theta": 0.81,
+          "phi": 2.4671166832081304,
+          "radius": 0.050976782180342066
+        },
+        {
+          "root_theta": 0.81,
+          "phi": 2.8756822906564405,
+          "radius": 0.05244882545049895
+        },
+        {
+          "root_theta": 0.81,
+          "phi": 3.3901733729056893,
+          "radius": 0.048095658746867616
+        },
+        {
+          "root_theta": 0.81,
+          "phi": 3.8824172529441787,
+          "radius": 0.047559921936429425
+        },
+        {
+          "root_theta": 0.81,
+          "phi": 4.330815623259769,
+          "radius": 0.048777657938873745
+        },
+        {
+          "root_theta": 0.81,
+          "phi": 4.790551753972558,
+          "radius": 0.04668804672758273
+        },
+        {
+          "root_theta": 0.81,
+          "phi": 5.317564331664456,
+          "radius": 0.055713435863263217
+        },
+        {
+          "root_theta": 0.81,
+          "phi": 5.808208338243067,
+          "radius": 0.04929830642213257
+        },
+        {
+          "root_theta": 1.15,
+          "phi": 1.226679737696097,
+          "radius": 0.055400587817303226
+        },
+        {
+          "root_theta": 1.15,
+          "phi": 1.5197002187927082,
+          "radius": 0.05378176212214998
+        },
+        {
+          "root_theta": 1.15,
+          "phi": 1.868097539580987,
+          "radius": 0.04754408191836973
+        },
+        {
+          "root_theta": 1.15,
+          "phi": 2.235465152976909,
+          "radius": 0.05215908826561462
+        },
+        {
+          "root_theta": 1.15,
+          "phi": 2.557617876153191,
+          "radius": 0.049769280944252245
+        },
+        {
+          "root_theta": 1.15,
+          "phi": 2.9226884622618114,
+          "radius": 0.04915647034370914
+        },
+        {
+          "root_theta": 1.15,
+          "phi": 3.3336175543979163,
+          "radius": 0.054718950922391756
+        },
+        {
+          "root_theta": 1.15,
+          "phi": 3.705913195320721,
+          "radius": 0.05276676174124325
+        },
+        {
+          "root_theta": 1.15,
+          "phi": 3.996517613308778,
+          "radius": 0.049527354650547854
+        },
+        {
+          "root_theta": 1.15,
+          "phi": 4.317096525384706,
+          "radius": 0.047806465485478365
+        },
+        {
+          "root_theta": 1.15,
+          "phi": 4.713312896178428,
+          "radius": 0.054779593397789594
+        },
+        {
+          "root_theta": 1.15,
+          "phi": 5.022345131789938,
+          "radius": 0.048358146271609385
+        }
+      ],
+      "source": "E:\\Ravedio-Avatar\\catalogue260\\pass3\\sources\\Masculine-locs-hair260.blend",
+      "path": "E:\\Ravedio-Avatar\\catalogue260\\pass3\\components\\Masculine-locs-hair260.glb",
+      "shared_coordinates": true,
+      "non_hair_geometry_protected": true
+    },
+    "Feminine-box-braids": {
+      "method": "Shorten lower braid fall modestly with ties moving with the same path; roots retained",
+      "min_before": 1.060462236404419,
+      "min_after": 1.1354622840881348,
+      "source": "E:\\Ravedio-Avatar\\catalogue260\\pass2\\sources\\Feminine-box-braids-hair260.blend",
+      "path": "E:\\Ravedio-Avatar\\catalogue260\\pass2\\components\\Feminine-box-braids-hair260.glb",
+      "shared_coordinates": true,
+      "non_hair_geometry_protected": true
+    },
+    "Masculine-middle-part": {
+      "method": "Individual crown-to-length locks; no mirrored two-bank sheet",
+      "part_x": 0.0,
+      "flow": "Short split curtains, varied side and nape endings; no continuous bowl hem",
+      "banks": 19,
+      "source": "E:\\Ravedio-Avatar\\catalogue260\\pass4\\sources\\Masculine-middle-part-hair260.blend",
+      "path": "E:\\Ravedio-Avatar\\catalogue260\\pass4\\components\\Masculine-middle-part-hair260.glb",
+      "shared_coordinates": true,
+      "non_hair_geometry_protected": true
+    }
+  },
+  "changes": {
+    "Masculine-afro": "Upper crown lowered smoothly, lower coverage and width retained",
+    "Feminine-straight": "Reconstruct round whole root cross-sections and smooth root trajectories; remove exposed smooth temple support faces. No pointwise projection or texture cover-up",
+    "Masculine-flow": "Individual crown-to-length locks; no mirrored two-bank sheet",
+    "Feminine-side-sweep": "Reconstruct round whole root cross-sections and smooth root trajectories; remove exposed smooth temple support faces. No pointwise projection or texture cover-up",
+    "Masculine-locs": "Separate fuller rooted mature locs, compact fiber relief and rounded tips; no painted root sheet",
+    "Feminine-box-braids": "Shorten lower braid fall modestly with ties moving with the same path; roots retained",
+    "Masculine-middle-part": "Individual crown-to-length locks; no mirrored two-bank sheet"
+  },
+  "coordinates": "Shared coordinates and independently addressable/recolorable components retained; no recentering.",
+  "exports": "168 ordinary GLBs:56 hair,56 Ombr\u00c3\u00a9,56 seated sprouts. Seven packed final-GLB assemblies and28 matched color/Z pairs.",
+  "rendering": "Hair primarily opaque; preserve material and COLOR_0 alpha where present. Ombr\u00c3\u00a9 changes pigment only. No transmission/refraction or compression added.",
+  "lighting": "Fixed studio/camera/exposure/color settings in assemblies260.json. Blender shader/color-management effects do not transfer identically through GLB.",
+  "depth": "Color and32-bit Z regenerated together from final GLBs at120/512 with identical camera matrices. Assembled references are not complete alpha-occlusion layer fixtures.",
+  "qualification": "Source/browser artwork verification; native alpha composition and phone performance remain separate.",
+  "profile_contract": "No profile bytes, wire changes, mobile renderer or product-repository edits.",
+  "technical": "technical260.json",
+  "controls": "All independent feature controls, fixed lighting, zoom/rotation and Compare259 retained.",
+  "fit_strategy": "Cap, beanie, bucket and cowboy hair fits use proportional radial compression with a smooth transition below the rim; layer order and relief are retained. Other fitted hair retains the existing covered-root method. Final female variants use the complete repaired temple/middle lengths. Headgear geometry stays unchanged.",
+  "asset_delivery": {
+    "art_commit": "783974321356ac5c7b8e624dc84832c5a9fe6002",
+    "raw_asset_base": "https://raw.githubusercontent.com/recdpz/ravedio-avatar-previews/783974321356ac5c7b8e624dc84832c5a9fe6002/",
+    "raw_component_base": "https://raw.githubusercontent.com/recdpz/ravedio-avatar-previews/783974321356ac5c7b8e624dc84832c5a9fe6002/260/components/",
+    "pages_url": "https://recdpz.github.io/ravedio-avatar-previews/260/"
+  }
+}
