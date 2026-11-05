@@ -1,0 +1,2066 @@
+{
+  "Feminine-hoodie-pants-cap": {
+    "source": "assemblies/Feminine-hoodie-pants-cap262.blend",
+    "glb": "assemblies/Feminine-hoodie-pants-cap262.glb",
+    "selection": {
+      "build": "Feminine",
+      "hair": "ponytail",
+      "top": "sweatshirt",
+      "bottom": "pants",
+      "headwear": "cap",
+      "eyes": "original",
+      "nose": "none",
+      "mouth": "line",
+      "glasses": "reading",
+      "detail": "hot",
+      "groom": "none",
+      "frameColor": "black",
+      "lensTint": "clear",
+      "skin": 1,
+      "colors": "authored originals"
+    },
+    "components": {
+      "base": "components/Feminine-pants-clothed-base.glb",
+      "top": "components/Feminine-hoodie-top.glb",
+      "hair": "../224/components/Feminine-cap-hair.glb",
+      "headgear": "../224/components/Feminine-cap-headgear.glb",
+      "extra": "../212/Feminine-extra.glb",
+      "glasses": "../227/components/Feminine-reading-glasses.glb",
+      "lenses": "../235/components/Feminine-reading-lenses.glb"
+    },
+    "settings": {
+      "blender": "5.2.0 LTS",
+      "coordinates": "Blender right-handed Z-up; front -Y. GLB right-handed Y-up; front +Z. Native glTF export conversion only; all components retain common world coordinates.",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.8799999952316284
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.649999976158142,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.88
+        ],
+        "resolution": [
+          512,
+          512
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ]
+      },
+      "render": {
+        "engine": "CYCLES",
+        "samples": 24,
+        "device": "GPU",
+        "denoising": true,
+        "transparent": false,
+        "seed": 42
+      },
+      "color": {
+        "display_device": "sRGB",
+        "view_transform": "AgX",
+        "look": "None",
+        "exposure": 0.0,
+        "gamma": 1.0
+      },
+      "lights": [
+        {
+          "name": "Key",
+          "matrix_world": [
+            [
+              0.7999999523162842,
+              0.35058289766311646,
+              -0.48692068457603455,
+              -3.0
+            ],
+            [
+              -0.6000000834465027,
+              0.46744364500045776,
+              -0.649227499961853,
+              -4.0
+            ],
+            [
+              -7.590178086047672e-08,
+              0.8115344047546387,
+              0.584304690361023,
+              5.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "type": "AREA",
+          "energy_W": 380.0,
+          "color_linear": [
+            1.0,
+            0.9399999976158142,
+            0.8600000143051147
+          ],
+          "shape": "DISK",
+          "size": 4.0,
+          "size_y": 0.25
+        },
+        {
+          "name": "Blue",
+          "matrix_world": [
+            [
+              -0.2425357848405838,
+              0.3509708046913147,
+              -0.9044312834739685,
+              -4.0
+            ],
+            [
+              -0.9701424837112427,
+              -0.08774279803037643,
+              0.22610795497894287,
+              1.0
+            ],
+            [
+              -3.904946410671073e-08,
+              0.9322664141654968,
+              0.36177244782447815,
+              3.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "type": "AREA",
+          "energy_W": 160.0,
+          "color_linear": [
+            0.5799999833106995,
+            0.7200000286102295,
+            1.0
+          ],
+          "shape": "DISK",
+          "size": 3.0,
+          "size_y": 0.25
+        },
+        {
+          "name": "Lilac",
+          "matrix_world": [
+            [
+              -0.3162277638912201,
+              -0.6025006771087646,
+              0.7327980399131775,
+              3.0
+            ],
+            [
+              0.9486833214759827,
+              -0.20083355903625488,
+              0.24426601827144623,
+              1.0
+            ],
+            [
+              -1.0610615497341769e-08,
+              0.7724369168281555,
+              0.6350914835929871,
+              4.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "type": "AREA",
+          "energy_W": 190.0,
+          "color_linear": [
+            0.800000011920929,
+            0.6399999856948853,
+            1.0
+          ],
+          "shape": "DISK",
+          "size": 3.0,
+          "size_y": 0.25
+        },
+        {
+          "name": "Front",
+          "matrix_world": [
+            [
+              0.9701424837112427,
+              -0.03492620587348938,
+              0.24000772833824158,
+              1.0
+            ],
+            [
+              0.24253566563129425,
+              0.1397048681974411,
+              -0.960030734539032,
+              -4.0
+            ],
+            [
+              -1.657950576827716e-08,
+              0.989577054977417,
+              0.1440044790506363,
+              2.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "type": "AREA",
+          "energy_W": 55.0,
+          "color_linear": [
+            0.8799999952316284,
+            0.9300000071525574,
+            1.0
+          ],
+          "shape": "DISK",
+          "size": 3.0,
+          "size_y": 0.25
+        }
+      ],
+      "world": [
+        {
+          "name": "Background",
+          "type": "BACKGROUND",
+          "inputs": {
+            "Color": [
+              0.07500000298023224,
+              0.10000000149011612,
+              0.17000000178813934,
+              1.0
+            ],
+            "Strength": 0.4000000059604645,
+            "Weight": 0.0
+          }
+        },
+        {
+          "name": "World Output",
+          "type": "OUTPUT_WORLD",
+          "inputs": {}
+        }
+      ],
+      "world_links": [
+        [
+          "Background",
+          "Background",
+          "World Output",
+          "Surface"
+        ]
+      ],
+      "compositor": []
+    },
+    "requirements": {
+      "scene": "224 Feminine-uncovered",
+      "settings": {
+        "blender": "5.2.0 LTS",
+        "coordinates": "Blender right-handed Z-up; front -Y. GLB right-handed Y-up; front +Z. Native glTF export conversion only; all components retain common world coordinates.",
+        "camera": {
+          "matrix_world": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              -1.6292068494294654e-07,
+              -1.0,
+              -8.0
+            ],
+            [
+              0.0,
+              1.0,
+              -1.6292068494294654e-07,
+              1.8799999952316284
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "type": "ORTHO",
+          "ortho_scale": 1.649999976158142,
+          "clip_start": 0.10000000149011612,
+          "clip_end": 1000.0,
+          "portrait_target": [
+            0,
+            0,
+            1.88
+          ],
+          "resolution": [
+            512,
+            512
+          ],
+          "pixel_aspect": [
+            1.0,
+            1.0
+          ]
+        },
+        "render": {
+          "engine": "CYCLES",
+          "samples": 24,
+          "device": "GPU",
+          "denoising": true,
+          "transparent": false,
+          "seed": 42
+        },
+        "color": {
+          "display_device": "sRGB",
+          "view_transform": "AgX",
+          "look": "None",
+          "exposure": 0.0,
+          "gamma": 1.0
+        },
+        "lights": [
+          {
+            "name": "Key",
+            "matrix_world": [
+              [
+                0.7999999523162842,
+                0.35058289766311646,
+                -0.48692068457603455,
+                -3.0
+              ],
+              [
+                -0.6000000834465027,
+                0.46744364500045776,
+                -0.649227499961853,
+                -4.0
+              ],
+              [
+                -7.590178086047672e-08,
+                0.8115344047546387,
+                0.584304690361023,
+                5.0
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "type": "AREA",
+            "energy_W": 380.0,
+            "color_linear": [
+              1.0,
+              0.9399999976158142,
+              0.8600000143051147
+            ],
+            "shape": "DISK",
+            "size": 4.0,
+            "size_y": 0.25
+          },
+          {
+            "name": "Blue",
+            "matrix_world": [
+              [
+                -0.2425357848405838,
+                0.3509708046913147,
+                -0.9044312834739685,
+                -4.0
+              ],
+              [
+                -0.9701424837112427,
+                -0.08774279803037643,
+                0.22610795497894287,
+                1.0
+              ],
+              [
+                -3.904946410671073e-08,
+                0.9322664141654968,
+                0.36177244782447815,
+                3.0
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "type": "AREA",
+            "energy_W": 160.0,
+            "color_linear": [
+              0.5799999833106995,
+              0.7200000286102295,
+              1.0
+            ],
+            "shape": "DISK",
+            "size": 3.0,
+            "size_y": 0.25
+          },
+          {
+            "name": "Lilac",
+            "matrix_world": [
+              [
+                -0.3162277638912201,
+                -0.6025006771087646,
+                0.7327980399131775,
+                3.0
+              ],
+              [
+                0.9486833214759827,
+                -0.20083355903625488,
+                0.24426601827144623,
+                1.0
+              ],
+              [
+                -1.0610615497341769e-08,
+                0.7724369168281555,
+                0.6350914835929871,
+                4.0
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "type": "AREA",
+            "energy_W": 190.0,
+            "color_linear": [
+              0.800000011920929,
+              0.6399999856948853,
+              1.0
+            ],
+            "shape": "DISK",
+            "size": 3.0,
+            "size_y": 0.25
+          },
+          {
+            "name": "Front",
+            "matrix_world": [
+              [
+                0.9701424837112427,
+                -0.03492620587348938,
+                0.24000772833824158,
+                1.0
+              ],
+              [
+                0.24253566563129425,
+                0.1397048681974411,
+                -0.960030734539032,
+                -4.0
+              ],
+              [
+                -1.657950576827716e-08,
+                0.989577054977417,
+                0.1440044790506363,
+                2.0
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "type": "AREA",
+            "energy_W": 55.0,
+            "color_linear": [
+              0.8799999952316284,
+              0.9300000071525574,
+              1.0
+            ],
+            "shape": "DISK",
+            "size": 3.0,
+            "size_y": 0.25
+          }
+        ],
+        "world": [
+          {
+            "name": "Background",
+            "type": "BACKGROUND",
+            "inputs": {
+              "Color": [
+                0.07500000298023224,
+                0.10000000149011612,
+                0.17000000178813934,
+                1.0
+              ],
+              "Strength": 0.4000000059604645,
+              "Weight": 0.0
+            }
+          },
+          {
+            "name": "World Output",
+            "type": "OUTPUT_WORLD",
+            "inputs": {}
+          }
+        ],
+        "world_links": [
+          [
+            "Background",
+            "Background",
+            "World Output",
+            "Surface"
+          ]
+        ],
+        "compositor": []
+      },
+      "ray_visibility": {
+        "Bottom / clean cut pants hem201 1.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Bottom / clean cut pants hem201 2.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Bottom / continuous pants187.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Bottom / pocket187 1.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Bottom / pocket187 -1.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Bottom / sewn fly187.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Bottom / side seam187 1.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Bottom / side seam187 -1.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Eye / dark oval 1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Eye / dark oval -1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Eye highlight / main 1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Eye highlight / main -1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Eye highlight / small 1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Eye highlight / small -1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Face / relaxed smile185": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "226 eyelashes / Lashes / charcoal234": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Chest / subtle cleavage201 1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Chest / subtle cleavage201 -1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Skin / rounded torso": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Skin / soft oval head": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Skin / swept arm 1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Skin / swept arm -1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Clothing / tailored203.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Hoodie / aglet205 1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Hoodie / aglet205 -1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Hoodie / attached opening204.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Hoodie / front seated cord205 1.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Hoodie / front seated cord205 -1.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Hoodie / rolled opening204.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Hoodie / rounded resting hood215.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Hoodie / seated pouch202.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Hoodie / sewn pocket entry202 1.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Hoodie / sewn pocket entry202 -1.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Hoodie / smooth back seam215.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Sleeve / full fabric wrap201 1.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Sleeve / full fabric wrap201 -1.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Sleeve / sewn cuff201 1.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Sleeve / sewn cuff201 -1.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Sleeve / shaped cuff202 1.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Sleeve / shaped cuff202 -1.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Hair / adjustable front216 1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Hair / adjustable front216 -1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Hair / rounded tail220 0": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Hair / rounded tail220 1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Hair / rounded tail220 2": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Hair / rounded tail220 3": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Hair / rounded tail220 4": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Hair / swept roots220": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Hair / tie220": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Cap / bill stitch212 0.77": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Cap / bill stitch212 0.91": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Cap / cloth button212": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Cap / panel seam212 0": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Cap / panel seam212 1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Cap / panel seam212 2": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Cap / panel seam212 3": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Cap / panel seam212 4": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Cap / panel seam212 5": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Cap / pulse emblem223 0": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Cap / rear adjustment strap212": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Cap / rear strap stitch212": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Cap / sewn crown and curved bill212": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Cap / sewn lower edge212": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "HOT / original compact letters212": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "HOT / original flame silhouette212": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "226 glasses / Accessory / warm metal226": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "226 glasses / Glasses / frame226": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "226 lenses / Glasses / clear non-refracting pane235": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        }
+      },
+      "images": []
+    },
+    "packed": true,
+    "coordinates": "Shared source world coordinates; no per-component centering/resizing",
+    "lens_note": "Actual source lens material. Transmission remains separate from alpha. Browser uses a sharp alpha approximation; native transparency still requires qualification."
+  },
+  "Masculine-hoodie-pants-cap": {
+    "source": "assemblies/Masculine-hoodie-pants-cap262.blend",
+    "glb": "assemblies/Masculine-hoodie-pants-cap262.glb",
+    "selection": {
+      "build": "Masculine",
+      "hair": "taper",
+      "top": "sweatshirt",
+      "bottom": "pants",
+      "headwear": "cap",
+      "eyes": "original",
+      "nose": "none",
+      "mouth": "line",
+      "glasses": "rectangular",
+      "detail": "hot",
+      "groom": "none",
+      "frameColor": "black",
+      "lensTint": "dark",
+      "skin": 1,
+      "colors": "authored originals"
+    },
+    "components": {
+      "base": "components/Masculine-pants-clothed-base.glb",
+      "top": "components/Masculine-hoodie-top.glb",
+      "hair": "../259/components/Masculine-taper-cap259-hair.glb",
+      "headgear": "../251/components/Masculine-taper-cap251-headgear.glb",
+      "extra": "../212/Masculine-extra.glb",
+      "glasses": "../224/components/Masculine-details-glasses.glb",
+      "lenses": "../235/components/Masculine-rectangular-lenses.glb"
+    },
+    "settings": {
+      "blender": "5.2.0 LTS",
+      "coordinates": "Blender right-handed Z-up; front -Y. GLB right-handed Y-up; front +Z. Native glTF export conversion only; all components retain common world coordinates.",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.8799999952316284
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.649999976158142,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.88
+        ],
+        "resolution": [
+          512,
+          512
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ]
+      },
+      "render": {
+        "engine": "CYCLES",
+        "samples": 24,
+        "device": "GPU",
+        "denoising": true,
+        "transparent": false,
+        "seed": 42
+      },
+      "color": {
+        "display_device": "sRGB",
+        "view_transform": "AgX",
+        "look": "None",
+        "exposure": 0.0,
+        "gamma": 1.0
+      },
+      "lights": [
+        {
+          "name": "Key",
+          "matrix_world": [
+            [
+              0.7999999523162842,
+              0.35058289766311646,
+              -0.48692068457603455,
+              -3.0
+            ],
+            [
+              -0.6000000834465027,
+              0.46744364500045776,
+              -0.649227499961853,
+              -4.0
+            ],
+            [
+              -7.590178086047672e-08,
+              0.8115344047546387,
+              0.584304690361023,
+              5.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "type": "AREA",
+          "energy_W": 380.0,
+          "color_linear": [
+            1.0,
+            0.9399999976158142,
+            0.8600000143051147
+          ],
+          "shape": "DISK",
+          "size": 4.0,
+          "size_y": 0.25
+        },
+        {
+          "name": "Blue",
+          "matrix_world": [
+            [
+              -0.2425357848405838,
+              0.3509708046913147,
+              -0.9044312834739685,
+              -4.0
+            ],
+            [
+              -0.9701424837112427,
+              -0.08774279803037643,
+              0.22610795497894287,
+              1.0
+            ],
+            [
+              -3.904946410671073e-08,
+              0.9322664141654968,
+              0.36177244782447815,
+              3.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "type": "AREA",
+          "energy_W": 160.0,
+          "color_linear": [
+            0.5799999833106995,
+            0.7200000286102295,
+            1.0
+          ],
+          "shape": "DISK",
+          "size": 3.0,
+          "size_y": 0.25
+        },
+        {
+          "name": "Lilac",
+          "matrix_world": [
+            [
+              -0.3162277638912201,
+              -0.6025006771087646,
+              0.7327980399131775,
+              3.0
+            ],
+            [
+              0.9486833214759827,
+              -0.20083355903625488,
+              0.24426601827144623,
+              1.0
+            ],
+            [
+              -1.0610615497341769e-08,
+              0.7724369168281555,
+              0.6350914835929871,
+              4.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "type": "AREA",
+          "energy_W": 190.0,
+          "color_linear": [
+            0.800000011920929,
+            0.6399999856948853,
+            1.0
+          ],
+          "shape": "DISK",
+          "size": 3.0,
+          "size_y": 0.25
+        },
+        {
+          "name": "Front",
+          "matrix_world": [
+            [
+              0.9701424837112427,
+              -0.03492620587348938,
+              0.24000772833824158,
+              1.0
+            ],
+            [
+              0.24253566563129425,
+              0.1397048681974411,
+              -0.960030734539032,
+              -4.0
+            ],
+            [
+              -1.657950576827716e-08,
+              0.989577054977417,
+              0.1440044790506363,
+              2.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "type": "AREA",
+          "energy_W": 55.0,
+          "color_linear": [
+            0.8799999952316284,
+            0.9300000071525574,
+            1.0
+          ],
+          "shape": "DISK",
+          "size": 3.0,
+          "size_y": 0.25
+        }
+      ],
+      "world": [
+        {
+          "name": "Background",
+          "type": "BACKGROUND",
+          "inputs": {
+            "Color": [
+              0.07500000298023224,
+              0.10000000149011612,
+              0.17000000178813934,
+              1.0
+            ],
+            "Strength": 0.4000000059604645,
+            "Weight": 0.0
+          }
+        },
+        {
+          "name": "World Output",
+          "type": "OUTPUT_WORLD",
+          "inputs": {}
+        }
+      ],
+      "world_links": [
+        [
+          "Background",
+          "Background",
+          "World Output",
+          "Surface"
+        ]
+      ],
+      "compositor": []
+    },
+    "requirements": {
+      "scene": "224 Masculine-taper",
+      "settings": {
+        "blender": "5.2.0 LTS",
+        "coordinates": "Blender right-handed Z-up; front -Y. GLB right-handed Y-up; front +Z. Native glTF export conversion only; all components retain common world coordinates.",
+        "camera": {
+          "matrix_world": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              -1.6292068494294654e-07,
+              -1.0,
+              -8.0
+            ],
+            [
+              0.0,
+              1.0,
+              -1.6292068494294654e-07,
+              1.8799999952316284
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "type": "ORTHO",
+          "ortho_scale": 1.649999976158142,
+          "clip_start": 0.10000000149011612,
+          "clip_end": 1000.0,
+          "portrait_target": [
+            0,
+            0,
+            1.88
+          ],
+          "resolution": [
+            512,
+            512
+          ],
+          "pixel_aspect": [
+            1.0,
+            1.0
+          ]
+        },
+        "render": {
+          "engine": "CYCLES",
+          "samples": 24,
+          "device": "GPU",
+          "denoising": true,
+          "transparent": false,
+          "seed": 42
+        },
+        "color": {
+          "display_device": "sRGB",
+          "view_transform": "AgX",
+          "look": "None",
+          "exposure": 0.0,
+          "gamma": 1.0
+        },
+        "lights": [
+          {
+            "name": "Key",
+            "matrix_world": [
+              [
+                0.7999999523162842,
+                0.35058289766311646,
+                -0.48692068457603455,
+                -3.0
+              ],
+              [
+                -0.6000000834465027,
+                0.46744364500045776,
+                -0.649227499961853,
+                -4.0
+              ],
+              [
+                -7.590178086047672e-08,
+                0.8115344047546387,
+                0.584304690361023,
+                5.0
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "type": "AREA",
+            "energy_W": 380.0,
+            "color_linear": [
+              1.0,
+              0.9399999976158142,
+              0.8600000143051147
+            ],
+            "shape": "DISK",
+            "size": 4.0,
+            "size_y": 0.25
+          },
+          {
+            "name": "Blue",
+            "matrix_world": [
+              [
+                -0.2425357848405838,
+                0.3509708046913147,
+                -0.9044312834739685,
+                -4.0
+              ],
+              [
+                -0.9701424837112427,
+                -0.08774279803037643,
+                0.22610795497894287,
+                1.0
+              ],
+              [
+                -3.904946410671073e-08,
+                0.9322664141654968,
+                0.36177244782447815,
+                3.0
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "type": "AREA",
+            "energy_W": 160.0,
+            "color_linear": [
+              0.5799999833106995,
+              0.7200000286102295,
+              1.0
+            ],
+            "shape": "DISK",
+            "size": 3.0,
+            "size_y": 0.25
+          },
+          {
+            "name": "Lilac",
+            "matrix_world": [
+              [
+                -0.3162277638912201,
+                -0.6025006771087646,
+                0.7327980399131775,
+                3.0
+              ],
+              [
+                0.9486833214759827,
+                -0.20083355903625488,
+                0.24426601827144623,
+                1.0
+              ],
+              [
+                -1.0610615497341769e-08,
+                0.7724369168281555,
+                0.6350914835929871,
+                4.0
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "type": "AREA",
+            "energy_W": 190.0,
+            "color_linear": [
+              0.800000011920929,
+              0.6399999856948853,
+              1.0
+            ],
+            "shape": "DISK",
+            "size": 3.0,
+            "size_y": 0.25
+          },
+          {
+            "name": "Front",
+            "matrix_world": [
+              [
+                0.9701424837112427,
+                -0.03492620587348938,
+                0.24000772833824158,
+                1.0
+              ],
+              [
+                0.24253566563129425,
+                0.1397048681974411,
+                -0.960030734539032,
+                -4.0
+              ],
+              [
+                -1.657950576827716e-08,
+                0.989577054977417,
+                0.1440044790506363,
+                2.0
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "type": "AREA",
+            "energy_W": 55.0,
+            "color_linear": [
+              0.8799999952316284,
+              0.9300000071525574,
+              1.0
+            ],
+            "shape": "DISK",
+            "size": 3.0,
+            "size_y": 0.25
+          }
+        ],
+        "world": [
+          {
+            "name": "Background",
+            "type": "BACKGROUND",
+            "inputs": {
+              "Color": [
+                0.07500000298023224,
+                0.10000000149011612,
+                0.17000000178813934,
+                1.0
+              ],
+              "Strength": 0.4000000059604645,
+              "Weight": 0.0
+            }
+          },
+          {
+            "name": "World Output",
+            "type": "OUTPUT_WORLD",
+            "inputs": {}
+          }
+        ],
+        "world_links": [
+          [
+            "Background",
+            "Background",
+            "World Output",
+            "Surface"
+          ]
+        ],
+        "compositor": []
+      },
+      "ray_visibility": {
+        "Bottom / clean cut pants hem201 1.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Bottom / clean cut pants hem201 2.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Bottom / continuous pants187.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Bottom / pocket187 1.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Bottom / pocket187 -1.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Bottom / sewn fly187.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Bottom / side seam187 1.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Bottom / side seam187 -1.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Eye / dark oval 1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Eye / dark oval -1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Eye highlight / main 1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Eye highlight / main -1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Eye highlight / small 1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Eye highlight / small -1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Face / relaxed smile185": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Skin / rounded torso": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Skin / soft oval head": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Skin / swept arm 1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Skin / swept arm -1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Clothing / tailored203.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Hoodie / aglet205 1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Hoodie / aglet205 -1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Hoodie / attached opening204.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Hoodie / front seated cord205 1.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Hoodie / front seated cord205 -1.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Hoodie / rolled opening204.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Hoodie / rounded resting hood215.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Hoodie / seated pouch202.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Hoodie / sewn pocket entry202 1.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Hoodie / sewn pocket entry202 -1.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Hoodie / smooth back seam215.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Sleeve / full fabric wrap201 1.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Sleeve / full fabric wrap201 -1.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Sleeve / sewn cuff201 1.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Sleeve / sewn cuff201 -1.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Sleeve / shaped cuff202 1.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Sleeve / shaped cuff202 -1.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "226 hair / Hair258 / sculpted side sweep 0": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "226 hair / Hair258 / sculpted side sweep 1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "226 hair / Hair258 / sculpted side sweep 2": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "226 hair / Hair258 / smooth side fade": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "226 hair / Hair259 / directional fade marks214": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "226 headgear / Cap / ivory emblem223.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "226 headgear / Cap / midnight cotton212.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "226 headgear / Cap / subtle sewing212.001": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "HOT / original compact letters212": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "HOT / original flame silhouette212": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Glasses / bridge212": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Glasses / compact temple213 1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Glasses / compact temple213 -1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Glasses / rounded rectangle212 1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "Glasses / rounded rectangle212 -1": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        },
+        "226 lenses / Glasses / clear non-refracting pane235": {
+          "visible_camera": true,
+          "visible_diffuse": true,
+          "visible_glossy": true,
+          "visible_transmission": true,
+          "visible_volume_scatter": true,
+          "visible_shadow": true
+        }
+      },
+      "images": [
+        {
+          "name": "Hair252 / long normal.001",
+          "dimensions": [
+            512,
+            512
+          ],
+          "packed": true,
+          "source": "FILE"
+        }
+      ]
+    },
+    "packed": true,
+    "coordinates": "Shared source world coordinates; no per-component centering/resizing",
+    "lens_note": "Actual source lens material. Transmission remains separate from alpha. Browser uses a sharp alpha approximation; native transparency still requires qualification."
+  }
+}

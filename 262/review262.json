@@ -1,0 +1,32 @@
+{
+  "revision": 262,
+  "outfit_pairings": 44,
+  "outfit_angles": 8,
+  "final_exported_images": 1269,
+  "capture_breakdown": {
+    "wardrobe": {
+      "images": 438,
+      "errors": [],
+      "http": []
+    },
+    "accessories": {
+      "images": 512,
+      "errors": [],
+      "http": []
+    },
+    "small": {
+      "images": 240,
+      "errors": [],
+      "http": []
+    },
+    "groom_contacts": {
+      "images": 63
+    },
+    "assembled_glb": {
+      "images": 16
+    }
+  },
+  "local_feature_checks": 135,
+  "second_pass": "Reinspect actual exported geometry, hidden-arm contacts, top/bottom details, headgear/glasses matrices, all4 tones and exact small outputs. Three source/export passes; stripe and sleeve-merge trials rejected.",
+  "qualification": "Source/export/browser artwork validation. Native rendering, transparent optics and phone performance remain separate."
+}

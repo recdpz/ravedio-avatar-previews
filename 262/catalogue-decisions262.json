@@ -1,0 +1,121 @@
+{
+  "decisions": {
+    "status": "Owner-directed artwork catalogue; no wire IDs or encoders changed",
+    "eyes": [
+      "original",
+      "tapered",
+      "hooded",
+      "bean"
+    ],
+    "retired_review_eyes": {
+      "almond": "tapered",
+      "squint": "hooded"
+    },
+    "canonical_colors": {
+      "hair": [
+        "black",
+        "ombre",
+        "darkbrown",
+        "auburn",
+        "blonde",
+        "platinum",
+        "pink",
+        "purple"
+      ],
+      "top": [
+        "black",
+        "white",
+        "blue",
+        "teal",
+        "purple",
+        "pink",
+        "red",
+        "lime"
+      ],
+      "bottom": [
+        "black",
+        "white",
+        "gray",
+        "navy",
+        "blue",
+        "khaki",
+        "red",
+        "pink"
+      ],
+      "headgear": [
+        "black",
+        "white",
+        "gray",
+        "navy",
+        "blue",
+        "khaki",
+        "red",
+        "pink"
+      ]
+    },
+    "default_rule": "Original (review) is a source-color preset, not a ninth color. It resolves to the contextual authored palette entry. Selecting that entry retains the original fabric/hair material variation rather than flattening it to one HEX.",
+    "brown": "Brown uses authored brown materials; the redundant darker-brown review treatment is retired with261.",
+    "lens_rule": "Dark by default except Reading clear; alternative lens preview and lash hiding are review controls, not new profile bits."
+  },
+  "contextual_authored_colors": {
+    "hair": {
+      "Feminine": "darkbrown",
+      "Masculine": "darkbrown"
+    },
+    "top": {
+      "Feminine": {
+        "bandeau": "black",
+        "triangle": "teal",
+        "strappy": "pink",
+        "tshirt": "teal",
+        "jersey": "black",
+        "open": "purple",
+        "tank": "teal",
+        "sweatshirt": "purple"
+      },
+      "Masculine": {
+        "shirtless": null,
+        "tank": "teal",
+        "tshirt": "teal",
+        "jersey": "black",
+        "buttonup": "blue",
+        "sweatshirt": "purple"
+      }
+    },
+    "bottom": {
+      "Feminine": {
+        "shorts": "black",
+        "skirt": "black",
+        "bikini": "black",
+        "pants": "black"
+      },
+      "Masculine": {
+        "shorts": "black",
+        "pants": "black"
+      }
+    },
+    "headgear": {
+      "Feminine": {
+        "none": null,
+        "cap": "red",
+        "beanie": "blue",
+        "bucket": "gray",
+        "cowboy": "khaki",
+        "headband": "black",
+        "ears": "gray",
+        "pashmina": "black"
+      },
+      "Masculine": {
+        "none": null,
+        "cap": "navy",
+        "beanie": "blue",
+        "bucket": "gray",
+        "cowboy": "khaki",
+        "headband": "black",
+        "ears": "gray",
+        "pashmina": "black"
+      }
+    }
+  },
+  "no_wire_or_product_change": true
+}

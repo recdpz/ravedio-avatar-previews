@@ -1,0 +1,1470 @@
+{
+  "revision": 262,
+  "pairs": [
+    {
+      "build": "Feminine",
+      "fixture": "Feminine-hoodie-pants-cap",
+      "skin": 0,
+      "size": 120,
+      "preset": "reference",
+      "color": "references/Feminine-hoodie-pants-cap-reference-skin0-120-paired262-color.png",
+      "depth": "references/Feminine-hoodie-pants-cap-reference-skin0-120-paired262-depth.exr",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.8799999952316284
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.649999976158142,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.88
+        ],
+        "resolution": [
+          120,
+          120
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ],
+        "preset": "reference"
+      },
+      "geometry_revision": 262,
+      "alpha_threshold": 0.5,
+      "finite_depth_range": [
+        7.311935901641846,
+        8.139439582824707
+      ]
+    },
+    {
+      "build": "Feminine",
+      "fixture": "Feminine-hoodie-pants-cap",
+      "skin": 0,
+      "size": 512,
+      "preset": "reference",
+      "color": "references/Feminine-hoodie-pants-cap-reference-skin0-512-paired262-color.png",
+      "depth": "references/Feminine-hoodie-pants-cap-reference-skin0-512-paired262-depth.exr",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.8799999952316284
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.649999976158142,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.88
+        ],
+        "resolution": [
+          512,
+          512
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ],
+        "preset": "reference"
+      },
+      "geometry_revision": 262,
+      "alpha_threshold": 0.5,
+      "finite_depth_range": [
+        7.309856414794922,
+        8.143027305603027
+      ]
+    },
+    {
+      "build": "Feminine",
+      "fixture": "Feminine-hoodie-pants-cap",
+      "skin": 3,
+      "size": 120,
+      "preset": "reference",
+      "color": "references/Feminine-hoodie-pants-cap-reference-skin3-120-paired262-color.png",
+      "depth": "references/Feminine-hoodie-pants-cap-reference-skin3-120-paired262-depth.exr",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.8799999952316284
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.649999976158142,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.88
+        ],
+        "resolution": [
+          120,
+          120
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ],
+        "preset": "reference"
+      },
+      "geometry_revision": 262,
+      "alpha_threshold": 0.5,
+      "finite_depth_range": [
+        7.311935901641846,
+        8.139439582824707
+      ]
+    },
+    {
+      "build": "Feminine",
+      "fixture": "Feminine-hoodie-pants-cap",
+      "skin": 3,
+      "size": 512,
+      "preset": "reference",
+      "color": "references/Feminine-hoodie-pants-cap-reference-skin3-512-paired262-color.png",
+      "depth": "references/Feminine-hoodie-pants-cap-reference-skin3-512-paired262-depth.exr",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.8799999952316284
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.649999976158142,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.88
+        ],
+        "resolution": [
+          512,
+          512
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ],
+        "preset": "reference"
+      },
+      "geometry_revision": 262,
+      "alpha_threshold": 0.5,
+      "finite_depth_range": [
+        7.309856414794922,
+        8.143027305603027
+      ]
+    },
+    {
+      "build": "Feminine",
+      "fixture": "Feminine-hoodie-pants-cap",
+      "skin": 0,
+      "size": 32,
+      "preset": "chat",
+      "color": "references/Feminine-hoodie-pants-cap-chat-skin0-32-paired262-color.png",
+      "depth": "references/Feminine-hoodie-pants-cap-chat-skin0-32-paired262-depth.exr",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.899999976158142
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.350000023841858,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.9
+        ],
+        "resolution": [
+          32,
+          32
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ],
+        "preset": "chat"
+      },
+      "geometry_revision": 262,
+      "alpha_threshold": 0.5,
+      "finite_depth_range": [
+        7.346614837646484,
+        8.138297080993652
+      ]
+    },
+    {
+      "build": "Feminine",
+      "fixture": "Feminine-hoodie-pants-cap",
+      "skin": 0,
+      "size": 48,
+      "preset": "chat",
+      "color": "references/Feminine-hoodie-pants-cap-chat-skin0-48-paired262-color.png",
+      "depth": "references/Feminine-hoodie-pants-cap-chat-skin0-48-paired262-depth.exr",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.899999976158142
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.350000023841858,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.9
+        ],
+        "resolution": [
+          48,
+          48
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ],
+        "preset": "chat"
+      },
+      "geometry_revision": 262,
+      "alpha_threshold": 0.5,
+      "finite_depth_range": [
+        7.310327053070068,
+        8.1415376663208
+      ]
+    },
+    {
+      "build": "Feminine",
+      "fixture": "Feminine-hoodie-pants-cap",
+      "skin": 0,
+      "size": 64,
+      "preset": "chat",
+      "color": "references/Feminine-hoodie-pants-cap-chat-skin0-64-paired262-color.png",
+      "depth": "references/Feminine-hoodie-pants-cap-chat-skin0-64-paired262-depth.exr",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.899999976158142
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.350000023841858,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.9
+        ],
+        "resolution": [
+          64,
+          64
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ],
+        "preset": "chat"
+      },
+      "geometry_revision": 262,
+      "alpha_threshold": 0.5,
+      "finite_depth_range": [
+        7.324213981628418,
+        8.13902473449707
+      ]
+    },
+    {
+      "build": "Feminine",
+      "fixture": "Feminine-hoodie-pants-cap",
+      "skin": 0,
+      "size": 120,
+      "preset": "chat",
+      "color": "references/Feminine-hoodie-pants-cap-chat-skin0-120-paired262-color.png",
+      "depth": "references/Feminine-hoodie-pants-cap-chat-skin0-120-paired262-depth.exr",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.899999976158142
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.350000023841858,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.9
+        ],
+        "resolution": [
+          120,
+          120
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ],
+        "preset": "chat"
+      },
+      "geometry_revision": 262,
+      "alpha_threshold": 0.5,
+      "finite_depth_range": [
+        7.310454368591309,
+        8.141717910766602
+      ]
+    },
+    {
+      "build": "Feminine",
+      "fixture": "Feminine-hoodie-pants-cap",
+      "skin": 3,
+      "size": 32,
+      "preset": "chat",
+      "color": "references/Feminine-hoodie-pants-cap-chat-skin3-32-paired262-color.png",
+      "depth": "references/Feminine-hoodie-pants-cap-chat-skin3-32-paired262-depth.exr",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.899999976158142
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.350000023841858,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.9
+        ],
+        "resolution": [
+          32,
+          32
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ],
+        "preset": "chat"
+      },
+      "geometry_revision": 262,
+      "alpha_threshold": 0.5,
+      "finite_depth_range": [
+        7.346614837646484,
+        8.138297080993652
+      ]
+    },
+    {
+      "build": "Feminine",
+      "fixture": "Feminine-hoodie-pants-cap",
+      "skin": 3,
+      "size": 48,
+      "preset": "chat",
+      "color": "references/Feminine-hoodie-pants-cap-chat-skin3-48-paired262-color.png",
+      "depth": "references/Feminine-hoodie-pants-cap-chat-skin3-48-paired262-depth.exr",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.899999976158142
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.350000023841858,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.9
+        ],
+        "resolution": [
+          48,
+          48
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ],
+        "preset": "chat"
+      },
+      "geometry_revision": 262,
+      "alpha_threshold": 0.5,
+      "finite_depth_range": [
+        7.310327053070068,
+        8.1415376663208
+      ]
+    },
+    {
+      "build": "Feminine",
+      "fixture": "Feminine-hoodie-pants-cap",
+      "skin": 3,
+      "size": 64,
+      "preset": "chat",
+      "color": "references/Feminine-hoodie-pants-cap-chat-skin3-64-paired262-color.png",
+      "depth": "references/Feminine-hoodie-pants-cap-chat-skin3-64-paired262-depth.exr",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.899999976158142
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.350000023841858,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.9
+        ],
+        "resolution": [
+          64,
+          64
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ],
+        "preset": "chat"
+      },
+      "geometry_revision": 262,
+      "alpha_threshold": 0.5,
+      "finite_depth_range": [
+        7.324213981628418,
+        8.13902473449707
+      ]
+    },
+    {
+      "build": "Feminine",
+      "fixture": "Feminine-hoodie-pants-cap",
+      "skin": 3,
+      "size": 120,
+      "preset": "chat",
+      "color": "references/Feminine-hoodie-pants-cap-chat-skin3-120-paired262-color.png",
+      "depth": "references/Feminine-hoodie-pants-cap-chat-skin3-120-paired262-depth.exr",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.899999976158142
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.350000023841858,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.9
+        ],
+        "resolution": [
+          120,
+          120
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ],
+        "preset": "chat"
+      },
+      "geometry_revision": 262,
+      "alpha_threshold": 0.5,
+      "finite_depth_range": [
+        7.310454368591309,
+        8.141717910766602
+      ]
+    },
+    {
+      "build": "Masculine",
+      "fixture": "Masculine-hoodie-pants-cap",
+      "skin": 0,
+      "size": 120,
+      "preset": "reference",
+      "color": "references/Masculine-hoodie-pants-cap-reference-skin0-120-paired262-color.png",
+      "depth": "references/Masculine-hoodie-pants-cap-reference-skin0-120-paired262-depth.exr",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.8799999952316284
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.649999976158142,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.88
+        ],
+        "resolution": [
+          120,
+          120
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ],
+        "preset": "reference"
+      },
+      "geometry_revision": 262,
+      "alpha_threshold": 0.5,
+      "finite_depth_range": [
+        7.343914031982422,
+        8.138631820678711
+      ]
+    },
+    {
+      "build": "Masculine",
+      "fixture": "Masculine-hoodie-pants-cap",
+      "skin": 0,
+      "size": 512,
+      "preset": "reference",
+      "color": "references/Masculine-hoodie-pants-cap-reference-skin0-512-paired262-color.png",
+      "depth": "references/Masculine-hoodie-pants-cap-reference-skin0-512-paired262-depth.exr",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.8799999952316284
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.649999976158142,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.88
+        ],
+        "resolution": [
+          512,
+          512
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ],
+        "preset": "reference"
+      },
+      "geometry_revision": 262,
+      "alpha_threshold": 0.5,
+      "finite_depth_range": [
+        7.343862056732178,
+        8.149679183959961
+      ]
+    },
+    {
+      "build": "Masculine",
+      "fixture": "Masculine-hoodie-pants-cap",
+      "skin": 3,
+      "size": 120,
+      "preset": "reference",
+      "color": "references/Masculine-hoodie-pants-cap-reference-skin3-120-paired262-color.png",
+      "depth": "references/Masculine-hoodie-pants-cap-reference-skin3-120-paired262-depth.exr",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.8799999952316284
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.649999976158142,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.88
+        ],
+        "resolution": [
+          120,
+          120
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ],
+        "preset": "reference"
+      },
+      "geometry_revision": 262,
+      "alpha_threshold": 0.5,
+      "finite_depth_range": [
+        7.343914031982422,
+        8.138631820678711
+      ]
+    },
+    {
+      "build": "Masculine",
+      "fixture": "Masculine-hoodie-pants-cap",
+      "skin": 3,
+      "size": 512,
+      "preset": "reference",
+      "color": "references/Masculine-hoodie-pants-cap-reference-skin3-512-paired262-color.png",
+      "depth": "references/Masculine-hoodie-pants-cap-reference-skin3-512-paired262-depth.exr",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.8799999952316284
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.649999976158142,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.88
+        ],
+        "resolution": [
+          512,
+          512
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ],
+        "preset": "reference"
+      },
+      "geometry_revision": 262,
+      "alpha_threshold": 0.5,
+      "finite_depth_range": [
+        7.343862056732178,
+        8.149679183959961
+      ]
+    },
+    {
+      "build": "Masculine",
+      "fixture": "Masculine-hoodie-pants-cap",
+      "skin": 0,
+      "size": 32,
+      "preset": "chat",
+      "color": "references/Masculine-hoodie-pants-cap-chat-skin0-32-paired262-color.png",
+      "depth": "references/Masculine-hoodie-pants-cap-chat-skin0-32-paired262-depth.exr",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.899999976158142
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.350000023841858,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.9
+        ],
+        "resolution": [
+          32,
+          32
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ],
+        "preset": "chat"
+      },
+      "geometry_revision": 262,
+      "alpha_threshold": 0.5,
+      "finite_depth_range": [
+        7.437412261962891,
+        8.128819465637207
+      ]
+    },
+    {
+      "build": "Masculine",
+      "fixture": "Masculine-hoodie-pants-cap",
+      "skin": 0,
+      "size": 48,
+      "preset": "chat",
+      "color": "references/Masculine-hoodie-pants-cap-chat-skin0-48-paired262-color.png",
+      "depth": "references/Masculine-hoodie-pants-cap-chat-skin0-48-paired262-depth.exr",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.899999976158142
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.350000023841858,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.9
+        ],
+        "resolution": [
+          48,
+          48
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ],
+        "preset": "chat"
+      },
+      "geometry_revision": 262,
+      "alpha_threshold": 0.5,
+      "finite_depth_range": [
+        7.35860013961792,
+        8.120807647705078
+      ]
+    },
+    {
+      "build": "Masculine",
+      "fixture": "Masculine-hoodie-pants-cap",
+      "skin": 0,
+      "size": 64,
+      "preset": "chat",
+      "color": "references/Masculine-hoodie-pants-cap-chat-skin0-64-paired262-color.png",
+      "depth": "references/Masculine-hoodie-pants-cap-chat-skin0-64-paired262-depth.exr",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.899999976158142
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.350000023841858,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.9
+        ],
+        "resolution": [
+          64,
+          64
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ],
+        "preset": "chat"
+      },
+      "geometry_revision": 262,
+      "alpha_threshold": 0.5,
+      "finite_depth_range": [
+        7.343916893005371,
+        8.120133399963379
+      ]
+    },
+    {
+      "build": "Masculine",
+      "fixture": "Masculine-hoodie-pants-cap",
+      "skin": 0,
+      "size": 120,
+      "preset": "chat",
+      "color": "references/Masculine-hoodie-pants-cap-chat-skin0-120-paired262-color.png",
+      "depth": "references/Masculine-hoodie-pants-cap-chat-skin0-120-paired262-depth.exr",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.899999976158142
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.350000023841858,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.9
+        ],
+        "resolution": [
+          120,
+          120
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ],
+        "preset": "chat"
+      },
+      "geometry_revision": 262,
+      "alpha_threshold": 0.5,
+      "finite_depth_range": [
+        7.343978404998779,
+        8.13676929473877
+      ]
+    },
+    {
+      "build": "Masculine",
+      "fixture": "Masculine-hoodie-pants-cap",
+      "skin": 3,
+      "size": 32,
+      "preset": "chat",
+      "color": "references/Masculine-hoodie-pants-cap-chat-skin3-32-paired262-color.png",
+      "depth": "references/Masculine-hoodie-pants-cap-chat-skin3-32-paired262-depth.exr",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.899999976158142
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.350000023841858,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.9
+        ],
+        "resolution": [
+          32,
+          32
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ],
+        "preset": "chat"
+      },
+      "geometry_revision": 262,
+      "alpha_threshold": 0.5,
+      "finite_depth_range": [
+        7.437412261962891,
+        8.128819465637207
+      ]
+    },
+    {
+      "build": "Masculine",
+      "fixture": "Masculine-hoodie-pants-cap",
+      "skin": 3,
+      "size": 48,
+      "preset": "chat",
+      "color": "references/Masculine-hoodie-pants-cap-chat-skin3-48-paired262-color.png",
+      "depth": "references/Masculine-hoodie-pants-cap-chat-skin3-48-paired262-depth.exr",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.899999976158142
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.350000023841858,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.9
+        ],
+        "resolution": [
+          48,
+          48
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ],
+        "preset": "chat"
+      },
+      "geometry_revision": 262,
+      "alpha_threshold": 0.5,
+      "finite_depth_range": [
+        7.35860013961792,
+        8.120807647705078
+      ]
+    },
+    {
+      "build": "Masculine",
+      "fixture": "Masculine-hoodie-pants-cap",
+      "skin": 3,
+      "size": 64,
+      "preset": "chat",
+      "color": "references/Masculine-hoodie-pants-cap-chat-skin3-64-paired262-color.png",
+      "depth": "references/Masculine-hoodie-pants-cap-chat-skin3-64-paired262-depth.exr",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.899999976158142
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.350000023841858,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.9
+        ],
+        "resolution": [
+          64,
+          64
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ],
+        "preset": "chat"
+      },
+      "geometry_revision": 262,
+      "alpha_threshold": 0.5,
+      "finite_depth_range": [
+        7.343916893005371,
+        8.120133399963379
+      ]
+    },
+    {
+      "build": "Masculine",
+      "fixture": "Masculine-hoodie-pants-cap",
+      "skin": 3,
+      "size": 120,
+      "preset": "chat",
+      "color": "references/Masculine-hoodie-pants-cap-chat-skin3-120-paired262-color.png",
+      "depth": "references/Masculine-hoodie-pants-cap-chat-skin3-120-paired262-depth.exr",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.899999976158142
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "type": "ORTHO",
+        "ortho_scale": 1.350000023841858,
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0,
+        "portrait_target": [
+          0,
+          0,
+          1.9
+        ],
+        "resolution": [
+          120,
+          120
+        ],
+        "pixel_aspect": [
+          1.0,
+          1.0
+        ],
+        "preset": "chat"
+      },
+      "geometry_revision": 262,
+      "alpha_threshold": 0.5,
+      "finite_depth_range": [
+        7.343978404998779,
+        8.13676929473877
+      ]
+    }
+  ],
+  "definition": "Matched color and32-bit linear Z from final actual GLBs. Same geometry/camera/version per pair. Depth describes the nearest surface, not transmitted/refracted light; lens qualification remains separate."
+}

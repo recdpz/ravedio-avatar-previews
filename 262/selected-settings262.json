@@ -1,0 +1,105 @@
+{
+  "tops": {
+    "Feminine-triangle": {
+      "source": "E:\\Ravedio-Avatar\\catalogue262\\pass3\\sources\\Feminine-triangle-top262.blend",
+      "path": "fix262-Feminine-triangle-top.glb",
+      "changes": [
+        {
+          "name": "Clothing / clean triangle214 1.001",
+          "vertices": 38914,
+          "max_shift": 0.014121538099757639
+        },
+        {
+          "name": "Clothing / clean triangle214 -1.001",
+          "vertices": 38924,
+          "max_shift": 0.014126944233530147
+        },
+        {
+          "semantic_parts": []
+        }
+      ],
+      "protected_non_top_geometry_exact": true,
+      "packed_component_source": "source/Feminine-triangle-top262.blend"
+    },
+    "Feminine-sweatshirt": {
+      "source": "E:\\Ravedio-Avatar\\catalogue262\\pass3\\sources\\Feminine-sweatshirt-top262.blend",
+      "path": "fix262-Feminine-sweatshirt-top.glb",
+      "changes": [
+        {
+          "name": "Hoodie / rounded resting hood215.001",
+          "vertices": 11729,
+          "max_rear_seating": 0.02997266144752503
+        },
+        {
+          "name": "Hoodie / smooth back seam215.001",
+          "vertices": 670,
+          "max_rear_seating": 0.03011211694478989
+        },
+        {
+          "semantic_parts": []
+        }
+      ],
+      "protected_non_top_geometry_exact": true,
+      "packed_component_source": "source/Feminine-sweatshirt-top262.blend"
+    },
+    "Masculine-sweatshirt": {
+      "source": "E:\\Ravedio-Avatar\\catalogue262\\pass3\\sources\\Masculine-sweatshirt-top262.blend",
+      "path": "fix262-Masculine-sweatshirt-top.glb",
+      "changes": [
+        {
+          "name": "Hoodie / rounded resting hood215.001",
+          "vertices": 12340,
+          "max_rear_seating": 0.030012373042106633
+        },
+        {
+          "name": "Hoodie / smooth back seam215.001",
+          "vertices": 670,
+          "max_rear_seating": 0.030163664531707768
+        },
+        {
+          "semantic_parts": []
+        }
+      ],
+      "protected_non_top_geometry_exact": true,
+      "packed_component_source": "source/Masculine-sweatshirt-top262.blend"
+    }
+  },
+  "pants_bases": {
+    "Feminine-clothed": {
+      "source": "../224/components/Feminine-uncovered-base.glb",
+      "path": "fix262-Feminine-pants-clothed-base.glb",
+      "binary_data_exact": true,
+      "retained_transforms_materials_exact": true,
+      "omitted_nodes": [
+        "Skin / leg blob 1",
+        "Skin / leg blob -1"
+      ]
+    },
+    "Masculine-clothed": {
+      "source": "../224/components/Masculine-taper-base.glb",
+      "path": "fix262-Masculine-pants-clothed-base.glb",
+      "binary_data_exact": true,
+      "retained_transforms_materials_exact": true,
+      "omitted_nodes": [
+        "Skin / leg blob 1",
+        "Skin / leg blob -1"
+      ]
+    },
+    "Masculine-shirtless": {
+      "source": "../208/Masculine-shirtless-base.glb",
+      "path": "fix262-Masculine-pants-shirtless-base.glb",
+      "binary_data_exact": true,
+      "retained_transforms_materials_exact": true,
+      "omitted_nodes": [
+        "Skin / leg blob 1",
+        "Skin / leg blob -1"
+      ]
+    }
+  },
+  "final_pass": "pass3",
+  "rejected_trials": {
+    "pass1": "Projection clamped cloth thickness; striping; material grouping merged sleeve trim",
+    "pass2": "Geometry improved but exporter still joined semantic pieces"
+  },
+  "shared_coordinates": true
+}
