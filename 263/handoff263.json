@@ -1,7 +1,7 @@
 {
   "revision": 263,
   "supersedes": "262 pants-only bases and its two assembled pants fixtures. All other262 work retained.",
-  "asset_commit": "pending",
+  "asset_commit": "0ebb080360831c50186f778315ecde054865882e",
   "catalogue": "catalogue263.json",
   "components": "components/",
   "assemblies": "assemblies263.json",
@@ -26,5 +26,6 @@
     "matched_pairs": 24,
     "retained_prior_glbs": 1070
   },
-  "preview": "https://recdpz.github.io/ravedio-avatar-previews/263/?build=Feminine&hair=ponytail&top=sweatshirt&bottom=pants&headwear=none&mode=body&angle=threequarter"
+  "preview": "https://recdpz.github.io/ravedio-avatar-previews/263/?build=Feminine&hair=ponytail&top=sweatshirt&bottom=pants&headwear=none&mode=body&angle=threequarter",
+  "asset_base": "https://raw.githubusercontent.com/recdpz/ravedio-avatar-previews/0ebb080360831c50186f778315ecde054865882e/263/"
 }

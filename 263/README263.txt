@@ -8,4 +8,4 @@ Rechecked every top with pants from eight angles, enlarged cuffs and undersides,
 
 Rendering handoff: handoff263.json, assemblies263.json, technical263.json and depth263.json. Two packed scenes, five ordinary GLBs,24 freshly paired color/depth outputs. Native optics and phone performance remain separate qualification work. No profile-byte changes.
 
-Immutable binary source: pending
+Immutable binary source: https://raw.githubusercontent.com/recdpz/ravedio-avatar-previews/0ebb080360831c50186f778315ecde054865882e/263/
