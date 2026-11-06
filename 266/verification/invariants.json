@@ -1,0 +1,611 @@
+[
+  {
+    "file": "./assets/Feminine-Feminine-uncovered-base-b9d435ff.glb",
+    "role": "base",
+    "head_radius_error": 1.1649785636169696e-07,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Feminine-Feminine-pants-clothed-base263-8fa7df47.glb",
+    "role": "base",
+    "head_radius_error": 1.1649785636169696e-07,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Feminine-Feminine-uncovered-hair-764dfc05.glb",
+    "role": "hair",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Feminine-Feminine-straight-hair261-86e8edb4.glb",
+    "role": "hair",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Feminine-Feminine-curls-hair261-1726d578.glb",
+    "role": "hair",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Feminine-Feminine-eyes-original-b08a82ec.glb",
+    "role": "eyes",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Feminine-Feminine-eyes-tapered-1f60a1db.glb",
+    "role": "eyes",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Feminine-Feminine-eyes-hooded-1096c1e2.glb",
+    "role": "eyes",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Feminine-Feminine-eyes-bean-79354f4c.glb",
+    "role": "eyes",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Feminine-Feminine-mouth-line-9b6f83b8.glb",
+    "role": "mouth",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Feminine-Feminine-original-lashes-5d67b354.glb",
+    "role": "lashes",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Feminine-Feminine-tapered-lashes-0b170243.glb",
+    "role": "lashes",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Feminine-Feminine-hooded-lashes-c429f391.glb",
+    "role": "lashes",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Feminine-Feminine-bean-lashes-f96758f5.glb",
+    "role": "lashes",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Feminine-Feminine-cap-hair-16ae3440.glb",
+    "role": "hair",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Feminine-Feminine-cap-headgear-cdf901be.glb",
+    "role": "headgear",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Feminine-Feminine-ponytail-pashmina251-hair-e7682a1e.glb",
+    "role": "hair",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Feminine-Feminine-ponytail-pashmina251-headgear-6468fd1e.glb",
+    "role": "headgear",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": 0.0100068106802777,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Feminine-Feminine-ponytail-tank-pashmina251-headgear-71c2f22c.glb",
+    "role": "headgear",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": 0.008633469306600472,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Feminine-Feminine-ponytail-tshirt-pashmina251-headgear-bd01fb6c.glb",
+    "role": "headgear",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": 0.0099250415280554,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Feminine-Feminine-ponytail-jersey-pashmina251-headgear-41885bef.glb",
+    "role": "headgear",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": 0.0098882736485294,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Feminine-Feminine-ponytail-open-pashmina251-headgear-45db9f31.glb",
+    "role": "headgear",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": 0.0100068106802777,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Feminine-Feminine-ponytail-sweatshirt-pashmina251-headgear-10ab83d2.glb",
+    "role": "headgear",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": 0.010066069097987351,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Feminine-Feminine-straight-cap261-hair-2c499f7c.glb",
+    "role": "hair",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Feminine-Feminine-cap-headgear-ae186d8b.glb",
+    "role": "headgear",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Feminine-Feminine-straight-pashmina261-hair-07081bd6.glb",
+    "role": "hair",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Feminine-Feminine-straight-open-pashmina250-headgear-0f399e15.glb",
+    "role": "headgear",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": 0.0100068106802777,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Feminine-Feminine-straight-tank-pashmina250-headgear-648ef9c3.glb",
+    "role": "headgear",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": 0.008633469306600472,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Feminine-Feminine-straight-tshirt-pashmina250-headgear-b949cf31.glb",
+    "role": "headgear",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": 0.0099250415280554,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Feminine-Feminine-straight-jersey-pashmina250-headgear-78373d4b.glb",
+    "role": "headgear",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": 0.0098882736485294,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Feminine-Feminine-straight-sweatshirt-pashmina250-headgear-b7ba2e8c.glb",
+    "role": "headgear",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": 0.010066069097987351,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Feminine-Feminine-curls-cap261-hair-346cf7ad.glb",
+    "role": "hair",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Feminine-Feminine-curls-pashmina261-hair-c2b8fad2.glb",
+    "role": "hair",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Feminine-Feminine-curls-open-pashmina250-headgear-061ff4b7.glb",
+    "role": "headgear",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": 0.0100068106802777,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Feminine-Feminine-curls-tank-pashmina250-headgear-7583be13.glb",
+    "role": "headgear",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": 0.008633469306600472,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Feminine-Feminine-curls-tshirt-pashmina250-headgear-f651840d.glb",
+    "role": "headgear",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": 0.0099250415280554,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Feminine-Feminine-curls-jersey-pashmina250-headgear-52d0b367.glb",
+    "role": "headgear",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": 0.0098882736485294,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Feminine-Feminine-curls-sweatshirt-pashmina250-headgear-5b869d53.glb",
+    "role": "headgear",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": 0.010066069097987351,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Feminine-Feminine-details-glasses-bed239d9.glb",
+    "role": "glasses",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Feminine-Feminine-rectangular-lenses-96d7d740.glb",
+    "role": "lenses",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Feminine-Feminine-reading-glasses-b39c32dc.glb",
+    "role": "glasses",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Feminine-Feminine-reading-lenses-5ccfab34.glb",
+    "role": "lenses",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-taper-base-4ee10f1a.glb",
+    "role": "base",
+    "head_radius_error": 1.1649785636169696e-07,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-pants-clothed-base263-cea1c7fa.glb",
+    "role": "base",
+    "head_radius_error": 1.1649785636169696e-07,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-taper-hair259-8be430eb.glb",
+    "role": "hair",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-flow-hair261-bb7ff5dc.glb",
+    "role": "hair",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-middle-part-hair261-2283dcc5.glb",
+    "role": "hair",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-eyes-original-92732458.glb",
+    "role": "eyes",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-eyes-tapered-e82a58bc.glb",
+    "role": "eyes",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-eyes-hooded-425d2a38.glb",
+    "role": "eyes",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-eyes-bean-e412c8c0.glb",
+    "role": "eyes",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-mouth-line-663a5e81.glb",
+    "role": "mouth",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-groom-stubble-4918a94d.glb",
+    "role": "groom",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-groom-mustache-145c8472.glb",
+    "role": "groom",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-groom-patch-10327d59.glb",
+    "role": "groom",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-groom-goatee-39dc227c.glb",
+    "role": "groom",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-groom-short-b9b78a24.glb",
+    "role": "groom",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-groom-long-1250ee1a.glb",
+    "role": "groom",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-taper-cap259-hair-b6342c16.glb",
+    "role": "hair",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-taper-cap251-headgear-acec4fb0.glb",
+    "role": "headgear",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-taper-pashmina259-hair-61c83994.glb",
+    "role": "hair",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-taper-pashmina251-headgear-de17ba34.glb",
+    "role": "headgear",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": 0.01010100704613165,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-taper-tank-pashmina250-headgear-577bc44d.glb",
+    "role": "headgear",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": 0.01010100704613165,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-taper-tshirt-pashmina250-headgear-a583abdd.glb",
+    "role": "headgear",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": 0.010107197188303163,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-taper-jersey-pashmina250-headgear-1f84a86f.glb",
+    "role": "headgear",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": 0.009978592189607505,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-taper-buttonup-pashmina250-headgear-3f073d6d.glb",
+    "role": "headgear",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": 0.010098657521780241,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-taper-sweatshirt-pashmina250-headgear-9de84c16.glb",
+    "role": "headgear",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": 0.01011449947130122,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-flow-cap261-hair-7cb783ac.glb",
+    "role": "hair",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-flow-cap251-headgear-819a8dbe.glb",
+    "role": "headgear",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-flow-pashmina261-hair-06c0b1e1.glb",
+    "role": "hair",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-flow-pashmina251-headgear-ae69a063.glb",
+    "role": "headgear",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": 0.01010100704613165,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-flow-tank-pashmina250-headgear-7d17809e.glb",
+    "role": "headgear",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": 0.01010100704613165,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-flow-tshirt-pashmina250-headgear-f4e31eff.glb",
+    "role": "headgear",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": 0.010107197188303163,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-flow-jersey-pashmina250-headgear-2b596f3f.glb",
+    "role": "headgear",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": 0.009978592189607505,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-flow-buttonup-pashmina250-headgear-a7dd7407.glb",
+    "role": "headgear",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": 0.010098657521780241,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-flow-sweatshirt-pashmina250-headgear-7dc2ccd5.glb",
+    "role": "headgear",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": 0.01011449947130122,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-middle-part-cap261-hair-40cb142d.glb",
+    "role": "hair",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-middle-part-cap251-headgear-c9e4d285.glb",
+    "role": "headgear",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-middle-part-pashmina261-hair-cacd18e8.glb",
+    "role": "hair",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-middle-part-pashmina251-headgear-5d108858.glb",
+    "role": "headgear",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": 0.01010100704613165,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-middle-part-tank-pashmina250-headgear-6aa54bea.glb",
+    "role": "headgear",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": 0.01010100704613165,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-middle-part-tshirt-pashmina250-headgear-f8bb9be2.glb",
+    "role": "headgear",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": 0.010107197188303163,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-middle-part-jersey-pashmina250-headgear-80ee5d8e.glb",
+    "role": "headgear",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": 0.009978592189607505,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-middle-part-buttonup-pashmina250-headgear-13372ad4.glb",
+    "role": "headgear",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": 0.010098657521780241,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-middle-part-sweatshirt-pashmina250-headgear-7a521b6c.glb",
+    "role": "headgear",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": 0.01011449947130122,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-details-glasses-2d913f32.glb",
+    "role": "glasses",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  },
+  {
+    "file": "./assets/Masculine-Masculine-rectangular-lenses-71f90cbf.glb",
+    "role": "lenses",
+    "head_radius_error": null,
+    "pashmina_sampled_clearance": null,
+    "body_materials_topology_other_attributes_preserved": true
+  }
+]

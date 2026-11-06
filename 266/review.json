@@ -1,0 +1,34 @@
+{
+  "scope": "Spherical candidate fit evaluation, not catalogue adoption or native rendering qualification.",
+  "source": "263 catalogue and265 sphere direction",
+  "geometry": "Same0.48 radius sphere, original head center and width. Body/clothing/arms/legs and source material palettes preserved.",
+  "checks": {
+    "body_outfit_angle_pairs": 104,
+    "facial_hair_angle_pairs": 56,
+    "small_portrait_pairs": 64,
+    "optics_pairs": 8,
+    "mobile_widths": [
+      320,
+      390,
+      844
+    ],
+    "derived_glbs": 87,
+    "visual_passes": 2,
+    "pashmina_closeup_angle_pairs": 25,
+    "pointer_orbit_zoom": true
+  },
+  "findings": [
+    "Whole-body proportions remain consistent with the cartoon direction; no body scaling warranted.",
+    "Short beard, mustache, patch and goatee retain their intended front coverage. No new posterior beard coverage was added.",
+    "Long beard remains the original angular sculpted style; sphere fit is not a new long-beard design.",
+    "Pashmina lower neck wrap intersected the fuller head; a smooth local downward ease corrects it without contracting the upper hood or chest tails. Minimum sampled head clearance0.008633 after correction.",
+    "Smile was faintest on deep skin at48px. Small even tube expansion0.0004 plus outward support0.0003 improves stroke continuity while preserving its path/colors.",
+    "Four eyes retain the approved glossy styling.48px is more constrained;64px shows lashes and mouth more clearly."
+  ],
+  "limits": [
+    "Three hairstyles per build; selected existing tops, bottoms, cap/pashmina and glasses. Not a full catalogue conversion.",
+    "No phone performance measurements or new native renderer implementation.",
+    "No production profile-byte or handoff264 changes.",
+    "If sphere is adopted, portrait color and matching depth maps must be regenerated together."
+  ]
+}
