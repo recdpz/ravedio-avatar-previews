@@ -29,6 +29,8 @@ def html_images(text,name):
  text=re.sub(r'\b(src|href)\s*=\s*(["\'])(.*?)\2',lambda m:m[1]+'='+m[2]+image_url(m[3],name)+m[2],text,flags=re.I)
  text=re.sub(r'url\(\s*(["\']?)([^)"\']+)\1\s*\)',lambda m:'url('+m[1]+image_url(m[2].strip(),name)+m[1]+')',text,flags=re.I)
  text=re.sub(r'<img\b[^>]*>',lambda m:re.sub(r'<img', '<img crossorigin="anonymous"',m[0],count=1,flags=re.I) if 'raw.githubusercontent.com/recdpz/ravedio-avatar-previews/' in m[0] and not re.search(r'\bcrossorigin\b',m[0],re.I) else m[0],text,flags=re.I)
+ if name.endswith('.html'):
+  text=re.sub(r'(<script[^>]*\bsrc\s*=\s*)(["\'])([^"\']*asset-host\.js)(?:\?[^"\']*)?\2',lambda m:m[1]+m[2]+m[3]+'?v='+source[:12]+m[2],text,flags=re.I)
  if name.endswith('.html') and not re.search(r'<script[^>]+src=["\'][^"\']*asset-host\.js',text,re.I):
   script='<script data-ravedio-asset-host src="/ravedio-avatar-previews/asset-host.js?v='+source[:12]+'"></script>'
   match=re.search(r'<head\b[^>]*>',text,re.I) or re.search(r'<html\b[^>]*>',text,re.I)
