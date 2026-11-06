@@ -10,3 +10,6 @@ Two visual passes, eight-angle outfit and facial-hair exports, native-size48/64p
 
 Run local preview through the parent server: http://127.0.0.1:9251/266/
 Rebuild: Python with NumPy tools/build_assets.py; tools/check_assets.py; node tools/audit.cjs (existing Playwright/Chromium); Python with Pillow tools/create_review.py CAPTURE_DIR. Captures are kept outside the art repository; only final contact sheets are delivered here.
+
+Public preview: https://recdpz.github.io/ravedio-avatar-previews/266/
+Asset revision: 2a67abca3f2163624e534c09da617c334a18aa24

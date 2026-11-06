@@ -4,6 +4,10 @@
       "bytes": 144,
       "sha256": "4524d47279c7fc57cb66cab696147bbf28dae4c0e14bf9e0afb24b99bd21d5ac"
     },
+    "asset-host.js": {
+      "bytes": 3592,
+      "sha256": "8eb3c99771420f8d854388a4498a9de2230d670cbed1d72d70b32e1db3910883"
+    },
     "assets/Feminine-Feminine-bean-lashes-f96758f5.glb": {
       "bytes": 60548,
       "sha256": "04159d5e5855824664fd3c093e610301689370d346c29fb676e625f514ef5696"
@@ -353,23 +357,23 @@
       "sha256": "b663327b34cbc2e6ca488a96512247ad86e19087bbb1150f2adbf800e952782c"
     },
     "fixtures.json": {
-      "bytes": 24063,
+      "bytes": 23635,
       "sha256": "601c15aa7da637b237ef4c46f9cb086fbbe0bd3a597aae07cbe65a49fe56ecc1"
     },
     "index.html": {
-      "bytes": 6021,
-      "sha256": "8bec2c827548a9736865b3fdeac02979a9286b0ea00d91d5fde382226a8a45ed"
+      "bytes": 6014,
+      "sha256": "cd713cd5166e49b841d4f69c4c22c8302853b926bb3f09db64610c787cf39ede"
     },
     "README.txt": {
-      "bytes": 1564,
-      "sha256": "319ea1839ebac694608349db19cdacf507786be0b2ec1af152edc75ee0186bba"
+      "bytes": 1692,
+      "sha256": "2849ac63f37b0c226064ee3836189701fefa286f68a077f2b9cded8a53a8761d"
     },
     "review.json": {
       "bytes": 1859,
       "sha256": "f7b3545f3e5ab6227d40f574bc8c096d5d537ed4ab6444ee641a846b6b7b72d1"
     },
     "tools/audit.cjs": {
-      "bytes": 4397,
+      "bytes": 4396,
       "sha256": "3892ba7d4ab3259a88aa6a4352133c50069907811903bef09a2b1c959e0a83ce"
     },
     "tools/build_assets.py": {
@@ -381,15 +385,15 @@
       "sha256": "3ded8ead1e1878306088cd24f4a88d1e5177fc652a2a81a615b3ff052d3a7519"
     },
     "tools/check_closeups.cjs": {
-      "bytes": 2429,
+      "bytes": 2428,
       "sha256": "832a1ae07c99302c392d8f1307db680e48b73a0459657d87e0aa4dfcf1c8be36"
     },
     "tools/create_review.py": {
-      "bytes": 1648,
+      "bytes": 1647,
       "sha256": "55a8c39ac1acf11652f3dc3c87018c8d01fe0a82664d8042872af2375df5aeb9"
     },
     "verification/assets.json": {
-      "bytes": 50857,
+      "bytes": 49636,
       "sha256": "957b4afc4e06d0050b6d7f7b043b59972ead15ededf9106bcb5f188b54973bec"
     },
     "verification/browser.json": {
@@ -453,7 +457,7 @@
       "sha256": "cea4d8e6dc478d1a1c7d41686bf256c0c390b624c844c3df51eba6391cf24862"
     },
     "verification/invariants.json": {
-      "bytes": 22516,
+      "bytes": 21906,
       "sha256": "bf95d7c1a8b605c8bb7fb8a32166df2b01472e3352463df16adb6b0d1bf646bb"
     },
     "verification/M-flow-pashmina-contact.jpg": {
@@ -490,5 +494,6 @@
     }
   },
   "source_art_commit": "f7a8f037bf0de88b593ddf9dcdf502142fe6f2ff",
+  "sphere_asset_commit": "2a67abca3f2163624e534c09da617c334a18aa24",
   "scope": "Sphere evaluation subset; profile/native/264 renderer handoff unchanged."
 }
