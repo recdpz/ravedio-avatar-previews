@@ -13,3 +13,5 @@ Rebuild: Python with NumPy tools/build_assets.py; tools/check_assets.py; node to
 
 Public preview: https://recdpz.github.io/ravedio-avatar-previews/266/
 Asset revision: 2a67abca3f2163624e534c09da617c334a18aa24
+
+Pages delivery: --externalize-images keeps archived image bytes in pinned GitHub source commits and rewrites generated HTML/CSS image links. Dynamic image loading uses the existing asset-host routing. Original artwork and render bytes stay in main; only the generated Pages package is smaller.

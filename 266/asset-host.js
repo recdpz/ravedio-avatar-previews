@@ -6,7 +6,7 @@
   const assetRef = '2a67abca3f2163624e534c09da617c334a18aa24';
   const assetBase = `https://raw.githubusercontent.com/recdpz/ravedio-avatar-previews/${assetRef}/`;
   const pagePrefix = location.hostname === 'recdpz.github.io' ? '/ravedio-avatar-previews/' : '/';
-  const extensions = /\.(?:glb|blend|zip|png|exr)$/i;
+  const extensions = /\.(?:glb|blend|zip|png|exr|jpg|jpeg|webp)$/i;
   const localAssets = ['127.0.0.1', 'localhost', '[::1]'].includes(location.hostname);
   function resolve(value) {
     if (localAssets) return value;
