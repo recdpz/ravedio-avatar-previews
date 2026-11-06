@@ -1,0 +1,253 @@
+{
+  "checks": [
+    {
+      "build": "Feminine",
+      "preset": "full",
+      "angle": "front"
+    },
+    {
+      "build": "Feminine",
+      "preset": "full",
+      "angle": "threequarter"
+    },
+    {
+      "build": "Feminine",
+      "preset": "full",
+      "angle": "profile"
+    },
+    {
+      "build": "Feminine",
+      "preset": "full",
+      "angle": "rightprofile"
+    },
+    {
+      "build": "Feminine",
+      "preset": "full",
+      "angle": "rearquarter"
+    },
+    {
+      "build": "Feminine",
+      "preset": "full",
+      "angle": "rear"
+    },
+    {
+      "build": "Feminine",
+      "preset": "full",
+      "angle": "top"
+    },
+    {
+      "build": "Feminine",
+      "preset": "full",
+      "angle": "underside"
+    },
+    {
+      "build": "Feminine",
+      "preset": "face",
+      "angle": "front"
+    },
+    {
+      "build": "Feminine",
+      "preset": "face",
+      "angle": "threequarter"
+    },
+    {
+      "build": "Feminine",
+      "preset": "face",
+      "angle": "profile"
+    },
+    {
+      "build": "Feminine",
+      "preset": "face",
+      "angle": "rightprofile"
+    },
+    {
+      "build": "Feminine",
+      "preset": "face",
+      "angle": "rearquarter"
+    },
+    {
+      "build": "Feminine",
+      "preset": "face",
+      "angle": "rear"
+    },
+    {
+      "build": "Feminine",
+      "preset": "face",
+      "angle": "top"
+    },
+    {
+      "build": "Feminine",
+      "preset": "face",
+      "angle": "underside"
+    },
+    {
+      "build": "Feminine",
+      "preset": "bare",
+      "angle": "front"
+    },
+    {
+      "build": "Feminine",
+      "preset": "bare",
+      "angle": "threequarter"
+    },
+    {
+      "build": "Feminine",
+      "preset": "bare",
+      "angle": "profile"
+    },
+    {
+      "build": "Feminine",
+      "preset": "bare",
+      "angle": "rightprofile"
+    },
+    {
+      "build": "Feminine",
+      "preset": "bare",
+      "angle": "rearquarter"
+    },
+    {
+      "build": "Feminine",
+      "preset": "bare",
+      "angle": "rear"
+    },
+    {
+      "build": "Feminine",
+      "preset": "bare",
+      "angle": "top"
+    },
+    {
+      "build": "Feminine",
+      "preset": "bare",
+      "angle": "underside"
+    },
+    {
+      "build": "Masculine",
+      "preset": "full",
+      "angle": "front"
+    },
+    {
+      "build": "Masculine",
+      "preset": "full",
+      "angle": "threequarter"
+    },
+    {
+      "build": "Masculine",
+      "preset": "full",
+      "angle": "profile"
+    },
+    {
+      "build": "Masculine",
+      "preset": "full",
+      "angle": "rightprofile"
+    },
+    {
+      "build": "Masculine",
+      "preset": "full",
+      "angle": "rearquarter"
+    },
+    {
+      "build": "Masculine",
+      "preset": "full",
+      "angle": "rear"
+    },
+    {
+      "build": "Masculine",
+      "preset": "full",
+      "angle": "top"
+    },
+    {
+      "build": "Masculine",
+      "preset": "full",
+      "angle": "underside"
+    },
+    {
+      "build": "Masculine",
+      "preset": "face",
+      "angle": "front"
+    },
+    {
+      "build": "Masculine",
+      "preset": "face",
+      "angle": "threequarter"
+    },
+    {
+      "build": "Masculine",
+      "preset": "face",
+      "angle": "profile"
+    },
+    {
+      "build": "Masculine",
+      "preset": "face",
+      "angle": "rightprofile"
+    },
+    {
+      "build": "Masculine",
+      "preset": "face",
+      "angle": "rearquarter"
+    },
+    {
+      "build": "Masculine",
+      "preset": "face",
+      "angle": "rear"
+    },
+    {
+      "build": "Masculine",
+      "preset": "face",
+      "angle": "top"
+    },
+    {
+      "build": "Masculine",
+      "preset": "face",
+      "angle": "underside"
+    },
+    {
+      "build": "Masculine",
+      "preset": "bare",
+      "angle": "front"
+    },
+    {
+      "build": "Masculine",
+      "preset": "bare",
+      "angle": "threequarter"
+    },
+    {
+      "build": "Masculine",
+      "preset": "bare",
+      "angle": "profile"
+    },
+    {
+      "build": "Masculine",
+      "preset": "bare",
+      "angle": "rightprofile"
+    },
+    {
+      "build": "Masculine",
+      "preset": "bare",
+      "angle": "rearquarter"
+    },
+    {
+      "build": "Masculine",
+      "preset": "bare",
+      "angle": "rear"
+    },
+    {
+      "build": "Masculine",
+      "preset": "bare",
+      "angle": "top"
+    },
+    {
+      "build": "Masculine",
+      "preset": "bare",
+      "angle": "underside"
+    },
+    {
+      "width": 320,
+      "mobile": true
+    },
+    {
+      "width": 390,
+      "mobile": true
+    }
+  ],
+  "errors": []
+}

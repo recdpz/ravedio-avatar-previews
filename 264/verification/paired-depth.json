@@ -1,0 +1,1666 @@
+[
+  {
+    "color": "references/Feminine-artwork-reference-front-skin0-120-color.png",
+    "depth": "references/Feminine-artwork-reference-front-skin0-120-depth.exr",
+    "size": 120,
+    "finite_samples": 5431,
+    "range": [
+      7.311935901641846,
+      8.139439582824707
+    ],
+    "color_sha256": "2d0cedc08fad5546ff44f914e1e140f2fcc9e58b7fe01673d4f759182418620f",
+    "depth_sha256": "f14cf1969121bed730b9a1f7f6946f57ae7f38283c4bfd31996b92cb2da09262",
+    "geometry_sha256": "a8ea6d7779a65ae1f6c7b2caf59c41073d68b13c4bdf234f6c9ac5b716dfcedf"
+  },
+  {
+    "color": "references/Feminine-artwork-reference-front-skin0-512-color.png",
+    "depth": "references/Feminine-artwork-reference-front-skin0-512-depth.exr",
+    "size": 512,
+    "finite_samples": 98896,
+    "range": [
+      7.309856414794922,
+      8.143027305603027
+    ],
+    "color_sha256": "4f50819f7609296cef077eea66709930e41cffd56fb0ef2a173f8518bc8b7fb5",
+    "depth_sha256": "72264c395008f56641e2fe07f03bcb19a70fe029b9059f33e95473da6223e628",
+    "geometry_sha256": "a8ea6d7779a65ae1f6c7b2caf59c41073d68b13c4bdf234f6c9ac5b716dfcedf"
+  },
+  {
+    "color": "references/Feminine-artwork-reference-front-skin3-120-color.png",
+    "depth": "references/Feminine-artwork-reference-front-skin3-120-depth.exr",
+    "size": 120,
+    "finite_samples": 5431,
+    "range": [
+      7.311935901641846,
+      8.139439582824707
+    ],
+    "color_sha256": "0ea0dd89ec5c7ed8ae3df3be132d00984362ad2b1c584b004686fbb964c0ee90",
+    "depth_sha256": "556e20ec7c44368392a1d3746628df175056fbcf00038b1bd09d0a3732fcfba5",
+    "geometry_sha256": "a8ea6d7779a65ae1f6c7b2caf59c41073d68b13c4bdf234f6c9ac5b716dfcedf"
+  },
+  {
+    "color": "references/Feminine-artwork-reference-front-skin3-512-color.png",
+    "depth": "references/Feminine-artwork-reference-front-skin3-512-depth.exr",
+    "size": 512,
+    "finite_samples": 98896,
+    "range": [
+      7.309856414794922,
+      8.143027305603027
+    ],
+    "color_sha256": "f665cf19331046b6ecc824a2c582b6aa7b26004654580c2d17d55bd917dd4320",
+    "depth_sha256": "fe0c7de2893e7bdf42bc3c62dac9d00a323430564359edc29f0e9d32337cff07",
+    "geometry_sha256": "a8ea6d7779a65ae1f6c7b2caf59c41073d68b13c4bdf234f6c9ac5b716dfcedf"
+  },
+  {
+    "color": "references/Feminine-source-glb-reference-front-skin0-120-color.png",
+    "depth": "references/Feminine-source-glb-reference-front-skin0-120-depth.exr",
+    "size": 120,
+    "finite_samples": 5431,
+    "range": [
+      7.311935901641846,
+      8.139439582824707
+    ],
+    "color_sha256": "9f24f96c5b079184e85f33eceedf34e46df169d310b7a587fcfdbc8dee2eb662",
+    "depth_sha256": "db8a07ecb7d7141a28c3270b18f300b6a9ccd56fa8d2d96ceb6a15284cf8c9ab",
+    "geometry_sha256": "accd9816fd6fcca197f178a4e7ad7ad708991003a7622503a2ace4b9d397f5dc"
+  },
+  {
+    "color": "references/Feminine-source-glb-reference-front-skin0-512-color.png",
+    "depth": "references/Feminine-source-glb-reference-front-skin0-512-depth.exr",
+    "size": 512,
+    "finite_samples": 98896,
+    "range": [
+      7.309856414794922,
+      8.143027305603027
+    ],
+    "color_sha256": "b99259b878d359fdbd48852317f079160dac9e3346aca4809a46f945f53b1f93",
+    "depth_sha256": "3e0d8b336c2ce385270451a582254bb4482b341f052d34829e4d6dbc0def3bd1",
+    "geometry_sha256": "accd9816fd6fcca197f178a4e7ad7ad708991003a7622503a2ace4b9d397f5dc"
+  },
+  {
+    "color": "references/Feminine-source-glb-reference-front-skin3-120-color.png",
+    "depth": "references/Feminine-source-glb-reference-front-skin3-120-depth.exr",
+    "size": 120,
+    "finite_samples": 5431,
+    "range": [
+      7.311935901641846,
+      8.139439582824707
+    ],
+    "color_sha256": "50cb344204dc65d0ef091698f3dddf100120977327fd3da31f05dcbbbb15f61b",
+    "depth_sha256": "5834425e38112060ad0bfd47389846594ce9d113b4224e07f1548f2229b781f3",
+    "geometry_sha256": "accd9816fd6fcca197f178a4e7ad7ad708991003a7622503a2ace4b9d397f5dc"
+  },
+  {
+    "color": "references/Feminine-source-glb-reference-front-skin3-512-color.png",
+    "depth": "references/Feminine-source-glb-reference-front-skin3-512-depth.exr",
+    "size": 512,
+    "finite_samples": 98896,
+    "range": [
+      7.309856414794922,
+      8.143027305603027
+    ],
+    "color_sha256": "70e91d746dd875fc62d6d880c4a796bcff8ebda0b62ed19e8dc802f5a92f035c",
+    "depth_sha256": "da371852b555ddc254aedc84fa3fd1d90574267d880dd6d18e5ac4b530b5022c",
+    "geometry_sha256": "accd9816fd6fcca197f178a4e7ad7ad708991003a7622503a2ace4b9d397f5dc"
+  },
+  {
+    "color": "references/Feminine-source-glb-angles-front-skin1-512-color.png",
+    "depth": "references/Feminine-source-glb-angles-front-skin1-512-depth.exr",
+    "size": 512,
+    "finite_samples": 48339,
+    "range": [
+      7.310169219970703,
+      8.139533996582031
+    ],
+    "color_sha256": "39b730e94d3d65db0465f07a4b45b52b69966653047e6b027b9be169765eaf8b",
+    "depth_sha256": "63964a8e91b3951789789d441f03d5f8c4a67ac1e022fbaa9e59424e051c0141",
+    "geometry_sha256": "accd9816fd6fcca197f178a4e7ad7ad708991003a7622503a2ace4b9d397f5dc"
+  },
+  {
+    "color": "references/Feminine-source-glb-angles-threequarter-skin1-512-color.png",
+    "depth": "references/Feminine-source-glb-angles-threequarter-skin1-512-depth.exr",
+    "size": 512,
+    "finite_samples": 47041,
+    "range": [
+      7.348949432373047,
+      8.206489562988281
+    ],
+    "color_sha256": "9048810836752e3026bf895b5984d3f5678989c20ddbff3d41a1d2fb576480e5",
+    "depth_sha256": "79ebeb5ef9e988c97f4feb1fd260fd0eb9b9340420541990c5939f4c6c88bf10",
+    "geometry_sha256": "accd9816fd6fcca197f178a4e7ad7ad708991003a7622503a2ace4b9d397f5dc"
+  },
+  {
+    "color": "references/Feminine-source-glb-angles-profile-skin1-512-color.png",
+    "depth": "references/Feminine-source-glb-angles-profile-skin1-512-depth.exr",
+    "size": 512,
+    "finite_samples": 37298,
+    "range": [
+      7.472412586212158,
+      8.26982307434082
+    ],
+    "color_sha256": "084b195f269fff38f40bd3cc3268f110d9e6ea654d06f9144818410157cb439d",
+    "depth_sha256": "ac6b44f36cc14150f37438a93596968e0fc3ae2c693fddb2ac70f1135707b87e",
+    "geometry_sha256": "accd9816fd6fcca197f178a4e7ad7ad708991003a7622503a2ace4b9d397f5dc"
+  },
+  {
+    "color": "references/Feminine-source-glb-angles-rightprofile-skin1-512-color.png",
+    "depth": "references/Feminine-source-glb-angles-rightprofile-skin1-512-depth.exr",
+    "size": 512,
+    "finite_samples": 37299,
+    "range": [
+      7.472413063049316,
+      8.269851684570312
+    ],
+    "color_sha256": "cbd3a495a802eb3b2b28bfefea27a79fd1e1f29ca6869f72362e92ce3f264486",
+    "depth_sha256": "b0257427a53484eed1351d287a010135be9d1666aa7031b43e25339a6e9b215e",
+    "geometry_sha256": "accd9816fd6fcca197f178a4e7ad7ad708991003a7622503a2ace4b9d397f5dc"
+  },
+  {
+    "color": "references/Feminine-source-glb-angles-rear-skin1-512-color.png",
+    "depth": "references/Feminine-source-glb-angles-rear-skin1-512-depth.exr",
+    "size": 512,
+    "finite_samples": 48339,
+    "range": [
+      7.2742085456848145,
+      8.06514835357666
+    ],
+    "color_sha256": "3d4e2bcd0922ec2bf0b69272968727055fd5f894fe0cb0a20a51922e5bb1576b",
+    "depth_sha256": "5fa1cc5c4bd15a8c1e63b7d8d569fc096cea905cc8d62306f119ca5e7b2fec80",
+    "geometry_sha256": "accd9816fd6fcca197f178a4e7ad7ad708991003a7622503a2ace4b9d397f5dc"
+  },
+  {
+    "color": "references/Feminine-source-glb-angles-rearquarter-skin1-512-color.png",
+    "depth": "references/Feminine-source-glb-angles-rearquarter-skin1-512-depth.exr",
+    "size": 512,
+    "finite_samples": 45739,
+    "range": [
+      7.36928653717041,
+      8.49479866027832
+    ],
+    "color_sha256": "ff4f7f1a97378ff2dfda8b39edbc400ccdcfdf2e5e0d49c44953cc2f267a8434",
+    "depth_sha256": "e1e29fcc87eb43b4f43ed2d2ec036b144b1aa951ac0da075695039f9c653548f",
+    "geometry_sha256": "accd9816fd6fcca197f178a4e7ad7ad708991003a7622503a2ace4b9d397f5dc"
+  },
+  {
+    "color": "references/Feminine-source-glb-angles-top-skin1-512-color.png",
+    "depth": "references/Feminine-source-glb-angles-top-skin1-512-depth.exr",
+    "size": 512,
+    "finite_samples": 262144,
+    "range": [
+      6.9382476806640625,
+      10.128259658813477
+    ],
+    "color_sha256": "4881b2b466d10b2903c55e816627bd38f19dfce0b84e673168cf9fa5bed4bac9",
+    "depth_sha256": "75299a73a90b82594d0ad3f698d7bd22a8b8bb494793e1e503c135f1cec8b280",
+    "geometry_sha256": "accd9816fd6fcca197f178a4e7ad7ad708991003a7622503a2ace4b9d397f5dc"
+  },
+  {
+    "color": "references/Feminine-source-glb-angles-underside-skin1-512-color.png",
+    "depth": "references/Feminine-source-glb-angles-underside-skin1-512-depth.exr",
+    "size": 512,
+    "finite_samples": 40406,
+    "range": [
+      7.337345123291016,
+      8.74487590789795
+    ],
+    "color_sha256": "eecf8fb1ef6e322d6f052f14cc16ccd2b4ea1047ab9d8728039d13d15db842e4",
+    "depth_sha256": "2251e05d69d1f57bcdfeb4d69af1dce0a6a7c3dda0d403f2fa2fd0ab5ac277fa",
+    "geometry_sha256": "accd9816fd6fcca197f178a4e7ad7ad708991003a7622503a2ace4b9d397f5dc"
+  },
+  {
+    "color": "references/Feminine-optimized-reference-front-skin0-120-color.png",
+    "depth": "references/Feminine-optimized-reference-front-skin0-120-depth.exr",
+    "size": 120,
+    "finite_samples": 5430,
+    "range": [
+      7.311935901641846,
+      8.138705253601074
+    ],
+    "color_sha256": "6a98e51091c2bf06bf27ccf39ba2e6ecb03bd1f124ffc55eb712614253de6aee",
+    "depth_sha256": "f8dde100f4195bafbe75b72f7f52af9bddefe238ae6bbe715372863b16022a51",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "references/Feminine-optimized-reference-front-skin0-512-color.png",
+    "depth": "references/Feminine-optimized-reference-front-skin0-512-depth.exr",
+    "size": 512,
+    "finite_samples": 98860,
+    "range": [
+      7.309856414794922,
+      8.143027305603027
+    ],
+    "color_sha256": "a4dc13f49689c57b18519dc6ef82a395b7cf495fef4eb2322ccb00327522a0d4",
+    "depth_sha256": "3301f26c51cfddbe4f7849c0b68f2cd38a6ff8af29e0abdeb488cd893c666434",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "references/Feminine-optimized-reference-front-skin3-120-color.png",
+    "depth": "references/Feminine-optimized-reference-front-skin3-120-depth.exr",
+    "size": 120,
+    "finite_samples": 5430,
+    "range": [
+      7.311935901641846,
+      8.138705253601074
+    ],
+    "color_sha256": "1f8dfeb93d2de049b5e931d246d08dab9d65c066c7118c2b2f80744d40119947",
+    "depth_sha256": "a8c402ea380bb5da5bd0f8df76df971e01f62df1dc685a4e81a3e7558cd0b41a",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "references/Feminine-optimized-reference-front-skin3-512-color.png",
+    "depth": "references/Feminine-optimized-reference-front-skin3-512-depth.exr",
+    "size": 512,
+    "finite_samples": 98860,
+    "range": [
+      7.309856414794922,
+      8.143027305603027
+    ],
+    "color_sha256": "9db6bf0c12529126d1e8c3aea70ca655fb50d4a8cf152638247917357e23d6b6",
+    "depth_sha256": "47f66b6d97665a93890f61b16b58adf496b7ebb1bf104bc23ae21b2a23b59d4b",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "references/Feminine-optimized-angles-front-skin1-512-color.png",
+    "depth": "references/Feminine-optimized-angles-front-skin1-512-depth.exr",
+    "size": 512,
+    "finite_samples": 48318,
+    "range": [
+      7.310169219970703,
+      8.1394624710083
+    ],
+    "color_sha256": "5fba984d3c8c1660511e920429bd38e87c87147fcce1c7c44ff6eaec4e394581",
+    "depth_sha256": "ca115948ac198e7eba0116f4d811be2bf85d65669d4978b0e8f534c19ff2d46b",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "references/Feminine-optimized-angles-threequarter-skin1-512-color.png",
+    "depth": "references/Feminine-optimized-angles-threequarter-skin1-512-depth.exr",
+    "size": 512,
+    "finite_samples": 47030,
+    "range": [
+      7.348949432373047,
+      8.207481384277344
+    ],
+    "color_sha256": "6218ef194647ad09c4fc5296d06867b26755e6fef11f1391a140dcc401851167",
+    "depth_sha256": "880eb4ee880ba784cb39f4845db7a2f6cf18e448700f106eadbd308e9d931589",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "references/Feminine-optimized-angles-profile-skin1-512-color.png",
+    "depth": "references/Feminine-optimized-angles-profile-skin1-512-depth.exr",
+    "size": 512,
+    "finite_samples": 37293,
+    "range": [
+      7.472530364990234,
+      8.26982307434082
+    ],
+    "color_sha256": "35aebbd4c5aeaeed5cc187cb795f15c8b3192209583e4df1b59c55f514389bfc",
+    "depth_sha256": "50615fc3bcdab33b68b4be3014987f435c13fcc55d3ec64ab946dcda3189ca97",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "references/Feminine-optimized-angles-rightprofile-skin1-512-color.png",
+    "depth": "references/Feminine-optimized-angles-rightprofile-skin1-512-depth.exr",
+    "size": 512,
+    "finite_samples": 37293,
+    "range": [
+      7.4724440574646,
+      8.269851684570312
+    ],
+    "color_sha256": "56c72bf5f7d8f0903d26817dc1ea3d0415d968965cd35743c8c1354307582826",
+    "depth_sha256": "38279e3181264f7e0c29dde1bec0f38cd56c1d225378b72c53cb20ab2451ba23",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "references/Feminine-optimized-angles-rear-skin1-512-color.png",
+    "depth": "references/Feminine-optimized-angles-rear-skin1-512-depth.exr",
+    "size": 512,
+    "finite_samples": 48318,
+    "range": [
+      7.2742085456848145,
+      8.065027236938477
+    ],
+    "color_sha256": "a250d11c5369e95d9fca03dea4cbcc2ec275a580e45d5b1a401ef3a3f6e6db82",
+    "depth_sha256": "2f5471c155dce699e78201b62016f2ad7910169b2b9d731ee41748c83bb999f7",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "references/Feminine-optimized-angles-rearquarter-skin1-512-color.png",
+    "depth": "references/Feminine-optimized-angles-rearquarter-skin1-512-depth.exr",
+    "size": 512,
+    "finite_samples": 45734,
+    "range": [
+      7.36928653717041,
+      8.495078086853027
+    ],
+    "color_sha256": "3ab848a038a101f3eacf5568fa255a7593619712be63e5c3406b9264fc228d27",
+    "depth_sha256": "d8a0cb4401054c0e63b2946a4a071a38c6d4f73a846c4c8520c98bf55396a002",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "references/Feminine-optimized-angles-top-skin1-512-color.png",
+    "depth": "references/Feminine-optimized-angles-top-skin1-512-depth.exr",
+    "size": 512,
+    "finite_samples": 262144,
+    "range": [
+      6.9382476806640625,
+      10.128259658813477
+    ],
+    "color_sha256": "87b95812f6fe98cc43cdde4431596e29113106c46b7ac93a0e82435f6ef31c0c",
+    "depth_sha256": "2c01450c70279eb0c15989b1133681efdc0da507dcd82c4dd257a6275796a1ae",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "references/Feminine-optimized-angles-underside-skin1-512-color.png",
+    "depth": "references/Feminine-optimized-angles-underside-skin1-512-depth.exr",
+    "size": 512,
+    "finite_samples": 40396,
+    "range": [
+      7.337345123291016,
+      8.74471664428711
+    ],
+    "color_sha256": "2f7bf4f91953afadfbae65d18c247bac9b93282039443aa438f7e5faca7dcdd7",
+    "depth_sha256": "8db64b2dfd34a72c07d32371e25db78921088c305c4b53681f0f9c62a59e201c",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "references/Feminine-optimized-chat-front-skin0-32-color.png",
+    "depth": "references/Feminine-optimized-chat-front-skin0-32-depth.exr",
+    "size": 32,
+    "finite_samples": 482,
+    "range": [
+      7.346614837646484,
+      8.138297080993652
+    ],
+    "color_sha256": "4aee2c3025446da7bee2a870e9c6b61467948f2dc8c5455cc402f1992eb78366",
+    "depth_sha256": "a4dbf947cd51a49e0b325b2ffeff5de87700e200fe817f7e9c06963d3a9cac6d",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "references/Feminine-optimized-chat-front-skin0-48-color.png",
+    "depth": "references/Feminine-optimized-chat-front-skin0-48-depth.exr",
+    "size": 48,
+    "finite_samples": 1086,
+    "range": [
+      7.310327053070068,
+      8.1415376663208
+    ],
+    "color_sha256": "b57279b88809ad781a55f2dd9a5fa35a33cc9d28e467a26e98d545c4605fae36",
+    "depth_sha256": "90cf9de1bf24e1a72869292df65536fb5030e124f11d5b2d9d3d7e59f2760293",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "references/Feminine-optimized-chat-front-skin0-64-color.png",
+    "depth": "references/Feminine-optimized-chat-front-skin0-64-depth.exr",
+    "size": 64,
+    "finite_samples": 1931,
+    "range": [
+      7.324213981628418,
+      8.139008522033691
+    ],
+    "color_sha256": "e06f5cff7756e6f890881a5683f391266a5210d954a372ffdbf8c06e4b36c5cf",
+    "depth_sha256": "735f2e4419567531da2c00230b1ce43a7178e18b9fdf37841a2234a599a49cf6",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "references/Feminine-optimized-chat-front-skin0-120-color.png",
+    "depth": "references/Feminine-optimized-chat-front-skin0-120-depth.exr",
+    "size": 120,
+    "finite_samples": 6798,
+    "range": [
+      7.310454368591309,
+      8.141717910766602
+    ],
+    "color_sha256": "dd673c8cb6f1aa36827cd16916d9b8f80eacc9a6e1c91d5011496b5326b8386d",
+    "depth_sha256": "07781b6f98021350991e96c07089d1f25d4d7b8dd843c4470af313ca05e80ad7",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "references/Feminine-optimized-chat-front-skin3-32-color.png",
+    "depth": "references/Feminine-optimized-chat-front-skin3-32-depth.exr",
+    "size": 32,
+    "finite_samples": 482,
+    "range": [
+      7.346614837646484,
+      8.138297080993652
+    ],
+    "color_sha256": "2ceac84f58b8e7966aa56973c3fbe8bb7ffc972096986cab0484cc778605ddfd",
+    "depth_sha256": "dda8342998598a9c9a963b1cf666f5a762f0f88acdc455d1e48304dcfa3d6ba8",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "references/Feminine-optimized-chat-front-skin3-48-color.png",
+    "depth": "references/Feminine-optimized-chat-front-skin3-48-depth.exr",
+    "size": 48,
+    "finite_samples": 1086,
+    "range": [
+      7.310327053070068,
+      8.1415376663208
+    ],
+    "color_sha256": "5cdfc72f100c934ea73edb205c8053fa6555dfaa2d0b87725ea6c6fb78c2833d",
+    "depth_sha256": "d915558eac70a26b7e40cfd28db792cc07279d956a756f235aea303a620171fb",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "references/Feminine-optimized-chat-front-skin3-64-color.png",
+    "depth": "references/Feminine-optimized-chat-front-skin3-64-depth.exr",
+    "size": 64,
+    "finite_samples": 1931,
+    "range": [
+      7.324213981628418,
+      8.139008522033691
+    ],
+    "color_sha256": "cb32f2e53b6a78fc6605a04cf5be4173ba39237487cc2072c82fd541b1b7a215",
+    "depth_sha256": "1bf519330f84701396295cd44b27c977a2a8f5d058365a638ee1b37616a0c73a",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "references/Feminine-optimized-chat-front-skin3-120-color.png",
+    "depth": "references/Feminine-optimized-chat-front-skin3-120-depth.exr",
+    "size": 120,
+    "finite_samples": 6798,
+    "range": [
+      7.310454368591309,
+      8.141717910766602
+    ],
+    "color_sha256": "eb584bd1e300e45e61db583b08a4fe795252f86ef3f83b613424de1519dca71e",
+    "depth_sha256": "cd1b61879445f4b02be6f8525c0be72ea53989335c916d1a47fe61fed84e5bf2",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "references/Masculine-artwork-reference-front-skin0-120-color.png",
+    "depth": "references/Masculine-artwork-reference-front-skin0-120-depth.exr",
+    "size": 120,
+    "finite_samples": 5498,
+    "range": [
+      7.343914031982422,
+      8.138631820678711
+    ],
+    "color_sha256": "ced17182bf0c39adfc9c2bb530c4543fd61a3fe0a8628680be2885aebf61c317",
+    "depth_sha256": "9d98a09147f1fec67cca22d6b40710f5582486e48323ce1935267695fd829ee0",
+    "geometry_sha256": "6a2cd4338969512a15185779deceaf9c685f069bcfce3c8f48a145aab4e8170c"
+  },
+  {
+    "color": "references/Masculine-artwork-reference-front-skin0-512-color.png",
+    "depth": "references/Masculine-artwork-reference-front-skin0-512-depth.exr",
+    "size": 512,
+    "finite_samples": 100301,
+    "range": [
+      7.343862056732178,
+      8.149679183959961
+    ],
+    "color_sha256": "95c1f788c99e3076601d3d943f213f449e9c1d84b82197ec5e638902e07a4306",
+    "depth_sha256": "3ad19b044db9460d700570d559b6d7fdb67c70dc21738458c46e82c7e4fb7510",
+    "geometry_sha256": "6a2cd4338969512a15185779deceaf9c685f069bcfce3c8f48a145aab4e8170c"
+  },
+  {
+    "color": "references/Masculine-artwork-reference-front-skin3-120-color.png",
+    "depth": "references/Masculine-artwork-reference-front-skin3-120-depth.exr",
+    "size": 120,
+    "finite_samples": 5498,
+    "range": [
+      7.343914031982422,
+      8.138631820678711
+    ],
+    "color_sha256": "779aa41b86e6850a4234c2f527d6f238fc86ae43c391a2986eec10e871296faa",
+    "depth_sha256": "2d8cf40f57665978bdbab59c40f4b2bcc55980dd6843182b2816f7c1fca0e440",
+    "geometry_sha256": "6a2cd4338969512a15185779deceaf9c685f069bcfce3c8f48a145aab4e8170c"
+  },
+  {
+    "color": "references/Masculine-artwork-reference-front-skin3-512-color.png",
+    "depth": "references/Masculine-artwork-reference-front-skin3-512-depth.exr",
+    "size": 512,
+    "finite_samples": 100301,
+    "range": [
+      7.343862056732178,
+      8.149679183959961
+    ],
+    "color_sha256": "4ca53a6aff80062427be8b6da5b3a346323dc3db5912162f89bd24f34dc9c3d0",
+    "depth_sha256": "8a3ed93fa24781fe26a0a918fe5431ac9e1ac587bb8c1703435c7154fe129881",
+    "geometry_sha256": "6a2cd4338969512a15185779deceaf9c685f069bcfce3c8f48a145aab4e8170c"
+  },
+  {
+    "color": "references/Masculine-source-glb-reference-front-skin0-120-color.png",
+    "depth": "references/Masculine-source-glb-reference-front-skin0-120-depth.exr",
+    "size": 120,
+    "finite_samples": 5498,
+    "range": [
+      7.343914031982422,
+      8.138631820678711
+    ],
+    "color_sha256": "d3d7542efba4c332456ec730680eed807f1c1e88225f46a0fdc08e03a7e703f4",
+    "depth_sha256": "ced94dc541aecc5ffd156ea308c88a71da782b9a8715ef3f2205ea1bb1c8aacc",
+    "geometry_sha256": "c92389dc4668dac89e7bfc9e0bb45b0653ae181295a2f5df6a5c02b80efc1d13"
+  },
+  {
+    "color": "references/Masculine-source-glb-reference-front-skin0-512-color.png",
+    "depth": "references/Masculine-source-glb-reference-front-skin0-512-depth.exr",
+    "size": 512,
+    "finite_samples": 100301,
+    "range": [
+      7.343862056732178,
+      8.149679183959961
+    ],
+    "color_sha256": "fc98fd553a19d7d6970beda61863dfe26199ab50913762eeb15af84b507fd552",
+    "depth_sha256": "c579f9fb93e2a5980588228123e34e757c4610078866202304773923eb79622a",
+    "geometry_sha256": "c92389dc4668dac89e7bfc9e0bb45b0653ae181295a2f5df6a5c02b80efc1d13"
+  },
+  {
+    "color": "references/Masculine-source-glb-reference-front-skin3-120-color.png",
+    "depth": "references/Masculine-source-glb-reference-front-skin3-120-depth.exr",
+    "size": 120,
+    "finite_samples": 5498,
+    "range": [
+      7.343914031982422,
+      8.138631820678711
+    ],
+    "color_sha256": "a3912422aa1201f41c2ad712d38f6c7d6b7ca0f06bfef66228cb9cebabdaef35",
+    "depth_sha256": "a1f62dd183e59b634913ac3fe9f95498a477b2f2ff5c5ecd3de04f6f1fb087b1",
+    "geometry_sha256": "c92389dc4668dac89e7bfc9e0bb45b0653ae181295a2f5df6a5c02b80efc1d13"
+  },
+  {
+    "color": "references/Masculine-source-glb-reference-front-skin3-512-color.png",
+    "depth": "references/Masculine-source-glb-reference-front-skin3-512-depth.exr",
+    "size": 512,
+    "finite_samples": 100301,
+    "range": [
+      7.343862056732178,
+      8.149679183959961
+    ],
+    "color_sha256": "c1ebab95ca5a84a8200362a4986a08f45dff6f45488efcf61f63aabb8893f0f6",
+    "depth_sha256": "c91befd63829987d03349de5f3ed2d5f3ddac2f8b7998381040295a5add8e66a",
+    "geometry_sha256": "c92389dc4668dac89e7bfc9e0bb45b0653ae181295a2f5df6a5c02b80efc1d13"
+  },
+  {
+    "color": "references/Masculine-source-glb-angles-front-skin1-512-color.png",
+    "depth": "references/Masculine-source-glb-angles-front-skin1-512-depth.exr",
+    "size": 512,
+    "finite_samples": 49438,
+    "range": [
+      7.343809127807617,
+      8.150341987609863
+    ],
+    "color_sha256": "2feb96fd76c8697e444eea67312b9c6418339070a557981cf619718cd1c688cc",
+    "depth_sha256": "8cc759ca503b8cc2c25265675366b9ba72a159b938a0f3356c82aa821ff3ef0f",
+    "geometry_sha256": "c92389dc4668dac89e7bfc9e0bb45b0653ae181295a2f5df6a5c02b80efc1d13"
+  },
+  {
+    "color": "references/Masculine-source-glb-angles-threequarter-skin1-512-color.png",
+    "depth": "references/Masculine-source-glb-angles-threequarter-skin1-512-depth.exr",
+    "size": 512,
+    "finite_samples": 47758,
+    "range": [
+      7.378337860107422,
+      8.211725234985352
+    ],
+    "color_sha256": "c21a4ab2ef8adf1e161454bebd5e0926ee404d3a404c99462a6a45a7744d8178",
+    "depth_sha256": "692c8d2b50d84d359892cce6db4fcafe98998a4dbaacc487a45b92e09ef730c0",
+    "geometry_sha256": "c92389dc4668dac89e7bfc9e0bb45b0653ae181295a2f5df6a5c02b80efc1d13"
+  },
+  {
+    "color": "references/Masculine-source-glb-angles-profile-skin1-512-color.png",
+    "depth": "references/Masculine-source-glb-angles-profile-skin1-512-depth.exr",
+    "size": 512,
+    "finite_samples": 34820,
+    "range": [
+      7.454412460327148,
+      8.070150375366211
+    ],
+    "color_sha256": "3e0fd9ca6741d1ed06acc5dc6df4e4194557738f720a94acf01491bd087d62e5",
+    "depth_sha256": "babdb3d22cb24f29186b63ac50817b6c90a771ca28d6be1045d10af85c85a10b",
+    "geometry_sha256": "c92389dc4668dac89e7bfc9e0bb45b0653ae181295a2f5df6a5c02b80efc1d13"
+  },
+  {
+    "color": "references/Masculine-source-glb-angles-rightprofile-skin1-512-color.png",
+    "depth": "references/Masculine-source-glb-angles-rightprofile-skin1-512-depth.exr",
+    "size": 512,
+    "finite_samples": 34822,
+    "range": [
+      7.454412937164307,
+      8.126031875610352
+    ],
+    "color_sha256": "fe54ae29d4f53efbd4d0882bd85197c840d6d38b6a420a820c4150e5f9508801",
+    "depth_sha256": "7ff9d51ec4cc1758bb77e9d9690f01a61c7e7c099dd722bf799e57142417ab5a",
+    "geometry_sha256": "c92389dc4668dac89e7bfc9e0bb45b0653ae181295a2f5df6a5c02b80efc1d13"
+  },
+  {
+    "color": "references/Masculine-source-glb-angles-rear-skin1-512-color.png",
+    "depth": "references/Masculine-source-glb-angles-rear-skin1-512-depth.exr",
+    "size": 512,
+    "finite_samples": 49439,
+    "range": [
+      7.533865451812744,
+      8.062005996704102
+    ],
+    "color_sha256": "81263d40973f68ee8385fce36e682bad0b61eaa3c20728282a9fc6f75773d851",
+    "depth_sha256": "e08a422c62e54f4d27b3c5d9063e1d176316923708996f14415f49017a8543d2",
+    "geometry_sha256": "c92389dc4668dac89e7bfc9e0bb45b0653ae181295a2f5df6a5c02b80efc1d13"
+  },
+  {
+    "color": "references/Masculine-source-glb-angles-rearquarter-skin1-512-color.png",
+    "depth": "references/Masculine-source-glb-angles-rearquarter-skin1-512-depth.exr",
+    "size": 512,
+    "finite_samples": 46103,
+    "range": [
+      7.517956256866455,
+      8.44261360168457
+    ],
+    "color_sha256": "5d0ab2edba82dd2ff8d72f9f74d873735d2dee1deb750f2d293fbc48eec127f7",
+    "depth_sha256": "5d28966100e15075a0dda301593ea42ba385fcb4c71241b24fa6032558bea05b",
+    "geometry_sha256": "c92389dc4668dac89e7bfc9e0bb45b0653ae181295a2f5df6a5c02b80efc1d13"
+  },
+  {
+    "color": "references/Masculine-source-glb-angles-top-skin1-512-color.png",
+    "depth": "references/Masculine-source-glb-angles-top-skin1-512-depth.exr",
+    "size": 512,
+    "finite_samples": 262144,
+    "range": [
+      6.946579456329346,
+      10.128259658813477
+    ],
+    "color_sha256": "d1bd7f61663e8f971c27ce6c1b87c38b62e0ed777dbe3e2c9c95d76049cb04af",
+    "depth_sha256": "b0fee490ea5b6044e1a7af3ccbf75a14322234c98b2fb67b1256ae810e425900",
+    "geometry_sha256": "c92389dc4668dac89e7bfc9e0bb45b0653ae181295a2f5df6a5c02b80efc1d13"
+  },
+  {
+    "color": "references/Masculine-source-glb-angles-underside-skin1-512-color.png",
+    "depth": "references/Masculine-source-glb-angles-underside-skin1-512-depth.exr",
+    "size": 512,
+    "finite_samples": 40773,
+    "range": [
+      7.334257125854492,
+      8.703959465026855
+    ],
+    "color_sha256": "8aa9406156370fe9a5368c8498640d985efea77f85a6467147f797244bf0cbdb",
+    "depth_sha256": "755f54c751d453bc695f98ca63c37913838ee31a4a6ff71cfde6cb3c9e4c4951",
+    "geometry_sha256": "c92389dc4668dac89e7bfc9e0bb45b0653ae181295a2f5df6a5c02b80efc1d13"
+  },
+  {
+    "color": "references/Masculine-optimized-reference-front-skin0-120-color.png",
+    "depth": "references/Masculine-optimized-reference-front-skin0-120-depth.exr",
+    "size": 120,
+    "finite_samples": 5494,
+    "range": [
+      7.343914031982422,
+      8.138631820678711
+    ],
+    "color_sha256": "e8b3f36eac56c4d41ab73c14968d3d59cb8b17a2401e5467afac9fa87d1da471",
+    "depth_sha256": "6fa1f228507496b57055dea5d10a5e53bf01a152228acef02b3cbc13bd0c0fb8",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "references/Masculine-optimized-reference-front-skin0-512-color.png",
+    "depth": "references/Masculine-optimized-reference-front-skin0-512-depth.exr",
+    "size": 512,
+    "finite_samples": 100269,
+    "range": [
+      7.343862056732178,
+      8.149679183959961
+    ],
+    "color_sha256": "f78124713eb88bc7bf000a6c14ba4f0f8d784fb120ff121bc6c3ab9c07d86c80",
+    "depth_sha256": "3ecf161a3eaac386c30bb6332d48613a7078888b8132c14abda988a40d33a217",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "references/Masculine-optimized-reference-front-skin3-120-color.png",
+    "depth": "references/Masculine-optimized-reference-front-skin3-120-depth.exr",
+    "size": 120,
+    "finite_samples": 5494,
+    "range": [
+      7.343914031982422,
+      8.138631820678711
+    ],
+    "color_sha256": "e8a00ab53c5ed526a9af96c62f60743557c55fb3e10c23213eefc2b5337d8f5c",
+    "depth_sha256": "f4df04ac1ecc898e4bae00de2f5271c46d91b5413969bce3b3c1f16a6afe7e7b",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "references/Masculine-optimized-reference-front-skin3-512-color.png",
+    "depth": "references/Masculine-optimized-reference-front-skin3-512-depth.exr",
+    "size": 512,
+    "finite_samples": 100269,
+    "range": [
+      7.343862056732178,
+      8.149679183959961
+    ],
+    "color_sha256": "24004cd21f97bc7517270afcb273d1c7c7b1400085e86584ee759d6529932c76",
+    "depth_sha256": "014898d3374c3ac035c88ca300c88e6a1a990f6fadcd515bf239f85fe7d527f0",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "references/Masculine-optimized-angles-front-skin1-512-color.png",
+    "depth": "references/Masculine-optimized-angles-front-skin1-512-depth.exr",
+    "size": 512,
+    "finite_samples": 49426,
+    "range": [
+      7.343809127807617,
+      8.150341987609863
+    ],
+    "color_sha256": "2254f06c91b111e03c1721e71fcb8c83e6eb50d0eda8aaadb7597d547f90c7ea",
+    "depth_sha256": "6ea585cc1f93ca8dcb945caaa6058685b7b7997c96321bd25ae3c36bf8064150",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "references/Masculine-optimized-angles-threequarter-skin1-512-color.png",
+    "depth": "references/Masculine-optimized-angles-threequarter-skin1-512-depth.exr",
+    "size": 512,
+    "finite_samples": 47753,
+    "range": [
+      7.378337860107422,
+      8.20914077758789
+    ],
+    "color_sha256": "aa0ca1482e2a1aab8db6cca6b6ecfef5444fc5dfb2e41dc292c9a01d783ca7a2",
+    "depth_sha256": "0d0d9ca1ce88bd408d4d29f7cd8ca4ac9060922afebe7ba153addbe9492e94eb",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "references/Masculine-optimized-angles-profile-skin1-512-color.png",
+    "depth": "references/Masculine-optimized-angles-profile-skin1-512-depth.exr",
+    "size": 512,
+    "finite_samples": 34815,
+    "range": [
+      7.454530715942383,
+      8.077486991882324
+    ],
+    "color_sha256": "8c9f193afda0f714e2e691d93308fb021627ff8400e3115e731ebd85b8286ccf",
+    "depth_sha256": "caeec6d64ea1e1d468fb8b102fa98ffcf1a0460959132dcc86d4560f1c501300",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "references/Masculine-optimized-angles-rightprofile-skin1-512-color.png",
+    "depth": "references/Masculine-optimized-angles-rightprofile-skin1-512-depth.exr",
+    "size": 512,
+    "finite_samples": 34815,
+    "range": [
+      7.454451084136963,
+      8.164155960083008
+    ],
+    "color_sha256": "68a42b3439d089bbe54c13babf31774c35d291f92da7605ba9e4564edeabbc8f",
+    "depth_sha256": "4052b4c98e3f5ee9b10d17e2fd67b78db5645ea6fd92b86bfcced939b028c285",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "references/Masculine-optimized-angles-rear-skin1-512-color.png",
+    "depth": "references/Masculine-optimized-angles-rear-skin1-512-depth.exr",
+    "size": 512,
+    "finite_samples": 49428,
+    "range": [
+      7.533884525299072,
+      8.062005996704102
+    ],
+    "color_sha256": "5b094ea6bc9f7febcf420a69a6c0cb93e381e309bb7c10dab04f1aa0ad9ce391",
+    "depth_sha256": "2e506dace501b0705496a9376ca6e6ebdb5fb2774c7865c1d480c4d91a22971b",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "references/Masculine-optimized-angles-rearquarter-skin1-512-color.png",
+    "depth": "references/Masculine-optimized-angles-rearquarter-skin1-512-depth.exr",
+    "size": 512,
+    "finite_samples": 46096,
+    "range": [
+      7.517956256866455,
+      8.44261360168457
+    ],
+    "color_sha256": "f47e3be13e38a2c16a0bb0fb6e7405874a664865b6fc36b2df55e50afce7f4f1",
+    "depth_sha256": "4aad3f6157c4f940b66447c327ff02c89b37d351785858989cc9742909e92adf",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "references/Masculine-optimized-angles-top-skin1-512-color.png",
+    "depth": "references/Masculine-optimized-angles-top-skin1-512-depth.exr",
+    "size": 512,
+    "finite_samples": 262144,
+    "range": [
+      6.946579933166504,
+      10.128259658813477
+    ],
+    "color_sha256": "588880ccee3f14f745a35432c5aa9040a74ef11d653fd9211303b1ad503249cd",
+    "depth_sha256": "638c028f2f5249eec7717bbdfd9e9853ccfa76afaacde12690ce6011ad790aa1",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "references/Masculine-optimized-angles-underside-skin1-512-color.png",
+    "depth": "references/Masculine-optimized-angles-underside-skin1-512-depth.exr",
+    "size": 512,
+    "finite_samples": 40773,
+    "range": [
+      7.334257125854492,
+      8.702720642089844
+    ],
+    "color_sha256": "a59556fc7cf406f4c1dc1e5949a059a1f671d5861da1e54b8bccad4bc5eae18c",
+    "depth_sha256": "7579bb71d874a00d242a301562a87881f99a3751678c95d6ed178cbc2500b14e",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "references/Masculine-optimized-chat-front-skin0-32-color.png",
+    "depth": "references/Masculine-optimized-chat-front-skin0-32-depth.exr",
+    "size": 32,
+    "finite_samples": 483,
+    "range": [
+      7.437412261962891,
+      8.128819465637207
+    ],
+    "color_sha256": "ed11a7e2719e7006113677dd5f5b3ae4b560e2c532ce233db01fd66ff4575535",
+    "depth_sha256": "50e91d322115b05fadcba01cce20cdcb64228403f3e4cd597fc42cb5dba45d03",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "references/Masculine-optimized-chat-front-skin0-48-color.png",
+    "depth": "references/Masculine-optimized-chat-front-skin0-48-depth.exr",
+    "size": 48,
+    "finite_samples": 1092,
+    "range": [
+      7.35860013961792,
+      8.120850563049316
+    ],
+    "color_sha256": "a1a1ef3a23a668a3e8ab9fafa116ef552c56762db6b2c26f907b38821e812cac",
+    "depth_sha256": "65bb5778b466c64bf984eec5e89806c7fa6f2c7d59beb9aeea43e31085af33be",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "references/Masculine-optimized-chat-front-skin0-64-color.png",
+    "depth": "references/Masculine-optimized-chat-front-skin0-64-depth.exr",
+    "size": 64,
+    "finite_samples": 1939,
+    "range": [
+      7.343916893005371,
+      8.120048522949219
+    ],
+    "color_sha256": "134d1067bfe5f36536d4e13817198cf75661a665ebaad26a7705a9ee3bf23c8a",
+    "depth_sha256": "8176a4291225314eecd529d5ff416aeff699261a767304c42e4c790854d19bef",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "references/Masculine-optimized-chat-front-skin0-120-color.png",
+    "depth": "references/Masculine-optimized-chat-front-skin0-120-depth.exr",
+    "size": 120,
+    "finite_samples": 6832,
+    "range": [
+      7.343978404998779,
+      8.13676929473877
+    ],
+    "color_sha256": "a69119782b8b55aa8f9ae1c383154aa79e33c8d7a81eb241fc7b69599137abc6",
+    "depth_sha256": "a9b8be845bff233e7e2726ccfaa23619fdebb7e94575516019c0551b0c44f204",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "references/Masculine-optimized-chat-front-skin3-32-color.png",
+    "depth": "references/Masculine-optimized-chat-front-skin3-32-depth.exr",
+    "size": 32,
+    "finite_samples": 483,
+    "range": [
+      7.437412261962891,
+      8.128819465637207
+    ],
+    "color_sha256": "5424d68ee1afb8ea50778ac8b1ef2d57d7e65106a3279fb3fcf5c514c15cc334",
+    "depth_sha256": "ae9a055cc2d2a8421669a95586881fdab7e28e7d25d3b081ab766bacbb9bbcca",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "references/Masculine-optimized-chat-front-skin3-48-color.png",
+    "depth": "references/Masculine-optimized-chat-front-skin3-48-depth.exr",
+    "size": 48,
+    "finite_samples": 1092,
+    "range": [
+      7.35860013961792,
+      8.120850563049316
+    ],
+    "color_sha256": "37652320dc2c9e5c83f8490bb6e60dbc5a15b2389760370dbda62410e22d0d6e",
+    "depth_sha256": "6f1325eaf62d3d42cdb8c939799682e5c97673046a2fe6ab3c27a2b55718d563",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "references/Masculine-optimized-chat-front-skin3-64-color.png",
+    "depth": "references/Masculine-optimized-chat-front-skin3-64-depth.exr",
+    "size": 64,
+    "finite_samples": 1939,
+    "range": [
+      7.343916893005371,
+      8.120048522949219
+    ],
+    "color_sha256": "d6bf2cdffce383eb52be91ce4a105a995aa973ef70821fad878fe400038fc9bc",
+    "depth_sha256": "8176a4291225314eecd529d5ff416aeff699261a767304c42e4c790854d19bef",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "references/Masculine-optimized-chat-front-skin3-120-color.png",
+    "depth": "references/Masculine-optimized-chat-front-skin3-120-depth.exr",
+    "size": 120,
+    "finite_samples": 6832,
+    "range": [
+      7.343978404998779,
+      8.13676929473877
+    ],
+    "color_sha256": "0781b20eab3adab8a2d4239478f9a1162c14f35419d0dccd2060e27d52297f8e",
+    "depth_sha256": "a9b8be845bff233e7e2726ccfaa23619fdebb7e94575516019c0551b0c44f204",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "layers/Feminine-body-face-skin0-120-color.png",
+    "depth": "layers/Feminine-body-face-skin0-120-depth.exr",
+    "size": 120,
+    "finite_samples": 5009,
+    "range": [
+      7.603636264801025,
+      8.022769927978516
+    ],
+    "color_sha256": "90472753860353f1887d006f5a5fd1d851783c75889a43c092ae72f8477003ea",
+    "depth_sha256": "a8ef1f70acaa69e8d191a9053c5fc5dd318eb2109e258df87f8bb7b49e95b4c1",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "layers/Feminine-hair-skin0-120-color.png",
+    "depth": "layers/Feminine-hair-skin0-120-depth.exr",
+    "size": 120,
+    "finite_samples": 2550,
+    "range": [
+      7.625580310821533,
+      8.433517456054688
+    ],
+    "color_sha256": "cfe4984bc1cb8d583ce894f1a042dc8c64b58309f31a3bf0b944a90f31f669db",
+    "depth_sha256": "e04ca8649af02cadda4b273afc09ba827a845343d342cb8c9916063ea3b6b5f7",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "layers/Feminine-headgear-skin0-120-color.png",
+    "depth": "layers/Feminine-headgear-skin0-120-depth.exr",
+    "size": 120,
+    "finite_samples": 1513,
+    "range": [
+      7.311935901641846,
+      8.46221923828125
+    ],
+    "color_sha256": "1a15450d3763df4b2ca454b793d6839b004433b32ad0c04162449a424151ef6e",
+    "depth_sha256": "840dd4f1ebf183d5e1613a0de7752448e4e12c0a31d59aa55cec5f0ffa6432b4",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "layers/Feminine-top-skin0-120-color.png",
+    "depth": "layers/Feminine-top-skin0-120-depth.exr",
+    "size": 120,
+    "finite_samples": 1546,
+    "range": [
+      7.7308125495910645,
+      8.19347095489502
+    ],
+    "color_sha256": "8a26468888f5fcff77c3a95b79425e9374fd92ca0aa85758d632761af8d60d98",
+    "depth_sha256": "1d6c1baac0bdf70961369eb3eaf7c60342f07c339f7683aa27270ebaf55f071a",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "layers/Feminine-frames-skin0-120-color.png",
+    "depth": "layers/Feminine-frames-skin0-120-depth.exr",
+    "size": 120,
+    "finite_samples": 174,
+    "range": [
+      7.5429606437683105,
+      8.070648193359375
+    ],
+    "color_sha256": "9cef32576c31f4ff2ef8c97969bc9e1c8a39fdf5501fd2cda135f462bd155167",
+    "depth_sha256": "491e84cdced7743e53033afa6e3e36b3331733890711df2a8619138551aa0e01",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "layers/Feminine-detail-skin0-120-color.png",
+    "depth": "layers/Feminine-detail-skin0-120-depth.exr",
+    "size": 120,
+    "finite_samples": 101,
+    "range": [
+      7.635723114013672,
+      7.761096477508545
+    ],
+    "color_sha256": "ab7428a1a80702dd06b6b61dc5d7d6328b8653d0cc472b7acac16eb8867cc3fe",
+    "depth_sha256": "fa1782e533413122d4d382b53d743766d324bf9c792fc018e7d2d8d1de48adb0",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "layers/Feminine-lenses-skin0-120-color.png",
+    "depth": "layers/Feminine-lenses-skin0-120-depth.exr",
+    "size": 120,
+    "finite_samples": 308,
+    "range": [
+      7.548295497894287,
+      7.593646049499512
+    ],
+    "color_sha256": "573ae5ee7720af3e402e38cf0a0ff86e8b7f150bc96a978a38111f9ccc1f1d7e",
+    "depth_sha256": "088389a66317a143b96a2cdc95588bb6e611cd79c4ebe69002f215b32680776e",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "layers/Feminine-body-face-skin0-512-color.png",
+    "depth": "layers/Feminine-body-face-skin0-512-depth.exr",
+    "size": 512,
+    "finite_samples": 90897,
+    "range": [
+      7.603617191314697,
+      8.022372245788574
+    ],
+    "color_sha256": "b7122842b69af422d9c13bcfc8449f4c65f2646bbb943db582a3985a70f9783c",
+    "depth_sha256": "194b558d8f5d7276eb27295396cfcfb526765812e8ffa56ad523318b0214a764",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "layers/Feminine-hair-skin0-512-color.png",
+    "depth": "layers/Feminine-hair-skin0-512-depth.exr",
+    "size": 512,
+    "finite_samples": 46403,
+    "range": [
+      7.625251770019531,
+      8.434444427490234
+    ],
+    "color_sha256": "687e2cc5ca2b73512ffae50086c79bdfb2622b1b026f2956013b4f8346a6d1a2",
+    "depth_sha256": "f404e931754a833ec11bab2c932a2e48267134dddc3bfb0ec79d2f1905c63045",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "layers/Feminine-headgear-skin0-512-color.png",
+    "depth": "layers/Feminine-headgear-skin0-512-depth.exr",
+    "size": 512,
+    "finite_samples": 27404,
+    "range": [
+      7.309856414794922,
+      8.463336944580078
+    ],
+    "color_sha256": "a1308268b2e3dbbdc8f3a54512185b9d1072bd3007b78abb61056f3cb7d6f3d0",
+    "depth_sha256": "5df3269f08fb1c4dae6d733bcc15501979243b6bff2add79492fb77b9468a9b9",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "layers/Feminine-top-skin0-512-color.png",
+    "depth": "layers/Feminine-top-skin0-512-depth.exr",
+    "size": 512,
+    "finite_samples": 28178,
+    "range": [
+      7.728824615478516,
+      8.193411827087402
+    ],
+    "color_sha256": "fbf6a1c7eeb21a979834436abfaece0cff0bd611c26c12efb715b2c28999a624",
+    "depth_sha256": "d6bb8747f6071009b6d7c2aa33882405c8b98f8de5e15dfa1c2e9cde62acd377",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "layers/Feminine-frames-skin0-512-color.png",
+    "depth": "layers/Feminine-frames-skin0-512-depth.exr",
+    "size": 512,
+    "finite_samples": 3354,
+    "range": [
+      7.542398929595947,
+      8.097617149353027
+    ],
+    "color_sha256": "d26a54a9ff92e71fccf0868e998e2073dc601cd2f8b950c350128d445aa268ac",
+    "depth_sha256": "668f36d6f337d09b8a5d7ff78e9958bbd036e310f5f9c64eef701418419d6c92",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "layers/Feminine-detail-skin0-512-color.png",
+    "depth": "layers/Feminine-detail-skin0-512-depth.exr",
+    "size": 512,
+    "finite_samples": 1784,
+    "range": [
+      7.634636402130127,
+      7.766579627990723
+    ],
+    "color_sha256": "055412b489cfb18c365ea4e531b9fcff34d417a633363dc23c13eca2368ea537",
+    "depth_sha256": "eedcc6166adf94c0cb5dc74c52d23e7279ac4432e7c62d16e05e09c651beda32",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "layers/Feminine-lenses-skin0-512-color.png",
+    "depth": "layers/Feminine-lenses-skin0-512-depth.exr",
+    "size": 512,
+    "finite_samples": 5892,
+    "range": [
+      7.546150207519531,
+      7.593665599822998
+    ],
+    "color_sha256": "05e19292b08d6a012a156dd3eb645befd643e5b3da876d865e70668188b2d596",
+    "depth_sha256": "60a89fafd956a2ab4ed27e2a6e7f8ca34a4845eabdad6b84d04301ceeb6340d6",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "layers/Feminine-body-face-skin3-120-color.png",
+    "depth": "layers/Feminine-body-face-skin3-120-depth.exr",
+    "size": 120,
+    "finite_samples": 5009,
+    "range": [
+      7.603636264801025,
+      8.022769927978516
+    ],
+    "color_sha256": "7e0694c3135a7cb48c372d2aa1caea0922308d059c15ab73d27936581cf17433",
+    "depth_sha256": "2e324c19cc3d264323f30ac267bb236f7dafb3f2f0ffe0d888e57f41fac0875a",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "layers/Feminine-hair-skin3-120-color.png",
+    "depth": "layers/Feminine-hair-skin3-120-depth.exr",
+    "size": 120,
+    "finite_samples": 2550,
+    "range": [
+      7.625580310821533,
+      8.433517456054688
+    ],
+    "color_sha256": "07e7491365be317675e3a7434ae477516c4b85353649180aa26f0213d8c83260",
+    "depth_sha256": "a8c50ceafd01b4fb66539121fbe1f0409dcb7e991385b9d7bc612c8b816b3f2c",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "layers/Feminine-headgear-skin3-120-color.png",
+    "depth": "layers/Feminine-headgear-skin3-120-depth.exr",
+    "size": 120,
+    "finite_samples": 1513,
+    "range": [
+      7.311935901641846,
+      8.46221923828125
+    ],
+    "color_sha256": "2a03d71cb6ed02aacdbf5771347903708efd5be5b35bd9d25c9c985ec56b42cb",
+    "depth_sha256": "b5bb94c189a54c00a3ec6e88290f4353c494868245ce9fdf2403706cb36000b7",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "layers/Feminine-top-skin3-120-color.png",
+    "depth": "layers/Feminine-top-skin3-120-depth.exr",
+    "size": 120,
+    "finite_samples": 1546,
+    "range": [
+      7.7308125495910645,
+      8.19347095489502
+    ],
+    "color_sha256": "c297b966ce54c9835ab459e4d17cf87060dcb5f6acb43b96e84c9d322693ebeb",
+    "depth_sha256": "3ba2941b60faaa084031aa8b2594ea4b5d56504fdeb36b2c79b6c15c8b3602ca",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "layers/Feminine-frames-skin3-120-color.png",
+    "depth": "layers/Feminine-frames-skin3-120-depth.exr",
+    "size": 120,
+    "finite_samples": 174,
+    "range": [
+      7.5429606437683105,
+      8.070648193359375
+    ],
+    "color_sha256": "875e3577551acc7076d90ca1eb5aeb067ee5eecb24b9ec88f9e6b73cca33cf6b",
+    "depth_sha256": "7b06d1f620bfb381d33b28a2b98d86c086352389911cb70422c8e1be0c5b460b",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "layers/Feminine-detail-skin3-120-color.png",
+    "depth": "layers/Feminine-detail-skin3-120-depth.exr",
+    "size": 120,
+    "finite_samples": 101,
+    "range": [
+      7.635723114013672,
+      7.761096477508545
+    ],
+    "color_sha256": "2a377965fac37b804f9d8e99700d26ce129e860328c0777ddbc4ea659fa28a59",
+    "depth_sha256": "3557a1572fa1a3bc97deb433ee5869541197922a98c0b5e5f32ffe9b321fb504",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "layers/Feminine-lenses-skin3-120-color.png",
+    "depth": "layers/Feminine-lenses-skin3-120-depth.exr",
+    "size": 120,
+    "finite_samples": 308,
+    "range": [
+      7.548295497894287,
+      7.593646049499512
+    ],
+    "color_sha256": "2d94ffa80dcfd096792fab84fcea24ad5b7f337cfbba4c62d4e0bf0ed9fc5b61",
+    "depth_sha256": "63bc5d6acc7d3752a6a3273435485bb10b5a849172ed7043050326fd63da150c",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "layers/Feminine-body-face-skin3-512-color.png",
+    "depth": "layers/Feminine-body-face-skin3-512-depth.exr",
+    "size": 512,
+    "finite_samples": 90897,
+    "range": [
+      7.603617191314697,
+      8.022372245788574
+    ],
+    "color_sha256": "607437636c13fbed5d6480a915bcc24d29d0d4b256d1bc975c309806fffa26e1",
+    "depth_sha256": "33919a13a79a7ffaed5a5dd672d0b5d7577fb89ad5bd565b4bcab8e2fb4ef052",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "layers/Feminine-hair-skin3-512-color.png",
+    "depth": "layers/Feminine-hair-skin3-512-depth.exr",
+    "size": 512,
+    "finite_samples": 46403,
+    "range": [
+      7.625251770019531,
+      8.434444427490234
+    ],
+    "color_sha256": "dcf8a20d2064fa394df9418fbd812dd4b3af4be5e1a95966161f6e5f876f2d82",
+    "depth_sha256": "09d09e956b429c16f26828a0b9c2b007505237db2c491996b12c9b8d7ce65c67",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "layers/Feminine-headgear-skin3-512-color.png",
+    "depth": "layers/Feminine-headgear-skin3-512-depth.exr",
+    "size": 512,
+    "finite_samples": 27404,
+    "range": [
+      7.309856414794922,
+      8.463336944580078
+    ],
+    "color_sha256": "7a27827b08d015ec216b4cbb9f85514792f8654f39310489a67bce6e4b60c5ab",
+    "depth_sha256": "dae6fb785357f799cfbdf8af03aa68eff07993789faa7d4254522769a46d12f6",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "layers/Feminine-top-skin3-512-color.png",
+    "depth": "layers/Feminine-top-skin3-512-depth.exr",
+    "size": 512,
+    "finite_samples": 28178,
+    "range": [
+      7.728824615478516,
+      8.193411827087402
+    ],
+    "color_sha256": "1fafd1c6dde81338a03555364498247f1e5e5f37c88467b3652883560ff576fe",
+    "depth_sha256": "1c924d125ab8018a6fa58cdbb86b323481be07c966301e7a5fc3aca62d41b983",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "layers/Feminine-frames-skin3-512-color.png",
+    "depth": "layers/Feminine-frames-skin3-512-depth.exr",
+    "size": 512,
+    "finite_samples": 3354,
+    "range": [
+      7.542398929595947,
+      8.097617149353027
+    ],
+    "color_sha256": "f2478de28e39d07e810ecf85b8d10af60fd820007f5ec9e870bfaa264fde3591",
+    "depth_sha256": "db62340cf0b4e81eabb314c00f6fee7317811907a63e84113525e7a815f7adbc",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "layers/Feminine-detail-skin3-512-color.png",
+    "depth": "layers/Feminine-detail-skin3-512-depth.exr",
+    "size": 512,
+    "finite_samples": 1784,
+    "range": [
+      7.634636402130127,
+      7.766579627990723
+    ],
+    "color_sha256": "9b8a55d3ba6a022758ec6cb3b3b7b8b4c53ffd6180e17aa7fc23d3f1dc8c12d2",
+    "depth_sha256": "d8a535d99eca01c51c4fe73d9ffa81a58e700aa82457f3a38fd246b2fdae4444",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "layers/Feminine-lenses-skin3-512-color.png",
+    "depth": "layers/Feminine-lenses-skin3-512-depth.exr",
+    "size": 512,
+    "finite_samples": 5892,
+    "range": [
+      7.546150207519531,
+      7.593665599822998
+    ],
+    "color_sha256": "a13a9293caf0c3642e6d6b27812545351841682a4f3aef482344b359c77a9edb",
+    "depth_sha256": "e5661bde28f74796c9ff195dd4ea10ed22bb3b8d8fa45a59b02364948e33b7de",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0"
+  },
+  {
+    "color": "layers/Masculine-body-face-skin0-120-color.png",
+    "depth": "layers/Masculine-body-face-skin0-120-depth.exr",
+    "size": 120,
+    "finite_samples": 5134,
+    "range": [
+      7.603636264801025,
+      8.022769927978516
+    ],
+    "color_sha256": "151355a96b58f51cbdedc7a8d0c8f6ba11912150a3d97161bb5d743e2860e59a",
+    "depth_sha256": "5bdf67227247f305116513798714e8f782203a741e61d1e27c03f661f015dd85",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "layers/Masculine-hair-skin0-120-color.png",
+    "depth": "layers/Masculine-hair-skin0-120-depth.exr",
+    "size": 120,
+    "finite_samples": 1663,
+    "range": [
+      7.706057548522949,
+      8.425915718078613
+    ],
+    "color_sha256": "9cff00066d4ea78a76768667e932f13c32ad68a9e6777911cd205104e174cfbe",
+    "depth_sha256": "920ebc8822737ab9cae732c181c3cb4ced3157492bab8150de7d607325cc6e50",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "layers/Masculine-headgear-skin0-120-color.png",
+    "depth": "layers/Masculine-headgear-skin0-120-depth.exr",
+    "size": 120,
+    "finite_samples": 1470,
+    "range": [
+      7.343914031982422,
+      8.46207046508789
+    ],
+    "color_sha256": "ea5b8c8bfdc13cd33a56010a5d41fc0357f5015b8677278a73c3387482405cfe",
+    "depth_sha256": "77655fedd5c0a733d76f7eb55c5bbb5af82a77e7256bbc4e31353ca3a3d7942f",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "layers/Masculine-top-skin0-120-color.png",
+    "depth": "layers/Masculine-top-skin0-120-depth.exr",
+    "size": 120,
+    "finite_samples": 1637,
+    "range": [
+      7.799722671508789,
+      8.202181816101074
+    ],
+    "color_sha256": "bf0ed9ec6622565bda87c384129139268fe9979ae33de23e64633d288c05cd68",
+    "depth_sha256": "26c40ec82f2acaa9c257fc09125cfe42f68b8218ea45d71ca36b227fe0768362",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "layers/Masculine-frames-skin0-120-color.png",
+    "depth": "layers/Masculine-frames-skin0-120-depth.exr",
+    "size": 120,
+    "finite_samples": 110,
+    "range": [
+      7.558111190795898,
+      8.039315223693848
+    ],
+    "color_sha256": "2206725447c54ab91a8381208176ed6ba703f82f2019fa17dfa18ffde86ad749",
+    "depth_sha256": "4166685f2cfea9979ee1cd1a5b15be9cfd6e7e876475af53ce4b5e52a31c14f6",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "layers/Masculine-detail-skin0-120-color.png",
+    "depth": "layers/Masculine-detail-skin0-120-depth.exr",
+    "size": 120,
+    "finite_samples": 101,
+    "range": [
+      7.6356096267700195,
+      7.758264541625977
+    ],
+    "color_sha256": "17acff4c8d399b788adaea8f6ae1340b50a71308fda3006c24bc8662d901ce2c",
+    "depth_sha256": "618dc0a891d2338d51fbfb53b468f4f10529451218db09d1d291cdde493ab866",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "layers/Masculine-lenses-skin0-120-color.png",
+    "depth": "layers/Masculine-lenses-skin0-120-depth.exr",
+    "size": 120,
+    "finite_samples": 478,
+    "range": [
+      7.56800651550293,
+      7.641353130340576
+    ],
+    "color_sha256": "9a61a20ae4f6752df8b259caa92f3affa51a233c32e53220868fa01ac45defde",
+    "depth_sha256": "565e86d7260e23824b4e8fd3fbed21f99cf7b1abc3f570001a8b6b06a2223ed8",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "layers/Masculine-body-face-skin0-512-color.png",
+    "depth": "layers/Masculine-body-face-skin0-512-depth.exr",
+    "size": 512,
+    "finite_samples": 93456,
+    "range": [
+      7.603617191314697,
+      8.02314281463623
+    ],
+    "color_sha256": "7e72e7f692f6c6221c4615a017ea6c7cbf56d34293153ecbc48620685be69171",
+    "depth_sha256": "6281dcd2b596a0abcf5aafc7c7fa3d9c52fb58e95314354004e966269f568c9e",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "layers/Masculine-hair-skin0-512-color.png",
+    "depth": "layers/Masculine-hair-skin0-512-depth.exr",
+    "size": 512,
+    "finite_samples": 30383,
+    "range": [
+      7.704864025115967,
+      8.430620193481445
+    ],
+    "color_sha256": "274661762ff18d1dec1441cf2a1157877b7952d0953862e5d8b8db2f404802e4",
+    "depth_sha256": "5a437e06b884e60be282e1fc8a9dfbb2aa4d0e0e0285c8eddb36f7a996af0b5d",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "layers/Masculine-headgear-skin0-512-color.png",
+    "depth": "layers/Masculine-headgear-skin0-512-depth.exr",
+    "size": 512,
+    "finite_samples": 26814,
+    "range": [
+      7.343862056732178,
+      8.462640762329102
+    ],
+    "color_sha256": "8cd25d2f983380dafd20d8171a509370b964ef743a63c20e0ac84712bee4577a",
+    "depth_sha256": "c8c80eb8cd1986677c107246ce63a90358264916df1e72fb74ab277ca933cb1a",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "layers/Masculine-top-skin0-512-color.png",
+    "depth": "layers/Masculine-top-skin0-512-depth.exr",
+    "size": 512,
+    "finite_samples": 29938,
+    "range": [
+      7.797685623168945,
+      8.20224666595459
+    ],
+    "color_sha256": "55dabe4ff3f260f890a1e362edc69c657b51c11b7470015a9a338cb4c1213574",
+    "depth_sha256": "666aeeb31a6dd171b6f48acd7dcd9b20fc1ff8146b9c93cb6bb62fb082ae30b7",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "layers/Masculine-frames-skin0-512-color.png",
+    "depth": "layers/Masculine-frames-skin0-512-depth.exr",
+    "size": 512,
+    "finite_samples": 2248,
+    "range": [
+      7.556149005889893,
+      8.041109085083008
+    ],
+    "color_sha256": "d5acee1222a268d42f73ef79a55eecf3c1c9dd9b9f9b0f5ce62e5c80e0b297b0",
+    "depth_sha256": "4d03f30782c1349fadf4947b66bd38e8b6f5465d04f2aa590d32ee08bf9eec72",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "layers/Masculine-detail-skin0-512-color.png",
+    "depth": "layers/Masculine-detail-skin0-512-depth.exr",
+    "size": 512,
+    "finite_samples": 1785,
+    "range": [
+      7.63456916809082,
+      7.763837814331055
+    ],
+    "color_sha256": "64e3317ad63069be2abf9424128b43bd97a525ce217d2104b986fa43eeab1fd5",
+    "depth_sha256": "99eae855af019bd903e5fb8771c64dee11819a63074151501ee2c16c6d6131f0",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "layers/Masculine-lenses-skin0-512-color.png",
+    "depth": "layers/Masculine-lenses-skin0-512-depth.exr",
+    "size": 512,
+    "finite_samples": 8964,
+    "range": [
+      7.567507266998291,
+      7.64419412612915
+    ],
+    "color_sha256": "8db9f415ee7958461da214c4b5c88e4a18f0115199d775c746c7144fc179faa3",
+    "depth_sha256": "9d4c0b0259c702f68445ea329d02cd5c2f54b22793f92b6adf691dc94f70aa1e",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "layers/Masculine-body-face-skin3-120-color.png",
+    "depth": "layers/Masculine-body-face-skin3-120-depth.exr",
+    "size": 120,
+    "finite_samples": 5134,
+    "range": [
+      7.603636264801025,
+      8.022769927978516
+    ],
+    "color_sha256": "0b8fccdcbb8eb1fccadd7ea1df5736bdb3aaef9dae4dfc54ea129ab5f1578798",
+    "depth_sha256": "2249df47a3284d32f668dbac54ad814ea267d8a98e22da98df1aefaa4ab934de",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "layers/Masculine-hair-skin3-120-color.png",
+    "depth": "layers/Masculine-hair-skin3-120-depth.exr",
+    "size": 120,
+    "finite_samples": 1663,
+    "range": [
+      7.706057548522949,
+      8.425915718078613
+    ],
+    "color_sha256": "5bc3eed7025666949e0b59f5397ef0869dce0deb14436cdbf63de755a3f5f11f",
+    "depth_sha256": "582815a8d762c2a4ad7b57e948aaf8bb7c5a9d19d0634e9a6624c4870d6e9329",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "layers/Masculine-headgear-skin3-120-color.png",
+    "depth": "layers/Masculine-headgear-skin3-120-depth.exr",
+    "size": 120,
+    "finite_samples": 1470,
+    "range": [
+      7.343914031982422,
+      8.46207046508789
+    ],
+    "color_sha256": "20d0ab68726c292a720328bcd809bcd9f2a691b05417d975f16f1587a539c641",
+    "depth_sha256": "4f7694243b105d4b77f7676f498b629fa5b107b2e96145279c1f50ff72451bff",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "layers/Masculine-top-skin3-120-color.png",
+    "depth": "layers/Masculine-top-skin3-120-depth.exr",
+    "size": 120,
+    "finite_samples": 1637,
+    "range": [
+      7.799722671508789,
+      8.202181816101074
+    ],
+    "color_sha256": "f56ed073533af4677e53c102e44ccba44309c8f19e8e2c4ce5a3db4cb0334141",
+    "depth_sha256": "e29b1cf27c9e089b34b7dc2093ebab2952ec6fa073d83fdce710f9112db46e3d",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "layers/Masculine-frames-skin3-120-color.png",
+    "depth": "layers/Masculine-frames-skin3-120-depth.exr",
+    "size": 120,
+    "finite_samples": 110,
+    "range": [
+      7.558111190795898,
+      8.039315223693848
+    ],
+    "color_sha256": "1913e352f62ea9fadc0984a166a7d41b6bb37eb373a3797b9ee0821fe621f13a",
+    "depth_sha256": "82f9040286e3a51d6dbeccd9498018983cc4c7000108f436229137cd4b0fff28",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "layers/Masculine-detail-skin3-120-color.png",
+    "depth": "layers/Masculine-detail-skin3-120-depth.exr",
+    "size": 120,
+    "finite_samples": 101,
+    "range": [
+      7.6356096267700195,
+      7.758264541625977
+    ],
+    "color_sha256": "dd9cba8301b33de4050460a3de6192fbf2b99bdaee35655b7b964862031d6a68",
+    "depth_sha256": "b125421005ec33b641e005b4db218697bc7df9492c50901c59b775a875193ed8",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "layers/Masculine-lenses-skin3-120-color.png",
+    "depth": "layers/Masculine-lenses-skin3-120-depth.exr",
+    "size": 120,
+    "finite_samples": 478,
+    "range": [
+      7.56800651550293,
+      7.641353130340576
+    ],
+    "color_sha256": "457955bc82a9b115e3b6ab7c2658ef7befba0aac28816251f6218d36d06e9e94",
+    "depth_sha256": "9e4e914904832d87c740e88aba95929aac42c74016bfbdc84a0bed0b902f9b2e",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "layers/Masculine-body-face-skin3-512-color.png",
+    "depth": "layers/Masculine-body-face-skin3-512-depth.exr",
+    "size": 512,
+    "finite_samples": 93456,
+    "range": [
+      7.603617191314697,
+      8.02314281463623
+    ],
+    "color_sha256": "4ff554c53e819d04dd940e4861e76ea6b0043beb033155dd96ba4fab451e0793",
+    "depth_sha256": "78eb1776e7fda28760f1421376871c7aa6b495b65e75d0208281b3b6372f9811",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "layers/Masculine-hair-skin3-512-color.png",
+    "depth": "layers/Masculine-hair-skin3-512-depth.exr",
+    "size": 512,
+    "finite_samples": 30383,
+    "range": [
+      7.704864025115967,
+      8.430620193481445
+    ],
+    "color_sha256": "01e51549136d97b117cc6195612dd1bf28f9236ad09da24d3bd938f3dbfd2164",
+    "depth_sha256": "9973326a6bf3bffcffb88455f6213981ff0fce1cbffd5dea58381bea6d00a7fe",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "layers/Masculine-headgear-skin3-512-color.png",
+    "depth": "layers/Masculine-headgear-skin3-512-depth.exr",
+    "size": 512,
+    "finite_samples": 26814,
+    "range": [
+      7.343862056732178,
+      8.462640762329102
+    ],
+    "color_sha256": "4194f339045c7727ddc8cad9a715c746c1f8c2ee17fcee4b7fefc2b91eecf792",
+    "depth_sha256": "446a0664937e5b93766a47f53f15b2c2eb04b2b03f7d7db4f20bfef93364e3ac",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "layers/Masculine-top-skin3-512-color.png",
+    "depth": "layers/Masculine-top-skin3-512-depth.exr",
+    "size": 512,
+    "finite_samples": 29938,
+    "range": [
+      7.797685623168945,
+      8.20224666595459
+    ],
+    "color_sha256": "db0b56a6c75c0fa90fc22cb931692014010dd28010e36b22f0cd51cc6f12812e",
+    "depth_sha256": "6f1bb3c97dc7c23a9e83f903ba84e8ff74d5c78f1d081fd263694b9c31adf41f",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "layers/Masculine-frames-skin3-512-color.png",
+    "depth": "layers/Masculine-frames-skin3-512-depth.exr",
+    "size": 512,
+    "finite_samples": 2248,
+    "range": [
+      7.556149005889893,
+      8.041109085083008
+    ],
+    "color_sha256": "39bcb67c4303c859aabb5d5f7cbf0edd9f4656d2d6ad3c28d46c55d87b7f450a",
+    "depth_sha256": "30ef42730605af906cfd89055f30c6e0878cb47a6a7e40e510cdeff2cb01ac45",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "layers/Masculine-detail-skin3-512-color.png",
+    "depth": "layers/Masculine-detail-skin3-512-depth.exr",
+    "size": 512,
+    "finite_samples": 1785,
+    "range": [
+      7.63456916809082,
+      7.763837814331055
+    ],
+    "color_sha256": "68814b46e068b37db274e9b678c81113df67d41fa8413a167320dff5b45d4111",
+    "depth_sha256": "1ed9286e12fc1a18eab40914791e8053aee53137ccd89f5b97365190ff9ac99a",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  },
+  {
+    "color": "layers/Masculine-lenses-skin3-512-color.png",
+    "depth": "layers/Masculine-lenses-skin3-512-depth.exr",
+    "size": 512,
+    "finite_samples": 8964,
+    "range": [
+      7.567507266998291,
+      7.64419412612915
+    ],
+    "color_sha256": "7324c24930b585722825cad6b86dfb33af92daf475d8b88ca9a9e32742a0546d",
+    "depth_sha256": "e60e4a7a97c38cbc28ea75b8209149f931b06aa69cf6a22146bbac15b7810a01",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06"
+  }
+]

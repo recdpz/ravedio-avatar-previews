@@ -1,0 +1,882 @@
+[
+  {
+    "build": "Masculine",
+    "skin": 0,
+    "size": 120,
+    "group": "body-face",
+    "roles": [
+      "base",
+      "eyes",
+      "mouth",
+      "lashes"
+    ],
+    "color": "layers/Masculine-body-face-skin0-120-color.png",
+    "depth": "layers/Masculine-body-face-skin0-120-depth.exr",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": false,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Masculine",
+    "skin": 0,
+    "size": 120,
+    "group": "hair",
+    "roles": [
+      "hair"
+    ],
+    "color": "layers/Masculine-hair-skin0-120-color.png",
+    "depth": "layers/Masculine-hair-skin0-120-depth.exr",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": true,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Masculine",
+    "skin": 0,
+    "size": 120,
+    "group": "headgear",
+    "roles": [
+      "headgear"
+    ],
+    "color": "layers/Masculine-headgear-skin0-120-color.png",
+    "depth": "layers/Masculine-headgear-skin0-120-depth.exr",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": false,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Masculine",
+    "skin": 0,
+    "size": 120,
+    "group": "top",
+    "roles": [
+      "top"
+    ],
+    "color": "layers/Masculine-top-skin0-120-color.png",
+    "depth": "layers/Masculine-top-skin0-120-depth.exr",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": false,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Masculine",
+    "skin": 0,
+    "size": 120,
+    "group": "frames",
+    "roles": [
+      "glasses"
+    ],
+    "color": "layers/Masculine-frames-skin0-120-color.png",
+    "depth": "layers/Masculine-frames-skin0-120-depth.exr",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": false,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Masculine",
+    "skin": 0,
+    "size": 120,
+    "group": "detail",
+    "roles": [
+      "extra"
+    ],
+    "color": "layers/Masculine-detail-skin0-120-color.png",
+    "depth": "layers/Masculine-detail-skin0-120-depth.exr",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": false,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Masculine",
+    "skin": 0,
+    "size": 120,
+    "group": "lenses",
+    "roles": [
+      "lenses"
+    ],
+    "color": "layers/Masculine-lenses-skin0-120-color.png",
+    "depth": "layers/Masculine-lenses-skin0-120-depth.exr",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.0,
+    "requires_alpha_compositing": true,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Masculine",
+    "skin": 0,
+    "size": 512,
+    "group": "body-face",
+    "roles": [
+      "base",
+      "eyes",
+      "mouth",
+      "lashes"
+    ],
+    "color": "layers/Masculine-body-face-skin0-512-color.png",
+    "depth": "layers/Masculine-body-face-skin0-512-depth.exr",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": false,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Masculine",
+    "skin": 0,
+    "size": 512,
+    "group": "hair",
+    "roles": [
+      "hair"
+    ],
+    "color": "layers/Masculine-hair-skin0-512-color.png",
+    "depth": "layers/Masculine-hair-skin0-512-depth.exr",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": true,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Masculine",
+    "skin": 0,
+    "size": 512,
+    "group": "headgear",
+    "roles": [
+      "headgear"
+    ],
+    "color": "layers/Masculine-headgear-skin0-512-color.png",
+    "depth": "layers/Masculine-headgear-skin0-512-depth.exr",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": false,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Masculine",
+    "skin": 0,
+    "size": 512,
+    "group": "top",
+    "roles": [
+      "top"
+    ],
+    "color": "layers/Masculine-top-skin0-512-color.png",
+    "depth": "layers/Masculine-top-skin0-512-depth.exr",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": false,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Masculine",
+    "skin": 0,
+    "size": 512,
+    "group": "frames",
+    "roles": [
+      "glasses"
+    ],
+    "color": "layers/Masculine-frames-skin0-512-color.png",
+    "depth": "layers/Masculine-frames-skin0-512-depth.exr",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": false,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Masculine",
+    "skin": 0,
+    "size": 512,
+    "group": "detail",
+    "roles": [
+      "extra"
+    ],
+    "color": "layers/Masculine-detail-skin0-512-color.png",
+    "depth": "layers/Masculine-detail-skin0-512-depth.exr",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": false,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Masculine",
+    "skin": 0,
+    "size": 512,
+    "group": "lenses",
+    "roles": [
+      "lenses"
+    ],
+    "color": "layers/Masculine-lenses-skin0-512-color.png",
+    "depth": "layers/Masculine-lenses-skin0-512-depth.exr",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.0,
+    "requires_alpha_compositing": true,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Masculine",
+    "skin": 3,
+    "size": 120,
+    "group": "body-face",
+    "roles": [
+      "base",
+      "eyes",
+      "mouth",
+      "lashes"
+    ],
+    "color": "layers/Masculine-body-face-skin3-120-color.png",
+    "depth": "layers/Masculine-body-face-skin3-120-depth.exr",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": false,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Masculine",
+    "skin": 3,
+    "size": 120,
+    "group": "hair",
+    "roles": [
+      "hair"
+    ],
+    "color": "layers/Masculine-hair-skin3-120-color.png",
+    "depth": "layers/Masculine-hair-skin3-120-depth.exr",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": true,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Masculine",
+    "skin": 3,
+    "size": 120,
+    "group": "headgear",
+    "roles": [
+      "headgear"
+    ],
+    "color": "layers/Masculine-headgear-skin3-120-color.png",
+    "depth": "layers/Masculine-headgear-skin3-120-depth.exr",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": false,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Masculine",
+    "skin": 3,
+    "size": 120,
+    "group": "top",
+    "roles": [
+      "top"
+    ],
+    "color": "layers/Masculine-top-skin3-120-color.png",
+    "depth": "layers/Masculine-top-skin3-120-depth.exr",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": false,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Masculine",
+    "skin": 3,
+    "size": 120,
+    "group": "frames",
+    "roles": [
+      "glasses"
+    ],
+    "color": "layers/Masculine-frames-skin3-120-color.png",
+    "depth": "layers/Masculine-frames-skin3-120-depth.exr",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": false,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Masculine",
+    "skin": 3,
+    "size": 120,
+    "group": "detail",
+    "roles": [
+      "extra"
+    ],
+    "color": "layers/Masculine-detail-skin3-120-color.png",
+    "depth": "layers/Masculine-detail-skin3-120-depth.exr",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": false,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Masculine",
+    "skin": 3,
+    "size": 120,
+    "group": "lenses",
+    "roles": [
+      "lenses"
+    ],
+    "color": "layers/Masculine-lenses-skin3-120-color.png",
+    "depth": "layers/Masculine-lenses-skin3-120-depth.exr",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.0,
+    "requires_alpha_compositing": true,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Masculine",
+    "skin": 3,
+    "size": 512,
+    "group": "body-face",
+    "roles": [
+      "base",
+      "eyes",
+      "mouth",
+      "lashes"
+    ],
+    "color": "layers/Masculine-body-face-skin3-512-color.png",
+    "depth": "layers/Masculine-body-face-skin3-512-depth.exr",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": false,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Masculine",
+    "skin": 3,
+    "size": 512,
+    "group": "hair",
+    "roles": [
+      "hair"
+    ],
+    "color": "layers/Masculine-hair-skin3-512-color.png",
+    "depth": "layers/Masculine-hair-skin3-512-depth.exr",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": true,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Masculine",
+    "skin": 3,
+    "size": 512,
+    "group": "headgear",
+    "roles": [
+      "headgear"
+    ],
+    "color": "layers/Masculine-headgear-skin3-512-color.png",
+    "depth": "layers/Masculine-headgear-skin3-512-depth.exr",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": false,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Masculine",
+    "skin": 3,
+    "size": 512,
+    "group": "top",
+    "roles": [
+      "top"
+    ],
+    "color": "layers/Masculine-top-skin3-512-color.png",
+    "depth": "layers/Masculine-top-skin3-512-depth.exr",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": false,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Masculine",
+    "skin": 3,
+    "size": 512,
+    "group": "frames",
+    "roles": [
+      "glasses"
+    ],
+    "color": "layers/Masculine-frames-skin3-512-color.png",
+    "depth": "layers/Masculine-frames-skin3-512-depth.exr",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": false,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Masculine",
+    "skin": 3,
+    "size": 512,
+    "group": "detail",
+    "roles": [
+      "extra"
+    ],
+    "color": "layers/Masculine-detail-skin3-512-color.png",
+    "depth": "layers/Masculine-detail-skin3-512-depth.exr",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": false,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Masculine",
+    "skin": 3,
+    "size": 512,
+    "group": "lenses",
+    "roles": [
+      "lenses"
+    ],
+    "color": "layers/Masculine-lenses-skin3-512-color.png",
+    "depth": "layers/Masculine-lenses-skin3-512-depth.exr",
+    "geometry_sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.0,
+    "requires_alpha_compositing": true,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  }
+]

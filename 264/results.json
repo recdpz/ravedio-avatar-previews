@@ -1,0 +1,54 @@
+{
+  "revision": 264,
+  "baseline": 263,
+  "source_commit": "dc2d174e5342e6683f727354e4e5711fe2116f3f",
+  "scope": "Two ordinary-GLB optimization fixtures; final pass2. Current263 catalogue otherwise untouched.",
+  "native_status": "Pending native appearance comparison and physical-device measurements of264.",
+  "ci": "Local checks only; no GitHub Actions, push or deployment.",
+  "builds": [
+    {
+      "build": "Feminine",
+      "source_bytes": 18191004,
+      "bytes": 4907744,
+      "triangles_before": 831762,
+      "triangles": 228164,
+      "mesh_nodes": 70,
+      "primitives": 79,
+      "materials": 36,
+      "decoded_geometry_bytes": 4810172,
+      "sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+      "source_sha256": "accd9816fd6fcca197f178a4e7ad7ad708991003a7622503a2ace4b9d397f5dc"
+    },
+    {
+      "build": "Masculine",
+      "source_bytes": 23929556,
+      "bytes": 7857320,
+      "triangles_before": 1016178,
+      "triangles": 306934,
+      "mesh_nodes": 55,
+      "primitives": 63,
+      "materials": 32,
+      "decoded_geometry_bytes": 7546124,
+      "sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06",
+      "source_sha256": "c92389dc4668dac89e7bfc9e0bb45b0653ae181295a2f5df6a5c02b80efc1d13"
+    }
+  ],
+  "validation": {
+    "browser_final_pairs": 53,
+    "browser_control_checks": 81,
+    "source_and_derivative_angles_per_build": 8,
+    "all_nodes_transforms_materials_exact": true,
+    "geometric_boundary_edges_exact": true,
+    "four_legs_closed": true,
+    "radial_pants_clearance_samples": 9326,
+    "component_glbs": 21,
+    "color_depth_pairs": 128,
+    "full_assembly_pairs": 72,
+    "layer_pairs": 56,
+    "worst_blender_comparison_mean_rgb_0_255": 0.12296296296296297,
+    "worst_browser_comparison_mean_rgb_0_255": 0.3493703821890572,
+    "minimum_browser_silhouette_iou": 0.997872340425532
+  },
+  "visual_review": "Source and actual export inspected front, both profiles, three-quarter, back, rear-quarter, top and underside; final Blender and browser comparisons, small/light/dark portraits and hidden components. No visible optimization-specific shape or fit regression in these inspected fixtures. This is not catalogue-wide certification.",
+  "second_pass": "Tighter attribute/geometric error budget selected over first candidate. Geometric seam check corrected to distinguish duplicate glTF shading vertices from true holes; physical boundaries stayed exact. Studio floor camera visibility disabled only for underside diagnostics."
+}

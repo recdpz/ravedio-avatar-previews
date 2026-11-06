@@ -1,0 +1,433 @@
+{
+  "url": "http://127.0.0.1:9264/",
+  "checks": [
+    {
+      "build": "Feminine",
+      "key": "hairColor",
+      "value": "default"
+    },
+    {
+      "build": "Feminine",
+      "key": "hairColor",
+      "value": "black"
+    },
+    {
+      "build": "Feminine",
+      "key": "hairColor",
+      "value": "darkbrown"
+    },
+    {
+      "build": "Feminine",
+      "key": "hairColor",
+      "value": "auburn"
+    },
+    {
+      "build": "Feminine",
+      "key": "hairColor",
+      "value": "blonde"
+    },
+    {
+      "build": "Feminine",
+      "key": "hairColor",
+      "value": "platinum"
+    },
+    {
+      "build": "Feminine",
+      "key": "hairColor",
+      "value": "pink"
+    },
+    {
+      "build": "Feminine",
+      "key": "hairColor",
+      "value": "purple"
+    },
+    {
+      "build": "Feminine",
+      "key": "topColor",
+      "value": "default"
+    },
+    {
+      "build": "Feminine",
+      "key": "topColor",
+      "value": "black"
+    },
+    {
+      "build": "Feminine",
+      "key": "topColor",
+      "value": "white"
+    },
+    {
+      "build": "Feminine",
+      "key": "topColor",
+      "value": "blue"
+    },
+    {
+      "build": "Feminine",
+      "key": "topColor",
+      "value": "teal"
+    },
+    {
+      "build": "Feminine",
+      "key": "topColor",
+      "value": "purple"
+    },
+    {
+      "build": "Feminine",
+      "key": "topColor",
+      "value": "pink"
+    },
+    {
+      "build": "Feminine",
+      "key": "topColor",
+      "value": "red"
+    },
+    {
+      "build": "Feminine",
+      "key": "topColor",
+      "value": "lime"
+    },
+    {
+      "build": "Feminine",
+      "key": "bottomColor",
+      "value": "default"
+    },
+    {
+      "build": "Feminine",
+      "key": "bottomColor",
+      "value": "black"
+    },
+    {
+      "build": "Feminine",
+      "key": "bottomColor",
+      "value": "white"
+    },
+    {
+      "build": "Feminine",
+      "key": "bottomColor",
+      "value": "gray"
+    },
+    {
+      "build": "Feminine",
+      "key": "bottomColor",
+      "value": "navy"
+    },
+    {
+      "build": "Feminine",
+      "key": "bottomColor",
+      "value": "blue"
+    },
+    {
+      "build": "Feminine",
+      "key": "bottomColor",
+      "value": "khaki"
+    },
+    {
+      "build": "Feminine",
+      "key": "bottomColor",
+      "value": "red"
+    },
+    {
+      "build": "Feminine",
+      "key": "bottomColor",
+      "value": "pink"
+    },
+    {
+      "build": "Feminine",
+      "key": "headgearColor",
+      "value": "default"
+    },
+    {
+      "build": "Feminine",
+      "key": "headgearColor",
+      "value": "black"
+    },
+    {
+      "build": "Feminine",
+      "key": "headgearColor",
+      "value": "white"
+    },
+    {
+      "build": "Feminine",
+      "key": "headgearColor",
+      "value": "gray"
+    },
+    {
+      "build": "Feminine",
+      "key": "headgearColor",
+      "value": "navy"
+    },
+    {
+      "build": "Feminine",
+      "key": "headgearColor",
+      "value": "blue"
+    },
+    {
+      "build": "Feminine",
+      "key": "headgearColor",
+      "value": "khaki"
+    },
+    {
+      "build": "Feminine",
+      "key": "headgearColor",
+      "value": "red"
+    },
+    {
+      "build": "Feminine",
+      "key": "headgearColor",
+      "value": "pink"
+    },
+    {
+      "build": "Feminine",
+      "key": "frameColor",
+      "value": "black"
+    },
+    {
+      "build": "Feminine",
+      "key": "frameColor",
+      "value": "silver"
+    },
+    {
+      "build": "Feminine",
+      "key": "frameColor",
+      "value": "gold"
+    },
+    {
+      "build": "Feminine",
+      "recolor_reset_exact": true
+    },
+    {
+      "build": "Masculine",
+      "key": "hairColor",
+      "value": "default"
+    },
+    {
+      "build": "Masculine",
+      "key": "hairColor",
+      "value": "black"
+    },
+    {
+      "build": "Masculine",
+      "key": "hairColor",
+      "value": "darkbrown"
+    },
+    {
+      "build": "Masculine",
+      "key": "hairColor",
+      "value": "auburn"
+    },
+    {
+      "build": "Masculine",
+      "key": "hairColor",
+      "value": "blonde"
+    },
+    {
+      "build": "Masculine",
+      "key": "hairColor",
+      "value": "platinum"
+    },
+    {
+      "build": "Masculine",
+      "key": "hairColor",
+      "value": "pink"
+    },
+    {
+      "build": "Masculine",
+      "key": "hairColor",
+      "value": "purple"
+    },
+    {
+      "build": "Masculine",
+      "key": "topColor",
+      "value": "default"
+    },
+    {
+      "build": "Masculine",
+      "key": "topColor",
+      "value": "black"
+    },
+    {
+      "build": "Masculine",
+      "key": "topColor",
+      "value": "white"
+    },
+    {
+      "build": "Masculine",
+      "key": "topColor",
+      "value": "blue"
+    },
+    {
+      "build": "Masculine",
+      "key": "topColor",
+      "value": "teal"
+    },
+    {
+      "build": "Masculine",
+      "key": "topColor",
+      "value": "purple"
+    },
+    {
+      "build": "Masculine",
+      "key": "topColor",
+      "value": "pink"
+    },
+    {
+      "build": "Masculine",
+      "key": "topColor",
+      "value": "red"
+    },
+    {
+      "build": "Masculine",
+      "key": "topColor",
+      "value": "lime"
+    },
+    {
+      "build": "Masculine",
+      "key": "bottomColor",
+      "value": "default"
+    },
+    {
+      "build": "Masculine",
+      "key": "bottomColor",
+      "value": "black"
+    },
+    {
+      "build": "Masculine",
+      "key": "bottomColor",
+      "value": "white"
+    },
+    {
+      "build": "Masculine",
+      "key": "bottomColor",
+      "value": "gray"
+    },
+    {
+      "build": "Masculine",
+      "key": "bottomColor",
+      "value": "navy"
+    },
+    {
+      "build": "Masculine",
+      "key": "bottomColor",
+      "value": "blue"
+    },
+    {
+      "build": "Masculine",
+      "key": "bottomColor",
+      "value": "khaki"
+    },
+    {
+      "build": "Masculine",
+      "key": "bottomColor",
+      "value": "red"
+    },
+    {
+      "build": "Masculine",
+      "key": "bottomColor",
+      "value": "pink"
+    },
+    {
+      "build": "Masculine",
+      "key": "headgearColor",
+      "value": "default"
+    },
+    {
+      "build": "Masculine",
+      "key": "headgearColor",
+      "value": "black"
+    },
+    {
+      "build": "Masculine",
+      "key": "headgearColor",
+      "value": "white"
+    },
+    {
+      "build": "Masculine",
+      "key": "headgearColor",
+      "value": "gray"
+    },
+    {
+      "build": "Masculine",
+      "key": "headgearColor",
+      "value": "navy"
+    },
+    {
+      "build": "Masculine",
+      "key": "headgearColor",
+      "value": "blue"
+    },
+    {
+      "build": "Masculine",
+      "key": "headgearColor",
+      "value": "khaki"
+    },
+    {
+      "build": "Masculine",
+      "key": "headgearColor",
+      "value": "red"
+    },
+    {
+      "build": "Masculine",
+      "key": "headgearColor",
+      "value": "pink"
+    },
+    {
+      "build": "Masculine",
+      "key": "frameColor",
+      "value": "black"
+    },
+    {
+      "build": "Masculine",
+      "key": "frameColor",
+      "value": "silver"
+    },
+    {
+      "build": "Masculine",
+      "key": "frameColor",
+      "value": "gold"
+    },
+    {
+      "build": "Masculine",
+      "recolor_reset_exact": true
+    },
+    {
+      "viewport": {
+        "width": 320,
+        "height": 700
+      },
+      "pointer_and_native_select": true
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "pointer_and_native_select": true
+    },
+    {
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "pointer_and_native_select": true
+    }
+  ],
+  "errors": [],
+  "requests": [
+    "http://127.0.0.1:9264/",
+    "http://127.0.0.1:9264/references/Feminine-optimized-reference-front-skin0-120-color.png",
+    "http://127.0.0.1:9264/references/Feminine-optimized-reference-front-skin3-120-color.png",
+    "http://127.0.0.1:9264/viewer.js",
+    "http://127.0.0.1:9264/references/Masculine-optimized-reference-front-skin0-120-color.png",
+    "http://127.0.0.1:9264/references/Masculine-optimized-reference-front-skin3-120-color.png",
+    "http://127.0.0.1:9264/vendor/three.module.js",
+    "http://127.0.0.1:9264/vendor/loaders/GLTFLoader.js",
+    "http://127.0.0.1:9264/vendor/utils/BufferGeometryUtils.js",
+    "http://127.0.0.1:9264/vendor/three.core.js",
+    "http://127.0.0.1:9264/palette.json",
+    "http://127.0.0.1:9264/colors.json",
+    "http://127.0.0.1:9264/sources/Feminine-hoodie-pants-cap263.glb",
+    "http://127.0.0.1:9264/assets/Feminine-optimized264.glb",
+    "http://127.0.0.1:9264/sources/Masculine-hoodie-pants-cap263.glb",
+    "http://127.0.0.1:9264/assets/Masculine-optimized264.glb"
+  ]
+}

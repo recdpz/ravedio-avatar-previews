@@ -1,0 +1,1365 @@
+[
+  {
+    "build": "Feminine",
+    "file": "assets/Feminine-optimized264.glb",
+    "source_sha256": "accd9816fd6fcca197f178a4e7ad7ad708991003a7622503a2ace4b9d397f5dc",
+    "sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "source_bytes": 18191004,
+    "bytes": 4907744,
+    "triangles_before": 831762,
+    "triangles": 228164,
+    "mesh_nodes": 70,
+    "primitives": 79,
+    "materials": 36,
+    "decoded_geometry_bytes": 4810172,
+    "decoded_geometry_note": "Sum of exported accessor array bytes; excludes engine copies, alignment, pipelines, caches and render targets.",
+    "textures": [],
+    "lens_materials": [
+      {
+        "index": 3,
+        "name": "Glasses / clear non-refracting pane235",
+        "alphaMode": "BLEND",
+        "alpha": 0.07500000298023224,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.14000000059604645
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.5
+          },
+          "KHR_materials_ior": {
+            "ior": 1
+          }
+        }
+      }
+    ],
+    "checks": [
+      {
+        "name": "226 eyelashes / Lashes / charcoal234",
+        "role": "lashes",
+        "before_triangles": 3072,
+        "after_triangles": 3072,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "226 glasses / Accessory / warm metal226",
+        "role": "glasses",
+        "before_triangles": 3232,
+        "after_triangles": 3232,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "226 glasses / Glasses / frame226",
+        "role": "glasses",
+        "before_triangles": 1460,
+        "after_triangles": 1460,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "226 lenses / Glasses / clear non-refracting pane235",
+        "role": "lenses",
+        "before_triangles": 160,
+        "after_triangles": 160,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Bottom / clean cut pants hem201 1.001",
+        "role": "bottom",
+        "before_triangles": 2600,
+        "after_triangles": 2600,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Bottom / clean cut pants hem201 2.001",
+        "role": "bottom",
+        "before_triangles": 2600,
+        "after_triangles": 2600,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Bottom / continuous pants187.001",
+        "role": "bottom",
+        "before_triangles": 231856,
+        "after_triangles": 13910,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Bottom / pocket187 1.001",
+        "role": "bottom",
+        "before_triangles": 636,
+        "after_triangles": 158,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Bottom / pocket187 -1.001",
+        "role": "bottom",
+        "before_triangles": 636,
+        "after_triangles": 162,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Bottom / sewn fly187.001",
+        "role": "bottom",
+        "before_triangles": 796,
+        "after_triangles": 122,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Bottom / side seam187 1.001",
+        "role": "bottom",
+        "before_triangles": 1296,
+        "after_triangles": 1296,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Bottom / side seam187 -1.001",
+        "role": "bottom",
+        "before_triangles": 1296,
+        "after_triangles": 1296,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Cap / bill stitch212 0.77",
+        "role": "headgear",
+        "before_triangles": 1296,
+        "after_triangles": 1136,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Cap / bill stitch212 0.91",
+        "role": "headgear",
+        "before_triangles": 1296,
+        "after_triangles": 1140,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Cap / cloth button212",
+        "role": "headgear",
+        "before_triangles": 528,
+        "after_triangles": 528,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Cap / panel seam212 0",
+        "role": "headgear",
+        "before_triangles": 1296,
+        "after_triangles": 1296,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Cap / panel seam212 1",
+        "role": "headgear",
+        "before_triangles": 1296,
+        "after_triangles": 1296,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Cap / panel seam212 2",
+        "role": "headgear",
+        "before_triangles": 1296,
+        "after_triangles": 1296,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Cap / panel seam212 3",
+        "role": "headgear",
+        "before_triangles": 1296,
+        "after_triangles": 1296,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Cap / panel seam212 4",
+        "role": "headgear",
+        "before_triangles": 1296,
+        "after_triangles": 1296,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Cap / panel seam212 5",
+        "role": "headgear",
+        "before_triangles": 1296,
+        "after_triangles": 1296,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Cap / pulse emblem223 0",
+        "role": "headgear",
+        "before_triangles": 116,
+        "after_triangles": 116,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Cap / rear adjustment strap212",
+        "role": "headgear",
+        "before_triangles": 2364,
+        "after_triangles": 810,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Cap / rear strap stitch212",
+        "role": "headgear",
+        "before_triangles": 1396,
+        "after_triangles": 374,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Cap / sewn crown and curved bill212",
+        "role": "headgear",
+        "before_triangles": 38164,
+        "after_triangles": 15072,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Cap / sewn lower edge212",
+        "role": "headgear",
+        "before_triangles": 4800,
+        "after_triangles": 2992,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Chest / subtle cleavage201 1",
+        "role": "base",
+        "before_triangles": 256,
+        "after_triangles": 256,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Chest / subtle cleavage201 1",
+        "role": "base",
+        "before_triangles": 256,
+        "after_triangles": 256,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Chest / subtle cleavage201 1",
+        "role": "base",
+        "before_triangles": 128,
+        "after_triangles": 128,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Chest / subtle cleavage201 -1",
+        "role": "base",
+        "before_triangles": 256,
+        "after_triangles": 256,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Chest / subtle cleavage201 -1",
+        "role": "base",
+        "before_triangles": 256,
+        "after_triangles": 256,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Chest / subtle cleavage201 -1",
+        "role": "base",
+        "before_triangles": 128,
+        "after_triangles": 128,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Clothing / tailored203.001",
+        "role": "top",
+        "before_triangles": 162816,
+        "after_triangles": 10850,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Eye / dark oval 1",
+        "role": "eyes",
+        "before_triangles": 4512,
+        "after_triangles": 4512,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Eye / dark oval -1",
+        "role": "eyes",
+        "before_triangles": 4512,
+        "after_triangles": 4512,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Eye highlight / main 1",
+        "role": "eyes",
+        "before_triangles": 680,
+        "after_triangles": 680,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Eye highlight / main -1",
+        "role": "eyes",
+        "before_triangles": 680,
+        "after_triangles": 680,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Eye highlight / small 1",
+        "role": "eyes",
+        "before_triangles": 680,
+        "after_triangles": 680,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Eye highlight / small -1",
+        "role": "eyes",
+        "before_triangles": 680,
+        "after_triangles": 680,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Face / relaxed smile185",
+        "role": "mouth",
+        "before_triangles": 2300,
+        "after_triangles": 2300,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Hair / adjustable front216 1",
+        "role": "hair",
+        "before_triangles": 12192,
+        "after_triangles": 2302,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Hair / adjustable front216 -1",
+        "role": "hair",
+        "before_triangles": 12192,
+        "after_triangles": 2354,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Hair / rounded tail220 0",
+        "role": "hair",
+        "before_triangles": 5320,
+        "after_triangles": 2334,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Hair / rounded tail220 1",
+        "role": "hair",
+        "before_triangles": 5320,
+        "after_triangles": 2308,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Hair / rounded tail220 2",
+        "role": "hair",
+        "before_triangles": 5320,
+        "after_triangles": 2446,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Hair / rounded tail220 3",
+        "role": "hair",
+        "before_triangles": 5320,
+        "after_triangles": 2400,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Hair / rounded tail220 4",
+        "role": "hair",
+        "before_triangles": 5320,
+        "after_triangles": 2382,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Hair / swept roots220",
+        "role": "hair",
+        "before_triangles": 43008,
+        "after_triangles": 23022,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Hair / tie220",
+        "role": "hair",
+        "before_triangles": 1920,
+        "after_triangles": 1920,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Hoodie / aglet205 1",
+        "role": "top",
+        "before_triangles": 440,
+        "after_triangles": 440,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Hoodie / aglet205 -1",
+        "role": "top",
+        "before_triangles": 440,
+        "after_triangles": 440,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Hoodie / attached opening204.001",
+        "role": "top",
+        "before_triangles": 7762,
+        "after_triangles": 7762,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Hoodie / attached opening204.001",
+        "role": "top",
+        "before_triangles": 5700,
+        "after_triangles": 5700,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Hoodie / front seated cord205 1.001",
+        "role": "top",
+        "before_triangles": 1496,
+        "after_triangles": 1496,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Hoodie / front seated cord205 -1.001",
+        "role": "top",
+        "before_triangles": 1496,
+        "after_triangles": 1496,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Hoodie / rolled opening204.001",
+        "role": "top",
+        "before_triangles": 3600,
+        "after_triangles": 3600,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Hoodie / rounded resting hood215.001",
+        "role": "top",
+        "before_triangles": 32768,
+        "after_triangles": 3908,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Hoodie / rounded resting hood215.001",
+        "role": "top",
+        "before_triangles": 33024,
+        "after_triangles": 4696,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Hoodie / rounded resting hood215.001",
+        "role": "top",
+        "before_triangles": 5844,
+        "after_triangles": 1516,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Hoodie / seated pouch202.001",
+        "role": "top",
+        "before_triangles": 8284,
+        "after_triangles": 1160,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Hoodie / sewn pocket entry202 1.001",
+        "role": "top",
+        "before_triangles": 716,
+        "after_triangles": 238,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Hoodie / sewn pocket entry202 -1.001",
+        "role": "top",
+        "before_triangles": 716,
+        "after_triangles": 242,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Hoodie / smooth back seam215.001",
+        "role": "top",
+        "before_triangles": 1216,
+        "after_triangles": 1216,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "HOT / original compact letters212",
+        "role": "extra",
+        "before_triangles": 96,
+        "after_triangles": 96,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "HOT / original flame silhouette212",
+        "role": "extra",
+        "before_triangles": 7680,
+        "after_triangles": 7680,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Skin / pants fitted leg 1",
+        "role": "base",
+        "before_triangles": 7920,
+        "after_triangles": 5856,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": "closed manifold"
+      },
+      {
+        "name": "Skin / pants fitted leg -1",
+        "role": "base",
+        "before_triangles": 7920,
+        "after_triangles": 5862,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": "closed manifold"
+      },
+      {
+        "name": "Skin / rounded torso",
+        "role": "base",
+        "before_triangles": 35840,
+        "after_triangles": 7320,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Skin / soft oval head",
+        "role": "base",
+        "before_triangles": 21280,
+        "after_triangles": 14212,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Skin / swept arm 1",
+        "role": "base",
+        "before_triangles": 10112,
+        "after_triangles": 3088,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Skin / swept arm -1",
+        "role": "base",
+        "before_triangles": 10112,
+        "after_triangles": 3088,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Sleeve / full fabric wrap201 1.001",
+        "role": "top",
+        "before_triangles": 16280,
+        "after_triangles": 3924,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Sleeve / full fabric wrap201 1.001",
+        "role": "top",
+        "before_triangles": 1792,
+        "after_triangles": 920,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Sleeve / full fabric wrap201 -1.001",
+        "role": "top",
+        "before_triangles": 16280,
+        "after_triangles": 3918,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Sleeve / full fabric wrap201 -1.001",
+        "role": "top",
+        "before_triangles": 1792,
+        "after_triangles": 908,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Sleeve / sewn cuff201 1.001",
+        "role": "top",
+        "before_triangles": 1520,
+        "after_triangles": 1520,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Sleeve / sewn cuff201 -1.001",
+        "role": "top",
+        "before_triangles": 1520,
+        "after_triangles": 1520,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Sleeve / shaped cuff202 1.001",
+        "role": "top",
+        "before_triangles": 3344,
+        "after_triangles": 3344,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Sleeve / shaped cuff202 -1.001",
+        "role": "top",
+        "before_triangles": 3344,
+        "after_triangles": 3344,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      }
+    ]
+  },
+  {
+    "build": "Masculine",
+    "file": "assets/Masculine-optimized264.glb",
+    "source_sha256": "c92389dc4668dac89e7bfc9e0bb45b0653ae181295a2f5df6a5c02b80efc1d13",
+    "sha256": "15bfda363b334bb9adffbcf7b035e5abfa7023456ffd81295da5bfe25d419c06",
+    "source_bytes": 23929556,
+    "bytes": 7857320,
+    "triangles_before": 1016178,
+    "triangles": 306934,
+    "mesh_nodes": 55,
+    "primitives": 63,
+    "materials": 32,
+    "decoded_geometry_bytes": 7546124,
+    "decoded_geometry_note": "Sum of exported accessor array bytes; excludes engine copies, alignment, pipelines, caches and render targets.",
+    "textures": [
+      {
+        "name": "Hair252 / long normal",
+        "size": [
+          512,
+          512
+        ],
+        "encoded_bytes": 230757,
+        "decoded_rgba8_estimate": 1048576,
+        "sha256": "c051ff55baa60de35db7f67ffda115484adfc4d53cb57a585546350a94b228a8"
+      }
+    ],
+    "lens_materials": [
+      {
+        "index": 11,
+        "name": "Glasses / clear non-refracting pane235",
+        "alphaMode": "BLEND",
+        "alpha": 0.8399999737739563,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.14000000059604645
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.5
+          },
+          "KHR_materials_ior": {
+            "ior": 1
+          }
+        }
+      }
+    ],
+    "checks": [
+      {
+        "name": "226 hair / Hair258 / sculpted side sweep 0",
+        "role": "hair",
+        "before_triangles": 25920,
+        "after_triangles": 17038,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "226 hair / Hair258 / sculpted side sweep 0",
+        "role": "hair",
+        "before_triangles": 4416,
+        "after_triangles": 2488,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "226 hair / Hair258 / sculpted side sweep 1",
+        "role": "hair",
+        "before_triangles": 27392,
+        "after_triangles": 16832,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "226 hair / Hair258 / sculpted side sweep 1",
+        "role": "hair",
+        "before_triangles": 2944,
+        "after_triangles": 1568,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "226 hair / Hair258 / sculpted side sweep 2",
+        "role": "hair",
+        "before_triangles": 17280,
+        "after_triangles": 10480,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "226 hair / Hair258 / sculpted side sweep 2",
+        "role": "hair",
+        "before_triangles": 2944,
+        "after_triangles": 1670,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "226 hair / Hair258 / smooth side fade",
+        "role": "hair",
+        "before_triangles": 86398,
+        "after_triangles": 17770,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "226 hair / Hair259 / directional fade marks214",
+        "role": "hair",
+        "before_triangles": 97200,
+        "after_triangles": 50158,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "226 headgear / Cap / ivory emblem223.001",
+        "role": "headgear",
+        "before_triangles": 1832,
+        "after_triangles": 738,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "226 headgear / Cap / midnight cotton212.001",
+        "role": "headgear",
+        "before_triangles": 41056,
+        "after_triangles": 15952,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "226 headgear / Cap / subtle sewing212.001",
+        "role": "headgear",
+        "before_triangles": 16564,
+        "after_triangles": 8762,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "226 lenses / Glasses / clear non-refracting pane235",
+        "role": "lenses",
+        "before_triangles": 2400,
+        "after_triangles": 2400,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Bottom / clean cut pants hem201 1.001",
+        "role": "bottom",
+        "before_triangles": 2600,
+        "after_triangles": 2600,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Bottom / clean cut pants hem201 2.001",
+        "role": "bottom",
+        "before_triangles": 2600,
+        "after_triangles": 2600,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Bottom / continuous pants187.001",
+        "role": "bottom",
+        "before_triangles": 249228,
+        "after_triangles": 26864,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Bottom / pocket187 1.001",
+        "role": "bottom",
+        "before_triangles": 636,
+        "after_triangles": 170,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Bottom / pocket187 -1.001",
+        "role": "bottom",
+        "before_triangles": 636,
+        "after_triangles": 166,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Bottom / sewn fly187.001",
+        "role": "bottom",
+        "before_triangles": 796,
+        "after_triangles": 112,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Bottom / side seam187 1.001",
+        "role": "bottom",
+        "before_triangles": 1296,
+        "after_triangles": 1296,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Bottom / side seam187 -1.001",
+        "role": "bottom",
+        "before_triangles": 1296,
+        "after_triangles": 1296,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Clothing / tailored203.001",
+        "role": "top",
+        "before_triangles": 162816,
+        "after_triangles": 9768,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Eye / dark oval 1",
+        "role": "eyes",
+        "before_triangles": 4512,
+        "after_triangles": 4512,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Eye / dark oval -1",
+        "role": "eyes",
+        "before_triangles": 4512,
+        "after_triangles": 4512,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Eye highlight / main 1",
+        "role": "eyes",
+        "before_triangles": 680,
+        "after_triangles": 680,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Eye highlight / main -1",
+        "role": "eyes",
+        "before_triangles": 680,
+        "after_triangles": 680,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Eye highlight / small 1",
+        "role": "eyes",
+        "before_triangles": 680,
+        "after_triangles": 680,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Eye highlight / small -1",
+        "role": "eyes",
+        "before_triangles": 680,
+        "after_triangles": 680,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Face / relaxed smile185",
+        "role": "mouth",
+        "before_triangles": 2300,
+        "after_triangles": 2300,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Glasses / bridge212",
+        "role": "glasses",
+        "before_triangles": 56,
+        "after_triangles": 56,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Glasses / compact temple213 1",
+        "role": "glasses",
+        "before_triangles": 136,
+        "after_triangles": 136,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Glasses / compact temple213 -1",
+        "role": "glasses",
+        "before_triangles": 136,
+        "after_triangles": 136,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Glasses / rounded rectangle212 1",
+        "role": "glasses",
+        "before_triangles": 1616,
+        "after_triangles": 1616,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Glasses / rounded rectangle212 -1",
+        "role": "glasses",
+        "before_triangles": 1616,
+        "after_triangles": 1616,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Hoodie / aglet205 1",
+        "role": "top",
+        "before_triangles": 440,
+        "after_triangles": 440,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Hoodie / aglet205 -1",
+        "role": "top",
+        "before_triangles": 440,
+        "after_triangles": 440,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Hoodie / attached opening204.001",
+        "role": "top",
+        "before_triangles": 7824,
+        "after_triangles": 7824,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Hoodie / attached opening204.001",
+        "role": "top",
+        "before_triangles": 5628,
+        "after_triangles": 5628,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Hoodie / front seated cord205 1.001",
+        "role": "top",
+        "before_triangles": 1496,
+        "after_triangles": 1496,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Hoodie / front seated cord205 -1.001",
+        "role": "top",
+        "before_triangles": 1496,
+        "after_triangles": 1496,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Hoodie / rolled opening204.001",
+        "role": "top",
+        "before_triangles": 3600,
+        "after_triangles": 3600,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Hoodie / rounded resting hood215.001",
+        "role": "top",
+        "before_triangles": 32768,
+        "after_triangles": 4150,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Hoodie / rounded resting hood215.001",
+        "role": "top",
+        "before_triangles": 33024,
+        "after_triangles": 4720,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Hoodie / rounded resting hood215.001",
+        "role": "top",
+        "before_triangles": 5844,
+        "after_triangles": 1540,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Hoodie / seated pouch202.001",
+        "role": "top",
+        "before_triangles": 8284,
+        "after_triangles": 496,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Hoodie / sewn pocket entry202 1.001",
+        "role": "top",
+        "before_triangles": 716,
+        "after_triangles": 64,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Hoodie / sewn pocket entry202 -1.001",
+        "role": "top",
+        "before_triangles": 716,
+        "after_triangles": 66,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Hoodie / smooth back seam215.001",
+        "role": "top",
+        "before_triangles": 1216,
+        "after_triangles": 1216,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "HOT / original compact letters212",
+        "role": "extra",
+        "before_triangles": 96,
+        "after_triangles": 96,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "HOT / original flame silhouette212",
+        "role": "extra",
+        "before_triangles": 7680,
+        "after_triangles": 7680,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Skin / pants fitted leg 1",
+        "role": "base",
+        "before_triangles": 7920,
+        "after_triangles": 5810,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": "closed manifold"
+      },
+      {
+        "name": "Skin / pants fitted leg -1",
+        "role": "base",
+        "before_triangles": 7920,
+        "after_triangles": 5794,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": "closed manifold"
+      },
+      {
+        "name": "Skin / rounded torso",
+        "role": "base",
+        "before_triangles": 35840,
+        "after_triangles": 6152,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Skin / soft oval head",
+        "role": "base",
+        "before_triangles": 21280,
+        "after_triangles": 14322,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Skin / swept arm 1",
+        "role": "base",
+        "before_triangles": 10112,
+        "after_triangles": 3088,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Skin / swept arm -1",
+        "role": "base",
+        "before_triangles": 10112,
+        "after_triangles": 3088,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Sleeve / full fabric wrap201 1.001",
+        "role": "top",
+        "before_triangles": 16280,
+        "after_triangles": 3934,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Sleeve / full fabric wrap201 1.001",
+        "role": "top",
+        "before_triangles": 1792,
+        "after_triangles": 920,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Sleeve / full fabric wrap201 -1.001",
+        "role": "top",
+        "before_triangles": 16280,
+        "after_triangles": 3906,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Sleeve / full fabric wrap201 -1.001",
+        "role": "top",
+        "before_triangles": 1792,
+        "after_triangles": 908,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Sleeve / sewn cuff201 1.001",
+        "role": "top",
+        "before_triangles": 1520,
+        "after_triangles": 1520,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Sleeve / sewn cuff201 -1.001",
+        "role": "top",
+        "before_triangles": 1520,
+        "after_triangles": 1520,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Sleeve / shaped cuff202 1.001",
+        "role": "top",
+        "before_triangles": 3344,
+        "after_triangles": 3344,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      },
+      {
+        "name": "Sleeve / shaped cuff202 -1.001",
+        "role": "top",
+        "before_triangles": 3344,
+        "after_triangles": 3344,
+        "boundaries_unchanged": true,
+        "surviving_attributes_exact": true,
+        "leg_topology": null
+      }
+    ]
+  }
+]

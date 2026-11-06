@@ -1,0 +1,1420 @@
+{
+  "Feminine": {
+    "extensionsUsed": [
+      "KHR_materials_clearcoat",
+      "KHR_materials_specular",
+      "KHR_materials_ior"
+    ],
+    "extensionsRequired": [],
+    "materials": [
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.10000000149011612,
+            "clearcoatRoughnessFactor": 0.10999999940395355
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.8999999761581421
+          }
+        },
+        "name": "Lashes / charcoal234",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.026000000536441803,
+            0.03799999877810478,
+            0.05999999865889549,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.3799999952316284
+        }
+      },
+      {
+        "doubleSided": true,
+        "name": "Accessory / warm metal226.001",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.009134058840572834,
+            0.010960093699395657,
+            0.01599629409611225,
+            1
+          ],
+          "metallicFactor": 0.07999999821186066,
+          "roughnessFactor": 0.2800000011920929
+        }
+      },
+      {
+        "doubleSided": true,
+        "name": "Glasses / frame226.001",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.009134058840572834,
+            0.010960093699395657,
+            0.01599629409611225,
+            1
+          ],
+          "metallicFactor": 0.07999999821186066,
+          "roughnessFactor": 0.2800000011920929
+        }
+      },
+      {
+        "alphaMode": "BLEND",
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.14000000059604645
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.5
+          },
+          "KHR_materials_ior": {
+            "ior": 1
+          }
+        },
+        "name": "Glasses / clear non-refracting pane235",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.715693473815918,
+            0.8148465752601624,
+            0.8307698965072632,
+            0.07500000298023224
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.02500000037252903
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.11999999731779099,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Bottom / stitch187.001",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.03433980792760849,
+            0.03688944876194,
+            0.04666508734226227,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.5400000214576721
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07000000029802322,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Bottom / fabric187.001",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.01599629409611225,
+            0.017641954123973846,
+            0.023153366521000862,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.5
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Cap / subtle sewing212",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.04600000008940697,
+            0.07800000160932541,
+            0.10499999672174454,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.7400000095367432
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.36000001430511475
+          }
+        },
+        "name": "Cap / midnight cotton212",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.3049873113632202,
+            0.07227185368537903,
+            0.10461648553609848,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.6899999976158142
+        }
+      },
+      {
+        "doubleSided": true,
+        "name": "Cap / ivory emblem223",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.7799999713897705,
+            0.8299999833106995,
+            0.8100000023841858,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.5199999809265137
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Chest / shade191 0.001",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.7863269448280334,
+            0.6021217703819275,
+            0.32994741201400757,
+            1
+          ],
+          "metallicFactor": 0.2800000011920929,
+          "roughnessFactor": 0.25
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Chest / shade191 0.002",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.7333618998527527,
+            0.5615643262863159,
+            0.3077229857444763,
+            1
+          ],
+          "metallicFactor": 0.2800000011920929,
+          "roughnessFactor": 0.25
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Chest / shade191 0.003",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.6844711303710938,
+            0.5241267085075378,
+            0.28720811009407043,
+            1
+          ],
+          "metallicFactor": 0.2800000011920929,
+          "roughnessFactor": 0.25
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "167 Top / sweatshirt.001",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.42869049310684204,
+            0.3049873113632202,
+            0.6038273572921753,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.3799999952316284
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.10999999940395355
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.8999999761581421
+          }
+        },
+        "name": "Eye / smoky charcoal181.001",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.026000000536441803,
+            0.03799999877810478,
+            0.05999999865889549,
+            1
+          ],
+          "metallicFactor": 0.03500000014901161,
+          "roughnessFactor": 0.18000000715255737
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.25,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Eye highlight181.001",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.7900000214576721,
+            0.8600000143051147,
+            0.9300000071525574,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.17000000178813934
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.18000000715255737,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Eye glint181.001",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.2800000011920929,
+            0.3700000047683716,
+            0.47999998927116394,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.23000000417232513
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.4399999976158142
+          }
+        },
+        "name": "Face / ink209",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.01899999938905239,
+            0.008999999612569809,
+            0.009999999776482582,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.5299999713897705
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Hair / sculpted front locks222.002",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.21294040977954865,
+            0.07010369747877121,
+            0.030939150601625443,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.2800000011920929
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Hair / chestnut212 1.002",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.21952620148658752,
+            0.07227185368537903,
+            0.03189603239297867,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.2800000011920929
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Hair / chestnut212 0.002",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.21294040977954865,
+            0.07010369747877121,
+            0.030939150601625443,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.2800000011920929
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Hair / chestnut212 2.002",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.2261119931936264,
+            0.07444000989198685,
+            0.032852914184331894,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.2800000011920929
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.36000001430511475,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Hair / crisp pulled roots220.002",
+        "pbrMetallicRoughness": {
+          "metallicFactor": 0,
+          "roughnessFactor": 0.30000001192092896
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.03999999910593033,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Hair / fitted tie214.002",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.024000000208616257,
+            0.014999999664723873,
+            0.017000000923871994,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.46000000834465027
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.029999999329447746,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Hoodie / soft cord205.001",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.7379103899002075,
+            0.6653872728347778,
+            0.8069522380828857,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.44999998807907104
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Hoodie / lining204.001",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.308657169342041,
+            0.21959085762500763,
+            0.43475568294525146,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.5299999713897705
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Hoodie / rolled edge204.001",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.38153454661369324,
+            0.27143871784210205,
+            0.537406325340271,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.3799999952316284
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Hoodie / cavity215.001",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.20577143132686615,
+            0.14639391005039215,
+            0.289837121963501,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.550000011920929
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Hoodie / facing215.001",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.33437857031822205,
+            0.2378901094198227,
+            0.4709853529930115,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.3799999952316284
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.1599999964237213
+          }
+        },
+        "name": "HOT / original ink212.001",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.02500000037252903,
+            0.012000000104308128,
+            0.03500000014901161,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.5
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.1599999964237213
+          }
+        },
+        "name": "HOT / original coral212.001",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.9200000166893005,
+            0.017999999225139618,
+            0.03500000014901161,
+            1
+          ],
+          "metallicFactor": 0.009999999776482582,
+          "roughnessFactor": 0.47999998927116394
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Skin / Light warm.002",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.8148465752601624,
+            0.6239603757858276,
+            0.34191441535949707,
+            1
+          ],
+          "metallicFactor": 0.2800000011920929,
+          "roughnessFactor": 0.25
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Skin / Light warm.003",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.8148465752601624,
+            0.6239603757858276,
+            0.34191441535949707,
+            1
+          ],
+          "metallicFactor": 0.2800000011920929,
+          "roughnessFactor": 0.25
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Sleeve / ribbed cuff201.002",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.3986821472644806,
+            0.28363820910453796,
+            0.5615594387054443,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.3799999952316284
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Sleeve / ribbed cuff201.003",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.3986821472644806,
+            0.28363820910453796,
+            0.5615594387054443,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.3799999952316284
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Sleeve / cuff fabric202.002",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.36867383122444153,
+            0.2622890770435333,
+            0.5192915201187134,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.3799999952316284
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Sleeve / cuff fabric202.003",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.36867383122444153,
+            0.2622890770435333,
+            0.5192915201187134,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.3799999952316284
+        }
+      }
+    ],
+    "meshes_with_vertex_alpha": []
+  },
+  "Masculine": {
+    "extensionsUsed": [
+      "KHR_materials_clearcoat",
+      "KHR_materials_specular",
+      "KHR_materials_ior"
+    ],
+    "extensionsRequired": [],
+    "materials": [
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.05999999865889549,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Hair258 / sculpted side sweep 0.001",
+        "normalTexture": {
+          "index": 0,
+          "scale": 0.11999999731779099
+        },
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.16202937066555023,
+            0.05126945674419403,
+            0.022173885256052017,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.36000001430511475
+        }
+      },
+      {
+        "alphaMode": "BLEND",
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.05999999865889549,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Hair258 / blended terminal tips Hair258 / sculpted side sweep 0.001",
+        "normalTexture": {
+          "index": 1,
+          "scale": 0.11999999731779099
+        },
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.16202937066555023,
+            0.05126945674419403,
+            0.022173885256052017,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.36000001430511475
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.05999999865889549,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Hair258 / sculpted side sweep 1.001",
+        "normalTexture": {
+          "index": 2,
+          "scale": 0.11999999731779099
+        },
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.18782077729701996,
+            0.05951123684644699,
+            0.02518685907125473,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.36000001430511475
+        }
+      },
+      {
+        "alphaMode": "BLEND",
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.05999999865889549,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Hair258 / blended terminal tips Hair258 / sculpted side sweep 1.001",
+        "normalTexture": {
+          "index": 3,
+          "scale": 0.11999999731779099
+        },
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.18782077729701996,
+            0.05951123684644699,
+            0.02518685907125473,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.36000001430511475
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.05999999865889549,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Hair258 / sculpted side sweep 2.001",
+        "normalTexture": {
+          "index": 4,
+          "scale": 0.11999999731779099
+        },
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.21952620148658752,
+            0.07227185368537903,
+            0.03189603239297867,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.36000001430511475
+        }
+      },
+      {
+        "alphaMode": "BLEND",
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.05999999865889549,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Hair258 / blended terminal tips Hair258 / sculpted side sweep 2.001",
+        "normalTexture": {
+          "index": 5,
+          "scale": 0.11999999731779099
+        },
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.21952620148658752,
+            0.07227185368537903,
+            0.03189603239297867,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.36000001430511475
+        }
+      },
+      {
+        "alphaMode": "BLEND",
+        "extensions": {
+          "KHR_materials_specular": {
+            "specularFactor": 0.36000001430511475
+          }
+        },
+        "name": "Hair258 / smooth side fade.001",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.11999999731779099,
+            0.04699999839067459,
+            0.026000000536441803,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.5600000023841858
+        }
+      },
+      {
+        "alphaMode": "BLEND",
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.019999999552965164
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.5199999809265137
+          }
+        },
+        "extras": {
+          "hairShade258": 1
+        },
+        "name": "Hair259 / directional fade marks214.001",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.11999999731779099,
+            0.04699999839067459,
+            0.026000000536441803,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.49000000953674316
+        }
+      },
+      {
+        "doubleSided": true,
+        "name": "Cap / ivory emblem223.001",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.7799999713897705,
+            0.8299999833106995,
+            0.8100000023841858,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.5199999809265137
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.36000001430511475
+          }
+        },
+        "name": "Cap / midnight cotton212.001",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.026000000536441803,
+            0.05299999937415123,
+            0.07999999821186066,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.6899999976158142
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Cap / subtle sewing212.001",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.04600000008940697,
+            0.07800000160932541,
+            0.10499999672174454,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.7400000095367432
+        }
+      },
+      {
+        "alphaMode": "BLEND",
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.14000000059604645
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.5
+          },
+          "KHR_materials_ior": {
+            "ior": 1
+          }
+        },
+        "name": "Glasses / clear non-refracting pane235",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.011612244881689548,
+            0.014443843625485897,
+            0.022173885256052017,
+            0.8399999737739563
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.02500000037252903
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.11999999731779099,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Bottom / stitch187",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.03433980792760849,
+            0.03688944876194,
+            0.04666508734226227,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.5400000214576721
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07000000029802322,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Bottom / fabric187",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.01599629409611225,
+            0.017641954123973846,
+            0.023153366521000862,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.5
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "165 Top / sweatshirt.001",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.42869049310684204,
+            0.3049873113632202,
+            0.6038273572921753,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.3799999952316284
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.10999999940395355
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.8999999761581421
+          }
+        },
+        "name": "Eye / smoky charcoal181.001",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.026000000536441803,
+            0.03799999877810478,
+            0.05999999865889549,
+            1
+          ],
+          "metallicFactor": 0.03500000014901161,
+          "roughnessFactor": 0.18000000715255737
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.25,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Eye highlight181.001",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.7900000214576721,
+            0.8600000143051147,
+            0.9300000071525574,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.17000000178813934
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.18000000715255737,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Eye glint181.001",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.2800000011920929,
+            0.3700000047683716,
+            0.47999998927116394,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.23000000417232513
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.4399999976158142
+          }
+        },
+        "name": "Face / ink209",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.01899999938905239,
+            0.008999999612569809,
+            0.009999999776482582,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.5299999713897705
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.10000000149011612,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Glasses / graphite rectangular212",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.009134058840572834,
+            0.010960093699395657,
+            0.01599629409611225,
+            1
+          ],
+          "metallicFactor": 0.07999999821186066,
+          "roughnessFactor": 0.2800000011920929
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.029999999329447746,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Hoodie / soft cord205.001",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.7379103899002075,
+            0.6653872728347778,
+            0.8069522380828857,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.44999998807907104
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Hoodie / lining204.001",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.308657169342041,
+            0.21959085762500763,
+            0.43475568294525146,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.5299999713897705
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Hoodie / rolled edge204.001",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.38153454661369324,
+            0.27143871784210205,
+            0.537406325340271,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.3799999952316284
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Hoodie / cavity215.001",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.20577143132686615,
+            0.14639391005039215,
+            0.289837121963501,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.550000011920929
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Hoodie / facing215.001",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.33437857031822205,
+            0.2378901094198227,
+            0.4709853529930115,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.3799999952316284
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.1599999964237213
+          }
+        },
+        "name": "HOT / original ink212.001",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.02500000037252903,
+            0.012000000104308128,
+            0.03500000014901161,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.5
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          },
+          "KHR_materials_specular": {
+            "specularFactor": 0.1599999964237213
+          }
+        },
+        "name": "HOT / original coral212.001",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.9200000166893005,
+            0.017999999225139618,
+            0.03500000014901161,
+            1
+          ],
+          "metallicFactor": 0.009999999776482582,
+          "roughnessFactor": 0.47999998927116394
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.41999998688697815,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Skin / Light warm.001",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.8148465752601624,
+            0.6239603757858276,
+            0.34191441535949707,
+            1
+          ],
+          "metallicFactor": 0.2800000011920929,
+          "roughnessFactor": 0.25
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Sleeve / ribbed cuff201.002",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.3986821472644806,
+            0.28363820910453796,
+            0.5615594387054443,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.3799999952316284
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Sleeve / ribbed cuff201.003",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.3986821472644806,
+            0.28363820910453796,
+            0.5615594387054443,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.3799999952316284
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Sleeve / cuff fabric202.002",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.36867383122444153,
+            0.2622890770435333,
+            0.5192915201187134,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.3799999952316284
+        }
+      },
+      {
+        "doubleSided": true,
+        "extensions": {
+          "KHR_materials_clearcoat": {
+            "clearcoatFactor": 0.07999999821186066,
+            "clearcoatRoughnessFactor": 0.20000000298023224
+          }
+        },
+        "name": "Sleeve / cuff fabric202.003",
+        "pbrMetallicRoughness": {
+          "baseColorFactor": [
+            0.36867383122444153,
+            0.2622890770435333,
+            0.5192915201187134,
+            1
+          ],
+          "metallicFactor": 0,
+          "roughnessFactor": 0.3799999952316284
+        }
+      }
+    ],
+    "meshes_with_vertex_alpha": [
+      "226 hair / Hair258 / smooth side fade / static224",
+      "226 hair / Hair259 / directional fade marks214 / static224"
+    ]
+  }
+}

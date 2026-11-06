@@ -1,0 +1,20 @@
+{
+  "commit": "f0a684f11ead064e176775c9b796f82a55910e92",
+  "files": [
+    {
+      "path": "meshopt_simplifier.mjs",
+      "url": "https://raw.githubusercontent.com/zeux/meshoptimizer/f0a684f11ead064e176775c9b796f82a55910e92/js/meshopt_simplifier.js",
+      "sha256": "c3098ee4cb4fc242b84f064c88898e76e44bf58b0e1f693507f323c08cdbb5ed"
+    },
+    {
+      "path": "meshoptimizer-README.md",
+      "url": "https://raw.githubusercontent.com/zeux/meshoptimizer/f0a684f11ead064e176775c9b796f82a55910e92/js/README.md",
+      "sha256": "72162d4a46a34622d12914bc47d94ca36e88a4be5ffdf009d89fc1c6e7c47e03"
+    },
+    {
+      "path": "meshoptimizer-LICENSE.md",
+      "url": "https://raw.githubusercontent.com/zeux/meshoptimizer/f0a684f11ead064e176775c9b796f82a55910e92/LICENSE.md",
+      "sha256": "f03037ca7bad1e3eb7f4a63fa6084a8baabd5ba30d3c239a9a7f35705d873e26"
+    }
+  ]
+}
