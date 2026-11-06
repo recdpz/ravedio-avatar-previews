@@ -1,0 +1,709 @@
+[
+  {
+    "key": "Feminine-pass1-body-front",
+    "size": 512,
+    "mean_rgb": 0.43301996048777164,
+    "pixels_over_8_pct": 0.6866952789699571,
+    "silhouette_iou": 0.9990237012110259
+  },
+  {
+    "key": "Feminine-pass1-body-profile",
+    "size": 512,
+    "mean_rgb": 0.5358555429854333,
+    "pixels_over_8_pct": 1.0944776237206977,
+    "silhouette_iou": 0.9990565020487384
+  },
+  {
+    "key": "Feminine-pass1-body-rear",
+    "size": 512,
+    "mean_rgb": 0.4886195644028422,
+    "pixels_over_8_pct": 0.7745917554006826,
+    "silhouette_iou": 0.9990859801823885
+  },
+  {
+    "key": "Feminine-pass1-body-rearquarter",
+    "size": 512,
+    "mean_rgb": 0.4997260313477816,
+    "pixels_over_8_pct": 0.9040965523208029,
+    "silhouette_iou": 0.9992979684963362
+  },
+  {
+    "key": "Feminine-pass1-body-rightprofile",
+    "size": 512,
+    "mean_rgb": 0.5129723187032944,
+    "pixels_over_8_pct": 1.1025155246816125,
+    "silhouette_iou": 0.9992445703493862
+  },
+  {
+    "key": "Feminine-pass1-body-threequarter",
+    "size": 512,
+    "mean_rgb": 0.44333697815908263,
+    "pixels_over_8_pct": 0.7065354529396921,
+    "silhouette_iou": 0.9993812805359391
+  },
+  {
+    "key": "Feminine-pass1-body-top",
+    "size": 512,
+    "mean_rgb": 0.26163907054403784,
+    "pixels_over_8_pct": 0.41463754000278275,
+    "silhouette_iou": 0.9993228182049039
+  },
+  {
+    "key": "Feminine-pass1-body-underside",
+    "size": 512,
+    "mean_rgb": 0.46418256052758616,
+    "pixels_over_8_pct": 0.8591276172709198,
+    "silhouette_iou": 0.9997764363961547
+  },
+  {
+    "key": "Feminine-pass1-face-front",
+    "size": 512,
+    "mean_rgb": 0.35545098742194736,
+    "pixels_over_8_pct": 0.6444384691225239,
+    "silhouette_iou": 0.9991145645103
+  },
+  {
+    "key": "Feminine-pass1-face-profile",
+    "size": 512,
+    "mean_rgb": 0.536683004874345,
+    "pixels_over_8_pct": 1.085033252659196,
+    "silhouette_iou": 0.9990172955974843
+  },
+  {
+    "key": "Feminine-pass1-face-rear",
+    "size": 512,
+    "mean_rgb": 0.5231095575274118,
+    "pixels_over_8_pct": 0.8281796181769293,
+    "silhouette_iou": 0.9990603541741959
+  },
+  {
+    "key": "Feminine-pass1-face-rightprofile",
+    "size": 512,
+    "mean_rgb": 0.5131616420521583,
+    "pixels_over_8_pct": 1.0669677366857886,
+    "silhouette_iou": 0.9991099611901681
+  },
+  {
+    "key": "Feminine-pass1-face-top",
+    "size": 512,
+    "mean_rgb": 0.2236665804077173,
+    "pixels_over_8_pct": 0.35193651341326665,
+    "silhouette_iou": 0.9994956916415237
+  },
+  {
+    "key": "Feminine-pass1-skin0-120",
+    "size": 120,
+    "mean_rgb": 0.42990923498055034,
+    "pixels_over_8_pct": 1.0229073620515776,
+    "silhouette_iou": 0.9983674680914217
+  },
+  {
+    "key": "Feminine-pass1-skin0-32",
+    "size": 32,
+    "mean_rgb": 0.7156673114119922,
+    "pixels_over_8_pct": 2.127659574468085,
+    "silhouette_iou": 0.997872340425532
+  },
+  {
+    "key": "Feminine-pass1-skin0-48",
+    "size": 48,
+    "mean_rgb": 0.5538011695906433,
+    "pixels_over_8_pct": 1.4035087719298245,
+    "silhouette_iou": 0.9990645463049579
+  },
+  {
+    "key": "Feminine-pass1-skin0-512",
+    "size": 512,
+    "mean_rgb": 0.35777586618108537,
+    "pixels_over_8_pct": 0.6680762459099423,
+    "silhouette_iou": 0.99914179769095
+  },
+  {
+    "key": "Feminine-pass1-skin0-64",
+    "size": 64,
+    "mean_rgb": 0.5005818786367415,
+    "pixels_over_8_pct": 0.9476309226932668,
+    "silhouette_iou": 0.999474513925381
+  },
+  {
+    "key": "Feminine-pass1-skin3-120",
+    "size": 120,
+    "mean_rgb": 0.36109110118618837,
+    "pixels_over_8_pct": 0.864428756663305,
+    "silhouette_iou": 0.9983674680914217
+  },
+  {
+    "key": "Feminine-pass1-skin3-32",
+    "size": 32,
+    "mean_rgb": 0.5654416505480335,
+    "pixels_over_8_pct": 1.9342359767891684,
+    "silhouette_iou": 0.997872340425532
+  },
+  {
+    "key": "Feminine-pass1-skin3-48",
+    "size": 48,
+    "mean_rgb": 0.464327485380117,
+    "pixels_over_8_pct": 0.8771929824561403,
+    "silhouette_iou": 0.9990645463049579
+  },
+  {
+    "key": "Feminine-pass1-skin3-512",
+    "size": 512,
+    "mean_rgb": 0.29154440040625895,
+    "pixels_over_8_pct": 0.6190357513244953,
+    "silhouette_iou": 0.99914179769095
+  },
+  {
+    "key": "Feminine-pass1-skin3-64",
+    "size": 64,
+    "mean_rgb": 0.40980881130507063,
+    "pixels_over_8_pct": 0.6483790523690772,
+    "silhouette_iou": 0.999474513925381
+  },
+  {
+    "key": "Feminine-pass1-transmission",
+    "size": 512,
+    "mean_rgb": 0.2649137374296522,
+    "pixels_over_8_pct": 0.7223913645170219,
+    "silhouette_iou": 0.999331091250302
+  },
+  {
+    "key": "Feminine-pass2-body-front",
+    "size": 512,
+    "mean_rgb": 0.24940391034811635,
+    "pixels_over_8_pct": 0.2779480891068874,
+    "silhouette_iou": 0.9995845537068195
+  },
+  {
+    "key": "Feminine-pass2-body-profile",
+    "size": 512,
+    "mean_rgb": 0.25811911840801255,
+    "pixels_over_8_pct": 0.4578104033467519,
+    "silhouette_iou": 0.9994878015905109
+  },
+  {
+    "key": "Feminine-pass2-body-rear",
+    "size": 512,
+    "mean_rgb": 0.27592361721405845,
+    "pixels_over_8_pct": 0.355617323059944,
+    "silhouette_iou": 0.9996468633153303
+  },
+  {
+    "key": "Feminine-pass2-body-rearquarter",
+    "size": 512,
+    "mean_rgb": 0.261076143303124,
+    "pixels_over_8_pct": 0.3417472368221833,
+    "silhouette_iou": 0.9996489765472456
+  },
+  {
+    "key": "Feminine-pass2-body-rightprofile",
+    "size": 512,
+    "mean_rgb": 0.28978184784610933,
+    "pixels_over_8_pct": 0.5526170363937791,
+    "silhouette_iou": 0.9995953055443141
+  },
+  {
+    "key": "Feminine-pass2-body-threequarter",
+    "size": 512,
+    "mean_rgb": 0.24213366978586198,
+    "pixels_over_8_pct": 0.2586478814004836,
+    "silhouette_iou": 0.9998506539224681
+  },
+  {
+    "key": "Feminine-pass2-body-top",
+    "size": 512,
+    "mean_rgb": 0.11248399844158735,
+    "pixels_over_8_pct": 0.17532142260811487,
+    "silhouette_iou": 0.9996613995485327
+  },
+  {
+    "key": "Feminine-pass2-body-underside",
+    "size": 512,
+    "mean_rgb": 0.3494276573635419,
+    "pixels_over_8_pct": 0.5473870247183289,
+    "silhouette_iou": 0.999900638398291
+  },
+  {
+    "key": "Feminine-pass2-face-front",
+    "size": 512,
+    "mean_rgb": 0.15953070242267256,
+    "pixels_over_8_pct": 0.25813159333518565,
+    "silhouette_iou": 0.9997018431514275
+  },
+  {
+    "key": "Feminine-pass2-face-profile",
+    "size": 512,
+    "mean_rgb": 0.20521607668866584,
+    "pixels_over_8_pct": 0.4138828721640888,
+    "silhouette_iou": 0.999544838572862
+  },
+  {
+    "key": "Feminine-pass2-face-rear",
+    "size": 512,
+    "mean_rgb": 0.2515789788174838,
+    "pixels_over_8_pct": 0.34507484090705387,
+    "silhouette_iou": 0.9996566678713408
+  },
+  {
+    "key": "Feminine-pass2-face-rightprofile",
+    "size": 512,
+    "mean_rgb": 0.23290885172979645,
+    "pixels_over_8_pct": 0.4678790837706986,
+    "silhouette_iou": 0.9996377711541646
+  },
+  {
+    "key": "Feminine-pass2-face-top",
+    "size": 512,
+    "mean_rgb": 0.10509971706576496,
+    "pixels_over_8_pct": 0.1569939962735491,
+    "silhouette_iou": 0.9998695720223293
+  },
+  {
+    "key": "Feminine-pass2-skin0-120",
+    "size": 120,
+    "mean_rgb": 0.1829707534937329,
+    "pixels_over_8_pct": 0.46102867022042937,
+    "silhouette_iou": 0.9989611160581775
+  },
+  {
+    "key": "Feminine-pass2-skin0-32",
+    "size": 32,
+    "mean_rgb": 0.29916183107672467,
+    "pixels_over_8_pct": 0.9671179883945842,
+    "silhouette_iou": 0.997872340425532
+  },
+  {
+    "key": "Feminine-pass2-skin0-48",
+    "size": 48,
+    "mean_rgb": 0.291812865497076,
+    "pixels_over_8_pct": 0.43859649122807015,
+    "silhouette_iou": 0.9990645463049579
+  },
+  {
+    "key": "Feminine-pass2-skin0-512",
+    "size": 512,
+    "mean_rgb": 0.15087710835624588,
+    "pixels_over_8_pct": 0.2677150161593749,
+    "silhouette_iou": 0.9996437650792622
+  },
+  {
+    "key": "Feminine-pass2-skin0-64",
+    "size": 64,
+    "mean_rgb": 0.21163757273482958,
+    "pixels_over_8_pct": 0.399002493765586,
+    "silhouette_iou": 0.999474513925381
+  },
+  {
+    "key": "Feminine-pass2-skin3-120",
+    "size": 120,
+    "mean_rgb": 0.16947606012582242,
+    "pixels_over_8_pct": 0.4466215242760409,
+    "silhouette_iou": 0.9989611160581775
+  },
+  {
+    "key": "Feminine-pass2-skin3-32",
+    "size": 32,
+    "mean_rgb": 0.26627981947130885,
+    "pixels_over_8_pct": 0.5802707930367506,
+    "silhouette_iou": 0.997872340425532
+  },
+  {
+    "key": "Feminine-pass2-skin3-48",
+    "size": 48,
+    "mean_rgb": 0.2935672514619883,
+    "pixels_over_8_pct": 0.43859649122807015,
+    "silhouette_iou": 0.9990645463049579
+  },
+  {
+    "key": "Feminine-pass2-skin3-512",
+    "size": 512,
+    "mean_rgb": 0.13447922863773523,
+    "pixels_over_8_pct": 0.24359654623510685,
+    "silhouette_iou": 0.9996437650792622
+  },
+  {
+    "key": "Feminine-pass2-skin3-64",
+    "size": 64,
+    "mean_rgb": 0.19035743973399832,
+    "pixels_over_8_pct": 0.29925187032418954,
+    "silhouette_iou": 0.999474513925381
+  },
+  {
+    "key": "Feminine-pass2-transmission",
+    "size": 512,
+    "mean_rgb": 0.13995141003167574,
+    "pixels_over_8_pct": 0.28877202693975457,
+    "silhouette_iou": 0.9998234824132741
+  },
+  {
+    "key": "hidden-glasses",
+    "size": 512,
+    "mean_rgb": 0.36796500378564817,
+    "pixels_over_8_pct": 0.6730041221502482,
+    "silhouette_iou": 0.9993811617088473
+  },
+  {
+    "key": "hidden-hair",
+    "size": 512,
+    "mean_rgb": 0.311018982280399,
+    "pixels_over_8_pct": 0.3809082873858327,
+    "silhouette_iou": 0.9993807520659392
+  },
+  {
+    "key": "hidden-headgear",
+    "size": 512,
+    "mean_rgb": 0.4243246541611928,
+    "pixels_over_8_pct": 0.8722244955096591,
+    "silhouette_iou": 0.9994318305981076
+  },
+  {
+    "key": "hidden-lenses",
+    "size": 512,
+    "mean_rgb": 0.3605083130064205,
+    "pixels_over_8_pct": 0.6434519303557911,
+    "silhouette_iou": 0.9993812805359391
+  },
+  {
+    "key": "hidden-top",
+    "size": 512,
+    "mean_rgb": 0.4093591091466947,
+    "pixels_over_8_pct": 0.8174737700345441,
+    "silhouette_iou": 0.9993895526292841
+  },
+  {
+    "key": "Masculine-pass1-body-front",
+    "size": 512,
+    "mean_rgb": 0.36847714586414076,
+    "pixels_over_8_pct": 0.483593781223772,
+    "silhouette_iou": 0.9992284890567263
+  },
+  {
+    "key": "Masculine-pass1-body-profile",
+    "size": 512,
+    "mean_rgb": 0.34773073178109903,
+    "pixels_over_8_pct": 0.6778026715067639,
+    "silhouette_iou": 0.9992215430746165
+  },
+  {
+    "key": "Masculine-pass1-body-rear",
+    "size": 512,
+    "mean_rgb": 0.34614206165241257,
+    "pixels_over_8_pct": 0.557509391735273,
+    "silhouette_iou": 0.9989647612861319
+  },
+  {
+    "key": "Masculine-pass1-body-rearquarter",
+    "size": 512,
+    "mean_rgb": 0.3416609432234432,
+    "pixels_over_8_pct": 0.5215487637362637,
+    "silhouette_iou": 0.9992813432348265
+  },
+  {
+    "key": "Masculine-pass1-body-rightprofile",
+    "size": 512,
+    "mean_rgb": 0.3544856527163434,
+    "pixels_over_8_pct": 0.7003515935125326,
+    "silhouette_iou": 0.9993081380264637
+  },
+  {
+    "key": "Masculine-pass1-body-threequarter",
+    "size": 512,
+    "mean_rgb": 0.3565416140147356,
+    "pixels_over_8_pct": 0.48681457543554363,
+    "silhouette_iou": 0.9992016303548543
+  },
+  {
+    "key": "Masculine-pass1-body-top",
+    "size": 512,
+    "mean_rgb": 0.2660037639392152,
+    "pixels_over_8_pct": 0.6123423499339906,
+    "silhouette_iou": 0.999515503875969
+  },
+  {
+    "key": "Masculine-pass1-body-underside",
+    "size": 512,
+    "mean_rgb": 0.4986753518216951,
+    "pixels_over_8_pct": 0.9236079041392218,
+    "silhouette_iou": 0.9997045281067638
+  },
+  {
+    "key": "Masculine-pass1-face-front",
+    "size": 512,
+    "mean_rgb": 0.2803981369837104,
+    "pixels_over_8_pct": 0.49648911270302853,
+    "silhouette_iou": 0.9989532074796457
+  },
+  {
+    "key": "Masculine-pass1-face-profile",
+    "size": 512,
+    "mean_rgb": 0.2680559146069605,
+    "pixels_over_8_pct": 0.5687374253953624,
+    "silhouette_iou": 0.9991489071968408
+  },
+  {
+    "key": "Masculine-pass1-face-rear",
+    "size": 512,
+    "mean_rgb": 0.3329432554950738,
+    "pixels_over_8_pct": 0.6028475682192946,
+    "silhouette_iou": 0.9990430878749397
+  },
+  {
+    "key": "Masculine-pass1-face-rightprofile",
+    "size": 512,
+    "mean_rgb": 0.276848542074144,
+    "pixels_over_8_pct": 0.5721544030035296,
+    "silhouette_iou": 0.9991602932165309
+  },
+  {
+    "key": "Masculine-pass1-face-top",
+    "size": 512,
+    "mean_rgb": 0.24042602588658657,
+    "pixels_over_8_pct": 0.39352254919031865,
+    "silhouette_iou": 0.9995432666971156
+  },
+  {
+    "key": "Masculine-pass1-skin0-120",
+    "size": 120,
+    "mean_rgb": 0.3141283524904215,
+    "pixels_over_8_pct": 0.5603448275862069,
+    "silhouette_iou": 0.9988193624557261
+  },
+  {
+    "key": "Masculine-pass1-skin0-32",
+    "size": 32,
+    "mean_rgb": 0.44594594594594594,
+    "pixels_over_8_pct": 0.9652509652509652,
+    "silhouette_iou": 1.0
+  },
+  {
+    "key": "Masculine-pass1-skin0-48",
+    "size": 48,
+    "mean_rgb": 0.3344968004653869,
+    "pixels_over_8_pct": 0.5235602094240838,
+    "silhouette_iou": 0.9981343283582089
+  },
+  {
+    "key": "Masculine-pass1-skin0-512",
+    "size": 512,
+    "mean_rgb": 0.2655169747531709,
+    "pixels_over_8_pct": 0.5215207288492149,
+    "silhouette_iou": 0.9988465416414599
+  },
+  {
+    "key": "Masculine-pass1-skin0-64",
+    "size": 64,
+    "mean_rgb": 0.28990551964196914,
+    "pixels_over_8_pct": 0.69617105917454,
+    "silhouette_iou": 0.9994780793319415
+  },
+  {
+    "key": "Masculine-pass1-skin3-120",
+    "size": 120,
+    "mean_rgb": 0.3348659003831418,
+    "pixels_over_8_pct": 0.632183908045977,
+    "silhouette_iou": 0.9988193624557261
+  },
+  {
+    "key": "Masculine-pass1-skin3-32",
+    "size": 32,
+    "mean_rgb": 0.3906048906048906,
+    "pixels_over_8_pct": 0.3861003861003861,
+    "silhouette_iou": 1.0
+  },
+  {
+    "key": "Masculine-pass1-skin3-48",
+    "size": 48,
+    "mean_rgb": 0.3004653868528214,
+    "pixels_over_8_pct": 0.4363001745200698,
+    "silhouette_iou": 0.9981343283582089
+  },
+  {
+    "key": "Masculine-pass1-skin3-512",
+    "size": 512,
+    "mean_rgb": 0.27554478385952,
+    "pixels_over_8_pct": 0.546316959822107,
+    "silhouette_iou": 0.9988465416414599
+  },
+  {
+    "key": "Masculine-pass1-skin3-64",
+    "size": 64,
+    "mean_rgb": 0.27614785347256754,
+    "pixels_over_8_pct": 0.5967180507210343,
+    "silhouette_iou": 0.9994780793319415
+  },
+  {
+    "key": "Masculine-pass1-transmission",
+    "size": 512,
+    "mean_rgb": 0.21587272477190408,
+    "pixels_over_8_pct": 0.4007152354316629,
+    "silhouette_iou": 0.9992790461225621
+  },
+  {
+    "key": "Masculine-pass2-body-front",
+    "size": 512,
+    "mean_rgb": 0.2263032386128985,
+    "pixels_over_8_pct": 0.23780024779185482,
+    "silhouette_iou": 0.9996751400958337
+  },
+  {
+    "key": "Masculine-pass2-body-profile",
+    "size": 512,
+    "mean_rgb": 0.18864089693050867,
+    "pixels_over_8_pct": 0.3289753552083038,
+    "silhouette_iou": 0.9995387054922877
+  },
+  {
+    "key": "Masculine-pass2-body-rear",
+    "size": 512,
+    "mean_rgb": 0.21037487011429942,
+    "pixels_over_8_pct": 0.3177204060426824,
+    "silhouette_iou": 0.9995534083066056
+  },
+  {
+    "key": "Masculine-pass2-body-rearquarter",
+    "size": 512,
+    "mean_rgb": 0.19567986033599497,
+    "pixels_over_8_pct": 0.2296728771357431,
+    "silhouette_iou": 0.9996515603562796
+  },
+  {
+    "key": "Masculine-pass2-body-rightprofile",
+    "size": 512,
+    "mean_rgb": 0.2043306491247968,
+    "pixels_over_8_pct": 0.3260746285584666,
+    "silhouette_iou": 0.999481133435185
+  },
+  {
+    "key": "Masculine-pass2-body-threequarter",
+    "size": 512,
+    "mean_rgb": 0.1972101374214488,
+    "pixels_over_8_pct": 0.2175264139216905,
+    "silhouette_iou": 0.9996638443599386
+  },
+  {
+    "key": "Masculine-pass2-body-top",
+    "size": 512,
+    "mean_rgb": 0.15078228139658997,
+    "pixels_over_8_pct": 0.3061711749669953,
+    "silhouette_iou": 0.9997720018239854
+  },
+  {
+    "key": "Masculine-pass2-body-underside",
+    "size": 512,
+    "mean_rgb": 0.3246321861429775,
+    "pixels_over_8_pct": 0.5006805366517597,
+    "silhouette_iou": 0.9998768867111516
+  },
+  {
+    "key": "Masculine-pass2-face-front",
+    "size": 512,
+    "mean_rgb": 0.14528808189706124,
+    "pixels_over_8_pct": 0.23494574083268316,
+    "silhouette_iou": 0.999543705824461
+  },
+  {
+    "key": "Masculine-pass2-face-profile",
+    "size": 512,
+    "mean_rgb": 0.14230050167286734,
+    "pixels_over_8_pct": 0.27088086861715877,
+    "silhouette_iou": 0.9996028368794326
+  },
+  {
+    "key": "Masculine-pass2-face-rear",
+    "size": 512,
+    "mean_rgb": 0.18745438050573734,
+    "pixels_over_8_pct": 0.2810308602026613,
+    "silhouette_iou": 0.9996333228994321
+  },
+  {
+    "key": "Masculine-pass2-face-rightprofile",
+    "size": 512,
+    "mean_rgb": 0.1479449796352709,
+    "pixels_over_8_pct": 0.2697811400501343,
+    "silhouette_iou": 0.9996709257199918
+  },
+  {
+    "key": "Masculine-pass2-face-top",
+    "size": 512,
+    "mean_rgb": 0.13048866136156528,
+    "pixels_over_8_pct": 0.17761061484615787,
+    "silhouette_iou": 0.9997804147526153
+  },
+  {
+    "key": "Masculine-pass2-skin0-120",
+    "size": 120,
+    "mean_rgb": 0.1346743295019157,
+    "pixels_over_8_pct": 0.21551724137931033,
+    "silhouette_iou": 0.999409594095941
+  },
+  {
+    "key": "Masculine-pass2-skin0-32",
+    "size": 32,
+    "mean_rgb": 0.2850707850707851,
+    "pixels_over_8_pct": 0.3861003861003861,
+    "silhouette_iou": 1.0
+  },
+  {
+    "key": "Masculine-pass2-skin0-48",
+    "size": 48,
+    "mean_rgb": 0.1922629435718441,
+    "pixels_over_8_pct": 0.34904013961605584,
+    "silhouette_iou": 1.0
+  },
+  {
+    "key": "Masculine-pass2-skin0-512",
+    "size": 512,
+    "mean_rgb": 0.12902038890088707,
+    "pixels_over_8_pct": 0.23596413345171535,
+    "silhouette_iou": 0.9995482778091473
+  },
+  {
+    "key": "Masculine-pass2-skin0-64",
+    "size": 64,
+    "mean_rgb": 0.19492789656887122,
+    "pixels_over_8_pct": 0.39781203381402286,
+    "silhouette_iou": 1.0
+  },
+  {
+    "key": "Masculine-pass2-skin3-120",
+    "size": 120,
+    "mean_rgb": 0.13812260536398469,
+    "pixels_over_8_pct": 0.21551724137931033,
+    "silhouette_iou": 0.999409594095941
+  },
+  {
+    "key": "Masculine-pass2-skin3-32",
+    "size": 32,
+    "mean_rgb": 0.27863577863577865,
+    "pixels_over_8_pct": 0.3861003861003861,
+    "silhouette_iou": 1.0
+  },
+  {
+    "key": "Masculine-pass2-skin3-48",
+    "size": 48,
+    "mean_rgb": 0.19575334496800464,
+    "pixels_over_8_pct": 0.34904013961605584,
+    "silhouette_iou": 1.0
+  },
+  {
+    "key": "Masculine-pass2-skin3-512",
+    "size": 512,
+    "mean_rgb": 0.13501681077809508,
+    "pixels_over_8_pct": 0.2575608507506859,
+    "silhouette_iou": 0.9995482778091473
+  },
+  {
+    "key": "Masculine-pass2-skin3-64",
+    "size": 64,
+    "mean_rgb": 0.19293883639980108,
+    "pixels_over_8_pct": 0.34808552958727,
+    "silhouette_iou": 1.0
+  },
+  {
+    "key": "Masculine-pass2-transmission",
+    "size": 512,
+    "mean_rgb": 0.11779377378387053,
+    "pixels_over_8_pct": 0.1980651964605016,
+    "silhouette_iou": 0.9997504390424253
+  }
+]

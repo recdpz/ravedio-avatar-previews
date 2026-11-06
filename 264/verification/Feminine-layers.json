@@ -1,0 +1,882 @@
+[
+  {
+    "build": "Feminine",
+    "skin": 0,
+    "size": 120,
+    "group": "body-face",
+    "roles": [
+      "base",
+      "eyes",
+      "mouth",
+      "lashes"
+    ],
+    "color": "layers/Feminine-body-face-skin0-120-color.png",
+    "depth": "layers/Feminine-body-face-skin0-120-depth.exr",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": false,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Feminine",
+    "skin": 0,
+    "size": 120,
+    "group": "hair",
+    "roles": [
+      "hair"
+    ],
+    "color": "layers/Feminine-hair-skin0-120-color.png",
+    "depth": "layers/Feminine-hair-skin0-120-depth.exr",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": true,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Feminine",
+    "skin": 0,
+    "size": 120,
+    "group": "headgear",
+    "roles": [
+      "headgear"
+    ],
+    "color": "layers/Feminine-headgear-skin0-120-color.png",
+    "depth": "layers/Feminine-headgear-skin0-120-depth.exr",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": false,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Feminine",
+    "skin": 0,
+    "size": 120,
+    "group": "top",
+    "roles": [
+      "top"
+    ],
+    "color": "layers/Feminine-top-skin0-120-color.png",
+    "depth": "layers/Feminine-top-skin0-120-depth.exr",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": false,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Feminine",
+    "skin": 0,
+    "size": 120,
+    "group": "frames",
+    "roles": [
+      "glasses"
+    ],
+    "color": "layers/Feminine-frames-skin0-120-color.png",
+    "depth": "layers/Feminine-frames-skin0-120-depth.exr",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": false,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Feminine",
+    "skin": 0,
+    "size": 120,
+    "group": "detail",
+    "roles": [
+      "extra"
+    ],
+    "color": "layers/Feminine-detail-skin0-120-color.png",
+    "depth": "layers/Feminine-detail-skin0-120-depth.exr",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": false,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Feminine",
+    "skin": 0,
+    "size": 120,
+    "group": "lenses",
+    "roles": [
+      "lenses"
+    ],
+    "color": "layers/Feminine-lenses-skin0-120-color.png",
+    "depth": "layers/Feminine-lenses-skin0-120-depth.exr",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.0,
+    "requires_alpha_compositing": true,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Feminine",
+    "skin": 0,
+    "size": 512,
+    "group": "body-face",
+    "roles": [
+      "base",
+      "eyes",
+      "mouth",
+      "lashes"
+    ],
+    "color": "layers/Feminine-body-face-skin0-512-color.png",
+    "depth": "layers/Feminine-body-face-skin0-512-depth.exr",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": false,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Feminine",
+    "skin": 0,
+    "size": 512,
+    "group": "hair",
+    "roles": [
+      "hair"
+    ],
+    "color": "layers/Feminine-hair-skin0-512-color.png",
+    "depth": "layers/Feminine-hair-skin0-512-depth.exr",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": true,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Feminine",
+    "skin": 0,
+    "size": 512,
+    "group": "headgear",
+    "roles": [
+      "headgear"
+    ],
+    "color": "layers/Feminine-headgear-skin0-512-color.png",
+    "depth": "layers/Feminine-headgear-skin0-512-depth.exr",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": false,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Feminine",
+    "skin": 0,
+    "size": 512,
+    "group": "top",
+    "roles": [
+      "top"
+    ],
+    "color": "layers/Feminine-top-skin0-512-color.png",
+    "depth": "layers/Feminine-top-skin0-512-depth.exr",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": false,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Feminine",
+    "skin": 0,
+    "size": 512,
+    "group": "frames",
+    "roles": [
+      "glasses"
+    ],
+    "color": "layers/Feminine-frames-skin0-512-color.png",
+    "depth": "layers/Feminine-frames-skin0-512-depth.exr",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": false,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Feminine",
+    "skin": 0,
+    "size": 512,
+    "group": "detail",
+    "roles": [
+      "extra"
+    ],
+    "color": "layers/Feminine-detail-skin0-512-color.png",
+    "depth": "layers/Feminine-detail-skin0-512-depth.exr",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": false,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Feminine",
+    "skin": 0,
+    "size": 512,
+    "group": "lenses",
+    "roles": [
+      "lenses"
+    ],
+    "color": "layers/Feminine-lenses-skin0-512-color.png",
+    "depth": "layers/Feminine-lenses-skin0-512-depth.exr",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.0,
+    "requires_alpha_compositing": true,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Feminine",
+    "skin": 3,
+    "size": 120,
+    "group": "body-face",
+    "roles": [
+      "base",
+      "eyes",
+      "mouth",
+      "lashes"
+    ],
+    "color": "layers/Feminine-body-face-skin3-120-color.png",
+    "depth": "layers/Feminine-body-face-skin3-120-depth.exr",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": false,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Feminine",
+    "skin": 3,
+    "size": 120,
+    "group": "hair",
+    "roles": [
+      "hair"
+    ],
+    "color": "layers/Feminine-hair-skin3-120-color.png",
+    "depth": "layers/Feminine-hair-skin3-120-depth.exr",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": true,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Feminine",
+    "skin": 3,
+    "size": 120,
+    "group": "headgear",
+    "roles": [
+      "headgear"
+    ],
+    "color": "layers/Feminine-headgear-skin3-120-color.png",
+    "depth": "layers/Feminine-headgear-skin3-120-depth.exr",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": false,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Feminine",
+    "skin": 3,
+    "size": 120,
+    "group": "top",
+    "roles": [
+      "top"
+    ],
+    "color": "layers/Feminine-top-skin3-120-color.png",
+    "depth": "layers/Feminine-top-skin3-120-depth.exr",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": false,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Feminine",
+    "skin": 3,
+    "size": 120,
+    "group": "frames",
+    "roles": [
+      "glasses"
+    ],
+    "color": "layers/Feminine-frames-skin3-120-color.png",
+    "depth": "layers/Feminine-frames-skin3-120-depth.exr",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": false,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Feminine",
+    "skin": 3,
+    "size": 120,
+    "group": "detail",
+    "roles": [
+      "extra"
+    ],
+    "color": "layers/Feminine-detail-skin3-120-color.png",
+    "depth": "layers/Feminine-detail-skin3-120-depth.exr",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": false,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Feminine",
+    "skin": 3,
+    "size": 120,
+    "group": "lenses",
+    "roles": [
+      "lenses"
+    ],
+    "color": "layers/Feminine-lenses-skin3-120-color.png",
+    "depth": "layers/Feminine-lenses-skin3-120-depth.exr",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.0,
+    "requires_alpha_compositing": true,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Feminine",
+    "skin": 3,
+    "size": 512,
+    "group": "body-face",
+    "roles": [
+      "base",
+      "eyes",
+      "mouth",
+      "lashes"
+    ],
+    "color": "layers/Feminine-body-face-skin3-512-color.png",
+    "depth": "layers/Feminine-body-face-skin3-512-depth.exr",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": false,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Feminine",
+    "skin": 3,
+    "size": 512,
+    "group": "hair",
+    "roles": [
+      "hair"
+    ],
+    "color": "layers/Feminine-hair-skin3-512-color.png",
+    "depth": "layers/Feminine-hair-skin3-512-depth.exr",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": true,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Feminine",
+    "skin": 3,
+    "size": 512,
+    "group": "headgear",
+    "roles": [
+      "headgear"
+    ],
+    "color": "layers/Feminine-headgear-skin3-512-color.png",
+    "depth": "layers/Feminine-headgear-skin3-512-depth.exr",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": false,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Feminine",
+    "skin": 3,
+    "size": 512,
+    "group": "top",
+    "roles": [
+      "top"
+    ],
+    "color": "layers/Feminine-top-skin3-512-color.png",
+    "depth": "layers/Feminine-top-skin3-512-depth.exr",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": false,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Feminine",
+    "skin": 3,
+    "size": 512,
+    "group": "frames",
+    "roles": [
+      "glasses"
+    ],
+    "color": "layers/Feminine-frames-skin3-512-color.png",
+    "depth": "layers/Feminine-frames-skin3-512-depth.exr",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": false,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Feminine",
+    "skin": 3,
+    "size": 512,
+    "group": "detail",
+    "roles": [
+      "extra"
+    ],
+    "color": "layers/Feminine-detail-skin3-512-color.png",
+    "depth": "layers/Feminine-detail-skin3-512-depth.exr",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.5,
+    "requires_alpha_compositing": false,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  },
+  {
+    "build": "Feminine",
+    "skin": 3,
+    "size": 512,
+    "group": "lenses",
+    "roles": [
+      "lenses"
+    ],
+    "color": "layers/Feminine-lenses-skin3-512-color.png",
+    "depth": "layers/Feminine-lenses-skin3-512-depth.exr",
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "camera": {
+      "position": [
+        0,
+        -8,
+        1.88
+      ],
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "orthographic_span": 1.65,
+      "up": "Z",
+      "near": 0.10000000149011612,
+      "far": 1000.0
+    },
+    "alpha_threshold": 0.0,
+    "requires_alpha_compositing": true,
+    "context": "Other objects camera-invisible but retained in shadow/reflection rays. Context-specific diagnostic layer, not a universal interchangeable lighting solution. These lenses use BLEND alpha, IOR1 and zero transmission. A nearest-opaque compositor cannot represent them."
+  }
+]

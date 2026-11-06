@@ -1,0 +1,8 @@
+* text=auto eol=lf
+*.glb -text
+*.blend -text
+*.png -text
+*.jpg -text
+*.exr -text
+vendor/** -text whitespace=-space-before-tab
+tools/vendor/** -text whitespace=-space-before-tab

@@ -1,0 +1,468 @@
+[
+  {
+    "build": "Feminine",
+    "role": "base",
+    "file": "components/Feminine-base264.glb",
+    "bytes": 766696,
+    "sha256": "dad70d4a4adca5092b0b8a7a5cbddc4abc5bbf09221fa653cae3544214edf0ba",
+    "nodes": [
+      "Chest / subtle cleavage201 1",
+      "Chest / subtle cleavage201 -1",
+      "Skin / pants fitted leg 1",
+      "Skin / pants fitted leg -1",
+      "Skin / rounded torso",
+      "Skin / soft oval head",
+      "Skin / swept arm 1",
+      "Skin / swept arm -1"
+    ],
+    "triangles": 40706,
+    "materials": [
+      "Chest / shade191 0.001",
+      "Chest / shade191 0.002",
+      "Chest / shade191 0.003",
+      "Skin / Light warm.002",
+      "Skin / Light warm.003"
+    ],
+    "fit": "Selected cap fit; same source263 world coordinates"
+  },
+  {
+    "build": "Feminine",
+    "role": "bottom",
+    "file": "components/Feminine-bottom264.glb",
+    "bytes": 465560,
+    "sha256": "0c864cc4074246eb6dab8d9eaa008f532a224698a5b2688292324aac548cccc1",
+    "nodes": [
+      "Bottom / clean cut pants hem201 1.001",
+      "Bottom / clean cut pants hem201 2.001",
+      "Bottom / continuous pants187.001",
+      "Bottom / pocket187 1.001",
+      "Bottom / pocket187 -1.001",
+      "Bottom / sewn fly187.001",
+      "Bottom / side seam187 1.001",
+      "Bottom / side seam187 -1.001"
+    ],
+    "triangles": 22144,
+    "materials": [
+      "Bottom / stitch187.001",
+      "Bottom / fabric187.001"
+    ],
+    "fit": "Selected cap fit; same source263 world coordinates"
+  },
+  {
+    "build": "Feminine",
+    "role": "extra",
+    "file": "components/Feminine-extra264.glb",
+    "bytes": 152252,
+    "sha256": "42b7bea8fd7544593b96daa267ea0fa8cb99f99c946bb79bf7e0636f32240888",
+    "nodes": [
+      "HOT / original compact letters212",
+      "HOT / original flame silhouette212"
+    ],
+    "triangles": 7776,
+    "materials": [
+      "HOT / original ink212.001",
+      "HOT / original coral212.001"
+    ],
+    "fit": "Selected cap fit; same source263 world coordinates"
+  },
+  {
+    "build": "Feminine",
+    "role": "eyes",
+    "file": "components/Feminine-eyes264.glb",
+    "bytes": 260904,
+    "sha256": "cb06940908b4b4929bd6be4fb367620c1c7c01009ad447fdf200f0674b7c6cfd",
+    "nodes": [
+      "Eye / dark oval 1",
+      "Eye / dark oval -1",
+      "Eye highlight / main 1",
+      "Eye highlight / main -1",
+      "Eye highlight / small 1",
+      "Eye highlight / small -1"
+    ],
+    "triangles": 11744,
+    "materials": [
+      "Eye / smoky charcoal181.001",
+      "Eye highlight181.001",
+      "Eye glint181.001"
+    ],
+    "fit": "Selected cap fit; same source263 world coordinates"
+  },
+  {
+    "build": "Feminine",
+    "role": "glasses",
+    "file": "components/Feminine-glasses264.glb",
+    "bytes": 121060,
+    "sha256": "b62e1a786e018556b5d3e5deb1c6c3d9590388590b556a99029a5090233c1696",
+    "nodes": [
+      "226 glasses / Accessory / warm metal226",
+      "226 glasses / Glasses / frame226"
+    ],
+    "triangles": 4692,
+    "materials": [
+      "Accessory / warm metal226.001",
+      "Glasses / frame226.001"
+    ],
+    "fit": "Selected cap fit; same source263 world coordinates"
+  },
+  {
+    "build": "Feminine",
+    "role": "hair",
+    "file": "components/Feminine-hair264.glb",
+    "bytes": 1082420,
+    "sha256": "91ec990a5f91582a1655e3acddb8f3366213d1bc03b41e5dfb7b23f35c2995fc",
+    "nodes": [
+      "Hair / adjustable front216 1",
+      "Hair / adjustable front216 -1",
+      "Hair / rounded tail220 0",
+      "Hair / rounded tail220 1",
+      "Hair / rounded tail220 2",
+      "Hair / rounded tail220 3",
+      "Hair / rounded tail220 4",
+      "Hair / swept roots220",
+      "Hair / tie220"
+    ],
+    "triangles": 41468,
+    "materials": [
+      "Hair / sculpted front locks222.002",
+      "Hair / chestnut212 1.002",
+      "Hair / chestnut212 0.002",
+      "Hair / chestnut212 2.002",
+      "Hair / crisp pulled roots220.002",
+      "Hair / fitted tie214.002"
+    ],
+    "fit": "Selected cap fit; same source263 world coordinates"
+  },
+  {
+    "build": "Feminine",
+    "role": "headgear",
+    "file": "components/Feminine-headgear264.glb",
+    "bytes": 691164,
+    "sha256": "7282ef9c5e7c399fd2f11e1a126dd8a59189324dea23bbf9cc25b82945b0d00f",
+    "nodes": [
+      "Cap / bill stitch212 0.77",
+      "Cap / bill stitch212 0.91",
+      "Cap / cloth button212",
+      "Cap / panel seam212 0",
+      "Cap / panel seam212 1",
+      "Cap / panel seam212 2",
+      "Cap / panel seam212 3",
+      "Cap / panel seam212 4",
+      "Cap / panel seam212 5",
+      "Cap / pulse emblem223 0",
+      "Cap / rear adjustment strap212",
+      "Cap / rear strap stitch212",
+      "Cap / sewn crown and curved bill212",
+      "Cap / sewn lower edge212"
+    ],
+    "triangles": 29944,
+    "materials": [
+      "Cap / subtle sewing212",
+      "Cap / midnight cotton212",
+      "Cap / ivory emblem223"
+    ],
+    "fit": "Selected cap fit; same source263 world coordinates"
+  },
+  {
+    "build": "Feminine",
+    "role": "lashes",
+    "file": "components/Feminine-lashes264.glb",
+    "bytes": 61284,
+    "sha256": "a0086915e2f0657abd3312dea940262a42178143067b742bc65fc8efe0ed819d",
+    "nodes": [
+      "226 eyelashes / Lashes / charcoal234"
+    ],
+    "triangles": 3072,
+    "materials": [
+      "Lashes / charcoal234"
+    ],
+    "fit": "Selected cap fit; same source263 world coordinates"
+  },
+  {
+    "build": "Feminine",
+    "role": "lenses",
+    "file": "components/Feminine-lenses264.glb",
+    "bytes": 13192,
+    "sha256": "c0e8551ddc021f3fa9d4cb57d4c2d9eb1ab6a4e12bc89a2fffd9a681b6192b9c",
+    "nodes": [
+      "226 lenses / Glasses / clear non-refracting pane235"
+    ],
+    "triangles": 160,
+    "materials": [
+      "Glasses / clear non-refracting pane235"
+    ],
+    "fit": "Selected cap fit; same source263 world coordinates"
+  },
+  {
+    "build": "Feminine",
+    "role": "mouth",
+    "file": "components/Feminine-mouth264.glb",
+    "bytes": 47156,
+    "sha256": "def2d7369f71461eda97b1ad8913309a618351f035b9bad4fd7598060f3fcba7",
+    "nodes": [
+      "Face / relaxed smile185"
+    ],
+    "triangles": 2300,
+    "materials": [
+      "Face / ink209"
+    ],
+    "fit": "Selected cap fit; same source263 world coordinates"
+  },
+  {
+    "build": "Feminine",
+    "role": "top",
+    "file": "components/Feminine-top264.glb",
+    "bytes": 1289332,
+    "sha256": "9f636f6874e05e11822c3a92c2a2b98745cda301f09615b4396c938fa772618b",
+    "nodes": [
+      "Clothing / tailored203.001",
+      "Hoodie / aglet205 1",
+      "Hoodie / aglet205 -1",
+      "Hoodie / attached opening204.001",
+      "Hoodie / front seated cord205 1.001",
+      "Hoodie / front seated cord205 -1.001",
+      "Hoodie / rolled opening204.001",
+      "Hoodie / rounded resting hood215.001",
+      "Hoodie / seated pouch202.001",
+      "Hoodie / sewn pocket entry202 1.001",
+      "Hoodie / sewn pocket entry202 -1.001",
+      "Hoodie / smooth back seam215.001",
+      "Sleeve / full fabric wrap201 1.001",
+      "Sleeve / full fabric wrap201 -1.001",
+      "Sleeve / sewn cuff201 1.001",
+      "Sleeve / sewn cuff201 -1.001",
+      "Sleeve / shaped cuff202 1.001",
+      "Sleeve / shaped cuff202 -1.001"
+    ],
+    "triangles": 64158,
+    "materials": [
+      "167 Top / sweatshirt.001",
+      "Hoodie / soft cord205.001",
+      "Hoodie / lining204.001",
+      "Hoodie / rolled edge204.001",
+      "Hoodie / cavity215.001",
+      "Hoodie / facing215.001",
+      "Sleeve / ribbed cuff201.002",
+      "Sleeve / ribbed cuff201.003",
+      "Sleeve / cuff fabric202.002",
+      "Sleeve / cuff fabric202.003"
+    ],
+    "fit": "Selected cap fit; same source263 world coordinates"
+  },
+  {
+    "build": "Masculine",
+    "role": "base",
+    "file": "components/Masculine-base264.glb",
+    "bytes": 697720,
+    "sha256": "1bc3234f718397f7dde6ec611fed273440b273bc7a788393191d57a68e72d717",
+    "nodes": [
+      "Skin / pants fitted leg 1",
+      "Skin / pants fitted leg -1",
+      "Skin / rounded torso",
+      "Skin / soft oval head",
+      "Skin / swept arm 1",
+      "Skin / swept arm -1"
+    ],
+    "triangles": 38254,
+    "materials": [
+      "Skin / Light warm.001"
+    ],
+    "fit": "Selected cap fit; same source263 world coordinates"
+  },
+  {
+    "build": "Masculine",
+    "role": "bottom",
+    "file": "components/Masculine-bottom264.glb",
+    "bytes": 1211224,
+    "sha256": "da44a750ed849aa4c1725e2c2286741f4b12701c3cff295afa5986f8a490e43c",
+    "nodes": [
+      "Bottom / clean cut pants hem201 1.001",
+      "Bottom / clean cut pants hem201 2.001",
+      "Bottom / continuous pants187.001",
+      "Bottom / pocket187 1.001",
+      "Bottom / pocket187 -1.001",
+      "Bottom / sewn fly187.001",
+      "Bottom / side seam187 1.001",
+      "Bottom / side seam187 -1.001"
+    ],
+    "triangles": 35104,
+    "materials": [
+      "Bottom / stitch187",
+      "Bottom / fabric187"
+    ],
+    "fit": "Selected cap fit; same source263 world coordinates"
+  },
+  {
+    "build": "Masculine",
+    "role": "extra",
+    "file": "components/Masculine-extra264.glb",
+    "bytes": 151416,
+    "sha256": "6f8587dbd36e76d39cda5c471a58071fb5ff2c435dfdc29555173db64fe47156",
+    "nodes": [
+      "HOT / original compact letters212",
+      "HOT / original flame silhouette212"
+    ],
+    "triangles": 7776,
+    "materials": [
+      "HOT / original ink212.001",
+      "HOT / original coral212.001"
+    ],
+    "fit": "Selected cap fit; same source263 world coordinates"
+  },
+  {
+    "build": "Masculine",
+    "role": "eyes",
+    "file": "components/Masculine-eyes264.glb",
+    "bytes": 260776,
+    "sha256": "a611080c1a990445dd28cb915850fa89ee299aa98f94abcd18fd92ebf543045a",
+    "nodes": [
+      "Eye / dark oval 1",
+      "Eye / dark oval -1",
+      "Eye highlight / main 1",
+      "Eye highlight / main -1",
+      "Eye highlight / small 1",
+      "Eye highlight / small -1"
+    ],
+    "triangles": 11744,
+    "materials": [
+      "Eye / smoky charcoal181.001",
+      "Eye highlight181.001",
+      "Eye glint181.001"
+    ],
+    "fit": "Selected cap fit; same source263 world coordinates"
+  },
+  {
+    "build": "Masculine",
+    "role": "glasses",
+    "file": "components/Masculine-glasses264.glb",
+    "bytes": 98400,
+    "sha256": "d101f8d010c334e52655425470fb4e66e8713289c28a96e85849d6b009620d94",
+    "nodes": [
+      "Glasses / bridge212",
+      "Glasses / compact temple213 1",
+      "Glasses / compact temple213 -1",
+      "Glasses / rounded rectangle212 1",
+      "Glasses / rounded rectangle212 -1"
+    ],
+    "triangles": 3560,
+    "materials": [
+      "Glasses / graphite rectangular212"
+    ],
+    "fit": "Selected cap fit; same source263 world coordinates"
+  },
+  {
+    "build": "Masculine",
+    "role": "hair",
+    "file": "components/Masculine-hair264.glb",
+    "bytes": 3333308,
+    "sha256": "b78730bee55d2ec1324159c37ed705f7175382957259539bfe2b34faff143d98",
+    "nodes": [
+      "226 hair / Hair258 / sculpted side sweep 0",
+      "226 hair / Hair258 / sculpted side sweep 1",
+      "226 hair / Hair258 / sculpted side sweep 2",
+      "226 hair / Hair258 / smooth side fade",
+      "226 hair / Hair259 / directional fade marks214"
+    ],
+    "triangles": 118004,
+    "materials": [
+      "Hair258 / sculpted side sweep 0.001",
+      "Hair258 / blended terminal tips Hair258 / sculpted side sweep 0.001",
+      "Hair258 / sculpted side sweep 1.001",
+      "Hair258 / blended terminal tips Hair258 / sculpted side sweep 1.001",
+      "Hair258 / sculpted side sweep 2.001",
+      "Hair258 / blended terminal tips Hair258 / sculpted side sweep 2.001",
+      "Hair258 / smooth side fade.001",
+      "Hair259 / directional fade marks214.001"
+    ],
+    "fit": "Selected cap fit; same source263 world coordinates"
+  },
+  {
+    "build": "Masculine",
+    "role": "headgear",
+    "file": "components/Masculine-headgear264.glb",
+    "bytes": 638256,
+    "sha256": "a678e18b8cb9a3be278aa38186a7cd808fd80a314d4fe82a63d86fe5ab147687",
+    "nodes": [
+      "226 headgear / Cap / ivory emblem223.001",
+      "226 headgear / Cap / midnight cotton212.001",
+      "226 headgear / Cap / subtle sewing212.001"
+    ],
+    "triangles": 25452,
+    "materials": [
+      "Cap / ivory emblem223.001",
+      "Cap / midnight cotton212.001",
+      "Cap / subtle sewing212.001"
+    ],
+    "fit": "Selected cap fit; same source263 world coordinates"
+  },
+  {
+    "build": "Masculine",
+    "role": "lenses",
+    "file": "components/Masculine-lenses264.glb",
+    "bytes": 190996,
+    "sha256": "2349270e3f9b2c2147cd1e0221beb0853c863d718c2217e79141aa9ae665defc",
+    "nodes": [
+      "226 lenses / Glasses / clear non-refracting pane235"
+    ],
+    "triangles": 2400,
+    "materials": [
+      "Glasses / clear non-refracting pane235"
+    ],
+    "fit": "Selected cap fit; same source263 world coordinates"
+  },
+  {
+    "build": "Masculine",
+    "role": "mouth",
+    "file": "components/Masculine-mouth264.glb",
+    "bytes": 45452,
+    "sha256": "67d37ebaa07787e2fc1d73611bdbe158a622577830e86d4a5b1a444f05d519d4",
+    "nodes": [
+      "Face / relaxed smile185"
+    ],
+    "triangles": 2300,
+    "materials": [
+      "Face / ink209"
+    ],
+    "fit": "Selected cap fit; same source263 world coordinates"
+  },
+  {
+    "build": "Masculine",
+    "role": "top",
+    "file": "components/Masculine-top264.glb",
+    "bytes": 1253424,
+    "sha256": "01b1d80e42d13771db56ec8492f98f2f4c5fe069837ed0c3ad63c3d8bd9375e5",
+    "nodes": [
+      "Clothing / tailored203.001",
+      "Hoodie / aglet205 1",
+      "Hoodie / aglet205 -1",
+      "Hoodie / attached opening204.001",
+      "Hoodie / front seated cord205 1.001",
+      "Hoodie / front seated cord205 -1.001",
+      "Hoodie / rolled opening204.001",
+      "Hoodie / rounded resting hood215.001",
+      "Hoodie / seated pouch202.001",
+      "Hoodie / sewn pocket entry202 1.001",
+      "Hoodie / sewn pocket entry202 -1.001",
+      "Hoodie / smooth back seam215.001",
+      "Sleeve / full fabric wrap201 1.001",
+      "Sleeve / full fabric wrap201 -1.001",
+      "Sleeve / sewn cuff201 1.001",
+      "Sleeve / sewn cuff201 -1.001",
+      "Sleeve / shaped cuff202 1.001",
+      "Sleeve / shaped cuff202 -1.001"
+    ],
+    "triangles": 62340,
+    "materials": [
+      "165 Top / sweatshirt.001",
+      "Hoodie / soft cord205.001",
+      "Hoodie / lining204.001",
+      "Hoodie / rolled edge204.001",
+      "Hoodie / cavity215.001",
+      "Hoodie / facing215.001",
+      "Sleeve / ribbed cuff201.002",
+      "Sleeve / ribbed cuff201.003",
+      "Sleeve / cuff fabric202.002",
+      "Sleeve / cuff fabric202.003"
+    ],
+    "fit": "Selected cap fit; same source263 world coordinates"
+  }
+]

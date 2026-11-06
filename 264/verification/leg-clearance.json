@@ -1,0 +1,34 @@
+[
+  {
+    "build": "Feminine",
+    "node": "Skin / pants fitted leg 1",
+    "samples": 2342,
+    "misses": 0,
+    "penetrations": 0,
+    "minimum_clearance": 0.007985763325118467
+  },
+  {
+    "build": "Feminine",
+    "node": "Skin / pants fitted leg -1",
+    "samples": 2353,
+    "misses": 0,
+    "penetrations": 0,
+    "minimum_clearance": 0.008241129258054924
+  },
+  {
+    "build": "Masculine",
+    "node": "Skin / pants fitted leg 1",
+    "samples": 2319,
+    "misses": 0,
+    "penetrations": 0,
+    "minimum_clearance": 0.010378474695362946
+  },
+  {
+    "build": "Masculine",
+    "node": "Skin / pants fitted leg -1",
+    "samples": 2312,
+    "misses": 0,
+    "penetrations": 0,
+    "minimum_clearance": 0.010622633997686592
+  }
+]

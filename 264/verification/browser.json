@@ -1,0 +1,2433 @@
+{
+  "rows": [
+    {
+      "key": "Feminine-pass2-body-front",
+      "settings": {
+        "build": "Feminine",
+        "variant": "pass2",
+        "mode": "body",
+        "angle": "front",
+        "skin": 1
+      },
+      "size": 512
+    },
+    {
+      "key": "Feminine-pass2-body-threequarter",
+      "settings": {
+        "build": "Feminine",
+        "variant": "pass2",
+        "mode": "body",
+        "angle": "threequarter",
+        "skin": 1
+      },
+      "size": 512
+    },
+    {
+      "key": "Feminine-pass2-body-profile",
+      "settings": {
+        "build": "Feminine",
+        "variant": "pass2",
+        "mode": "body",
+        "angle": "profile",
+        "skin": 1
+      },
+      "size": 512
+    },
+    {
+      "key": "Feminine-pass2-body-rightprofile",
+      "settings": {
+        "build": "Feminine",
+        "variant": "pass2",
+        "mode": "body",
+        "angle": "rightprofile",
+        "skin": 1
+      },
+      "size": 512
+    },
+    {
+      "key": "Feminine-pass2-body-rear",
+      "settings": {
+        "build": "Feminine",
+        "variant": "pass2",
+        "mode": "body",
+        "angle": "rear",
+        "skin": 1
+      },
+      "size": 512
+    },
+    {
+      "key": "Feminine-pass2-body-rearquarter",
+      "settings": {
+        "build": "Feminine",
+        "variant": "pass2",
+        "mode": "body",
+        "angle": "rearquarter",
+        "skin": 1
+      },
+      "size": 512
+    },
+    {
+      "key": "Feminine-pass2-body-top",
+      "settings": {
+        "build": "Feminine",
+        "variant": "pass2",
+        "mode": "body",
+        "angle": "top",
+        "skin": 1
+      },
+      "size": 512
+    },
+    {
+      "key": "Feminine-pass2-body-underside",
+      "settings": {
+        "build": "Feminine",
+        "variant": "pass2",
+        "mode": "body",
+        "angle": "underside",
+        "skin": 1
+      },
+      "size": 512
+    },
+    {
+      "key": "Feminine-pass2-face-front",
+      "settings": {
+        "mode": "face",
+        "angle": "front"
+      },
+      "size": 512
+    },
+    {
+      "key": "Feminine-pass2-face-profile",
+      "settings": {
+        "mode": "face",
+        "angle": "profile"
+      },
+      "size": 512
+    },
+    {
+      "key": "Feminine-pass2-face-rightprofile",
+      "settings": {
+        "mode": "face",
+        "angle": "rightprofile"
+      },
+      "size": 512
+    },
+    {
+      "key": "Feminine-pass2-face-rear",
+      "settings": {
+        "mode": "face",
+        "angle": "rear"
+      },
+      "size": 512
+    },
+    {
+      "key": "Feminine-pass2-face-top",
+      "settings": {
+        "mode": "face",
+        "angle": "top"
+      },
+      "size": 512
+    },
+    {
+      "key": "Feminine-pass2-skin0-32",
+      "settings": {
+        "mode": "chat",
+        "angle": "front",
+        "skin": 0
+      },
+      "size": 32
+    },
+    {
+      "key": "Feminine-pass2-skin0-48",
+      "settings": {
+        "mode": "chat",
+        "angle": "front",
+        "skin": 0
+      },
+      "size": 48
+    },
+    {
+      "key": "Feminine-pass2-skin0-64",
+      "settings": {
+        "mode": "chat",
+        "angle": "front",
+        "skin": 0
+      },
+      "size": 64
+    },
+    {
+      "key": "Feminine-pass2-skin0-120",
+      "settings": {
+        "mode": "chat",
+        "angle": "front",
+        "skin": 0
+      },
+      "size": 120
+    },
+    {
+      "key": "Feminine-pass2-skin0-512",
+      "settings": {
+        "mode": "chat",
+        "angle": "front",
+        "skin": 0
+      },
+      "size": 512
+    },
+    {
+      "key": "Feminine-pass2-skin3-32",
+      "settings": {
+        "mode": "chat",
+        "angle": "front",
+        "skin": 3
+      },
+      "size": 32
+    },
+    {
+      "key": "Feminine-pass2-skin3-48",
+      "settings": {
+        "mode": "chat",
+        "angle": "front",
+        "skin": 3
+      },
+      "size": 48
+    },
+    {
+      "key": "Feminine-pass2-skin3-64",
+      "settings": {
+        "mode": "chat",
+        "angle": "front",
+        "skin": 3
+      },
+      "size": 64
+    },
+    {
+      "key": "Feminine-pass2-skin3-120",
+      "settings": {
+        "mode": "chat",
+        "angle": "front",
+        "skin": 3
+      },
+      "size": 120
+    },
+    {
+      "key": "Feminine-pass2-skin3-512",
+      "settings": {
+        "mode": "chat",
+        "angle": "front",
+        "skin": 3
+      },
+      "size": 512
+    },
+    {
+      "key": "Feminine-pass2-transmission",
+      "settings": {
+        "mode": "face",
+        "angle": "threequarter",
+        "lens": "source"
+      },
+      "size": 512
+    },
+    {
+      "key": "Masculine-pass2-body-front",
+      "settings": {
+        "build": "Masculine",
+        "variant": "pass2",
+        "mode": "body",
+        "angle": "front",
+        "skin": 1
+      },
+      "size": 512
+    },
+    {
+      "key": "Masculine-pass2-body-threequarter",
+      "settings": {
+        "build": "Masculine",
+        "variant": "pass2",
+        "mode": "body",
+        "angle": "threequarter",
+        "skin": 1
+      },
+      "size": 512
+    },
+    {
+      "key": "Masculine-pass2-body-profile",
+      "settings": {
+        "build": "Masculine",
+        "variant": "pass2",
+        "mode": "body",
+        "angle": "profile",
+        "skin": 1
+      },
+      "size": 512
+    },
+    {
+      "key": "Masculine-pass2-body-rightprofile",
+      "settings": {
+        "build": "Masculine",
+        "variant": "pass2",
+        "mode": "body",
+        "angle": "rightprofile",
+        "skin": 1
+      },
+      "size": 512
+    },
+    {
+      "key": "Masculine-pass2-body-rear",
+      "settings": {
+        "build": "Masculine",
+        "variant": "pass2",
+        "mode": "body",
+        "angle": "rear",
+        "skin": 1
+      },
+      "size": 512
+    },
+    {
+      "key": "Masculine-pass2-body-rearquarter",
+      "settings": {
+        "build": "Masculine",
+        "variant": "pass2",
+        "mode": "body",
+        "angle": "rearquarter",
+        "skin": 1
+      },
+      "size": 512
+    },
+    {
+      "key": "Masculine-pass2-body-top",
+      "settings": {
+        "build": "Masculine",
+        "variant": "pass2",
+        "mode": "body",
+        "angle": "top",
+        "skin": 1
+      },
+      "size": 512
+    },
+    {
+      "key": "Masculine-pass2-body-underside",
+      "settings": {
+        "build": "Masculine",
+        "variant": "pass2",
+        "mode": "body",
+        "angle": "underside",
+        "skin": 1
+      },
+      "size": 512
+    },
+    {
+      "key": "Masculine-pass2-face-front",
+      "settings": {
+        "mode": "face",
+        "angle": "front"
+      },
+      "size": 512
+    },
+    {
+      "key": "Masculine-pass2-face-profile",
+      "settings": {
+        "mode": "face",
+        "angle": "profile"
+      },
+      "size": 512
+    },
+    {
+      "key": "Masculine-pass2-face-rightprofile",
+      "settings": {
+        "mode": "face",
+        "angle": "rightprofile"
+      },
+      "size": 512
+    },
+    {
+      "key": "Masculine-pass2-face-rear",
+      "settings": {
+        "mode": "face",
+        "angle": "rear"
+      },
+      "size": 512
+    },
+    {
+      "key": "Masculine-pass2-face-top",
+      "settings": {
+        "mode": "face",
+        "angle": "top"
+      },
+      "size": 512
+    },
+    {
+      "key": "Masculine-pass2-skin0-32",
+      "settings": {
+        "mode": "chat",
+        "angle": "front",
+        "skin": 0
+      },
+      "size": 32
+    },
+    {
+      "key": "Masculine-pass2-skin0-48",
+      "settings": {
+        "mode": "chat",
+        "angle": "front",
+        "skin": 0
+      },
+      "size": 48
+    },
+    {
+      "key": "Masculine-pass2-skin0-64",
+      "settings": {
+        "mode": "chat",
+        "angle": "front",
+        "skin": 0
+      },
+      "size": 64
+    },
+    {
+      "key": "Masculine-pass2-skin0-120",
+      "settings": {
+        "mode": "chat",
+        "angle": "front",
+        "skin": 0
+      },
+      "size": 120
+    },
+    {
+      "key": "Masculine-pass2-skin0-512",
+      "settings": {
+        "mode": "chat",
+        "angle": "front",
+        "skin": 0
+      },
+      "size": 512
+    },
+    {
+      "key": "Masculine-pass2-skin3-32",
+      "settings": {
+        "mode": "chat",
+        "angle": "front",
+        "skin": 3
+      },
+      "size": 32
+    },
+    {
+      "key": "Masculine-pass2-skin3-48",
+      "settings": {
+        "mode": "chat",
+        "angle": "front",
+        "skin": 3
+      },
+      "size": 48
+    },
+    {
+      "key": "Masculine-pass2-skin3-64",
+      "settings": {
+        "mode": "chat",
+        "angle": "front",
+        "skin": 3
+      },
+      "size": 64
+    },
+    {
+      "key": "Masculine-pass2-skin3-120",
+      "settings": {
+        "mode": "chat",
+        "angle": "front",
+        "skin": 3
+      },
+      "size": 120
+    },
+    {
+      "key": "Masculine-pass2-skin3-512",
+      "settings": {
+        "mode": "chat",
+        "angle": "front",
+        "skin": 3
+      },
+      "size": 512
+    },
+    {
+      "key": "Masculine-pass2-transmission",
+      "settings": {
+        "mode": "face",
+        "angle": "threequarter",
+        "lens": "source"
+      },
+      "size": 512
+    },
+    {
+      "key": "hidden-headgear",
+      "settings": {
+        "build": "Feminine",
+        "variant": "pass2",
+        "mode": "body",
+        "angle": "threequarter"
+      },
+      "size": 512
+    },
+    {
+      "key": "hidden-top",
+      "settings": {
+        "build": "Feminine",
+        "variant": "pass2",
+        "mode": "body",
+        "angle": "threequarter"
+      },
+      "size": 512
+    },
+    {
+      "key": "hidden-hair",
+      "settings": {
+        "build": "Feminine",
+        "variant": "pass2",
+        "mode": "body",
+        "angle": "threequarter"
+      },
+      "size": 512
+    },
+    {
+      "key": "hidden-glasses",
+      "settings": {
+        "build": "Feminine",
+        "variant": "pass2",
+        "mode": "body",
+        "angle": "threequarter"
+      },
+      "size": 512
+    },
+    {
+      "key": "hidden-lenses",
+      "settings": {
+        "build": "Feminine",
+        "variant": "pass2",
+        "mode": "body",
+        "angle": "threequarter"
+      },
+      "size": 512
+    }
+  ],
+  "controls": [
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "state": {
+        "build": "Masculine",
+        "mode": "body",
+        "angle": "rear",
+        "variant": "pass2",
+        "lens": "preview",
+        "skin": 3,
+        "hairColor": "default",
+        "topColor": "black",
+        "bottomColor": "default",
+        "headgearColor": "default",
+        "frameColor": "black",
+        "yaw": 3.141592653589793,
+        "pitch": 0,
+        "zoom": 1
+      }
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "state": {
+        "build": "Feminine",
+        "mode": "body",
+        "angle": "rear",
+        "variant": "pass2",
+        "lens": "preview",
+        "skin": 3,
+        "hairColor": "default",
+        "topColor": "black",
+        "bottomColor": "default",
+        "headgearColor": "default",
+        "frameColor": "black",
+        "yaw": 3.141592653589793,
+        "pitch": 0,
+        "zoom": 1
+      }
+    },
+    {
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "state": {
+        "build": "Masculine",
+        "mode": "body",
+        "angle": "rear",
+        "variant": "pass2",
+        "lens": "preview",
+        "skin": 3,
+        "hairColor": "default",
+        "topColor": "black",
+        "bottomColor": "default",
+        "headgearColor": "default",
+        "frameColor": "black",
+        "yaw": 3.141592653589793,
+        "pitch": 0,
+        "zoom": 1
+      }
+    },
+    {
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "state": {
+        "build": "Feminine",
+        "mode": "body",
+        "angle": "rear",
+        "variant": "pass2",
+        "lens": "preview",
+        "skin": 3,
+        "hairColor": "default",
+        "topColor": "black",
+        "bottomColor": "default",
+        "headgearColor": "default",
+        "frameColor": "black",
+        "yaw": 3.141592653589793,
+        "pitch": 0,
+        "zoom": 1
+      }
+    },
+    {
+      "viewport": {
+        "width": 320,
+        "height": 700
+      },
+      "state": {
+        "build": "Masculine",
+        "mode": "body",
+        "angle": "rear",
+        "variant": "pass2",
+        "lens": "preview",
+        "skin": 3,
+        "hairColor": "default",
+        "topColor": "black",
+        "bottomColor": "default",
+        "headgearColor": "default",
+        "frameColor": "black",
+        "yaw": 3.141592653589793,
+        "pitch": 0,
+        "zoom": 1
+      }
+    },
+    {
+      "viewport": {
+        "width": 320,
+        "height": 700
+      },
+      "state": {
+        "build": "Feminine",
+        "mode": "body",
+        "angle": "rear",
+        "variant": "pass2",
+        "lens": "preview",
+        "skin": 3,
+        "hairColor": "default",
+        "topColor": "black",
+        "bottomColor": "default",
+        "headgearColor": "default",
+        "frameColor": "black",
+        "yaw": 3.141592653589793,
+        "pitch": 0,
+        "zoom": 1
+      }
+    }
+  ],
+  "requests": [
+    "http://127.0.0.1:9251/264/",
+    "http://127.0.0.1:9251/264/viewer.js",
+    "http://127.0.0.1:9251/264/vendor/three.module.js",
+    "http://127.0.0.1:9251/264/vendor/loaders/GLTFLoader.js",
+    "http://127.0.0.1:9251/264/vendor/utils/BufferGeometryUtils.js",
+    "http://127.0.0.1:9251/264/vendor/three.core.js",
+    "http://127.0.0.1:9251/264/palette.json",
+    "http://127.0.0.1:9251/264/colors.json",
+    "http://127.0.0.1:9251/264/sources/Feminine-hoodie-pants-cap263.glb",
+    "http://127.0.0.1:9251/264/assets/Feminine-optimized264.glb",
+    "http://127.0.0.1:9251/264/sources/Masculine-hoodie-pants-cap263.glb",
+    "http://127.0.0.1:9251/264/assets/Masculine-optimized264.glb"
+  ],
+  "errors": [],
+  "inspect": [
+    {
+      "id": "source",
+      "groups": {
+        "lashes": 1,
+        "glasses": 2,
+        "lenses": 1,
+        "bottom": 8,
+        "headgear": 14,
+        "base": 12,
+        "top": 23,
+        "eyes": 6,
+        "mouth": 1,
+        "hair": 9,
+        "extra": 2
+      },
+      "materials": [
+        {
+          "role": "lashes",
+          "name": "Lashes / charcoal234",
+          "color": [
+            0.026000000536441803,
+            0.03799999877810478,
+            0.05999999865889549
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "glasses",
+          "name": "Accessory / warm metal226.001",
+          "color": [
+            0.009134058699157796,
+            0.010960094003125918,
+            0.015996293361446288
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "glasses",
+          "name": "Glasses / frame226.001",
+          "color": [
+            0.009134058699157796,
+            0.010960094003125918,
+            0.015996293361446288
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "lenses",
+          "name": "Glasses / clear non-refracting pane235",
+          "color": [
+            0.7156935005005721,
+            0.8148465722120952,
+            0.8307698767709715
+          ],
+          "transmission": 0,
+          "opacity": 0.075
+        },
+        {
+          "role": "bottom",
+          "name": "Bottom / stitch187.001",
+          "color": [
+            0.03433980792760849,
+            0.03688944876194,
+            0.04666508734226227
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "bottom",
+          "name": "Bottom / stitch187.001",
+          "color": [
+            0.03433980792760849,
+            0.03688944876194,
+            0.04666508734226227
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "bottom",
+          "name": "Bottom / fabric187.001",
+          "color": [
+            0.01599629409611225,
+            0.017641954123973846,
+            0.023153366521000862
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "bottom",
+          "name": "Bottom / stitch187.001",
+          "color": [
+            0.03433980792760849,
+            0.03688944876194,
+            0.04666508734226227
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "bottom",
+          "name": "Bottom / stitch187.001",
+          "color": [
+            0.03433980792760849,
+            0.03688944876194,
+            0.04666508734226227
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "bottom",
+          "name": "Bottom / stitch187.001",
+          "color": [
+            0.03433980792760849,
+            0.03688944876194,
+            0.04666508734226227
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "bottom",
+          "name": "Bottom / stitch187.001",
+          "color": [
+            0.03433980792760849,
+            0.03688944876194,
+            0.04666508734226227
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "bottom",
+          "name": "Bottom / stitch187.001",
+          "color": [
+            0.03433980792760849,
+            0.03688944876194,
+            0.04666508734226227
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "headgear",
+          "name": "Cap / subtle sewing212",
+          "color": [
+            0.04600000008940697,
+            0.07800000160932541,
+            0.10499999672174454
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "headgear",
+          "name": "Cap / subtle sewing212",
+          "color": [
+            0.04600000008940697,
+            0.07800000160932541,
+            0.10499999672174454
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "headgear",
+          "name": "Cap / midnight cotton212",
+          "color": [
+            0.3049873113632202,
+            0.07227185368537903,
+            0.10461648553609848
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "headgear",
+          "name": "Cap / subtle sewing212",
+          "color": [
+            0.04600000008940697,
+            0.07800000160932541,
+            0.10499999672174454
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "headgear",
+          "name": "Cap / subtle sewing212",
+          "color": [
+            0.04600000008940697,
+            0.07800000160932541,
+            0.10499999672174454
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "headgear",
+          "name": "Cap / subtle sewing212",
+          "color": [
+            0.04600000008940697,
+            0.07800000160932541,
+            0.10499999672174454
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "headgear",
+          "name": "Cap / subtle sewing212",
+          "color": [
+            0.04600000008940697,
+            0.07800000160932541,
+            0.10499999672174454
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "headgear",
+          "name": "Cap / subtle sewing212",
+          "color": [
+            0.04600000008940697,
+            0.07800000160932541,
+            0.10499999672174454
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "headgear",
+          "name": "Cap / subtle sewing212",
+          "color": [
+            0.04600000008940697,
+            0.07800000160932541,
+            0.10499999672174454
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "headgear",
+          "name": "Cap / ivory emblem223",
+          "color": [
+            0.7799999713897705,
+            0.8299999833106995,
+            0.8100000023841858
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "headgear",
+          "name": "Cap / midnight cotton212",
+          "color": [
+            0.3049873113632202,
+            0.07227185368537903,
+            0.10461648553609848
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "headgear",
+          "name": "Cap / subtle sewing212",
+          "color": [
+            0.04600000008940697,
+            0.07800000160932541,
+            0.10499999672174454
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "headgear",
+          "name": "Cap / midnight cotton212",
+          "color": [
+            0.3049873113632202,
+            0.07227185368537903,
+            0.10461648553609848
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "headgear",
+          "name": "Cap / subtle sewing212",
+          "color": [
+            0.04600000008940697,
+            0.07800000160932541,
+            0.10499999672174454
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "base",
+          "name": "Chest / shade191 0.001",
+          "color": [
+            0.00021586050011389928,
+            0.00010461648409110419,
+            0.00007421356838014963
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "base",
+          "name": "Chest / shade191 0.002",
+          "color": [
+            0.00043172100022779856,
+            0.00020923296818220837,
+            0.00014842713676029926
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "base",
+          "name": "Chest / shade191 0.003",
+          "color": [
+            0.0006475815003416978,
+            0.00031384945227331255,
+            0.00022264070514044888
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "base",
+          "name": "Chest / shade191 0.001",
+          "color": [
+            0.00021586050011389928,
+            0.00010461648409110419,
+            0.00007421356838014963
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "base",
+          "name": "Chest / shade191 0.002",
+          "color": [
+            0.00043172100022779856,
+            0.00020923296818220837,
+            0.00014842713676029926
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "base",
+          "name": "Chest / shade191 0.003",
+          "color": [
+            0.0006475815003416978,
+            0.00031384945227331255,
+            0.00022264070514044888
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "167 Top / sweatshirt.001",
+          "color": [
+            0.01764195448412081,
+            0.018500220124016652,
+            0.025186859622305935
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "eyes",
+          "name": "Eye / smoky charcoal181.001",
+          "color": [
+            0.026000000536441803,
+            0.03799999877810478,
+            0.05999999865889549
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "eyes",
+          "name": "Eye / smoky charcoal181.001",
+          "color": [
+            0.026000000536441803,
+            0.03799999877810478,
+            0.05999999865889549
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "eyes",
+          "name": "Eye highlight181.001",
+          "color": [
+            0.7900000214576721,
+            0.8600000143051147,
+            0.9300000071525574
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "eyes",
+          "name": "Eye highlight181.001",
+          "color": [
+            0.7900000214576721,
+            0.8600000143051147,
+            0.9300000071525574
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "eyes",
+          "name": "Eye glint181.001",
+          "color": [
+            0.2800000011920929,
+            0.3700000047683716,
+            0.47999998927116394
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "eyes",
+          "name": "Eye glint181.001",
+          "color": [
+            0.2800000011920929,
+            0.3700000047683716,
+            0.47999998927116394
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "mouth",
+          "name": "Face / ink209",
+          "color": [
+            0.008,
+            0.003,
+            0.004
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "hair",
+          "name": "Hair / sculpted front locks222.002",
+          "color": [
+            0.21294040977954865,
+            0.07010369747877121,
+            0.030939150601625443
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "hair",
+          "name": "Hair / sculpted front locks222.002",
+          "color": [
+            0.21294040977954865,
+            0.07010369747877121,
+            0.030939150601625443
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "hair",
+          "name": "Hair / chestnut212 1.002",
+          "color": [
+            0.21952620148658752,
+            0.07227185368537903,
+            0.03189603239297867
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "hair",
+          "name": "Hair / chestnut212 0.002",
+          "color": [
+            0.21294040977954865,
+            0.07010369747877121,
+            0.030939150601625443
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "hair",
+          "name": "Hair / chestnut212 2.002",
+          "color": [
+            0.2261119931936264,
+            0.07444000989198685,
+            0.032852914184331894
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "hair",
+          "name": "Hair / chestnut212 1.002",
+          "color": [
+            0.21952620148658752,
+            0.07227185368537903,
+            0.03189603239297867
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "hair",
+          "name": "Hair / chestnut212 0.002",
+          "color": [
+            0.21294040977954865,
+            0.07010369747877121,
+            0.030939150601625443
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "hair",
+          "name": "Hair / crisp pulled roots220.002",
+          "color": [
+            1,
+            1,
+            1
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "hair",
+          "name": "Hair / fitted tie214.002",
+          "color": [
+            0.024000000208616257,
+            0.014999999664723873,
+            0.017000000923871994
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "Hoodie / soft cord205.001",
+          "color": [
+            0.7379103899002075,
+            0.6653872728347778,
+            0.8069522380828857
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "Hoodie / soft cord205.001",
+          "color": [
+            0.7379103899002075,
+            0.6653872728347778,
+            0.8069522380828857
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "167 Top / sweatshirt.001",
+          "color": [
+            0.01764195448412081,
+            0.018500220124016652,
+            0.025186859622305935
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "Hoodie / lining204.001",
+          "color": [
+            0.012702207228566983,
+            0.01332015848929199,
+            0.018134538928060273
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "Hoodie / soft cord205.001",
+          "color": [
+            0.7379103899002075,
+            0.6653872728347778,
+            0.8069522380828857
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "Hoodie / soft cord205.001",
+          "color": [
+            0.7379103899002075,
+            0.6653872728347778,
+            0.8069522380828857
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "Hoodie / rolled edge204.001",
+          "color": [
+            0.015524919946026313,
+            0.016280193709134656,
+            0.022164436467629223
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "167 Top / sweatshirt.001",
+          "color": [
+            0.01764195448412081,
+            0.018500220124016652,
+            0.025186859622305935
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "Hoodie / cavity215.001",
+          "color": [
+            0.20577143132686615,
+            0.14639391005039215,
+            0.289837121963501
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "Hoodie / facing215.001",
+          "color": [
+            0.33437857031822205,
+            0.2378901094198227,
+            0.4709853529930115
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "167 Top / sweatshirt.001",
+          "color": [
+            0.01764195448412081,
+            0.018500220124016652,
+            0.025186859622305935
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "167 Top / sweatshirt.001",
+          "color": [
+            0.01764195448412081,
+            0.018500220124016652,
+            0.025186859622305935
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "167 Top / sweatshirt.001",
+          "color": [
+            0.01764195448412081,
+            0.018500220124016652,
+            0.025186859622305935
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "167 Top / sweatshirt.001",
+          "color": [
+            0.01764195448412081,
+            0.018500220124016652,
+            0.025186859622305935
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "extra",
+          "name": "HOT / original ink212.001",
+          "color": [
+            0.02500000037252903,
+            0.012000000104308128,
+            0.03500000014901161
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "extra",
+          "name": "HOT / original coral212.001",
+          "color": [
+            0.9200000166893005,
+            0.017999999225139618,
+            0.03500000014901161
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "base",
+          "name": "Skin / Light warm.002",
+          "color": [
+            0.21586050011389926,
+            0.10461648409110419,
+            0.07421356838014963
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "base",
+          "name": "Skin / Light warm.002",
+          "color": [
+            0.21586050011389926,
+            0.10461648409110419,
+            0.07421356838014963
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "base",
+          "name": "Skin / Light warm.003",
+          "color": [
+            0.21586050011389926,
+            0.10461648409110419,
+            0.07421356838014963
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "base",
+          "name": "Skin / Light warm.002",
+          "color": [
+            0.21586050011389926,
+            0.10461648409110419,
+            0.07421356838014963
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "base",
+          "name": "Skin / Light warm.002",
+          "color": [
+            0.21586050011389926,
+            0.10461648409110419,
+            0.07421356838014963
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "base",
+          "name": "Skin / Light warm.002",
+          "color": [
+            0.21586050011389926,
+            0.10461648409110419,
+            0.07421356838014963
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "167 Top / sweatshirt.001",
+          "color": [
+            0.01764195448412081,
+            0.018500220124016652,
+            0.025186859622305935
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "Sleeve / ribbed cuff201.002",
+          "color": [
+            0.01587775903570873,
+            0.016650198111614986,
+            0.02266817366007534
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "167 Top / sweatshirt.001",
+          "color": [
+            0.01764195448412081,
+            0.018500220124016652,
+            0.025186859622305935
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "Sleeve / ribbed cuff201.003",
+          "color": [
+            0.01587775903570873,
+            0.016650198111614986,
+            0.02266817366007534
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "167 Top / sweatshirt.001",
+          "color": [
+            0.01764195448412081,
+            0.018500220124016652,
+            0.025186859622305935
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "167 Top / sweatshirt.001",
+          "color": [
+            0.01764195448412081,
+            0.018500220124016652,
+            0.025186859622305935
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "Sleeve / cuff fabric202.002",
+          "color": [
+            0.01587775903570873,
+            0.016650198111614986,
+            0.02266817366007534
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "Sleeve / cuff fabric202.003",
+          "color": [
+            0.01587775903570873,
+            0.016650198111614986,
+            0.02266817366007534
+          ],
+          "transmission": 0,
+          "opacity": 1
+        }
+      ]
+    },
+    {
+      "id": "optimized",
+      "groups": {
+        "lashes": 1,
+        "glasses": 2,
+        "lenses": 1,
+        "bottom": 8,
+        "headgear": 14,
+        "base": 12,
+        "top": 23,
+        "eyes": 6,
+        "mouth": 1,
+        "hair": 9,
+        "extra": 2
+      },
+      "materials": [
+        {
+          "role": "lashes",
+          "name": "Lashes / charcoal234",
+          "color": [
+            0.026000000536441803,
+            0.03799999877810478,
+            0.05999999865889549
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "glasses",
+          "name": "Accessory / warm metal226.001",
+          "color": [
+            0.009134058699157796,
+            0.010960094003125918,
+            0.015996293361446288
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "glasses",
+          "name": "Glasses / frame226.001",
+          "color": [
+            0.009134058699157796,
+            0.010960094003125918,
+            0.015996293361446288
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "lenses",
+          "name": "Glasses / clear non-refracting pane235",
+          "color": [
+            0.7156935005005721,
+            0.8148465722120952,
+            0.8307698767709715
+          ],
+          "transmission": 0,
+          "opacity": 0.075
+        },
+        {
+          "role": "bottom",
+          "name": "Bottom / stitch187.001",
+          "color": [
+            0.03433980792760849,
+            0.03688944876194,
+            0.04666508734226227
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "bottom",
+          "name": "Bottom / stitch187.001",
+          "color": [
+            0.03433980792760849,
+            0.03688944876194,
+            0.04666508734226227
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "bottom",
+          "name": "Bottom / fabric187.001",
+          "color": [
+            0.01599629409611225,
+            0.017641954123973846,
+            0.023153366521000862
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "bottom",
+          "name": "Bottom / stitch187.001",
+          "color": [
+            0.03433980792760849,
+            0.03688944876194,
+            0.04666508734226227
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "bottom",
+          "name": "Bottom / stitch187.001",
+          "color": [
+            0.03433980792760849,
+            0.03688944876194,
+            0.04666508734226227
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "bottom",
+          "name": "Bottom / stitch187.001",
+          "color": [
+            0.03433980792760849,
+            0.03688944876194,
+            0.04666508734226227
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "bottom",
+          "name": "Bottom / stitch187.001",
+          "color": [
+            0.03433980792760849,
+            0.03688944876194,
+            0.04666508734226227
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "bottom",
+          "name": "Bottom / stitch187.001",
+          "color": [
+            0.03433980792760849,
+            0.03688944876194,
+            0.04666508734226227
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "headgear",
+          "name": "Cap / subtle sewing212",
+          "color": [
+            0.04600000008940697,
+            0.07800000160932541,
+            0.10499999672174454
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "headgear",
+          "name": "Cap / subtle sewing212",
+          "color": [
+            0.04600000008940697,
+            0.07800000160932541,
+            0.10499999672174454
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "headgear",
+          "name": "Cap / midnight cotton212",
+          "color": [
+            0.3049873113632202,
+            0.07227185368537903,
+            0.10461648553609848
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "headgear",
+          "name": "Cap / subtle sewing212",
+          "color": [
+            0.04600000008940697,
+            0.07800000160932541,
+            0.10499999672174454
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "headgear",
+          "name": "Cap / subtle sewing212",
+          "color": [
+            0.04600000008940697,
+            0.07800000160932541,
+            0.10499999672174454
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "headgear",
+          "name": "Cap / subtle sewing212",
+          "color": [
+            0.04600000008940697,
+            0.07800000160932541,
+            0.10499999672174454
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "headgear",
+          "name": "Cap / subtle sewing212",
+          "color": [
+            0.04600000008940697,
+            0.07800000160932541,
+            0.10499999672174454
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "headgear",
+          "name": "Cap / subtle sewing212",
+          "color": [
+            0.04600000008940697,
+            0.07800000160932541,
+            0.10499999672174454
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "headgear",
+          "name": "Cap / subtle sewing212",
+          "color": [
+            0.04600000008940697,
+            0.07800000160932541,
+            0.10499999672174454
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "headgear",
+          "name": "Cap / ivory emblem223",
+          "color": [
+            0.7799999713897705,
+            0.8299999833106995,
+            0.8100000023841858
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "headgear",
+          "name": "Cap / midnight cotton212",
+          "color": [
+            0.3049873113632202,
+            0.07227185368537903,
+            0.10461648553609848
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "headgear",
+          "name": "Cap / subtle sewing212",
+          "color": [
+            0.04600000008940697,
+            0.07800000160932541,
+            0.10499999672174454
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "headgear",
+          "name": "Cap / midnight cotton212",
+          "color": [
+            0.3049873113632202,
+            0.07227185368537903,
+            0.10461648553609848
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "headgear",
+          "name": "Cap / subtle sewing212",
+          "color": [
+            0.04600000008940697,
+            0.07800000160932541,
+            0.10499999672174454
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "base",
+          "name": "Chest / shade191 0.001",
+          "color": [
+            0.00021586050011389928,
+            0.00010461648409110419,
+            0.00007421356838014963
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "base",
+          "name": "Chest / shade191 0.002",
+          "color": [
+            0.00043172100022779856,
+            0.00020923296818220837,
+            0.00014842713676029926
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "base",
+          "name": "Chest / shade191 0.003",
+          "color": [
+            0.0006475815003416978,
+            0.00031384945227331255,
+            0.00022264070514044888
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "base",
+          "name": "Chest / shade191 0.001",
+          "color": [
+            0.00021586050011389928,
+            0.00010461648409110419,
+            0.00007421356838014963
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "base",
+          "name": "Chest / shade191 0.002",
+          "color": [
+            0.00043172100022779856,
+            0.00020923296818220837,
+            0.00014842713676029926
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "base",
+          "name": "Chest / shade191 0.003",
+          "color": [
+            0.0006475815003416978,
+            0.00031384945227331255,
+            0.00022264070514044888
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "167 Top / sweatshirt.001",
+          "color": [
+            0.01764195448412081,
+            0.018500220124016652,
+            0.025186859622305935
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "eyes",
+          "name": "Eye / smoky charcoal181.001",
+          "color": [
+            0.026000000536441803,
+            0.03799999877810478,
+            0.05999999865889549
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "eyes",
+          "name": "Eye / smoky charcoal181.001",
+          "color": [
+            0.026000000536441803,
+            0.03799999877810478,
+            0.05999999865889549
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "eyes",
+          "name": "Eye highlight181.001",
+          "color": [
+            0.7900000214576721,
+            0.8600000143051147,
+            0.9300000071525574
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "eyes",
+          "name": "Eye highlight181.001",
+          "color": [
+            0.7900000214576721,
+            0.8600000143051147,
+            0.9300000071525574
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "eyes",
+          "name": "Eye glint181.001",
+          "color": [
+            0.2800000011920929,
+            0.3700000047683716,
+            0.47999998927116394
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "eyes",
+          "name": "Eye glint181.001",
+          "color": [
+            0.2800000011920929,
+            0.3700000047683716,
+            0.47999998927116394
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "mouth",
+          "name": "Face / ink209",
+          "color": [
+            0.008,
+            0.003,
+            0.004
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "hair",
+          "name": "Hair / sculpted front locks222.002",
+          "color": [
+            0.21294040977954865,
+            0.07010369747877121,
+            0.030939150601625443
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "hair",
+          "name": "Hair / sculpted front locks222.002",
+          "color": [
+            0.21294040977954865,
+            0.07010369747877121,
+            0.030939150601625443
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "hair",
+          "name": "Hair / chestnut212 1.002",
+          "color": [
+            0.21952620148658752,
+            0.07227185368537903,
+            0.03189603239297867
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "hair",
+          "name": "Hair / chestnut212 0.002",
+          "color": [
+            0.21294040977954865,
+            0.07010369747877121,
+            0.030939150601625443
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "hair",
+          "name": "Hair / chestnut212 2.002",
+          "color": [
+            0.2261119931936264,
+            0.07444000989198685,
+            0.032852914184331894
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "hair",
+          "name": "Hair / chestnut212 1.002",
+          "color": [
+            0.21952620148658752,
+            0.07227185368537903,
+            0.03189603239297867
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "hair",
+          "name": "Hair / chestnut212 0.002",
+          "color": [
+            0.21294040977954865,
+            0.07010369747877121,
+            0.030939150601625443
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "hair",
+          "name": "Hair / crisp pulled roots220.002",
+          "color": [
+            1,
+            1,
+            1
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "hair",
+          "name": "Hair / fitted tie214.002",
+          "color": [
+            0.024000000208616257,
+            0.014999999664723873,
+            0.017000000923871994
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "Hoodie / soft cord205.001",
+          "color": [
+            0.7379103899002075,
+            0.6653872728347778,
+            0.8069522380828857
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "Hoodie / soft cord205.001",
+          "color": [
+            0.7379103899002075,
+            0.6653872728347778,
+            0.8069522380828857
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "167 Top / sweatshirt.001",
+          "color": [
+            0.01764195448412081,
+            0.018500220124016652,
+            0.025186859622305935
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "Hoodie / lining204.001",
+          "color": [
+            0.012702207228566983,
+            0.01332015848929199,
+            0.018134538928060273
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "Hoodie / soft cord205.001",
+          "color": [
+            0.7379103899002075,
+            0.6653872728347778,
+            0.8069522380828857
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "Hoodie / soft cord205.001",
+          "color": [
+            0.7379103899002075,
+            0.6653872728347778,
+            0.8069522380828857
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "Hoodie / rolled edge204.001",
+          "color": [
+            0.015524919946026313,
+            0.016280193709134656,
+            0.022164436467629223
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "167 Top / sweatshirt.001",
+          "color": [
+            0.01764195448412081,
+            0.018500220124016652,
+            0.025186859622305935
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "Hoodie / cavity215.001",
+          "color": [
+            0.20577143132686615,
+            0.14639391005039215,
+            0.289837121963501
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "Hoodie / facing215.001",
+          "color": [
+            0.33437857031822205,
+            0.2378901094198227,
+            0.4709853529930115
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "167 Top / sweatshirt.001",
+          "color": [
+            0.01764195448412081,
+            0.018500220124016652,
+            0.025186859622305935
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "167 Top / sweatshirt.001",
+          "color": [
+            0.01764195448412081,
+            0.018500220124016652,
+            0.025186859622305935
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "167 Top / sweatshirt.001",
+          "color": [
+            0.01764195448412081,
+            0.018500220124016652,
+            0.025186859622305935
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "167 Top / sweatshirt.001",
+          "color": [
+            0.01764195448412081,
+            0.018500220124016652,
+            0.025186859622305935
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "extra",
+          "name": "HOT / original ink212.001",
+          "color": [
+            0.02500000037252903,
+            0.012000000104308128,
+            0.03500000014901161
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "extra",
+          "name": "HOT / original coral212.001",
+          "color": [
+            0.9200000166893005,
+            0.017999999225139618,
+            0.03500000014901161
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "base",
+          "name": "Skin / Light warm.002",
+          "color": [
+            0.21586050011389926,
+            0.10461648409110419,
+            0.07421356838014963
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "base",
+          "name": "Skin / Light warm.002",
+          "color": [
+            0.21586050011389926,
+            0.10461648409110419,
+            0.07421356838014963
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "base",
+          "name": "Skin / Light warm.003",
+          "color": [
+            0.21586050011389926,
+            0.10461648409110419,
+            0.07421356838014963
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "base",
+          "name": "Skin / Light warm.002",
+          "color": [
+            0.21586050011389926,
+            0.10461648409110419,
+            0.07421356838014963
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "base",
+          "name": "Skin / Light warm.002",
+          "color": [
+            0.21586050011389926,
+            0.10461648409110419,
+            0.07421356838014963
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "base",
+          "name": "Skin / Light warm.002",
+          "color": [
+            0.21586050011389926,
+            0.10461648409110419,
+            0.07421356838014963
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "167 Top / sweatshirt.001",
+          "color": [
+            0.01764195448412081,
+            0.018500220124016652,
+            0.025186859622305935
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "Sleeve / ribbed cuff201.002",
+          "color": [
+            0.01587775903570873,
+            0.016650198111614986,
+            0.02266817366007534
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "167 Top / sweatshirt.001",
+          "color": [
+            0.01764195448412081,
+            0.018500220124016652,
+            0.025186859622305935
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "Sleeve / ribbed cuff201.003",
+          "color": [
+            0.01587775903570873,
+            0.016650198111614986,
+            0.02266817366007534
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "167 Top / sweatshirt.001",
+          "color": [
+            0.01764195448412081,
+            0.018500220124016652,
+            0.025186859622305935
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "167 Top / sweatshirt.001",
+          "color": [
+            0.01764195448412081,
+            0.018500220124016652,
+            0.025186859622305935
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "Sleeve / cuff fabric202.002",
+          "color": [
+            0.01587775903570873,
+            0.016650198111614986,
+            0.02266817366007534
+          ],
+          "transmission": 0,
+          "opacity": 1
+        },
+        {
+          "role": "top",
+          "name": "Sleeve / cuff fabric202.003",
+          "color": [
+            0.01587775903570873,
+            0.016650198111614986,
+            0.02266817366007534
+          ],
+          "transmission": 0,
+          "opacity": 1
+        }
+      ]
+    }
+  ]
+}

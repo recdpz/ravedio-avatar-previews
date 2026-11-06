@@ -1,0 +1,2200 @@
+[
+  {
+    "build": "Feminine",
+    "variant": "artwork",
+    "preset": "reference",
+    "skin": 0,
+    "size": 120,
+    "angle": "front",
+    "color": "references/Feminine-artwork-reference-front-skin0-120-color.png",
+    "depth": "references/Feminine-artwork-reference-front-skin0-120-depth.exr",
+    "camera": {
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.6292068494294654e-07,
+          -1.0,
+          -8.0
+        ],
+        [
+          0.0,
+          1.0,
+          -1.6292068494294654e-07,
+          1.8799999952316284
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "ortho_scale": 1.65,
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "angle": "front",
+      "size": 120,
+      "clip_start": 0.10000000149011612,
+      "clip_end": 1000.0
+    },
+    "geometry_sha256": "a8ea6d7779a65ae1f6c7b2caf59c41073d68b13c4bdf234f6c9ac5b716dfcedf",
+    "alpha_threshold": 0.5,
+    "color_management": {
+      "view_transform": "AgX",
+      "look": "None",
+      "exposure": 0.0,
+      "gamma": 1.0
+    },
+    "cycles": {
+      "samples": 24,
+      "seed": 42,
+      "denoising": true
+    }
+  },
+  {
+    "build": "Feminine",
+    "variant": "artwork",
+    "preset": "reference",
+    "skin": 0,
+    "size": 512,
+    "angle": "front",
+    "color": "references/Feminine-artwork-reference-front-skin0-512-color.png",
+    "depth": "references/Feminine-artwork-reference-front-skin0-512-depth.exr",
+    "camera": {
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.6292068494294654e-07,
+          -1.0,
+          -8.0
+        ],
+        [
+          0.0,
+          1.0,
+          -1.6292068494294654e-07,
+          1.8799999952316284
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "ortho_scale": 1.65,
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "angle": "front",
+      "size": 512,
+      "clip_start": 0.10000000149011612,
+      "clip_end": 1000.0
+    },
+    "geometry_sha256": "a8ea6d7779a65ae1f6c7b2caf59c41073d68b13c4bdf234f6c9ac5b716dfcedf",
+    "alpha_threshold": 0.5,
+    "color_management": {
+      "view_transform": "AgX",
+      "look": "None",
+      "exposure": 0.0,
+      "gamma": 1.0
+    },
+    "cycles": {
+      "samples": 24,
+      "seed": 42,
+      "denoising": true
+    }
+  },
+  {
+    "build": "Feminine",
+    "variant": "artwork",
+    "preset": "reference",
+    "skin": 3,
+    "size": 120,
+    "angle": "front",
+    "color": "references/Feminine-artwork-reference-front-skin3-120-color.png",
+    "depth": "references/Feminine-artwork-reference-front-skin3-120-depth.exr",
+    "camera": {
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.6292068494294654e-07,
+          -1.0,
+          -8.0
+        ],
+        [
+          0.0,
+          1.0,
+          -1.6292068494294654e-07,
+          1.8799999952316284
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "ortho_scale": 1.65,
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "angle": "front",
+      "size": 120,
+      "clip_start": 0.10000000149011612,
+      "clip_end": 1000.0
+    },
+    "geometry_sha256": "a8ea6d7779a65ae1f6c7b2caf59c41073d68b13c4bdf234f6c9ac5b716dfcedf",
+    "alpha_threshold": 0.5,
+    "color_management": {
+      "view_transform": "AgX",
+      "look": "None",
+      "exposure": 0.0,
+      "gamma": 1.0
+    },
+    "cycles": {
+      "samples": 24,
+      "seed": 42,
+      "denoising": true
+    }
+  },
+  {
+    "build": "Feminine",
+    "variant": "artwork",
+    "preset": "reference",
+    "skin": 3,
+    "size": 512,
+    "angle": "front",
+    "color": "references/Feminine-artwork-reference-front-skin3-512-color.png",
+    "depth": "references/Feminine-artwork-reference-front-skin3-512-depth.exr",
+    "camera": {
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.6292068494294654e-07,
+          -1.0,
+          -8.0
+        ],
+        [
+          0.0,
+          1.0,
+          -1.6292068494294654e-07,
+          1.8799999952316284
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "ortho_scale": 1.65,
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "angle": "front",
+      "size": 512,
+      "clip_start": 0.10000000149011612,
+      "clip_end": 1000.0
+    },
+    "geometry_sha256": "a8ea6d7779a65ae1f6c7b2caf59c41073d68b13c4bdf234f6c9ac5b716dfcedf",
+    "alpha_threshold": 0.5,
+    "color_management": {
+      "view_transform": "AgX",
+      "look": "None",
+      "exposure": 0.0,
+      "gamma": 1.0
+    },
+    "cycles": {
+      "samples": 24,
+      "seed": 42,
+      "denoising": true
+    }
+  },
+  {
+    "build": "Feminine",
+    "variant": "source-glb",
+    "preset": "reference",
+    "skin": 0,
+    "size": 120,
+    "angle": "front",
+    "color": "references/Feminine-source-glb-reference-front-skin0-120-color.png",
+    "depth": "references/Feminine-source-glb-reference-front-skin0-120-depth.exr",
+    "camera": {
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.6292068494294654e-07,
+          -1.0,
+          -8.0
+        ],
+        [
+          0.0,
+          1.0,
+          -1.6292068494294654e-07,
+          1.8799999952316284
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "ortho_scale": 1.65,
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "angle": "front",
+      "size": 120,
+      "clip_start": 0.10000000149011612,
+      "clip_end": 1000.0
+    },
+    "geometry_sha256": "accd9816fd6fcca197f178a4e7ad7ad708991003a7622503a2ace4b9d397f5dc",
+    "alpha_threshold": 0.5,
+    "color_management": {
+      "view_transform": "AgX",
+      "look": "None",
+      "exposure": 0.0,
+      "gamma": 1.0
+    },
+    "cycles": {
+      "samples": 24,
+      "seed": 42,
+      "denoising": true
+    }
+  },
+  {
+    "build": "Feminine",
+    "variant": "source-glb",
+    "preset": "reference",
+    "skin": 0,
+    "size": 512,
+    "angle": "front",
+    "color": "references/Feminine-source-glb-reference-front-skin0-512-color.png",
+    "depth": "references/Feminine-source-glb-reference-front-skin0-512-depth.exr",
+    "camera": {
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.6292068494294654e-07,
+          -1.0,
+          -8.0
+        ],
+        [
+          0.0,
+          1.0,
+          -1.6292068494294654e-07,
+          1.8799999952316284
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "ortho_scale": 1.65,
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "angle": "front",
+      "size": 512,
+      "clip_start": 0.10000000149011612,
+      "clip_end": 1000.0
+    },
+    "geometry_sha256": "accd9816fd6fcca197f178a4e7ad7ad708991003a7622503a2ace4b9d397f5dc",
+    "alpha_threshold": 0.5,
+    "color_management": {
+      "view_transform": "AgX",
+      "look": "None",
+      "exposure": 0.0,
+      "gamma": 1.0
+    },
+    "cycles": {
+      "samples": 24,
+      "seed": 42,
+      "denoising": true
+    }
+  },
+  {
+    "build": "Feminine",
+    "variant": "source-glb",
+    "preset": "reference",
+    "skin": 3,
+    "size": 120,
+    "angle": "front",
+    "color": "references/Feminine-source-glb-reference-front-skin3-120-color.png",
+    "depth": "references/Feminine-source-glb-reference-front-skin3-120-depth.exr",
+    "camera": {
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.6292068494294654e-07,
+          -1.0,
+          -8.0
+        ],
+        [
+          0.0,
+          1.0,
+          -1.6292068494294654e-07,
+          1.8799999952316284
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "ortho_scale": 1.65,
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "angle": "front",
+      "size": 120,
+      "clip_start": 0.10000000149011612,
+      "clip_end": 1000.0
+    },
+    "geometry_sha256": "accd9816fd6fcca197f178a4e7ad7ad708991003a7622503a2ace4b9d397f5dc",
+    "alpha_threshold": 0.5,
+    "color_management": {
+      "view_transform": "AgX",
+      "look": "None",
+      "exposure": 0.0,
+      "gamma": 1.0
+    },
+    "cycles": {
+      "samples": 24,
+      "seed": 42,
+      "denoising": true
+    }
+  },
+  {
+    "build": "Feminine",
+    "variant": "source-glb",
+    "preset": "reference",
+    "skin": 3,
+    "size": 512,
+    "angle": "front",
+    "color": "references/Feminine-source-glb-reference-front-skin3-512-color.png",
+    "depth": "references/Feminine-source-glb-reference-front-skin3-512-depth.exr",
+    "camera": {
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.6292068494294654e-07,
+          -1.0,
+          -8.0
+        ],
+        [
+          0.0,
+          1.0,
+          -1.6292068494294654e-07,
+          1.8799999952316284
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "ortho_scale": 1.65,
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "angle": "front",
+      "size": 512,
+      "clip_start": 0.10000000149011612,
+      "clip_end": 1000.0
+    },
+    "geometry_sha256": "accd9816fd6fcca197f178a4e7ad7ad708991003a7622503a2ace4b9d397f5dc",
+    "alpha_threshold": 0.5,
+    "color_management": {
+      "view_transform": "AgX",
+      "look": "None",
+      "exposure": 0.0,
+      "gamma": 1.0
+    },
+    "cycles": {
+      "samples": 24,
+      "seed": 42,
+      "denoising": true
+    }
+  },
+  {
+    "build": "Feminine",
+    "variant": "source-glb",
+    "preset": "angles",
+    "skin": 1,
+    "size": 512,
+    "angle": "front",
+    "color": "references/Feminine-source-glb-angles-front-skin1-512-color.png",
+    "depth": "references/Feminine-source-glb-angles-front-skin1-512-depth.exr",
+    "camera": {
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.6292068494294654e-07,
+          -1.0,
+          -8.0
+        ],
+        [
+          0.0,
+          1.0,
+          -1.6292068494294654e-07,
+          1.2799999713897705
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "ortho_scale": 2.7,
+      "target": [
+        0,
+        0,
+        1.28
+      ],
+      "angle": "front",
+      "size": 512,
+      "clip_start": 0.10000000149011612,
+      "clip_end": 1000.0
+    },
+    "geometry_sha256": "accd9816fd6fcca197f178a4e7ad7ad708991003a7622503a2ace4b9d397f5dc",
+    "alpha_threshold": 0.5,
+    "color_management": {
+      "view_transform": "AgX",
+      "look": "None",
+      "exposure": 0.0,
+      "gamma": 1.0
+    },
+    "cycles": {
+      "samples": 24,
+      "seed": 42,
+      "denoising": true
+    }
+  },
+  {
+    "build": "Feminine",
+    "variant": "source-glb",
+    "preset": "angles",
+    "skin": 1,
+    "size": 512,
+    "angle": "threequarter",
+    "color": "references/Feminine-source-glb-angles-threequarter-skin1-512-color.png",
+    "depth": "references/Feminine-source-glb-angles-threequarter-skin1-512-depth.exr",
+    "camera": {
+      "matrix_world": [
+        [
+          0.8942695260047913,
+          -3.824769834182007e-08,
+          -0.44752880930900574,
+          -3.5802299976348877
+        ],
+        [
+          -0.44752880930900574,
+          -1.630422730158898e-07,
+          -0.8942695260047913,
+          -7.15415620803833
+        ],
+        [
+          -3.8762358656185825e-08,
+          1.0,
+          -1.6292068494294654e-07,
+          1.2799999713897705
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "ortho_scale": 2.7,
+      "target": [
+        0,
+        0,
+        1.28
+      ],
+      "angle": "threequarter",
+      "size": 512,
+      "clip_start": 0.10000000149011612,
+      "clip_end": 1000.0
+    },
+    "geometry_sha256": "accd9816fd6fcca197f178a4e7ad7ad708991003a7622503a2ace4b9d397f5dc",
+    "alpha_threshold": 0.5,
+    "color_management": {
+      "view_transform": "AgX",
+      "look": "None",
+      "exposure": 0.0,
+      "gamma": 1.0
+    },
+    "cycles": {
+      "samples": 24,
+      "seed": 42,
+      "denoising": true
+    }
+  },
+  {
+    "build": "Feminine",
+    "variant": "source-glb",
+    "preset": "angles",
+    "skin": 1,
+    "size": 512,
+    "angle": "profile",
+    "color": "references/Feminine-source-glb-angles-profile-skin1-512-color.png",
+    "depth": "references/Feminine-source-glb-angles-profile-skin1-512-depth.exr",
+    "camera": {
+      "matrix_world": [
+        [
+          -4.371138828673793e-08,
+          -4.371138828673793e-08,
+          -1.0,
+          -8.0
+        ],
+        [
+          -1.0,
+          1.910685676922942e-15,
+          4.371138828673793e-08,
+          -4.898587410340671e-16
+        ],
+        [
+          0.0,
+          1.0,
+          -4.371138828673793e-08,
+          1.2799999713897705
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "ortho_scale": 2.7,
+      "target": [
+        0,
+        0,
+        1.28
+      ],
+      "angle": "profile",
+      "size": 512,
+      "clip_start": 0.10000000149011612,
+      "clip_end": 1000.0
+    },
+    "geometry_sha256": "accd9816fd6fcca197f178a4e7ad7ad708991003a7622503a2ace4b9d397f5dc",
+    "alpha_threshold": 0.5,
+    "color_management": {
+      "view_transform": "AgX",
+      "look": "None",
+      "exposure": 0.0,
+      "gamma": 1.0
+    },
+    "cycles": {
+      "samples": 24,
+      "seed": 42,
+      "denoising": true
+    }
+  },
+  {
+    "build": "Feminine",
+    "variant": "source-glb",
+    "preset": "angles",
+    "skin": 1,
+    "size": 512,
+    "angle": "rightprofile",
+    "color": "references/Feminine-source-glb-angles-rightprofile-skin1-512-color.png",
+    "depth": "references/Feminine-source-glb-angles-rightprofile-skin1-512-depth.exr",
+    "camera": {
+      "matrix_world": [
+        [
+          -4.371138828673793e-08,
+          4.371138828673793e-08,
+          1.0,
+          8.0
+        ],
+        [
+          1.0,
+          1.910685676922942e-15,
+          4.371138828673793e-08,
+          -4.898587410340671e-16
+        ],
+        [
+          0.0,
+          1.0,
+          -4.371138828673793e-08,
+          1.2799999713897705
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "ortho_scale": 2.7,
+      "target": [
+        0,
+        0,
+        1.28
+      ],
+      "angle": "rightprofile",
+      "size": 512,
+      "clip_start": 0.10000000149011612,
+      "clip_end": 1000.0
+    },
+    "geometry_sha256": "accd9816fd6fcca197f178a4e7ad7ad708991003a7622503a2ace4b9d397f5dc",
+    "alpha_threshold": 0.5,
+    "color_management": {
+      "view_transform": "AgX",
+      "look": "None",
+      "exposure": 0.0,
+      "gamma": 1.0
+    },
+    "cycles": {
+      "samples": 24,
+      "seed": 42,
+      "denoising": true
+    }
+  },
+  {
+    "build": "Feminine",
+    "variant": "source-glb",
+    "preset": "angles",
+    "skin": 1,
+    "size": 512,
+    "angle": "rear",
+    "color": "references/Feminine-source-glb-angles-rear-skin1-512-color.png",
+    "depth": "references/Feminine-source-glb-angles-rear-skin1-512-depth.exr",
+    "camera": {
+      "matrix_world": [
+        [
+          -1.0,
+          1.5099580252808664e-07,
+          -1.1399865765455465e-14,
+          9.797174820681343e-16
+        ],
+        [
+          0.0,
+          7.549790126404332e-08,
+          1.0,
+          8.0
+        ],
+        [
+          1.5099580252808664e-07,
+          1.0,
+          -7.549790126404332e-08,
+          1.2799999713897705
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "ortho_scale": 2.7,
+      "target": [
+        0,
+        0,
+        1.28
+      ],
+      "angle": "rear",
+      "size": 512,
+      "clip_start": 0.10000000149011612,
+      "clip_end": 1000.0
+    },
+    "geometry_sha256": "accd9816fd6fcca197f178a4e7ad7ad708991003a7622503a2ace4b9d397f5dc",
+    "alpha_threshold": 0.5,
+    "color_management": {
+      "view_transform": "AgX",
+      "look": "None",
+      "exposure": 0.0,
+      "gamma": 1.0
+    },
+    "cycles": {
+      "samples": 24,
+      "seed": 42,
+      "denoising": true
+    }
+  },
+  {
+    "build": "Feminine",
+    "variant": "source-glb",
+    "preset": "angles",
+    "skin": 1,
+    "size": 512,
+    "angle": "rearquarter",
+    "color": "references/Feminine-source-glb-angles-rearquarter-skin1-512-color.png",
+    "depth": "references/Feminine-source-glb-angles-rearquarter-skin1-512-depth.exr",
+    "camera": {
+      "matrix_world": [
+        [
+          -0.7999451756477356,
+          -1.1152535250857909e-07,
+          -0.6000730991363525,
+          -4.800585746765137
+        ],
+        [
+          -0.6000730991363525,
+          -2.9016955949145995e-08,
+          0.7999451756477356,
+          6.399560451507568
+        ],
+        [
+          -1.0662645877346222e-07,
+          1.0,
+          -4.371138828673793e-08,
+          1.2799999713897705
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "ortho_scale": 2.7,
+      "target": [
+        0,
+        0,
+        1.28
+      ],
+      "angle": "rearquarter",
+      "size": 512,
+      "clip_start": 0.10000000149011612,
+      "clip_end": 1000.0
+    },
+    "geometry_sha256": "accd9816fd6fcca197f178a4e7ad7ad708991003a7622503a2ace4b9d397f5dc",
+    "alpha_threshold": 0.5,
+    "color_management": {
+      "view_transform": "AgX",
+      "look": "None",
+      "exposure": 0.0,
+      "gamma": 1.0
+    },
+    "cycles": {
+      "samples": 24,
+      "seed": 42,
+      "denoising": true
+    }
+  },
+  {
+    "build": "Feminine",
+    "variant": "source-glb",
+    "preset": "angles",
+    "skin": 1,
+    "size": 512,
+    "angle": "top",
+    "color": "references/Feminine-source-glb-angles-top-skin1-512-color.png",
+    "depth": "references/Feminine-source-glb-angles-top-skin1-512-depth.exr",
+    "camera": {
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.8772004842758179,
+          -0.48012426495552063,
+          -3.840993881225586
+        ],
+        [
+          0.0,
+          0.48012426495552063,
+          0.8772004842758179,
+          8.297603607177734
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "ortho_scale": 2.7,
+      "target": [
+        0,
+        0,
+        1.28
+      ],
+      "angle": "top",
+      "size": 512,
+      "clip_start": 0.10000000149011612,
+      "clip_end": 1000.0
+    },
+    "geometry_sha256": "accd9816fd6fcca197f178a4e7ad7ad708991003a7622503a2ace4b9d397f5dc",
+    "alpha_threshold": 0.5,
+    "color_management": {
+      "view_transform": "AgX",
+      "look": "None",
+      "exposure": 0.0,
+      "gamma": 1.0
+    },
+    "cycles": {
+      "samples": 24,
+      "seed": 42,
+      "denoising": true
+    }
+  },
+  {
+    "build": "Feminine",
+    "variant": "source-glb",
+    "preset": "angles",
+    "skin": 1,
+    "size": 512,
+    "angle": "underside",
+    "color": "references/Feminine-source-glb-angles-underside-skin1-512-color.png",
+    "depth": "references/Feminine-source-glb-angles-underside-skin1-512-depth.exr",
+    "camera": {
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -0.8674232959747314,
+          -0.4975709617137909,
+          -3.9805684089660645
+        ],
+        [
+          0.0,
+          0.4975709617137909,
+          -0.8674232959747314,
+          -5.659385681152344
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "ortho_scale": 2.7,
+      "target": [
+        0,
+        0,
+        1.28
+      ],
+      "angle": "underside",
+      "size": 512,
+      "clip_start": 0.10000000149011612,
+      "clip_end": 1000.0
+    },
+    "geometry_sha256": "accd9816fd6fcca197f178a4e7ad7ad708991003a7622503a2ace4b9d397f5dc",
+    "alpha_threshold": 0.5,
+    "color_management": {
+      "view_transform": "AgX",
+      "look": "None",
+      "exposure": 0.0,
+      "gamma": 1.0
+    },
+    "cycles": {
+      "samples": 24,
+      "seed": 42,
+      "denoising": true
+    },
+    "floor_camera_visible": false
+  },
+  {
+    "build": "Feminine",
+    "variant": "optimized",
+    "preset": "reference",
+    "skin": 0,
+    "size": 120,
+    "angle": "front",
+    "color": "references/Feminine-optimized-reference-front-skin0-120-color.png",
+    "depth": "references/Feminine-optimized-reference-front-skin0-120-depth.exr",
+    "camera": {
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.6292068494294654e-07,
+          -1.0,
+          -8.0
+        ],
+        [
+          0.0,
+          1.0,
+          -1.6292068494294654e-07,
+          1.8799999952316284
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "ortho_scale": 1.65,
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "angle": "front",
+      "size": 120,
+      "clip_start": 0.10000000149011612,
+      "clip_end": 1000.0
+    },
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "alpha_threshold": 0.5,
+    "color_management": {
+      "view_transform": "AgX",
+      "look": "None",
+      "exposure": 0.0,
+      "gamma": 1.0
+    },
+    "cycles": {
+      "samples": 24,
+      "seed": 42,
+      "denoising": true
+    }
+  },
+  {
+    "build": "Feminine",
+    "variant": "optimized",
+    "preset": "reference",
+    "skin": 0,
+    "size": 512,
+    "angle": "front",
+    "color": "references/Feminine-optimized-reference-front-skin0-512-color.png",
+    "depth": "references/Feminine-optimized-reference-front-skin0-512-depth.exr",
+    "camera": {
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.6292068494294654e-07,
+          -1.0,
+          -8.0
+        ],
+        [
+          0.0,
+          1.0,
+          -1.6292068494294654e-07,
+          1.8799999952316284
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "ortho_scale": 1.65,
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "angle": "front",
+      "size": 512,
+      "clip_start": 0.10000000149011612,
+      "clip_end": 1000.0
+    },
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "alpha_threshold": 0.5,
+    "color_management": {
+      "view_transform": "AgX",
+      "look": "None",
+      "exposure": 0.0,
+      "gamma": 1.0
+    },
+    "cycles": {
+      "samples": 24,
+      "seed": 42,
+      "denoising": true
+    }
+  },
+  {
+    "build": "Feminine",
+    "variant": "optimized",
+    "preset": "reference",
+    "skin": 3,
+    "size": 120,
+    "angle": "front",
+    "color": "references/Feminine-optimized-reference-front-skin3-120-color.png",
+    "depth": "references/Feminine-optimized-reference-front-skin3-120-depth.exr",
+    "camera": {
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.6292068494294654e-07,
+          -1.0,
+          -8.0
+        ],
+        [
+          0.0,
+          1.0,
+          -1.6292068494294654e-07,
+          1.8799999952316284
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "ortho_scale": 1.65,
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "angle": "front",
+      "size": 120,
+      "clip_start": 0.10000000149011612,
+      "clip_end": 1000.0
+    },
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "alpha_threshold": 0.5,
+    "color_management": {
+      "view_transform": "AgX",
+      "look": "None",
+      "exposure": 0.0,
+      "gamma": 1.0
+    },
+    "cycles": {
+      "samples": 24,
+      "seed": 42,
+      "denoising": true
+    }
+  },
+  {
+    "build": "Feminine",
+    "variant": "optimized",
+    "preset": "reference",
+    "skin": 3,
+    "size": 512,
+    "angle": "front",
+    "color": "references/Feminine-optimized-reference-front-skin3-512-color.png",
+    "depth": "references/Feminine-optimized-reference-front-skin3-512-depth.exr",
+    "camera": {
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.6292068494294654e-07,
+          -1.0,
+          -8.0
+        ],
+        [
+          0.0,
+          1.0,
+          -1.6292068494294654e-07,
+          1.8799999952316284
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "ortho_scale": 1.65,
+      "target": [
+        0,
+        0,
+        1.88
+      ],
+      "angle": "front",
+      "size": 512,
+      "clip_start": 0.10000000149011612,
+      "clip_end": 1000.0
+    },
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "alpha_threshold": 0.5,
+    "color_management": {
+      "view_transform": "AgX",
+      "look": "None",
+      "exposure": 0.0,
+      "gamma": 1.0
+    },
+    "cycles": {
+      "samples": 24,
+      "seed": 42,
+      "denoising": true
+    }
+  },
+  {
+    "build": "Feminine",
+    "variant": "optimized",
+    "preset": "angles",
+    "skin": 1,
+    "size": 512,
+    "angle": "front",
+    "color": "references/Feminine-optimized-angles-front-skin1-512-color.png",
+    "depth": "references/Feminine-optimized-angles-front-skin1-512-depth.exr",
+    "camera": {
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.6292068494294654e-07,
+          -1.0,
+          -8.0
+        ],
+        [
+          0.0,
+          1.0,
+          -1.6292068494294654e-07,
+          1.2799999713897705
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "ortho_scale": 2.7,
+      "target": [
+        0,
+        0,
+        1.28
+      ],
+      "angle": "front",
+      "size": 512,
+      "clip_start": 0.10000000149011612,
+      "clip_end": 1000.0
+    },
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "alpha_threshold": 0.5,
+    "color_management": {
+      "view_transform": "AgX",
+      "look": "None",
+      "exposure": 0.0,
+      "gamma": 1.0
+    },
+    "cycles": {
+      "samples": 24,
+      "seed": 42,
+      "denoising": true
+    }
+  },
+  {
+    "build": "Feminine",
+    "variant": "optimized",
+    "preset": "angles",
+    "skin": 1,
+    "size": 512,
+    "angle": "threequarter",
+    "color": "references/Feminine-optimized-angles-threequarter-skin1-512-color.png",
+    "depth": "references/Feminine-optimized-angles-threequarter-skin1-512-depth.exr",
+    "camera": {
+      "matrix_world": [
+        [
+          0.8942695260047913,
+          -3.824769834182007e-08,
+          -0.44752880930900574,
+          -3.5802299976348877
+        ],
+        [
+          -0.44752880930900574,
+          -1.630422730158898e-07,
+          -0.8942695260047913,
+          -7.15415620803833
+        ],
+        [
+          -3.8762358656185825e-08,
+          1.0,
+          -1.6292068494294654e-07,
+          1.2799999713897705
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "ortho_scale": 2.7,
+      "target": [
+        0,
+        0,
+        1.28
+      ],
+      "angle": "threequarter",
+      "size": 512,
+      "clip_start": 0.10000000149011612,
+      "clip_end": 1000.0
+    },
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "alpha_threshold": 0.5,
+    "color_management": {
+      "view_transform": "AgX",
+      "look": "None",
+      "exposure": 0.0,
+      "gamma": 1.0
+    },
+    "cycles": {
+      "samples": 24,
+      "seed": 42,
+      "denoising": true
+    }
+  },
+  {
+    "build": "Feminine",
+    "variant": "optimized",
+    "preset": "angles",
+    "skin": 1,
+    "size": 512,
+    "angle": "profile",
+    "color": "references/Feminine-optimized-angles-profile-skin1-512-color.png",
+    "depth": "references/Feminine-optimized-angles-profile-skin1-512-depth.exr",
+    "camera": {
+      "matrix_world": [
+        [
+          -4.371138828673793e-08,
+          -4.371138828673793e-08,
+          -1.0,
+          -8.0
+        ],
+        [
+          -1.0,
+          1.910685676922942e-15,
+          4.371138828673793e-08,
+          -4.898587410340671e-16
+        ],
+        [
+          0.0,
+          1.0,
+          -4.371138828673793e-08,
+          1.2799999713897705
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "ortho_scale": 2.7,
+      "target": [
+        0,
+        0,
+        1.28
+      ],
+      "angle": "profile",
+      "size": 512,
+      "clip_start": 0.10000000149011612,
+      "clip_end": 1000.0
+    },
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "alpha_threshold": 0.5,
+    "color_management": {
+      "view_transform": "AgX",
+      "look": "None",
+      "exposure": 0.0,
+      "gamma": 1.0
+    },
+    "cycles": {
+      "samples": 24,
+      "seed": 42,
+      "denoising": true
+    }
+  },
+  {
+    "build": "Feminine",
+    "variant": "optimized",
+    "preset": "angles",
+    "skin": 1,
+    "size": 512,
+    "angle": "rightprofile",
+    "color": "references/Feminine-optimized-angles-rightprofile-skin1-512-color.png",
+    "depth": "references/Feminine-optimized-angles-rightprofile-skin1-512-depth.exr",
+    "camera": {
+      "matrix_world": [
+        [
+          -4.371138828673793e-08,
+          4.371138828673793e-08,
+          1.0,
+          8.0
+        ],
+        [
+          1.0,
+          1.910685676922942e-15,
+          4.371138828673793e-08,
+          -4.898587410340671e-16
+        ],
+        [
+          0.0,
+          1.0,
+          -4.371138828673793e-08,
+          1.2799999713897705
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "ortho_scale": 2.7,
+      "target": [
+        0,
+        0,
+        1.28
+      ],
+      "angle": "rightprofile",
+      "size": 512,
+      "clip_start": 0.10000000149011612,
+      "clip_end": 1000.0
+    },
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "alpha_threshold": 0.5,
+    "color_management": {
+      "view_transform": "AgX",
+      "look": "None",
+      "exposure": 0.0,
+      "gamma": 1.0
+    },
+    "cycles": {
+      "samples": 24,
+      "seed": 42,
+      "denoising": true
+    }
+  },
+  {
+    "build": "Feminine",
+    "variant": "optimized",
+    "preset": "angles",
+    "skin": 1,
+    "size": 512,
+    "angle": "rear",
+    "color": "references/Feminine-optimized-angles-rear-skin1-512-color.png",
+    "depth": "references/Feminine-optimized-angles-rear-skin1-512-depth.exr",
+    "camera": {
+      "matrix_world": [
+        [
+          -1.0,
+          1.5099580252808664e-07,
+          -1.1399865765455465e-14,
+          9.797174820681343e-16
+        ],
+        [
+          0.0,
+          7.549790126404332e-08,
+          1.0,
+          8.0
+        ],
+        [
+          1.5099580252808664e-07,
+          1.0,
+          -7.549790126404332e-08,
+          1.2799999713897705
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "ortho_scale": 2.7,
+      "target": [
+        0,
+        0,
+        1.28
+      ],
+      "angle": "rear",
+      "size": 512,
+      "clip_start": 0.10000000149011612,
+      "clip_end": 1000.0
+    },
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "alpha_threshold": 0.5,
+    "color_management": {
+      "view_transform": "AgX",
+      "look": "None",
+      "exposure": 0.0,
+      "gamma": 1.0
+    },
+    "cycles": {
+      "samples": 24,
+      "seed": 42,
+      "denoising": true
+    }
+  },
+  {
+    "build": "Feminine",
+    "variant": "optimized",
+    "preset": "angles",
+    "skin": 1,
+    "size": 512,
+    "angle": "rearquarter",
+    "color": "references/Feminine-optimized-angles-rearquarter-skin1-512-color.png",
+    "depth": "references/Feminine-optimized-angles-rearquarter-skin1-512-depth.exr",
+    "camera": {
+      "matrix_world": [
+        [
+          -0.7999451756477356,
+          -1.1152535250857909e-07,
+          -0.6000730991363525,
+          -4.800585746765137
+        ],
+        [
+          -0.6000730991363525,
+          -2.9016955949145995e-08,
+          0.7999451756477356,
+          6.399560451507568
+        ],
+        [
+          -1.0662645877346222e-07,
+          1.0,
+          -4.371138828673793e-08,
+          1.2799999713897705
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "ortho_scale": 2.7,
+      "target": [
+        0,
+        0,
+        1.28
+      ],
+      "angle": "rearquarter",
+      "size": 512,
+      "clip_start": 0.10000000149011612,
+      "clip_end": 1000.0
+    },
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "alpha_threshold": 0.5,
+    "color_management": {
+      "view_transform": "AgX",
+      "look": "None",
+      "exposure": 0.0,
+      "gamma": 1.0
+    },
+    "cycles": {
+      "samples": 24,
+      "seed": 42,
+      "denoising": true
+    }
+  },
+  {
+    "build": "Feminine",
+    "variant": "optimized",
+    "preset": "angles",
+    "skin": 1,
+    "size": 512,
+    "angle": "top",
+    "color": "references/Feminine-optimized-angles-top-skin1-512-color.png",
+    "depth": "references/Feminine-optimized-angles-top-skin1-512-depth.exr",
+    "camera": {
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.8772004842758179,
+          -0.48012426495552063,
+          -3.840993881225586
+        ],
+        [
+          0.0,
+          0.48012426495552063,
+          0.8772004842758179,
+          8.297603607177734
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "ortho_scale": 2.7,
+      "target": [
+        0,
+        0,
+        1.28
+      ],
+      "angle": "top",
+      "size": 512,
+      "clip_start": 0.10000000149011612,
+      "clip_end": 1000.0
+    },
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "alpha_threshold": 0.5,
+    "color_management": {
+      "view_transform": "AgX",
+      "look": "None",
+      "exposure": 0.0,
+      "gamma": 1.0
+    },
+    "cycles": {
+      "samples": 24,
+      "seed": 42,
+      "denoising": true
+    }
+  },
+  {
+    "build": "Feminine",
+    "variant": "optimized",
+    "preset": "angles",
+    "skin": 1,
+    "size": 512,
+    "angle": "underside",
+    "color": "references/Feminine-optimized-angles-underside-skin1-512-color.png",
+    "depth": "references/Feminine-optimized-angles-underside-skin1-512-depth.exr",
+    "camera": {
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -0.8674232959747314,
+          -0.4975709617137909,
+          -3.9805684089660645
+        ],
+        [
+          0.0,
+          0.4975709617137909,
+          -0.8674232959747314,
+          -5.659385681152344
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "ortho_scale": 2.7,
+      "target": [
+        0,
+        0,
+        1.28
+      ],
+      "angle": "underside",
+      "size": 512,
+      "clip_start": 0.10000000149011612,
+      "clip_end": 1000.0
+    },
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "alpha_threshold": 0.5,
+    "color_management": {
+      "view_transform": "AgX",
+      "look": "None",
+      "exposure": 0.0,
+      "gamma": 1.0
+    },
+    "cycles": {
+      "samples": 24,
+      "seed": 42,
+      "denoising": true
+    },
+    "floor_camera_visible": false
+  },
+  {
+    "build": "Feminine",
+    "variant": "optimized",
+    "preset": "chat",
+    "skin": 0,
+    "size": 32,
+    "angle": "front",
+    "color": "references/Feminine-optimized-chat-front-skin0-32-color.png",
+    "depth": "references/Feminine-optimized-chat-front-skin0-32-depth.exr",
+    "camera": {
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.6292068494294654e-07,
+          -1.0,
+          -8.0
+        ],
+        [
+          0.0,
+          1.0,
+          -1.6292068494294654e-07,
+          1.899999976158142
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "ortho_scale": 1.35,
+      "target": [
+        0,
+        0,
+        1.9
+      ],
+      "angle": "front",
+      "size": 32,
+      "clip_start": 0.10000000149011612,
+      "clip_end": 1000.0
+    },
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "alpha_threshold": 0.5,
+    "color_management": {
+      "view_transform": "AgX",
+      "look": "None",
+      "exposure": 0.0,
+      "gamma": 1.0
+    },
+    "cycles": {
+      "samples": 24,
+      "seed": 42,
+      "denoising": true
+    }
+  },
+  {
+    "build": "Feminine",
+    "variant": "optimized",
+    "preset": "chat",
+    "skin": 0,
+    "size": 48,
+    "angle": "front",
+    "color": "references/Feminine-optimized-chat-front-skin0-48-color.png",
+    "depth": "references/Feminine-optimized-chat-front-skin0-48-depth.exr",
+    "camera": {
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.6292068494294654e-07,
+          -1.0,
+          -8.0
+        ],
+        [
+          0.0,
+          1.0,
+          -1.6292068494294654e-07,
+          1.899999976158142
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "ortho_scale": 1.35,
+      "target": [
+        0,
+        0,
+        1.9
+      ],
+      "angle": "front",
+      "size": 48,
+      "clip_start": 0.10000000149011612,
+      "clip_end": 1000.0
+    },
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "alpha_threshold": 0.5,
+    "color_management": {
+      "view_transform": "AgX",
+      "look": "None",
+      "exposure": 0.0,
+      "gamma": 1.0
+    },
+    "cycles": {
+      "samples": 24,
+      "seed": 42,
+      "denoising": true
+    }
+  },
+  {
+    "build": "Feminine",
+    "variant": "optimized",
+    "preset": "chat",
+    "skin": 0,
+    "size": 64,
+    "angle": "front",
+    "color": "references/Feminine-optimized-chat-front-skin0-64-color.png",
+    "depth": "references/Feminine-optimized-chat-front-skin0-64-depth.exr",
+    "camera": {
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.6292068494294654e-07,
+          -1.0,
+          -8.0
+        ],
+        [
+          0.0,
+          1.0,
+          -1.6292068494294654e-07,
+          1.899999976158142
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "ortho_scale": 1.35,
+      "target": [
+        0,
+        0,
+        1.9
+      ],
+      "angle": "front",
+      "size": 64,
+      "clip_start": 0.10000000149011612,
+      "clip_end": 1000.0
+    },
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "alpha_threshold": 0.5,
+    "color_management": {
+      "view_transform": "AgX",
+      "look": "None",
+      "exposure": 0.0,
+      "gamma": 1.0
+    },
+    "cycles": {
+      "samples": 24,
+      "seed": 42,
+      "denoising": true
+    }
+  },
+  {
+    "build": "Feminine",
+    "variant": "optimized",
+    "preset": "chat",
+    "skin": 0,
+    "size": 120,
+    "angle": "front",
+    "color": "references/Feminine-optimized-chat-front-skin0-120-color.png",
+    "depth": "references/Feminine-optimized-chat-front-skin0-120-depth.exr",
+    "camera": {
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.6292068494294654e-07,
+          -1.0,
+          -8.0
+        ],
+        [
+          0.0,
+          1.0,
+          -1.6292068494294654e-07,
+          1.899999976158142
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "ortho_scale": 1.35,
+      "target": [
+        0,
+        0,
+        1.9
+      ],
+      "angle": "front",
+      "size": 120,
+      "clip_start": 0.10000000149011612,
+      "clip_end": 1000.0
+    },
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "alpha_threshold": 0.5,
+    "color_management": {
+      "view_transform": "AgX",
+      "look": "None",
+      "exposure": 0.0,
+      "gamma": 1.0
+    },
+    "cycles": {
+      "samples": 24,
+      "seed": 42,
+      "denoising": true
+    }
+  },
+  {
+    "build": "Feminine",
+    "variant": "optimized",
+    "preset": "chat",
+    "skin": 3,
+    "size": 32,
+    "angle": "front",
+    "color": "references/Feminine-optimized-chat-front-skin3-32-color.png",
+    "depth": "references/Feminine-optimized-chat-front-skin3-32-depth.exr",
+    "camera": {
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.6292068494294654e-07,
+          -1.0,
+          -8.0
+        ],
+        [
+          0.0,
+          1.0,
+          -1.6292068494294654e-07,
+          1.899999976158142
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "ortho_scale": 1.35,
+      "target": [
+        0,
+        0,
+        1.9
+      ],
+      "angle": "front",
+      "size": 32,
+      "clip_start": 0.10000000149011612,
+      "clip_end": 1000.0
+    },
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "alpha_threshold": 0.5,
+    "color_management": {
+      "view_transform": "AgX",
+      "look": "None",
+      "exposure": 0.0,
+      "gamma": 1.0
+    },
+    "cycles": {
+      "samples": 24,
+      "seed": 42,
+      "denoising": true
+    }
+  },
+  {
+    "build": "Feminine",
+    "variant": "optimized",
+    "preset": "chat",
+    "skin": 3,
+    "size": 48,
+    "angle": "front",
+    "color": "references/Feminine-optimized-chat-front-skin3-48-color.png",
+    "depth": "references/Feminine-optimized-chat-front-skin3-48-depth.exr",
+    "camera": {
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.6292068494294654e-07,
+          -1.0,
+          -8.0
+        ],
+        [
+          0.0,
+          1.0,
+          -1.6292068494294654e-07,
+          1.899999976158142
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "ortho_scale": 1.35,
+      "target": [
+        0,
+        0,
+        1.9
+      ],
+      "angle": "front",
+      "size": 48,
+      "clip_start": 0.10000000149011612,
+      "clip_end": 1000.0
+    },
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "alpha_threshold": 0.5,
+    "color_management": {
+      "view_transform": "AgX",
+      "look": "None",
+      "exposure": 0.0,
+      "gamma": 1.0
+    },
+    "cycles": {
+      "samples": 24,
+      "seed": 42,
+      "denoising": true
+    }
+  },
+  {
+    "build": "Feminine",
+    "variant": "optimized",
+    "preset": "chat",
+    "skin": 3,
+    "size": 64,
+    "angle": "front",
+    "color": "references/Feminine-optimized-chat-front-skin3-64-color.png",
+    "depth": "references/Feminine-optimized-chat-front-skin3-64-depth.exr",
+    "camera": {
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.6292068494294654e-07,
+          -1.0,
+          -8.0
+        ],
+        [
+          0.0,
+          1.0,
+          -1.6292068494294654e-07,
+          1.899999976158142
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "ortho_scale": 1.35,
+      "target": [
+        0,
+        0,
+        1.9
+      ],
+      "angle": "front",
+      "size": 64,
+      "clip_start": 0.10000000149011612,
+      "clip_end": 1000.0
+    },
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "alpha_threshold": 0.5,
+    "color_management": {
+      "view_transform": "AgX",
+      "look": "None",
+      "exposure": 0.0,
+      "gamma": 1.0
+    },
+    "cycles": {
+      "samples": 24,
+      "seed": 42,
+      "denoising": true
+    }
+  },
+  {
+    "build": "Feminine",
+    "variant": "optimized",
+    "preset": "chat",
+    "skin": 3,
+    "size": 120,
+    "angle": "front",
+    "color": "references/Feminine-optimized-chat-front-skin3-120-color.png",
+    "depth": "references/Feminine-optimized-chat-front-skin3-120-depth.exr",
+    "camera": {
+      "matrix_world": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.6292068494294654e-07,
+          -1.0,
+          -8.0
+        ],
+        [
+          0.0,
+          1.0,
+          -1.6292068494294654e-07,
+          1.899999976158142
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "ortho_scale": 1.35,
+      "target": [
+        0,
+        0,
+        1.9
+      ],
+      "angle": "front",
+      "size": 120,
+      "clip_start": 0.10000000149011612,
+      "clip_end": 1000.0
+    },
+    "geometry_sha256": "8b538813bb0b7aeee55ed822837d33fab91164093be4a205cf5043af224f4bd0",
+    "alpha_threshold": 0.5,
+    "color_management": {
+      "view_transform": "AgX",
+      "look": "None",
+      "exposure": 0.0,
+      "gamma": 1.0
+    },
+    "cycles": {
+      "samples": 24,
+      "seed": 42,
+      "denoising": true
+    }
+  }
+]
