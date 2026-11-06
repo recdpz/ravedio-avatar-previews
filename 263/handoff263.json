@@ -1,0 +1,30 @@
+{
+  "revision": 263,
+  "supersedes": "262 pants-only bases and its two assembled pants fixtures. All other262 work retained.",
+  "asset_commit": "pending",
+  "catalogue": "catalogue263.json",
+  "components": "components/",
+  "assemblies": "assemblies263.json",
+  "technical": "technical263.json",
+  "dependencies": "dependencies263.json",
+  "matched_color_depth": "depth263.json",
+  "review": "review263.json",
+  "requirements": [
+    "Keep shared coordinates and separate selectable/recolorable parts.",
+    "Use the263 pants bases with the pants option. Use original bases for other bottoms. Do not remove all leg anatomy.",
+    "Two packed sources and ordinary assembled GLBs are current. Refresh color/depth together; 24 new matched pairs supplied.",
+    "Source transmission and browser alpha lenses are different rendering behaviors; native optics and mobile performance still require qualification.",
+    "No wire/profile assignments or native renderer changes."
+  ],
+  "validation": {
+    "local_control_checks": 50,
+    "final_views": 150,
+    "closed_legs": 6,
+    "clearance_samples": 16416,
+    "ordinary_glbs": 5,
+    "packed_assemblies": 2,
+    "matched_pairs": 24,
+    "retained_prior_glbs": 1070
+  },
+  "preview": "https://recdpz.github.io/ravedio-avatar-previews/263/?build=Feminine&hair=ponytail&top=sweatshirt&bottom=pants&headwear=none&mode=body&angle=threequarter"
+}

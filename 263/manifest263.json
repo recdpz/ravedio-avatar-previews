@@ -1,0 +1,405 @@
+{
+  "revision": 263,
+  "files": [
+    {
+      "path": "assemblies/Feminine-hoodie-pants-cap263.blend",
+      "bytes": 19835289,
+      "sha256": "a8ea6d7779a65ae1f6c7b2caf59c41073d68b13c4bdf234f6c9ac5b716dfcedf"
+    },
+    {
+      "path": "assemblies/Feminine-hoodie-pants-cap263.glb",
+      "bytes": 18191004,
+      "sha256": "accd9816fd6fcca197f178a4e7ad7ad708991003a7622503a2ace4b9d397f5dc"
+    },
+    {
+      "path": "assemblies/Masculine-hoodie-pants-cap263.blend",
+      "bytes": 24601773,
+      "sha256": "6a2cd4338969512a15185779deceaf9c685f069bcfce3c8f48a145aab4e8170c"
+    },
+    {
+      "path": "assemblies/Masculine-hoodie-pants-cap263.glb",
+      "bytes": 23929556,
+      "sha256": "c92389dc4668dac89e7bfc9e0bb45b0653ae181295a2f5df6a5c02b80efc1d13"
+    },
+    {
+      "path": "assemblies263.json",
+      "bytes": 60773,
+      "sha256": "5c9a7e5cd32a2332bd3c8310ee7b82bf978e837191ad01e78fd32add4f945193"
+    },
+    {
+      "path": "catalogue263.json",
+      "bytes": 291116,
+      "sha256": "6b2bae6c3ab50212201c3c43a46201b97484234554b2e417efae51ab4d381823"
+    },
+    {
+      "path": "components/Feminine-pants-clothed-base263.glb",
+      "bytes": 1868336,
+      "sha256": "b4c68cdaa2f869b1df56ba55986556981b0033386be46c98f6d372f75d89c778"
+    },
+    {
+      "path": "components/Masculine-pants-clothed-base263.glb",
+      "bytes": 1828056,
+      "sha256": "6e6160bf350da8b9401ac36d9f4b3fdf9e5700b89aa4eb1e440077f0a022c588"
+    },
+    {
+      "path": "components/Masculine-pants-shirtless-base263.glb",
+      "bytes": 2038408,
+      "sha256": "3bbdd3520c53bfc80386e06f8452b3cd77ec0533d61029e626b9aeb505a04b30"
+    },
+    {
+      "path": "dependencies263.json",
+      "bytes": 212767,
+      "sha256": "fbe24103c88030e710d7e275495729aac411d5d5d6826cef4ba2cc182ac794e6"
+    },
+    {
+      "path": "depth263.json",
+      "bytes": 32551,
+      "sha256": "a8e2322a59836267f28cdb609616e0d4e55f5c528528a8e26ceaf833e2a5c22d"
+    },
+    {
+      "path": "fitcheck263.json",
+      "bytes": 1256,
+      "sha256": "19f2230f2e9665fe2e34bf247748cf3ca027b3463b29681a17a1cf80e454969f"
+    },
+    {
+      "path": "handoff263.json",
+      "bytes": 1388,
+      "sha256": "56d8020b5ee1e6686cadbdcccb4ccea030405dfda09d9c2c2def807820f86e58"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8802,
+      "sha256": "a926bb7abff3bf86bb04585203727d792bd75d439295dff700592ca9f22b3bc2"
+    },
+    {
+      "path": "local-controls263.json",
+      "bytes": 7120,
+      "sha256": "228ae901959b2c34b27e46b7b3f55cf1d3a9336cf78f8826aee013564529e7d4"
+    },
+    {
+      "path": "README263.txt",
+      "bytes": 1189,
+      "sha256": "075dde9ff31b5c3eaa3f022e0f8f3925869524f72b0b3b2b562f26695a31a76d"
+    },
+    {
+      "path": "references/Feminine-assembled263.jpg",
+      "bytes": 51065,
+      "sha256": "b0663c9ee41306b2d86d2b8540cd3305bc3d407ec6afab68f9f49800e38bc5aa"
+    },
+    {
+      "path": "references/Feminine-hoodie-pants-cap-chat-skin0-120-paired263-color.png",
+      "bytes": 24448,
+      "sha256": "eefb2a63bd19d1ba882d7ad075fa4223cccee93c160ef9d3f136e7b78be3d66d"
+    },
+    {
+      "path": "references/Feminine-hoodie-pants-cap-chat-skin0-120-paired263-depth.exr",
+      "bytes": 60284,
+      "sha256": "90515c6bbeb63867584b4115f1e8025b09e6ce6b7a92348bdd7d3eb5500f1b08"
+    },
+    {
+      "path": "references/Feminine-hoodie-pants-cap-chat-skin0-32-paired263-color.png",
+      "bytes": 3076,
+      "sha256": "0877defe5687fb944a8b698793926c3a871441379b3a438b17f85c366537cfa8"
+    },
+    {
+      "path": "references/Feminine-hoodie-pants-cap-chat-skin0-32-paired263-depth.exr",
+      "bytes": 5372,
+      "sha256": "583a9b259981a82d268361a76a963fe0f9a4af4e7d0106cd719f85051eced613"
+    },
+    {
+      "path": "references/Feminine-hoodie-pants-cap-chat-skin0-48-paired263-color.png",
+      "bytes": 5494,
+      "sha256": "166a69dcd661b7995fa404092783e1419a35f5ffda862105c44ffc713c74f9b2"
+    },
+    {
+      "path": "references/Feminine-hoodie-pants-cap-chat-skin0-48-paired263-depth.exr",
+      "bytes": 10748,
+      "sha256": "1a754456f3f0e3913589da74672c020e4543c17f6a996d26927b358380da6f67"
+    },
+    {
+      "path": "references/Feminine-hoodie-pants-cap-chat-skin0-64-paired263-color.png",
+      "bytes": 8498,
+      "sha256": "685452180a082d4bf8d7ced9541d96a154b7fad44ea914970f3a951254958861"
+    },
+    {
+      "path": "references/Feminine-hoodie-pants-cap-chat-skin0-64-paired263-depth.exr",
+      "bytes": 18172,
+      "sha256": "27e657bb24dc8ffa6cbed3f491c6990ffc4cd826b88730f787974dd7ebe7a273"
+    },
+    {
+      "path": "references/Feminine-hoodie-pants-cap-chat-skin3-120-paired263-color.png",
+      "bytes": 24196,
+      "sha256": "667ffea3fd761e4242d634014eed45a87a81d8f965dad67da603cd31a4add950"
+    },
+    {
+      "path": "references/Feminine-hoodie-pants-cap-chat-skin3-120-paired263-depth.exr",
+      "bytes": 60284,
+      "sha256": "5f648d2ef80861fe298cb63c5db6950512bd4f9fb0c7bfc2b788d3929f401cdf"
+    },
+    {
+      "path": "references/Feminine-hoodie-pants-cap-chat-skin3-32-paired263-color.png",
+      "bytes": 3027,
+      "sha256": "d0699cf89cd904077f8cd98abb4e9245d3e1f735de661355cbe32f2bdc4214a4"
+    },
+    {
+      "path": "references/Feminine-hoodie-pants-cap-chat-skin3-32-paired263-depth.exr",
+      "bytes": 5372,
+      "sha256": "c955a2e2cb84a91823c88232f44f02077609030ce2f3c5ba4d322795041e163a"
+    },
+    {
+      "path": "references/Feminine-hoodie-pants-cap-chat-skin3-48-paired263-color.png",
+      "bytes": 5392,
+      "sha256": "97eda5ba1c03a6c6860b2554b2e29b16abb7622ba448927adf7ca0039e0fb19d"
+    },
+    {
+      "path": "references/Feminine-hoodie-pants-cap-chat-skin3-48-paired263-depth.exr",
+      "bytes": 10748,
+      "sha256": "82b73d6d7d91a69209a7b621e08417cb5ec794ca2046bcb12797b73e1ee1fa05"
+    },
+    {
+      "path": "references/Feminine-hoodie-pants-cap-chat-skin3-64-paired263-color.png",
+      "bytes": 8402,
+      "sha256": "65dd60cf1e4474363f6a3e469b36d1acd5339d83030fc5d6740932bf91a13886"
+    },
+    {
+      "path": "references/Feminine-hoodie-pants-cap-chat-skin3-64-paired263-depth.exr",
+      "bytes": 18172,
+      "sha256": "6972b120cb1106361fe5b0e4d1fb8279855d03e09ac102863d0dec71c9c40397"
+    },
+    {
+      "path": "references/Feminine-hoodie-pants-cap-reference-skin0-120-paired263-color.png",
+      "bytes": 23222,
+      "sha256": "90b789c04ca440b1078af2c50af592465b0c1fcaeed4161e522d13bf4fb10fbc"
+    },
+    {
+      "path": "references/Feminine-hoodie-pants-cap-reference-skin0-120-paired263-depth.exr",
+      "bytes": 60284,
+      "sha256": "e94e3514f9a1e9c09ad854b14f980432ca0cf70aeec7a9648782de18149cd37a"
+    },
+    {
+      "path": "references/Feminine-hoodie-pants-cap-reference-skin0-512-paired263-color.png",
+      "bytes": 311537,
+      "sha256": "b4afbc4749614eedfaec5a83f2978f434b27c9294e3712a96e4aa27c6ac02047"
+    },
+    {
+      "path": "references/Feminine-hoodie-pants-cap-reference-skin0-512-paired263-depth.exr",
+      "bytes": 1057532,
+      "sha256": "fff04dbfbe2eb7e2e18e960c8b8276f2becbfb575c65c3dd2ba1ced2bd9587b9"
+    },
+    {
+      "path": "references/Feminine-hoodie-pants-cap-reference-skin3-120-paired263-color.png",
+      "bytes": 22996,
+      "sha256": "0b6358f11b4f95d6cab98510c377d5ecb32b2308d38151fbd16c16ae87529c96"
+    },
+    {
+      "path": "references/Feminine-hoodie-pants-cap-reference-skin3-120-paired263-depth.exr",
+      "bytes": 60284,
+      "sha256": "b866ca6085cea8ae50509a8ae1555134ffe7c5eeb65f836af870c67733ee02cf"
+    },
+    {
+      "path": "references/Feminine-hoodie-pants-cap-reference-skin3-512-paired263-color.png",
+      "bytes": 309882,
+      "sha256": "6ffede56f4374af22938a776af1da37a7526c791a5aaf5649b9ca71e7c0970e0"
+    },
+    {
+      "path": "references/Feminine-hoodie-pants-cap-reference-skin3-512-paired263-depth.exr",
+      "bytes": 1057532,
+      "sha256": "cc9eb8d4e4d6fb03cdd47be09b4ea5d0015e721882e8a6e99b22a6793fd5360a"
+    },
+    {
+      "path": "references/Feminine-pants263.jpg",
+      "bytes": 87789,
+      "sha256": "d5ccbf8aa08dfa39d56e0a215b108214367cc6572d9dbdaaf57980730ab6bc08"
+    },
+    {
+      "path": "references/Feminine-wardrobe263.jpg",
+      "bytes": 315158,
+      "sha256": "69f7bb020dfac176c08e5bf85348e9215048b3141386bac677335db9702f4ae3"
+    },
+    {
+      "path": "references/Masculine-assembled263.jpg",
+      "bytes": 45636,
+      "sha256": "07dc0d9c0393c084eb4a37113f08c6fb17747a49b6e618ca4e86fece0f8619eb"
+    },
+    {
+      "path": "references/Masculine-hoodie-pants-cap-chat-skin0-120-paired263-color.png",
+      "bytes": 23286,
+      "sha256": "6d3a2441f58f3093c6a63d9d1bc61a0254a3392ac61c20ff9d5a2b3891af4adf"
+    },
+    {
+      "path": "references/Masculine-hoodie-pants-cap-chat-skin0-120-paired263-depth.exr",
+      "bytes": 60282,
+      "sha256": "77187868982e5a0d9a35b0203bbea565dd517a8a8eb076b12799cdec459458f1"
+    },
+    {
+      "path": "references/Masculine-hoodie-pants-cap-chat-skin0-32-paired263-color.png",
+      "bytes": 3006,
+      "sha256": "18f1bb324102d822110de740a4236fde902ae52c3f6b3d1dd8d246fab4b512e4"
+    },
+    {
+      "path": "references/Masculine-hoodie-pants-cap-chat-skin0-32-paired263-depth.exr",
+      "bytes": 5370,
+      "sha256": "88360548a8a37412648acb449a3ed4a857b8e82c8a7e609ce09c077fd4771930"
+    },
+    {
+      "path": "references/Masculine-hoodie-pants-cap-chat-skin0-48-paired263-color.png",
+      "bytes": 5271,
+      "sha256": "a15ab9336e35b5e85a973b6b10f10564bb6c2e415b76a5191d075dbae1f06f15"
+    },
+    {
+      "path": "references/Masculine-hoodie-pants-cap-chat-skin0-48-paired263-depth.exr",
+      "bytes": 10746,
+      "sha256": "019d09b98349a1792e4f03156e9ef5de3fc3631a740ecd62e108134a5e5cbeca"
+    },
+    {
+      "path": "references/Masculine-hoodie-pants-cap-chat-skin0-64-paired263-color.png",
+      "bytes": 8231,
+      "sha256": "346b109d07ea6f489b3c7603711e21191f0e21dd5b767c49c58c4f22a646531d"
+    },
+    {
+      "path": "references/Masculine-hoodie-pants-cap-chat-skin0-64-paired263-depth.exr",
+      "bytes": 18170,
+      "sha256": "f18b07ac0f1f3e6846e91316f94fc60334f6d107b9e376d0ae0b0e692e9e8e8b"
+    },
+    {
+      "path": "references/Masculine-hoodie-pants-cap-chat-skin3-120-paired263-color.png",
+      "bytes": 22980,
+      "sha256": "b9bb40ed3e25e24b96ca0aab8746d17b6b640ed46ce7ad0247ae4ad2440efb1d"
+    },
+    {
+      "path": "references/Masculine-hoodie-pants-cap-chat-skin3-120-paired263-depth.exr",
+      "bytes": 60282,
+      "sha256": "40f28221c513eb776c0366a6a40c8266b8e4bcf330371ab12a98df99808a6761"
+    },
+    {
+      "path": "references/Masculine-hoodie-pants-cap-chat-skin3-32-paired263-color.png",
+      "bytes": 2968,
+      "sha256": "32822c9b13e7e39cc62b1bacdd179c1064b4532329b148613b33c17c290dbe72"
+    },
+    {
+      "path": "references/Masculine-hoodie-pants-cap-chat-skin3-32-paired263-depth.exr",
+      "bytes": 5370,
+      "sha256": "a5bd7bfbceb06f36acd7a1bcb6b6da32bb5d1e57c6204740360a9519949c86f2"
+    },
+    {
+      "path": "references/Masculine-hoodie-pants-cap-chat-skin3-48-paired263-color.png",
+      "bytes": 5134,
+      "sha256": "dab9baf1595073477ce1217356a988f3cd86529f8d2183d58af27021e564ddd8"
+    },
+    {
+      "path": "references/Masculine-hoodie-pants-cap-chat-skin3-48-paired263-depth.exr",
+      "bytes": 10746,
+      "sha256": "cae7bdb809d43c2bb4af67c25de27959765c56123e45897d213e428eb8fe0619"
+    },
+    {
+      "path": "references/Masculine-hoodie-pants-cap-chat-skin3-64-paired263-color.png",
+      "bytes": 8141,
+      "sha256": "63148c4863013a26d3db8610fc1561d1310218aed7f07618762a283f30ba40df"
+    },
+    {
+      "path": "references/Masculine-hoodie-pants-cap-chat-skin3-64-paired263-depth.exr",
+      "bytes": 18170,
+      "sha256": "f18b07ac0f1f3e6846e91316f94fc60334f6d107b9e376d0ae0b0e692e9e8e8b"
+    },
+    {
+      "path": "references/Masculine-hoodie-pants-cap-reference-skin0-120-paired263-color.png",
+      "bytes": 22164,
+      "sha256": "08eec5b5452bfb1f3eb5b72fa0abcc8efefe74f501483bdafb397b94eca02534"
+    },
+    {
+      "path": "references/Masculine-hoodie-pants-cap-reference-skin0-120-paired263-depth.exr",
+      "bytes": 60282,
+      "sha256": "c934984edfc86968dd202ab8d7358b93960f0357506277ff57feeba4724d7e5a"
+    },
+    {
+      "path": "references/Masculine-hoodie-pants-cap-reference-skin0-512-paired263-color.png",
+      "bytes": 303026,
+      "sha256": "b4a94b62f22e5477df1657c270be8834f1a29b00f4f045639889e038aa5253a7"
+    },
+    {
+      "path": "references/Masculine-hoodie-pants-cap-reference-skin0-512-paired263-depth.exr",
+      "bytes": 1057530,
+      "sha256": "cd84dd484916fbe0dcd6dc207c50285222c12ed27ca3cb08584b820c230410e0"
+    },
+    {
+      "path": "references/Masculine-hoodie-pants-cap-reference-skin3-120-paired263-color.png",
+      "bytes": 21876,
+      "sha256": "7e0f81656dcd2b5b22091c1320852ad25fad24053bc3d4bcb4a5f7428694af0c"
+    },
+    {
+      "path": "references/Masculine-hoodie-pants-cap-reference-skin3-120-paired263-depth.exr",
+      "bytes": 60282,
+      "sha256": "2ded6d5f0b5afb6e5c100684aab2fc36649cb3536ba32fb3374d2163b57a170d"
+    },
+    {
+      "path": "references/Masculine-hoodie-pants-cap-reference-skin3-512-paired263-color.png",
+      "bytes": 302083,
+      "sha256": "d226084ee9dc8cd41b0d3b4914275b7fdc2a442378ab749788d56dc5b6008dc2"
+    },
+    {
+      "path": "references/Masculine-hoodie-pants-cap-reference-skin3-512-paired263-depth.exr",
+      "bytes": 1057530,
+      "sha256": "5591a17e0c6020ee83c549822935835d685dde57078ecb67c4e15ecc1e1d036c"
+    },
+    {
+      "path": "references/Masculine-pants263.jpg",
+      "bytes": 84298,
+      "sha256": "2e826f5e7e26f2fb6aebcc5b1d1e2a4df615a91797cb367e8a83af8fe1edda27"
+    },
+    {
+      "path": "references/Masculine-wardrobe263.jpg",
+      "bytes": 231501,
+      "sha256": "fc58b86c9374c85a75b626415cc4d22bce2420081bddab6fd35097e434da6078"
+    },
+    {
+      "path": "references/pants-before-after263.jpg",
+      "bytes": 118431,
+      "sha256": "f6f1d21981c098b3c6f206d09bcdccebff242e30d1260910f71667fd0508a7c3"
+    },
+    {
+      "path": "references/reference-looks263.jpg",
+      "bytes": 34680,
+      "sha256": "ae5c629d1b6094653ef7a38e19bdb4515d686edd2b2ceee9aa46fdd823495313"
+    },
+    {
+      "path": "review263.json",
+      "bytes": 2076,
+      "sha256": "2c09b618c7f1182d16ff657253bd25f382de6410db996a60aa7e03aa3201de84"
+    },
+    {
+      "path": "technical263.json",
+      "bytes": 24538,
+      "sha256": "12ec0c6780cbafaca2958f3d0c66687be58e4fc4b7c002387400a7304a39a229"
+    },
+    {
+      "path": "topology263.json",
+      "bytes": 782,
+      "sha256": "b9b9faab178f3e645c97551c6ea4c7686b498582f625927b15c58d6214760342"
+    },
+    {
+      "path": "verification/controls263.cjs",
+      "bytes": 4659,
+      "sha256": "a7ea7ea758dcaa59a786dd617d19eeacf1f1fbfc188e921b0d6ce79ba316cf9b"
+    },
+    {
+      "path": "verification/fitcheck263.py",
+      "bytes": 2230,
+      "sha256": "741c99b07382cf6079182c7b8ee5f98d8bdd438e5f5b54460ff78caee92c03b8"
+    },
+    {
+      "path": "verification/reference263.py",
+      "bytes": 5410,
+      "sha256": "2fff98742c9623a4334cc92e0a7d40bae36fddb417e0443ae380943145523f0d"
+    },
+    {
+      "path": "verification/technical263.py",
+      "bytes": 5075,
+      "sha256": "4fe7cfdcd9dd5b759297fb36efd1fb4f6ada2e8d95e177c4bca13fc32f0e3e3b"
+    },
+    {
+      "path": "viewer263.js",
+      "bytes": 22473,
+      "sha256": "d456bc994f80b86da163c226e12e2a30b44d5773f73cf68e2f24145772f91b00"
+    }
+  ]
+}
