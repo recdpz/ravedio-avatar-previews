@@ -1,0 +1,56 @@
+[
+  {
+    "build": "Feminine",
+    "variant": "clothed",
+    "node": "Skin / pants fitted leg 1",
+    "tested": 2736,
+    "minimum_clearance": 0.008380599393271848,
+    "misses": 0,
+    "penetrations": 0
+  },
+  {
+    "build": "Feminine",
+    "variant": "clothed",
+    "node": "Skin / pants fitted leg -1",
+    "tested": 2736,
+    "minimum_clearance": 0.008390642775916501,
+    "misses": 0,
+    "penetrations": 0
+  },
+  {
+    "build": "Masculine",
+    "variant": "clothed",
+    "node": "Skin / pants fitted leg 1",
+    "tested": 2736,
+    "minimum_clearance": 0.010588704053648201,
+    "misses": 0,
+    "penetrations": 0
+  },
+  {
+    "build": "Masculine",
+    "variant": "clothed",
+    "node": "Skin / pants fitted leg -1",
+    "tested": 2736,
+    "minimum_clearance": 0.010599343482740609,
+    "misses": 0,
+    "penetrations": 0
+  },
+  {
+    "build": "Masculine",
+    "variant": "shirtless",
+    "node": "Skin / pants fitted leg 1",
+    "tested": 2736,
+    "minimum_clearance": 0.010588704053648201,
+    "misses": 0,
+    "penetrations": 0
+  },
+  {
+    "build": "Masculine",
+    "variant": "shirtless",
+    "node": "Skin / pants fitted leg -1",
+    "tested": 2736,
+    "minimum_clearance": 0.010599343482740609,
+    "misses": 0,
+    "penetrations": 0
+  }
+]

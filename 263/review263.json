@@ -1,0 +1,27 @@
+{
+  "revision": 263,
+  "scope": "Pants assembly regression and mobile control obstruction",
+  "findings": [
+    {
+      "problem": "262 removed the whole bare legs to prevent clipping, leaving hollow cuffs.",
+      "fix": "Restore two closed legs in each pants base; smoothly fit covered cross-sections beneath the fabric while retaining the original rounded lower ends. Shorts/skirt/bikini bases and all pants fabric remain unchanged.",
+      "evidence": "All tops with pants, eight angles; enlarged cuff/underside checks; six closed leg meshes and 16416 surface-clearance samples with no penetration."
+    },
+    {
+      "problem": "The mobile sticky preview covered the clothing selectors, intercepting taps. Programmatic selectOption testing missed this.",
+      "fix": "Mobile preview now participates in normal page flow, leaving clothing controls unobstructed.",
+      "evidence": "Pointer-access and actual native-select re-selection at 320/390px, landscape844x390 and desktop1400x1000; both builds, all bottom transitions."
+    },
+    {
+      "problem": "The diagnostic ready flag could report an old model after a failed new selection.",
+      "fix": "Ready now requires the current selection generation to have rendered successfully; expose the committed selection for verification.",
+      "evidence": "Actual rendered base checked after outfit/build changes, rapid switching and reload; compare262 retains the previous empty-cuff model."
+    }
+  ],
+  "visual_passes": [
+    "Exported component assembly: 134 views covering every top with pants, eight angles, enlarged hems and other bottoms.",
+    "Reimported final assembled GLBs: 16 views across both builds and all eight angles; inspected front, sides, back and underside."
+  ],
+  "process_correction": "Acceptance requires visible complete anatomy and correct drape, not merely absence of clipping nodes. UI tests must use hit testing and actual pointer/keyboard interaction, not only setting select values.",
+  "owner_status": "Correction awaiting owner review; no broad production qualification claimed."
+}

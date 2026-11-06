@@ -1,0 +1,897 @@
+{
+  "revision": 263,
+  "assets": [
+    {
+      "path": "assemblies/Feminine-hoodie-pants-cap263.glb",
+      "bytes": 18191004,
+      "sha256": "accd9816fd6fcca197f178a4e7ad7ad708991003a7622503a2ace4b9d397f5dc",
+      "active_triangles": 831762,
+      "stored_triangles": 831762,
+      "active_vertices": 425619,
+      "active_meshes": 70,
+      "materials": 36,
+      "textures": [],
+      "material_requirements": [
+        {
+          "name": "Lashes / charcoal234",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Accessory / warm metal226.001",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Glasses / frame226.001",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Glasses / clear non-refracting pane235",
+          "alphaMode": "BLEND",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {
+            "ior": 1
+          },
+          "volume": {}
+        },
+        {
+          "name": "Bottom / stitch187.001",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Bottom / fabric187.001",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Cap / subtle sewing212",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Cap / midnight cotton212",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Cap / ivory emblem223",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Chest / shade191 0.001",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Chest / shade191 0.002",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Chest / shade191 0.003",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "167 Top / sweatshirt.001",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Eye / smoky charcoal181.001",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Eye highlight181.001",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Eye glint181.001",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Face / ink209",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Hair / sculpted front locks222.002",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Hair / chestnut212 1.002",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Hair / chestnut212 0.002",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Hair / chestnut212 2.002",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Hair / crisp pulled roots220.002",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Hair / fitted tie214.002",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Hoodie / soft cord205.001",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Hoodie / lining204.001",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Hoodie / rolled edge204.001",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Hoodie / cavity215.001",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Hoodie / facing215.001",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "HOT / original ink212.001",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "HOT / original coral212.001",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Skin / Light warm.002",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Skin / Light warm.003",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Sleeve / ribbed cuff201.002",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Sleeve / ribbed cuff201.003",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Sleeve / cuff fabric202.002",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Sleeve / cuff fabric202.003",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        }
+      ],
+      "extensions": [
+        "KHR_materials_clearcoat",
+        "KHR_materials_specular",
+        "KHR_materials_ior"
+      ],
+      "finite_positions_unit_normals_valid_indices": true,
+      "compression_quantization": false
+    },
+    {
+      "path": "assemblies/Masculine-hoodie-pants-cap263.glb",
+      "bytes": 23929556,
+      "sha256": "c92389dc4668dac89e7bfc9e0bb45b0653ae181295a2f5df6a5c02b80efc1d13",
+      "active_triangles": 1016178,
+      "stored_triangles": 1016178,
+      "active_vertices": 549520,
+      "active_meshes": 55,
+      "materials": 32,
+      "textures": [
+        {
+          "width": 512,
+          "height": 512,
+          "mime": "image/png"
+        }
+      ],
+      "material_requirements": [
+        {
+          "name": "Hair258 / sculpted side sweep 0.001",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Hair258 / blended terminal tips Hair258 / sculpted side sweep 0.001",
+          "alphaMode": "BLEND",
+          "doubleSided": false,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Hair258 / sculpted side sweep 1.001",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Hair258 / blended terminal tips Hair258 / sculpted side sweep 1.001",
+          "alphaMode": "BLEND",
+          "doubleSided": false,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Hair258 / sculpted side sweep 2.001",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Hair258 / blended terminal tips Hair258 / sculpted side sweep 2.001",
+          "alphaMode": "BLEND",
+          "doubleSided": false,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Hair258 / smooth side fade.001",
+          "alphaMode": "BLEND",
+          "doubleSided": false,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Hair259 / directional fade marks214.001",
+          "alphaMode": "BLEND",
+          "doubleSided": false,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Cap / ivory emblem223.001",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Cap / midnight cotton212.001",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Cap / subtle sewing212.001",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Glasses / clear non-refracting pane235",
+          "alphaMode": "BLEND",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {
+            "ior": 1
+          },
+          "volume": {}
+        },
+        {
+          "name": "Bottom / stitch187",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Bottom / fabric187",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "165 Top / sweatshirt.001",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Eye / smoky charcoal181.001",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Eye highlight181.001",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Eye glint181.001",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Face / ink209",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Glasses / graphite rectangular212",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Hoodie / soft cord205.001",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Hoodie / lining204.001",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Hoodie / rolled edge204.001",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Hoodie / cavity215.001",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Hoodie / facing215.001",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "HOT / original ink212.001",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "HOT / original coral212.001",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Skin / Light warm.001",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Sleeve / ribbed cuff201.002",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Sleeve / ribbed cuff201.003",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Sleeve / cuff fabric202.002",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Sleeve / cuff fabric202.003",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        }
+      ],
+      "extensions": [
+        "KHR_materials_clearcoat",
+        "KHR_materials_specular",
+        "KHR_materials_ior"
+      ],
+      "finite_positions_unit_normals_valid_indices": true,
+      "compression_quantization": false
+    },
+    {
+      "path": "components/Feminine-pants-clothed-base263.glb",
+      "bytes": 1868336,
+      "sha256": "b4c68cdaa2f869b1df56ba55986556981b0033386be46c98f6d372f75d89c778",
+      "active_triangles": 94464,
+      "stored_triangles": 94464,
+      "active_vertices": 47896,
+      "active_meshes": 8,
+      "materials": 5,
+      "textures": [],
+      "material_requirements": [
+        {
+          "name": "Chest / shade191 0.965",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Chest / shade191 0.9",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Chest / shade191 0.84",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Skin / Light warm",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Skin / Light warm.001",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        }
+      ],
+      "extensions": [
+        "KHR_materials_clearcoat"
+      ],
+      "finite_positions_unit_normals_valid_indices": true,
+      "compression_quantization": false
+    },
+    {
+      "path": "components/Masculine-pants-clothed-base263.glb",
+      "bytes": 1828056,
+      "sha256": "6e6160bf350da8b9401ac36d9f4b3fdf9e5700b89aa4eb1e440077f0a022c588",
+      "active_triangles": 93184,
+      "stored_triangles": 93184,
+      "active_vertices": 46604,
+      "active_meshes": 6,
+      "materials": 1,
+      "textures": [],
+      "material_requirements": [
+        {
+          "name": "Skin / Light warm",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        }
+      ],
+      "extensions": [
+        "KHR_materials_clearcoat"
+      ],
+      "finite_positions_unit_normals_valid_indices": true,
+      "compression_quantization": false
+    },
+    {
+      "path": "components/Masculine-pants-shirtless-base263.glb",
+      "bytes": 2038408,
+      "sha256": "3bbdd3520c53bfc80386e06f8452b3cd77ec0533d61029e626b9aeb505a04b30",
+      "active_triangles": 101166,
+      "stored_triangles": 101166,
+      "active_vertices": 54628,
+      "active_meshes": 9,
+      "materials": 8,
+      "textures": [],
+      "material_requirements": [
+        {
+          "name": "Chest / shade191 0.44",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Chest / shade191 0.50",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Chest / shade191 0.64",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Chest / shade191 0.78",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Chest / shade191 0.89",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Chest / shade191 0.95",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Chest / shade191 0.98",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        },
+        {
+          "name": "Skin / Light warm",
+          "alphaMode": "OPAQUE",
+          "doubleSided": true,
+          "transmission": {},
+          "ior": {},
+          "volume": {}
+        }
+      ],
+      "extensions": [
+        "KHR_materials_clearcoat"
+      ],
+      "finite_positions_unit_normals_valid_indices": true,
+      "compression_quantization": false
+    }
+  ],
+  "pants_variants": {
+    "Feminine-clothed": {
+      "source": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\224\\components\\Feminine-uncovered-base.glb",
+      "path": "components/Feminine-pants-clothed-base263.glb",
+      "legs": [
+        {
+          "name": "Skin / pants fitted leg 1",
+          "vertices": 3962,
+          "bounds": [
+            [
+              0.05035918951034546,
+              0.5389999747276306,
+              -0.13922175765037537
+            ],
+            [
+              0.28164082765579224,
+              1.0010000467300415,
+              0.11522176116704941
+            ]
+          ],
+          "changed_vertices": 3816
+        },
+        {
+          "name": "Skin / pants fitted leg -1",
+          "vertices": 3962,
+          "bounds": [
+            [
+              -0.28164082765579224,
+              0.5389999747276306,
+              -0.13922175765037537
+            ],
+            [
+              -0.05035918951034546,
+              1.0010000467300415,
+              0.11522176116704941
+            ]
+          ],
+          "changed_vertices": 3816
+        }
+      ],
+      "method": "Closed original legs retained. Smooth cross-section reduction only inside pants; original lower extent retained. All other base geometry and transforms unchanged.",
+      "active_legs": 2,
+      "protected_non_leg_attributes_materials_transforms_exact": true
+    },
+    "Masculine-clothed": {
+      "source": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\224\\components\\Masculine-taper-base.glb",
+      "path": "components/Masculine-pants-clothed-base263.glb",
+      "legs": [
+        {
+          "name": "Skin / pants fitted leg 1",
+          "vertices": 3962,
+          "bounds": [
+            [
+              0.053422510623931885,
+              0.5389999747276306,
+              -0.13922175765037537
+            ],
+            [
+              0.2785775065422058,
+              1.0010000467300415,
+              0.11522176116704941
+            ]
+          ],
+          "changed_vertices": 3816
+        },
+        {
+          "name": "Skin / pants fitted leg -1",
+          "vertices": 3962,
+          "bounds": [
+            [
+              -0.2785775065422058,
+              0.5389999747276306,
+              -0.13922175765037537
+            ],
+            [
+              -0.053422510623931885,
+              1.0010000467300415,
+              0.11522176116704941
+            ]
+          ],
+          "changed_vertices": 3816
+        }
+      ],
+      "method": "Closed original legs retained. Smooth cross-section reduction only inside pants; original lower extent retained. All other base geometry and transforms unchanged.",
+      "active_legs": 2,
+      "protected_non_leg_attributes_materials_transforms_exact": true
+    },
+    "Masculine-shirtless": {
+      "source": "E:\\Ravedio-Avatar\\floating138\\mobile-preview\\208\\Masculine-shirtless-base.glb",
+      "path": "components/Masculine-pants-shirtless-base263.glb",
+      "legs": [
+        {
+          "name": "Skin / pants fitted leg 1",
+          "vertices": 3962,
+          "bounds": [
+            [
+              0.053422510623931885,
+              0.5389999747276306,
+              -0.13922175765037537
+            ],
+            [
+              0.2785775065422058,
+              1.0010000467300415,
+              0.11522176116704941
+            ]
+          ],
+          "changed_vertices": 3816
+        },
+        {
+          "name": "Skin / pants fitted leg -1",
+          "vertices": 3962,
+          "bounds": [
+            [
+              -0.2785775065422058,
+              0.5389999747276306,
+              -0.13922175765037537
+            ],
+            [
+              -0.053422510623931885,
+              1.0010000467300415,
+              0.11522176116704941
+            ]
+          ],
+          "changed_vertices": 3816
+        }
+      ],
+      "method": "Closed original legs retained. Smooth cross-section reduction only inside pants; original lower extent retained. All other base geometry and transforms unchanged.",
+      "active_legs": 2,
+      "protected_non_leg_attributes_materials_transforms_exact": true
+    }
+  },
+  "note": "Both fitted legs are active closed meshes. Original lower extent retained; covered cross-sections reduced smoothly. Shared coordinates, all other geometry/materials and separate recolor roles preserved. No compression or quantization. Source lenses retain declared transmission separately from alpha."
+}

@@ -1,0 +1,393 @@
+{
+  "checks": [
+    {
+      "size": {
+        "width": 1400,
+        "height": 1000
+      },
+      "build": "Feminine",
+      "from": "shorts",
+      "to": "pants",
+      "pointer_access": true,
+      "rendered_legs": 2
+    },
+    {
+      "size": {
+        "width": 1400,
+        "height": 1000
+      },
+      "build": "Feminine",
+      "from": "skirt",
+      "to": "pants",
+      "pointer_access": true,
+      "rendered_legs": 2
+    },
+    {
+      "size": {
+        "width": 1400,
+        "height": 1000
+      },
+      "build": "Feminine",
+      "from": "bikini",
+      "to": "pants",
+      "pointer_access": true,
+      "rendered_legs": 2
+    },
+    {
+      "size": {
+        "width": 1400,
+        "height": 1000
+      },
+      "build": "Feminine",
+      "from": "pants",
+      "to": "pants",
+      "pointer_access": true,
+      "rendered_legs": 2
+    },
+    {
+      "size": {
+        "width": 1400,
+        "height": 1000
+      },
+      "build": "Masculine",
+      "from": "shorts",
+      "to": "pants",
+      "pointer_access": true,
+      "rendered_legs": 2
+    },
+    {
+      "size": {
+        "width": 1400,
+        "height": 1000
+      },
+      "build": "Masculine",
+      "from": "pants",
+      "to": "pants",
+      "pointer_access": true,
+      "rendered_legs": 2
+    },
+    {
+      "size": {
+        "width": 390,
+        "height": 844
+      },
+      "build": "Feminine",
+      "from": "shorts",
+      "to": "pants",
+      "pointer_access": true,
+      "rendered_legs": 2
+    },
+    {
+      "size": {
+        "width": 390,
+        "height": 844
+      },
+      "build": "Feminine",
+      "from": "skirt",
+      "to": "pants",
+      "pointer_access": true,
+      "rendered_legs": 2
+    },
+    {
+      "size": {
+        "width": 390,
+        "height": 844
+      },
+      "build": "Feminine",
+      "from": "bikini",
+      "to": "pants",
+      "pointer_access": true,
+      "rendered_legs": 2
+    },
+    {
+      "size": {
+        "width": 390,
+        "height": 844
+      },
+      "build": "Feminine",
+      "from": "pants",
+      "to": "pants",
+      "pointer_access": true,
+      "rendered_legs": 2
+    },
+    {
+      "size": {
+        "width": 390,
+        "height": 844
+      },
+      "build": "Masculine",
+      "from": "shorts",
+      "to": "pants",
+      "pointer_access": true,
+      "rendered_legs": 2
+    },
+    {
+      "size": {
+        "width": 390,
+        "height": 844
+      },
+      "build": "Masculine",
+      "from": "pants",
+      "to": "pants",
+      "pointer_access": true,
+      "rendered_legs": 2
+    },
+    {
+      "size": {
+        "width": 320,
+        "height": 640
+      },
+      "build": "Feminine",
+      "from": "shorts",
+      "to": "pants",
+      "pointer_access": true,
+      "rendered_legs": 2
+    },
+    {
+      "size": {
+        "width": 320,
+        "height": 640
+      },
+      "build": "Feminine",
+      "from": "skirt",
+      "to": "pants",
+      "pointer_access": true,
+      "rendered_legs": 2
+    },
+    {
+      "size": {
+        "width": 320,
+        "height": 640
+      },
+      "build": "Feminine",
+      "from": "bikini",
+      "to": "pants",
+      "pointer_access": true,
+      "rendered_legs": 2
+    },
+    {
+      "size": {
+        "width": 320,
+        "height": 640
+      },
+      "build": "Feminine",
+      "from": "pants",
+      "to": "pants",
+      "pointer_access": true,
+      "rendered_legs": 2
+    },
+    {
+      "size": {
+        "width": 320,
+        "height": 640
+      },
+      "build": "Masculine",
+      "from": "shorts",
+      "to": "pants",
+      "pointer_access": true,
+      "rendered_legs": 2
+    },
+    {
+      "size": {
+        "width": 320,
+        "height": 640
+      },
+      "build": "Masculine",
+      "from": "pants",
+      "to": "pants",
+      "pointer_access": true,
+      "rendered_legs": 2
+    },
+    {
+      "size": {
+        "width": 844,
+        "height": 390
+      },
+      "build": "Feminine",
+      "from": "shorts",
+      "to": "pants",
+      "pointer_access": true,
+      "rendered_legs": 2
+    },
+    {
+      "size": {
+        "width": 844,
+        "height": 390
+      },
+      "build": "Feminine",
+      "from": "skirt",
+      "to": "pants",
+      "pointer_access": true,
+      "rendered_legs": 2
+    },
+    {
+      "size": {
+        "width": 844,
+        "height": 390
+      },
+      "build": "Feminine",
+      "from": "bikini",
+      "to": "pants",
+      "pointer_access": true,
+      "rendered_legs": 2
+    },
+    {
+      "size": {
+        "width": 844,
+        "height": 390
+      },
+      "build": "Feminine",
+      "from": "pants",
+      "to": "pants",
+      "pointer_access": true,
+      "rendered_legs": 2
+    },
+    {
+      "size": {
+        "width": 844,
+        "height": 390
+      },
+      "build": "Masculine",
+      "from": "shorts",
+      "to": "pants",
+      "pointer_access": true,
+      "rendered_legs": 2
+    },
+    {
+      "size": {
+        "width": 844,
+        "height": 390
+      },
+      "build": "Masculine",
+      "from": "pants",
+      "to": "pants",
+      "pointer_access": true,
+      "rendered_legs": 2
+    },
+    {
+      "build": "Feminine",
+      "top": "bandeau",
+      "pants": true
+    },
+    {
+      "build": "Feminine",
+      "top": "triangle",
+      "pants": true
+    },
+    {
+      "build": "Feminine",
+      "top": "strappy",
+      "pants": true
+    },
+    {
+      "build": "Feminine",
+      "top": "tshirt",
+      "pants": true
+    },
+    {
+      "build": "Feminine",
+      "top": "jersey",
+      "pants": true
+    },
+    {
+      "build": "Feminine",
+      "top": "open",
+      "pants": true
+    },
+    {
+      "build": "Feminine",
+      "top": "tank",
+      "pants": true
+    },
+    {
+      "build": "Feminine",
+      "top": "sweatshirt",
+      "pants": true
+    },
+    {
+      "build": "Feminine",
+      "compare262": true
+    },
+    {
+      "build": "Feminine",
+      "skin": "0",
+      "color": true
+    },
+    {
+      "build": "Feminine",
+      "skin": "1",
+      "color": true
+    },
+    {
+      "build": "Feminine",
+      "skin": "2",
+      "color": true
+    },
+    {
+      "build": "Feminine",
+      "skin": "3",
+      "color": true
+    },
+    {
+      "build": "Masculine",
+      "top": "shirtless",
+      "pants": true
+    },
+    {
+      "build": "Masculine",
+      "top": "tank",
+      "pants": true
+    },
+    {
+      "build": "Masculine",
+      "top": "tshirt",
+      "pants": true
+    },
+    {
+      "build": "Masculine",
+      "top": "jersey",
+      "pants": true
+    },
+    {
+      "build": "Masculine",
+      "top": "buttonup",
+      "pants": true
+    },
+    {
+      "build": "Masculine",
+      "top": "sweatshirt",
+      "pants": true
+    },
+    {
+      "build": "Masculine",
+      "compare262": true
+    },
+    {
+      "build": "Masculine",
+      "skin": "0",
+      "color": true
+    },
+    {
+      "build": "Masculine",
+      "skin": "1",
+      "color": true
+    },
+    {
+      "build": "Masculine",
+      "skin": "2",
+      "color": true
+    },
+    {
+      "build": "Masculine",
+      "skin": "3",
+      "color": true
+    },
+    {
+      "rapid_switching": "final selection and actual model match"
+    },
+    {
+      "reload": true
+    }
+  ],
+  "errors": []
+}
