@@ -1,0 +1,494 @@
+{
+  "files": {
+    ".gitattributes": {
+      "bytes": 144,
+      "sha256": "4524d47279c7fc57cb66cab696147bbf28dae4c0e14bf9e0afb24b99bd21d5ac"
+    },
+    "assets/Feminine-Feminine-bean-lashes-f96758f5.glb": {
+      "bytes": 60548,
+      "sha256": "04159d5e5855824664fd3c093e610301689370d346c29fb676e625f514ef5696"
+    },
+    "assets/Feminine-Feminine-cap-hair-16ae3440.glb": {
+      "bytes": 2544408,
+      "sha256": "cda6040ddecf4b19e4542a1c0e685288c43acd930e70ebb29c4316fbf911d464"
+    },
+    "assets/Feminine-Feminine-cap-headgear-ae186d8b.glb": {
+      "bytes": 1338904,
+      "sha256": "d9b4a9c4697ed3e166ad0df1df331a6e253152bf5fdfcb063dca480edcde7a02"
+    },
+    "assets/Feminine-Feminine-cap-headgear-cdf901be.glb": {
+      "bytes": 1162700,
+      "sha256": "18d6d919fea63ee96335a7e4d6bf3f5b08ef423f80adb343ae942d7464d7a4d5"
+    },
+    "assets/Feminine-Feminine-curls-cap261-hair-346cf7ad.glb": {
+      "bytes": 2297604,
+      "sha256": "0c3edd43dfd23d6c5c2d8991110b12d36dbb5c18d9a5c90493feded7b1fa90ad"
+    },
+    "assets/Feminine-Feminine-curls-hair261-1726d578.glb": {
+      "bytes": 2297604,
+      "sha256": "6484d6dec273aabd4b140b856e6d8712744468242ed97bb7f94fce17df62b6a4"
+    },
+    "assets/Feminine-Feminine-curls-jersey-pashmina250-headgear-52d0b367.glb": {
+      "bytes": 2703012,
+      "sha256": "7f9db73bfd7d320e6fdad25092ec93afbd9dd2e4a40c0bab9a143ba251aa4834"
+    },
+    "assets/Feminine-Feminine-curls-open-pashmina250-headgear-061ff4b7.glb": {
+      "bytes": 2703012,
+      "sha256": "df7fe46551ad32bc9124b4a82a8b74928c3b34babdcfebbc4db65686ad02b90e"
+    },
+    "assets/Feminine-Feminine-curls-pashmina261-hair-c2b8fad2.glb": {
+      "bytes": 2297604,
+      "sha256": "cbc4d05fafa3d1411572b2717fca042e4e08b09d99b7700924d1f4a3f9ab4d8f"
+    },
+    "assets/Feminine-Feminine-curls-sweatshirt-pashmina250-headgear-5b869d53.glb": {
+      "bytes": 2703008,
+      "sha256": "c39f749caa687569aa39a1a327150b512b76b617755eab1b631860ff8034c990"
+    },
+    "assets/Feminine-Feminine-curls-tank-pashmina250-headgear-7583be13.glb": {
+      "bytes": 2703004,
+      "sha256": "b3228aafe31af5cfeffe93c34527b6ecddf4cea2a3704bd489d925af9e0b6b38"
+    },
+    "assets/Feminine-Feminine-curls-tshirt-pashmina250-headgear-f651840d.glb": {
+      "bytes": 2703004,
+      "sha256": "5e71681e223a3de7bf701d38d2f549e36d9510b2facba5e24c3d6988b52be236"
+    },
+    "assets/Feminine-Feminine-details-glasses-bed239d9.glb": {
+      "bytes": 96304,
+      "sha256": "ae014624faf086f9477ceee4b581a8d3d234b599fb17524eeb77b3018a88edb9"
+    },
+    "assets/Feminine-Feminine-eyes-bean-79354f4c.glb": {
+      "bytes": 289040,
+      "sha256": "e0154b8d5808c5e9a1870e09cd00b787213b3a3d4c89fd5c3cbbd00f88733b9d"
+    },
+    "assets/Feminine-Feminine-eyes-hooded-1096c1e2.glb": {
+      "bytes": 282864,
+      "sha256": "d067fbf08961117bfba1321c08c6f74177a2568c8b2d20b41a96a98b5c89e062"
+    },
+    "assets/Feminine-Feminine-eyes-original-b08a82ec.glb": {
+      "bytes": 179216,
+      "sha256": "5c3bc7cec8f33b1f409cf9877ecb4ae411575980504aed4ad42ec4ee3322aa35"
+    },
+    "assets/Feminine-Feminine-eyes-tapered-1f60a1db.glb": {
+      "bytes": 282864,
+      "sha256": "dd1920a9597b9ce70bc325b597a53e1635d8ca02f844a541f232b2187a30f365"
+    },
+    "assets/Feminine-Feminine-hooded-lashes-c429f391.glb": {
+      "bytes": 60548,
+      "sha256": "68f2069a86fa8efe8a3e779794366d75343d15d48075aeef2ffa5b34b7ab2288"
+    },
+    "assets/Feminine-Feminine-mouth-line-9b6f83b8.glb": {
+      "bytes": 42836,
+      "sha256": "06f799c0481d06399c09c36d118a9f8b91cd64cb6c25c6af8e6b23cf73c70c79"
+    },
+    "assets/Feminine-Feminine-original-lashes-5d67b354.glb": {
+      "bytes": 60552,
+      "sha256": "f5bb8a6d4e7f02141d8f4358251d4a2d80e0b4163e734a56629b4b3077977284"
+    },
+    "assets/Feminine-Feminine-pants-clothed-base263-8fa7df47.glb": {
+      "bytes": 1868332,
+      "sha256": "e86414f0255d4f2a4f6d43156c600719024136ccf9c643a00fd598b7eca2d79e"
+    },
+    "assets/Feminine-Feminine-ponytail-jersey-pashmina251-headgear-41885bef.glb": {
+      "bytes": 2703008,
+      "sha256": "d959c9b13adf3d69187c8c7b3bc9bda38cad16bb1d38980a0242c20be23af6eb"
+    },
+    "assets/Feminine-Feminine-ponytail-open-pashmina251-headgear-45db9f31.glb": {
+      "bytes": 2703008,
+      "sha256": "08cc98e138d02b5e858c03126212fa2a5e92a0b70f890e36e74a440d1270a40c"
+    },
+    "assets/Feminine-Feminine-ponytail-pashmina251-hair-e7682a1e.glb": {
+      "bytes": 2330972,
+      "sha256": "189877fa4d2a97ff5c856124db90daf6e6e9741963452d95972e41112b35222e"
+    },
+    "assets/Feminine-Feminine-ponytail-pashmina251-headgear-6468fd1e.glb": {
+      "bytes": 2703056,
+      "sha256": "259e500cb9bf7c0994cd8255dfa355227684f3d23e5e3aa4bb81d46fe332dd80"
+    },
+    "assets/Feminine-Feminine-ponytail-sweatshirt-pashmina251-headgear-10ab83d2.glb": {
+      "bytes": 2703008,
+      "sha256": "427e7c492888707edf4e91e9b01da0598145d93a6629887e0b9a97dde0431434"
+    },
+    "assets/Feminine-Feminine-ponytail-tank-pashmina251-headgear-71c2f22c.glb": {
+      "bytes": 2703008,
+      "sha256": "f66b200c6da388c63f31bab7d174fa9d9cc1f961905a0aac5c4445cf230dd164"
+    },
+    "assets/Feminine-Feminine-ponytail-tshirt-pashmina251-headgear-bd01fb6c.glb": {
+      "bytes": 2703004,
+      "sha256": "9091fd2c432ecacd35f0776aa93deaf02a1f9ffc651847e7a8dfc64117aefcd9"
+    },
+    "assets/Feminine-Feminine-reading-glasses-b39c32dc.glb": {
+      "bytes": 90508,
+      "sha256": "d8e7a4a948252946416fd1f9283b12964732499911c975a58b751954e4985eb7"
+    },
+    "assets/Feminine-Feminine-reading-lenses-5ccfab34.glb": {
+      "bytes": 12500,
+      "sha256": "0a3ee2a9fe96de444d383c03c03e05ea723568a4853500a7e5763d5cfc7f7643"
+    },
+    "assets/Feminine-Feminine-rectangular-lenses-96d7d740.glb": {
+      "bytes": 191968,
+      "sha256": "6a67bcad03f5e4982730bac5ee8666149a5935d7b9cc61c3e499565b34ed4e6d"
+    },
+    "assets/Feminine-Feminine-straight-cap261-hair-2c499f7c.glb": {
+      "bytes": 2648016,
+      "sha256": "73eb9805b952e9f2092174929a4c23b6ff8df372845dd3104ac9d34f95c36456"
+    },
+    "assets/Feminine-Feminine-straight-hair261-86e8edb4.glb": {
+      "bytes": 2648016,
+      "sha256": "b98a76c3533c3d89b392b499de3bdf50672f7ded715eb9b0e25456b9eede018a"
+    },
+    "assets/Feminine-Feminine-straight-jersey-pashmina250-headgear-78373d4b.glb": {
+      "bytes": 2703008,
+      "sha256": "5ffeb45dae7515398e101ef2a24bf15b1d58a416da6bec97302dbb1fcd780895"
+    },
+    "assets/Feminine-Feminine-straight-open-pashmina250-headgear-0f399e15.glb": {
+      "bytes": 2703008,
+      "sha256": "e69bae3e11b56961b99372afb00670c109864c5b278195ea78d51f8b7706eb0f"
+    },
+    "assets/Feminine-Feminine-straight-pashmina261-hair-07081bd6.glb": {
+      "bytes": 2817500,
+      "sha256": "fc8de98c7f8c10df68e98124a24522af8c50c897f9fb69760268aafbabc7795f"
+    },
+    "assets/Feminine-Feminine-straight-sweatshirt-pashmina250-headgear-b7ba2e8c.glb": {
+      "bytes": 2703008,
+      "sha256": "604a7ff22ac530318d310166bc23a4d497b6f91b3acf6d3f2488b97bc3e03918"
+    },
+    "assets/Feminine-Feminine-straight-tank-pashmina250-headgear-648ef9c3.glb": {
+      "bytes": 2703008,
+      "sha256": "46b2881dedec99c9602a563222e2db2f63a27a55393d839d4b4dd63be7842b6e"
+    },
+    "assets/Feminine-Feminine-straight-tshirt-pashmina250-headgear-b949cf31.glb": {
+      "bytes": 2703004,
+      "sha256": "b621c09c52f3a719fa19f62fe25d6e426a321e04ca2d504b975157e6ec5f73e8"
+    },
+    "assets/Feminine-Feminine-tapered-lashes-0b170243.glb": {
+      "bytes": 60548,
+      "sha256": "1b19dc52307ddcd010e9adf1150b17cc9e8181cd923a2cb7b17816ee472100fe"
+    },
+    "assets/Feminine-Feminine-uncovered-base-b9d435ff.glb": {
+      "bytes": 1677136,
+      "sha256": "9a0480458e3a6ddf4bf7cc9329d25df81df3ade4cf20a6f56b1be49f5004f221"
+    },
+    "assets/Feminine-Feminine-uncovered-hair-764dfc05.glb": {
+      "bytes": 2544392,
+      "sha256": "79affb535915bb4895ba56e5301e9ad8eb64f5baaf733bb4c68091b3ed8d8a19"
+    },
+    "assets/Masculine-Masculine-details-glasses-2d913f32.glb": {
+      "bytes": 94256,
+      "sha256": "6aa44ccd7a41ca2ddfe26c5a7c65234d3ac8219deafa06cccbe211daf07c8e0a"
+    },
+    "assets/Masculine-Masculine-eyes-bean-e412c8c0.glb": {
+      "bytes": 286884,
+      "sha256": "d9cc2136f7593255047f562d0348694bffdc5e1bc510d03e21cb0c704e639a6e"
+    },
+    "assets/Masculine-Masculine-eyes-hooded-425d2a38.glb": {
+      "bytes": 280708,
+      "sha256": "dfcb92eaa51882ac9ad5709173f1afb68ddc95f14664c22135ad4f424bdeda9b"
+    },
+    "assets/Masculine-Masculine-eyes-original-92732458.glb": {
+      "bytes": 179216,
+      "sha256": "ca77fffff745c29a6a8b5eed4d50747c74d1ed32d1fb0ad57bb79b03c1e67555"
+    },
+    "assets/Masculine-Masculine-eyes-tapered-e82a58bc.glb": {
+      "bytes": 280708,
+      "sha256": "08d6ec8e90ab7f876e7462ac7a254d0427dad9d625047acb3384d3c50b5d6c3c"
+    },
+    "assets/Masculine-Masculine-flow-buttonup-pashmina250-headgear-a7dd7407.glb": {
+      "bytes": 2700848,
+      "sha256": "a22b95f618f421a0c7a104fbb9109e953f5402897a5311e8a2c14ca97aac9073"
+    },
+    "assets/Masculine-Masculine-flow-cap251-headgear-819a8dbe.glb": {
+      "bytes": 1396276,
+      "sha256": "593b57c39d0cf6b5a4f64bca75906f540daf7124d50c966cb67378e6a57d6c99"
+    },
+    "assets/Masculine-Masculine-flow-cap261-hair-7cb783ac.glb": {
+      "bytes": 4452680,
+      "sha256": "1d76b977d4f17a6cd3a45ffa7753942f63de15cc2aa591d0a8af912bfbd737ac"
+    },
+    "assets/Masculine-Masculine-flow-hair261-bb7ff5dc.glb": {
+      "bytes": 4452684,
+      "sha256": "8083a3895344268f38666dfa617fdd9c6def0bb807026dd053b136607e24790f"
+    },
+    "assets/Masculine-Masculine-flow-jersey-pashmina250-headgear-2b596f3f.glb": {
+      "bytes": 2700848,
+      "sha256": "307e81ca1dd413960d3ccb03f2a039269cda8cf11300de7bf9ee9fb7da295b37"
+    },
+    "assets/Masculine-Masculine-flow-pashmina251-headgear-ae69a063.glb": {
+      "bytes": 2700896,
+      "sha256": "8505bff23f126e743563f34ba8705168f16f51e22ca16a9e487271ecbf02b88e"
+    },
+    "assets/Masculine-Masculine-flow-pashmina261-hair-06c0b1e1.glb": {
+      "bytes": 4452684,
+      "sha256": "1448303e9a3fe5444c132d0abf03ed251c523b81e66acb7a279df874b3aa98a2"
+    },
+    "assets/Masculine-Masculine-flow-sweatshirt-pashmina250-headgear-7dc2ccd5.glb": {
+      "bytes": 2701180,
+      "sha256": "cc41e30969ff1d5fe57ed831f63b1d737a5769eec77dd7cf40ddb4fccc50111d"
+    },
+    "assets/Masculine-Masculine-flow-tank-pashmina250-headgear-7d17809e.glb": {
+      "bytes": 2700848,
+      "sha256": "d4c6807944650f2b7fff18b092d5e715ed4356af7ac2a21650b60a2ed21b6fe4"
+    },
+    "assets/Masculine-Masculine-flow-tshirt-pashmina250-headgear-f4e31eff.glb": {
+      "bytes": 2700848,
+      "sha256": "ff69e47988731789531de056a3b6be909b53d751649f7222259302bfacef8c4c"
+    },
+    "assets/Masculine-Masculine-groom-goatee-39dc227c.glb": {
+      "bytes": 1041832,
+      "sha256": "d8e574918451239e269274f8ba6edb80bcff9ba274941047f819851f3acfc10d"
+    },
+    "assets/Masculine-Masculine-groom-long-1250ee1a.glb": {
+      "bytes": 1242272,
+      "sha256": "c34a0a61fe66255f61ed4d7b2dedffa9e36572f8f320506527b661fbfbc52dfd"
+    },
+    "assets/Masculine-Masculine-groom-mustache-145c8472.glb": {
+      "bytes": 301500,
+      "sha256": "03a25609a039fc54f7b611483a0e59dc4e4fb41396feb8fa582b357f477d913b"
+    },
+    "assets/Masculine-Masculine-groom-patch-10327d59.glb": {
+      "bytes": 481968,
+      "sha256": "b5319b5c74798a97ecec197b7d73116b9e086ef040dcbe5616ef4db3f563c697"
+    },
+    "assets/Masculine-Masculine-groom-short-b9b78a24.glb": {
+      "bytes": 1526480,
+      "sha256": "f8f67e72df6a3384e3f89e85e689c33d4d2753face87841c5a0a9256151afccd"
+    },
+    "assets/Masculine-Masculine-groom-stubble-4918a94d.glb": {
+      "bytes": 1585936,
+      "sha256": "64b1d68f3973ba087ece2a8f02211b40fbc3f00ba996146147d96a6aa42defb3"
+    },
+    "assets/Masculine-Masculine-middle-part-buttonup-pashmina250-headgear-13372ad4.glb": {
+      "bytes": 2700852,
+      "sha256": "77fa7aab19034661dc69ebaedc8e29fa22e3450fd0521162bc465d6e11c0f09c"
+    },
+    "assets/Masculine-Masculine-middle-part-cap251-headgear-c9e4d285.glb": {
+      "bytes": 1396284,
+      "sha256": "ece64f1ca7d02e0635c92ca98e73ec1f76d574778b1b256d27cfd27378ec9a73"
+    },
+    "assets/Masculine-Masculine-middle-part-cap261-hair-40cb142d.glb": {
+      "bytes": 4452708,
+      "sha256": "fe1c56a74fb610fffd9cf80a148c87f3f7b6ce4283af4dbb8f9763c2ba9b589a"
+    },
+    "assets/Masculine-Masculine-middle-part-hair261-2283dcc5.glb": {
+      "bytes": 4452708,
+      "sha256": "cc0e96a6772273dbd09791d2bf024978260dbf82b5366a8b4cc6e0d2a86bd9aa"
+    },
+    "assets/Masculine-Masculine-middle-part-jersey-pashmina250-headgear-80ee5d8e.glb": {
+      "bytes": 2700848,
+      "sha256": "db765f8d44e1cf936f8e05795c8be11369ddf1156ef651c159abf30f766bf4b6"
+    },
+    "assets/Masculine-Masculine-middle-part-pashmina251-headgear-5d108858.glb": {
+      "bytes": 2700904,
+      "sha256": "8c3ffbbe8275a98ce3512e62e13b48c087e1f9f7ade012bb1e518422a45a6dcc"
+    },
+    "assets/Masculine-Masculine-middle-part-pashmina261-hair-cacd18e8.glb": {
+      "bytes": 4452700,
+      "sha256": "6bae848506c961dd7f4249502e3a165731963a609034e6156e2bfb997e4fe542"
+    },
+    "assets/Masculine-Masculine-middle-part-sweatshirt-pashmina250-headgear-7a521b6c.glb": {
+      "bytes": 2701180,
+      "sha256": "3e50cd867f4accf9367ad06b322438affa6e68df1c4650a710ded76bc11a2924"
+    },
+    "assets/Masculine-Masculine-middle-part-tank-pashmina250-headgear-6aa54bea.glb": {
+      "bytes": 2700852,
+      "sha256": "59069590585f8e7a24380a430ddb3ce9ec4d67fbb3ee64149bbef35c0a5c0f72"
+    },
+    "assets/Masculine-Masculine-middle-part-tshirt-pashmina250-headgear-f8bb9be2.glb": {
+      "bytes": 2700852,
+      "sha256": "d4c9cad58cf804a6ec510d379d3fcc994b9e141d8d1919917221dcacd9214eb6"
+    },
+    "assets/Masculine-Masculine-mouth-line-663a5e81.glb": {
+      "bytes": 42836,
+      "sha256": "661e11a70c778aea902ec750e32d69ce7ed946eb3e4546df4d186bedfc8de12d"
+    },
+    "assets/Masculine-Masculine-pants-clothed-base263-cea1c7fa.glb": {
+      "bytes": 1828052,
+      "sha256": "17957c72de7e2823d465553901abf9467db97700069c8de45b046d7b1a3326e6"
+    },
+    "assets/Masculine-Masculine-rectangular-lenses-71f90cbf.glb": {
+      "bytes": 189920,
+      "sha256": "e7403ab878bd71f4d4e0cda72eec3b9f33de1b490c046ca120477869db2bafcb"
+    },
+    "assets/Masculine-Masculine-taper-base-4ee10f1a.glb": {
+      "bytes": 1636856,
+      "sha256": "fae8edc4d9f281a53120abc6638f8796e9e6c49f63ba59585290810fb55fbfe8"
+    },
+    "assets/Masculine-Masculine-taper-buttonup-pashmina250-headgear-3f073d6d.glb": {
+      "bytes": 2700852,
+      "sha256": "70e9530c6d1470d373e9b2c970773793002e9629b1a30062e6a3d1deca476d08"
+    },
+    "assets/Masculine-Masculine-taper-cap251-headgear-acec4fb0.glb": {
+      "bytes": 1396280,
+      "sha256": "704e6d2efc60817be3cdee51c26f11034271440d37978740aae64d0f6f481677"
+    },
+    "assets/Masculine-Masculine-taper-cap259-hair-b6342c16.glb": {
+      "bytes": 10836708,
+      "sha256": "a3e6292b3f06e4b164aaea2967b48292e977827b8e26fb78db4b87c1d688ecb0"
+    },
+    "assets/Masculine-Masculine-taper-hair259-8be430eb.glb": {
+      "bytes": 10836704,
+      "sha256": "ab9a36c71e759a37b96725ee7abe402d4f8142d3628f4a4e6dcc7dd31e19b122"
+    },
+    "assets/Masculine-Masculine-taper-jersey-pashmina250-headgear-1f84a86f.glb": {
+      "bytes": 2700848,
+      "sha256": "92b5cec032fe32d49869494b86e0c24308a9136454ea2edf5b40aa07a22413a1"
+    },
+    "assets/Masculine-Masculine-taper-pashmina251-headgear-de17ba34.glb": {
+      "bytes": 2700896,
+      "sha256": "98136ebb5375cfa86d68b38c222e7b58f5068ba89ae5fb6d8583ae63ad952e51"
+    },
+    "assets/Masculine-Masculine-taper-pashmina259-hair-61c83994.glb": {
+      "bytes": 10836704,
+      "sha256": "16e7bbd7fb68c23b89b07ad1a6906e5e93d90c186d151daba6261e2f0c44de75"
+    },
+    "assets/Masculine-Masculine-taper-sweatshirt-pashmina250-headgear-9de84c16.glb": {
+      "bytes": 2701180,
+      "sha256": "bd81c94ce298c4726d307a194118e556ae61aa649c800e6370f074765e8d8964"
+    },
+    "assets/Masculine-Masculine-taper-tank-pashmina250-headgear-577bc44d.glb": {
+      "bytes": 2700852,
+      "sha256": "2903c5fc9286ca14919e8114218610f582005e04459b6b620c97387cbf8f5aa9"
+    },
+    "assets/Masculine-Masculine-taper-tshirt-pashmina250-headgear-a583abdd.glb": {
+      "bytes": 2700852,
+      "sha256": "b663327b34cbc2e6ca488a96512247ad86e19087bbb1150f2adbf800e952782c"
+    },
+    "fixtures.json": {
+      "bytes": 24063,
+      "sha256": "601c15aa7da637b237ef4c46f9cb086fbbe0bd3a597aae07cbe65a49fe56ecc1"
+    },
+    "index.html": {
+      "bytes": 6021,
+      "sha256": "8bec2c827548a9736865b3fdeac02979a9286b0ea00d91d5fde382226a8a45ed"
+    },
+    "README.txt": {
+      "bytes": 1564,
+      "sha256": "319ea1839ebac694608349db19cdacf507786be0b2ec1af152edc75ee0186bba"
+    },
+    "review.json": {
+      "bytes": 1859,
+      "sha256": "f7b3545f3e5ab6227d40f574bc8c096d5d537ed4ab6444ee641a846b6b7b72d1"
+    },
+    "tools/audit.cjs": {
+      "bytes": 4397,
+      "sha256": "3892ba7d4ab3259a88aa6a4352133c50069907811903bef09a2b1c959e0a83ce"
+    },
+    "tools/build_assets.py": {
+      "bytes": 6230,
+      "sha256": "b791803d07a7e9420b20061be73c9ebb23d10c59d68c19174f95a10809411174"
+    },
+    "tools/check_assets.py": {
+      "bytes": 2686,
+      "sha256": "3ded8ead1e1878306088cd24f4a88d1e5177fc652a2a81a615b3ff052d3a7519"
+    },
+    "tools/check_closeups.cjs": {
+      "bytes": 2429,
+      "sha256": "832a1ae07c99302c392d8f1307db680e48b73a0459657d87e0aa4dfcf1c8be36"
+    },
+    "tools/create_review.py": {
+      "bytes": 1648,
+      "sha256": "55a8c39ac1acf11652f3dc3c87018c8d01fe0a82664d8042872af2375df5aeb9"
+    },
+    "verification/assets.json": {
+      "bytes": 50857,
+      "sha256": "957b4afc4e06d0050b6d7f7b043b59972ead15ededf9106bcb5f188b54973bec"
+    },
+    "verification/browser.json": {
+      "bytes": 155413,
+      "sha256": "3fcf30b66463040a2585715b843952fe89c4025c39a23fdf08c1227c2d4c1fcd"
+    },
+    "verification/closeups.json": {
+      "bytes": 2918,
+      "sha256": "1e14335c25abecc95794b69690f2b3113fdebc49fb11c578352c416df33fa220"
+    },
+    "verification/F-curls-pashmina-contact.jpg": {
+      "bytes": 132876,
+      "sha256": "4b2b5111a950bffa424b75336d21810034cf13e035c63f441879fd8b96c81585"
+    },
+    "verification/F-curls-shirt-contact.jpg": {
+      "bytes": 137298,
+      "sha256": "91ff2b3a7866ce78693fc718a93b3842c3a80eed006b703d6deea6a3f451f798"
+    },
+    "verification/F-pony-hoodie-contact.jpg": {
+      "bytes": 124661,
+      "sha256": "56e448090afe95708593e043a6317daec7683d0a4c6e190fd881f0f26eb6123b"
+    },
+    "verification/F-pony-pashmina-contact.jpg": {
+      "bytes": 121811,
+      "sha256": "ab9569e08777787aace70266a66af78cd1071ffd6c80926d0e4fbbc3bac7c421"
+    },
+    "verification/F-straight-pashmina-contact.jpg": {
+      "bytes": 130982,
+      "sha256": "b4bd9699bf06d326c3969f9b356b5dfb609814f244445607a2926c984b737e08"
+    },
+    "verification/F-straight-tank-contact.jpg": {
+      "bytes": 129775,
+      "sha256": "888ef2517637858c34ac62adfb46565df470cdc4f6ac9311c71efde9970f71a3"
+    },
+    "verification/Feminine-small-portraits.jpg": {
+      "bytes": 352253,
+      "sha256": "abf08c3bb519be94a93964075258f84787a3fdb9c1433fa51a0c29e0f4e32174"
+    },
+    "verification/groom-goatee-contact.jpg": {
+      "bytes": 186502,
+      "sha256": "0b6feb6c9d189a02237cbb5c8c5552f392710143c01e5d9c6effa518fd7bc3aa"
+    },
+    "verification/groom-long-contact.jpg": {
+      "bytes": 192728,
+      "sha256": "2d0284bd022a036cb4d38223324fed3f387383eba583df13e5c350c09ee13e4e"
+    },
+    "verification/groom-mustache-contact.jpg": {
+      "bytes": 184720,
+      "sha256": "f33559e260b524cafb669542ab65962be2b8c4e10f744c24b0f023bbc7c1fc58"
+    },
+    "verification/groom-patch-contact.jpg": {
+      "bytes": 185277,
+      "sha256": "880164cda0ab49efc3a2d08b4353da125a9a65a0bd3c365b2df73840055ed140"
+    },
+    "verification/groom-short-contact.jpg": {
+      "bytes": 190998,
+      "sha256": "4ea7b60a97bdc0435f53a8664ce951bb2c549dbe195933c15d4a613bc83cd0ce"
+    },
+    "verification/groom-stubble-contact.jpg": {
+      "bytes": 205637,
+      "sha256": "cea4d8e6dc478d1a1c7d41686bf256c0c390b624c844c3df51eba6391cf24862"
+    },
+    "verification/invariants.json": {
+      "bytes": 22516,
+      "sha256": "bf95d7c1a8b605c8bb7fb8a32166df2b01472e3352463df16adb6b0d1bf646bb"
+    },
+    "verification/M-flow-pashmina-contact.jpg": {
+      "bytes": 126586,
+      "sha256": "d36dd20710c69e0e6a3379fc5249bca8fae96fab5b685fb3b446f3164d6f201c"
+    },
+    "verification/M-flow-tshirt-contact.jpg": {
+      "bytes": 128944,
+      "sha256": "4175d530b9505073617651be1187dd78175d15de608e2f38551830a28fc42c93"
+    },
+    "verification/M-middle-shirt-contact.jpg": {
+      "bytes": 121272,
+      "sha256": "07ded701a47ccfc498941390f2c6b0e0dec622700bbddfc3b6beda15b99918d2"
+    },
+    "verification/M-taper-hoodie-contact.jpg": {
+      "bytes": 118880,
+      "sha256": "2af0147077b4da4e76e5acb9d9a9d09a30fe86f20dd4db3b41dd4573e147420f"
+    },
+    "verification/M-taper-pashmina-contact.jpg": {
+      "bytes": 120066,
+      "sha256": "91797490e6b4dfe04e38a4c8cae53ab8bdc8baf525e3127a02608f418cf55b2a"
+    },
+    "verification/Masculine-small-portraits.jpg": {
+      "bytes": 365525,
+      "sha256": "20c4f8d47b3ac1409f513e0335261b5291b7f41e91db56a05870a62a3b10b82e"
+    },
+    "verification/pashmina-closeups.jpg": {
+      "bytes": 265785,
+      "sha256": "0363b3ba636646209026e273708348a2b11dafe2aa649d382e9446be0a8eb30a"
+    },
+    "viewer.js": {
+      "bytes": 12670,
+      "sha256": "e3e4e70f1eaa095c2720bab39bff42398a4e5cf9969c81da9c4198b319d713a4"
+    }
+  },
+  "source_art_commit": "f7a8f037bf0de88b593ddf9dcdf502142fe6f2ff",
+  "scope": "Sphere evaluation subset; profile/native/264 renderer handoff unchanged."
+}
