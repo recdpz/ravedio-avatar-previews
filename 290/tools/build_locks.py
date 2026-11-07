@@ -113,7 +113,7 @@ def crown_to_split(points, angle):
     return crown
 
 
-def add_lock(vertices, faces, weights, source, crown, cols, count, index):
+def add_lock(vertices, faces, weights, source, crown, cols, count, index, clear_edges):
     root = crown[-1, cols]
     y0 = root[:, 1]
     a0 = np.unwrap(angles_of(root))
@@ -130,12 +130,22 @@ def add_lock(vertices, faces, weights, source, crown, cols, count, index):
     for step in range(1, rows):
         t = step / rows
         closure = np.sqrt(1 - np.clip((t - .70) / .30, 0, 1)**2)
-        breadth = (1 - (.31 + .046 * (index % 3)) * ease((t - .20) / .65)) * closure
+        taper = ease((t - .20) / .65)
+        if clear_edges:
+            # Start the split where the locks leave their shared root. Waiting
+            # until a fifth of the way down leaves two coincident side walls.
+            taper = .22 * ease(t / .29) + .78 * ease(t / .85)
+        breadth = (1 - (.31 + .046 * (index % 3)) * taper) * closure
         theta = center + (a0 - center) * breadth + drift * (1 - breadth)
         # Keep the tips broad. The width only closes over the final arc.
         y = tip_y + (root_y - tip_y) * (1 - t)
-        y += (y0 - root_y) * breadth * (1 - .28 * t)
-        y += (.004 * cross**2 + .004 * cross * np.sign(drift)) * np.sin(np.pi * t)
+        if clear_edges:
+            # Let each lane descend all the way to the tip. The old width
+            # term could leave some corners lower than the tip itself.
+            y += (y0 - root_y) * (1 - t)
+        else:
+            y += (y0 - root_y) * breadth * (1 - .28 * t)
+            y += (.004 * cross**2 + .004 * cross * np.sign(drift)) * np.sin(np.pi * t)
         r = np.array([np.interp(h, heights[:, k], radii[:, k]) for k, h in enumerate(y)])
         mid_r = np.interp(0, cross, r)
         r = mid_r + (r - mid_r) * breadth
@@ -160,8 +170,34 @@ def add_lock(vertices, faces, weights, source, crown, cols, count, index):
     faces.extend((previous[i], tip, previous[i + 1]) for i in range(len(previous) - 1))
 
 
-def make_hair():
+def soften_side_fall(points, angle):
+    # Smooth the change in curvature above the tips where the side panels
+    # move in for sleeve clearance. Leave the hem and rear grooves alone.
+    y = points[:, :, 1]
+    azimuth = angles_of(points)
+    radius = np.hypot(points[:, :, 0], points[:, :, 2] - CENTER[2])
+    filtered = radius.copy()
+    for col in np.flatnonzero((np.abs(angle) > .91) & (np.abs(angle) < 2.13)):
+        heights = y[::-1, col]
+        radial = radius[::-1, col]
+        h = y[:, col]
+        filtered[:, col] = (
+            np.interp(h - .082, heights, radial)
+            + 2 * np.interp(h - .041, heights, radial)
+            + 2 * np.interp(h + .041, heights, radial)
+            + np.interp(h + .082, heights, radial)
+        ) / 6
+    side = ease((np.abs(angle) - .91) / .30) * (1 - ease((np.abs(angle) - 1.80) / .33))
+    length = ease((y - y[-1]) / .080) * (1 - ease((y - 1.51) / .14))
+    radius += .95 * side * length * np.clip(filtered - radius, -.008, .008)
+    points[:, :, 0] = radius * np.sin(azimuth)
+    points[:, :, 2] = CENTER[2] + radius * np.cos(azimuth)
+
+
+def make_hair(clear_edges=False):
     source, angle = source_surface()
+    if clear_edges:
+        soften_side_fall(source, angle)
     crown = crown_to_split(source, angle)
     rows, count, _ = crown.shape
     vertices = crown.reshape(-1, 3).tolist()
@@ -179,7 +215,7 @@ def make_hair():
     order = np.argsort(u)
     for index, (left, right) in enumerate(zip(BOUNDS[:-1], BOUNDS[1:])):
         cols = order[(u[order] >= left - 1e-8) & (u[order] <= right + 1e-8)]
-        add_lock(vertices, faces, weights, source, crown, cols, count, index)
+        add_lock(vertices, faces, weights, source, crown, cols, count, index, clear_edges)
 
     name = "Hair / rounded long fringe"
     mesh = bpy.data.meshes.new(name)

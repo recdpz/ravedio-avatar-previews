@@ -67,9 +67,9 @@ def interpolate_map(field, direction):
     return top * (1 - fy) + bottom * fy
 
 
-def fit_mesh(hat):
+def fit_mesh(hat, output_dir=REV / "assets", make=make_hair, finish=None):
     bpy.ops.wm.read_factory_settings(use_empty=True)
-    make_hair()
+    make()
     obj = bpy.context.collection.objects[0]
     coords = np.empty((len(obj.data.vertices), 3), dtype=np.float32)
     obj.data.vertices.foreach_get("co", coords.ravel())
@@ -104,13 +104,15 @@ def fit_mesh(hat):
     obj.data.vertices.foreach_set("co", coords.ravel())
     obj.data.update()
 
-    path = REV / "assets" / f"long-{hat}.glb"
+    if finish is not None:
+        finish(obj)
+    path = output_dir / f"long-{hat}.glb"
     bpy.ops.export_scene.gltf(filepath=str(path), export_format="GLB",
                               export_apply=True, export_materials="EXPORT")
     return path
 
 
-def ombre(source, hat):
+def ombre(source, hat, output_dir=REV / "assets"):
     model, data = read_glb(source)
     # The approved cut and all fitted exports are one mesh in shared glTF
     # coordinates. Only the color accessor and base factor are changed.
@@ -139,7 +141,7 @@ def ombre(source, hat):
     material["name"] = "Hair / chestnut ombre"
     material["pbrMetallicRoughness"]["baseColorFactor"] = [1, 1, 1, 1]
     model["buffers"][0]["byteLength"] = len(data)
-    path = REV / "assets" / f"long-{hat}-ombre.glb"
+    path = output_dir / f"long-{hat}-ombre.glb"
     write_glb(path, model, data)
     return path
 
