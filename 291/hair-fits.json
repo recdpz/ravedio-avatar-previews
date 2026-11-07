@@ -1,0 +1,80 @@
+{
+  "Feminine": {
+    "space-buns": {
+      "label": "Space Buns",
+      "note": "Half-up buns with loose waves behind the shoulders.",
+      "fits": {
+        "none": {
+          "default": "../276/assets/space-buns-none.glb",
+          "ombre": "../276/assets/space-buns-none-ombre.glb"
+        },
+        "cap": {
+          "default": "../276/assets/space-buns-cap.glb",
+          "ombre": "../276/assets/space-buns-cap-ombre.glb"
+        },
+        "beanie": {
+          "default": "../276/assets/space-buns-beanie.glb",
+          "ombre": "../276/assets/space-buns-beanie-ombre.glb"
+        },
+        "bucket": {
+          "default": "../276/assets/space-buns-bucket.glb",
+          "ombre": "../276/assets/space-buns-bucket-ombre.glb"
+        },
+        "cowboy": {
+          "default": "../276/assets/space-buns-cowboy.glb",
+          "ombre": "../276/assets/space-buns-cowboy-ombre.glb"
+        },
+        "headband": {
+          "default": "../276/assets/space-buns-headband.glb",
+          "ombre": "../276/assets/space-buns-headband-ombre.glb"
+        },
+        "ears": {
+          "default": "../276/assets/space-buns-ears.glb",
+          "ombre": "../276/assets/space-buns-ears-ombre.glb"
+        },
+        "pashmina": {
+          "default": "../276/assets/space-buns-pashmina.glb",
+          "ombre": "../276/assets/space-buns-pashmina-ombre.glb"
+        }
+      }
+    },
+    "side-sweep": {
+      "label": "Long Bangs",
+      "note": "Rounded bangs with longer, separated layers behind the shoulders.",
+      "fits": {
+        "none": {
+          "default": "../290/assets/long.glb",
+          "ombre": "./assets/long-none-ombre.glb"
+        },
+        "cap": {
+          "default": "./assets/long-cap.glb",
+          "ombre": "./assets/long-cap-ombre.glb"
+        },
+        "beanie": {
+          "default": "./assets/long-beanie.glb",
+          "ombre": "./assets/long-beanie-ombre.glb"
+        },
+        "bucket": {
+          "default": "./assets/long-bucket.glb",
+          "ombre": "./assets/long-bucket-ombre.glb"
+        },
+        "cowboy": {
+          "default": "./assets/long-cowboy.glb",
+          "ombre": "./assets/long-cowboy-ombre.glb"
+        },
+        "headband": {
+          "default": "./assets/long-headband.glb",
+          "ombre": "./assets/long-headband-ombre.glb"
+        },
+        "ears": {
+          "default": "./assets/long-ears.glb",
+          "ombre": "./assets/long-ears-ombre.glb"
+        },
+        "pashmina": {
+          "default": "./assets/long-pashmina.glb",
+          "ombre": "./assets/long-pashmina-ombre.glb"
+        }
+      }
+    }
+  }
+}

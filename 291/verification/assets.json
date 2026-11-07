@@ -1,0 +1,211 @@
+{
+  "approved_source": "290/assets/long.glb",
+  "approved_source_sha256": "81fdba0696c98c6ef360c0080080e04ad08829a4cf197e33aaeb0b99d87142f0",
+  "fits": {
+    "none": {
+      "triangle_count": 207576,
+      "same_geometry_both_colors": true,
+      "headwear_intersections": [],
+      "top_intersections": {
+        "bandeau": 0,
+        "triangle": 0,
+        "strappy": 0,
+        "tshirt": 0,
+        "jersey": 0,
+        "open": 0,
+        "tank": 0,
+        "sweatshirt": 0
+      },
+      "sha256": {
+        "default": "81fdba0696c98c6ef360c0080080e04ad08829a4cf197e33aaeb0b99d87142f0",
+        "ombre": "ed5cf23e069f907987097f6224dc8876e3b4a969ebbb12dc1855ed3b16866337"
+      },
+      "bytes": {
+        "default": 5003232,
+        "ombre": 6258820
+      }
+    },
+    "cap": {
+      "triangle_count": 207576,
+      "same_geometry_both_colors": true,
+      "headwear_intersections": [
+        0
+      ],
+      "top_intersections": {
+        "bandeau": 0,
+        "triangle": 0,
+        "strappy": 0,
+        "tshirt": 0,
+        "jersey": 0,
+        "open": 0,
+        "tank": 0,
+        "sweatshirt": 0
+      },
+      "sha256": {
+        "default": "8ee31ea8a0c0839d1d0098275bf614368221c1ec185a0350535f84ec83712525",
+        "ombre": "95e3cd232acc108bc09dc36d8e7950175fb7ed03f55415668785e0707bab7af8"
+      },
+      "bytes": {
+        "default": 5003228,
+        "ombre": 6258820
+      }
+    },
+    "beanie": {
+      "triangle_count": 207576,
+      "same_geometry_both_colors": true,
+      "headwear_intersections": [
+        0
+      ],
+      "top_intersections": {
+        "bandeau": 0,
+        "triangle": 0,
+        "strappy": 0,
+        "tshirt": 0,
+        "jersey": 0,
+        "open": 0,
+        "tank": 0,
+        "sweatshirt": 0
+      },
+      "sha256": {
+        "default": "424a8bbe33dfed391bf51eb56aefa301dd47b90629c2e1755c2ec1492dfd3d0a",
+        "ombre": "5114d8f9e6f70b83ce04f9f416cf11618196c8800809b05eee26afc1dc2f5100"
+      },
+      "bytes": {
+        "default": 5003232,
+        "ombre": 6258820
+      }
+    },
+    "bucket": {
+      "triangle_count": 207576,
+      "same_geometry_both_colors": true,
+      "headwear_intersections": [
+        0
+      ],
+      "top_intersections": {
+        "bandeau": 0,
+        "triangle": 0,
+        "strappy": 0,
+        "tshirt": 0,
+        "jersey": 0,
+        "open": 0,
+        "tank": 0,
+        "sweatshirt": 0
+      },
+      "sha256": {
+        "default": "1879321b0d1447a53900629a73beef9c4a01033d466ed3b8ac293b37b6f1195e",
+        "ombre": "230ead15fca4241b6d7c4fe91a20ac2581c512c819f06d3314bbba071a4a58d3"
+      },
+      "bytes": {
+        "default": 5003228,
+        "ombre": 6258820
+      }
+    },
+    "cowboy": {
+      "triangle_count": 207576,
+      "same_geometry_both_colors": true,
+      "headwear_intersections": [
+        0
+      ],
+      "top_intersections": {
+        "bandeau": 0,
+        "triangle": 0,
+        "strappy": 0,
+        "tshirt": 0,
+        "jersey": 0,
+        "open": 0,
+        "tank": 0,
+        "sweatshirt": 0
+      },
+      "sha256": {
+        "default": "16c5b111e938a41e3ff908843e059fe176efabc6f69665f9b8e296a42b1b65d3",
+        "ombre": "c167414c919cb34be3e7355a2a54d2b1073c51acf6ec4b302204e3abf6ac9f07"
+      },
+      "bytes": {
+        "default": 5003232,
+        "ombre": 6258820
+      }
+    },
+    "headband": {
+      "triangle_count": 207576,
+      "same_geometry_both_colors": true,
+      "headwear_intersections": [
+        0
+      ],
+      "top_intersections": {
+        "bandeau": 0,
+        "triangle": 0,
+        "strappy": 0,
+        "tshirt": 0,
+        "jersey": 0,
+        "open": 0,
+        "tank": 0,
+        "sweatshirt": 0
+      },
+      "sha256": {
+        "default": "4435c54d57b4e3215bba8d50ac30646dd7a50b2edeacb2032da0869f4a0bb665",
+        "ombre": "9739d5e7abbf7dd83c89e6f24302874e04370da900c89fe7b58ad92d498bdca5"
+      },
+      "bytes": {
+        "default": 5003232,
+        "ombre": 6258820
+      }
+    },
+    "ears": {
+      "triangle_count": 207576,
+      "same_geometry_both_colors": true,
+      "headwear_intersections": [
+        0
+      ],
+      "top_intersections": {
+        "bandeau": 0,
+        "triangle": 0,
+        "strappy": 0,
+        "tshirt": 0,
+        "jersey": 0,
+        "open": 0,
+        "tank": 0,
+        "sweatshirt": 0
+      },
+      "sha256": {
+        "default": "f5a7da28de64e39726ddc8a64330f69e8e64c8e726919661f8e4e5d515723797",
+        "ombre": "7e54665ed366cb43af64942260947855349a7e984dca74404ae94ebd18e86016"
+      },
+      "bytes": {
+        "default": 5003232,
+        "ombre": 6258820
+      }
+    },
+    "pashmina": {
+      "triangle_count": 207576,
+      "same_geometry_both_colors": true,
+      "headwear_intersections": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "top_intersections": {
+        "bandeau": 0,
+        "triangle": 0,
+        "strappy": 0,
+        "tshirt": 0,
+        "jersey": 0,
+        "open": 0,
+        "tank": 0,
+        "sweatshirt": 0
+      },
+      "sha256": {
+        "default": "7459ef4c0f85dbc156d6b074ce3842ad998c297d5b9dbd5bd4500429246c2720",
+        "ombre": "1d116a9acf6dcd5a1afb82bb770f3e224f76e30a38fbc1713d5b92325da6cda4"
+      },
+      "bytes": {
+        "default": 5003228,
+        "ombre": 6258816
+      }
+    }
+  }
+}

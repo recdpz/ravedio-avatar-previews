@@ -1,0 +1,39 @@
+{
+  "revision": 291,
+  "headwear": [
+    "none",
+    "cap",
+    "beanie",
+    "bucket",
+    "cowboy",
+    "headband",
+    "ears",
+    "pashmina"
+  ],
+  "defaultAngles": 8,
+  "ombreAngles": 2,
+  "colors": [
+    "default",
+    "black",
+    "darkbrown",
+    "auburn",
+    "blonde",
+    "platinum",
+    "pink",
+    "purple",
+    "ombre"
+  ],
+  "chatPortraitSize": 120,
+  "pashminaTops": [
+    "bandeau",
+    "triangle",
+    "strappy",
+    "tshirt",
+    "jersey",
+    "open",
+    "tank",
+    "sweatshirt"
+  ],
+  "mobileSelectorAndClothToggle": true,
+  "unrelatedFitsCompared": 3
+}
