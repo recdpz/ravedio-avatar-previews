@@ -68,10 +68,14 @@ def release_back(points, hat):
     return CENTER + np.stack((r*np.sin(turn),new_y,r*np.cos(turn)),axis=-1)
 
 
-def bangs_body(hat):
-    a, t = np.meshgrid(np.linspace(-math.pi,math.pi,193)[:-1], np.linspace(0,1,108))
+def bangs_body(hat, hairline=None, angles=None):
+    if angles is None:
+        angles = np.linspace(-math.pi,math.pi,193)[:-1]
+    a, t = np.meshgrid(angles,np.linspace(0,1,108))
     shoulder = ease((np.abs(a)-.54)/1.01)
     front = 2.080 + .009*np.sin(a*14+.5) + .004*np.sin(a*31)
+    if hairline is not None:
+        front = hairline(a,front)
     end = front - .706*shoulder
     end += shoulder*(.029*np.sin(a*3+.8) + .017*np.sin(a*8-.9) + .012*np.cos(a*13))
     if hat == "pashmina":
@@ -234,7 +238,7 @@ def base_buns(hat, ombre):
     return ordinary(CAT["ombre"][path] if ombre else path)
 
 
-def export_buns(path, hat, ombre):
+def export_buns(path, hat, ombre, shape=release_back):
     source = base_buns(hat,ombre)
     model, binary = read_glb(source)
     for node, rotation, offset in node_transforms(model):
@@ -244,10 +248,10 @@ def export_buns(path, hat, ombre):
             pos, normal = (primitive["attributes"][k] for k in ("POSITION","NORMAL"))
             p,n = vectors(model,binary,pos),vectors(model,binary,normal)
             before = p @ rotation.T+offset
-            after = release_back(before,hat)
+            after = shape(before,hat)
             changed = np.linalg.norm(after-before,axis=1) > 1.e-10
             p[changed] = (after[changed]-offset) @ rotation
-            n[changed] = warp_normals(lambda q: release_back(q,hat),
+            n[changed] = warp_normals(lambda q: shape(q,hat),
                                       before[changed],n[changed] @ rotation.T) @ rotation
             model["accessors"][pos].update(min=p.min(axis=0).tolist(),max=p.max(axis=0).tolist())
             if ombre:
@@ -263,23 +267,25 @@ def export_buns(path, hat, ombre):
     write_glb(path,model,binary)
 
 
-def export_hair(style, hat, ombre, cloth):
-    path = ASSETS/(style+"-"+hat+("-ombre" if ombre else "")+".glb")
+def export_hair(style, hat, ombre, cloth, *, output=ASSETS, bun_shape=release_back,
+                lob_shape=bangs_body, fringe_shape=fringe):
+    path = output/(style+"-"+hat+("-ombre" if ombre else "")+".glb")
     if style == "space-buns":
-        export_buns(path,hat,ombre)
+        export_buns(path,hat,ombre,bun_shape)
     else:
         bpy.ops.wm.read_factory_settings(use_empty=True)
-        p, fraction, shade = bangs_body(hat)
+        p, fraction, shade = lob_shape(hat)
         p = fit_crown(p,cloth,hat)
         material = hair_material(ombre,BANGS_COLOR,.32)
         shell("Hair / layered lob",p,fraction,shade,material,ombre,BANGS_COLOR,loop=True)
-        fringe(material,ombre,hat,cloth)
+        if fringe_shape is not None:
+            fringe_shape(material,ombre,hat,cloth)
         bpy.ops.export_scene.gltf(filepath=str(path),export_format="GLB",export_apply=True,
                                   export_materials="EXPORT",export_image_format="AUTO")
     return path
 
 
-def main():
+def build_catalogue(revision=REV, **shapes):
     result = {}
     for style,label,note in [
         ("space-buns","Space Buns","Half-up buns with loose waves behind the shoulders."),
@@ -294,12 +300,12 @@ def main():
             cloth = surface(cloth_path) if cloth_path else None
             fit = {}
             for ombre in (False,True):
-                path = export_hair(style,hat,ombre,cloth)
+                path = export_hair(style,hat,ombre,cloth,output=revision/'assets',**shapes)
                 fit["ombre" if ombre else "default"] = "./assets/"+path.name
             fits[hat] = fit
         result[style] = {"label":label,"note":note,"fits":fits}
-    (REV/"hair-fits.json").write_text(json.dumps({"Feminine":result},indent=2)+"\n",encoding="utf8")
+    (revision/"hair-fits.json").write_text(json.dumps({"Feminine":result},indent=2)+"\n",encoding="utf8")
 
 
 if __name__ == "__main__":
-    main()
+    build_catalogue()

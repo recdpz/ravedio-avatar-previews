@@ -7,7 +7,7 @@ import numpy as np
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from build_hair import ASSETS, HATS, REV, TOPS, base_buns, cloth_for, ordinary, surface
+from build_hair import HATS, REV, TOPS, base_buns, cloth_for, ordinary, surface
 from build_bandanas import sha, triangles
 from bake_catalogue import node_transforms, read_glb, vectors
 
@@ -28,14 +28,14 @@ def geometry(path):
     return meshes
 
 
-def main():
-    fits = json.loads((REV/"hair-fits.json").read_text(encoding="utf8"))["Feminine"]
+def verify(revision=REV):
+    fits = json.loads((revision/"hair-fits.json").read_text(encoding="utf8"))["Feminine"]
     report = {}
     for style,entry in fits.items():
         assert set(entry["fits"]) == set(HATS)
         for hat,fit in entry["fits"].items():
-            paths = {color:(REV/file).resolve() for color,file in fit.items()}
-            assert all(path.parent == ASSETS for path in paths.values())
+            paths = {color:(revision/file).resolve() for color,file in fit.items()}
+            assert all(path.parent == revision/'assets' for path in paths.values())
             original, ombre = (geometry(paths[color]) for color in ("default","ombre"))
             assert original.keys() == ombre.keys(), (style,hat)
             for part, arrays in original.items():
@@ -64,9 +64,9 @@ def main():
                 assert pairs == 0, pairs
                 item["bandana_overlap_pairs"] = pairs
             report[style+"--"+hat] = item
-    (REV/"verification/assets.json").write_text(json.dumps(report,indent=2)+"\n",encoding="utf8",newline="\n")
+    (revision/"verification/assets.json").write_text(json.dumps(report,indent=2)+"\n",encoding="utf8",newline="\n")
     print(f"Verified {len(report)} GLB fit pairs and all pashmina top variants")
 
 
 if __name__ == "__main__":
-    main()
+    verify(Path(sys.argv[-1]).resolve() if '--' in sys.argv else REV)

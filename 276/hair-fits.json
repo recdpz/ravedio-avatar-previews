@@ -1,0 +1,80 @@
+{
+  "Feminine": {
+    "space-buns": {
+      "label": "Space Buns",
+      "note": "Half-up buns with loose waves behind the shoulders.",
+      "fits": {
+        "none": {
+          "default": "./assets/space-buns-none.glb",
+          "ombre": "./assets/space-buns-none-ombre.glb"
+        },
+        "cap": {
+          "default": "./assets/space-buns-cap.glb",
+          "ombre": "./assets/space-buns-cap-ombre.glb"
+        },
+        "beanie": {
+          "default": "./assets/space-buns-beanie.glb",
+          "ombre": "./assets/space-buns-beanie-ombre.glb"
+        },
+        "bucket": {
+          "default": "./assets/space-buns-bucket.glb",
+          "ombre": "./assets/space-buns-bucket-ombre.glb"
+        },
+        "cowboy": {
+          "default": "./assets/space-buns-cowboy.glb",
+          "ombre": "./assets/space-buns-cowboy-ombre.glb"
+        },
+        "headband": {
+          "default": "./assets/space-buns-headband.glb",
+          "ombre": "./assets/space-buns-headband-ombre.glb"
+        },
+        "ears": {
+          "default": "./assets/space-buns-ears.glb",
+          "ombre": "./assets/space-buns-ears-ombre.glb"
+        },
+        "pashmina": {
+          "default": "./assets/space-buns-pashmina.glb",
+          "ombre": "./assets/space-buns-pashmina-ombre.glb"
+        }
+      }
+    },
+    "side-sweep": {
+      "label": "Wispy Bangs",
+      "note": "A shoulder-length cut with a light, separated fringe.",
+      "fits": {
+        "none": {
+          "default": "./assets/side-sweep-none.glb",
+          "ombre": "./assets/side-sweep-none-ombre.glb"
+        },
+        "cap": {
+          "default": "./assets/side-sweep-cap.glb",
+          "ombre": "./assets/side-sweep-cap-ombre.glb"
+        },
+        "beanie": {
+          "default": "./assets/side-sweep-beanie.glb",
+          "ombre": "./assets/side-sweep-beanie-ombre.glb"
+        },
+        "bucket": {
+          "default": "./assets/side-sweep-bucket.glb",
+          "ombre": "./assets/side-sweep-bucket-ombre.glb"
+        },
+        "cowboy": {
+          "default": "./assets/side-sweep-cowboy.glb",
+          "ombre": "./assets/side-sweep-cowboy-ombre.glb"
+        },
+        "headband": {
+          "default": "./assets/side-sweep-headband.glb",
+          "ombre": "./assets/side-sweep-headband-ombre.glb"
+        },
+        "ears": {
+          "default": "./assets/side-sweep-none.glb",
+          "ombre": "./assets/side-sweep-none-ombre.glb"
+        },
+        "pashmina": {
+          "default": "./assets/side-sweep-pashmina.glb",
+          "ombre": "./assets/side-sweep-pashmina-ombre.glb"
+        }
+      }
+    }
+  }
+}
