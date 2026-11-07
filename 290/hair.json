@@ -1,0 +1,14 @@
+{
+  "Feminine": {
+    "side-sweep": {
+      "label": "Rounded long fringe",
+      "note": "Bare-head review",
+      "fits": {
+        "none": {
+          "default": "./assets/long.glb",
+          "ombre": "./assets/long.glb"
+        }
+      }
+    }
+  }
+}
