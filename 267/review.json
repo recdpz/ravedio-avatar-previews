@@ -1,0 +1,42 @@
+{
+  "scope": "Spherical-head size/lift exploration; not adoption or full-catalogue bake",
+  "sizes": [
+    1,
+    0.95,
+    0.92,
+    0.9,
+    0.88
+  ],
+  "lift_percent_range": [
+    0,
+    3
+  ],
+  "default": {
+    "scale": 0.95,
+    "extra_lift_percent": 1
+  },
+  "sources_reused": "266 ordinary GLBs; exact source bytes preserved",
+  "body_clothing_changed": false,
+  "checks": {
+    "body_angle_size_pairs": 288,
+    "small_portrait_pairs": 64,
+    "numeric_variant_checks": 36,
+    "reset_exact_cases": 4,
+    "mobile_widths": [
+      320,
+      390,
+      844
+    ],
+    "fit_invariant_variants": 60,
+    "pointer_native_control_checks": 4,
+    "reset_baseline_pixel_difference": 0
+  },
+  "visual_refinement": "Initial uniform scaling of long hair lifted its lower ends; final blend preserves torso-fitted lower sections while scaling the crown. Pashmina upper/lower continuity reviewed.",
+  "status": "Exploration for owner selection; final asset bakes follow a selected size/lift.",
+  "findings": [
+    "5-8% are the initial artistic preference;10-12% are included for a stronger change.",
+    "Long-hair lower sections retain body contact rather than becoming shorter/floating when the head scales.",
+    "Head-mounted parts share a pivot and transform; draped parts have continuous fitted transitions.",
+    "Body/clothing bounds remain unchanged. Sphere radius and unit normals pass the sampled parameter checks; lower drape contacts remain exact."
+  ]
+}
