@@ -1,0 +1,544 @@
+{
+  "checks": [
+    {
+      "build": "Feminine",
+      "headwear": "none",
+      "scale": 1,
+      "lift": 0,
+      "maxNormalError": 1.5022197752401212e-7,
+      "clearance": null,
+      "attachments_match": true
+    },
+    {
+      "build": "Feminine",
+      "headwear": "none",
+      "scale": 1,
+      "lift": 3,
+      "maxNormalError": 1.5022197752401212e-7,
+      "clearance": null,
+      "attachments_match": true
+    },
+    {
+      "build": "Feminine",
+      "headwear": "none",
+      "scale": 0.95,
+      "lift": 0,
+      "maxNormalError": 1.5022197752401212e-7,
+      "clearance": null,
+      "attachments_match": true
+    },
+    {
+      "build": "Feminine",
+      "headwear": "none",
+      "scale": 0.95,
+      "lift": 3,
+      "maxNormalError": 1.5022197752401212e-7,
+      "clearance": null,
+      "attachments_match": true
+    },
+    {
+      "build": "Feminine",
+      "headwear": "none",
+      "scale": 0.92,
+      "lift": 0,
+      "maxNormalError": 1.5022197752401212e-7,
+      "clearance": null,
+      "attachments_match": true
+    },
+    {
+      "build": "Feminine",
+      "headwear": "none",
+      "scale": 0.92,
+      "lift": 3,
+      "maxNormalError": 1.5022197752401212e-7,
+      "clearance": null,
+      "attachments_match": true
+    },
+    {
+      "build": "Feminine",
+      "headwear": "none",
+      "scale": 0.9,
+      "lift": 0,
+      "maxNormalError": 1.5022197752401212e-7,
+      "clearance": null,
+      "attachments_match": true
+    },
+    {
+      "build": "Feminine",
+      "headwear": "none",
+      "scale": 0.9,
+      "lift": 3,
+      "maxNormalError": 1.5022197752401212e-7,
+      "clearance": null,
+      "attachments_match": true
+    },
+    {
+      "build": "Feminine",
+      "headwear": "none",
+      "scale": 0.88,
+      "lift": 0,
+      "maxNormalError": 1.5022197752401212e-7,
+      "clearance": null,
+      "attachments_match": true
+    },
+    {
+      "build": "Feminine",
+      "headwear": "none",
+      "scale": 0.88,
+      "lift": 3,
+      "maxNormalError": 1.5022197752401212e-7,
+      "clearance": null,
+      "attachments_match": true
+    },
+    {
+      "build": "Feminine",
+      "headwear": "cap",
+      "scale": 1,
+      "lift": 0,
+      "maxNormalError": 1.5022197752401212e-7,
+      "clearance": null,
+      "attachments_match": true
+    },
+    {
+      "build": "Feminine",
+      "headwear": "cap",
+      "scale": 1,
+      "lift": 3,
+      "maxNormalError": 1.5022197752401212e-7,
+      "clearance": null,
+      "attachments_match": true
+    },
+    {
+      "build": "Feminine",
+      "headwear": "cap",
+      "scale": 0.95,
+      "lift": 0,
+      "maxNormalError": 1.5022197752401212e-7,
+      "clearance": null,
+      "attachments_match": true
+    },
+    {
+      "build": "Feminine",
+      "headwear": "cap",
+      "scale": 0.95,
+      "lift": 3,
+      "maxNormalError": 1.5022197752401212e-7,
+      "clearance": null,
+      "attachments_match": true
+    },
+    {
+      "build": "Feminine",
+      "headwear": "cap",
+      "scale": 0.92,
+      "lift": 0,
+      "maxNormalError": 1.5022197752401212e-7,
+      "clearance": null,
+      "attachments_match": true
+    },
+    {
+      "build": "Feminine",
+      "headwear": "cap",
+      "scale": 0.92,
+      "lift": 3,
+      "maxNormalError": 1.5022197752401212e-7,
+      "clearance": null,
+      "attachments_match": true
+    },
+    {
+      "build": "Feminine",
+      "headwear": "cap",
+      "scale": 0.9,
+      "lift": 0,
+      "maxNormalError": 1.5022197752401212e-7,
+      "clearance": null,
+      "attachments_match": true
+    },
+    {
+      "build": "Feminine",
+      "headwear": "cap",
+      "scale": 0.9,
+      "lift": 3,
+      "maxNormalError": 1.5022197752401212e-7,
+      "clearance": null,
+      "attachments_match": true
+    },
+    {
+      "build": "Feminine",
+      "headwear": "cap",
+      "scale": 0.88,
+      "lift": 0,
+      "maxNormalError": 1.5022197752401212e-7,
+      "clearance": null,
+      "attachments_match": true
+    },
+    {
+      "build": "Feminine",
+      "headwear": "cap",
+      "scale": 0.88,
+      "lift": 3,
+      "maxNormalError": 1.5022197752401212e-7,
+      "clearance": null,
+      "attachments_match": true
+    },
+    {
+      "build": "Feminine",
+      "headwear": "pashmina",
+      "scale": 1,
+      "lift": 0,
+      "maxNormalError": 1.5022197752401212e-7,
+      "clearance": 0.010066069097987351,
+      "attachments_match": true
+    },
+    {
+      "build": "Feminine",
+      "headwear": "pashmina",
+      "scale": 1,
+      "lift": 3,
+      "maxNormalError": 1.5022197752401212e-7,
+      "clearance": 0.03862741207067322,
+      "attachments_match": true
+    },
+    {
+      "build": "Feminine",
+      "headwear": "pashmina",
+      "scale": 0.95,
+      "lift": 0,
+      "maxNormalError": 1.5022197752401212e-7,
+      "clearance": 0.03406606909798737,
+      "attachments_match": true
+    },
+    {
+      "build": "Feminine",
+      "headwear": "pashmina",
+      "scale": 0.95,
+      "lift": 3,
+      "maxNormalError": 1.5022197752401212e-7,
+      "clearance": 0.05908660741874061,
+      "attachments_match": true
+    },
+    {
+      "build": "Feminine",
+      "headwear": "pashmina",
+      "scale": 0.92,
+      "lift": 0,
+      "maxNormalError": 1.5022197752401212e-7,
+      "clearance": 0.04846606909798734,
+      "attachments_match": true
+    },
+    {
+      "build": "Feminine",
+      "headwear": "pashmina",
+      "scale": 0.92,
+      "lift": 3,
+      "maxNormalError": 1.5022197752401212e-7,
+      "clearance": 0.05722071627165437,
+      "attachments_match": true
+    },
+    {
+      "build": "Feminine",
+      "headwear": "pashmina",
+      "scale": 0.9,
+      "lift": 0,
+      "maxNormalError": 1.5022197752401212e-7,
+      "clearance": 0.05597678125693767,
+      "attachments_match": true
+    },
+    {
+      "build": "Feminine",
+      "headwear": "pashmina",
+      "scale": 0.9,
+      "lift": 3,
+      "maxNormalError": 1.5022197752401212e-7,
+      "clearance": 0.05597678102217102,
+      "attachments_match": true
+    },
+    {
+      "build": "Feminine",
+      "headwear": "pashmina",
+      "scale": 0.88,
+      "lift": 0,
+      "maxNormalError": 1.5022197752401212e-7,
+      "clearance": 0.05473284654827815,
+      "attachments_match": true
+    },
+    {
+      "build": "Feminine",
+      "headwear": "pashmina",
+      "scale": 0.88,
+      "lift": 3,
+      "maxNormalError": 1.5022197752401212e-7,
+      "clearance": 0.0547328463135105,
+      "attachments_match": true
+    },
+    {
+      "build": "Masculine",
+      "headwear": "none",
+      "scale": 1,
+      "lift": 0,
+      "maxNormalError": 1.4951567939291976e-7,
+      "clearance": null,
+      "attachments_match": true
+    },
+    {
+      "build": "Masculine",
+      "headwear": "none",
+      "scale": 1,
+      "lift": 3,
+      "maxNormalError": 1.4951567939291976e-7,
+      "clearance": null,
+      "attachments_match": true
+    },
+    {
+      "build": "Masculine",
+      "headwear": "none",
+      "scale": 0.95,
+      "lift": 0,
+      "maxNormalError": 1.4951567939291976e-7,
+      "clearance": null,
+      "attachments_match": true
+    },
+    {
+      "build": "Masculine",
+      "headwear": "none",
+      "scale": 0.95,
+      "lift": 3,
+      "maxNormalError": 1.4951567939291976e-7,
+      "clearance": null,
+      "attachments_match": true
+    },
+    {
+      "build": "Masculine",
+      "headwear": "none",
+      "scale": 0.92,
+      "lift": 0,
+      "maxNormalError": 1.4951567939291976e-7,
+      "clearance": null,
+      "attachments_match": true
+    },
+    {
+      "build": "Masculine",
+      "headwear": "none",
+      "scale": 0.92,
+      "lift": 3,
+      "maxNormalError": 1.4951567939291976e-7,
+      "clearance": null,
+      "attachments_match": true
+    },
+    {
+      "build": "Masculine",
+      "headwear": "none",
+      "scale": 0.9,
+      "lift": 0,
+      "maxNormalError": 1.4951567939291976e-7,
+      "clearance": null,
+      "attachments_match": true
+    },
+    {
+      "build": "Masculine",
+      "headwear": "none",
+      "scale": 0.9,
+      "lift": 3,
+      "maxNormalError": 1.4951567939291976e-7,
+      "clearance": null,
+      "attachments_match": true
+    },
+    {
+      "build": "Masculine",
+      "headwear": "none",
+      "scale": 0.88,
+      "lift": 0,
+      "maxNormalError": 1.4951567939291976e-7,
+      "clearance": null,
+      "attachments_match": true
+    },
+    {
+      "build": "Masculine",
+      "headwear": "none",
+      "scale": 0.88,
+      "lift": 3,
+      "maxNormalError": 1.4951567939291976e-7,
+      "clearance": null,
+      "attachments_match": true
+    },
+    {
+      "build": "Masculine",
+      "headwear": "cap",
+      "scale": 1,
+      "lift": 0,
+      "maxNormalError": 1.4951567939291976e-7,
+      "clearance": null,
+      "attachments_match": true
+    },
+    {
+      "build": "Masculine",
+      "headwear": "cap",
+      "scale": 1,
+      "lift": 3,
+      "maxNormalError": 1.4951567939291976e-7,
+      "clearance": null,
+      "attachments_match": true
+    },
+    {
+      "build": "Masculine",
+      "headwear": "cap",
+      "scale": 0.95,
+      "lift": 0,
+      "maxNormalError": 1.4951567939291976e-7,
+      "clearance": null,
+      "attachments_match": true
+    },
+    {
+      "build": "Masculine",
+      "headwear": "cap",
+      "scale": 0.95,
+      "lift": 3,
+      "maxNormalError": 1.4951567939291976e-7,
+      "clearance": null,
+      "attachments_match": true
+    },
+    {
+      "build": "Masculine",
+      "headwear": "cap",
+      "scale": 0.92,
+      "lift": 0,
+      "maxNormalError": 1.4951567939291976e-7,
+      "clearance": null,
+      "attachments_match": true
+    },
+    {
+      "build": "Masculine",
+      "headwear": "cap",
+      "scale": 0.92,
+      "lift": 3,
+      "maxNormalError": 1.4951567939291976e-7,
+      "clearance": null,
+      "attachments_match": true
+    },
+    {
+      "build": "Masculine",
+      "headwear": "cap",
+      "scale": 0.9,
+      "lift": 0,
+      "maxNormalError": 1.4951567939291976e-7,
+      "clearance": null,
+      "attachments_match": true
+    },
+    {
+      "build": "Masculine",
+      "headwear": "cap",
+      "scale": 0.9,
+      "lift": 3,
+      "maxNormalError": 1.4951567939291976e-7,
+      "clearance": null,
+      "attachments_match": true
+    },
+    {
+      "build": "Masculine",
+      "headwear": "cap",
+      "scale": 0.88,
+      "lift": 0,
+      "maxNormalError": 1.4951567939291976e-7,
+      "clearance": null,
+      "attachments_match": true
+    },
+    {
+      "build": "Masculine",
+      "headwear": "cap",
+      "scale": 0.88,
+      "lift": 3,
+      "maxNormalError": 1.4951567939291976e-7,
+      "clearance": null,
+      "attachments_match": true
+    },
+    {
+      "build": "Masculine",
+      "headwear": "pashmina",
+      "scale": 1,
+      "lift": 0,
+      "maxNormalError": 1.4951567939291976e-7,
+      "clearance": 0.01011449947130122,
+      "attachments_match": true
+    },
+    {
+      "build": "Masculine",
+      "headwear": "pashmina",
+      "scale": 1,
+      "lift": 3,
+      "maxNormalError": 1.4951567939291976e-7,
+      "clearance": 0.03867082573673064,
+      "attachments_match": true
+    },
+    {
+      "build": "Masculine",
+      "headwear": "pashmina",
+      "scale": 0.95,
+      "lift": 0,
+      "maxNormalError": 1.4951567939291976e-7,
+      "clearance": 0.03411449947130124,
+      "attachments_match": true
+    },
+    {
+      "build": "Masculine",
+      "headwear": "pashmina",
+      "scale": 0.95,
+      "lift": 3,
+      "maxNormalError": 1.4951567939291976e-7,
+      "clearance": 0.04203685998103601,
+      "attachments_match": true
+    },
+    {
+      "build": "Masculine",
+      "headwear": "pashmina",
+      "scale": 0.92,
+      "lift": 0,
+      "maxNormalError": 1.4951567939291976e-7,
+      "clearance": 0.04070938614457387,
+      "attachments_match": true
+    },
+    {
+      "build": "Masculine",
+      "headwear": "pashmina",
+      "scale": 0.92,
+      "lift": 3,
+      "maxNormalError": 1.4951567939291976e-7,
+      "clearance": 0.04070938549393749,
+      "attachments_match": true
+    },
+    {
+      "build": "Masculine",
+      "headwear": "pashmina",
+      "scale": 0.9,
+      "lift": 0,
+      "maxNormalError": 1.4951567939291976e-7,
+      "clearance": 0.03982439214930761,
+      "attachments_match": true
+    },
+    {
+      "build": "Masculine",
+      "headwear": "pashmina",
+      "scale": 0.9,
+      "lift": 3,
+      "maxNormalError": 1.4951567939291976e-7,
+      "clearance": 0.03982439876024357,
+      "attachments_match": true
+    },
+    {
+      "build": "Masculine",
+      "headwear": "pashmina",
+      "scale": 0.88,
+      "lift": 0,
+      "maxNormalError": 1.4951567939291976e-7,
+      "clearance": 0.03893940541560931,
+      "attachments_match": true
+    },
+    {
+      "build": "Masculine",
+      "headwear": "pashmina",
+      "scale": 0.88,
+      "lift": 3,
+      "maxNormalError": 1.4951567939291976e-7,
+      "clearance": 0.03893940476497182,
+      "attachments_match": true
+    }
+  ]
+}

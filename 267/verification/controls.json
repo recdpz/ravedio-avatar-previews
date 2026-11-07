@@ -1,0 +1,27 @@
+{
+  "checks": [
+    {
+      "width": 320,
+      "headScale": "0.92",
+      "lift": 2,
+      "physical_controls": true
+    },
+    {
+      "width": 390,
+      "headScale": "0.92",
+      "lift": 2,
+      "physical_controls": true
+    },
+    {
+      "width": 844,
+      "headScale": "0.92",
+      "lift": 2,
+      "physical_controls": true
+    },
+    {
+      "reset_button": true,
+      "orbit_zoom": true
+    }
+  ],
+  "errors": []
+}
