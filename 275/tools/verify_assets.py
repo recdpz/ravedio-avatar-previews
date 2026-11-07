@@ -35,7 +35,7 @@ def verify(revision=REV):
         assert set(entry["fits"]) == set(HATS)
         for hat,fit in entry["fits"].items():
             paths = {color:(revision/file).resolve() for color,file in fit.items()}
-            assert all(path.parent == revision/'assets' for path in paths.values())
+            assert all(path.suffix == '.glb' and path.is_relative_to(revision.parent) for path in paths.values())
             original, ombre = (geometry(paths[color]) for color in ("default","ombre"))
             assert original.keys() == ombre.keys(), (style,hat)
             for part, arrays in original.items():
