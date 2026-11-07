@@ -1,0 +1,162 @@
+{
+  "Feminine-bob": {
+    "print_dimensions": [
+      1024,
+      1024
+    ],
+    "wrap_tie_contact_pairs": 169,
+    "outer_cloth_clear": true,
+    "exact_bare_hair": true,
+    "construction": "triangular crown scarf"
+  },
+  "Feminine-ponytail": {
+    "print_dimensions": [
+      4096,
+      256
+    ],
+    "wrap_tie_contact_pairs": 451,
+    "outer_cloth_clear": true,
+    "exact_bare_hair": true,
+    "construction": "folded kerchief"
+  },
+  "Feminine-straight": {
+    "print_dimensions": [
+      1024,
+      1024
+    ],
+    "wrap_tie_contact_pairs": 154,
+    "outer_cloth_clear": true,
+    "exact_bare_hair": true,
+    "construction": "triangular crown scarf"
+  },
+  "Feminine-curls": {
+    "print_dimensions": [
+      1024,
+      1024
+    ],
+    "wrap_tie_contact_pairs": 164,
+    "outer_cloth_clear": true,
+    "exact_bare_hair": true,
+    "construction": "triangular crown scarf"
+  },
+  "Feminine-side-sweep": {
+    "print_dimensions": [
+      1024,
+      1024
+    ],
+    "wrap_tie_contact_pairs": 156,
+    "outer_cloth_clear": true,
+    "exact_bare_hair": true,
+    "construction": "triangular crown scarf"
+  },
+  "Feminine-space-buns": {
+    "print_dimensions": [
+      4096,
+      256
+    ],
+    "wrap_tie_contact_pairs": 426,
+    "outer_cloth_clear": true,
+    "exact_bare_hair": true,
+    "construction": "folded kerchief"
+  },
+  "Feminine-twin-braids": {
+    "print_dimensions": [
+      1024,
+      1024
+    ],
+    "wrap_tie_contact_pairs": 163,
+    "outer_cloth_clear": true,
+    "exact_bare_hair": true,
+    "construction": "triangular crown scarf"
+  },
+  "Feminine-box-braids": {
+    "print_dimensions": [
+      1024,
+      1024
+    ],
+    "wrap_tie_contact_pairs": 138,
+    "outer_cloth_clear": true,
+    "exact_bare_hair": true,
+    "construction": "triangular crown scarf"
+  },
+  "Masculine-sidepart": {
+    "print_dimensions": [
+      4096,
+      256
+    ],
+    "wrap_tie_contact_pairs": 443,
+    "outer_cloth_clear": true,
+    "exact_bare_hair": true,
+    "construction": "folded forehead wrap"
+  },
+  "Masculine-taper": {
+    "print_dimensions": [
+      4096,
+      256
+    ],
+    "wrap_tie_contact_pairs": 498,
+    "outer_cloth_clear": true,
+    "exact_bare_hair": true,
+    "construction": "folded forehead wrap"
+  },
+  "Masculine-buzz": {
+    "print_dimensions": [
+      4096,
+      256
+    ],
+    "wrap_tie_contact_pairs": 407,
+    "outer_cloth_clear": true,
+    "exact_bare_hair": true,
+    "construction": "folded forehead wrap"
+  },
+  "Masculine-curly-top": {
+    "print_dimensions": [
+      4096,
+      256
+    ],
+    "wrap_tie_contact_pairs": 480,
+    "outer_cloth_clear": true,
+    "exact_bare_hair": true,
+    "construction": "folded forehead wrap"
+  },
+  "Masculine-afro": {
+    "print_dimensions": [
+      4096,
+      256
+    ],
+    "wrap_tie_contact_pairs": 521,
+    "outer_cloth_clear": true,
+    "exact_bare_hair": true,
+    "construction": "folded forehead wrap"
+  },
+  "Masculine-flow": {
+    "print_dimensions": [
+      4096,
+      256
+    ],
+    "wrap_tie_contact_pairs": 437,
+    "outer_cloth_clear": true,
+    "exact_bare_hair": true,
+    "construction": "folded forehead wrap"
+  },
+  "Masculine-locs": {
+    "print_dimensions": [
+      4096,
+      256
+    ],
+    "wrap_tie_contact_pairs": 431,
+    "outer_cloth_clear": true,
+    "exact_bare_hair": true,
+    "construction": "folded forehead wrap"
+  },
+  "Masculine-middle-part": {
+    "print_dimensions": [
+      4096,
+      256
+    ],
+    "wrap_tie_contact_pairs": 466,
+    "outer_cloth_clear": true,
+    "exact_bare_hair": true,
+    "construction": "folded forehead wrap"
+  }
+}
