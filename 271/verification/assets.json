@@ -1,0 +1,146 @@
+{
+  "Feminine-bob": {
+    "print_dimensions": [
+      1024,
+      1024
+    ],
+    "wrap_tie_contact_pairs": 288,
+    "outer_cloth_clear": true,
+    "exact_bare_hair": true
+  },
+  "Feminine-ponytail": {
+    "print_dimensions": [
+      1024,
+      1024
+    ],
+    "wrap_tie_contact_pairs": 256,
+    "outer_cloth_clear": true,
+    "exact_bare_hair": true
+  },
+  "Feminine-straight": {
+    "print_dimensions": [
+      1024,
+      1024
+    ],
+    "wrap_tie_contact_pairs": 492,
+    "outer_cloth_clear": true,
+    "exact_bare_hair": true
+  },
+  "Feminine-curls": {
+    "print_dimensions": [
+      1024,
+      1024
+    ],
+    "wrap_tie_contact_pairs": 464,
+    "outer_cloth_clear": true,
+    "exact_bare_hair": true
+  },
+  "Feminine-side-sweep": {
+    "print_dimensions": [
+      1024,
+      1024
+    ],
+    "wrap_tie_contact_pairs": 512,
+    "outer_cloth_clear": true,
+    "exact_bare_hair": true
+  },
+  "Feminine-space-buns": {
+    "print_dimensions": [
+      1024,
+      1024
+    ],
+    "wrap_tie_contact_pairs": 369,
+    "outer_cloth_clear": true,
+    "exact_bare_hair": true
+  },
+  "Feminine-twin-braids": {
+    "print_dimensions": [
+      1024,
+      1024
+    ],
+    "wrap_tie_contact_pairs": 601,
+    "outer_cloth_clear": true,
+    "exact_bare_hair": true
+  },
+  "Feminine-box-braids": {
+    "print_dimensions": [
+      1024,
+      1024
+    ],
+    "wrap_tie_contact_pairs": 539,
+    "outer_cloth_clear": true,
+    "exact_bare_hair": true
+  },
+  "Masculine-sidepart": {
+    "print_dimensions": [
+      4096,
+      256
+    ],
+    "wrap_tie_contact_pairs": 346,
+    "outer_cloth_clear": true,
+    "exact_bare_hair": true
+  },
+  "Masculine-taper": {
+    "print_dimensions": [
+      4096,
+      256
+    ],
+    "wrap_tie_contact_pairs": 378,
+    "outer_cloth_clear": true,
+    "exact_bare_hair": true
+  },
+  "Masculine-buzz": {
+    "print_dimensions": [
+      4096,
+      256
+    ],
+    "wrap_tie_contact_pairs": 362,
+    "outer_cloth_clear": true,
+    "exact_bare_hair": true
+  },
+  "Masculine-curly-top": {
+    "print_dimensions": [
+      4096,
+      256
+    ],
+    "wrap_tie_contact_pairs": 348,
+    "outer_cloth_clear": true,
+    "exact_bare_hair": true
+  },
+  "Masculine-afro": {
+    "print_dimensions": [
+      4096,
+      256
+    ],
+    "wrap_tie_contact_pairs": 418,
+    "outer_cloth_clear": true,
+    "exact_bare_hair": true
+  },
+  "Masculine-flow": {
+    "print_dimensions": [
+      4096,
+      256
+    ],
+    "wrap_tie_contact_pairs": 354,
+    "outer_cloth_clear": true,
+    "exact_bare_hair": true
+  },
+  "Masculine-locs": {
+    "print_dimensions": [
+      4096,
+      256
+    ],
+    "wrap_tie_contact_pairs": 432,
+    "outer_cloth_clear": true,
+    "exact_bare_hair": true
+  },
+  "Masculine-middle-part": {
+    "print_dimensions": [
+      4096,
+      256
+    ],
+    "wrap_tie_contact_pairs": 430,
+    "outer_cloth_clear": true,
+    "exact_bare_hair": true
+  }
+}
