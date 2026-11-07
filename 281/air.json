@@ -1,0 +1,14 @@
+{
+  "Feminine": {
+    "side-sweep": {
+      "label": "Fringe study",
+      "note": "Bare-head silhouette study",
+      "fits": {
+        "none": {
+          "default": "./assets/air.glb",
+          "ombre": "./assets/air.glb"
+        }
+      }
+    }
+  }
+}
