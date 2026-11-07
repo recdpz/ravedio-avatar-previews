@@ -1,0 +1,14 @@
+{
+  "Feminine": {
+    "side-sweep": {
+      "label": "Soft bangs",
+      "note": "Bare-head review",
+      "fits": {
+        "none": {
+          "default": "./assets/bangs.glb",
+          "ombre": "./assets/bangs.glb"
+        }
+      }
+    }
+  }
+}
