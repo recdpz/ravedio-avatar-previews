@@ -33,9 +33,9 @@ def lower_overlaps(coords, triangles):
                for i, j in tree.overlap(tree))
 
 
-def verify():
-    after = json.loads((REV / "hair-fits.json").read_text(encoding="utf8"))["Feminine"]
-    before = json.loads((ROOT / "291/hair-fits.json").read_text(encoding="utf8"))["Feminine"]
+def verify(rev=REV, previous=ROOT / "291"):
+    after = json.loads((rev / "hair-fits.json").read_text(encoding="utf8"))["Feminine"]
+    before = json.loads((previous / "hair-fits.json").read_text(encoding="utf8"))["Feminine"]
     assert after["space-buns"] == before["space-buns"]
     assert set(after[STYLE]["fits"]) == set(HATS)
     wardrobe = {}
@@ -46,8 +46,8 @@ def verify():
 
     report = {}
     for hat, pair in after[STYLE]["fits"].items():
-        paths, (coords, _, triangles) = load_pair(REV, pair)
-        _, (old_coords, _, old_triangles) = load_pair(ROOT / "291", before[STYLE]["fits"][hat])
+        paths, (coords, _, triangles) = load_pair(rev, pair)
+        _, (old_coords, _, old_triangles) = load_pair(previous, before[STYLE]["fits"][hat])
         assert len(triangles) == len(old_triangles), hat
         overlap = lower_overlaps(coords, triangles)
         old_overlap = lower_overlaps(old_coords, old_triangles)
@@ -67,9 +67,13 @@ def verify():
             "top_intersections": tops,
             "sha256": {color: digest(path) for color, path in paths.items()},
         }
-    (REV / "verification/assets.json").write_text(json.dumps(report, indent=2) + "\n",
+    (rev / "verification/assets.json").write_text(json.dumps(report, indent=2) + "\n",
                                                    encoding="utf8", newline="\n")
 
 
 if __name__ == "__main__":
-    verify()
+    if "--" in sys.argv:
+        revision, baseline = sys.argv[sys.argv.index("--") + 1:]
+        verify(Path(revision).resolve(), Path(baseline).resolve())
+    else:
+        verify()

@@ -17,7 +17,7 @@ from build_fits import CENTER, STYLE, ease, fit_mesh, make_hair, ombre
 make_cut = partial(make_hair, clear_edges=True)
 
 
-def smooth_inside(obj):
+def smooth_inside(obj, lower_thickness=None):
     # Apply the original thickness so the forehead edge and outer mesh retain
     # their coordinates. Replace the lower offset with an inward radial one.
     count = len(obj.data.vertices)
@@ -36,6 +36,9 @@ def smooth_inside(obj):
     across = outer[:, :2] - (CENTER[0], -CENTER[2])
     radial = across / np.maximum(.001, np.linalg.norm(across, axis=1))[:, None]
     inset = np.clip(thickness * .74, .0034, .0080)
+    if lower_thickness is not None:
+        weight = ease((1.85 - height) / .17)
+        inset += weight * (lower_thickness - inset)
     target = outer.copy()
     target[:, :2] -= radial * inset[:, None]
     angle = np.abs(np.arctan2(outer[:, 0], -outer[:, 1] - CENTER[2]))
@@ -46,23 +49,24 @@ def smooth_inside(obj):
     mesh.update()
 
 
-def bare_head():
+def bare_head(assets, finish):
     bpy.ops.wm.read_factory_settings(use_empty=True)
     make_cut()
-    smooth_inside(bpy.context.collection.objects[0])
-    asset = ASSETS / "long-none.glb"
+    finish(bpy.context.collection.objects[0])
+    asset = assets / "long-none.glb"
     bpy.ops.export_scene.gltf(filepath=str(asset), export_format="GLB",
                               export_apply=True, export_materials="EXPORT")
     return asset
 
 
-def build():
+def build(rev=REV, finish=smooth_inside):
+    assets = rev / "assets"
     catalogue = json.loads((PREVIOUS / "hair-fits.json").read_text(encoding="utf8"))
     for hat, pair in catalogue["Feminine"][STYLE]["fits"].items():
-        base = bare_head() if hat == "none" else fit_mesh(hat, ASSETS, make=make_cut, finish=smooth_inside)
-        colored = ombre(base, hat, ASSETS)
+        base = bare_head(assets, finish) if hat == "none" else fit_mesh(hat, assets, make=make_cut, finish=finish)
+        colored = ombre(base, hat, assets)
         pair.update(default=f"./assets/{base.name}", ombre=f"./assets/{colored.name}")
-    (REV / "hair-fits.json").write_text(json.dumps(catalogue, indent=2) + "\n",
+    (rev / "hair-fits.json").write_text(json.dumps(catalogue, indent=2) + "\n",
                                        encoding="utf8", newline="\n")
 
 
