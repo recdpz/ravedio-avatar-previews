@@ -1,0 +1,101 @@
+{
+  "files": {
+    ".gitattributes": {
+      "bytes": 144,
+      "sha256": "4524d47279c7fc57cb66cab696147bbf28dae4c0e14bf9e0afb24b99bd21d5ac"
+    },
+    "asset-host.js": {
+      "bytes": 3606,
+      "sha256": "1af4f1c013b077bc52c6acd48edbb53fea4039ef82d10e93b8cb0a6477af12ec"
+    },
+    "index.html": {
+      "bytes": 6948,
+      "sha256": "cbc35232f6b37ddc9f2540169a01a671d40579ce3746c2708b5c75aaddb00fc6"
+    },
+    "README.txt": {
+      "bytes": 2323,
+      "sha256": "f187fa5966ec34ae9e63d04540580e217dd2c260c3471321a974786a55a78dce"
+    },
+    "review.json": {
+      "bytes": 1514,
+      "sha256": "5541ae1bb7ff88b68b3fb14a6850b61073b9946cecd6be96058913913ba44c2c"
+    },
+    "tools/audit.cjs": {
+      "bytes": 5751,
+      "sha256": "9af314ba78409444db891143053783315c396e969a318015009c5d9113c58aaa"
+    },
+    "tools/check_controls.cjs": {
+      "bytes": 3026,
+      "sha256": "da39cee2459d28fbfec4f4f6f367d7c2a4343337112ee0e92c20b330f40eaf2d"
+    },
+    "tools/check_fits.cjs": {
+      "bytes": 2472,
+      "sha256": "e34df01c1ef0000238da914a29065cda4c96602f4b3f7077ba8ff6f475ac773f"
+    },
+    "tools/create_review.py": {
+      "bytes": 1572,
+      "sha256": "1ecfabf5fc428f0c9b65f5f11a4c5aa62eb48cc6c67d8b3fdb47fb5f92c09e07"
+    },
+    "verification/browser.json": {
+      "bytes": 8022,
+      "sha256": "68696f39446d11ec11d215a0ea8aa37ba8d487004ce34f21ce1de34c0d953798"
+    },
+    "verification/controls.json": {
+      "bytes": 438,
+      "sha256": "0ccb4053dc6c079e1766d12299e751f966b50f572c66dc4c33986b078ce2709e"
+    },
+    "verification/F-cap-sizes.jpg": {
+      "bytes": 139953,
+      "sha256": "02bbf7b1177e94db3398f24caa39be9f365c6155774b249f44cc5597ba4cd3b5"
+    },
+    "verification/F-curls-sizes.jpg": {
+      "bytes": 149955,
+      "sha256": "5abbebc7896491d40602b6674c0c9dbc863452615b6093a5d16074d9cdc24281"
+    },
+    "verification/F-pashmina-sizes.jpg": {
+      "bytes": 143817,
+      "sha256": "b72ec500db53c0aed16fea6b8935d08c5946e24aea8f11bc140c54b0ec0d06a9"
+    },
+    "verification/F-pony-sizes.jpg": {
+      "bytes": 137768,
+      "sha256": "6953a896aaa077246a69fac5e23e50c996bbc0259b94b1cb2cf1f5e1a3e2529a"
+    },
+    "verification/F-straight-sizes.jpg": {
+      "bytes": 143781,
+      "sha256": "7aa86b5fe46918a0ac324c0bdd8ee203c6b91687a3c7f9624c0fa4aa9828e718"
+    },
+    "verification/Feminine-small-sizes.jpg": {
+      "bytes": 333385,
+      "sha256": "fde81c0bf32d96d5a715f42a3274435de67b77a813aa96c364a87203214c26b6"
+    },
+    "verification/fit-invariants.json": {
+      "bytes": 23547,
+      "sha256": "3beda1c866b3b1f0a60415e3d7c946bd0fd94f1950421047406e3542402130e0"
+    },
+    "verification/M-cap-sizes.jpg": {
+      "bytes": 134161,
+      "sha256": "3d1046cef43983552d25c2e69e303502a8892a513b40c8445cbbfc04ada76d54"
+    },
+    "verification/M-long-sizes.jpg": {
+      "bytes": 139140,
+      "sha256": "c1f3ec65ed16a24186d5616eb947f5c8d56a9fe14496ebc78366759fdd855b0b"
+    },
+    "verification/M-pashmina-sizes.jpg": {
+      "bytes": 136577,
+      "sha256": "62cb25b2bf4398498a5bc6b618f0f0e7a0fc194cb680b109d646a1207c691288"
+    },
+    "verification/M-short-sizes.jpg": {
+      "bytes": 134845,
+      "sha256": "593b3e189b6d2d04427755d06bf9ff5e539a4f2977cabde4abb8d6f5294a658b"
+    },
+    "verification/Masculine-small-sizes.jpg": {
+      "bytes": 327130,
+      "sha256": "9d70ba6ec1a42e5c087dbda983ef8cb5172c013f0caa8dd0f476181ba69cb855"
+    },
+    "viewer.js": {
+      "bytes": 18972,
+      "sha256": "59f19f796411f845f42bf7e6098682677df89b89ba6072843cc79e2243bfc534"
+    }
+  },
+  "source_models_commit": "2a67abca3f2163624e534c09da617c334a18aa24"
+}

@@ -1,0 +1,52 @@
+{
+  "scope": "Expanded head-size/height tests; not catalogue adoption",
+  "sizes": [
+    1,
+    0.95,
+    0.92,
+    0.9,
+    0.88,
+    0.85,
+    0.8,
+    0.75,
+    0.7
+  ],
+  "new_smaller_percent": [
+    15,
+    20,
+    25,
+    30
+  ],
+  "default": {
+    "headScale": 0.8,
+    "heightMode": "gap",
+    "lift_percent": -10
+  },
+  "height_modes": {
+    "gap": "lift=-50*(1-scale), preserving the266 sphere underside height1.4",
+    "manual": "negative values lower the head; minimum preserves underside baseline; maximum+3% reference height"
+  },
+  "body_clothing_changed": false,
+  "source_models": "Exact266 ordinary GLBs reused",
+  "fit_refinements": [
+    "Pashmina and its covered long hair share a lower1.34/upper1.72 quintic fit to avoid excessive side flaring at30%.",
+    "Uncovered long hair scales height uniformly to retain curl flow; lower horizontal width blends1.4-1.7 around the torso.",
+    "Normals follow the inverse transpose of the appropriate deformation Jacobian. Shared coordinates and part/color controls remain intact."
+  ],
+  "checks": {
+    "body_size_angle_pairs": 288,
+    "small_portrait_pairs": 64,
+    "variant_reset_checks": 43,
+    "fit_invariants": 108,
+    "pointer_and_save_checks": 4,
+    "mobile_widths": [
+      320,
+      390,
+      844
+    ]
+  },
+  "limits": [
+    "Largest sizes are proportion tests; final selected source/export fits and portrait color/depth need baking together.",
+    "No new profile assignment, app renderer or physical-phone performance claim."
+  ]
+}
