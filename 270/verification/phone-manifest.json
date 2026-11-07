@@ -1,0 +1,692 @@
+{
+  "revision": 270,
+  "selection": {
+    "headScale": 0.8,
+    "heightPercent": -8,
+    "worldLift": -0.0768,
+    "sourceCenter": [
+      0.0,
+      1.88,
+      -0.015
+    ],
+    "center": [
+      0.0,
+      1.8032,
+      -0.015
+    ],
+    "radius": 0.384
+  },
+  "asset_manifest_sha256": "414c3e84e370443de0b7a7dd3a8547934d1f4a4467aa98c3adf62b640a5db726",
+  "looks": {
+    "Feminine": {
+      "features": {
+        "hair": "twin-braids",
+        "headwear": "pashmina",
+        "top": "sweatshirt",
+        "bottom": "pants",
+        "eyes": "hooded",
+        "groom": "none",
+        "glasses": "reading"
+      },
+      "scene_sha256": "e6c658e8c513cd47fa92e9bc6b8e70c923acde58ea4fdeb87b1ebb4e4f7dadb5",
+      "studio_source_sha256": "a8ea6d7779a65ae1f6c7b2caf59c41073d68b13c4bdf234f6c9ac5b716dfcedf",
+      "components": {
+        "base": {
+          "file": "components/base.glb",
+          "sha256": "e209b19519a3431d7ce13d8e1669683e279437698eacedc9e119a7519f4c035b"
+        },
+        "top": {
+          "file": "components/top.glb",
+          "sha256": "718cb604e194f7de50849a347de91cbcc73a0a1e4f341e8643e566208d76fe4b"
+        },
+        "bottom": {
+          "file": "components/bottom.glb",
+          "sha256": "9d53f02e675d7ddb2c6484170c6e56e975eb0ad40f9a5a8f65f31b84356c2a59"
+        },
+        "eyes": {
+          "file": "components/eyes.glb",
+          "sha256": "582ed6cabeecde67b39991c3ee76e06d40451ecb25be0c0941cb6d6231d22e1b"
+        },
+        "mouth": {
+          "file": "components/mouth.glb",
+          "sha256": "0ca1cdd74529bf998213b458d023d715edf68308e4aa4f22cc7a43d7020317d4"
+        },
+        "glasses": {
+          "file": "components/glasses.glb",
+          "sha256": "86f1772f2fd7f02ed5d8b02e17e3e2adecacd8061517059fcbca5fd79eaf916c"
+        },
+        "lenses": {
+          "file": "components/lenses.glb",
+          "sha256": "274ea5f526baeca35c21a76a26c039291e004e70db6618d6a9c7f33659d3a494"
+        },
+        "hair": {
+          "file": "components/hair.glb",
+          "sha256": "aabb4449582356f50b1a8078aa0ea46addb48edd5ff50159572f1456573babf4"
+        },
+        "headgear": {
+          "file": "components/headgear.glb",
+          "sha256": "0a9f801d2149cc0250802d5a097afc2f23cf090213f1e485085782d810b924ab"
+        },
+        "lashes": {
+          "file": "components/lashes.glb",
+          "sha256": "1441dbf4070a00034cb72ff3798ad6e48eeaee0e70ccd2efcdf9846d39f61035"
+        },
+        "hairLengths": {
+          "file": "components/hairLengths.glb",
+          "sha256": "b28d2406e87a0590b926d54a97866b1430b1d300064f7c8af98786514104c666"
+        }
+      },
+      "color_management": {
+        "view_transform": "AgX",
+        "look": "None",
+        "exposure": 0.0,
+        "gamma": 1.0
+      },
+      "pairs": [
+        {
+          "size": 48,
+          "skin": 0,
+          "camera": {
+            "matrix_world": [
+              [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+              ],
+              [
+                0.0,
+                -1.6292068494294654e-07,
+                -1.0,
+                -8.0
+              ],
+              [
+                0.0,
+                1.0,
+                -1.6292068494294654e-07,
+                1.899999976158142
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "ortho_scale": 1.350000023841858,
+            "target": [
+              0.0,
+              0.0,
+              1.899999976158142
+            ],
+            "clip_start": 0.10000000149011612,
+            "clip_end": 1000.0
+          },
+          "alpha_threshold": 0.5,
+          "color": "front-skin0-48-color.png",
+          "color_sha256": "6e3f802ef1ef1e31c0175d70c9d92fbc76283088a581b02c205a0eac6574c4b3",
+          "depth": "front-skin0-48-depth.exr",
+          "depth_sha256": "83e2007b642645bfcd1b2aed3fafae33b3247bda9b52ee72af52c101222e40e6"
+        },
+        {
+          "size": 64,
+          "skin": 0,
+          "camera": {
+            "matrix_world": [
+              [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+              ],
+              [
+                0.0,
+                -1.6292068494294654e-07,
+                -1.0,
+                -8.0
+              ],
+              [
+                0.0,
+                1.0,
+                -1.6292068494294654e-07,
+                1.899999976158142
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "ortho_scale": 1.350000023841858,
+            "target": [
+              0.0,
+              0.0,
+              1.899999976158142
+            ],
+            "clip_start": 0.10000000149011612,
+            "clip_end": 1000.0
+          },
+          "alpha_threshold": 0.5,
+          "color": "front-skin0-64-color.png",
+          "color_sha256": "2b231efccbcb7a2be8fd4bbb2d0709adedd2dcef3e966a69a2896b72acf9817b",
+          "depth": "front-skin0-64-depth.exr",
+          "depth_sha256": "607d5968463569ba35f1323025b5c3454855055a74bcd3b42c741a46658eee1f"
+        },
+        {
+          "size": 512,
+          "skin": 0,
+          "camera": {
+            "matrix_world": [
+              [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+              ],
+              [
+                0.0,
+                -1.6292068494294654e-07,
+                -1.0,
+                -8.0
+              ],
+              [
+                0.0,
+                1.0,
+                -1.6292068494294654e-07,
+                1.899999976158142
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "ortho_scale": 1.350000023841858,
+            "target": [
+              0.0,
+              0.0,
+              1.899999976158142
+            ],
+            "clip_start": 0.10000000149011612,
+            "clip_end": 1000.0
+          },
+          "alpha_threshold": 0.5,
+          "color": "front-skin0-512-color.png",
+          "color_sha256": "30dfb5d86a414789659d472237841d22279927e3390b07575fc1ce52f0316d92",
+          "depth": "front-skin0-512-depth.exr",
+          "depth_sha256": "fb3863dc242799cba6ff95b9bbce45df9443337b55116226ab11c2a595c1b515"
+        },
+        {
+          "size": 48,
+          "skin": 3,
+          "camera": {
+            "matrix_world": [
+              [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+              ],
+              [
+                0.0,
+                -1.6292068494294654e-07,
+                -1.0,
+                -8.0
+              ],
+              [
+                0.0,
+                1.0,
+                -1.6292068494294654e-07,
+                1.899999976158142
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "ortho_scale": 1.350000023841858,
+            "target": [
+              0.0,
+              0.0,
+              1.899999976158142
+            ],
+            "clip_start": 0.10000000149011612,
+            "clip_end": 1000.0
+          },
+          "alpha_threshold": 0.5,
+          "color": "front-skin3-48-color.png",
+          "color_sha256": "b9e450c5da70775907c9830d09f04ddf49b4ecb454fab610a41bded77090003f",
+          "depth": "front-skin3-48-depth.exr",
+          "depth_sha256": "ec118881137cb51162f586beea15a8af5f3feec882282fed6b9907a40904a726"
+        },
+        {
+          "size": 64,
+          "skin": 3,
+          "camera": {
+            "matrix_world": [
+              [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+              ],
+              [
+                0.0,
+                -1.6292068494294654e-07,
+                -1.0,
+                -8.0
+              ],
+              [
+                0.0,
+                1.0,
+                -1.6292068494294654e-07,
+                1.899999976158142
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "ortho_scale": 1.350000023841858,
+            "target": [
+              0.0,
+              0.0,
+              1.899999976158142
+            ],
+            "clip_start": 0.10000000149011612,
+            "clip_end": 1000.0
+          },
+          "alpha_threshold": 0.5,
+          "color": "front-skin3-64-color.png",
+          "color_sha256": "b2e6b941c2aee875541ffb8a9f4c322f4cf21c14f67633fd706ccc2c05b704e4",
+          "depth": "front-skin3-64-depth.exr",
+          "depth_sha256": "5586ff11e7367030738a10b8f407da215b3dd855c2f935365f4d1c66db48f518"
+        },
+        {
+          "size": 512,
+          "skin": 3,
+          "camera": {
+            "matrix_world": [
+              [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+              ],
+              [
+                0.0,
+                -1.6292068494294654e-07,
+                -1.0,
+                -8.0
+              ],
+              [
+                0.0,
+                1.0,
+                -1.6292068494294654e-07,
+                1.899999976158142
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "ortho_scale": 1.350000023841858,
+            "target": [
+              0.0,
+              0.0,
+              1.899999976158142
+            ],
+            "clip_start": 0.10000000149011612,
+            "clip_end": 1000.0
+          },
+          "alpha_threshold": 0.5,
+          "color": "front-skin3-512-color.png",
+          "color_sha256": "fc3e061d651ca76b5506026bd68563cf0e99a52f58838bfb703f7993fc15e6e4",
+          "depth": "front-skin3-512-depth.exr",
+          "depth_sha256": "4777165139e8a43fce214db49777e415433ede620c03235ed70c3c0c6c5be1a1"
+        }
+      ]
+    },
+    "Masculine": {
+      "features": {
+        "hair": "taper",
+        "headwear": "headband",
+        "top": "buttonup",
+        "bottom": "pants",
+        "eyes": "bean",
+        "groom": "short",
+        "glasses": "wayfarer"
+      },
+      "scene_sha256": "5f9b7bd6b4a471e38956e5329e3592f8ea421e4da6d87f20a1cdf8b7ddb78350",
+      "studio_source_sha256": "6a2cd4338969512a15185779deceaf9c685f069bcfce3c8f48a145aab4e8170c",
+      "components": {
+        "base": {
+          "file": "components/base.glb",
+          "sha256": "224906094960bcbef18e1126f36bdc009a4263fb53c9db3ae65e577b20bbcb4b"
+        },
+        "top": {
+          "file": "components/top.glb",
+          "sha256": "70016fbd39a7a01ba6500c27118e81d545ca242ebf01346a9503c49cb534af08"
+        },
+        "bottom": {
+          "file": "components/bottom.glb",
+          "sha256": "f209a7cce8878223d5c73388e56e819625d1ac8d6826a615d9ff24a484cd7f60"
+        },
+        "eyes": {
+          "file": "components/eyes.glb",
+          "sha256": "867bd344d47245ad5f585b059730a7702d606bedcc3b65e123ae94565ca30405"
+        },
+        "mouth": {
+          "file": "components/mouth.glb",
+          "sha256": "f5bc196e839c587503fa8410b11216b58c85ad256fd51ef4783ececd79adcce9"
+        },
+        "groom": {
+          "file": "components/groom.glb",
+          "sha256": "887f0587f376ef14515fcd0553b6b4f6e77a4680f50dde8e745025aab92815e2"
+        },
+        "glasses": {
+          "file": "components/glasses.glb",
+          "sha256": "fb0b992dc058f710b7717de6d9a856b0d1169ce78c8f7e86697fe0cbea1132e0"
+        },
+        "lenses": {
+          "file": "components/lenses.glb",
+          "sha256": "6542b20cee51eb597046c12626569e4b4ffff8afd2c81b385350a748ee0d4116"
+        },
+        "hair": {
+          "file": "components/hair.glb",
+          "sha256": "09f08d43e468d5260489c044835bf0bb2a499543898fb436e6127fc01e3db4a4"
+        },
+        "headgear": {
+          "file": "components/headgear.glb",
+          "sha256": "ed33e83e9feec2d82ea8b63ba157633eed766716a9c9b277289e1892d642e27b"
+        }
+      },
+      "color_management": {
+        "view_transform": "AgX",
+        "look": "None",
+        "exposure": 0.0,
+        "gamma": 1.0
+      },
+      "pairs": [
+        {
+          "size": 48,
+          "skin": 0,
+          "camera": {
+            "matrix_world": [
+              [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+              ],
+              [
+                0.0,
+                -1.6292068494294654e-07,
+                -1.0,
+                -8.0
+              ],
+              [
+                0.0,
+                1.0,
+                -1.6292068494294654e-07,
+                1.899999976158142
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "ortho_scale": 1.350000023841858,
+            "target": [
+              0.0,
+              0.0,
+              1.899999976158142
+            ],
+            "clip_start": 0.10000000149011612,
+            "clip_end": 1000.0
+          },
+          "alpha_threshold": 0.5,
+          "color": "front-skin0-48-color.png",
+          "color_sha256": "b508d8fb59b1b3309a3a2d7df577f0684667f1e7618549d13eb025b7eebaa4f9",
+          "depth": "front-skin0-48-depth.exr",
+          "depth_sha256": "0052c910e467466a4d3a9ed95970539c59b39995214b10da3b95d3a52304e993"
+        },
+        {
+          "size": 64,
+          "skin": 0,
+          "camera": {
+            "matrix_world": [
+              [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+              ],
+              [
+                0.0,
+                -1.6292068494294654e-07,
+                -1.0,
+                -8.0
+              ],
+              [
+                0.0,
+                1.0,
+                -1.6292068494294654e-07,
+                1.899999976158142
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "ortho_scale": 1.350000023841858,
+            "target": [
+              0.0,
+              0.0,
+              1.899999976158142
+            ],
+            "clip_start": 0.10000000149011612,
+            "clip_end": 1000.0
+          },
+          "alpha_threshold": 0.5,
+          "color": "front-skin0-64-color.png",
+          "color_sha256": "a5f4319d37d03b6dfef6c182789247e7d156746f19f94517e1a7d72931b2f3a7",
+          "depth": "front-skin0-64-depth.exr",
+          "depth_sha256": "cc67ee4ec69fedf4b2b066b987e4672cb78178b35d8649930716016ef456f092"
+        },
+        {
+          "size": 512,
+          "skin": 0,
+          "camera": {
+            "matrix_world": [
+              [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+              ],
+              [
+                0.0,
+                -1.6292068494294654e-07,
+                -1.0,
+                -8.0
+              ],
+              [
+                0.0,
+                1.0,
+                -1.6292068494294654e-07,
+                1.899999976158142
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "ortho_scale": 1.350000023841858,
+            "target": [
+              0.0,
+              0.0,
+              1.899999976158142
+            ],
+            "clip_start": 0.10000000149011612,
+            "clip_end": 1000.0
+          },
+          "alpha_threshold": 0.5,
+          "color": "front-skin0-512-color.png",
+          "color_sha256": "5168ff5758f080a47629dcbe964de312f3b17661265a0d8afa082ba5eca7f5d0",
+          "depth": "front-skin0-512-depth.exr",
+          "depth_sha256": "ec3b34fa79225d3325c13cbac21fba65f1783ad7bc62c5b9398578e90b61c632"
+        },
+        {
+          "size": 48,
+          "skin": 3,
+          "camera": {
+            "matrix_world": [
+              [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+              ],
+              [
+                0.0,
+                -1.6292068494294654e-07,
+                -1.0,
+                -8.0
+              ],
+              [
+                0.0,
+                1.0,
+                -1.6292068494294654e-07,
+                1.899999976158142
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "ortho_scale": 1.350000023841858,
+            "target": [
+              0.0,
+              0.0,
+              1.899999976158142
+            ],
+            "clip_start": 0.10000000149011612,
+            "clip_end": 1000.0
+          },
+          "alpha_threshold": 0.5,
+          "color": "front-skin3-48-color.png",
+          "color_sha256": "4286d220583a27dc938babeb5988385ad4857a92987bb10a3ed3a548a5ab6939",
+          "depth": "front-skin3-48-depth.exr",
+          "depth_sha256": "411b4e9248f627df03262c1fff0adf3230bfd39e46113d6180502f6e36cba0c4"
+        },
+        {
+          "size": 64,
+          "skin": 3,
+          "camera": {
+            "matrix_world": [
+              [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+              ],
+              [
+                0.0,
+                -1.6292068494294654e-07,
+                -1.0,
+                -8.0
+              ],
+              [
+                0.0,
+                1.0,
+                -1.6292068494294654e-07,
+                1.899999976158142
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "ortho_scale": 1.350000023841858,
+            "target": [
+              0.0,
+              0.0,
+              1.899999976158142
+            ],
+            "clip_start": 0.10000000149011612,
+            "clip_end": 1000.0
+          },
+          "alpha_threshold": 0.5,
+          "color": "front-skin3-64-color.png",
+          "color_sha256": "4367b8527be1c8f8637c56c7f031d635f2ba111982a0c0767d4e77add105a6bb",
+          "depth": "front-skin3-64-depth.exr",
+          "depth_sha256": "39913642d745f7a677e656fcb1502b54e47c3a69dbb140fc69383936218c1848"
+        },
+        {
+          "size": 512,
+          "skin": 3,
+          "camera": {
+            "matrix_world": [
+              [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+              ],
+              [
+                0.0,
+                -1.6292068494294654e-07,
+                -1.0,
+                -8.0
+              ],
+              [
+                0.0,
+                1.0,
+                -1.6292068494294654e-07,
+                1.899999976158142
+              ],
+              [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            ],
+            "ortho_scale": 1.350000023841858,
+            "target": [
+              0.0,
+              0.0,
+              1.899999976158142
+            ],
+            "clip_start": 0.10000000149011612,
+            "clip_end": 1000.0
+          },
+          "alpha_threshold": 0.5,
+          "color": "front-skin3-512-color.png",
+          "color_sha256": "ada98a54da00131ef84d10110ff3754edd4d13f90f2e890dd1decb81f68ec73b",
+          "depth": "front-skin3-512-depth.exr",
+          "depth_sha256": "d27413a6369bdeb73ab0dfc409a1d7f19107c9d28beb76c17d78a41da3248fc5"
+        }
+      ]
+    }
+  }
+}
