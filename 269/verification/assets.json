@@ -1,0 +1,1166 @@
+[
+  {
+    "key": "../181/Feminine-eyes-original.glb",
+    "source": "../266/assets/Feminine-Feminine-eyes-original-b08a82ec.glb",
+    "output": "./assets/Feminine-Feminine-eyes-original-b08a82ec.glb",
+    "method": "rigid",
+    "nodes": [
+      "Eye / dark oval 1",
+      "Eye / dark oval -1",
+      "Eye highlight / main 1",
+      "Eye highlight / main -1",
+      "Eye highlight / small 1",
+      "Eye highlight / small -1"
+    ],
+    "source_sha256": "5c3bc7cec8f33b1f409cf9877ecb4ae411575980504aed4ad42ec4ee3322aa35",
+    "output_sha256": "caa00ee6cec1c212405f481e0de14e2e60ccb7106546c98d2f342fff3abde9d0",
+    "bytes": 179224
+  },
+  {
+    "key": "../181/Masculine-eyes-original.glb",
+    "source": "../266/assets/Masculine-Masculine-eyes-original-92732458.glb",
+    "output": "./assets/Masculine-Masculine-eyes-original-92732458.glb",
+    "method": "rigid",
+    "nodes": [
+      "Eye / dark oval 1",
+      "Eye / dark oval -1",
+      "Eye highlight / main 1",
+      "Eye highlight / main -1",
+      "Eye highlight / small 1",
+      "Eye highlight / small -1"
+    ],
+    "source_sha256": "ca77fffff745c29a6a8b5eed4d50747c74d1ed32d1fb0ad57bb79b03c1e67555",
+    "output_sha256": "42174d4f9a617c286d991f09e2be1fe5d0d145e3828bdfac4469dd73f8da8130",
+    "bytes": 179224
+  },
+  {
+    "key": "../209/Feminine-mouth-line.glb",
+    "source": "../266/assets/Feminine-Feminine-mouth-line-9b6f83b8.glb",
+    "output": "./assets/Feminine-Feminine-mouth-line-9b6f83b8.glb",
+    "method": "rigid",
+    "nodes": [
+      "Face / relaxed smile185"
+    ],
+    "source_sha256": "06f799c0481d06399c09c36d118a9f8b91cd64cb6c25c6af8e6b23cf73c70c79",
+    "output_sha256": "0ca1cdd74529bf998213b458d023d715edf68308e4aa4f22cc7a43d7020317d4",
+    "bytes": 42832
+  },
+  {
+    "key": "../209/Masculine-mouth-line.glb",
+    "source": "../266/assets/Masculine-Masculine-mouth-line-663a5e81.glb",
+    "output": "./assets/Masculine-Masculine-mouth-line-663a5e81.glb",
+    "method": "rigid",
+    "nodes": [
+      "Face / relaxed smile185"
+    ],
+    "source_sha256": "661e11a70c778aea902ec750e32d69ce7ed946eb3e4546df4d186bedfc8de12d",
+    "output_sha256": "f5bc196e839c587503fa8410b11216b58c85ad256fd51ef4783ececd79adcce9",
+    "bytes": 42836
+  },
+  {
+    "key": "../224/components/Feminine-cap-hair.glb",
+    "source": "../266/assets/Feminine-Feminine-cap-hair-16ae3440.glb",
+    "output": "./assets/Feminine-Feminine-cap-hair-16ae3440.glb",
+    "method": "rigid",
+    "nodes": [
+      "Hair / adjustable front216 1",
+      "Hair / adjustable front216 -1",
+      "Hair / rounded tail220 0",
+      "Hair / rounded tail220 1",
+      "Hair / rounded tail220 2",
+      "Hair / rounded tail220 3",
+      "Hair / rounded tail220 4",
+      "Hair / swept roots220",
+      "Hair / tie220"
+    ],
+    "source_sha256": "cda6040ddecf4b19e4542a1c0e685288c43acd930e70ebb29c4316fbf911d464",
+    "output_sha256": "c74ecca157e7e0d97752a6b463413b5f0367469e9111ebb556e934b09d9c3ca9",
+    "bytes": 2544408
+  },
+  {
+    "key": "../224/components/Feminine-cap-headgear.glb",
+    "source": "../266/assets/Feminine-Feminine-cap-headgear-cdf901be.glb",
+    "output": "./assets/Feminine-Feminine-cap-headgear-cdf901be.glb",
+    "method": "rigid",
+    "nodes": [
+      "Cap / bill stitch212 0.77",
+      "Cap / bill stitch212 0.91",
+      "Cap / cloth button212",
+      "Cap / panel seam212 0",
+      "Cap / panel seam212 1",
+      "Cap / panel seam212 2",
+      "Cap / panel seam212 3",
+      "Cap / panel seam212 4",
+      "Cap / panel seam212 5",
+      "Cap / pulse emblem223 0",
+      "Cap / rear adjustment strap212",
+      "Cap / rear strap stitch212",
+      "Cap / sewn crown and curved bill212",
+      "Cap / sewn lower edge212"
+    ],
+    "source_sha256": "18d6d919fea63ee96335a7e4d6bf3f5b08ef423f80adb343ae942d7464d7a4d5",
+    "output_sha256": "edb321c2d1fb0b5ea79c43935c0cdbec0c920452de9bc2a6df842e85f36ef5d2",
+    "bytes": 1162712
+  },
+  {
+    "key": "../224/components/Feminine-details-glasses.glb",
+    "source": "../266/assets/Feminine-Feminine-details-glasses-bed239d9.glb",
+    "output": "./assets/Feminine-Feminine-details-glasses-bed239d9.glb",
+    "method": "rigid",
+    "nodes": [
+      "Glasses / bridge212",
+      "Glasses / compact temple213 1",
+      "Glasses / compact temple213 -1",
+      "Glasses / rounded rectangle212 1",
+      "Glasses / rounded rectangle212 -1"
+    ],
+    "source_sha256": "ae014624faf086f9477ceee4b581a8d3d234b599fb17524eeb77b3018a88edb9",
+    "output_sha256": "fd33a5af202844b63fa62ec073b31a6ad1120e33f5b372d1f677eeb3d4973198",
+    "bytes": 96312
+  },
+  {
+    "key": "../224/components/Feminine-uncovered-base.glb",
+    "source": "../266/assets/Feminine-Feminine-uncovered-base-b9d435ff.glb",
+    "output": "./assets/Feminine-Feminine-uncovered-base-b9d435ff.glb",
+    "method": "base",
+    "nodes": [
+      "Skin / soft oval head"
+    ],
+    "source_sha256": "9a0480458e3a6ddf4bf7cc9329d25df81df3ade4cf20a6f56b1be49f5004f221",
+    "output_sha256": "6f518736255909025f86361a9555fed4aa14c9e7dabddfb584ff0c4ccad3b3e7",
+    "bytes": 1677136
+  },
+  {
+    "key": "../224/components/Feminine-uncovered-hair.glb",
+    "source": "../266/assets/Feminine-Feminine-uncovered-hair-764dfc05.glb",
+    "output": "./assets/Feminine-Feminine-uncovered-hair-764dfc05.glb",
+    "method": "rigid",
+    "nodes": [
+      "Hair / adjustable front216 1",
+      "Hair / adjustable front216 -1",
+      "Hair / rounded tail220 0",
+      "Hair / rounded tail220 1",
+      "Hair / rounded tail220 2",
+      "Hair / rounded tail220 3",
+      "Hair / rounded tail220 4",
+      "Hair / swept roots220",
+      "Hair / tie220"
+    ],
+    "source_sha256": "79affb535915bb4895ba56e5301e9ad8eb64f5baaf733bb4c68091b3ed8d8a19",
+    "output_sha256": "18627b3a5167a74a9e92859825f983783b9fc3d53fee1cd1cca7d39d26aba273",
+    "bytes": 2544404
+  },
+  {
+    "key": "../224/components/Masculine-details-glasses.glb",
+    "source": "../266/assets/Masculine-Masculine-details-glasses-2d913f32.glb",
+    "output": "./assets/Masculine-Masculine-details-glasses-2d913f32.glb",
+    "method": "rigid",
+    "nodes": [
+      "Glasses / bridge212",
+      "Glasses / compact temple213 1",
+      "Glasses / compact temple213 -1",
+      "Glasses / rounded rectangle212 1",
+      "Glasses / rounded rectangle212 -1"
+    ],
+    "source_sha256": "6aa44ccd7a41ca2ddfe26c5a7c65234d3ac8219deafa06cccbe211daf07c8e0a",
+    "output_sha256": "2508c90ed5474a8d050f723bef4ca2ea25c7f642251afee0c37e144adf751b5c",
+    "bytes": 94264
+  },
+  {
+    "key": "../224/components/Masculine-taper-base.glb",
+    "source": "../266/assets/Masculine-Masculine-taper-base-4ee10f1a.glb",
+    "output": "./assets/Masculine-Masculine-taper-base-4ee10f1a.glb",
+    "method": "base",
+    "nodes": [
+      "Skin / soft oval head"
+    ],
+    "source_sha256": "fae8edc4d9f281a53120abc6638f8796e9e6c49f63ba59585290810fb55fbfe8",
+    "output_sha256": "9a27bd001196d255dfc18f63e7e638862680b6006c338b3a401998f180415373",
+    "bytes": 1636856
+  },
+  {
+    "key": "../227/components/Feminine-reading-glasses.glb",
+    "source": "../266/assets/Feminine-Feminine-reading-glasses-b39c32dc.glb",
+    "output": "./assets/Feminine-Feminine-reading-glasses-b39c32dc.glb",
+    "method": "rigid",
+    "nodes": [
+      "226 glasses / Accessory / warm metal226",
+      "226 glasses / Glasses / frame226"
+    ],
+    "source_sha256": "d8e7a4a948252946416fd1f9283b12964732499911c975a58b751954e4985eb7",
+    "output_sha256": "86f1772f2fd7f02ed5d8b02e17e3e2adecacd8061517059fcbca5fd79eaf916c",
+    "bytes": 90508
+  },
+  {
+    "key": "../232/components/Feminine-eyes-hooded.glb",
+    "source": "../266/assets/Feminine-Feminine-eyes-hooded-1096c1e2.glb",
+    "output": "./assets/Feminine-Feminine-eyes-hooded-1096c1e2.glb",
+    "method": "rigid",
+    "nodes": [
+      "226 eyes / Eye / smoky charcoal181",
+      "226 eyes / Eye glint181",
+      "226 eyes / Eye highlight181"
+    ],
+    "source_sha256": "d067fbf08961117bfba1321c08c6f74177a2568c8b2d20b41a96a98b5c89e062",
+    "output_sha256": "582ed6cabeecde67b39991c3ee76e06d40451ecb25be0c0941cb6d6231d22e1b",
+    "bytes": 282860
+  },
+  {
+    "key": "../232/components/Masculine-eyes-hooded.glb",
+    "source": "../266/assets/Masculine-Masculine-eyes-hooded-425d2a38.glb",
+    "output": "./assets/Masculine-Masculine-eyes-hooded-425d2a38.glb",
+    "method": "rigid",
+    "nodes": [
+      "226 eyes / Eye / smoky charcoal181",
+      "226 eyes / Eye glint181",
+      "226 eyes / Eye highlight181"
+    ],
+    "source_sha256": "dfcb92eaa51882ac9ad5709173f1afb68ddc95f14664c22135ad4f424bdeda9b",
+    "output_sha256": "440621bf1e5ab450cd245037f473df78863d3644758d2cdeca40581148bc55c7",
+    "bytes": 280704
+  },
+  {
+    "key": "../233/components/Feminine-eyes-bean.glb",
+    "source": "../266/assets/Feminine-Feminine-eyes-bean-79354f4c.glb",
+    "output": "./assets/Feminine-Feminine-eyes-bean-79354f4c.glb",
+    "method": "rigid",
+    "nodes": [
+      "226 eyes / Eye / smoky charcoal181",
+      "226 eyes / Eye glint181",
+      "226 eyes / Eye highlight181"
+    ],
+    "source_sha256": "e0154b8d5808c5e9a1870e09cd00b787213b3a3d4c89fd5c3cbbd00f88733b9d",
+    "output_sha256": "ec43ad386a4559741707123a3088844a55c2b95802386bf6855309d92e8e8911",
+    "bytes": 289044
+  },
+  {
+    "key": "../233/components/Feminine-eyes-tapered.glb",
+    "source": "../266/assets/Feminine-Feminine-eyes-tapered-1f60a1db.glb",
+    "output": "./assets/Feminine-Feminine-eyes-tapered-1f60a1db.glb",
+    "method": "rigid",
+    "nodes": [
+      "226 eyes / Eye / smoky charcoal181",
+      "226 eyes / Eye glint181",
+      "226 eyes / Eye highlight181"
+    ],
+    "source_sha256": "dd1920a9597b9ce70bc325b597a53e1635d8ca02f844a541f232b2187a30f365",
+    "output_sha256": "5266cf01e0530dd6dde1f4292039f092df06b175b31ec71591a1a56945825afe",
+    "bytes": 282860
+  },
+  {
+    "key": "../233/components/Masculine-eyes-bean.glb",
+    "source": "../266/assets/Masculine-Masculine-eyes-bean-e412c8c0.glb",
+    "output": "./assets/Masculine-Masculine-eyes-bean-e412c8c0.glb",
+    "method": "rigid",
+    "nodes": [
+      "226 eyes / Eye / smoky charcoal181",
+      "226 eyes / Eye glint181",
+      "226 eyes / Eye highlight181"
+    ],
+    "source_sha256": "d9cc2136f7593255047f562d0348694bffdc5e1bc510d03e21cb0c704e639a6e",
+    "output_sha256": "867bd344d47245ad5f585b059730a7702d606bedcc3b65e123ae94565ca30405",
+    "bytes": 286888
+  },
+  {
+    "key": "../233/components/Masculine-eyes-tapered.glb",
+    "source": "../266/assets/Masculine-Masculine-eyes-tapered-e82a58bc.glb",
+    "output": "./assets/Masculine-Masculine-eyes-tapered-e82a58bc.glb",
+    "method": "rigid",
+    "nodes": [
+      "226 eyes / Eye / smoky charcoal181",
+      "226 eyes / Eye glint181",
+      "226 eyes / Eye highlight181"
+    ],
+    "source_sha256": "08d6ec8e90ab7f876e7462ac7a254d0427dad9d625047acb3384d3c50b5d6c3c",
+    "output_sha256": "6f7f553fd54ee2777299b78e060ad2b4a2aff56190fc3822a9a3f8c1c03c08c7",
+    "bytes": 280704
+  },
+  {
+    "key": "../234/components/Feminine-bean-lashes.glb",
+    "source": "../266/assets/Feminine-Feminine-bean-lashes-f96758f5.glb",
+    "output": "./assets/Feminine-Feminine-bean-lashes-f96758f5.glb",
+    "method": "rigid",
+    "nodes": [
+      "226 eyelashes / Lashes / charcoal234"
+    ],
+    "source_sha256": "04159d5e5855824664fd3c093e610301689370d346c29fb676e625f514ef5696",
+    "output_sha256": "151ae9887a11474a1feb9fe1125229c8c26d657738a75739e8d67ba2d348557f",
+    "bytes": 60548
+  },
+  {
+    "key": "../234/components/Feminine-hooded-lashes.glb",
+    "source": "../266/assets/Feminine-Feminine-hooded-lashes-c429f391.glb",
+    "output": "./assets/Feminine-Feminine-hooded-lashes-c429f391.glb",
+    "method": "rigid",
+    "nodes": [
+      "226 eyelashes / Lashes / charcoal234"
+    ],
+    "source_sha256": "68f2069a86fa8efe8a3e779794366d75343d15d48075aeef2ffa5b34b7ab2288",
+    "output_sha256": "1441dbf4070a00034cb72ff3798ad6e48eeaee0e70ccd2efcdf9846d39f61035",
+    "bytes": 60548
+  },
+  {
+    "key": "../234/components/Feminine-original-lashes.glb",
+    "source": "../266/assets/Feminine-Feminine-original-lashes-5d67b354.glb",
+    "output": "./assets/Feminine-Feminine-original-lashes-5d67b354.glb",
+    "method": "rigid",
+    "nodes": [
+      "226 eyelashes / Lashes / charcoal234"
+    ],
+    "source_sha256": "f5bb8a6d4e7f02141d8f4358251d4a2d80e0b4163e734a56629b4b3077977284",
+    "output_sha256": "34029fff9f3d27484284d90b933a8e01004a7f852da93a665701675f77522f18",
+    "bytes": 60552
+  },
+  {
+    "key": "../234/components/Feminine-tapered-lashes.glb",
+    "source": "../266/assets/Feminine-Feminine-tapered-lashes-0b170243.glb",
+    "output": "./assets/Feminine-Feminine-tapered-lashes-0b170243.glb",
+    "method": "rigid",
+    "nodes": [
+      "226 eyelashes / Lashes / charcoal234"
+    ],
+    "source_sha256": "1b19dc52307ddcd010e9adf1150b17cc9e8181cd923a2cb7b17816ee472100fe",
+    "output_sha256": "f3e7e5aae47aa2fa2af1200d7fbbe3f608add226fb072b604914fc100a775401",
+    "bytes": 60552
+  },
+  {
+    "key": "../235/components/Feminine-cap-headgear.glb",
+    "source": "../266/assets/Feminine-Feminine-cap-headgear-ae186d8b.glb",
+    "output": "./assets/Feminine-Feminine-cap-headgear-ae186d8b.glb",
+    "method": "rigid",
+    "nodes": [
+      "226 headgear / Cap / ivory emblem223",
+      "226 headgear / Cap / midnight cotton212",
+      "226 headgear / Cap / subtle sewing212"
+    ],
+    "source_sha256": "d9b4a9c4697ed3e166ad0df1df331a6e253152bf5fdfcb063dca480edcde7a02",
+    "output_sha256": "a55d74d5db755f860f6951ce45175f76a17585a97a87686fc613187175a2c9db",
+    "bytes": 1338916
+  },
+  {
+    "key": "../235/components/Feminine-reading-lenses.glb",
+    "source": "../266/assets/Feminine-Feminine-reading-lenses-5ccfab34.glb",
+    "output": "./assets/Feminine-Feminine-reading-lenses-5ccfab34.glb",
+    "method": "rigid",
+    "nodes": [
+      "226 lenses / Glasses / clear non-refracting pane235"
+    ],
+    "source_sha256": "0a3ee2a9fe96de444d383c03c03e05ea723568a4853500a7e5763d5cfc7f7643",
+    "output_sha256": "274ea5f526baeca35c21a76a26c039291e004e70db6618d6a9c7f33659d3a494",
+    "bytes": 12500
+  },
+  {
+    "key": "../235/components/Feminine-rectangular-lenses.glb",
+    "source": "../266/assets/Feminine-Feminine-rectangular-lenses-96d7d740.glb",
+    "output": "./assets/Feminine-Feminine-rectangular-lenses-96d7d740.glb",
+    "method": "rigid",
+    "nodes": [
+      "226 lenses / Glasses / clear non-refracting pane235"
+    ],
+    "source_sha256": "6a67bcad03f5e4982730bac5ee8666149a5935d7b9cc61c3e499565b34ed4e6d",
+    "output_sha256": "87eb49d575c6c8de3f96b511d607e32ece386fe63403d37b557120750d4fefc7",
+    "bytes": 191972
+  },
+  {
+    "key": "../235/components/Masculine-groom-goatee.glb",
+    "source": "../266/assets/Masculine-Masculine-groom-goatee-39dc227c.glb",
+    "output": "./assets/Masculine-Masculine-groom-goatee-39dc227c.glb",
+    "method": "rigid",
+    "nodes": [
+      "Groom / goatee body184",
+      "Groom / shared mustache208"
+    ],
+    "source_sha256": "d8e574918451239e269274f8ba6edb80bcff9ba274941047f819851f3acfc10d",
+    "output_sha256": "12187da4840fdc55aeac3474a8695ff71a98626fbb736481b93529ed330edb1a",
+    "bytes": 1041828
+  },
+  {
+    "key": "../235/components/Masculine-groom-long.glb",
+    "source": "../266/assets/Masculine-Masculine-groom-long-1250ee1a.glb",
+    "output": "./assets/Masculine-Masculine-groom-long-1250ee1a.glb",
+    "method": "rigid",
+    "nodes": [
+      "Groom / rounded long188",
+      "Groom / shared mustache208"
+    ],
+    "source_sha256": "c34a0a61fe66255f61ed4d7b2dedffa9e36572f8f320506527b661fbfbc52dfd",
+    "output_sha256": "0fa76d4c9c87f732eafd17b5a1d017c86c726e95b011cf17a95e49427ef2609e",
+    "bytes": 1242268
+  },
+  {
+    "key": "../235/components/Masculine-groom-mustache.glb",
+    "source": "../266/assets/Masculine-Masculine-groom-mustache-145c8472.glb",
+    "output": "./assets/Masculine-Masculine-groom-mustache-145c8472.glb",
+    "method": "rigid",
+    "nodes": [
+      "Groom / shared mustache208"
+    ],
+    "source_sha256": "03a25609a039fc54f7b611483a0e59dc4e4fb41396feb8fa582b357f477d913b",
+    "output_sha256": "382279095d971da27224f873eaaab07615ac7a3ed64b4051ecfb9cf8994618d8",
+    "bytes": 301500
+  },
+  {
+    "key": "../235/components/Masculine-groom-patch.glb",
+    "source": "../266/assets/Masculine-Masculine-groom-patch-10327d59.glb",
+    "output": "./assets/Masculine-Masculine-groom-patch-10327d59.glb",
+    "method": "rigid",
+    "nodes": [
+      "Groom / sculpted soul patch187",
+      "Groom / shared mustache208"
+    ],
+    "source_sha256": "b5319b5c74798a97ecec197b7d73116b9e086ef040dcbe5616ef4db3f563c697",
+    "output_sha256": "70597948b0c1b9f5ae8e4c4f8671d09d1ad22dc0e98ffe82937c4efaed21a7fe",
+    "bytes": 481972
+  },
+  {
+    "key": "../235/components/Masculine-groom-short.glb",
+    "source": "../266/assets/Masculine-Masculine-groom-short-b9b78a24.glb",
+    "output": "./assets/Masculine-Masculine-groom-short-b9b78a24.glb",
+    "method": "rigid",
+    "nodes": [
+      "Groom / shared mustache208",
+      "Groom / short body184"
+    ],
+    "source_sha256": "f8f67e72df6a3384e3f89e85e689c33d4d2753face87841c5a0a9256151afccd",
+    "output_sha256": "887f0587f376ef14515fcd0553b6b4f6e77a4680f50dde8e745025aab92815e2",
+    "bytes": 1526480
+  },
+  {
+    "key": "../235/components/Masculine-groom-stubble.glb",
+    "source": "../266/assets/Masculine-Masculine-groom-stubble-4918a94d.glb",
+    "output": "./assets/Masculine-Masculine-groom-stubble-4918a94d.glb",
+    "method": "rigid",
+    "nodes": [
+      "Groom / clean stubble184",
+      "Groom / upper lip stubble191"
+    ],
+    "source_sha256": "64b1d68f3973ba087ece2a8f02211b40fbc3f00ba996146147d96a6aa42defb3",
+    "output_sha256": "9c889fa26bb2ce0310e1247bf914106d085698e23d44d4a11fdfdad1206cb113",
+    "bytes": 1585936
+  },
+  {
+    "key": "../235/components/Masculine-rectangular-lenses.glb",
+    "source": "../266/assets/Masculine-Masculine-rectangular-lenses-71f90cbf.glb",
+    "output": "./assets/Masculine-Masculine-rectangular-lenses-71f90cbf.glb",
+    "method": "rigid",
+    "nodes": [
+      "226 lenses / Glasses / clear non-refracting pane235"
+    ],
+    "source_sha256": "e7403ab878bd71f4d4e0cda72eec3b9f33de1b490c046ca120477869db2bafcb",
+    "output_sha256": "ef4495a5d530408f33d5cfba222b3a832f4969f798f510eed8044299b464a87d",
+    "bytes": 189924
+  },
+  {
+    "key": "../250/components/Feminine-curls-jersey-pashmina250-headgear.glb",
+    "source": "../266/assets/Feminine-Feminine-curls-jersey-pashmina250-headgear-52d0b367.glb",
+    "output": "./assets/Feminine-Feminine-curls-jersey-pashmina250-headgear-52d0b367.glb",
+    "method": "drape",
+    "nodes": [
+      "226 headgear / Headwear / continuous woven pashmina239",
+      "226 headgear / Headwear / face edge239",
+      "226 headgear / Headwear / fine fringe239"
+    ],
+    "source_sha256": "7f9db73bfd7d320e6fdad25092ec93afbd9dd2e4a40c0bab9a143ba251aa4834",
+    "output_sha256": "8eb949d87b6ad46c3b0ec3a387b53fb42a7e4a70024fbede93ecd48834fb07fb",
+    "bytes": 2703008
+  },
+  {
+    "key": "../250/components/Feminine-curls-open-pashmina250-headgear.glb",
+    "source": "../266/assets/Feminine-Feminine-curls-open-pashmina250-headgear-061ff4b7.glb",
+    "output": "./assets/Feminine-Feminine-curls-open-pashmina250-headgear-061ff4b7.glb",
+    "method": "drape",
+    "nodes": [
+      "226 headgear / Headwear / continuous woven pashmina239",
+      "226 headgear / Headwear / face edge239",
+      "226 headgear / Headwear / fine fringe239"
+    ],
+    "source_sha256": "df7fe46551ad32bc9124b4a82a8b74928c3b34babdcfebbc4db65686ad02b90e",
+    "output_sha256": "7529995d3af340b5e056cfef7a19daa0ebfdc29d247b3c127759ec9aee76000d",
+    "bytes": 2703008
+  },
+  {
+    "key": "../250/components/Feminine-curls-sweatshirt-pashmina250-headgear.glb",
+    "source": "../266/assets/Feminine-Feminine-curls-sweatshirt-pashmina250-headgear-5b869d53.glb",
+    "output": "./assets/Feminine-Feminine-curls-sweatshirt-pashmina250-headgear-5b869d53.glb",
+    "method": "drape",
+    "nodes": [
+      "226 headgear / Headwear / continuous woven pashmina239",
+      "226 headgear / Headwear / face edge239",
+      "226 headgear / Headwear / fine fringe239"
+    ],
+    "source_sha256": "c39f749caa687569aa39a1a327150b512b76b617755eab1b631860ff8034c990",
+    "output_sha256": "0048461047b4132c78bbbdbbfef9ca81be59a270a06665006b5cb4e4d7686aa9",
+    "bytes": 2703008
+  },
+  {
+    "key": "../250/components/Feminine-curls-tank-pashmina250-headgear.glb",
+    "source": "../266/assets/Feminine-Feminine-curls-tank-pashmina250-headgear-7583be13.glb",
+    "output": "./assets/Feminine-Feminine-curls-tank-pashmina250-headgear-7583be13.glb",
+    "method": "drape",
+    "nodes": [
+      "226 headgear / Headwear / continuous woven pashmina239",
+      "226 headgear / Headwear / face edge239",
+      "226 headgear / Headwear / fine fringe239"
+    ],
+    "source_sha256": "b3228aafe31af5cfeffe93c34527b6ecddf4cea2a3704bd489d925af9e0b6b38",
+    "output_sha256": "d38497720dfa50d1347e9624f099f0103df8542ce3882d88c99770c1071e2b40",
+    "bytes": 2703004
+  },
+  {
+    "key": "../250/components/Feminine-curls-tshirt-pashmina250-headgear.glb",
+    "source": "../266/assets/Feminine-Feminine-curls-tshirt-pashmina250-headgear-f651840d.glb",
+    "output": "./assets/Feminine-Feminine-curls-tshirt-pashmina250-headgear-f651840d.glb",
+    "method": "drape",
+    "nodes": [
+      "226 headgear / Headwear / continuous woven pashmina239",
+      "226 headgear / Headwear / face edge239",
+      "226 headgear / Headwear / fine fringe239"
+    ],
+    "source_sha256": "5e71681e223a3de7bf701d38d2f549e36d9510b2facba5e24c3d6988b52be236",
+    "output_sha256": "002eb9e48b46554bdb3b8a12905793923e7990710915fcd86f83bd985fc26dc0",
+    "bytes": 2703004
+  },
+  {
+    "key": "../250/components/Feminine-straight-jersey-pashmina250-headgear.glb",
+    "source": "../266/assets/Feminine-Feminine-straight-jersey-pashmina250-headgear-78373d4b.glb",
+    "output": "./assets/Feminine-Feminine-straight-jersey-pashmina250-headgear-78373d4b.glb",
+    "method": "drape",
+    "nodes": [
+      "226 headgear / Headwear / continuous woven pashmina239",
+      "226 headgear / Headwear / face edge239",
+      "226 headgear / Headwear / fine fringe239"
+    ],
+    "source_sha256": "5ffeb45dae7515398e101ef2a24bf15b1d58a416da6bec97302dbb1fcd780895",
+    "output_sha256": "d4cf88699986bc207aa8c4edf22f36f9554d46b819f797120d65ba7935f75f5f",
+    "bytes": 2703012
+  },
+  {
+    "key": "../250/components/Feminine-straight-open-pashmina250-headgear.glb",
+    "source": "../266/assets/Feminine-Feminine-straight-open-pashmina250-headgear-0f399e15.glb",
+    "output": "./assets/Feminine-Feminine-straight-open-pashmina250-headgear-0f399e15.glb",
+    "method": "drape",
+    "nodes": [
+      "226 headgear / Headwear / continuous woven pashmina239",
+      "226 headgear / Headwear / face edge239",
+      "226 headgear / Headwear / fine fringe239"
+    ],
+    "source_sha256": "e69bae3e11b56961b99372afb00670c109864c5b278195ea78d51f8b7706eb0f",
+    "output_sha256": "7a63c6a1f629797107b2f06a722dbd801e5aead531bb4c6209f8b45f747f43ab",
+    "bytes": 2703012
+  },
+  {
+    "key": "../250/components/Feminine-straight-sweatshirt-pashmina250-headgear.glb",
+    "source": "../266/assets/Feminine-Feminine-straight-sweatshirt-pashmina250-headgear-b7ba2e8c.glb",
+    "output": "./assets/Feminine-Feminine-straight-sweatshirt-pashmina250-headgear-b7ba2e8c.glb",
+    "method": "drape",
+    "nodes": [
+      "226 headgear / Headwear / continuous woven pashmina239",
+      "226 headgear / Headwear / face edge239",
+      "226 headgear / Headwear / fine fringe239"
+    ],
+    "source_sha256": "604a7ff22ac530318d310166bc23a4d497b6f91b3acf6d3f2488b97bc3e03918",
+    "output_sha256": "67465dd300ca63cb90ef51be6fdd155ccf69691d4117ad5b40e20dbedeb4a562",
+    "bytes": 2703008
+  },
+  {
+    "key": "../250/components/Feminine-straight-tank-pashmina250-headgear.glb",
+    "source": "../266/assets/Feminine-Feminine-straight-tank-pashmina250-headgear-648ef9c3.glb",
+    "output": "./assets/Feminine-Feminine-straight-tank-pashmina250-headgear-648ef9c3.glb",
+    "method": "drape",
+    "nodes": [
+      "226 headgear / Headwear / continuous woven pashmina239",
+      "226 headgear / Headwear / face edge239",
+      "226 headgear / Headwear / fine fringe239"
+    ],
+    "source_sha256": "46b2881dedec99c9602a563222e2db2f63a27a55393d839d4b4dd63be7842b6e",
+    "output_sha256": "d9967071e19f93b18d23ef11e6672a71464709f613359f28bee022744c872a64",
+    "bytes": 2703008
+  },
+  {
+    "key": "../250/components/Feminine-straight-tshirt-pashmina250-headgear.glb",
+    "source": "../266/assets/Feminine-Feminine-straight-tshirt-pashmina250-headgear-b949cf31.glb",
+    "output": "./assets/Feminine-Feminine-straight-tshirt-pashmina250-headgear-b949cf31.glb",
+    "method": "drape",
+    "nodes": [
+      "226 headgear / Headwear / continuous woven pashmina239",
+      "226 headgear / Headwear / face edge239",
+      "226 headgear / Headwear / fine fringe239"
+    ],
+    "source_sha256": "b621c09c52f3a719fa19f62fe25d6e426a321e04ca2d504b975157e6ec5f73e8",
+    "output_sha256": "94e32504746b27a1ee91c8d2c0fecf1e215153b1b7e260b8063db78580ce58c7",
+    "bytes": 2703008
+  },
+  {
+    "key": "../250/components/Masculine-flow-buttonup-pashmina250-headgear.glb",
+    "source": "../266/assets/Masculine-Masculine-flow-buttonup-pashmina250-headgear-a7dd7407.glb",
+    "output": "./assets/Masculine-Masculine-flow-buttonup-pashmina250-headgear-a7dd7407.glb",
+    "method": "buttonup-drape",
+    "nodes": [
+      "226 headgear / Headwear / continuous woven pashmina239",
+      "226 headgear / Headwear / face edge239",
+      "226 headgear / Headwear / fine fringe239"
+    ],
+    "source_sha256": "a22b95f618f421a0c7a104fbb9109e953f5402897a5311e8a2c14ca97aac9073",
+    "output_sha256": "bc715eb06e9d76e930daa1b17dbb576680c5f64dbf6d57452f8a0780d2271637",
+    "bytes": 2700852
+  },
+  {
+    "key": "../250/components/Masculine-flow-jersey-pashmina250-headgear.glb",
+    "source": "../266/assets/Masculine-Masculine-flow-jersey-pashmina250-headgear-2b596f3f.glb",
+    "output": "./assets/Masculine-Masculine-flow-jersey-pashmina250-headgear-2b596f3f.glb",
+    "method": "drape",
+    "nodes": [
+      "226 headgear / Headwear / continuous woven pashmina239",
+      "226 headgear / Headwear / face edge239",
+      "226 headgear / Headwear / fine fringe239"
+    ],
+    "source_sha256": "307e81ca1dd413960d3ccb03f2a039269cda8cf11300de7bf9ee9fb7da295b37",
+    "output_sha256": "d8de5d027d6a585390aae03ccd2eda271c57b2c56730846feca03f0ed90f017d",
+    "bytes": 2700852
+  },
+  {
+    "key": "../250/components/Masculine-flow-sweatshirt-pashmina250-headgear.glb",
+    "source": "../266/assets/Masculine-Masculine-flow-sweatshirt-pashmina250-headgear-7dc2ccd5.glb",
+    "output": "./assets/Masculine-Masculine-flow-sweatshirt-pashmina250-headgear-7dc2ccd5.glb",
+    "method": "drape",
+    "nodes": [
+      "226 headgear / Headwear / continuous woven pashmina239",
+      "226 headgear / Headwear / face edge239",
+      "226 headgear / Headwear / fine fringe239"
+    ],
+    "source_sha256": "cc41e30969ff1d5fe57ed831f63b1d737a5769eec77dd7cf40ddb4fccc50111d",
+    "output_sha256": "04f61ee0530ca21557c747b16599efd5e81255e9831c27a2845defa65082d6ae",
+    "bytes": 2701184
+  },
+  {
+    "key": "../250/components/Masculine-flow-tank-pashmina250-headgear.glb",
+    "source": "../266/assets/Masculine-Masculine-flow-tank-pashmina250-headgear-7d17809e.glb",
+    "output": "./assets/Masculine-Masculine-flow-tank-pashmina250-headgear-7d17809e.glb",
+    "method": "drape",
+    "nodes": [
+      "226 headgear / Headwear / continuous woven pashmina239",
+      "226 headgear / Headwear / face edge239",
+      "226 headgear / Headwear / fine fringe239"
+    ],
+    "source_sha256": "d4c6807944650f2b7fff18b092d5e715ed4356af7ac2a21650b60a2ed21b6fe4",
+    "output_sha256": "ba4c7daf0815ce3ea6215ab87cd4b2e70155a5e693a14998ac8a48280852d8f8",
+    "bytes": 2700852
+  },
+  {
+    "key": "../250/components/Masculine-flow-tshirt-pashmina250-headgear.glb",
+    "source": "../266/assets/Masculine-Masculine-flow-tshirt-pashmina250-headgear-f4e31eff.glb",
+    "output": "./assets/Masculine-Masculine-flow-tshirt-pashmina250-headgear-f4e31eff.glb",
+    "method": "drape",
+    "nodes": [
+      "226 headgear / Headwear / continuous woven pashmina239",
+      "226 headgear / Headwear / face edge239",
+      "226 headgear / Headwear / fine fringe239"
+    ],
+    "source_sha256": "ff69e47988731789531de056a3b6be909b53d751649f7222259302bfacef8c4c",
+    "output_sha256": "9fc29cf26c33bb863a807176d254a11cfc31f85771118e71685f0e67d743f1b2",
+    "bytes": 2700852
+  },
+  {
+    "key": "../250/components/Masculine-middle-part-buttonup-pashmina250-headgear.glb",
+    "source": "../266/assets/Masculine-Masculine-middle-part-buttonup-pashmina250-headgear-13372ad4.glb",
+    "output": "./assets/Masculine-Masculine-middle-part-buttonup-pashmina250-headgear-13372ad4.glb",
+    "method": "buttonup-drape",
+    "nodes": [
+      "226 headgear / Headwear / continuous woven pashmina239",
+      "226 headgear / Headwear / face edge239",
+      "226 headgear / Headwear / fine fringe239"
+    ],
+    "source_sha256": "77fa7aab19034661dc69ebaedc8e29fa22e3450fd0521162bc465d6e11c0f09c",
+    "output_sha256": "f7fa9eef3376c0af62a22aa2e8d59298161e04f0b8bed97a056cdcc3186e9271",
+    "bytes": 2700852
+  },
+  {
+    "key": "../250/components/Masculine-middle-part-jersey-pashmina250-headgear.glb",
+    "source": "../266/assets/Masculine-Masculine-middle-part-jersey-pashmina250-headgear-80ee5d8e.glb",
+    "output": "./assets/Masculine-Masculine-middle-part-jersey-pashmina250-headgear-80ee5d8e.glb",
+    "method": "drape",
+    "nodes": [
+      "226 headgear / Headwear / continuous woven pashmina239",
+      "226 headgear / Headwear / face edge239",
+      "226 headgear / Headwear / fine fringe239"
+    ],
+    "source_sha256": "db765f8d44e1cf936f8e05795c8be11369ddf1156ef651c159abf30f766bf4b6",
+    "output_sha256": "d72cba99133150c4fc090083ab5e9f857b14a42f2b0be1f78412e6089b197709",
+    "bytes": 2700852
+  },
+  {
+    "key": "../250/components/Masculine-middle-part-sweatshirt-pashmina250-headgear.glb",
+    "source": "../266/assets/Masculine-Masculine-middle-part-sweatshirt-pashmina250-headgear-7a521b6c.glb",
+    "output": "./assets/Masculine-Masculine-middle-part-sweatshirt-pashmina250-headgear-7a521b6c.glb",
+    "method": "drape",
+    "nodes": [
+      "226 headgear / Headwear / continuous woven pashmina239",
+      "226 headgear / Headwear / face edge239",
+      "226 headgear / Headwear / fine fringe239"
+    ],
+    "source_sha256": "3e50cd867f4accf9367ad06b322438affa6e68df1c4650a710ded76bc11a2924",
+    "output_sha256": "7029dbcbf659cc12ea747976c07fc83e4da1603bb52dbdd8297441382cb2dbf5",
+    "bytes": 2701184
+  },
+  {
+    "key": "../250/components/Masculine-middle-part-tank-pashmina250-headgear.glb",
+    "source": "../266/assets/Masculine-Masculine-middle-part-tank-pashmina250-headgear-6aa54bea.glb",
+    "output": "./assets/Masculine-Masculine-middle-part-tank-pashmina250-headgear-6aa54bea.glb",
+    "method": "drape",
+    "nodes": [
+      "226 headgear / Headwear / continuous woven pashmina239",
+      "226 headgear / Headwear / face edge239",
+      "226 headgear / Headwear / fine fringe239"
+    ],
+    "source_sha256": "59069590585f8e7a24380a430ddb3ce9ec4d67fbb3ee64149bbef35c0a5c0f72",
+    "output_sha256": "ebf1e91b5de6fa2522a2c93558df4e53c56e1f94aacd33bda71c11096dea6752",
+    "bytes": 2700852
+  },
+  {
+    "key": "../250/components/Masculine-middle-part-tshirt-pashmina250-headgear.glb",
+    "source": "../266/assets/Masculine-Masculine-middle-part-tshirt-pashmina250-headgear-f8bb9be2.glb",
+    "output": "./assets/Masculine-Masculine-middle-part-tshirt-pashmina250-headgear-f8bb9be2.glb",
+    "method": "drape",
+    "nodes": [
+      "226 headgear / Headwear / continuous woven pashmina239",
+      "226 headgear / Headwear / face edge239",
+      "226 headgear / Headwear / fine fringe239"
+    ],
+    "source_sha256": "d4c9cad58cf804a6ec510d379d3fcc994b9e141d8d1919917221dcacd9214eb6",
+    "output_sha256": "bc3d4e67952643dc16dc225e9717790e47961eb72163bd4c9ff9eabeef14b609",
+    "bytes": 2700852
+  },
+  {
+    "key": "../250/components/Masculine-taper-buttonup-pashmina250-headgear.glb",
+    "source": "../266/assets/Masculine-Masculine-taper-buttonup-pashmina250-headgear-3f073d6d.glb",
+    "output": "./assets/Masculine-Masculine-taper-buttonup-pashmina250-headgear-3f073d6d.glb",
+    "method": "buttonup-drape",
+    "nodes": [
+      "226 headgear / Headwear / continuous woven pashmina239",
+      "226 headgear / Headwear / face edge239",
+      "226 headgear / Headwear / fine fringe239"
+    ],
+    "source_sha256": "70e9530c6d1470d373e9b2c970773793002e9629b1a30062e6a3d1deca476d08",
+    "output_sha256": "f9d917b1855d547f633e974f62cc0e8a8444825f6f83af1b74fed49694dcc677",
+    "bytes": 2700852
+  },
+  {
+    "key": "../250/components/Masculine-taper-jersey-pashmina250-headgear.glb",
+    "source": "../266/assets/Masculine-Masculine-taper-jersey-pashmina250-headgear-1f84a86f.glb",
+    "output": "./assets/Masculine-Masculine-taper-jersey-pashmina250-headgear-1f84a86f.glb",
+    "method": "drape",
+    "nodes": [
+      "226 headgear / Headwear / continuous woven pashmina239",
+      "226 headgear / Headwear / face edge239",
+      "226 headgear / Headwear / fine fringe239"
+    ],
+    "source_sha256": "92b5cec032fe32d49869494b86e0c24308a9136454ea2edf5b40aa07a22413a1",
+    "output_sha256": "3d2665d4fb4238bd174d06e468a58c12794834f6f2b5d2538cc84ed139b25d0c",
+    "bytes": 2700852
+  },
+  {
+    "key": "../250/components/Masculine-taper-sweatshirt-pashmina250-headgear.glb",
+    "source": "../266/assets/Masculine-Masculine-taper-sweatshirt-pashmina250-headgear-9de84c16.glb",
+    "output": "./assets/Masculine-Masculine-taper-sweatshirt-pashmina250-headgear-9de84c16.glb",
+    "method": "drape",
+    "nodes": [
+      "226 headgear / Headwear / continuous woven pashmina239",
+      "226 headgear / Headwear / face edge239",
+      "226 headgear / Headwear / fine fringe239"
+    ],
+    "source_sha256": "bd81c94ce298c4726d307a194118e556ae61aa649c800e6370f074765e8d8964",
+    "output_sha256": "c926700682eea0874b954c116b6d01e63876997032f73faa7bc492cf7a13e775",
+    "bytes": 2701184
+  },
+  {
+    "key": "../250/components/Masculine-taper-tank-pashmina250-headgear.glb",
+    "source": "../266/assets/Masculine-Masculine-taper-tank-pashmina250-headgear-577bc44d.glb",
+    "output": "./assets/Masculine-Masculine-taper-tank-pashmina250-headgear-577bc44d.glb",
+    "method": "drape",
+    "nodes": [
+      "226 headgear / Headwear / continuous woven pashmina239",
+      "226 headgear / Headwear / face edge239",
+      "226 headgear / Headwear / fine fringe239"
+    ],
+    "source_sha256": "2903c5fc9286ca14919e8114218610f582005e04459b6b620c97387cbf8f5aa9",
+    "output_sha256": "b18b8ea3fd4676b55df59938a9f4f6643d72bf6f17ea2cf499d4bc5773588ce1",
+    "bytes": 2700852
+  },
+  {
+    "key": "../250/components/Masculine-taper-tshirt-pashmina250-headgear.glb",
+    "source": "../266/assets/Masculine-Masculine-taper-tshirt-pashmina250-headgear-a583abdd.glb",
+    "output": "./assets/Masculine-Masculine-taper-tshirt-pashmina250-headgear-a583abdd.glb",
+    "method": "drape",
+    "nodes": [
+      "226 headgear / Headwear / continuous woven pashmina239",
+      "226 headgear / Headwear / face edge239",
+      "226 headgear / Headwear / fine fringe239"
+    ],
+    "source_sha256": "b663327b34cbc2e6ca488a96512247ad86e19087bbb1150f2adbf800e952782c",
+    "output_sha256": "b665f489e87dc2ba202ad79eb03122f8aae3201700282817394b254eea30e38e",
+    "bytes": 2700852
+  },
+  {
+    "key": "../251/components/Feminine-ponytail-jersey-pashmina251-headgear.glb",
+    "source": "../266/assets/Feminine-Feminine-ponytail-jersey-pashmina251-headgear-41885bef.glb",
+    "output": "./assets/Feminine-Feminine-ponytail-jersey-pashmina251-headgear-41885bef.glb",
+    "method": "drape",
+    "nodes": [
+      "226 headgear / Headwear / continuous woven pashmina239",
+      "226 headgear / Headwear / face edge239",
+      "226 headgear / Headwear / fine fringe239"
+    ],
+    "source_sha256": "d959c9b13adf3d69187c8c7b3bc9bda38cad16bb1d38980a0242c20be23af6eb",
+    "output_sha256": "555b628affe978999f381a1e93a511d098f78a0a791a04d7fc3ee31fc2fdc1dd",
+    "bytes": 2703016
+  },
+  {
+    "key": "../251/components/Feminine-ponytail-open-pashmina251-headgear.glb",
+    "source": "../266/assets/Feminine-Feminine-ponytail-open-pashmina251-headgear-45db9f31.glb",
+    "output": "./assets/Feminine-Feminine-ponytail-open-pashmina251-headgear-45db9f31.glb",
+    "method": "drape",
+    "nodes": [
+      "226 headgear / Headwear / continuous woven pashmina239",
+      "226 headgear / Headwear / face edge239",
+      "226 headgear / Headwear / fine fringe239"
+    ],
+    "source_sha256": "08cc98e138d02b5e858c03126212fa2a5e92a0b70f890e36e74a440d1270a40c",
+    "output_sha256": "621522409191caf48103f6870cf81a67f8045cc4923fcdd00c6dd17734ef9198",
+    "bytes": 2703012
+  },
+  {
+    "key": "../251/components/Feminine-ponytail-pashmina251-hair.glb",
+    "source": "../266/assets/Feminine-Feminine-ponytail-pashmina251-hair-e7682a1e.glb",
+    "output": "./assets/Feminine-Feminine-ponytail-pashmina251-hair-e7682a1e.glb",
+    "method": "rigid",
+    "nodes": [
+      "226 hair / Hair / chestnut212 0",
+      "226 hair / Hair / chestnut212 1",
+      "226 hair / Hair / chestnut212 2",
+      "226 hair / Hair / crisp pulled roots220",
+      "226 hair / Hair / fitted tie214",
+      "226 hair / Hair / sculpted front locks222"
+    ],
+    "source_sha256": "189877fa4d2a97ff5c856124db90daf6e6e9741963452d95972e41112b35222e",
+    "output_sha256": "d02069b21a6d4d0858b5f9b036f9417162567ed8365d72ca00bd0d4862b2c137",
+    "bytes": 2330980
+  },
+  {
+    "key": "../251/components/Feminine-ponytail-sweatshirt-pashmina251-headgear.glb",
+    "source": "../266/assets/Feminine-Feminine-ponytail-sweatshirt-pashmina251-headgear-10ab83d2.glb",
+    "output": "./assets/Feminine-Feminine-ponytail-sweatshirt-pashmina251-headgear-10ab83d2.glb",
+    "method": "drape",
+    "nodes": [
+      "226 headgear / Headwear / continuous woven pashmina239",
+      "226 headgear / Headwear / face edge239",
+      "226 headgear / Headwear / fine fringe239"
+    ],
+    "source_sha256": "427e7c492888707edf4e91e9b01da0598145d93a6629887e0b9a97dde0431434",
+    "output_sha256": "19a172ebb1526bdb57aea8bfcf28ed71f74595c818a36808dcf7d5fc59177103",
+    "bytes": 2703012
+  },
+  {
+    "key": "../251/components/Feminine-ponytail-tank-pashmina251-headgear.glb",
+    "source": "../266/assets/Feminine-Feminine-ponytail-tank-pashmina251-headgear-71c2f22c.glb",
+    "output": "./assets/Feminine-Feminine-ponytail-tank-pashmina251-headgear-71c2f22c.glb",
+    "method": "drape",
+    "nodes": [
+      "226 headgear / Headwear / continuous woven pashmina239",
+      "226 headgear / Headwear / face edge239",
+      "226 headgear / Headwear / fine fringe239"
+    ],
+    "source_sha256": "f66b200c6da388c63f31bab7d174fa9d9cc1f961905a0aac5c4445cf230dd164",
+    "output_sha256": "f2242806aff54a8fe5fea35a45976431d67b1b428d01b87eb54e2af8cfc12267",
+    "bytes": 2703012
+  },
+  {
+    "key": "../251/components/Feminine-ponytail-tshirt-pashmina251-headgear.glb",
+    "source": "../266/assets/Feminine-Feminine-ponytail-tshirt-pashmina251-headgear-bd01fb6c.glb",
+    "output": "./assets/Feminine-Feminine-ponytail-tshirt-pashmina251-headgear-bd01fb6c.glb",
+    "method": "drape",
+    "nodes": [
+      "226 headgear / Headwear / continuous woven pashmina239",
+      "226 headgear / Headwear / face edge239",
+      "226 headgear / Headwear / fine fringe239"
+    ],
+    "source_sha256": "9091fd2c432ecacd35f0776aa93deaf02a1f9ffc651847e7a8dfc64117aefcd9",
+    "output_sha256": "2dbc7c004910508649bed4846a4b2814f18e506b824dbdaf1422fabd8a497f6d",
+    "bytes": 2703008
+  },
+  {
+    "key": "../251/components/Masculine-flow-cap251-headgear.glb",
+    "source": "../266/assets/Masculine-Masculine-flow-cap251-headgear-819a8dbe.glb",
+    "output": "./assets/Masculine-Masculine-flow-cap251-headgear-819a8dbe.glb",
+    "method": "rigid",
+    "nodes": [
+      "226 headgear / Cap / ivory emblem223.001",
+      "226 headgear / Cap / midnight cotton212.001",
+      "226 headgear / Cap / subtle sewing212.001"
+    ],
+    "source_sha256": "593b57c39d0cf6b5a4f64bca75906f540daf7124d50c966cb67378e6a57d6c99",
+    "output_sha256": "5cd4fe544891c330f0b3a3962a701fd01a078d46c0123df4735c1af2ed3ccc5d",
+    "bytes": 1396280
+  },
+  {
+    "key": "../251/components/Masculine-middle-part-cap251-headgear.glb",
+    "source": "../266/assets/Masculine-Masculine-middle-part-cap251-headgear-c9e4d285.glb",
+    "output": "./assets/Masculine-Masculine-middle-part-cap251-headgear-c9e4d285.glb",
+    "method": "rigid",
+    "nodes": [
+      "226 headgear / Cap / ivory emblem223.001",
+      "226 headgear / Cap / midnight cotton212.001",
+      "226 headgear / Cap / subtle sewing212.001"
+    ],
+    "source_sha256": "ece64f1ca7d02e0635c92ca98e73ec1f76d574778b1b256d27cfd27378ec9a73",
+    "output_sha256": "dbd816c5625f0017038d4c00020f8d2dee37c91cdbe72fa6c087a3340e15990c",
+    "bytes": 1396288
+  },
+  {
+    "key": "../251/components/Masculine-taper-cap251-headgear.glb",
+    "source": "../266/assets/Masculine-Masculine-taper-cap251-headgear-acec4fb0.glb",
+    "output": "./assets/Masculine-Masculine-taper-cap251-headgear-acec4fb0.glb",
+    "method": "rigid",
+    "nodes": [
+      "226 headgear / Cap / ivory emblem223.001",
+      "226 headgear / Cap / midnight cotton212.001",
+      "226 headgear / Cap / subtle sewing212.001"
+    ],
+    "source_sha256": "704e6d2efc60817be3cdee51c26f11034271440d37978740aae64d0f6f481677",
+    "output_sha256": "da1f419a312fe4e04b95bdd9454a5b7134c459742caf118327ee7a8f55a3d461",
+    "bytes": 1396280
+  },
+  {
+    "key": "../259/components/Masculine-taper-cap259-hair.glb",
+    "source": "../266/assets/Masculine-Masculine-taper-cap259-hair-b6342c16.glb",
+    "output": "./assets/Masculine-Masculine-taper-cap259-hair-b6342c16.glb",
+    "method": "rigid",
+    "nodes": [
+      "226 hair / Hair258 / sculpted side sweep 0",
+      "226 hair / Hair258 / sculpted side sweep 1",
+      "226 hair / Hair258 / sculpted side sweep 2",
+      "226 hair / Hair258 / smooth side fade",
+      "226 hair / Hair259 / directional fade marks214"
+    ],
+    "source_sha256": "a3e6292b3f06e4b164aaea2967b48292e977827b8e26fb78db4b87c1d688ecb0",
+    "output_sha256": "5eefa92a00b4d9583705838d998a854c4946f10e0ab020b612a1088b893a62ba",
+    "bytes": 10836704
+  },
+  {
+    "key": "../259/components/Masculine-taper-hair259.glb",
+    "source": "../266/assets/Masculine-Masculine-taper-hair259-8be430eb.glb",
+    "output": "./assets/Masculine-Masculine-taper-hair259-8be430eb.glb",
+    "method": "rigid",
+    "nodes": [
+      "226 hair / Hair258 / sculpted side sweep 0",
+      "226 hair / Hair258 / sculpted side sweep 1",
+      "226 hair / Hair258 / sculpted side sweep 2",
+      "226 hair / Hair258 / smooth side fade",
+      "226 hair / Hair259 / directional fade marks214"
+    ],
+    "source_sha256": "ab9a36c71e759a37b96725ee7abe402d4f8142d3628f4a4e6dcc7dd31e19b122",
+    "output_sha256": "5eefb58543e7f3821aebf504166ae32771d8841be37478cf519124260e888f66",
+    "bytes": 10836708
+  },
+  {
+    "key": "../259/components/Masculine-taper-pashmina259-hair.glb",
+    "source": "../266/assets/Masculine-Masculine-taper-pashmina259-hair-61c83994.glb",
+    "output": "./assets/Masculine-Masculine-taper-pashmina259-hair-61c83994.glb",
+    "method": "rigid",
+    "nodes": [
+      "226 hair / Hair258 / sculpted side sweep 0",
+      "226 hair / Hair258 / sculpted side sweep 1",
+      "226 hair / Hair258 / sculpted side sweep 2",
+      "226 hair / Hair258 / smooth side fade",
+      "226 hair / Hair259 / directional fade marks214"
+    ],
+    "source_sha256": "16e7bbd7fb68c23b89b07ad1a6906e5e93d90c186d151daba6261e2f0c44de75",
+    "output_sha256": "4a249c65a2dd653102373957441440d55391ccd63de49a45c252be174a519818",
+    "bytes": 10836704
+  },
+  {
+    "key": "../261/components/Feminine-curls-cap261-hair.glb",
+    "source": "../266/assets/Feminine-Feminine-curls-cap261-hair-346cf7ad.glb",
+    "output": "./assets/Feminine-Feminine-curls-cap261-hair-346cf7ad.glb",
+    "method": "loose",
+    "nodes": [
+      "226 hair / Hair / sculpted 0.001",
+      "226 hair / Hair / sculpted 1.001",
+      "226 hair / Hair / sculpted 1.002",
+      "226 hair / Hair / sculpted 2.001"
+    ],
+    "source_sha256": "0c3edd43dfd23d6c5c2d8991110b12d36dbb5c18d9a5c90493feded7b1fa90ad",
+    "output_sha256": "42cbd2e5200f414d6f9a3921dcebb92bb02bc56a37d32483223ae25397efdfa9",
+    "bytes": 2297612
+  },
+  {
+    "key": "../261/components/Feminine-curls-hair261.glb",
+    "source": "../266/assets/Feminine-Feminine-curls-hair261-1726d578.glb",
+    "output": "./assets/Feminine-Feminine-curls-hair261-1726d578.glb",
+    "method": "loose",
+    "nodes": [
+      "226 hair / Hair / sculpted 0.001",
+      "226 hair / Hair / sculpted 1.001",
+      "226 hair / Hair / sculpted 1.002",
+      "226 hair / Hair / sculpted 2.001"
+    ],
+    "source_sha256": "6484d6dec273aabd4b140b856e6d8712744468242ed97bb7f94fce17df62b6a4",
+    "output_sha256": "d77a426a21c37ba903eb1f1b21219cdef8225ead694e90ae8e17f3e58d91caee",
+    "bytes": 2297608
+  },
+  {
+    "key": "../261/components/Feminine-curls-pashmina261-hair.glb",
+    "source": "../266/assets/Feminine-Feminine-curls-pashmina261-hair-c2b8fad2.glb",
+    "output": "./assets/Feminine-Feminine-curls-pashmina261-hair-c2b8fad2.glb",
+    "method": "drape",
+    "nodes": [
+      "226 hair / Hair / sculpted 0.001",
+      "226 hair / Hair / sculpted 1.001",
+      "226 hair / Hair / sculpted 1.002",
+      "226 hair / Hair / sculpted 2.001"
+    ],
+    "source_sha256": "cbc4d05fafa3d1411572b2717fca042e4e08b09d99b7700924d1f4a3f9ab4d8f",
+    "output_sha256": "d1b53571c017166eb9b6af7735afeec5d0c6a3a99106dd2c76c97e2b94143f2e",
+    "bytes": 2297612
+  },
+  {
+    "key": "../261/components/Feminine-straight-cap261-hair.glb",
+    "source": "../266/assets/Feminine-Feminine-straight-cap261-hair-2c499f7c.glb",
+    "output": "./assets/Feminine-Feminine-straight-cap261-hair-2c499f7c.glb",
+    "method": "loose",
+    "nodes": [
+      "226 hair / Hair / sculpted 0.001",
+      "226 hair / Hair / sculpted 1.001",
+      "226 hair / Hair / sculpted 1.002",
+      "226 hair / Hair / sculpted 2.001"
+    ],
+    "source_sha256": "73eb9805b952e9f2092174929a4c23b6ff8df372845dd3104ac9d34f95c36456",
+    "output_sha256": "af8660dd6a89ab46276aa1c4b330c297ddaf0f2317e81f87877d9c3ace5f1b40",
+    "bytes": 2648024
+  },
+  {
+    "key": "../261/components/Feminine-straight-hair261.glb",
+    "source": "../266/assets/Feminine-Feminine-straight-hair261-86e8edb4.glb",
+    "output": "./assets/Feminine-Feminine-straight-hair261-86e8edb4.glb",
+    "method": "loose",
+    "nodes": [
+      "226 hair / Hair / sculpted 0.001",
+      "226 hair / Hair / sculpted 1.001",
+      "226 hair / Hair / sculpted 1.002",
+      "226 hair / Hair / sculpted 2.001"
+    ],
+    "source_sha256": "b98a76c3533c3d89b392b499de3bdf50672f7ded715eb9b0e25456b9eede018a",
+    "output_sha256": "9fefa70af0d62a3295d3277d9c45527370dfe8ece5a1703da9219473fa308dde",
+    "bytes": 2648020
+  },
+  {
+    "key": "../261/components/Feminine-straight-pashmina261-hair.glb",
+    "source": "../266/assets/Feminine-Feminine-straight-pashmina261-hair-07081bd6.glb",
+    "output": "./assets/Feminine-Feminine-straight-pashmina261-hair-07081bd6.glb",
+    "method": "drape",
+    "nodes": [
+      "226 hair / Hair / sculpted 0.001",
+      "226 hair / Hair / sculpted 1.001",
+      "226 hair / Hair / sculpted 1.002",
+      "226 hair / Hair / sculpted 2.001"
+    ],
+    "source_sha256": "fc8de98c7f8c10df68e98124a24522af8c50c897f9fb69760268aafbabc7795f",
+    "output_sha256": "2fefce2bbe5371751c3793a0cb0da4f513c63a127fbd16c5c0b9e0b19d3a2222",
+    "bytes": 2817504
+  },
+  {
+    "key": "../261/components/Masculine-flow-cap261-hair.glb",
+    "source": "../266/assets/Masculine-Masculine-flow-cap261-hair-7cb783ac.glb",
+    "output": "./assets/Masculine-Masculine-flow-cap261-hair-7cb783ac.glb",
+    "method": "rigid",
+    "nodes": [
+      "226 hair / Hair260 / layered flow"
+    ],
+    "source_sha256": "1d76b977d4f17a6cd3a45ffa7753942f63de15cc2aa591d0a8af912bfbd737ac",
+    "output_sha256": "b8eb1eef1c1a8dc1e20945cf6b08e3662da93b2efe08541cf3c8ae2810912813",
+    "bytes": 4452684
+  },
+  {
+    "key": "../261/components/Masculine-flow-hair261.glb",
+    "source": "../266/assets/Masculine-Masculine-flow-hair261-bb7ff5dc.glb",
+    "output": "./assets/Masculine-Masculine-flow-hair261-bb7ff5dc.glb",
+    "method": "rigid",
+    "nodes": [
+      "226 hair / Hair260 / layered flow"
+    ],
+    "source_sha256": "8083a3895344268f38666dfa617fdd9c6def0bb807026dd053b136607e24790f",
+    "output_sha256": "a872f25db874796dd7093e7cc3495265ebc25b50303aae8706e089a9dd9bd870",
+    "bytes": 4452684
+  },
+  {
+    "key": "../261/components/Masculine-flow-pashmina261-hair.glb",
+    "source": "../266/assets/Masculine-Masculine-flow-pashmina261-hair-06c0b1e1.glb",
+    "output": "./assets/Masculine-Masculine-flow-pashmina261-hair-06c0b1e1.glb",
+    "method": "rigid",
+    "nodes": [
+      "226 hair / Hair260 / layered flow"
+    ],
+    "source_sha256": "1448303e9a3fe5444c132d0abf03ed251c523b81e66acb7a279df874b3aa98a2",
+    "output_sha256": "679ca14d18e2575d4fbb72b118cb77c7e001b06c46521804e13ebdb69d9af3cb",
+    "bytes": 4452684
+  },
+  {
+    "key": "../261/components/Masculine-middle-part-cap261-hair.glb",
+    "source": "../266/assets/Masculine-Masculine-middle-part-cap261-hair-40cb142d.glb",
+    "output": "./assets/Masculine-Masculine-middle-part-cap261-hair-40cb142d.glb",
+    "method": "rigid",
+    "nodes": [
+      "226 hair / Hair260 / layered middle-part"
+    ],
+    "source_sha256": "fe1c56a74fb610fffd9cf80a148c87f3f7b6ce4283af4dbb8f9763c2ba9b589a",
+    "output_sha256": "7d426fec5effce3396ec31d984cd990d4981fc46492bf7fe7327fcbafc52a1c5",
+    "bytes": 4452704
+  },
+  {
+    "key": "../261/components/Masculine-middle-part-hair261.glb",
+    "source": "../266/assets/Masculine-Masculine-middle-part-hair261-2283dcc5.glb",
+    "output": "./assets/Masculine-Masculine-middle-part-hair261-2283dcc5.glb",
+    "method": "rigid",
+    "nodes": [
+      "226 hair / Hair260 / layered middle-part"
+    ],
+    "source_sha256": "cc0e96a6772273dbd09791d2bf024978260dbf82b5366a8b4cc6e0d2a86bd9aa",
+    "output_sha256": "7a36f3a247e10391b5d332b74940f4b24941177e4e88b174c2cd15b4754762b3",
+    "bytes": 4452712
+  },
+  {
+    "key": "../261/components/Masculine-middle-part-pashmina261-hair.glb",
+    "source": "../266/assets/Masculine-Masculine-middle-part-pashmina261-hair-cacd18e8.glb",
+    "output": "./assets/Masculine-Masculine-middle-part-pashmina261-hair-cacd18e8.glb",
+    "method": "rigid",
+    "nodes": [
+      "226 hair / Hair260 / layered middle-part"
+    ],
+    "source_sha256": "6bae848506c961dd7f4249502e3a165731963a609034e6156e2bfb997e4fe542",
+    "output_sha256": "c1e83986c24b5a4e4a3c61c5dbab7f985a9906154313d6060c456d267c351134",
+    "bytes": 4452704
+  },
+  {
+    "key": "../263/components/Feminine-pants-clothed-base263.glb",
+    "source": "../266/assets/Feminine-Feminine-pants-clothed-base263-8fa7df47.glb",
+    "output": "./assets/Feminine-Feminine-pants-clothed-base263-8fa7df47.glb",
+    "method": "base",
+    "nodes": [
+      "Skin / soft oval head"
+    ],
+    "source_sha256": "e86414f0255d4f2a4f6d43156c600719024136ccf9c643a00fd598b7eca2d79e",
+    "output_sha256": "83446d029dc66d9e8c63def54cd05b1e0dffe3cc52bc76ec9ee69a3709413b29",
+    "bytes": 1868332
+  },
+  {
+    "key": "../263/components/Masculine-pants-clothed-base263.glb",
+    "source": "../266/assets/Masculine-Masculine-pants-clothed-base263-cea1c7fa.glb",
+    "output": "./assets/Masculine-Masculine-pants-clothed-base263-cea1c7fa.glb",
+    "method": "base",
+    "nodes": [
+      "Skin / soft oval head"
+    ],
+    "source_sha256": "17957c72de7e2823d465553901abf9467db97700069c8de45b046d7b1a3326e6",
+    "output_sha256": "38ea1a946a4645d5cc3b9bd01a0667ad52c1be623f5832cbbf8ffc3d87b4a07d",
+    "bytes": 1828052
+  }
+]

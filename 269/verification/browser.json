@@ -1,0 +1,262 @@
+{
+  "visuals": 152,
+  "matrix": 24,
+  "small": 16,
+  "matches": 36,
+  "pairs": [
+    "Feminine-ponytail-none-threequarter",
+    "Feminine-ponytail-none-profile",
+    "Feminine-ponytail-cap-threequarter",
+    "Feminine-ponytail-cap-profile",
+    "Feminine-ponytail-pashmina-threequarter",
+    "Feminine-ponytail-pashmina-profile",
+    "Feminine-straight-none-threequarter",
+    "Feminine-straight-none-profile",
+    "Feminine-straight-cap-threequarter",
+    "Feminine-straight-cap-profile",
+    "Feminine-straight-pashmina-threequarter",
+    "Feminine-straight-pashmina-profile",
+    "Feminine-curls-none-threequarter",
+    "Feminine-curls-none-profile",
+    "Feminine-curls-cap-threequarter",
+    "Feminine-curls-cap-profile",
+    "Feminine-curls-pashmina-threequarter",
+    "Feminine-curls-pashmina-profile",
+    "Masculine-taper-none-threequarter",
+    "Masculine-taper-none-profile",
+    "Masculine-taper-cap-threequarter",
+    "Masculine-taper-cap-profile",
+    "Masculine-taper-pashmina-threequarter",
+    "Masculine-taper-pashmina-profile",
+    "Masculine-flow-none-threequarter",
+    "Masculine-flow-none-profile",
+    "Masculine-flow-cap-threequarter",
+    "Masculine-flow-cap-profile",
+    "Masculine-flow-pashmina-threequarter",
+    "Masculine-flow-pashmina-profile",
+    "Masculine-middle-part-none-threequarter",
+    "Masculine-middle-part-none-profile",
+    "Masculine-middle-part-cap-threequarter",
+    "Masculine-middle-part-cap-profile",
+    "Masculine-middle-part-pashmina-threequarter",
+    "Masculine-middle-part-pashmina-profile"
+  ],
+  "pixel_comparison": [
+    {
+      "view": "Feminine-ponytail-none-threequarter",
+      "mean": 0.0037301889486459476,
+      "max": 59,
+      "pixels": 84044
+    },
+    {
+      "view": "Feminine-ponytail-none-profile",
+      "mean": 0.0064525652801469624,
+      "max": 58,
+      "pixels": 76210
+    },
+    {
+      "view": "Feminine-ponytail-cap-threequarter",
+      "mean": 0.001939427418580075,
+      "max": 35,
+      "pixels": 83272
+    },
+    {
+      "view": "Feminine-ponytail-cap-profile",
+      "mean": 0.0005743879472693032,
+      "max": 64,
+      "pixels": 79650
+    },
+    {
+      "view": "Feminine-ponytail-pashmina-threequarter",
+      "mean": 0.0025998851098389558,
+      "max": 59,
+      "pixels": 100966
+    },
+    {
+      "view": "Feminine-ponytail-pashmina-profile",
+      "mean": 0.0006770256607770449,
+      "max": 30,
+      "pixels": 83084
+    },
+    {
+      "view": "Feminine-straight-none-threequarter",
+      "mean": 3.737516694241234e-05,
+      "max": 2,
+      "pixels": 100334
+    },
+    {
+      "view": "Feminine-straight-none-profile",
+      "mean": 6.119501627787433e-06,
+      "max": 1,
+      "pixels": 81706
+    },
+    {
+      "view": "Feminine-straight-cap-threequarter",
+      "mean": 0.001626004000924837,
+      "max": 35,
+      "pixels": 99477
+    },
+    {
+      "view": "Feminine-straight-cap-profile",
+      "mean": 0.0005206484439711277,
+      "max": 64,
+      "pixels": 84510
+    },
+    {
+      "view": "Feminine-straight-pashmina-threequarter",
+      "mean": 0.000328360372111561,
+      "max": 30,
+      "pixels": 110397
+    },
+    {
+      "view": "Feminine-straight-pashmina-profile",
+      "mean": 2.8181398022793116e-06,
+      "max": 1,
+      "pixels": 88711
+    },
+    {
+      "view": "Feminine-curls-none-threequarter",
+      "mean": 4.035934057585657e-05,
+      "max": 2,
+      "pixels": 105304
+    },
+    {
+      "view": "Feminine-curls-none-profile",
+      "mean": 3.062899708411948e-06,
+      "max": 1,
+      "pixels": 81622
+    },
+    {
+      "view": "Feminine-curls-cap-threequarter",
+      "mean": 0.0016186106196410864,
+      "max": 35,
+      "pixels": 102866
+    },
+    {
+      "view": "Feminine-curls-cap-profile",
+      "mean": 0.0005003752814610958,
+      "max": 64,
+      "pixels": 83937
+    },
+    {
+      "view": "Feminine-curls-pashmina-threequarter",
+      "mean": 3.483410258643212e-05,
+      "max": 2,
+      "pixels": 114830
+    },
+    {
+      "view": "Feminine-curls-pashmina-profile",
+      "mean": 2.78483268725215e-06,
+      "max": 1,
+      "pixels": 89772
+    },
+    {
+      "view": "Masculine-taper-none-threequarter",
+      "mean": 0.002974244617755569,
+      "max": 4,
+      "pixels": 85652
+    },
+    {
+      "view": "Masculine-taper-none-profile",
+      "mean": 0.006542312439994514,
+      "max": 28,
+      "pixels": 72910
+    },
+    {
+      "view": "Masculine-taper-cap-threequarter",
+      "mean": 0.0037690834017539477,
+      "max": 7,
+      "pixels": 84039
+    },
+    {
+      "view": "Masculine-taper-cap-profile",
+      "mean": 0.0030090236786756226,
+      "max": 5,
+      "pixels": 73695
+    },
+    {
+      "view": "Masculine-taper-pashmina-threequarter",
+      "mean": 0.0013574000194609321,
+      "max": 2,
+      "pixels": 102770
+    },
+    {
+      "view": "Masculine-taper-pashmina-profile",
+      "mean": 0.0003333575775207894,
+      "max": 5,
+      "pixels": 82494
+    },
+    {
+      "view": "Masculine-flow-none-threequarter",
+      "mean": 0.0017541083782545122,
+      "max": 4,
+      "pixels": 91642
+    },
+    {
+      "view": "Masculine-flow-none-profile",
+      "mean": 0.001065938221219668,
+      "max": 4,
+      "pixels": 76693
+    },
+    {
+      "view": "Masculine-flow-cap-threequarter",
+      "mean": 0.0032761951027678498,
+      "max": 7,
+      "pixels": 86457
+    },
+    {
+      "view": "Masculine-flow-cap-profile",
+      "mean": 0.0017012679762885776,
+      "max": 3,
+      "pixels": 75238
+    },
+    {
+      "view": "Masculine-flow-pashmina-threequarter",
+      "mean": 0.001732909680652879,
+      "max": 2,
+      "pixels": 105747
+    },
+    {
+      "view": "Masculine-flow-pashmina-profile",
+      "mean": 0.0004374941275956027,
+      "max": 4,
+      "pixels": 85144
+    },
+    {
+      "view": "Masculine-middle-part-none-threequarter",
+      "mean": 0.002120581645251269,
+      "max": 4,
+      "pixels": 87476
+    },
+    {
+      "view": "Masculine-middle-part-none-profile",
+      "mean": 0.001882976260198036,
+      "max": 4,
+      "pixels": 73421
+    },
+    {
+      "view": "Masculine-middle-part-cap-threequarter",
+      "mean": 0.003899510999535985,
+      "max": 45,
+      "pixels": 84049
+    },
+    {
+      "view": "Masculine-middle-part-cap-profile",
+      "mean": 0.002590972684424281,
+      "max": 5,
+      "pixels": 73621
+    },
+    {
+      "view": "Masculine-middle-part-pashmina-threequarter",
+      "mean": 0.001610103046594982,
+      "max": 2,
+      "pixels": 107136
+    },
+    {
+      "view": "Masculine-middle-part-pashmina-profile",
+      "mean": 0.0002404240846292778,
+      "max": 1,
+      "pixels": 85266
+    }
+  ]
+}

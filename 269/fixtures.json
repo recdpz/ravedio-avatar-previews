@@ -1,0 +1,529 @@
+{
+  "builds": {
+    "Feminine": {
+      "base": "../224/components/Feminine-uncovered-base.glb",
+      "pantsBase": "../263/components/Feminine-pants-clothed-base263.glb",
+      "hair": {
+        "ponytail": {
+          "label": "Ponytail",
+          "path": "../224/components/Feminine-uncovered-hair.glb"
+        },
+        "straight": {
+          "label": "Straight",
+          "path": "../261/components/Feminine-straight-hair261.glb"
+        },
+        "curls": {
+          "label": "Curls",
+          "path": "../261/components/Feminine-curls-hair261.glb"
+        }
+      },
+      "tops": {
+        "tank": {
+          "label": "Tank",
+          "path": "../213/Feminine-tank-top.glb"
+        },
+        "tshirt": {
+          "label": "T-shirt",
+          "path": "../214/Feminine-tshirt-top.glb"
+        },
+        "jersey": {
+          "label": "Jersey",
+          "path": "../213/Feminine-jersey-top.glb"
+        },
+        "open": {
+          "label": "Button-up",
+          "path": "../215/Feminine-open-top.glb"
+        },
+        "sweatshirt": {
+          "label": "Hoodie",
+          "path": "../262/components/Feminine-hoodie-top.glb"
+        }
+      },
+      "bottoms": {
+        "shorts": {
+          "label": "Shorts",
+          "path": "../216/Feminine-shorts-bottom.glb"
+        },
+        "pants": {
+          "label": "Pants",
+          "path": "../216/Feminine-pants-bottom.glb"
+        },
+        "skirt": {
+          "label": "Skirt",
+          "path": "../216/Feminine-skirt-bottom.glb"
+        }
+      },
+      "eyes": {
+        "original": {
+          "label": "Original",
+          "path": "../181/Feminine-eyes-original.glb"
+        },
+        "tapered": {
+          "label": "Tapered oval",
+          "path": "../233/components/Feminine-eyes-tapered.glb"
+        },
+        "hooded": {
+          "label": "Soft hooded",
+          "path": "../232/components/Feminine-eyes-hooded.glb"
+        },
+        "bean": {
+          "label": "Rounded bean",
+          "path": "../233/components/Feminine-eyes-bean.glb"
+        }
+      },
+      "mouths": {
+        "line": {
+          "label": "Smile",
+          "path": "../209/Feminine-mouth-line.glb"
+        }
+      },
+      "grooms": {
+        "none": {
+          "label": "None",
+          "path": null
+        }
+      },
+      "lashes": {
+        "original": "../234/components/Feminine-original-lashes.glb",
+        "tapered": "../234/components/Feminine-tapered-lashes.glb",
+        "hooded": "../234/components/Feminine-hooded-lashes.glb",
+        "bean": "../234/components/Feminine-bean-lashes.glb"
+      },
+      "fits": {
+        "ponytail": {
+          "cap": {
+            "hair": "../224/components/Feminine-cap-hair.glb",
+            "headgear": "../224/components/Feminine-cap-headgear.glb"
+          },
+          "pashmina": {
+            "hair": "../251/components/Feminine-ponytail-pashmina251-hair.glb",
+            "headgear": "../251/components/Feminine-ponytail-pashmina251-headgear.glb"
+          }
+        },
+        "straight": {
+          "cap": {
+            "hair": "../261/components/Feminine-straight-cap261-hair.glb",
+            "headgear": "../235/components/Feminine-cap-headgear.glb"
+          },
+          "pashmina": {
+            "hair": "../261/components/Feminine-straight-pashmina261-hair.glb",
+            "headgear": "../250/components/Feminine-straight-open-pashmina250-headgear.glb"
+          }
+        },
+        "curls": {
+          "cap": {
+            "hair": "../261/components/Feminine-curls-cap261-hair.glb",
+            "headgear": "../235/components/Feminine-cap-headgear.glb"
+          },
+          "pashmina": {
+            "hair": "../261/components/Feminine-curls-pashmina261-hair.glb",
+            "headgear": "../250/components/Feminine-curls-open-pashmina250-headgear.glb"
+          }
+        }
+      },
+      "pashmina": {
+        "ponytail": {
+          "tank": "../251/components/Feminine-ponytail-tank-pashmina251-headgear.glb",
+          "tshirt": "../251/components/Feminine-ponytail-tshirt-pashmina251-headgear.glb",
+          "jersey": "../251/components/Feminine-ponytail-jersey-pashmina251-headgear.glb",
+          "open": "../251/components/Feminine-ponytail-open-pashmina251-headgear.glb",
+          "sweatshirt": "../251/components/Feminine-ponytail-sweatshirt-pashmina251-headgear.glb"
+        },
+        "straight": {
+          "tank": "../250/components/Feminine-straight-tank-pashmina250-headgear.glb",
+          "tshirt": "../250/components/Feminine-straight-tshirt-pashmina250-headgear.glb",
+          "jersey": "../250/components/Feminine-straight-jersey-pashmina250-headgear.glb",
+          "open": "../250/components/Feminine-straight-open-pashmina250-headgear.glb",
+          "sweatshirt": "../250/components/Feminine-straight-sweatshirt-pashmina250-headgear.glb"
+        },
+        "curls": {
+          "tank": "../250/components/Feminine-curls-tank-pashmina250-headgear.glb",
+          "tshirt": "../250/components/Feminine-curls-tshirt-pashmina250-headgear.glb",
+          "jersey": "../250/components/Feminine-curls-jersey-pashmina250-headgear.glb",
+          "open": "../250/components/Feminine-curls-open-pashmina250-headgear.glb",
+          "sweatshirt": "../250/components/Feminine-curls-sweatshirt-pashmina250-headgear.glb"
+        }
+      },
+      "glasses": {
+        "none": {
+          "label": "None"
+        },
+        "rectangular": {
+          "label": "Rectangular",
+          "glasses": "../224/components/Feminine-details-glasses.glb",
+          "lenses": "../235/components/Feminine-rectangular-lenses.glb"
+        },
+        "reading": {
+          "label": "Reading",
+          "glasses": "../227/components/Feminine-reading-glasses.glb",
+          "lenses": "../235/components/Feminine-reading-lenses.glb"
+        }
+      }
+    },
+    "Masculine": {
+      "base": "../224/components/Masculine-taper-base.glb",
+      "pantsBase": "../263/components/Masculine-pants-clothed-base263.glb",
+      "hair": {
+        "taper": {
+          "label": "Taper",
+          "path": "../259/components/Masculine-taper-hair259.glb"
+        },
+        "flow": {
+          "label": "Flow",
+          "path": "../261/components/Masculine-flow-hair261.glb"
+        },
+        "middle-part": {
+          "label": "Middle part",
+          "path": "../261/components/Masculine-middle-part-hair261.glb"
+        }
+      },
+      "tops": {
+        "tank": {
+          "label": "Tank",
+          "path": "../208/Masculine-tank-top.glb"
+        },
+        "tshirt": {
+          "label": "T-shirt",
+          "path": "../203/Masculine-tshirt-top.glb"
+        },
+        "jersey": {
+          "label": "Jersey",
+          "path": "../203/Masculine-jersey-top.glb"
+        },
+        "buttonup": {
+          "label": "Button-up",
+          "path": "../208/Masculine-buttonup-top.glb"
+        },
+        "sweatshirt": {
+          "label": "Hoodie",
+          "path": "../262/components/Masculine-hoodie-top.glb"
+        }
+      },
+      "bottoms": {
+        "shorts": {
+          "label": "Shorts",
+          "path": "../215/Masculine-shorts-bottom.glb"
+        },
+        "pants": {
+          "label": "Pants",
+          "path": "../215/Masculine-pants-bottom.glb"
+        }
+      },
+      "eyes": {
+        "original": {
+          "label": "Original",
+          "path": "../181/Masculine-eyes-original.glb"
+        },
+        "tapered": {
+          "label": "Tapered oval",
+          "path": "../233/components/Masculine-eyes-tapered.glb"
+        },
+        "hooded": {
+          "label": "Soft hooded",
+          "path": "../232/components/Masculine-eyes-hooded.glb"
+        },
+        "bean": {
+          "label": "Rounded bean",
+          "path": "../233/components/Masculine-eyes-bean.glb"
+        }
+      },
+      "mouths": {
+        "line": {
+          "label": "Smile",
+          "path": "../209/Masculine-mouth-line.glb"
+        }
+      },
+      "grooms": {
+        "none": {
+          "label": "None",
+          "path": null
+        },
+        "stubble": {
+          "label": "Stubble",
+          "path": "../235/components/Masculine-groom-stubble.glb"
+        },
+        "mustache": {
+          "label": "Mustache",
+          "path": "../235/components/Masculine-groom-mustache.glb"
+        },
+        "patch": {
+          "label": "Mustache + patch",
+          "path": "../235/components/Masculine-groom-patch.glb"
+        },
+        "goatee": {
+          "label": "Goatee",
+          "path": "../235/components/Masculine-groom-goatee.glb"
+        },
+        "short": {
+          "label": "Short beard",
+          "path": "../235/components/Masculine-groom-short.glb"
+        },
+        "long": {
+          "label": "Long beard",
+          "path": "../235/components/Masculine-groom-long.glb"
+        }
+      },
+      "lashes": {},
+      "fits": {
+        "taper": {
+          "cap": {
+            "hair": "../259/components/Masculine-taper-cap259-hair.glb",
+            "headgear": "../251/components/Masculine-taper-cap251-headgear.glb"
+          },
+          "pashmina": {
+            "hair": "../259/components/Masculine-taper-pashmina259-hair.glb",
+            "headgear": "../251/components/Masculine-taper-pashmina251-headgear.glb"
+          }
+        },
+        "flow": {
+          "cap": {
+            "hair": "../261/components/Masculine-flow-cap261-hair.glb",
+            "headgear": "../251/components/Masculine-flow-cap251-headgear.glb"
+          },
+          "pashmina": {
+            "hair": "../261/components/Masculine-flow-pashmina261-hair.glb",
+            "headgear": "../251/components/Masculine-flow-pashmina251-headgear.glb"
+          }
+        },
+        "middle-part": {
+          "cap": {
+            "hair": "../261/components/Masculine-middle-part-cap261-hair.glb",
+            "headgear": "../251/components/Masculine-middle-part-cap251-headgear.glb"
+          },
+          "pashmina": {
+            "hair": "../261/components/Masculine-middle-part-pashmina261-hair.glb",
+            "headgear": "../251/components/Masculine-middle-part-pashmina251-headgear.glb"
+          }
+        }
+      },
+      "pashmina": {
+        "taper": {
+          "tank": "../250/components/Masculine-taper-tank-pashmina250-headgear.glb",
+          "tshirt": "../250/components/Masculine-taper-tshirt-pashmina250-headgear.glb",
+          "jersey": "../250/components/Masculine-taper-jersey-pashmina250-headgear.glb",
+          "buttonup": "../250/components/Masculine-taper-buttonup-pashmina250-headgear.glb",
+          "sweatshirt": "../250/components/Masculine-taper-sweatshirt-pashmina250-headgear.glb"
+        },
+        "flow": {
+          "tank": "../250/components/Masculine-flow-tank-pashmina250-headgear.glb",
+          "tshirt": "../250/components/Masculine-flow-tshirt-pashmina250-headgear.glb",
+          "jersey": "../250/components/Masculine-flow-jersey-pashmina250-headgear.glb",
+          "buttonup": "../250/components/Masculine-flow-buttonup-pashmina250-headgear.glb",
+          "sweatshirt": "../250/components/Masculine-flow-sweatshirt-pashmina250-headgear.glb"
+        },
+        "middle-part": {
+          "tank": "../250/components/Masculine-middle-part-tank-pashmina250-headgear.glb",
+          "tshirt": "../250/components/Masculine-middle-part-tshirt-pashmina250-headgear.glb",
+          "jersey": "../250/components/Masculine-middle-part-jersey-pashmina250-headgear.glb",
+          "buttonup": "../250/components/Masculine-middle-part-buttonup-pashmina250-headgear.glb",
+          "sweatshirt": "../250/components/Masculine-middle-part-sweatshirt-pashmina250-headgear.glb"
+        }
+      },
+      "glasses": {
+        "none": {
+          "label": "None"
+        },
+        "rectangular": {
+          "label": "Rectangular",
+          "glasses": "../224/components/Masculine-details-glasses.glb",
+          "lenses": "../235/components/Masculine-rectangular-lenses.glb"
+        },
+        "reading": {
+          "label": "Reading",
+          "glasses": "../227/components/Feminine-reading-glasses.glb",
+          "lenses": "../235/components/Feminine-reading-lenses.glb"
+        }
+      }
+    }
+  },
+  "original": {
+    "../224/components/Feminine-uncovered-base.glb": "./assets/Feminine-Feminine-uncovered-base-b9d435ff.glb",
+    "../263/components/Feminine-pants-clothed-base263.glb": "./assets/Feminine-Feminine-pants-clothed-base263-8fa7df47.glb",
+    "../224/components/Feminine-uncovered-hair.glb": "./assets/Feminine-Feminine-uncovered-hair-764dfc05.glb",
+    "../261/components/Feminine-straight-hair261.glb": "./assets/Feminine-Feminine-straight-hair261-86e8edb4.glb",
+    "../261/components/Feminine-curls-hair261.glb": "./assets/Feminine-Feminine-curls-hair261-1726d578.glb",
+    "../181/Feminine-eyes-original.glb": "./assets/Feminine-Feminine-eyes-original-b08a82ec.glb",
+    "../233/components/Feminine-eyes-tapered.glb": "./assets/Feminine-Feminine-eyes-tapered-1f60a1db.glb",
+    "../232/components/Feminine-eyes-hooded.glb": "./assets/Feminine-Feminine-eyes-hooded-1096c1e2.glb",
+    "../233/components/Feminine-eyes-bean.glb": "./assets/Feminine-Feminine-eyes-bean-79354f4c.glb",
+    "../209/Feminine-mouth-line.glb": "./assets/Feminine-Feminine-mouth-line-9b6f83b8.glb",
+    "../234/components/Feminine-original-lashes.glb": "./assets/Feminine-Feminine-original-lashes-5d67b354.glb",
+    "../234/components/Feminine-tapered-lashes.glb": "./assets/Feminine-Feminine-tapered-lashes-0b170243.glb",
+    "../234/components/Feminine-hooded-lashes.glb": "./assets/Feminine-Feminine-hooded-lashes-c429f391.glb",
+    "../234/components/Feminine-bean-lashes.glb": "./assets/Feminine-Feminine-bean-lashes-f96758f5.glb",
+    "../224/components/Feminine-cap-hair.glb": "./assets/Feminine-Feminine-cap-hair-16ae3440.glb",
+    "../224/components/Feminine-cap-headgear.glb": "./assets/Feminine-Feminine-cap-headgear-cdf901be.glb",
+    "../251/components/Feminine-ponytail-pashmina251-hair.glb": "./assets/Feminine-Feminine-ponytail-pashmina251-hair-e7682a1e.glb",
+    "../251/components/Feminine-ponytail-pashmina251-headgear.glb": "./assets/Feminine-Feminine-ponytail-pashmina251-headgear-6468fd1e.glb",
+    "../251/components/Feminine-ponytail-tank-pashmina251-headgear.glb": "./assets/Feminine-Feminine-ponytail-tank-pashmina251-headgear-71c2f22c.glb",
+    "../251/components/Feminine-ponytail-tshirt-pashmina251-headgear.glb": "./assets/Feminine-Feminine-ponytail-tshirt-pashmina251-headgear-bd01fb6c.glb",
+    "../251/components/Feminine-ponytail-jersey-pashmina251-headgear.glb": "./assets/Feminine-Feminine-ponytail-jersey-pashmina251-headgear-41885bef.glb",
+    "../251/components/Feminine-ponytail-open-pashmina251-headgear.glb": "./assets/Feminine-Feminine-ponytail-open-pashmina251-headgear-45db9f31.glb",
+    "../251/components/Feminine-ponytail-sweatshirt-pashmina251-headgear.glb": "./assets/Feminine-Feminine-ponytail-sweatshirt-pashmina251-headgear-10ab83d2.glb",
+    "../261/components/Feminine-straight-cap261-hair.glb": "./assets/Feminine-Feminine-straight-cap261-hair-2c499f7c.glb",
+    "../235/components/Feminine-cap-headgear.glb": "./assets/Feminine-Feminine-cap-headgear-ae186d8b.glb",
+    "../261/components/Feminine-straight-pashmina261-hair.glb": "./assets/Feminine-Feminine-straight-pashmina261-hair-07081bd6.glb",
+    "../250/components/Feminine-straight-open-pashmina250-headgear.glb": "./assets/Feminine-Feminine-straight-open-pashmina250-headgear-0f399e15.glb",
+    "../250/components/Feminine-straight-tank-pashmina250-headgear.glb": "./assets/Feminine-Feminine-straight-tank-pashmina250-headgear-648ef9c3.glb",
+    "../250/components/Feminine-straight-tshirt-pashmina250-headgear.glb": "./assets/Feminine-Feminine-straight-tshirt-pashmina250-headgear-b949cf31.glb",
+    "../250/components/Feminine-straight-jersey-pashmina250-headgear.glb": "./assets/Feminine-Feminine-straight-jersey-pashmina250-headgear-78373d4b.glb",
+    "../250/components/Feminine-straight-sweatshirt-pashmina250-headgear.glb": "./assets/Feminine-Feminine-straight-sweatshirt-pashmina250-headgear-b7ba2e8c.glb",
+    "../261/components/Feminine-curls-cap261-hair.glb": "./assets/Feminine-Feminine-curls-cap261-hair-346cf7ad.glb",
+    "../261/components/Feminine-curls-pashmina261-hair.glb": "./assets/Feminine-Feminine-curls-pashmina261-hair-c2b8fad2.glb",
+    "../250/components/Feminine-curls-open-pashmina250-headgear.glb": "./assets/Feminine-Feminine-curls-open-pashmina250-headgear-061ff4b7.glb",
+    "../250/components/Feminine-curls-tank-pashmina250-headgear.glb": "./assets/Feminine-Feminine-curls-tank-pashmina250-headgear-7583be13.glb",
+    "../250/components/Feminine-curls-tshirt-pashmina250-headgear.glb": "./assets/Feminine-Feminine-curls-tshirt-pashmina250-headgear-f651840d.glb",
+    "../250/components/Feminine-curls-jersey-pashmina250-headgear.glb": "./assets/Feminine-Feminine-curls-jersey-pashmina250-headgear-52d0b367.glb",
+    "../250/components/Feminine-curls-sweatshirt-pashmina250-headgear.glb": "./assets/Feminine-Feminine-curls-sweatshirt-pashmina250-headgear-5b869d53.glb",
+    "../224/components/Feminine-details-glasses.glb": "./assets/Feminine-Feminine-details-glasses-bed239d9.glb",
+    "../235/components/Feminine-rectangular-lenses.glb": "./assets/Feminine-Feminine-rectangular-lenses-96d7d740.glb",
+    "../227/components/Feminine-reading-glasses.glb": "./assets/Feminine-Feminine-reading-glasses-b39c32dc.glb",
+    "../235/components/Feminine-reading-lenses.glb": "./assets/Feminine-Feminine-reading-lenses-5ccfab34.glb",
+    "../224/components/Masculine-taper-base.glb": "./assets/Masculine-Masculine-taper-base-4ee10f1a.glb",
+    "../263/components/Masculine-pants-clothed-base263.glb": "./assets/Masculine-Masculine-pants-clothed-base263-cea1c7fa.glb",
+    "../259/components/Masculine-taper-hair259.glb": "./assets/Masculine-Masculine-taper-hair259-8be430eb.glb",
+    "../261/components/Masculine-flow-hair261.glb": "./assets/Masculine-Masculine-flow-hair261-bb7ff5dc.glb",
+    "../261/components/Masculine-middle-part-hair261.glb": "./assets/Masculine-Masculine-middle-part-hair261-2283dcc5.glb",
+    "../181/Masculine-eyes-original.glb": "./assets/Masculine-Masculine-eyes-original-92732458.glb",
+    "../233/components/Masculine-eyes-tapered.glb": "./assets/Masculine-Masculine-eyes-tapered-e82a58bc.glb",
+    "../232/components/Masculine-eyes-hooded.glb": "./assets/Masculine-Masculine-eyes-hooded-425d2a38.glb",
+    "../233/components/Masculine-eyes-bean.glb": "./assets/Masculine-Masculine-eyes-bean-e412c8c0.glb",
+    "../209/Masculine-mouth-line.glb": "./assets/Masculine-Masculine-mouth-line-663a5e81.glb",
+    "../235/components/Masculine-groom-stubble.glb": "./assets/Masculine-Masculine-groom-stubble-4918a94d.glb",
+    "../235/components/Masculine-groom-mustache.glb": "./assets/Masculine-Masculine-groom-mustache-145c8472.glb",
+    "../235/components/Masculine-groom-patch.glb": "./assets/Masculine-Masculine-groom-patch-10327d59.glb",
+    "../235/components/Masculine-groom-goatee.glb": "./assets/Masculine-Masculine-groom-goatee-39dc227c.glb",
+    "../235/components/Masculine-groom-short.glb": "./assets/Masculine-Masculine-groom-short-b9b78a24.glb",
+    "../235/components/Masculine-groom-long.glb": "./assets/Masculine-Masculine-groom-long-1250ee1a.glb",
+    "../259/components/Masculine-taper-cap259-hair.glb": "./assets/Masculine-Masculine-taper-cap259-hair-b6342c16.glb",
+    "../251/components/Masculine-taper-cap251-headgear.glb": "./assets/Masculine-Masculine-taper-cap251-headgear-acec4fb0.glb",
+    "../259/components/Masculine-taper-pashmina259-hair.glb": "./assets/Masculine-Masculine-taper-pashmina259-hair-61c83994.glb",
+    "../251/components/Masculine-taper-pashmina251-headgear.glb": "./assets/Masculine-Masculine-taper-pashmina251-headgear-de17ba34.glb",
+    "../250/components/Masculine-taper-tank-pashmina250-headgear.glb": "./assets/Masculine-Masculine-taper-tank-pashmina250-headgear-577bc44d.glb",
+    "../250/components/Masculine-taper-tshirt-pashmina250-headgear.glb": "./assets/Masculine-Masculine-taper-tshirt-pashmina250-headgear-a583abdd.glb",
+    "../250/components/Masculine-taper-jersey-pashmina250-headgear.glb": "./assets/Masculine-Masculine-taper-jersey-pashmina250-headgear-1f84a86f.glb",
+    "../250/components/Masculine-taper-buttonup-pashmina250-headgear.glb": "./assets/Masculine-Masculine-taper-buttonup-pashmina250-headgear-3f073d6d.glb",
+    "../250/components/Masculine-taper-sweatshirt-pashmina250-headgear.glb": "./assets/Masculine-Masculine-taper-sweatshirt-pashmina250-headgear-9de84c16.glb",
+    "../261/components/Masculine-flow-cap261-hair.glb": "./assets/Masculine-Masculine-flow-cap261-hair-7cb783ac.glb",
+    "../251/components/Masculine-flow-cap251-headgear.glb": "./assets/Masculine-Masculine-flow-cap251-headgear-819a8dbe.glb",
+    "../261/components/Masculine-flow-pashmina261-hair.glb": "./assets/Masculine-Masculine-flow-pashmina261-hair-06c0b1e1.glb",
+    "../251/components/Masculine-flow-pashmina251-headgear.glb": "./assets/Masculine-Masculine-flow-pashmina251-headgear-ae69a063.glb",
+    "../250/components/Masculine-flow-tank-pashmina250-headgear.glb": "./assets/Masculine-Masculine-flow-tank-pashmina250-headgear-7d17809e.glb",
+    "../250/components/Masculine-flow-tshirt-pashmina250-headgear.glb": "./assets/Masculine-Masculine-flow-tshirt-pashmina250-headgear-f4e31eff.glb",
+    "../250/components/Masculine-flow-jersey-pashmina250-headgear.glb": "./assets/Masculine-Masculine-flow-jersey-pashmina250-headgear-2b596f3f.glb",
+    "../250/components/Masculine-flow-buttonup-pashmina250-headgear.glb": "./assets/Masculine-Masculine-flow-buttonup-pashmina250-headgear-a7dd7407.glb",
+    "../250/components/Masculine-flow-sweatshirt-pashmina250-headgear.glb": "./assets/Masculine-Masculine-flow-sweatshirt-pashmina250-headgear-7dc2ccd5.glb",
+    "../261/components/Masculine-middle-part-cap261-hair.glb": "./assets/Masculine-Masculine-middle-part-cap261-hair-40cb142d.glb",
+    "../251/components/Masculine-middle-part-cap251-headgear.glb": "./assets/Masculine-Masculine-middle-part-cap251-headgear-c9e4d285.glb",
+    "../261/components/Masculine-middle-part-pashmina261-hair.glb": "./assets/Masculine-Masculine-middle-part-pashmina261-hair-cacd18e8.glb",
+    "../251/components/Masculine-middle-part-pashmina251-headgear.glb": "./assets/Masculine-Masculine-middle-part-pashmina251-headgear-5d108858.glb",
+    "../250/components/Masculine-middle-part-tank-pashmina250-headgear.glb": "./assets/Masculine-Masculine-middle-part-tank-pashmina250-headgear-6aa54bea.glb",
+    "../250/components/Masculine-middle-part-tshirt-pashmina250-headgear.glb": "./assets/Masculine-Masculine-middle-part-tshirt-pashmina250-headgear-f8bb9be2.glb",
+    "../250/components/Masculine-middle-part-jersey-pashmina250-headgear.glb": "./assets/Masculine-Masculine-middle-part-jersey-pashmina250-headgear-80ee5d8e.glb",
+    "../250/components/Masculine-middle-part-buttonup-pashmina250-headgear.glb": "./assets/Masculine-Masculine-middle-part-buttonup-pashmina250-headgear-13372ad4.glb",
+    "../250/components/Masculine-middle-part-sweatshirt-pashmina250-headgear.glb": "./assets/Masculine-Masculine-middle-part-sweatshirt-pashmina250-headgear-7a521b6c.glb",
+    "../224/components/Masculine-details-glasses.glb": "./assets/Masculine-Masculine-details-glasses-2d913f32.glb",
+    "../235/components/Masculine-rectangular-lenses.glb": "./assets/Masculine-Masculine-rectangular-lenses-71f90cbf.glb"
+  },
+  "selected": {
+    "../181/Feminine-eyes-original.glb": "./assets/Feminine-Feminine-eyes-original-b08a82ec.glb",
+    "../181/Masculine-eyes-original.glb": "./assets/Masculine-Masculine-eyes-original-92732458.glb",
+    "../209/Feminine-mouth-line.glb": "./assets/Feminine-Feminine-mouth-line-9b6f83b8.glb",
+    "../209/Masculine-mouth-line.glb": "./assets/Masculine-Masculine-mouth-line-663a5e81.glb",
+    "../224/components/Feminine-cap-hair.glb": "./assets/Feminine-Feminine-cap-hair-16ae3440.glb",
+    "../224/components/Feminine-cap-headgear.glb": "./assets/Feminine-Feminine-cap-headgear-cdf901be.glb",
+    "../224/components/Feminine-details-glasses.glb": "./assets/Feminine-Feminine-details-glasses-bed239d9.glb",
+    "../224/components/Feminine-uncovered-base.glb": "./assets/Feminine-Feminine-uncovered-base-b9d435ff.glb",
+    "../224/components/Feminine-uncovered-hair.glb": "./assets/Feminine-Feminine-uncovered-hair-764dfc05.glb",
+    "../224/components/Masculine-details-glasses.glb": "./assets/Masculine-Masculine-details-glasses-2d913f32.glb",
+    "../224/components/Masculine-taper-base.glb": "./assets/Masculine-Masculine-taper-base-4ee10f1a.glb",
+    "../227/components/Feminine-reading-glasses.glb": "./assets/Feminine-Feminine-reading-glasses-b39c32dc.glb",
+    "../232/components/Feminine-eyes-hooded.glb": "./assets/Feminine-Feminine-eyes-hooded-1096c1e2.glb",
+    "../232/components/Masculine-eyes-hooded.glb": "./assets/Masculine-Masculine-eyes-hooded-425d2a38.glb",
+    "../233/components/Feminine-eyes-bean.glb": "./assets/Feminine-Feminine-eyes-bean-79354f4c.glb",
+    "../233/components/Feminine-eyes-tapered.glb": "./assets/Feminine-Feminine-eyes-tapered-1f60a1db.glb",
+    "../233/components/Masculine-eyes-bean.glb": "./assets/Masculine-Masculine-eyes-bean-e412c8c0.glb",
+    "../233/components/Masculine-eyes-tapered.glb": "./assets/Masculine-Masculine-eyes-tapered-e82a58bc.glb",
+    "../234/components/Feminine-bean-lashes.glb": "./assets/Feminine-Feminine-bean-lashes-f96758f5.glb",
+    "../234/components/Feminine-hooded-lashes.glb": "./assets/Feminine-Feminine-hooded-lashes-c429f391.glb",
+    "../234/components/Feminine-original-lashes.glb": "./assets/Feminine-Feminine-original-lashes-5d67b354.glb",
+    "../234/components/Feminine-tapered-lashes.glb": "./assets/Feminine-Feminine-tapered-lashes-0b170243.glb",
+    "../235/components/Feminine-cap-headgear.glb": "./assets/Feminine-Feminine-cap-headgear-ae186d8b.glb",
+    "../235/components/Feminine-reading-lenses.glb": "./assets/Feminine-Feminine-reading-lenses-5ccfab34.glb",
+    "../235/components/Feminine-rectangular-lenses.glb": "./assets/Feminine-Feminine-rectangular-lenses-96d7d740.glb",
+    "../235/components/Masculine-groom-goatee.glb": "./assets/Masculine-Masculine-groom-goatee-39dc227c.glb",
+    "../235/components/Masculine-groom-long.glb": "./assets/Masculine-Masculine-groom-long-1250ee1a.glb",
+    "../235/components/Masculine-groom-mustache.glb": "./assets/Masculine-Masculine-groom-mustache-145c8472.glb",
+    "../235/components/Masculine-groom-patch.glb": "./assets/Masculine-Masculine-groom-patch-10327d59.glb",
+    "../235/components/Masculine-groom-short.glb": "./assets/Masculine-Masculine-groom-short-b9b78a24.glb",
+    "../235/components/Masculine-groom-stubble.glb": "./assets/Masculine-Masculine-groom-stubble-4918a94d.glb",
+    "../235/components/Masculine-rectangular-lenses.glb": "./assets/Masculine-Masculine-rectangular-lenses-71f90cbf.glb",
+    "../250/components/Feminine-curls-jersey-pashmina250-headgear.glb": "./assets/Feminine-Feminine-curls-jersey-pashmina250-headgear-52d0b367.glb",
+    "../250/components/Feminine-curls-open-pashmina250-headgear.glb": "./assets/Feminine-Feminine-curls-open-pashmina250-headgear-061ff4b7.glb",
+    "../250/components/Feminine-curls-sweatshirt-pashmina250-headgear.glb": "./assets/Feminine-Feminine-curls-sweatshirt-pashmina250-headgear-5b869d53.glb",
+    "../250/components/Feminine-curls-tank-pashmina250-headgear.glb": "./assets/Feminine-Feminine-curls-tank-pashmina250-headgear-7583be13.glb",
+    "../250/components/Feminine-curls-tshirt-pashmina250-headgear.glb": "./assets/Feminine-Feminine-curls-tshirt-pashmina250-headgear-f651840d.glb",
+    "../250/components/Feminine-straight-jersey-pashmina250-headgear.glb": "./assets/Feminine-Feminine-straight-jersey-pashmina250-headgear-78373d4b.glb",
+    "../250/components/Feminine-straight-open-pashmina250-headgear.glb": "./assets/Feminine-Feminine-straight-open-pashmina250-headgear-0f399e15.glb",
+    "../250/components/Feminine-straight-sweatshirt-pashmina250-headgear.glb": "./assets/Feminine-Feminine-straight-sweatshirt-pashmina250-headgear-b7ba2e8c.glb",
+    "../250/components/Feminine-straight-tank-pashmina250-headgear.glb": "./assets/Feminine-Feminine-straight-tank-pashmina250-headgear-648ef9c3.glb",
+    "../250/components/Feminine-straight-tshirt-pashmina250-headgear.glb": "./assets/Feminine-Feminine-straight-tshirt-pashmina250-headgear-b949cf31.glb",
+    "../250/components/Masculine-flow-buttonup-pashmina250-headgear.glb": "./assets/Masculine-Masculine-flow-buttonup-pashmina250-headgear-a7dd7407.glb",
+    "../250/components/Masculine-flow-jersey-pashmina250-headgear.glb": "./assets/Masculine-Masculine-flow-jersey-pashmina250-headgear-2b596f3f.glb",
+    "../250/components/Masculine-flow-sweatshirt-pashmina250-headgear.glb": "./assets/Masculine-Masculine-flow-sweatshirt-pashmina250-headgear-7dc2ccd5.glb",
+    "../250/components/Masculine-flow-tank-pashmina250-headgear.glb": "./assets/Masculine-Masculine-flow-tank-pashmina250-headgear-7d17809e.glb",
+    "../250/components/Masculine-flow-tshirt-pashmina250-headgear.glb": "./assets/Masculine-Masculine-flow-tshirt-pashmina250-headgear-f4e31eff.glb",
+    "../250/components/Masculine-middle-part-buttonup-pashmina250-headgear.glb": "./assets/Masculine-Masculine-middle-part-buttonup-pashmina250-headgear-13372ad4.glb",
+    "../250/components/Masculine-middle-part-jersey-pashmina250-headgear.glb": "./assets/Masculine-Masculine-middle-part-jersey-pashmina250-headgear-80ee5d8e.glb",
+    "../250/components/Masculine-middle-part-sweatshirt-pashmina250-headgear.glb": "./assets/Masculine-Masculine-middle-part-sweatshirt-pashmina250-headgear-7a521b6c.glb",
+    "../250/components/Masculine-middle-part-tank-pashmina250-headgear.glb": "./assets/Masculine-Masculine-middle-part-tank-pashmina250-headgear-6aa54bea.glb",
+    "../250/components/Masculine-middle-part-tshirt-pashmina250-headgear.glb": "./assets/Masculine-Masculine-middle-part-tshirt-pashmina250-headgear-f8bb9be2.glb",
+    "../250/components/Masculine-taper-buttonup-pashmina250-headgear.glb": "./assets/Masculine-Masculine-taper-buttonup-pashmina250-headgear-3f073d6d.glb",
+    "../250/components/Masculine-taper-jersey-pashmina250-headgear.glb": "./assets/Masculine-Masculine-taper-jersey-pashmina250-headgear-1f84a86f.glb",
+    "../250/components/Masculine-taper-sweatshirt-pashmina250-headgear.glb": "./assets/Masculine-Masculine-taper-sweatshirt-pashmina250-headgear-9de84c16.glb",
+    "../250/components/Masculine-taper-tank-pashmina250-headgear.glb": "./assets/Masculine-Masculine-taper-tank-pashmina250-headgear-577bc44d.glb",
+    "../250/components/Masculine-taper-tshirt-pashmina250-headgear.glb": "./assets/Masculine-Masculine-taper-tshirt-pashmina250-headgear-a583abdd.glb",
+    "../251/components/Feminine-ponytail-jersey-pashmina251-headgear.glb": "./assets/Feminine-Feminine-ponytail-jersey-pashmina251-headgear-41885bef.glb",
+    "../251/components/Feminine-ponytail-open-pashmina251-headgear.glb": "./assets/Feminine-Feminine-ponytail-open-pashmina251-headgear-45db9f31.glb",
+    "../251/components/Feminine-ponytail-pashmina251-hair.glb": "./assets/Feminine-Feminine-ponytail-pashmina251-hair-e7682a1e.glb",
+    "../251/components/Feminine-ponytail-sweatshirt-pashmina251-headgear.glb": "./assets/Feminine-Feminine-ponytail-sweatshirt-pashmina251-headgear-10ab83d2.glb",
+    "../251/components/Feminine-ponytail-tank-pashmina251-headgear.glb": "./assets/Feminine-Feminine-ponytail-tank-pashmina251-headgear-71c2f22c.glb",
+    "../251/components/Feminine-ponytail-tshirt-pashmina251-headgear.glb": "./assets/Feminine-Feminine-ponytail-tshirt-pashmina251-headgear-bd01fb6c.glb",
+    "../251/components/Masculine-flow-cap251-headgear.glb": "./assets/Masculine-Masculine-flow-cap251-headgear-819a8dbe.glb",
+    "../251/components/Masculine-middle-part-cap251-headgear.glb": "./assets/Masculine-Masculine-middle-part-cap251-headgear-c9e4d285.glb",
+    "../251/components/Masculine-taper-cap251-headgear.glb": "./assets/Masculine-Masculine-taper-cap251-headgear-acec4fb0.glb",
+    "../259/components/Masculine-taper-cap259-hair.glb": "./assets/Masculine-Masculine-taper-cap259-hair-b6342c16.glb",
+    "../259/components/Masculine-taper-hair259.glb": "./assets/Masculine-Masculine-taper-hair259-8be430eb.glb",
+    "../259/components/Masculine-taper-pashmina259-hair.glb": "./assets/Masculine-Masculine-taper-pashmina259-hair-61c83994.glb",
+    "../261/components/Feminine-curls-cap261-hair.glb": "./assets/Feminine-Feminine-curls-cap261-hair-346cf7ad.glb",
+    "../261/components/Feminine-curls-hair261.glb": "./assets/Feminine-Feminine-curls-hair261-1726d578.glb",
+    "../261/components/Feminine-curls-pashmina261-hair.glb": "./assets/Feminine-Feminine-curls-pashmina261-hair-c2b8fad2.glb",
+    "../261/components/Feminine-straight-cap261-hair.glb": "./assets/Feminine-Feminine-straight-cap261-hair-2c499f7c.glb",
+    "../261/components/Feminine-straight-hair261.glb": "./assets/Feminine-Feminine-straight-hair261-86e8edb4.glb",
+    "../261/components/Feminine-straight-pashmina261-hair.glb": "./assets/Feminine-Feminine-straight-pashmina261-hair-07081bd6.glb",
+    "../261/components/Masculine-flow-cap261-hair.glb": "./assets/Masculine-Masculine-flow-cap261-hair-7cb783ac.glb",
+    "../261/components/Masculine-flow-hair261.glb": "./assets/Masculine-Masculine-flow-hair261-bb7ff5dc.glb",
+    "../261/components/Masculine-flow-pashmina261-hair.glb": "./assets/Masculine-Masculine-flow-pashmina261-hair-06c0b1e1.glb",
+    "../261/components/Masculine-middle-part-cap261-hair.glb": "./assets/Masculine-Masculine-middle-part-cap261-hair-40cb142d.glb",
+    "../261/components/Masculine-middle-part-hair261.glb": "./assets/Masculine-Masculine-middle-part-hair261-2283dcc5.glb",
+    "../261/components/Masculine-middle-part-pashmina261-hair.glb": "./assets/Masculine-Masculine-middle-part-pashmina261-hair-cacd18e8.glb",
+    "../263/components/Feminine-pants-clothed-base263.glb": "./assets/Feminine-Feminine-pants-clothed-base263-8fa7df47.glb",
+    "../263/components/Masculine-pants-clothed-base263.glb": "./assets/Masculine-Masculine-pants-clothed-base263-cea1c7fa.glb"
+  },
+  "selection": {
+    "headScale": 0.8,
+    "heightPercent": -8,
+    "worldLift": -0.0768,
+    "sourceCenter": [
+      0.0,
+      1.88,
+      -0.015
+    ],
+    "center": [
+      0.0,
+      1.8032,
+      -0.015
+    ],
+    "radius": 0.384
+  }
+}

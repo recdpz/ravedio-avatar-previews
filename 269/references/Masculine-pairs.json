@@ -1,0 +1,290 @@
+{
+  "build": "Masculine",
+  "components": {
+    "base": {
+      "file": "269/assets/Masculine-Masculine-pants-clothed-base263-cea1c7fa.glb",
+      "sha256": "38ea1a946a4645d5cc3b9bd01a0667ad52c1be623f5832cbbf8ffc3d87b4a07d"
+    },
+    "eyes": {
+      "file": "269/assets/Masculine-Masculine-eyes-original-92732458.glb",
+      "sha256": "42174d4f9a617c286d991f09e2be1fe5d0d145e3828bdfac4469dd73f8da8130"
+    },
+    "mouth": {
+      "file": "269/assets/Masculine-Masculine-mouth-line-663a5e81.glb",
+      "sha256": "f5bc196e839c587503fa8410b11216b58c85ad256fd51ef4783ececd79adcce9"
+    },
+    "top": {
+      "file": "262/components/Masculine-hoodie-top.glb",
+      "sha256": "c86f18ff4bba8f6d718f4cf76a8dcd7f2de4720c13cbda08d520446830b6b6d6"
+    },
+    "bottom": {
+      "file": "215/Masculine-pants-bottom.glb",
+      "sha256": "f209a7cce8878223d5c73388e56e819625d1ac8d6826a615d9ff24a484cd7f60"
+    },
+    "hair": {
+      "file": "269/assets/Masculine-Masculine-taper-cap259-hair-b6342c16.glb",
+      "sha256": "5eefa92a00b4d9583705838d998a854c4946f10e0ab020b612a1088b893a62ba"
+    },
+    "headgear": {
+      "file": "269/assets/Masculine-Masculine-taper-cap251-headgear-acec4fb0.glb",
+      "sha256": "da1f419a312fe4e04b95bdd9454a5b7134c459742caf118327ee7a8f55a3d461"
+    },
+    "glasses": {
+      "file": "269/assets/Masculine-Masculine-details-glasses-2d913f32.glb",
+      "sha256": "2508c90ed5474a8d050f723bef4ca2ea25c7f642251afee0c37e144adf751b5c"
+    },
+    "lenses": {
+      "file": "269/assets/Masculine-Masculine-rectangular-lenses-71f90cbf.glb",
+      "sha256": "ef4495a5d530408f33d5cfba222b3a832f4969f798f510eed8044299b464a87d"
+    },
+    "groom": {
+      "file": "269/assets/Masculine-Masculine-groom-short-b9b78a24.glb",
+      "sha256": "887f0587f376ef14515fcd0553b6b4f6e77a4680f50dde8e745025aab92815e2"
+    }
+  },
+  "studio_sha256": "6a2cd4338969512a15185779deceaf9c685f069bcfce3c8f48a145aab4e8170c",
+  "scene_sha256": "887b73f7a27ef29384c6c7112ad5eb40ae1fb08e2d7e9c4b453fed07e91b8870",
+  "color_management": {
+    "view_transform": "AgX",
+    "look": "None",
+    "exposure": 0.0,
+    "gamma": 1.0
+  },
+  "cycles": {
+    "samples": 24,
+    "seed": 42,
+    "denoise": true
+  },
+  "pairs": [
+    {
+      "color": "Masculine-front-skin0-120-color.png",
+      "depth": "Masculine-front-skin0-120-depth.exr",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.899999976158142
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "ortho_scale": 1.350000023841858,
+        "target": [
+          0.0,
+          0.0,
+          1.899999976158142
+        ],
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0
+      },
+      "skin": 0,
+      "size": 120,
+      "angle": "front",
+      "alpha_threshold": 0.5,
+      "color_sha256": "bcb19bc979a4922ac276d3cf34b0c72b46152fadfeb3375b0c2b2319171c7b30",
+      "depth_sha256": "d5d5d916e70f83175e7d81b5c9294a5c5323e48b3ecd768ac09e13aa08671aa4"
+    },
+    {
+      "color": "Masculine-front-skin0-512-color.png",
+      "depth": "Masculine-front-skin0-512-depth.exr",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.899999976158142
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "ortho_scale": 1.350000023841858,
+        "target": [
+          0.0,
+          0.0,
+          1.899999976158142
+        ],
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0
+      },
+      "skin": 0,
+      "size": 512,
+      "angle": "front",
+      "alpha_threshold": 0.5,
+      "color_sha256": "d63a8f88070cddae39894e711abdb48c4a00d1a74b38b60ff217da2c28245dd0",
+      "depth_sha256": "22fcf61d22a551472783e3a84324c8e2daf9930c4f224ce868c5234510c9aa1e"
+    },
+    {
+      "color": "Masculine-front-skin3-120-color.png",
+      "depth": "Masculine-front-skin3-120-depth.exr",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.899999976158142
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "ortho_scale": 1.350000023841858,
+        "target": [
+          0.0,
+          0.0,
+          1.899999976158142
+        ],
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0
+      },
+      "skin": 3,
+      "size": 120,
+      "angle": "front",
+      "alpha_threshold": 0.5,
+      "color_sha256": "46b00c3026c206d20752f60f3de98c5418a2dcef644c1e036ac0a4c4ce0616fc",
+      "depth_sha256": "8af2afe2d24602f61150a3ec07c0537445349552756048a6fd1acba75875ea24"
+    },
+    {
+      "color": "Masculine-front-skin3-512-color.png",
+      "depth": "Masculine-front-skin3-512-depth.exr",
+      "camera": {
+        "matrix_world": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292068494294654e-07,
+            -1.0,
+            -8.0
+          ],
+          [
+            0.0,
+            1.0,
+            -1.6292068494294654e-07,
+            1.899999976158142
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "ortho_scale": 1.350000023841858,
+        "target": [
+          0.0,
+          0.0,
+          1.899999976158142
+        ],
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0
+      },
+      "skin": 3,
+      "size": 512,
+      "angle": "front",
+      "alpha_threshold": 0.5,
+      "color_sha256": "9c04895bb50ae59fba3deed321e334842061ee1e9a889266845305f778422711",
+      "depth_sha256": "4f8d439e2bccdbe512ed78ad63492e10d4666f8c0a2e919787a4cadc69611c67"
+    },
+    {
+      "color": "Masculine-side-skin1-512-color.png",
+      "depth": "Masculine-side-skin1-512-depth.exr",
+      "camera": {
+        "matrix_world": [
+          [
+            -4.371138828673793e-08,
+            -4.371138828673793e-08,
+            -1.0,
+            -8.0
+          ],
+          [
+            -1.0,
+            1.910685676922942e-15,
+            4.371138828673793e-08,
+            -4.898587410340671e-16
+          ],
+          [
+            0.0,
+            1.0,
+            -4.371138828673793e-08,
+            1.899999976158142
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "ortho_scale": 1.350000023841858,
+        "target": [
+          0.0,
+          0.0,
+          1.899999976158142
+        ],
+        "clip_start": 0.10000000149011612,
+        "clip_end": 1000.0
+      },
+      "skin": 1,
+      "size": 512,
+      "angle": "side",
+      "alpha_threshold": 0.5,
+      "color_sha256": "51b2c8084d15bdc90b68c7fe3353983d68dd5ecb5ac43a38c867ef1b2f89bd29",
+      "depth_sha256": "fe1e9a9adcccb0e0fcd61d03af3f6f0e1a9871339a404185b0c749cc2f054a89"
+    }
+  ]
+}
