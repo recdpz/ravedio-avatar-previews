@@ -140,9 +140,9 @@ def geometry(hat, cloth):
     return verts,faces,np.array(progress),np.array(tones),thickness
 
 
-def export_layered(_style, hat, ombre, cloth, *, output, **_):
+def export_layered(_style, hat, ombre, cloth, *, output, mesh_shape=geometry, **_):
     bpy.ops.wm.read_factory_settings(use_empty=True)
-    verts,faces,progress,shade,thickness = geometry(hat,cloth)
+    verts,faces,progress,shade,thickness = mesh_shape(hat,cloth)
     mesh = bpy.data.meshes.new("Wispy bangs / continuous crown")
     mesh.from_pydata([(x,-z,y) for x,y,z in verts],[],faces)
     mesh.update()
