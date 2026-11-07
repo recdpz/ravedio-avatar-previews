@@ -80,7 +80,7 @@ def airy_fringe(material, ombre, hat, cloth):
                   ombre,BANGS_COLOR,loop=True,radial_normals=False)
 
 
-def build_fringe(revision=REV, lob=low_crown, fringe=airy_fringe):
+def build_fringe(revision=REV, lob=low_crown, fringe=airy_fringe, export=export_hair):
     catalogue = json.loads((ROOT/"276/hair-fits.json").read_text(encoding="utf8"))
     feminine = catalogue["Feminine"]
     for fit in feminine["space-buns"]["fits"].values():
@@ -94,7 +94,7 @@ def build_fringe(revision=REV, lob=low_crown, fringe=airy_fringe):
         path = cloth_for("side-sweep",hat)
         cloth = surface(path) if path else None
         for color in ("default","ombre"):
-            result = export_hair("side-sweep",hat,color=="ombre",cloth,output=revision/"assets",
+            result = export("side-sweep",hat,color=="ombre",cloth,output=revision/"assets",
                                  lob_shape=lob,fringe_shape=fringe)
             fits[hat][color] = "./assets/"+result.name
     (revision/"hair-fits.json").write_text(json.dumps(catalogue,indent=2)+"\n",encoding="utf8",newline="\n")

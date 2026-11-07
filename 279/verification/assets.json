@@ -1,0 +1,151 @@
+{
+  "space-buns--none": {
+    "triangle_count": 53446,
+    "same_geometry_both_colors": true,
+    "sha256": {
+      "default": "5ea9a9a93db179624884f50ec6ddf00a4fb0ca6393cf1bd3e95f3b5958a5cb64",
+      "ombre": "7d32b510cd6df48115a432553e282a08a5cf03cef5fceee306e2e7acf97d2637"
+    }
+  },
+  "space-buns--cap": {
+    "triangle_count": 53446,
+    "same_geometry_both_colors": true,
+    "sha256": {
+      "default": "a6d6889ac5b3349105ad62657ec3e274ab46c5cc5dbbc244bca49cee3bdacdef",
+      "ombre": "f78958af04819c1fd82e82cb35dd130162239220660a0d7fc510304cf82ed3cd"
+    }
+  },
+  "space-buns--beanie": {
+    "triangle_count": 53446,
+    "same_geometry_both_colors": true,
+    "sha256": {
+      "default": "798fedde76e5ee207e9a3b4a3bbc04e2723956fbba2f9472bbacb2bc1ef7fbe0",
+      "ombre": "784c4373c7608013c60746e559324a2f91f9aed404f6b437099b3f8c07593e23"
+    }
+  },
+  "space-buns--bucket": {
+    "triangle_count": 53446,
+    "same_geometry_both_colors": true,
+    "sha256": {
+      "default": "a6a8bc8010ad40537e63c92e19a38efd5cf8ab7146d8458bca4ea1e3e022ec6b",
+      "ombre": "9e9d67aa9fb1c050b1a3ee6705b89a3bcda13c748e7afcda836ccf3552037502"
+    }
+  },
+  "space-buns--cowboy": {
+    "triangle_count": 53446,
+    "same_geometry_both_colors": true,
+    "sha256": {
+      "default": "cbbac5e91bab4fb4d87f72332c7bb1692e274a2ba9817315614bbaa26f72d264",
+      "ombre": "c98bb0a0ea500932c7c91dd1754a692af2137aaa775139d72ebe9460d7c9c6b5"
+    }
+  },
+  "space-buns--headband": {
+    "triangle_count": 53446,
+    "same_geometry_both_colors": true,
+    "sha256": {
+      "default": "a368fedffa6f1b721086100b748d3037c6ab9f5b18e4f649aa0ca98b764759d5",
+      "ombre": "14ee4bae8e1e775e374c1083a920279eac0221a4096212f6281345bbb82c34ed"
+    },
+    "bandana_overlap_pairs": 0
+  },
+  "space-buns--ears": {
+    "triangle_count": 53446,
+    "same_geometry_both_colors": true,
+    "sha256": {
+      "default": "0d0395f98837f0a3d87b525bf71f3230b27a9eaec27c9cdd17de5a9f28a0a15f",
+      "ombre": "dfab815b178d0f6596a97ff03220ac73fd56b9dd2bca67943007e54459d5ba16"
+    }
+  },
+  "space-buns--pashmina": {
+    "triangle_count": 53446,
+    "same_geometry_both_colors": true,
+    "sha256": {
+      "default": "fdd0d6adb370a399dfc4a617f2264b0aa7a2d0acc0bac914c51c1f6aeea246ce",
+      "ombre": "c2db575decc83e5265d7d4eaca30bcd530a627f793ecbf3f19c150749b09eb0e"
+    },
+    "pashmina_overlap_by_top": {
+      "bandeau": 0,
+      "triangle": 0,
+      "strappy": 0,
+      "tshirt": 0,
+      "jersey": 0,
+      "open": 0,
+      "tank": 0,
+      "sweatshirt": 0
+    }
+  },
+  "side-sweep--none": {
+    "triangle_count": 114248,
+    "same_geometry_both_colors": true,
+    "sha256": {
+      "default": "eed54449f4f2d30af152be673ccbdb2b990f9611a965e1c3677b123c83b1a7e9",
+      "ombre": "1c458913212d4ddde761ef001587d25bdd5c61b5eab6604f909740781779186b"
+    }
+  },
+  "side-sweep--cap": {
+    "triangle_count": 114248,
+    "same_geometry_both_colors": true,
+    "sha256": {
+      "default": "50533f46b48e34ee834cd7eacc496dac646874db28c43f41a41fc9eef9380a61",
+      "ombre": "a8355e9747ec5743272c6631d64bb0f303cd71dc514797adf8b5f626d6c1f819"
+    }
+  },
+  "side-sweep--beanie": {
+    "triangle_count": 114248,
+    "same_geometry_both_colors": true,
+    "sha256": {
+      "default": "eeb8f548b38ef950bb709c57790983e8ea02461ecb34eb28153b06f16a73810f",
+      "ombre": "46541c8687092241af4b4ae4eac8c914b18902358465c9bc174417f6353f91a7"
+    }
+  },
+  "side-sweep--bucket": {
+    "triangle_count": 114248,
+    "same_geometry_both_colors": true,
+    "sha256": {
+      "default": "86ca4453b4079b386457397793e294ea5511d11ffdb46404487aee3a2f7917eb",
+      "ombre": "93998d2b042a8726a830c21eb8edb6389838107103543be01e41c0db9dc9668f"
+    }
+  },
+  "side-sweep--cowboy": {
+    "triangle_count": 114248,
+    "same_geometry_both_colors": true,
+    "sha256": {
+      "default": "5ceef6476fc2e252a4d07e0ffe77918b5eac0fb88b6536a743899adc4dfcb8a9",
+      "ombre": "65657d63a1bd68738be5460300fc6f61ae769edec9adffc4afa6e3016f32b2cd"
+    }
+  },
+  "side-sweep--headband": {
+    "triangle_count": 114248,
+    "same_geometry_both_colors": true,
+    "sha256": {
+      "default": "612f9134322272eb762533dc0301dd1e2a61bd6362fd3065abcff3bc601e101d",
+      "ombre": "d8a9b073a43aa1e0c4d59efe54135b055027daf8fc16e740c91252f2e0f6a8b6"
+    }
+  },
+  "side-sweep--ears": {
+    "triangle_count": 114248,
+    "same_geometry_both_colors": true,
+    "sha256": {
+      "default": "eed54449f4f2d30af152be673ccbdb2b990f9611a965e1c3677b123c83b1a7e9",
+      "ombre": "1c458913212d4ddde761ef001587d25bdd5c61b5eab6604f909740781779186b"
+    }
+  },
+  "side-sweep--pashmina": {
+    "triangle_count": 114248,
+    "same_geometry_both_colors": true,
+    "sha256": {
+      "default": "7a65684911eaafce198dcabde42a7dae9841a147cfd520f89c1e5911f3ea11f6",
+      "ombre": "b0c421ebe15580af7657266189a891040bef51040c226ed19e033a9cb191b604"
+    },
+    "pashmina_overlap_by_top": {
+      "bandeau": 0,
+      "triangle": 0,
+      "strappy": 0,
+      "tshirt": 0,
+      "jersey": 0,
+      "open": 0,
+      "tank": 0,
+      "sweatshirt": 0
+    }
+  }
+}
