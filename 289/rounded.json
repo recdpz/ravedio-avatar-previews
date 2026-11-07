@@ -1,0 +1,14 @@
+{
+  "Feminine": {
+    "side-sweep": {
+      "label": "Soft brow fringe",
+      "note": "Bare-head review",
+      "fits": {
+        "none": {
+          "default": "./assets/rounded.glb",
+          "ombre": "./assets/rounded.glb"
+        }
+      }
+    }
+  }
+}
