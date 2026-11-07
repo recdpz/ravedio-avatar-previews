@@ -13,6 +13,7 @@ function bandanaFit(model, selection) {
 function bandanaNote(model, selection) {
   if (selection.headwear !== 'headband') return '';
   const fit = bandanaFit(model, selection);
+  if (fit?.fittedHair) return ' Triangular crown scarf with the updo fitted to it.';
   if (fit?.construction === 'folded kerchief') return ' Folded kerchief tied below the updo.';
   if (model === 'Feminine') return fit ? ' Triangular crown scarf, shaped over the original hair.' : ' Triangular crown scarf with fitted hair.';
   return fit ? ' Folded forehead band shaped over the original hair.' : ' Folded forehead band tied at the back.';
@@ -56,6 +57,10 @@ function assembledPaths(state=choices(), model=build) {
   const bandana = bandanaFit(model, state);
   if (bandana) {
     parts.headgear = new URL(bandana.headgear, document.baseURI).href;
+    if (bandana.fittedHair) {
+      const color = state.hairColor === 'ombre' ? 'ombre' : 'default';
+      parts.hair = new URL(bandana.fittedHair[color], document.baseURI).href;
+    }
     if (state.detail === 'sprout') parts.extra = new URL(bandana.sprout, document.baseURI).href;
   }
   return parts;

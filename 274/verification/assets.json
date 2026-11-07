@@ -1,0 +1,40 @@
+{
+  "Feminine-ponytail": {
+    "default": {
+      "rigid": true,
+      "protected_scalp_exact": true,
+      "cloth_overlap_pairs": 0,
+      "scalp_contact_pairs": [
+        900
+      ]
+    },
+    "ombre": {
+      "rigid": true,
+      "protected_scalp_exact": true,
+      "cloth_overlap_pairs": 0,
+      "scalp_contact_pairs": [
+        900
+      ]
+    }
+  },
+  "Feminine-space-buns": {
+    "default": {
+      "rigid": true,
+      "protected_scalp_exact": true,
+      "cloth_overlap_pairs": 0,
+      "scalp_contact_pairs": [
+        470,
+        483
+      ]
+    },
+    "ombre": {
+      "rigid": true,
+      "protected_scalp_exact": true,
+      "cloth_overlap_pairs": 0,
+      "scalp_contact_pairs": [
+        470,
+        483
+      ]
+    }
+  }
+}
