@@ -1,0 +1,14 @@
+{
+  "Feminine": {
+    "side-sweep": {
+      "label": "Side-brushed fringe",
+      "note": "Bare-head review",
+      "fits": {
+        "none": {
+          "default": "./assets/brushed.glb",
+          "ombre": "./assets/brushed.glb"
+        }
+      }
+    }
+  }
+}
