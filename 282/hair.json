@@ -1,0 +1,14 @@
+{
+  "Feminine": {
+    "side-sweep": {
+      "label": "Curtain bangs",
+      "note": "Bare-head review",
+      "fits": {
+        "none": {
+          "default": "./assets/curtain.glb",
+          "ombre": "./assets/curtain.glb"
+        }
+      }
+    }
+  }
+}
