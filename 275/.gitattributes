@@ -1,0 +1,11 @@
+*.py text eol=lf
+*.js text eol=lf
+*.cjs text eol=lf
+*.json text eol=lf
+*.html text eol=lf
+*.txt text eol=lf
+*.glb -text
+*.png -text
+*.jpg -text
+*.blend -text
+*.exr -text

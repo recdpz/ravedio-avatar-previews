@@ -3,9 +3,17 @@ import {GLTFLoader} from '../227/vendor/loaders/GLTFLoader.js';
 const $=id=>document.getElementById(id),hero=$('hero'),catalogue=await(await fetch('../263/catalogue263.json')).json(),palette=await(await fetch('../235/face-palette209.json')).json();
 const manifestUrl = new URL('./assets.json', import.meta.url);
 const manifest = await (await fetch(manifestUrl)).json();
-const overlayFile = document.documentElement.dataset.bandanaFits;
-const bandanaFits = overlayFile ? await (await fetch(overlayFile)).json() : null;
-const revision = bandanaFits ? Number(document.documentElement.dataset.artRevision || 271) : 270;
+const {bandanaFits: bandanaFile, hairFits: hairFile, artRevision} = document.documentElement.dataset;
+const bandanaUrl = bandanaFile ? new URL(bandanaFile, document.baseURI) : null;
+const bandanaFits = bandanaUrl ? await (await fetch(bandanaUrl)).json() : null;
+const hairUrl = hairFile ? new URL(hairFile, document.baseURI) : null;
+const hairFits = hairUrl ? await (await fetch(hairUrl)).json() : null;
+const revision = Number(artRevision || (bandanaFits ? 271 : 270));
+for (const [model, styles] of Object.entries(hairFits ?? {})) {
+  for (const [style, entry] of Object.entries(styles)) {
+    Object.assign(catalogue.builds[model].hair[style], {label: entry.label, note: entry.note});
+  }
+}
 const controlKey = 'ravedio-controls' + revision;
 function bandanaFit(model, selection) {
   return selection.headwear === 'headband' ? bandanaFits?.[model + '-' + selection.hair] : null;
@@ -56,12 +64,17 @@ function assembledPaths(state=choices(), model=build) {
     [slot, resolvedComponent(slot, original)]));
   const bandana = bandanaFit(model, state);
   if (bandana) {
-    parts.headgear = new URL(bandana.headgear, document.baseURI).href;
+    parts.headgear = new URL(bandana.headgear, bandanaUrl).href;
     if (bandana.fittedHair) {
       const color = state.hairColor === 'ombre' ? 'ombre' : 'default';
-      parts.hair = new URL(bandana.fittedHair[color], document.baseURI).href;
+      parts.hair = new URL(bandana.fittedHair[color], bandanaUrl).href;
     }
-    if (state.detail === 'sprout') parts.extra = new URL(bandana.sprout, document.baseURI).href;
+    if (state.detail === 'sprout') parts.extra = new URL(bandana.sprout, bandanaUrl).href;
+  }
+  const fit = hairFits?.[model]?.[state.hair]?.fits[state.headwear];
+  if (fit) {
+    const color = state.hairColor === 'ombre' ? 'ombre' : 'default';
+    parts.hair = new URL(fit[color], hairUrl).href;
   }
   return parts;
 }
