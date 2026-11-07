@@ -1,0 +1,327 @@
+{
+  "checks": [
+    {
+      "name": "F-pony",
+      "head_radius_error": 9.902317776866454e-8,
+      "body_exact": true,
+      "drape_contacts_preserved": true,
+      "scale": 0.85,
+      "lift": -7.500000000000001
+    },
+    {
+      "name": "F-pony",
+      "head_radius_error": 9.319828497833527e-8,
+      "body_exact": true,
+      "drape_contacts_preserved": true,
+      "scale": 0.8,
+      "lift": -9.999999999999998
+    },
+    {
+      "name": "F-pony",
+      "head_radius_error": 8.737339202147254e-8,
+      "body_exact": true,
+      "drape_contacts_preserved": true,
+      "scale": 0.75,
+      "lift": -12.5
+    },
+    {
+      "name": "F-pony",
+      "head_radius_error": 8.154849934216557e-8,
+      "body_exact": true,
+      "drape_contacts_preserved": true,
+      "scale": 0.7,
+      "lift": -15.000000000000002
+    },
+    {
+      "name": "F-straight",
+      "head_radius_error": 9.902317776866454e-8,
+      "body_exact": true,
+      "drape_contacts_preserved": true,
+      "scale": 0.85,
+      "lift": -7.500000000000001
+    },
+    {
+      "name": "F-straight",
+      "head_radius_error": 9.319828497833527e-8,
+      "body_exact": true,
+      "drape_contacts_preserved": true,
+      "scale": 0.8,
+      "lift": -9.999999999999998
+    },
+    {
+      "name": "F-straight",
+      "head_radius_error": 8.737339202147254e-8,
+      "body_exact": true,
+      "drape_contacts_preserved": true,
+      "scale": 0.75,
+      "lift": -12.5
+    },
+    {
+      "name": "F-straight",
+      "head_radius_error": 8.154849934216557e-8,
+      "body_exact": true,
+      "drape_contacts_preserved": true,
+      "scale": 0.7,
+      "lift": -15.000000000000002
+    },
+    {
+      "name": "F-curls",
+      "head_radius_error": 9.902317776866454e-8,
+      "body_exact": true,
+      "drape_contacts_preserved": true,
+      "scale": 0.85,
+      "lift": -7.500000000000001
+    },
+    {
+      "name": "F-curls",
+      "head_radius_error": 9.319828497833527e-8,
+      "body_exact": true,
+      "drape_contacts_preserved": true,
+      "scale": 0.8,
+      "lift": -9.999999999999998
+    },
+    {
+      "name": "F-curls",
+      "head_radius_error": 8.737339202147254e-8,
+      "body_exact": true,
+      "drape_contacts_preserved": true,
+      "scale": 0.75,
+      "lift": -12.5
+    },
+    {
+      "name": "F-curls",
+      "head_radius_error": 8.154849934216557e-8,
+      "body_exact": true,
+      "drape_contacts_preserved": true,
+      "scale": 0.7,
+      "lift": -15.000000000000002
+    },
+    {
+      "name": "F-pashmina",
+      "head_radius_error": 9.902317776866454e-8,
+      "body_exact": true,
+      "drape_contacts_preserved": true,
+      "scale": 0.85,
+      "lift": -7.500000000000001
+    },
+    {
+      "name": "F-pashmina",
+      "head_radius_error": 9.319828497833527e-8,
+      "body_exact": true,
+      "drape_contacts_preserved": true,
+      "scale": 0.8,
+      "lift": -9.999999999999998
+    },
+    {
+      "name": "F-pashmina",
+      "head_radius_error": 8.737339202147254e-8,
+      "body_exact": true,
+      "drape_contacts_preserved": true,
+      "scale": 0.75,
+      "lift": -12.5
+    },
+    {
+      "name": "F-pashmina",
+      "head_radius_error": 8.154849934216557e-8,
+      "body_exact": true,
+      "drape_contacts_preserved": true,
+      "scale": 0.7,
+      "lift": -15.000000000000002
+    },
+    {
+      "name": "F-cap",
+      "head_radius_error": 9.902317776866454e-8,
+      "body_exact": true,
+      "drape_contacts_preserved": true,
+      "scale": 0.85,
+      "lift": -7.500000000000001
+    },
+    {
+      "name": "F-cap",
+      "head_radius_error": 9.319828497833527e-8,
+      "body_exact": true,
+      "drape_contacts_preserved": true,
+      "scale": 0.8,
+      "lift": -9.999999999999998
+    },
+    {
+      "name": "F-cap",
+      "head_radius_error": 8.737339202147254e-8,
+      "body_exact": true,
+      "drape_contacts_preserved": true,
+      "scale": 0.75,
+      "lift": -12.5
+    },
+    {
+      "name": "F-cap",
+      "head_radius_error": 8.154849934216557e-8,
+      "body_exact": true,
+      "drape_contacts_preserved": true,
+      "scale": 0.7,
+      "lift": -15.000000000000002
+    },
+    {
+      "name": "M-short",
+      "head_radius_error": 9.902317776866454e-8,
+      "body_exact": true,
+      "drape_contacts_preserved": true,
+      "scale": 0.85,
+      "lift": -7.500000000000001
+    },
+    {
+      "name": "M-short",
+      "head_radius_error": 9.319828497833527e-8,
+      "body_exact": true,
+      "drape_contacts_preserved": true,
+      "scale": 0.8,
+      "lift": -9.999999999999998
+    },
+    {
+      "name": "M-short",
+      "head_radius_error": 8.737339202147254e-8,
+      "body_exact": true,
+      "drape_contacts_preserved": true,
+      "scale": 0.75,
+      "lift": -12.5
+    },
+    {
+      "name": "M-short",
+      "head_radius_error": 8.154849934216557e-8,
+      "body_exact": true,
+      "drape_contacts_preserved": true,
+      "scale": 0.7,
+      "lift": -15.000000000000002
+    },
+    {
+      "name": "M-long",
+      "head_radius_error": 9.902317776866454e-8,
+      "body_exact": true,
+      "drape_contacts_preserved": true,
+      "scale": 0.85,
+      "lift": -7.500000000000001
+    },
+    {
+      "name": "M-long",
+      "head_radius_error": 9.319828497833527e-8,
+      "body_exact": true,
+      "drape_contacts_preserved": true,
+      "scale": 0.8,
+      "lift": -9.999999999999998
+    },
+    {
+      "name": "M-long",
+      "head_radius_error": 8.737339202147254e-8,
+      "body_exact": true,
+      "drape_contacts_preserved": true,
+      "scale": 0.75,
+      "lift": -12.5
+    },
+    {
+      "name": "M-long",
+      "head_radius_error": 8.154849934216557e-8,
+      "body_exact": true,
+      "drape_contacts_preserved": true,
+      "scale": 0.7,
+      "lift": -15.000000000000002
+    },
+    {
+      "name": "M-cap",
+      "head_radius_error": 9.902317776866454e-8,
+      "body_exact": true,
+      "drape_contacts_preserved": true,
+      "scale": 0.85,
+      "lift": -7.500000000000001
+    },
+    {
+      "name": "M-cap",
+      "head_radius_error": 9.319828497833527e-8,
+      "body_exact": true,
+      "drape_contacts_preserved": true,
+      "scale": 0.8,
+      "lift": -9.999999999999998
+    },
+    {
+      "name": "M-cap",
+      "head_radius_error": 8.737339202147254e-8,
+      "body_exact": true,
+      "drape_contacts_preserved": true,
+      "scale": 0.75,
+      "lift": -12.5
+    },
+    {
+      "name": "M-cap",
+      "head_radius_error": 8.154849934216557e-8,
+      "body_exact": true,
+      "drape_contacts_preserved": true,
+      "scale": 0.7,
+      "lift": -15.000000000000002
+    },
+    {
+      "name": "M-pashmina",
+      "head_radius_error": 9.902317776866454e-8,
+      "body_exact": true,
+      "drape_contacts_preserved": true,
+      "scale": 0.85,
+      "lift": -7.500000000000001
+    },
+    {
+      "name": "M-pashmina",
+      "head_radius_error": 9.319828497833527e-8,
+      "body_exact": true,
+      "drape_contacts_preserved": true,
+      "scale": 0.8,
+      "lift": -9.999999999999998
+    },
+    {
+      "name": "M-pashmina",
+      "head_radius_error": 8.737339202147254e-8,
+      "body_exact": true,
+      "drape_contacts_preserved": true,
+      "scale": 0.75,
+      "lift": -12.5
+    },
+    {
+      "name": "M-pashmina",
+      "head_radius_error": 8.154849934216557e-8,
+      "body_exact": true,
+      "drape_contacts_preserved": true,
+      "scale": 0.7,
+      "lift": -15.000000000000002
+    },
+    {
+      "build": "Feminine",
+      "headwear": "none",
+      "reset_exact": true
+    },
+    {
+      "build": "Feminine",
+      "headwear": "pashmina",
+      "reset_exact": true
+    },
+    {
+      "build": "Masculine",
+      "headwear": "none",
+      "reset_exact": true
+    },
+    {
+      "build": "Masculine",
+      "headwear": "pashmina",
+      "reset_exact": true
+    },
+    {
+      "width": 320,
+      "controls_and_saved_choices": true
+    },
+    {
+      "width": 390,
+      "controls_and_saved_choices": true
+    },
+    {
+      "width": 844,
+      "controls_and_saved_choices": true
+    }
+  ],
+  "errors": [],
+  "body_angle_pairs": 288,
+  "small_pairs": 64
+}
