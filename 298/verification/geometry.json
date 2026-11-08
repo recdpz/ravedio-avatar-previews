@@ -1,0 +1,361 @@
+{
+  "selections": 90,
+  "curls_temples_297_298": [
+    {
+      "outer_surface_samples": 1512,
+      "inside_head": 0
+    },
+    {
+      "outer_surface_samples": 1453,
+      "inside_head": 0
+    }
+  ],
+  "braid_rear_radii_297_298": [
+    [
+      0.4454,
+      0.4399,
+      0.4306,
+      0.4311,
+      0.4419,
+      0.4448,
+      0.4399,
+      0.4425
+    ],
+    [
+      0.3852,
+      0.3803,
+      0.3961,
+      0.3966,
+      0.4169,
+      0.4188,
+      0.4184,
+      0.4207
+    ]
+  ],
+  "assets": {
+    "curls-none-default.glb": {
+      "source": "294/assets/curls-none-default.glb",
+      "source_sha256": "27a9a20c8b18f6ffadb44990fa1d24150a3faf45da139da246eecd54a5543953",
+      "output_sha256": "8272c318c440fcaa49902a24e764583796ac16c43c1c0a7645ea73ae5352a2fc",
+      "bytes": 3662624
+    },
+    "curls-none-ombre.glb": {
+      "source": "294/assets/curls-none-ombre.glb",
+      "source_sha256": "a1c1fed32bd1ec6841a137926641bb39ccd068dc0936adf99cb12f3636154c4a",
+      "output_sha256": "4f08e8d074870fa813adabf0f39e334ff69010e27d0ddded0d2e9b5203231681",
+      "bytes": 5125452
+    },
+    "curls-pashmina-default.glb": {
+      "source": "294/assets/curls-none-default.glb",
+      "source_sha256": "27a9a20c8b18f6ffadb44990fa1d24150a3faf45da139da246eecd54a5543953",
+      "output_sha256": "d5b460b2621d807a6e6f31e02770c16ba6e5d2dce55410bf5576ac0feb7398c0",
+      "bytes": 3662616
+    },
+    "curls-pashmina-ombre.glb": {
+      "source": "294/assets/curls-none-ombre.glb",
+      "source_sha256": "a1c1fed32bd1ec6841a137926641bb39ccd068dc0936adf99cb12f3636154c4a",
+      "output_sha256": "72abfe65697058ce74f17cf752a236f20169e4f98cf0dd77e2a1387d48ecfee6",
+      "bytes": 5125448
+    },
+    "curls-cap-default.glb": {
+      "source": "294/assets/curls-cap-default.glb",
+      "source_sha256": "77a12bc6625d05cacf6912f43a63b2d1474e91250180071f39229af4c9a7b5e7",
+      "output_sha256": "987ade073ce7b14099728ec84dc5e81d71283029a4b75e6214ae0b5907088b5b",
+      "bytes": 3480916
+    },
+    "curls-cap-ombre.glb": {
+      "source": "294/assets/curls-cap-ombre.glb",
+      "source_sha256": "abbfa7a03e876b2efabcd3d80630197e65a99b5c96b9e7e9962cc852e94e2d0b",
+      "output_sha256": "6ac3e20c407bf4ea5d204ce161bc583e00f66858c69eeb25c59f100f974eb861",
+      "bytes": 4877088
+    },
+    "curls-beanie-default.glb": {
+      "source": "294/assets/curls-beanie-default.glb",
+      "source_sha256": "bc4cfd578b6be1f91a7ae8db5d171ece3d8abe58db123e4dafa0dfa0112b4e42",
+      "output_sha256": "719af0905dad116528791eb6c4247d1bcce0184fa1ccbcda7dddd1142147752e",
+      "bytes": 3480920
+    },
+    "curls-beanie-ombre.glb": {
+      "source": "294/assets/curls-beanie-ombre.glb",
+      "source_sha256": "1e1b7fc91afb168e18dce79cd4e1e200073ea09b355791d12366e5fb0c448990",
+      "output_sha256": "3d46f3f06dd18cb7a4e27054654efb61f1b44120876c99122a0d91a92ad32b0f",
+      "bytes": 4877088
+    },
+    "curls-bucket-default.glb": {
+      "source": "294/assets/curls-bucket-default.glb",
+      "source_sha256": "e20e079d9b6207864380118b72621626244811a59e3f612cee0946d4791e00ac",
+      "output_sha256": "b246a9ec6345aeca789454391569dfbc6d02e26969931babb486decd255352f0",
+      "bytes": 3480920
+    },
+    "curls-bucket-ombre.glb": {
+      "source": "294/assets/curls-bucket-ombre.glb",
+      "source_sha256": "d599f59081e1bbf18b5f334018406b9bb1a9537dfadef13798a75f1d03c371df",
+      "output_sha256": "7d706712321ee46330fdc9705430d67752ec9c714838fbb0119fefab9ed99caa",
+      "bytes": 4877092
+    },
+    "curls-headband-default.glb": {
+      "source": "294/assets/curls-none-default.glb",
+      "source_sha256": "27a9a20c8b18f6ffadb44990fa1d24150a3faf45da139da246eecd54a5543953",
+      "output_sha256": "cb3521deedaaa828597aa96453e2cd72849abb14f0e9f5b7921b47de9958d3ea",
+      "bytes": 3480912
+    },
+    "curls-headband-ombre.glb": {
+      "source": "294/assets/curls-none-ombre.glb",
+      "source_sha256": "a1c1fed32bd1ec6841a137926641bb39ccd068dc0936adf99cb12f3636154c4a",
+      "output_sha256": "6bb796d32037044395bffce7998e867b5ce9a9df04b2cb0530dc77757816116f",
+      "bytes": 4877084
+    },
+    "curls-ears-default.glb": {
+      "source": "294/assets/curls-ears-default.glb",
+      "source_sha256": "f9d72016082c6daab2991a104411e5b1adb07548a6ea14e90d7dc1930ec83cea",
+      "output_sha256": "6819531e2370d05dc6f5b8689443e200af6b9ec4b2a6692863ce0d36a2140b86",
+      "bytes": 3662620
+    },
+    "curls-ears-ombre.glb": {
+      "source": "294/assets/curls-ears-ombre.glb",
+      "source_sha256": "7632ee1527408ccac2ff04f4fe3846ba182b1b8b2fd2341e10b6ce9e0e2be690",
+      "output_sha256": "33ca1411a1ce836ff90f121baea2cc51d3d3e91e77ae5a04db7e8884b07e7f75",
+      "bytes": 5125448
+    },
+    "scarf-curls-bandeau.glb": {
+      "source": "296/assets/scarf-25.glb",
+      "source_sha256": "fd6be6b5649da8564d3cb2c14e22102e92c948dcef2a5083a4eccf298970b771",
+      "output_sha256": "4fac840c6afe881c7ec9e80cf8a59a458a5a48742d83df9722cb4cb9d2cc20c6",
+      "bytes": 2703012
+    },
+    "scarf-curls-triangle.glb": {
+      "source": "296/assets/scarf-26.glb",
+      "source_sha256": "070c7346360e09215e2a57c0df41207a3365aef91b482049ddd2193a6121073c",
+      "output_sha256": "9a2cdcfa03c70ccc112950ae78ed1a2f283ad75ba865c9fc4aef4749cd1e0a33",
+      "bytes": 2703008
+    },
+    "scarf-curls-strappy.glb": {
+      "source": "296/assets/scarf-27.glb",
+      "source_sha256": "92d9eaab0b8954ccc1c7c3caec102657906a979e365834c41042f9f4c84e00ed",
+      "output_sha256": "19977be850a57917afb1cbf00ec0e21c80debfd5429b1049e1a0cd260b09ccf0",
+      "bytes": 2703012
+    },
+    "scarf-curls-tshirt.glb": {
+      "source": "296/assets/scarf-28.glb",
+      "source_sha256": "31f4bb3789d3eb99a37eafd2ff03719fe2fea82e810b738ae874697a735f9ad9",
+      "output_sha256": "f19f6b3bb03b2ead0577d8ccdb19dbc476b7ba58baa48bca01bff7dd9af714d8",
+      "bytes": 2703008
+    },
+    "scarf-curls-jersey.glb": {
+      "source": "296/assets/scarf-29.glb",
+      "source_sha256": "593b38acb9a6bd3210e7f8ef592e09a404074345f2a9141157aab72373ddd102",
+      "output_sha256": "5db0f251080f43f0e367dc1ebb8c0f2b88db508a99493829c73f1f533f040058",
+      "bytes": 2703012
+    },
+    "scarf-curls-open.glb": {
+      "source": "296/assets/scarf-30.glb",
+      "source_sha256": "1bc6030c0ffcfbecce3a75fbd8fce95d4e560162b75d3a8e2264eebb86e9acbb",
+      "output_sha256": "ed29f0b6f9a304f337860b72f4086d755283c12c3d79e3cf9f5f14d6c6c72935",
+      "bytes": 2703008
+    },
+    "scarf-curls-tank.glb": {
+      "source": "296/assets/scarf-31.glb",
+      "source_sha256": "f8fc9889ff678af2fed5a8ee6fea4cca6286b647c8d622e2680db074c5de1fc3",
+      "output_sha256": "a3e6e9aed0e5bc5778a844e2af67cb0107ed9d29d47590a48d96ebbabc52bf24",
+      "bytes": 2703008
+    },
+    "scarf-curls-sweatshirt.glb": {
+      "source": "296/assets/scarf-32.glb",
+      "source_sha256": "fef6b7857135833d0e8d8b6632b2c5fd476ba68ebe83f1f323977929b096f524",
+      "output_sha256": "c17d2346ea2bb4bf12921fad7e81ce041504fa64c1e6d7aff82a8275ca89d75b",
+      "bytes": 2703008
+    },
+    "box-braids-none-default.glb": {
+      "source": "294/assets/box-braids-none-default.glb",
+      "source_sha256": "5fd6c7f5fae754033271182413d7e49b6afef4225096ca8098947490f8293ae6",
+      "output_sha256": "f740ddaeafb093530e87a9b8ad7c63b6f337fb33985ea9b9adaf3bbfc1e3436b",
+      "bytes": 10278316
+    },
+    "box-braids-none-ombre.glb": {
+      "source": "294/assets/box-braids-none-ombre.glb",
+      "source_sha256": "addff43e49a022d5d102b07de524e32a8b8dfd51290fc4e275debc528d36b507",
+      "output_sha256": "89b2d06cb5bfff48fce4ef2123eaf80c637d64b56f5446c79bf8b2a1036527cf",
+      "bytes": 13555540
+    },
+    "box-braids-pashmina-default.glb": {
+      "source": "294/assets/box-braids-none-default.glb",
+      "source_sha256": "5fd6c7f5fae754033271182413d7e49b6afef4225096ca8098947490f8293ae6",
+      "output_sha256": "cbc7a8761976f9be9389eb51cd41f59fb3294fc9cf6fafd3713bb25f1b271081",
+      "bytes": 10278316
+    },
+    "box-braids-pashmina-ombre.glb": {
+      "source": "294/assets/box-braids-none-ombre.glb",
+      "source_sha256": "addff43e49a022d5d102b07de524e32a8b8dfd51290fc4e275debc528d36b507",
+      "output_sha256": "937cf13d1fb8bbd68be4f66d206b6393c30c1e9362a9edb828b099027544780c",
+      "bytes": 13555540
+    },
+    "box-braids-cap-default.glb": {
+      "source": "294/assets/box-braids-cap-default.glb",
+      "source_sha256": "6587f298cc2154dcac8c229ffc71112ba5b66090df6eb1b48f23db9011d6f8da",
+      "output_sha256": "c6003969609360b1861315f497a66b18d872c1070181e4421e1d4f5264193be1",
+      "bytes": 10278316
+    },
+    "box-braids-cap-ombre.glb": {
+      "source": "294/assets/box-braids-cap-ombre.glb",
+      "source_sha256": "54e43e4e071bf392ab9ec412bc6da2cd04a8e87d9461ed77333165e6547a13ad",
+      "output_sha256": "20fc6ae4b0e32dfb48bc8bac5bed6ffd6b7770ea7a59c9a152c515d36e533b50",
+      "bytes": 13555540
+    },
+    "box-braids-bucket-default.glb": {
+      "source": "294/assets/box-braids-bucket-default.glb",
+      "source_sha256": "d51082ec40c8dd04ac8d6164b691d25c0d9b76b08a99b0677de3de1b0d5cfc93",
+      "output_sha256": "01452faa803c331314e9698f4f93d776b49b92b8b0aff889fbca1b9e4c7730b8",
+      "bytes": 10278312
+    },
+    "box-braids-bucket-ombre.glb": {
+      "source": "294/assets/box-braids-bucket-ombre.glb",
+      "source_sha256": "aad87a710642adfdecb68f7e326f3924642cafb549961d595d28772e29694a07",
+      "output_sha256": "9b217dc80317d30e6adc0a5cca1c9ed4911fcef4f55646efd685c600dfb9f287",
+      "bytes": 13555536
+    },
+    "scarf-box-braids-bandeau.glb": {
+      "source": "296/assets/scarf-57.glb",
+      "source_sha256": "9e24e688e969f3dfb01e59dd83ba7a0bdc427fb1e4abe47d2636307e7409bb85",
+      "output_sha256": "98c4c41e2773502070226014400e50acb4645a88062e61fffb7188e31159d1db",
+      "bytes": 2703008
+    },
+    "scarf-box-braids-triangle.glb": {
+      "source": "296/assets/scarf-58.glb",
+      "source_sha256": "1d500805d85face340700f0813635f2cf67b150bcb3bc0821a07d3a7b454f588",
+      "output_sha256": "a90e05f3ec9106ab1dae72ef58ee9777ebe214c07882e08cd933c710bcc0e72b",
+      "bytes": 2703008
+    },
+    "scarf-box-braids-strappy.glb": {
+      "source": "296/assets/scarf-59.glb",
+      "source_sha256": "cff5d951d875b728a98b1cd41b285169015da824ff2042296fd3a5c3d8d82894",
+      "output_sha256": "e07525a5a96afaf83b554495ba86c7067cc14f6ff6dcf3d79b039b11ac8c4b67",
+      "bytes": 2703008
+    },
+    "scarf-box-braids-tshirt.glb": {
+      "source": "296/assets/scarf-60.glb",
+      "source_sha256": "e1c334eafc8d3e7de6df36dbec9f2dd491f332a0015bf9d38778706d47de2e09",
+      "output_sha256": "e2d18171dde1acb5d6cd16aadccac94f597b70675abed996de30533f4346fc90",
+      "bytes": 2703004
+    },
+    "scarf-box-braids-jersey.glb": {
+      "source": "296/assets/scarf-61.glb",
+      "source_sha256": "6b0fca3811f19904375586495d57a29ceba7279624aab42292c5083a844ff603",
+      "output_sha256": "1f6e8a1bf198ee748032367b55de1eeeefe87b3e45438d4a08c0c5ec0a47fb3d",
+      "bytes": 2703008
+    },
+    "scarf-box-braids-open.glb": {
+      "source": "296/assets/scarf-62.glb",
+      "source_sha256": "975753a6ed6b2bf342f510c23d8195e683ad9dada784f68a214114ffd7b4ba1b",
+      "output_sha256": "7f84b25deedf6c830f224df1a4658e4fd727868a1ba735882dc587d9b389b88a",
+      "bytes": 2703004
+    },
+    "scarf-box-braids-tank.glb": {
+      "source": "296/assets/scarf-63.glb",
+      "source_sha256": "5defd1f858f487363d461902d7910d39a403f7ba2c209124d86adb8f2bcaebc8",
+      "output_sha256": "2f531710cf5b191fe00057706021c1771998f7abe998c55e938227f96431cefa",
+      "bytes": 2703008
+    },
+    "scarf-box-braids-sweatshirt.glb": {
+      "source": "296/assets/scarf-64.glb",
+      "source_sha256": "a6e92f622ac97159fbe8c873c58cb74ef77f83fbbb2d4f121bec22debf8ec1e3",
+      "output_sha256": "c1172f3095d66918b8ef243b685140df25318cdd7476cb5f9e282fcbc2bbdc25",
+      "bytes": 2703004
+    },
+    "bob-none-default.glb": {
+      "source": "294/assets/bob-none-default.glb",
+      "source_sha256": "5d30b020b224e5894988468c62f0a62a6fab8723b1cfbc689a4a0a1f384846e1",
+      "output_sha256": "26f8cc7ebeda043b268a30f3ffd830561cc2b3c30263d5f7a558919c688d31c9",
+      "bytes": 1914164
+    },
+    "bob-none-ombre.glb": {
+      "source": "294/assets/bob-none-ombre.glb",
+      "source_sha256": "462be6a406b488b04a3d61b9690a1085e2829e127268932ae2ab3f1ac4f1baf3",
+      "output_sha256": "fd93dc27b4ea36e88d7092907b1c3a95871893f4a0e42f1071925cd74b6cd545",
+      "bytes": 2854784
+    },
+    "bob-pashmina-default.glb": {
+      "source": "294/assets/bob-none-default.glb",
+      "source_sha256": "5d30b020b224e5894988468c62f0a62a6fab8723b1cfbc689a4a0a1f384846e1",
+      "output_sha256": "ecf86e07070f91cac5ab6eb5a9a5551f801b205df5463c2357606588c45370d4",
+      "bytes": 1914164
+    },
+    "bob-pashmina-ombre.glb": {
+      "source": "294/assets/bob-none-ombre.glb",
+      "source_sha256": "462be6a406b488b04a3d61b9690a1085e2829e127268932ae2ab3f1ac4f1baf3",
+      "output_sha256": "b2a8cdce2e7415589891f2a3a76fdabf3d6002ab5ab1a1d9149c9402196eea72",
+      "bytes": 2854784
+    },
+    "bob-cap-default.glb": {
+      "source": "294/assets/bob-cap-default.glb",
+      "source_sha256": "e5c4acdd131f787ae4d44b2f35d9e6c3eb958331a36498ec40bef29085ba6b3b",
+      "output_sha256": "e6124f22bc4dafd76b82cedc11cc1b854dac42496ef8fcb1a72f16687225b182",
+      "bytes": 1914164
+    },
+    "bob-cap-ombre.glb": {
+      "source": "294/assets/bob-cap-ombre.glb",
+      "source_sha256": "5cb438f41765ff7885eab50e381256026ae144e3acb43b23bd15c185753479d0",
+      "output_sha256": "30ca7c7a5dcc948fcf3cdece1cce890c51b20010684e7953b799fb64123197a7",
+      "bytes": 2854784
+    },
+    "bob-bucket-default.glb": {
+      "source": "294/assets/bob-bucket-default.glb",
+      "source_sha256": "1fce834e4ebdf47f81f9ed47854cb8467f7c5ed802d2d9342d16cef82cceeb4d",
+      "output_sha256": "8dd64c983d703940c8697f2bdf4829064874824491be8643bc05b87bae089851",
+      "bytes": 1914168
+    },
+    "bob-bucket-ombre.glb": {
+      "source": "294/assets/bob-bucket-ombre.glb",
+      "source_sha256": "a5a0476897bffce11d4b589379611b9f7b5a06bd325e2ff41a56cbe152fb7128",
+      "output_sha256": "c44509a831c5a7f6bcf781f406d7fb87c84d5fc7b1d253abd42fdabb80083022",
+      "bytes": 2854788
+    },
+    "scarf-bob-bandeau.glb": {
+      "source": "296/assets/scarf-01.glb",
+      "source_sha256": "57d36bfacf61215df2c7e6be1f20bc30ce0c108e2e03be2c41028035efe83fc2",
+      "output_sha256": "6ca3aef1fc494d4486d88f118721e53992d7e78219bd20e0c0c180909360c00a",
+      "bytes": 2703008
+    },
+    "scarf-bob-triangle.glb": {
+      "source": "296/assets/scarf-02.glb",
+      "source_sha256": "104eb0626798cff39447d587584da559e3f7b6b49195352da854e577dbf0280c",
+      "output_sha256": "bf90e2bf37a8ffa3b1bcca08c14bb16c8b2812f2353b30769eac4caf624b1e06",
+      "bytes": 2703008
+    },
+    "scarf-bob-strappy.glb": {
+      "source": "296/assets/scarf-03.glb",
+      "source_sha256": "4cd127752ef67d2f187d3030ee5d2e1ed6a086988d21a958e0f1bc20dd528ea7",
+      "output_sha256": "0829d700d8a4f0d2d1d7fd22e51a40d50463ff4fb3a6a0f8dae5a061cd26f608",
+      "bytes": 2703008
+    },
+    "scarf-bob-tshirt.glb": {
+      "source": "296/assets/scarf-04.glb",
+      "source_sha256": "c98e8cf45bde8547690eedc09a465f183bc75de442758ace7b21806b06f4f4f5",
+      "output_sha256": "249239b217222c5bcf4fcde57836100e3cecf41bb69c0cd2a3be922f76b15e9c",
+      "bytes": 2703004
+    },
+    "scarf-bob-jersey.glb": {
+      "source": "296/assets/scarf-05.glb",
+      "source_sha256": "9d425db6e295be79695bd0d697274129026e854956f29067d4db787e0f34e634",
+      "output_sha256": "4ac350733239e9fdf286ecb739b9d579f86b8487423283f815dba69979de0044",
+      "bytes": 2703008
+    },
+    "scarf-bob-open.glb": {
+      "source": "296/assets/scarf-06.glb",
+      "source_sha256": "ed360732359059dbbe68f568833d699eaba943723f4b41ba530291b27140c2ab",
+      "output_sha256": "0b147ad7a023fffc25e4497250f5994bf869dee08251f786f56cffce04246394",
+      "bytes": 2703008
+    },
+    "scarf-bob-tank.glb": {
+      "source": "296/assets/scarf-07.glb",
+      "source_sha256": "b6760f453ffefe88caca7b938bc3ae870eda455a6c93d6093ad439099e15fe45",
+      "output_sha256": "58171db5c7674470a984e77b9f0dd746b44dcec67ce431c679ec0b4389a99d66",
+      "bytes": 2703008
+    },
+    "scarf-bob-sweatshirt.glb": {
+      "source": "296/assets/scarf-08.glb",
+      "source_sha256": "d6c15098f6545fdd3fc1e79e7d733ecbf32b95f85b696bb9c72e193a4c68e36f",
+      "output_sha256": "46edadde0613a27f08d2250f403b25cad12ead7271814b5c772b66549208a790",
+      "bytes": 2703008
+    }
+  }
+}

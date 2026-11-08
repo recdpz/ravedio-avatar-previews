@@ -166,22 +166,23 @@ def inspect_locks(model, binary):
     return sorted(locks, key=lambda row: row[0])
 
 
-def rebuild(source, target, style, tuck=False):
+def rebuild(source, target, style, tuck=False, edit_lock=sculpt_lock, inner_rows=None):
     model, binary = read_glb(source)
     locks = inspect_locks(model, binary)
     # Copy the existing strand UVs and color ramp onto narrower interior
     # locks. These fill the larger rear gaps without a visible flat liner.
-    inner_rows = {4, 6, 7, 8, 10, 11, 12, 14, 16}
+    if inner_rows is None:
+        inner_rows = {4, 6, 7, 8, 10, 11, 12, 14, 16}
     pending = {}
     for i, (_, mesh, rot, off, take, points, normals, uv, faces) in enumerate(locks):
         primitive = mesh["primitives"][0]
         attrs = primitive["attributes"]
-        p, n = sculpt_lock(points[take], normals[take], uv[take], style, i / 20, tuck)
+        p, n = edit_lock(points[take], normals[take], uv[take], style, i / 20, tuck)
         accessor(model, binary, attrs["POSITION"], 3)[take] = (p - off) @ rot
         accessor(model, binary, attrs["NORMAL"], 3)[take] = n @ rot
         if style != "curls" or i not in inner_rows:
             continue
-        p, n = sculpt_lock(points[take], normals[take], uv[take], style, i / 20, tuck, inner=True)
+        p, n = edit_lock(points[take], normals[take], uv[take], style, i / 20, tuck, inner=True)
         local_indices = np.full(len(points), -1, dtype=np.int32)
         local_indices[take] = np.arange(len(take))
         chosen = local_indices[faces]
