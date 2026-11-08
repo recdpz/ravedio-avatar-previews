@@ -1,0 +1,584 @@
+{
+  "covered_selections": 120,
+  "distinct_styles": 16,
+  "angles_per_original_finish": 8,
+  "edited_assets": 6,
+  "overlap_pairs_before_after": [
+    {
+      "hair": "straight",
+      "top": [
+        0,
+        0
+      ],
+      "hairColor": "default",
+      "headgear": [
+        8105,
+        7370
+      ]
+    },
+    {
+      "hair": "straight",
+      "top": [
+        0,
+        0
+      ],
+      "hairColor": "ombre",
+      "headgear": [
+        8105,
+        7370
+      ]
+    },
+    {
+      "hair": "straight",
+      "top": [
+        0,
+        0
+      ],
+      "hairColor": "default",
+      "headgear": [
+        8078,
+        7339
+      ]
+    },
+    {
+      "hair": "straight",
+      "top": [
+        0,
+        0
+      ],
+      "hairColor": "ombre",
+      "headgear": [
+        8078,
+        7339
+      ]
+    },
+    {
+      "hair": "straight",
+      "top": [
+        1096,
+        1096
+      ],
+      "hairColor": "default",
+      "headgear": [
+        8100,
+        7349
+      ]
+    },
+    {
+      "hair": "straight",
+      "top": [
+        1096,
+        1096
+      ],
+      "hairColor": "ombre",
+      "headgear": [
+        8100,
+        7349
+      ]
+    },
+    {
+      "hair": "straight",
+      "top": [
+        2100,
+        2100
+      ],
+      "hairColor": "default",
+      "headgear": [
+        8151,
+        7380
+      ]
+    },
+    {
+      "hair": "straight",
+      "top": [
+        2100,
+        2100
+      ],
+      "hairColor": "ombre",
+      "headgear": [
+        8151,
+        7380
+      ]
+    },
+    {
+      "hair": "straight",
+      "top": [
+        2132,
+        2132
+      ],
+      "hairColor": "default",
+      "headgear": [
+        8079,
+        7378
+      ]
+    },
+    {
+      "hair": "straight",
+      "top": [
+        2132,
+        2132
+      ],
+      "hairColor": "ombre",
+      "headgear": [
+        8079,
+        7378
+      ]
+    },
+    {
+      "hair": "straight",
+      "top": [
+        2201,
+        2201
+      ],
+      "hairColor": "default",
+      "headgear": [
+        8053,
+        7340
+      ]
+    },
+    {
+      "hair": "straight",
+      "top": [
+        2201,
+        2201
+      ],
+      "hairColor": "ombre",
+      "headgear": [
+        8053,
+        7340
+      ]
+    },
+    {
+      "hair": "straight",
+      "top": [
+        792,
+        792
+      ],
+      "hairColor": "default",
+      "headgear": [
+        8100,
+        7356
+      ]
+    },
+    {
+      "hair": "straight",
+      "top": [
+        792,
+        792
+      ],
+      "hairColor": "ombre",
+      "headgear": [
+        8100,
+        7356
+      ]
+    },
+    {
+      "hair": "straight",
+      "top": [
+        2299,
+        2299
+      ],
+      "hairColor": "default",
+      "headgear": [
+        8097,
+        7371
+      ]
+    },
+    {
+      "hair": "straight",
+      "top": [
+        2299,
+        2299
+      ],
+      "hairColor": "ombre",
+      "headgear": [
+        8097,
+        7371
+      ]
+    },
+    {
+      "hair": "curls",
+      "top": [
+        0,
+        0
+      ],
+      "hairColor": "default",
+      "headgear": [
+        6404,
+        5230
+      ]
+    },
+    {
+      "hair": "curls",
+      "top": [
+        0,
+        0
+      ],
+      "hairColor": "ombre",
+      "headgear": [
+        6404,
+        5230
+      ]
+    },
+    {
+      "hair": "curls",
+      "top": [
+        0,
+        0
+      ],
+      "hairColor": "default",
+      "headgear": [
+        6408,
+        5216
+      ]
+    },
+    {
+      "hair": "curls",
+      "top": [
+        0,
+        0
+      ],
+      "hairColor": "ombre",
+      "headgear": [
+        6408,
+        5216
+      ]
+    },
+    {
+      "hair": "curls",
+      "top": [
+        0,
+        0
+      ],
+      "hairColor": "default",
+      "headgear": [
+        6407,
+        5232
+      ]
+    },
+    {
+      "hair": "curls",
+      "top": [
+        0,
+        0
+      ],
+      "hairColor": "ombre",
+      "headgear": [
+        6407,
+        5232
+      ]
+    },
+    {
+      "hair": "curls",
+      "top": [
+        1192,
+        1192
+      ],
+      "hairColor": "default",
+      "headgear": [
+        6421,
+        5219
+      ]
+    },
+    {
+      "hair": "curls",
+      "top": [
+        1192,
+        1192
+      ],
+      "hairColor": "ombre",
+      "headgear": [
+        6421,
+        5219
+      ]
+    },
+    {
+      "hair": "curls",
+      "top": [
+        1216,
+        1216
+      ],
+      "hairColor": "default",
+      "headgear": [
+        6395,
+        5203
+      ]
+    },
+    {
+      "hair": "curls",
+      "top": [
+        1216,
+        1216
+      ],
+      "hairColor": "ombre",
+      "headgear": [
+        6395,
+        5203
+      ]
+    },
+    {
+      "hair": "curls",
+      "top": [
+        1192,
+        1192
+      ],
+      "hairColor": "default",
+      "headgear": [
+        6420,
+        5223
+      ]
+    },
+    {
+      "hair": "curls",
+      "top": [
+        1192,
+        1192
+      ],
+      "hairColor": "ombre",
+      "headgear": [
+        6420,
+        5223
+      ]
+    },
+    {
+      "hair": "curls",
+      "top": [
+        0,
+        0
+      ],
+      "hairColor": "default",
+      "headgear": [
+        6414,
+        5227
+      ]
+    },
+    {
+      "hair": "curls",
+      "top": [
+        0,
+        0
+      ],
+      "hairColor": "ombre",
+      "headgear": [
+        6414,
+        5227
+      ]
+    },
+    {
+      "hair": "curls",
+      "top": [
+        1202,
+        1202
+      ],
+      "hairColor": "default",
+      "headgear": [
+        6402,
+        5218
+      ]
+    },
+    {
+      "hair": "curls",
+      "top": [
+        1202,
+        1202
+      ],
+      "hairColor": "ombre",
+      "headgear": [
+        6402,
+        5218
+      ]
+    },
+    {
+      "hair": "box-braids",
+      "top": [
+        0,
+        0
+      ],
+      "hairColor": "default",
+      "headgear": [
+        9537,
+        8992
+      ]
+    },
+    {
+      "hair": "box-braids",
+      "top": [
+        0,
+        0
+      ],
+      "hairColor": "ombre",
+      "headgear": [
+        9537,
+        8992
+      ]
+    },
+    {
+      "hair": "box-braids",
+      "top": [
+        1029,
+        1029
+      ],
+      "hairColor": "default",
+      "headgear": [
+        9514,
+        9001
+      ]
+    },
+    {
+      "hair": "box-braids",
+      "top": [
+        1029,
+        1029
+      ],
+      "hairColor": "ombre",
+      "headgear": [
+        9514,
+        9001
+      ]
+    },
+    {
+      "hair": "box-braids",
+      "top": [
+        279,
+        279
+      ],
+      "hairColor": "default",
+      "headgear": [
+        9550,
+        9011
+      ]
+    },
+    {
+      "hair": "box-braids",
+      "top": [
+        279,
+        279
+      ],
+      "hairColor": "ombre",
+      "headgear": [
+        9550,
+        9011
+      ]
+    },
+    {
+      "hair": "box-braids",
+      "top": [
+        7355,
+        7355
+      ],
+      "hairColor": "default",
+      "headgear": [
+        9515,
+        8958
+      ]
+    },
+    {
+      "hair": "box-braids",
+      "top": [
+        7355,
+        7355
+      ],
+      "hairColor": "ombre",
+      "headgear": [
+        9515,
+        8958
+      ]
+    },
+    {
+      "hair": "box-braids",
+      "top": [
+        7470,
+        7470
+      ],
+      "hairColor": "default",
+      "headgear": [
+        9655,
+        9153
+      ]
+    },
+    {
+      "hair": "box-braids",
+      "top": [
+        7470,
+        7470
+      ],
+      "hairColor": "ombre",
+      "headgear": [
+        9655,
+        9153
+      ]
+    },
+    {
+      "hair": "box-braids",
+      "top": [
+        7453,
+        7453
+      ],
+      "hairColor": "default",
+      "headgear": [
+        9553,
+        9023
+      ]
+    },
+    {
+      "hair": "box-braids",
+      "top": [
+        7453,
+        7453
+      ],
+      "hairColor": "ombre",
+      "headgear": [
+        9553,
+        9023
+      ]
+    },
+    {
+      "hair": "box-braids",
+      "top": [
+        243,
+        243
+      ],
+      "hairColor": "default",
+      "headgear": [
+        9509,
+        8983
+      ]
+    },
+    {
+      "hair": "box-braids",
+      "top": [
+        243,
+        243
+      ],
+      "hairColor": "ombre",
+      "headgear": [
+        9509,
+        8983
+      ]
+    },
+    {
+      "hair": "box-braids",
+      "top": [
+        7492,
+        7492
+      ],
+      "hairColor": "default",
+      "headgear": [
+        9526,
+        8957
+      ]
+    },
+    {
+      "hair": "box-braids",
+      "top": [
+        7492,
+        7492
+      ],
+      "hairColor": "ombre",
+      "headgear": [
+        9526,
+        8957
+      ]
+    }
+  ]
+}
