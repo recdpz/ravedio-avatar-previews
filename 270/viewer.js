@@ -3,11 +3,13 @@ import {GLTFLoader} from '../227/vendor/loaders/GLTFLoader.js';
 const $=id=>document.getElementById(id),hero=$('hero'),catalogue=await(await fetch('../263/catalogue263.json')).json(),palette=await(await fetch('../235/face-palette209.json')).json();
 const manifestUrl = new URL('./assets.json', import.meta.url);
 const manifest = await (await fetch(manifestUrl)).json();
-const {bandanaFits: bandanaFile, hairFits: hairFile, artRevision} = document.documentElement.dataset;
+const {bandanaFits: bandanaFile, hairFits: hairFile, pashminaFits: pashminaFile, artRevision} = document.documentElement.dataset;
 const bandanaUrl = bandanaFile ? new URL(bandanaFile, document.baseURI) : null;
 const bandanaFits = bandanaUrl ? await (await fetch(bandanaUrl)).json() : null;
 const hairUrl = hairFile ? new URL(hairFile, document.baseURI) : null;
 const hairFits = hairUrl ? await (await fetch(hairUrl)).json() : null;
+const pashminaUrl = pashminaFile ? new URL(pashminaFile, document.baseURI) : null;
+const pashminaFits = pashminaUrl ? await (await fetch(pashminaUrl)).json() : null;
 const revision = Number(artRevision || (bandanaFits ? 271 : 270));
 for (const [model, styles] of Object.entries(hairFits ?? {})) {
   for (const [style, entry] of Object.entries(styles)) {
@@ -76,6 +78,8 @@ function assembledPaths(state=choices(), model=build) {
     const color = state.hairColor === 'ombre' ? 'ombre' : 'default';
     parts.hair = new URL(fit[color], hairUrl).href;
   }
+  const scarf = state.headwear === 'pashmina' ? pashminaFits?.[model]?.[state.hair]?.[state.top] : null;
+  if (scarf) parts.headgear = new URL(scarf, pashminaUrl).href;
   return parts;
 }
 function component(path){if(!cache.has(path))cache.set(path,new Promise((resolve,reject)=>loader.load(path,g=>resolve(g.scene),undefined,reject)).catch(e=>{cache.delete(path);throw e}));return cache.get(path)}

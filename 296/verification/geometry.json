@@ -1,0 +1,907 @@
+{
+  "covered_selections": 120,
+  "distinct_styles": 16,
+  "camera_views_per_default_assembly": 8,
+  "curls_open_lower_hood_left_nape_right": {
+    "295": [
+      [
+        -0.4388,
+        1.4368,
+        -0.0691
+      ],
+      [
+        -0.0,
+        1.4081,
+        -0.4355
+      ],
+      [
+        0.4434,
+        1.4428,
+        -0.0697
+      ]
+    ],
+    "296": [
+      [
+        -0.3556,
+        1.431,
+        -0.0589
+      ],
+      [
+        -0.0,
+        1.3571,
+        -0.3199
+      ],
+      [
+        0.361,
+        1.437,
+        -0.0595
+      ]
+    ]
+  },
+  "assets": {
+    "assets/feminine-bob-pashmina-default.glb": {
+      "source": "294/assets/bob-pashmina-default.glb",
+      "source_sha256": "a5485adb75d0fc56ea8d1deb6beae2825ca619939626413e3c5dba78736fb34e",
+      "sha256": "9efa398da6f2b71111603a245499449b24af3dd4fff10dc6fc5d189492bdd412",
+      "bytes": 1914172
+    },
+    "assets/feminine-bob-pashmina-ombre.glb": {
+      "source": "294/assets/bob-pashmina-ombre.glb",
+      "source_sha256": "7b5d1b47ed72738ca619b9aad12c6e95fb07e622a0a4fdac2117a03dc709c9ac",
+      "sha256": "6cd17e60f7dc3d3a3031ded41656abc35873f0aac6aef626db51110e5b33936d",
+      "bytes": 2854792
+    },
+    "assets/feminine-box-braids-pashmina-default.glb": {
+      "source": "295/assets/box-braids-pashmina-default.glb",
+      "source_sha256": "353989ccb2607b459534696fa9ff493264734c8330dc88dfb6bc5969812d9137",
+      "sha256": "a27750901b9947eded790b36090bd7962c1ac92f035d1a5ddf7a5e15aa28b705",
+      "bytes": 10278316
+    },
+    "assets/feminine-box-braids-pashmina-ombre.glb": {
+      "source": "295/assets/box-braids-pashmina-ombre.glb",
+      "source_sha256": "f2e18a4c890f1bb51b7d7859f02baeb095af28227059b8778a89904917ac02dd",
+      "sha256": "8821672714d6f1df660ffd433388686387b209ee2add5d723d15b37c76323eae",
+      "bytes": 13555540
+    },
+    "assets/feminine-curls-pashmina-default.glb": {
+      "source": "295/assets/curls-pashmina-default.glb",
+      "source_sha256": "5470c626de141a63472e9a6615ccb89a9f047eee21c15889646c5d0e0284541c",
+      "sha256": "39ef7450e7687a6c740b7daf016d991dc3827569df5f9848086d71f89ce555ee",
+      "bytes": 2297612
+    },
+    "assets/feminine-curls-pashmina-ombre.glb": {
+      "source": "295/assets/curls-pashmina-ombre.glb",
+      "source_sha256": "3a4fdd50a568e8b349a102b64a6f1b561fd3728c60858432835d356922170d94",
+      "sha256": "357cecc9a5a7746ab639e5f3e8e6521d687ff92c7a79f53e4e49333c7c848ee1",
+      "bytes": 3260076
+    },
+    "assets/feminine-ponytail-pashmina-default.glb": {
+      "source": "269/assets/Feminine-Feminine-ponytail-pashmina251-hair-e7682a1e.glb",
+      "source_sha256": "d02069b21a6d4d0858b5f9b036f9417162567ed8365d72ca00bd0d4862b2c137",
+      "sha256": "17f67fab061611448564534805b135a65bfa8e6502378911923afaf2e8830db3",
+      "bytes": 2330980
+    },
+    "assets/feminine-ponytail-pashmina-ombre.glb": {
+      "source": "270/generated/0d49cc5014903a3f5a0db7a2-rigid.glb",
+      "source_sha256": "26bab4e4b9ff5c7f6a4f7860cd628db915cbe59f1daa47282d629e23ecb5e4c5",
+      "sha256": "819014a48c8caded0bac5e0ef3fc742578acad0ef6b4fa1f170a34d3ef6c4e2f",
+      "bytes": 3228688
+    },
+    "assets/feminine-side-sweep-pashmina-default.glb": {
+      "source": "293/assets/long-pashmina.glb",
+      "source_sha256": "9bbd3bef135068935f1692230f75924a86f5c2521f1eca0d553cd927fa2b46e8",
+      "sha256": "2b222caeebf39763c02ddf17a6d300a85569861aa0821f820163a2ebbf42a7a3",
+      "bytes": 5003228
+    },
+    "assets/feminine-side-sweep-pashmina-ombre.glb": {
+      "source": "293/assets/long-pashmina-ombre.glb",
+      "source_sha256": "6b6ee92f5e545f94b5af66a86978c06c08a87e191c62156176f3522547add9e1",
+      "sha256": "0b6e51c49cc931a75eb1ef72f2bd14f72bccadd86aef9abf065904ba0aa05efc",
+      "bytes": 6258820
+    },
+    "assets/feminine-space-buns-pashmina-default.glb": {
+      "source": "276/assets/space-buns-pashmina.glb",
+      "source_sha256": "fdd0d6adb370a399dfc4a617f2264b0aa7a2d0acc0bac914c51c1f6aeea246ce",
+      "sha256": "482033f06d242aa4da583f6b9cdf8b44d859b209d1c33c3a243e59df288613b0",
+      "bytes": 1189620
+    },
+    "assets/feminine-space-buns-pashmina-ombre.glb": {
+      "source": "276/assets/space-buns-pashmina-ombre.glb",
+      "source_sha256": "c2db575decc83e5265d7d4eaca30bcd530a627f793ecbf3f19c150749b09eb0e",
+      "sha256": "c25c9237b5f6ba5084951402c315f5790cc646ee5e036b77d3ee4da97350938c",
+      "bytes": 1860948
+    },
+    "assets/feminine-straight-pashmina-default.glb": {
+      "source": "295/assets/straight-pashmina-default.glb",
+      "source_sha256": "6b013c1ef05ce7aac3557b3609aaae6902cbde039ae75f300a04be5b6028bb13",
+      "sha256": "7c4747537222efd8c6509d6e2ad04c049244b0677ff012cc4415f759a886644c",
+      "bytes": 2817504
+    },
+    "assets/feminine-straight-pashmina-ombre.glb": {
+      "source": "295/assets/straight-pashmina-ombre.glb",
+      "source_sha256": "3ce31c933d40e9c72c449526a0f14b972f3db1ebe67f6ebb3b7a277cef15f171",
+      "sha256": "9a70bf0c149058267b31508d028a6a2e157d0878110ac6dd719f355508b2b5ec",
+      "bytes": 3779964
+    },
+    "assets/feminine-twin-braids-pashmina-default.glb": {
+      "source": "270/generated/3a74a8eac2d587589865890b-braid.glb",
+      "source_sha256": "aabb4449582356f50b1a8078aa0ea46addb48edd5ff50159572f1456573babf4",
+      "sha256": "4fa4b15154fb652a482e02e9c395f0befceb13a4c7468330b65ce88665f6a8c8",
+      "bytes": 649444
+    },
+    "assets/feminine-twin-braids-pashmina-ombre.glb": {
+      "source": "270/generated/002fad18a0c41faff83a4316-braid.glb",
+      "source_sha256": "a81cfdba3c660d91f4ee9507a8bf483deb552e372027bc2e7eedf7edcb602fb2",
+      "sha256": "2cdd6e4c1c761f10dd57d94c509628da4aa08ae0cc4e9502c40d255f677864e1",
+      "bytes": 1103280
+    },
+    "assets/masculine-afro-pashmina-default.glb": {
+      "source": "270/generated/8c8537ad2ae1689ba489739c-rigid.glb",
+      "source_sha256": "f52856ba5ef7516aea702ed184f45c80d8739fed44f55863f19f86124d9cb8f8",
+      "sha256": "de0524f0f6871c4c680ed964eea17c0e65ad6d418ea3a86306fbe3d89151e363",
+      "bytes": 4213036
+    },
+    "assets/masculine-afro-pashmina-ombre.glb": {
+      "source": "270/generated/e2a79ab8779d838405b7bf87-rigid.glb",
+      "source_sha256": "a9d2527ddaccfd0af998ce7d75fc29a6d75cf9f5e95d7a03d9260b5f9de465d0",
+      "sha256": "d17cf48940c3e18aba799474c69745699faa6891e186b4d747cd4a7e59f033e3",
+      "bytes": 5617028
+    },
+    "assets/masculine-buzz-pashmina-default.glb": {
+      "source": "270/generated/7a861c50bbb97ad556fbc2d5-rigid.glb",
+      "source_sha256": "40e3a29b6c050f49a560d194857b0436fbd0819400a2c24e16bc07c481874952",
+      "sha256": "7379157e01b72880a3f885a1e8802373c0e608823a9f618a89b7358d20e3b51e",
+      "bytes": 2738180
+    },
+    "assets/masculine-buzz-pashmina-ombre.glb": {
+      "source": "270/generated/386c9cf4b21203485b5b1a90-rigid.glb",
+      "source_sha256": "a2bece1a97324e0d17d0e89179ea582845933bb8edf90cbbce6165a49ac8fecb",
+      "sha256": "d9a53d32e4493abd01560556979e4b020d3a84a993227403468c04b161bf55c9",
+      "bytes": 3358852
+    },
+    "assets/masculine-curly-top-pashmina-default.glb": {
+      "source": "270/generated/3637ca20ec57b601bcda715a-rigid.glb",
+      "source_sha256": "66e759f2c8b38922549b9cfda972ada6de0351c07909503b93f1515d9656bd04",
+      "sha256": "8d2f0d6ed7ab279de25a020211cc0b8fba7ffd17ef656d72b27c3f7afee77b1e",
+      "bytes": 18875996
+    },
+    "assets/masculine-curly-top-pashmina-ombre.glb": {
+      "source": "270/generated/a7ab8c7a5a1f15649ef71613-rigid.glb",
+      "source_sha256": "c9bcafb8265f191518db2d5f7bd8ee196ac2285752f6d31d2fd8d9a222a60def",
+      "sha256": "67ac088248004f3941535302f198dc7a4c7154357bdb42e8bc06f6ae22272a51",
+      "bytes": 22124556
+    },
+    "assets/masculine-flow-pashmina-default.glb": {
+      "source": "269/assets/Masculine-Masculine-flow-pashmina261-hair-06c0b1e1.glb",
+      "source_sha256": "679ca14d18e2575d4fbb72b118cb77c7e001b06c46521804e13ebdb69d9af3cb",
+      "sha256": "a511d070ec4feebf718a4bd0aab911c26543d5e25338a142dc68ab76685266a9",
+      "bytes": 4452688
+    },
+    "assets/masculine-flow-pashmina-ombre.glb": {
+      "source": "270/generated/bef8fd48df8cbf8303ae3505-rigid.glb",
+      "source_sha256": "743c694db84ac4fd84d09ddf8512a0839f09745afe10efeeb21abb6a123589ed",
+      "sha256": "d8081520abf3b67aa6bfa4efe630c0cf0861ca7bd79e848325f2d2d5d9c23451",
+      "bytes": 5517508
+    },
+    "assets/masculine-locs-pashmina-default.glb": {
+      "source": "270/generated/78ec0efabf28e367d23115db-rigid.glb",
+      "source_sha256": "d7453b130a31baad3d0a8ee1dbabd47ad5799ba3dd4b9d3d654d057334384acb",
+      "sha256": "12a821e144819e4324273eadd92107089fb916bbb2e529a0c93a84e60d978cc0",
+      "bytes": 7349596
+    },
+    "assets/masculine-locs-pashmina-ombre.glb": {
+      "source": "270/generated/5a0c57ce3dea622c7932455a-rigid.glb",
+      "source_sha256": "4c6d4a410ec016b58e046980136f041afd4b6677542f4184d37c3a7a2105b800",
+      "sha256": "85069b8e5a693ebc7d00cc3d62297391206c25050c14375eba74fe0ddcebe2bc",
+      "bytes": 9147076
+    },
+    "assets/masculine-middle-part-pashmina-default.glb": {
+      "source": "269/assets/Masculine-Masculine-middle-part-pashmina261-hair-cacd18e8.glb",
+      "source_sha256": "c1e83986c24b5a4e4a3c61c5dbab7f985a9906154313d6060c456d267c351134",
+      "sha256": "21cc1cd0215ffe1f519ba7929ea6a0b5fa538d0a5af5dfde6859fdf8a1d6e83e",
+      "bytes": 4452704
+    },
+    "assets/masculine-middle-part-pashmina-ombre.glb": {
+      "source": "270/generated/7250032317ac8aab2e377511-rigid.glb",
+      "source_sha256": "a5cdbe6b3bf52d6d02cda589305b85726caeea2eafad25d19504a4ca4f9dc62f",
+      "sha256": "5d91d3ae2f76bb71538ea102ceaf9c73c3e9c47d9c4c9e029295cf20d1184cad",
+      "bytes": 5517528
+    },
+    "assets/masculine-sidepart-pashmina-default.glb": {
+      "source": "270/generated/019704dde8c6208cf13dcf11-rigid.glb",
+      "source_sha256": "2ee7423884db3bacef55b145dd1efb1c04c1d8410461304620e37cbcbe3bf882",
+      "sha256": "68f3738de3985d0206c6b8312f65666b914eee3aebe368b64a06cee97c6f9d2a",
+      "bytes": 11594916
+    },
+    "assets/masculine-sidepart-pashmina-ombre.glb": {
+      "source": "270/generated/04a3648fa8d9c54948483831-rigid.glb",
+      "source_sha256": "c2aa450a0bbdc539ef026c3368fa2487a4c5c069e253156e21a5d1c1aabf56bf",
+      "sha256": "830cad913040662f79856dc410f68a1cac39ca5543ce0871b24fe29c320109e3",
+      "bytes": 12435868
+    },
+    "assets/masculine-taper-pashmina-default.glb": {
+      "source": "269/assets/Masculine-Masculine-taper-pashmina259-hair-61c83994.glb",
+      "source_sha256": "4a249c65a2dd653102373957441440d55391ccd63de49a45c252be174a519818",
+      "sha256": "677ef3cc41703560dab31abde87939f37d4b6bd30dcbcad14c33770c5e49961b",
+      "bytes": 10836708
+    },
+    "assets/masculine-taper-pashmina-ombre.glb": {
+      "source": "270/generated/c801934e2beab74bb606ebf2-rigid.glb",
+      "source_sha256": "f915fae814bad52b0f0be2f88376904ff1c599f87e6dd3b05216b76927ddafe6",
+      "sha256": "30bd3ff6dc555284454b50c3b500e864a5226809202203c8eec70445620c8bfe",
+      "bytes": 11512968
+    },
+    "assets/scarf-01.glb": {
+      "source": "270/generated/9228e31188f04da4c4021edc-pashmina.glb",
+      "source_sha256": "44f9d3b6c04f18ee1070df99cfa4df611c3e61e639ac88b218f183b81a84e941",
+      "sha256": "57d36bfacf61215df2c7e6be1f20bc30ce0c108e2e03be2c41028035efe83fc2",
+      "bytes": 2703008
+    },
+    "assets/scarf-02.glb": {
+      "source": "270/generated/fdc3977a2d59a31ae60a4cc6-pashmina.glb",
+      "source_sha256": "bd12214b380b5286d39beb2f74eb40fb6c4aa2d52edd60f335246fd907ef3fe5",
+      "sha256": "104eb0626798cff39447d587584da559e3f7b6b49195352da854e577dbf0280c",
+      "bytes": 2703004
+    },
+    "assets/scarf-03.glb": {
+      "source": "270/generated/300ab4e0005f34d4c959a7c6-pashmina.glb",
+      "source_sha256": "81820d42743f045bb76b110cc1adbae49071b5eaf59f9ca366da2da64db0309a",
+      "sha256": "4cd127752ef67d2f187d3030ee5d2e1ed6a086988d21a958e0f1bc20dd528ea7",
+      "bytes": 2703008
+    },
+    "assets/scarf-04.glb": {
+      "source": "270/generated/1eacd40f984a6c1c43b2efaf-pashmina.glb",
+      "source_sha256": "06029e22b1e474f83c16f1c68922d67833bb429cfc4c37cc72af4c66785433a6",
+      "sha256": "c98e8cf45bde8547690eedc09a465f183bc75de442758ace7b21806b06f4f4f5",
+      "bytes": 2703008
+    },
+    "assets/scarf-05.glb": {
+      "source": "270/generated/fe66f9111592004be0b39596-pashmina.glb",
+      "source_sha256": "cac1565b4bd81bf2e4e907e105b5d0b9a8bfcd218d15d91a4e2b28d87566130f",
+      "sha256": "9d425db6e295be79695bd0d697274129026e854956f29067d4db787e0f34e634",
+      "bytes": 2703008
+    },
+    "assets/scarf-06.glb": {
+      "source": "270/generated/73aab3ba5ceb8c6b05013ec4-pashmina.glb",
+      "source_sha256": "9543326bb46a0008f1ed3e4e9cad956bc009a4bf87c8f4bd0ad63ce7de0934ec",
+      "sha256": "ed360732359059dbbe68f568833d699eaba943723f4b41ba530291b27140c2ab",
+      "bytes": 2703008
+    },
+    "assets/scarf-07.glb": {
+      "source": "270/generated/4dec733c240b8a081a7c7da8-pashmina.glb",
+      "source_sha256": "4726de783db26c60cf1ee7c2e6195547bad9f02324d1de6c3768864c7fee3008",
+      "sha256": "b6760f453ffefe88caca7b938bc3ae870eda455a6c93d6093ad439099e15fe45",
+      "bytes": 2703008
+    },
+    "assets/scarf-08.glb": {
+      "source": "270/generated/25123c2494fb7e57d3031a3f-pashmina.glb",
+      "source_sha256": "4122cb31a769c46b5310dd84cbd57718d25213e4f3689c8b302684f07c59596c",
+      "sha256": "d6c15098f6545fdd3fc1e79e7d733ecbf32b95f85b696bb9c72e193a4c68e36f",
+      "bytes": 2703008
+    },
+    "assets/scarf-09.glb": {
+      "source": "270/generated/0316eccb0561d2471b536958-pashmina.glb",
+      "source_sha256": "4ae8e9faec9ce0231f6e6fe885342eaa82347a82394a64aee6d85ced17a7cf67",
+      "sha256": "7d5b2d8a4b514ffd92e842e5ccdbf163d28556f8f36fb412d82aadf9091c0844",
+      "bytes": 2703016
+    },
+    "assets/scarf-10.glb": {
+      "source": "270/generated/ceac35a4a6782d9007635170-pashmina.glb",
+      "source_sha256": "4a5b8e1ec6ce48f5c74ed9f9df898674a0769ef0b5ec62e6fe93234591797c9e",
+      "sha256": "ea5012b95598214d96d08c218bfa05c3f12bb09cf9beb72fd3db65e608a76288",
+      "bytes": 2703012
+    },
+    "assets/scarf-100.glb": {
+      "source": "269/assets/Masculine-Masculine-flow-sweatshirt-pashmina250-headgear-7dc2ccd5.glb",
+      "source_sha256": "04f61ee0530ca21557c747b16599efd5e81255e9831c27a2845defa65082d6ae",
+      "sha256": "583ff037b0c69a66b5ac0d9ab09a125b0e89f7ebc790ea0e4669d247f7641668",
+      "bytes": 2701184
+    },
+    "assets/scarf-101.glb": {
+      "source": "270/generated/a9702b1947dc03c9ee118db8-pashmina.glb",
+      "source_sha256": "38aee100fa056ab59f4ea143d786824d08f0c96b4da819864ddc6e14af4b80b3",
+      "sha256": "7eba547b10e944c99ca22db2361e90b0ddf6dfd7b2e972d6931d6f7a504c9212",
+      "bytes": 2700852
+    },
+    "assets/scarf-102.glb": {
+      "source": "270/generated/a68f986588329375bf97a6d1-pashmina.glb",
+      "source_sha256": "daecda7206bf83e2ebf7ee7fe0d9510c980499d5b486b4c89fc5fae22cdacdbc",
+      "sha256": "1e9e4d1e0b402ffdb8b49c0b80819cb7b52bb197fa054e7d7cc50cf5f0a94e38",
+      "bytes": 2700852
+    },
+    "assets/scarf-103.glb": {
+      "source": "270/generated/5f57a7695c9b92df844819b1-pashmina.glb",
+      "source_sha256": "c3ce8ecc87fb6fc55fea28ab731b44099c69fe5fb34bca992308f5194c22fea7",
+      "sha256": "36813117b9f78c30d4bc7a43a2723f8a9f35e7387b7fc0094302ec49e32f5016",
+      "bytes": 2700852
+    },
+    "assets/scarf-104.glb": {
+      "source": "270/generated/fd7730b7fab33b203090dbbf-pashmina.glb",
+      "source_sha256": "124901490ccacfba2c5a37748140db1eb5fd771bdb42b46eec3f8c09484e7b2a",
+      "sha256": "a55a268a67a59a8809f3da4ec8dea61a112c16c158db4dd6365de7da3cae348c",
+      "bytes": 2700852
+    },
+    "assets/scarf-105.glb": {
+      "source": "270/generated/d281d889f78da59c9bccf90c-buttonup-drape.glb",
+      "source_sha256": "bc26d12c821e3ad4b16c7359cda7b4a0df42393de84fb05f971bfd6ab366f6ea",
+      "sha256": "24adfee80884a7a76ec4c3a931c55cf23d83049c7484347ea8d3e1daea85f0a9",
+      "bytes": 2700852
+    },
+    "assets/scarf-106.glb": {
+      "source": "270/generated/206c9b97d1c9364df4417eb1-pashmina.glb",
+      "source_sha256": "4736e1ec213e4c819d56f75fada4fd0829d7d49b65f5bd00b6ff6b213dc14144",
+      "sha256": "410d5d2d9d052a6859273d4719b0edfe808fd2211f7c39e73a7345f3ca2a66e9",
+      "bytes": 2701184
+    },
+    "assets/scarf-107.glb": {
+      "source": "270/generated/a67bdae71d6c736d9d60d033-pashmina.glb",
+      "source_sha256": "afa9db62c1aeb4f802e4c0415643c4b85f45dc46ced4dd700d204fe6d4287c1e",
+      "sha256": "0e3875ba691ee814204d18e7c0bf26403419c1699991b9410e9462f5a2f895e2",
+      "bytes": 2700852
+    },
+    "assets/scarf-108.glb": {
+      "source": "269/assets/Masculine-Masculine-middle-part-tank-pashmina250-headgear-6aa54bea.glb",
+      "source_sha256": "ebf1e91b5de6fa2522a2c93558df4e53c56e1f94aacd33bda71c11096dea6752",
+      "sha256": "b680bd0ca1cb95bd5c79fe89b53447037a3731694c5613aa57189d8d7d85ba4a",
+      "bytes": 2700852
+    },
+    "assets/scarf-109.glb": {
+      "source": "269/assets/Masculine-Masculine-middle-part-tshirt-pashmina250-headgear-f8bb9be2.glb",
+      "source_sha256": "bc3d4e67952643dc16dc225e9717790e47961eb72163bd4c9ff9eabeef14b609",
+      "sha256": "d6baf31e208cadf1decdd8e4e07e4ce087dd58f364bcc4d5c50ed7bf3a748604",
+      "bytes": 2700856
+    },
+    "assets/scarf-11.glb": {
+      "source": "270/generated/7bba6897444d22379bd7f482-pashmina.glb",
+      "source_sha256": "72e1e8b0df434b3e8101016cb7241e1b00995b1d6f25e9a72d8eb1a682e1c16b",
+      "sha256": "bb0a6b2e14723fab0f25120020365a990fdf467c21c29256b7ea67c9c81c70a3",
+      "bytes": 2703012
+    },
+    "assets/scarf-110.glb": {
+      "source": "269/assets/Masculine-Masculine-middle-part-jersey-pashmina250-headgear-80ee5d8e.glb",
+      "source_sha256": "d72cba99133150c4fc090083ab5e9f857b14a42f2b0be1f78412e6089b197709",
+      "sha256": "4ebba8293482045cc053ccd0c95cbb9c5941fc9ff8684c0553e4370592a9b57c",
+      "bytes": 2700852
+    },
+    "assets/scarf-111.glb": {
+      "source": "269/assets/Masculine-Masculine-middle-part-buttonup-pashmina250-headgear-13372ad4.glb",
+      "source_sha256": "f7fa9eef3376c0af62a22aa2e8d59298161e04f0b8bed97a056cdcc3186e9271",
+      "sha256": "68b025330c88318cfe0d4280a24d54759df49ec5f82480a17b005469e8c9fe41",
+      "bytes": 2700852
+    },
+    "assets/scarf-112.glb": {
+      "source": "269/assets/Masculine-Masculine-middle-part-sweatshirt-pashmina250-headgear-7a521b6c.glb",
+      "source_sha256": "7029dbcbf659cc12ea747976c07fc83e4da1603bb52dbdd8297441382cb2dbf5",
+      "sha256": "bc8fe83f00e017c789ffb160d2fb084f6b61c43c3cb406fcd22c8894c3ac1174",
+      "bytes": 2701184
+    },
+    "assets/scarf-12.glb": {
+      "source": "269/assets/Feminine-Feminine-ponytail-tshirt-pashmina251-headgear-bd01fb6c.glb",
+      "source_sha256": "2dbc7c004910508649bed4846a4b2814f18e506b824dbdaf1422fabd8a497f6d",
+      "sha256": "ad410389769559ceae85d2bc1cf325f85d98f1b423035743f4efa18f211155a3",
+      "bytes": 2703012
+    },
+    "assets/scarf-13.glb": {
+      "source": "269/assets/Feminine-Feminine-ponytail-jersey-pashmina251-headgear-41885bef.glb",
+      "source_sha256": "555b628affe978999f381a1e93a511d098f78a0a791a04d7fc3ee31fc2fdc1dd",
+      "sha256": "52be3c99673febfefd6b5b44190004fad133a34a22a3f259a0a4a964afa65d05",
+      "bytes": 2703016
+    },
+    "assets/scarf-14.glb": {
+      "source": "269/assets/Feminine-Feminine-ponytail-open-pashmina251-headgear-45db9f31.glb",
+      "source_sha256": "621522409191caf48103f6870cf81a67f8045cc4923fcdd00c6dd17734ef9198",
+      "sha256": "05ede9258005ba60e5fdabfdf85aa77d2f3c7cc594d46ff54cd4c2c383dc8228",
+      "bytes": 2703012
+    },
+    "assets/scarf-15.glb": {
+      "source": "269/assets/Feminine-Feminine-ponytail-tank-pashmina251-headgear-71c2f22c.glb",
+      "source_sha256": "f2242806aff54a8fe5fea35a45976431d67b1b428d01b87eb54e2af8cfc12267",
+      "sha256": "9ca54b8c77dce2d3aad3b9252cdce5fd8014ac663fef33cca75c678fbf0495bc",
+      "bytes": 2703012
+    },
+    "assets/scarf-16.glb": {
+      "source": "269/assets/Feminine-Feminine-ponytail-sweatshirt-pashmina251-headgear-10ab83d2.glb",
+      "source_sha256": "19a172ebb1526bdb57aea8bfcf28ed71f74595c818a36808dcf7d5fc59177103",
+      "sha256": "a7de678a9615622ae60259e7915322ffa1cb97999c106d2a97e512c47163c833",
+      "bytes": 2703012
+    },
+    "assets/scarf-17.glb": {
+      "source": "270/generated/dad78b684c9c630f113b4f16-pashmina.glb",
+      "source_sha256": "f1f4c23f7ddb0a82d41c980aad312e1afc994eaebd626ab81439a9ef93a79e3b",
+      "sha256": "56d893b13b1a4d725d240028a16eec8607d5aeaaba4a8caf00c07e2eab517044",
+      "bytes": 2703012
+    },
+    "assets/scarf-18.glb": {
+      "source": "270/generated/3e79340796e2599aa903eeb6-pashmina.glb",
+      "source_sha256": "f34011722792809af0e70cdccaff9cef35d819dd5beff642ffb034c520edcb53",
+      "sha256": "5a2989ec60494fd4393d6ba69ad52c17313a7fa6dca0eb221381502730c99a59",
+      "bytes": 2703012
+    },
+    "assets/scarf-19.glb": {
+      "source": "270/generated/82715bf093c06577a129c292-pashmina.glb",
+      "source_sha256": "e05cc90e6f9e5b8e80b705ef2dabc44bcdf64ac3bd781036e280336f482ef6b2",
+      "sha256": "7c85154d85eb96424f2827ca6c8e1cacc255bacb61d73c7c33c03f50b76a10b8",
+      "bytes": 2703008
+    },
+    "assets/scarf-20.glb": {
+      "source": "269/assets/Feminine-Feminine-straight-tshirt-pashmina250-headgear-b949cf31.glb",
+      "source_sha256": "94e32504746b27a1ee91c8d2c0fecf1e215153b1b7e260b8063db78580ce58c7",
+      "sha256": "c2b152430c726674d8b95598f6a5ddeb7c0d2aa54f6893ce5fe3ad77d8377127",
+      "bytes": 2703012
+    },
+    "assets/scarf-21.glb": {
+      "source": "269/assets/Feminine-Feminine-straight-jersey-pashmina250-headgear-78373d4b.glb",
+      "source_sha256": "d4cf88699986bc207aa8c4edf22f36f9554d46b819f797120d65ba7935f75f5f",
+      "sha256": "02a5590f50bf55a92745e386bdeeb5cabebb60996bbf1fc7fe3f325a66c6001c",
+      "bytes": 2703012
+    },
+    "assets/scarf-22.glb": {
+      "source": "269/assets/Feminine-Feminine-straight-open-pashmina250-headgear-0f399e15.glb",
+      "source_sha256": "7a63c6a1f629797107b2f06a722dbd801e5aead531bb4c6209f8b45f747f43ab",
+      "sha256": "d0bee6f95780dfef9bc39637655cc4feb2608ef25775621d72bee063265cb340",
+      "bytes": 2703012
+    },
+    "assets/scarf-23.glb": {
+      "source": "269/assets/Feminine-Feminine-straight-tank-pashmina250-headgear-648ef9c3.glb",
+      "source_sha256": "d9967071e19f93b18d23ef11e6672a71464709f613359f28bee022744c872a64",
+      "sha256": "5df9d3c76894c62e5521e9908a44a83ec9baf459769d17c465640cea93385127",
+      "bytes": 2703008
+    },
+    "assets/scarf-24.glb": {
+      "source": "269/assets/Feminine-Feminine-straight-sweatshirt-pashmina250-headgear-b7ba2e8c.glb",
+      "source_sha256": "67465dd300ca63cb90ef51be6fdd155ccf69691d4117ad5b40e20dbedeb4a562",
+      "sha256": "36e2c387cde8028950c3f9d5c17ec299e0f5543b6cccedd99efcba9587dfc6bc",
+      "bytes": 2703008
+    },
+    "assets/scarf-25.glb": {
+      "source": "270/generated/8073623e1bc463087a818ffe-pashmina.glb",
+      "source_sha256": "e08bd8651be1dd4fa8f07da3b13ef4c7dfe553cad5098e0fefb2a8e83fc7d4f9",
+      "sha256": "fd6be6b5649da8564d3cb2c14e22102e92c948dcef2a5083a4eccf298970b771",
+      "bytes": 2703012
+    },
+    "assets/scarf-26.glb": {
+      "source": "270/generated/1fbba107cfe659eb2bcc2686-pashmina.glb",
+      "source_sha256": "b7a9e18612eaf73e6979e1345d03e4986b31581ba1a8e194392a4f91582cdb18",
+      "sha256": "070c7346360e09215e2a57c0df41207a3365aef91b482049ddd2193a6121073c",
+      "bytes": 2703008
+    },
+    "assets/scarf-27.glb": {
+      "source": "270/generated/5614bb62a6a9af2a8f757207-pashmina.glb",
+      "source_sha256": "69dc047e3b6df22fc4ae739650ff9820e33e522af3ac9cfcd94f7b7402e29504",
+      "sha256": "92d9eaab0b8954ccc1c7c3caec102657906a979e365834c41042f9f4c84e00ed",
+      "bytes": 2703008
+    },
+    "assets/scarf-28.glb": {
+      "source": "269/assets/Feminine-Feminine-curls-tshirt-pashmina250-headgear-f651840d.glb",
+      "source_sha256": "002eb9e48b46554bdb3b8a12905793923e7990710915fcd86f83bd985fc26dc0",
+      "sha256": "31f4bb3789d3eb99a37eafd2ff03719fe2fea82e810b738ae874697a735f9ad9",
+      "bytes": 2703008
+    },
+    "assets/scarf-29.glb": {
+      "source": "269/assets/Feminine-Feminine-curls-jersey-pashmina250-headgear-52d0b367.glb",
+      "source_sha256": "8eb949d87b6ad46c3b0ec3a387b53fb42a7e4a70024fbede93ecd48834fb07fb",
+      "sha256": "593b38acb9a6bd3210e7f8ef592e09a404074345f2a9141157aab72373ddd102",
+      "bytes": 2703008
+    },
+    "assets/scarf-30.glb": {
+      "source": "269/assets/Feminine-Feminine-curls-open-pashmina250-headgear-061ff4b7.glb",
+      "source_sha256": "7529995d3af340b5e056cfef7a19daa0ebfdc29d247b3c127759ec9aee76000d",
+      "sha256": "1bc6030c0ffcfbecce3a75fbd8fce95d4e560162b75d3a8e2264eebb86e9acbb",
+      "bytes": 2703012
+    },
+    "assets/scarf-31.glb": {
+      "source": "269/assets/Feminine-Feminine-curls-tank-pashmina250-headgear-7583be13.glb",
+      "source_sha256": "d38497720dfa50d1347e9624f099f0103df8542ce3882d88c99770c1071e2b40",
+      "sha256": "f8fc9889ff678af2fed5a8ee6fea4cca6286b647c8d622e2680db074c5de1fc3",
+      "bytes": 2703008
+    },
+    "assets/scarf-32.glb": {
+      "source": "269/assets/Feminine-Feminine-curls-sweatshirt-pashmina250-headgear-5b869d53.glb",
+      "source_sha256": "0048461047b4132c78bbbdbbfef9ca81be59a270a06665006b5cb4e4d7686aa9",
+      "sha256": "fef6b7857135833d0e8d8b6632b2c5fd476ba68ebe83f1f323977929b096f524",
+      "bytes": 2703008
+    },
+    "assets/scarf-33.glb": {
+      "source": "270/generated/d6e38eb595963162fe5fdfcc-pashmina.glb",
+      "source_sha256": "bcb2085bafaf63ecb8f8327087f30d263a62be97ee52e1c72eea9f84685a9b39",
+      "sha256": "5f13b85368f6386a3b3264281110f0a7b9020c936bdf24f100d893cbd89e370e",
+      "bytes": 2703012
+    },
+    "assets/scarf-34.glb": {
+      "source": "270/generated/c47c0a557c1772378ea3f5e9-pashmina.glb",
+      "source_sha256": "a61ac7b5ec872d2080647bf00a34c5254ae08386e078646f3af0ba8b298901c2",
+      "sha256": "2ccbc341c755e8f496e21f2048a49b49113fbcd1d8c29391a5b783beac031b34",
+      "bytes": 2703008
+    },
+    "assets/scarf-35.glb": {
+      "source": "270/generated/7198aa6db1d6aca091cd3112-pashmina.glb",
+      "source_sha256": "cdc3351112333a2b07be017cfeeab51e4c85690de8718de3edf5e85a29bcb323",
+      "sha256": "99d266bd2428ca57b1db25425779fb54e7e5597a0d2541afcb2412af667318b2",
+      "bytes": 2703012
+    },
+    "assets/scarf-36.glb": {
+      "source": "270/generated/d3fef77057345f06a53a10af-pashmina.glb",
+      "source_sha256": "4b673f58f24b5ecac66783acdf8c96daa50422496f7b6c98530954403d2ec467",
+      "sha256": "3ad8a622dce56746817fe7567daf7fa57aaa470ea7a5127ac4488d4a8ad0e472",
+      "bytes": 2703012
+    },
+    "assets/scarf-37.glb": {
+      "source": "270/generated/7270171183af103fc045a386-pashmina.glb",
+      "source_sha256": "4481af9f0a6c9784511878bedc02653338ad62a6f6214ace6731be58f776338f",
+      "sha256": "d84db6719867abef1ce457fc13551f6427cf8f30cdcf015969e912d0fbddc03d",
+      "bytes": 2703012
+    },
+    "assets/scarf-38.glb": {
+      "source": "270/generated/458351eb0348f6be0492028b-pashmina.glb",
+      "source_sha256": "9b64e45535884b0b24c4b08e6509a5713053b08bb6ef59a460c56f4d05a65436",
+      "sha256": "521ef065ff2a3554584a5beda64e3163e3e5df25fbb9f850f1e84b784556e48f",
+      "bytes": 2703012
+    },
+    "assets/scarf-39.glb": {
+      "source": "270/generated/8e569b96143f1b290f810bc1-pashmina.glb",
+      "source_sha256": "91ad89bb8c37597e032a4e9da9c3c19292e624102203a816f550cb388a779717",
+      "sha256": "0ed19e62d02268fb90afeabb1bd180f9e74aacb35c2f0348e10453987b470cb0",
+      "bytes": 2703008
+    },
+    "assets/scarf-40.glb": {
+      "source": "270/generated/f4e54d7b9630af021b9e4ab7-pashmina.glb",
+      "source_sha256": "946d6536ce60985d4bd4eb9c181d0489c50f9e7e0ec44628e7fad2befbfd6dd1",
+      "sha256": "9d06f37a0cedd0ce7f9c6c6b0281a69cae07d0978598237ef6d2c5d9386ede07",
+      "bytes": 2703012
+    },
+    "assets/scarf-41.glb": {
+      "source": "270/generated/dab7d0f642fe4570ac2b7cf9-pashmina.glb",
+      "source_sha256": "4791c6809b6998f153d792cecf7c53eb54410ab824b49ebf04f4b93b5ebf3de1",
+      "sha256": "b7fbc8ef2ce53d390ffa30121221835b72b078ec4e04c602f373310b6335ef10",
+      "bytes": 2703016
+    },
+    "assets/scarf-42.glb": {
+      "source": "270/generated/ae4acc6dde14b9d27fd1b354-pashmina.glb",
+      "source_sha256": "cfe830de06e69eb6810c01f2d13fe19f462edd866da9407b02b3febd0cf40fa3",
+      "sha256": "d0b76f32fff9265e3c6e771a1dbd28216395839cc5a23b9fa6ac40ec26e7b8f8",
+      "bytes": 2703012
+    },
+    "assets/scarf-43.glb": {
+      "source": "270/generated/c62243f0d58ea70df8cb85f5-pashmina.glb",
+      "source_sha256": "f63c511713c57302aac2d5c7232b98120ea7a99879a4e7ea5e0997c6c1e4c7ae",
+      "sha256": "97f0f06c47611ccf1d44b21014daec7f9965edb84ebfabf0ae41262432e8accc",
+      "bytes": 2703016
+    },
+    "assets/scarf-44.glb": {
+      "source": "270/generated/f3975a5fad3faee764153be5-pashmina.glb",
+      "source_sha256": "a1e6b1cdea3e97ab00ee3f82f9ce0005fd2bbb86d60cc797b2e93b2816e9bb3d",
+      "sha256": "a2ff7abfa440b479a26097b7cef4f4ac99c2a67f7aadcd4822decc99b1906cf8",
+      "bytes": 2703012
+    },
+    "assets/scarf-45.glb": {
+      "source": "270/generated/01063ba749fb86acee4595f9-pashmina.glb",
+      "source_sha256": "eb657e20c8ba0cbde527aae36027a5c2be30635cc6c50708b1a5884e2892373d",
+      "sha256": "3dd820e2ad28389ca875591202563b2d10d4fb3d0d7b598b895582dd409dd28f",
+      "bytes": 2703012
+    },
+    "assets/scarf-46.glb": {
+      "source": "270/generated/2fe10249b8596b75c6c047a9-pashmina.glb",
+      "source_sha256": "9334a46581f3c5dba180d0bc21339e7846a20941d9a194888872d860ce15052f",
+      "sha256": "4dcde910de9cbaf589c7cc00184689a5a379a15ad2c6c812ff9fbda7c14c70ad",
+      "bytes": 2703016
+    },
+    "assets/scarf-47.glb": {
+      "source": "270/generated/018fcfccca15d69043816b6a-pashmina.glb",
+      "source_sha256": "1f1c63d064584bb7aa9df804425fc376346b225c55f74889e36cc16144a93ff6",
+      "sha256": "605ce34122d27618e2359e9bb8ce875f19077faa59443c9493ebb5ab3343e95d",
+      "bytes": 2703012
+    },
+    "assets/scarf-48.glb": {
+      "source": "270/generated/75da539bcc5c1e1858b4a274-pashmina.glb",
+      "source_sha256": "ead4dec43cc2e2d0aa15c972510b2cee4657255e93e3a4873df5883db4274b6e",
+      "sha256": "429706da30e4ee470bd9a2f715808a9ff7fb0556560a4cc268a97184a38629c5",
+      "bytes": 2703012
+    },
+    "assets/scarf-49.glb": {
+      "source": "270/generated/a50691642d8e338184958248-pashmina.glb",
+      "source_sha256": "c5a0c3c7e25e570754ea01659bb094bda0179ee3a6cb7bc53de9e5cdd3b80ac8",
+      "sha256": "1e9355d34c7c3d14c007cf13b3a08445e3749cd46cb7447ca8cba3f829cdc9df",
+      "bytes": 2703012
+    },
+    "assets/scarf-50.glb": {
+      "source": "270/generated/bfd63deb78e65c4d5e701d36-pashmina.glb",
+      "source_sha256": "23b72f2bc34e358e0fddcb839a26728ca1deda8e51506b1b07ede9f736964f84",
+      "sha256": "ea06805594aa608a191af95226ad3a7b012a20b4b1a6a6ca6e3065c16917ecbe",
+      "bytes": 2703004
+    },
+    "assets/scarf-51.glb": {
+      "source": "270/generated/f970770a6860f6e61d72d469-pashmina.glb",
+      "source_sha256": "d9ce1dd9d1fab85eaad0db232d96bc30ff7635c20feedd04357e5170beeb0d58",
+      "sha256": "874dbb1e6564e1570d65dc28078a542cef1e236446a7f8adf41de89e69a58098",
+      "bytes": 2703012
+    },
+    "assets/scarf-52.glb": {
+      "source": "270/generated/72b08b4b52a4e497a1bb358a-pashmina.glb",
+      "source_sha256": "4b1754937bf1c0337b965c5d76402b4eaa979f36987d0c3d1beed08bd0036a1d",
+      "sha256": "28cc56e969fc67bc842b39f2c1ff7fc980f3d5077289abb763fe8de1bbd90d52",
+      "bytes": 2703012
+    },
+    "assets/scarf-53.glb": {
+      "source": "270/generated/b03b2f52a4524a72c1c62914-pashmina.glb",
+      "source_sha256": "255f67d695c2856690806b2e7ee38742339ec99fe7eeae29c2beba42d129ab2e",
+      "sha256": "26a12a21f06423222c1af63da35c5f26b106b12ea1ead1124c36322dfe7c0380",
+      "bytes": 2703012
+    },
+    "assets/scarf-54.glb": {
+      "source": "270/generated/2b70b62458ebea53417430e6-pashmina.glb",
+      "source_sha256": "a8f7ad33de181ee272a52beec36968791da307ceec3fba51f9c2f647150bfbb3",
+      "sha256": "f80250b748684c37b5a8806470ba7c7251f4ea1b68df42e7f003da5d024baddb",
+      "bytes": 2703012
+    },
+    "assets/scarf-55.glb": {
+      "source": "270/generated/9a65038f9d18cdf58fe98396-pashmina.glb",
+      "source_sha256": "dc005428c8353281e02aa1d9f3e57231aa17d02392a62e5ffcf5fb6995388390",
+      "sha256": "be12e658780a236af27d8cf4cfecfe3d9d4fce76fc9045611a42b166af7b2429",
+      "bytes": 2703012
+    },
+    "assets/scarf-56.glb": {
+      "source": "270/generated/c8aae639d3daad789d86d218-pashmina.glb",
+      "source_sha256": "0a9f801d2149cc0250802d5a097afc2f23cf090213f1e485085782d810b924ab",
+      "sha256": "57dd7806d6d44b33a8d37e3a403d3077a5ce3e13ad46a9e83c7a2452462977bc",
+      "bytes": 2703008
+    },
+    "assets/scarf-57.glb": {
+      "source": "270/generated/85226f32843af80936e42bf9-pashmina.glb",
+      "source_sha256": "5f89847d2dea077559a2b718374e23308bac4f414052393a948857d84967ed0e",
+      "sha256": "9e24e688e969f3dfb01e59dd83ba7a0bdc427fb1e4abe47d2636307e7409bb85",
+      "bytes": 2703008
+    },
+    "assets/scarf-58.glb": {
+      "source": "270/generated/adc3eab0f11a3d3185d57e78-pashmina.glb",
+      "source_sha256": "f47a6e762b3bced5d231d1323827b3b20bac859162f3178d0e04934d080e927a",
+      "sha256": "1d500805d85face340700f0813635f2cf67b150bcb3bc0821a07d3a7b454f588",
+      "bytes": 2703008
+    },
+    "assets/scarf-59.glb": {
+      "source": "270/generated/b7b4a805a60de3a1004d9294-pashmina.glb",
+      "source_sha256": "a87ed8a34c46850d9c613bcadfe0d8969f720f8d7332891571a1fc090865234a",
+      "sha256": "cff5d951d875b728a98b1cd41b285169015da824ff2042296fd3a5c3d8d82894",
+      "bytes": 2703008
+    },
+    "assets/scarf-60.glb": {
+      "source": "270/generated/82f9f620955abe59bec40c38-pashmina.glb",
+      "source_sha256": "70ea8b3191fadcb6e9eb3780662e22f115beb0b1430940ad4c97a03c02979343",
+      "sha256": "e1c334eafc8d3e7de6df36dbec9f2dd491f332a0015bf9d38778706d47de2e09",
+      "bytes": 2703008
+    },
+    "assets/scarf-61.glb": {
+      "source": "270/generated/c1215b448137943a94b70131-pashmina.glb",
+      "source_sha256": "d1287adece3ab5f8a53a7e07b868e17b7d9d088def684c48782f8cad4b885ad5",
+      "sha256": "6b0fca3811f19904375586495d57a29ceba7279624aab42292c5083a844ff603",
+      "bytes": 2703012
+    },
+    "assets/scarf-62.glb": {
+      "source": "270/generated/d2bc3b83453a7441761597e1-pashmina.glb",
+      "source_sha256": "f6158b9561010f75fc1f1ef27771d02f88adcfac9fef659c6ca36ad94811feec",
+      "sha256": "975753a6ed6b2bf342f510c23d8195e683ad9dada784f68a214114ffd7b4ba1b",
+      "bytes": 2703004
+    },
+    "assets/scarf-63.glb": {
+      "source": "270/generated/c0119f80d463cdcaa9b1bb06-pashmina.glb",
+      "source_sha256": "1d75d9432a0f24facb5b9de8fa690e0f696f8dd87f7eeadbf937514a65c5494e",
+      "sha256": "5defd1f858f487363d461902d7910d39a403f7ba2c209124d86adb8f2bcaebc8",
+      "bytes": 2703008
+    },
+    "assets/scarf-64.glb": {
+      "source": "270/generated/b8538d57ace32c25910b06df-pashmina.glb",
+      "source_sha256": "72d4d09f0ba40445613b56d610f4a5d9340475ef1607c9c27a929b86153f5df9",
+      "sha256": "a6e92f622ac97159fbe8c873c58cb74ef77f83fbbb2d4f121bec22debf8ec1e3",
+      "bytes": 2703008
+    },
+    "assets/scarf-65.glb": {
+      "source": "270/generated/75d2de50358f8a7ba886e281-pashmina.glb",
+      "source_sha256": "664ae4b7c31a4fa7611bee49606f2dcc9c1d370c0a2a147383375911ad7d3b27",
+      "sha256": "1017bc7f4e0de67ffc77580bce7532ed5978d41f74abc0f9133a5aa9473fe3ba",
+      "bytes": 2700852
+    },
+    "assets/scarf-66.glb": {
+      "source": "270/generated/28e6b2695bf4e63d10000809-pashmina.glb",
+      "source_sha256": "f1bcbe1bab48fbbf543c8bc9294ffd08502be5f7aedbb0f8e093cd1375930399",
+      "sha256": "18d566358cf80ccb550c8c3e7a4c9fef3e7bb08917fc11166b6b83296320acdf",
+      "bytes": 2700852
+    },
+    "assets/scarf-67.glb": {
+      "source": "270/generated/ba8438f8c2fb521872b909c6-pashmina.glb",
+      "source_sha256": "35ea82850024e08e08ab9d15bf809126d887b9ff4d85c5021d7a1a552376bcc2",
+      "sha256": "48deb9071583435bfac2d0cbfd8dbc155d2aef4b70f1d17218cb683d7e99aa5f",
+      "bytes": 2700852
+    },
+    "assets/scarf-68.glb": {
+      "source": "270/generated/34d964d37cb9917e93c1747d-pashmina.glb",
+      "source_sha256": "c2c7ccd2c15833afcfe168e46e65a52cd1570da3b45d8e285ffc9b081d6f5726",
+      "sha256": "6d3d43cea053409a9923773c362d5d2282f1bb7f00ee5bca7f3c8f5edf1d5d47",
+      "bytes": 2700852
+    },
+    "assets/scarf-69.glb": {
+      "source": "270/generated/a3faca7f78580a2756bc05f6-buttonup-drape.glb",
+      "source_sha256": "e88cd2d33b3ef2a15c8b7aa754cfd3da7c3ee18ba8b3cb15a12d1fab59134d70",
+      "sha256": "a7172184c3999ab0c41fafd1c47eb7d4341e34996e953d2c0c6750d9b0822db7",
+      "bytes": 2700848
+    },
+    "assets/scarf-70.glb": {
+      "source": "270/generated/ce4cfcfda74e9bbba8af29be-pashmina.glb",
+      "source_sha256": "849bb401692e7c5abbc79a30b5c25d82c6f5ad3e3fbf364cebcdfe8199616a74",
+      "sha256": "c078b4c6b357b2fb742f739e9d07dd8d58125398f4fea4de019cae324666285a",
+      "bytes": 2701180
+    },
+    "assets/scarf-71.glb": {
+      "source": "270/generated/068cf4e2367c745033352322-pashmina.glb",
+      "source_sha256": "cfa0c7ed6748190070511ecb7f1a0af0e0b787952de6a69bd011cb26cb0c716f",
+      "sha256": "c4ab0fe5b6100bf2d251818caf810cd00357de8ceebeec5527317fae79408779",
+      "bytes": 2700852
+    },
+    "assets/scarf-72.glb": {
+      "source": "269/assets/Masculine-Masculine-taper-tank-pashmina250-headgear-577bc44d.glb",
+      "source_sha256": "b18b8ea3fd4676b55df59938a9f4f6643d72bf6f17ea2cf499d4bc5773588ce1",
+      "sha256": "85d801b2949801614492f6e589930c249f92d45288b1651e9d3f67ab9c5ce6c8",
+      "bytes": 2700852
+    },
+    "assets/scarf-73.glb": {
+      "source": "269/assets/Masculine-Masculine-taper-tshirt-pashmina250-headgear-a583abdd.glb",
+      "source_sha256": "b665f489e87dc2ba202ad79eb03122f8aae3201700282817394b254eea30e38e",
+      "sha256": "a05f6266c2f2cb6a464a4adb06397621b4f7382d6c9150875e00707e37af8cc3",
+      "bytes": 2700852
+    },
+    "assets/scarf-74.glb": {
+      "source": "269/assets/Masculine-Masculine-taper-jersey-pashmina250-headgear-1f84a86f.glb",
+      "source_sha256": "3d2665d4fb4238bd174d06e468a58c12794834f6f2b5d2538cc84ed139b25d0c",
+      "sha256": "1d5392f92465ae517c8b40fe219f1fa643d5a615c6194247061b8a4f8025d70c",
+      "bytes": 2700852
+    },
+    "assets/scarf-75.glb": {
+      "source": "269/assets/Masculine-Masculine-taper-buttonup-pashmina250-headgear-3f073d6d.glb",
+      "source_sha256": "f9d917b1855d547f633e974f62cc0e8a8444825f6f83af1b74fed49694dcc677",
+      "sha256": "f188d8a6cae3e293b0c5f82c9f94aa21ef54c711db207046e4065a5f1b03cd8e",
+      "bytes": 2700852
+    },
+    "assets/scarf-76.glb": {
+      "source": "269/assets/Masculine-Masculine-taper-sweatshirt-pashmina250-headgear-9de84c16.glb",
+      "source_sha256": "c926700682eea0874b954c116b6d01e63876997032f73faa7bc492cf7a13e775",
+      "sha256": "5291616de8601bab9c638e0b8d15a82d2bedff1bba4b549131af2cccdcd1e7b3",
+      "bytes": 2701184
+    },
+    "assets/scarf-77.glb": {
+      "source": "270/generated/b6186e6d8c3610249538a527-pashmina.glb",
+      "source_sha256": "6ac48df914e87b48178d5309303ce051957dbfd42c0b78e1e795a907045e7210",
+      "sha256": "388a0212cb4801db692fa69f05e6074e9768fdb0e01b2f1642b57d98ef22e734",
+      "bytes": 2700848
+    },
+    "assets/scarf-78.glb": {
+      "source": "270/generated/274aec307fbc23eda5cf4891-pashmina.glb",
+      "source_sha256": "25f8c23ebb74d9e0ad0e94874bdecfe0758426d7e3c174f22d350c2215fd3fbe",
+      "sha256": "dd2ec4a0ab4ec9de9542c77893b8eb0034553f2a72afb7d794f3b4378698f349",
+      "bytes": 2700848
+    },
+    "assets/scarf-79.glb": {
+      "source": "270/generated/d5c0ccd1d0e90814dfe37565-pashmina.glb",
+      "source_sha256": "ab07335f36fd1ffed0facc35035808c9ebbafd1955f178ed5b8cb509cd50f394",
+      "sha256": "0a5a3d9130cceea95d61c653460790ff85c82a4ee29ea68ee259b79ed00f75a4",
+      "bytes": 2700848
+    },
+    "assets/scarf-80.glb": {
+      "source": "270/generated/718793519c97c78e3404d5c0-pashmina.glb",
+      "source_sha256": "bd7223e7bacb33c2033c4290532f09d3418a58eca772ae885b62e86367fa0c89",
+      "sha256": "333a7914621500a961e4f61895ed2313f673483f5afe7a434396719d3fd19a6a",
+      "bytes": 2700848
+    },
+    "assets/scarf-81.glb": {
+      "source": "270/generated/786a4b352a4f71bf3d8e1a07-buttonup-drape.glb",
+      "source_sha256": "2986a6b722fb748ceb869baae8bf37b8065054ced51cecd070f1c76472309d7f",
+      "sha256": "711621df45cfc7937b1f932960df3f275886370d1511050083374178617829db",
+      "bytes": 2700848
+    },
+    "assets/scarf-82.glb": {
+      "source": "270/generated/d2f593334b0baaa092699d43-pashmina.glb",
+      "source_sha256": "b787154b45e1124d807fc4b7624331e5d19469432bdb15ab40ce222394f85cf9",
+      "sha256": "6f13e7731d6b386f9beb90e58f4cc6a6d6898b7c5f890bcb84e3f7794008cc84",
+      "bytes": 2701180
+    },
+    "assets/scarf-83.glb": {
+      "source": "270/generated/8b65f047bb2f142cb7b9bb9d-pashmina.glb",
+      "source_sha256": "cc55d8315c8da1b902c827b273e8272a0d63a608b2d270d25ad492ba1a46280e",
+      "sha256": "c5af0fd6967ba3915c1dde65555aecaab48f935d25081042ea61d1b697131d2e",
+      "bytes": 2700852
+    },
+    "assets/scarf-84.glb": {
+      "source": "270/generated/3302b542138db0b41f56be00-pashmina.glb",
+      "source_sha256": "cc73b1212bef8b23a3fb9d1dadca2ced2644b727077722ca7ebfccf409c53d3b",
+      "sha256": "5510dc04c6e3040d1276d9d0c49a79671407c884454592dc4f0474f608f7b015",
+      "bytes": 2700852
+    },
+    "assets/scarf-85.glb": {
+      "source": "270/generated/7e47d5181e942fffe64c7646-pashmina.glb",
+      "source_sha256": "ad1fc0acf5b93fddc24b2fb6eead288335956e39e0c73727263948b4f4ae5d24",
+      "sha256": "35b98515a16eee9ed6c2c27e3e7f3d7f832873e7b8d695ffdb8a3f2b6db5ba9d",
+      "bytes": 2700852
+    },
+    "assets/scarf-86.glb": {
+      "source": "270/generated/1f86a18549cf5abac8130482-pashmina.glb",
+      "source_sha256": "63298e6a03fc48de64838a5e7ff68be87dbe0f6a26d6697ac6237b8769358689",
+      "sha256": "43a006d179da25ff5b4e87ff56aac60a1fad638f20ba3b712708a359d1b16aee",
+      "bytes": 2700852
+    },
+    "assets/scarf-87.glb": {
+      "source": "270/generated/b86e654f0d560798f033b6d8-buttonup-drape.glb",
+      "source_sha256": "9d24689765929a270cf28219bdeb2f48161ff098a35f44a6c05dae2b0d141af8",
+      "sha256": "2cc74bcc8b96822d8382d4d8762523c7bba238cc73dfdac0e5d3efeae77c3d52",
+      "bytes": 2700852
+    },
+    "assets/scarf-88.glb": {
+      "source": "270/generated/9f1947eba56bddbad97ed192-pashmina.glb",
+      "source_sha256": "58517f2b8cef7a51d8fb8cf109df040a551af235769310c9ff8d34bb2cd986f5",
+      "sha256": "cd5042a81f5094b879319a13c9f7e48e3d0e42c9fad1c77ac1f903bbc6ac5868",
+      "bytes": 2701184
+    },
+    "assets/scarf-89.glb": {
+      "source": "270/generated/29de41c45b449c121c1d5e41-pashmina.glb",
+      "source_sha256": "af3b4bda7941b435778e94913db01787d5c31e37f19baea194ad3da1ad352616",
+      "sha256": "c8d22ce9f0e721f6d334b704aa65a90997f59e16376af6b819e11aa2fda770f4",
+      "bytes": 2700852
+    },
+    "assets/scarf-90.glb": {
+      "source": "270/generated/bc11c4257e9cbaa985cea809-pashmina.glb",
+      "source_sha256": "fc8c2fe488858ec5ef4e9ce030a8565dc3e4a1798f95b13755eba44a800c99cb",
+      "sha256": "25f2857110360ca5bc27dd64f46cae0703a6b7d7be6337fea798121517992208",
+      "bytes": 2700852
+    },
+    "assets/scarf-91.glb": {
+      "source": "270/generated/9a1a97bbfebbaa5239e394b1-pashmina.glb",
+      "source_sha256": "ea5561f75351106e52c0106b3e7bfbc3d89287d988b6af7449e91b311eed812d",
+      "sha256": "06ae8094436ec7a953851bf40e7675641e2962bfa3b969080ee5befaf33463dd",
+      "bytes": 2700852
+    },
+    "assets/scarf-92.glb": {
+      "source": "270/generated/7bd35f13c9be46bf2d810688-pashmina.glb",
+      "source_sha256": "c98b758a1d59e7164c0c483332eb5205d7bc8ccc999d0b51528696a4475c447e",
+      "sha256": "eb3866fe656c449bbe785c76cde2eca4ea19966e1c1dde25fddae3cb02abece3",
+      "bytes": 2700852
+    },
+    "assets/scarf-93.glb": {
+      "source": "270/generated/390d49e70552e01b61dc168c-buttonup-drape.glb",
+      "source_sha256": "0b9d9fd0024c6af6b8438ed9a32a318bc7a0f9ecf80411a5206b60ff90fcc99d",
+      "sha256": "d9b37d572ebf79b7c6ff597700f8eb2aad9f912d16ebdda7d7a0eb7704a0fde7",
+      "bytes": 2700852
+    },
+    "assets/scarf-94.glb": {
+      "source": "270/generated/205c72234752cf24658b9a7e-pashmina.glb",
+      "source_sha256": "590581502d27ebdfbf1d438b33b7cc8f9c98d92f9ba10e26bfb837ae1132d00f",
+      "sha256": "693d50760fe17e6ea2fae7c840735914acc7c89bcdff941598c2f51509b9aaa2",
+      "bytes": 2701184
+    },
+    "assets/scarf-95.glb": {
+      "source": "270/generated/bed7dc2c050b17d7c7a088e4-pashmina.glb",
+      "source_sha256": "f8994d1f72865069c9674c8732e393e78e01a1497b94c8d041eb99f228d0ff6e",
+      "sha256": "614665ce9bcee77402f673220a8794d123c7950b9898a1d0c13f69b3ecb1b613",
+      "bytes": 2700852
+    },
+    "assets/scarf-96.glb": {
+      "source": "269/assets/Masculine-Masculine-flow-tank-pashmina250-headgear-7d17809e.glb",
+      "source_sha256": "ba4c7daf0815ce3ea6215ab87cd4b2e70155a5e693a14998ac8a48280852d8f8",
+      "sha256": "8c1465423dbb9449e3f4462dd9abfcb961cb5577f35608089d507865f9391b90",
+      "bytes": 2700852
+    },
+    "assets/scarf-97.glb": {
+      "source": "269/assets/Masculine-Masculine-flow-tshirt-pashmina250-headgear-f4e31eff.glb",
+      "source_sha256": "9fc29cf26c33bb863a807176d254a11cfc31f85771118e71685f0e67d743f1b2",
+      "sha256": "4a78d9c9bdbb62779f01d4129925c111a2f01bb733895ec93161af00e1b7151b",
+      "bytes": 2700852
+    },
+    "assets/scarf-98.glb": {
+      "source": "269/assets/Masculine-Masculine-flow-jersey-pashmina250-headgear-2b596f3f.glb",
+      "source_sha256": "d8de5d027d6a585390aae03ccd2eda271c57b2c56730846feca03f0ed90f017d",
+      "sha256": "49398cc6c3922f5acf2f47cc9f988569a67e5482f71ee3f1e9dfb1239214f413",
+      "bytes": 2700852
+    },
+    "assets/scarf-99.glb": {
+      "source": "269/assets/Masculine-Masculine-flow-buttonup-pashmina250-headgear-a7dd7407.glb",
+      "source_sha256": "bc715eb06e9d76e930daa1b17dbb576680c5f64dbf6d57452f8a0780d2271637",
+      "sha256": "ef0089db9581c12f5b087fc6c7dba9610bc68cad344efa7341f399e8d8ccecd4",
+      "bytes": 2700852
+    }
+  }
+}

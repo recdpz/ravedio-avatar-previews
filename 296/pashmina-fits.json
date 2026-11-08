@@ -1,0 +1,150 @@
+{
+  "Feminine": {
+    "bob": {
+      "bandeau": "./assets/scarf-01.glb",
+      "triangle": "./assets/scarf-02.glb",
+      "strappy": "./assets/scarf-03.glb",
+      "tshirt": "./assets/scarf-04.glb",
+      "jersey": "./assets/scarf-05.glb",
+      "open": "./assets/scarf-06.glb",
+      "tank": "./assets/scarf-07.glb",
+      "sweatshirt": "./assets/scarf-08.glb"
+    },
+    "ponytail": {
+      "bandeau": "./assets/scarf-09.glb",
+      "triangle": "./assets/scarf-10.glb",
+      "strappy": "./assets/scarf-11.glb",
+      "tshirt": "./assets/scarf-12.glb",
+      "jersey": "./assets/scarf-13.glb",
+      "open": "./assets/scarf-14.glb",
+      "tank": "./assets/scarf-15.glb",
+      "sweatshirt": "./assets/scarf-16.glb"
+    },
+    "straight": {
+      "bandeau": "./assets/scarf-17.glb",
+      "triangle": "./assets/scarf-18.glb",
+      "strappy": "./assets/scarf-19.glb",
+      "tshirt": "./assets/scarf-20.glb",
+      "jersey": "./assets/scarf-21.glb",
+      "open": "./assets/scarf-22.glb",
+      "tank": "./assets/scarf-23.glb",
+      "sweatshirt": "./assets/scarf-24.glb"
+    },
+    "curls": {
+      "bandeau": "./assets/scarf-25.glb",
+      "triangle": "./assets/scarf-26.glb",
+      "strappy": "./assets/scarf-27.glb",
+      "tshirt": "./assets/scarf-28.glb",
+      "jersey": "./assets/scarf-29.glb",
+      "open": "./assets/scarf-30.glb",
+      "tank": "./assets/scarf-31.glb",
+      "sweatshirt": "./assets/scarf-32.glb"
+    },
+    "side-sweep": {
+      "bandeau": "./assets/scarf-33.glb",
+      "triangle": "./assets/scarf-34.glb",
+      "strappy": "./assets/scarf-35.glb",
+      "tshirt": "./assets/scarf-36.glb",
+      "jersey": "./assets/scarf-37.glb",
+      "open": "./assets/scarf-38.glb",
+      "tank": "./assets/scarf-39.glb",
+      "sweatshirt": "./assets/scarf-40.glb"
+    },
+    "space-buns": {
+      "bandeau": "./assets/scarf-41.glb",
+      "triangle": "./assets/scarf-42.glb",
+      "strappy": "./assets/scarf-43.glb",
+      "tshirt": "./assets/scarf-44.glb",
+      "jersey": "./assets/scarf-45.glb",
+      "open": "./assets/scarf-46.glb",
+      "tank": "./assets/scarf-47.glb",
+      "sweatshirt": "./assets/scarf-48.glb"
+    },
+    "twin-braids": {
+      "bandeau": "./assets/scarf-49.glb",
+      "triangle": "./assets/scarf-50.glb",
+      "strappy": "./assets/scarf-51.glb",
+      "tshirt": "./assets/scarf-52.glb",
+      "jersey": "./assets/scarf-53.glb",
+      "open": "./assets/scarf-54.glb",
+      "tank": "./assets/scarf-55.glb",
+      "sweatshirt": "./assets/scarf-56.glb"
+    },
+    "box-braids": {
+      "bandeau": "./assets/scarf-57.glb",
+      "triangle": "./assets/scarf-58.glb",
+      "strappy": "./assets/scarf-59.glb",
+      "tshirt": "./assets/scarf-60.glb",
+      "jersey": "./assets/scarf-61.glb",
+      "open": "./assets/scarf-62.glb",
+      "tank": "./assets/scarf-63.glb",
+      "sweatshirt": "./assets/scarf-64.glb"
+    }
+  },
+  "Masculine": {
+    "sidepart": {
+      "shirtless": "./assets/scarf-65.glb",
+      "tank": "./assets/scarf-66.glb",
+      "tshirt": "./assets/scarf-67.glb",
+      "jersey": "./assets/scarf-68.glb",
+      "buttonup": "./assets/scarf-69.glb",
+      "sweatshirt": "./assets/scarf-70.glb"
+    },
+    "taper": {
+      "shirtless": "./assets/scarf-71.glb",
+      "tank": "./assets/scarf-72.glb",
+      "tshirt": "./assets/scarf-73.glb",
+      "jersey": "./assets/scarf-74.glb",
+      "buttonup": "./assets/scarf-75.glb",
+      "sweatshirt": "./assets/scarf-76.glb"
+    },
+    "buzz": {
+      "shirtless": "./assets/scarf-77.glb",
+      "tank": "./assets/scarf-78.glb",
+      "tshirt": "./assets/scarf-79.glb",
+      "jersey": "./assets/scarf-80.glb",
+      "buttonup": "./assets/scarf-81.glb",
+      "sweatshirt": "./assets/scarf-82.glb"
+    },
+    "curly-top": {
+      "shirtless": "./assets/scarf-83.glb",
+      "tank": "./assets/scarf-84.glb",
+      "tshirt": "./assets/scarf-85.glb",
+      "jersey": "./assets/scarf-86.glb",
+      "buttonup": "./assets/scarf-87.glb",
+      "sweatshirt": "./assets/scarf-88.glb"
+    },
+    "afro": {
+      "shirtless": "./assets/scarf-89.glb",
+      "tank": "./assets/scarf-90.glb",
+      "tshirt": "./assets/scarf-91.glb",
+      "jersey": "./assets/scarf-92.glb",
+      "buttonup": "./assets/scarf-93.glb",
+      "sweatshirt": "./assets/scarf-94.glb"
+    },
+    "flow": {
+      "shirtless": "./assets/scarf-95.glb",
+      "tank": "./assets/scarf-96.glb",
+      "tshirt": "./assets/scarf-97.glb",
+      "jersey": "./assets/scarf-98.glb",
+      "buttonup": "./assets/scarf-99.glb",
+      "sweatshirt": "./assets/scarf-100.glb"
+    },
+    "locs": {
+      "shirtless": "./assets/scarf-101.glb",
+      "tank": "./assets/scarf-102.glb",
+      "tshirt": "./assets/scarf-103.glb",
+      "jersey": "./assets/scarf-104.glb",
+      "buttonup": "./assets/scarf-105.glb",
+      "sweatshirt": "./assets/scarf-106.glb"
+    },
+    "middle-part": {
+      "shirtless": "./assets/scarf-107.glb",
+      "tank": "./assets/scarf-108.glb",
+      "tshirt": "./assets/scarf-109.glb",
+      "jersey": "./assets/scarf-110.glb",
+      "buttonup": "./assets/scarf-111.glb",
+      "sweatshirt": "./assets/scarf-112.glb"
+    }
+  }
+}
