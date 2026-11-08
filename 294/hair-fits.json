@@ -1,0 +1,244 @@
+{
+  "Feminine": {
+    "space-buns": {
+      "label": "Space Buns",
+      "note": "Half-up buns with loose waves behind the shoulders.",
+      "fits": {
+        "none": {
+          "default": "../276/assets/space-buns-none.glb",
+          "ombre": "../276/assets/space-buns-none-ombre.glb"
+        },
+        "cap": {
+          "default": "../276/assets/space-buns-cap.glb",
+          "ombre": "../276/assets/space-buns-cap-ombre.glb"
+        },
+        "beanie": {
+          "default": "../276/assets/space-buns-beanie.glb",
+          "ombre": "../276/assets/space-buns-beanie-ombre.glb"
+        },
+        "bucket": {
+          "default": "../276/assets/space-buns-bucket.glb",
+          "ombre": "../276/assets/space-buns-bucket-ombre.glb"
+        },
+        "cowboy": {
+          "default": "../276/assets/space-buns-cowboy.glb",
+          "ombre": "../276/assets/space-buns-cowboy-ombre.glb"
+        },
+        "headband": {
+          "default": "../276/assets/space-buns-headband.glb",
+          "ombre": "../276/assets/space-buns-headband-ombre.glb"
+        },
+        "ears": {
+          "default": "../276/assets/space-buns-ears.glb",
+          "ombre": "../276/assets/space-buns-ears-ombre.glb"
+        },
+        "pashmina": {
+          "default": "../276/assets/space-buns-pashmina.glb",
+          "ombre": "../276/assets/space-buns-pashmina-ombre.glb"
+        }
+      }
+    },
+    "side-sweep": {
+      "label": "Long Bangs",
+      "note": "Rounded bangs with longer, separated layers behind the shoulders.",
+      "fits": {
+        "none": {
+          "default": "../293/assets/long-none.glb",
+          "ombre": "../293/assets/long-none-ombre.glb"
+        },
+        "cap": {
+          "default": "../293/assets/long-cap.glb",
+          "ombre": "../293/assets/long-cap-ombre.glb"
+        },
+        "beanie": {
+          "default": "../293/assets/long-beanie.glb",
+          "ombre": "../293/assets/long-beanie-ombre.glb"
+        },
+        "bucket": {
+          "default": "../293/assets/long-bucket.glb",
+          "ombre": "../293/assets/long-bucket-ombre.glb"
+        },
+        "cowboy": {
+          "default": "../293/assets/long-cowboy.glb",
+          "ombre": "../293/assets/long-cowboy-ombre.glb"
+        },
+        "headband": {
+          "default": "../293/assets/long-headband.glb",
+          "ombre": "../293/assets/long-headband-ombre.glb"
+        },
+        "ears": {
+          "default": "../293/assets/long-ears.glb",
+          "ombre": "../293/assets/long-ears-ombre.glb"
+        },
+        "pashmina": {
+          "default": "../293/assets/long-pashmina.glb",
+          "ombre": "../293/assets/long-pashmina-ombre.glb"
+        }
+      }
+    },
+    "bob": {
+      "label": "Bob",
+      "note": "Shaped locks with a tucked inner edge.",
+      "fits": {
+        "none": {
+          "default": "./assets/bob-none-default.glb",
+          "ombre": "./assets/bob-none-ombre.glb"
+        },
+        "cap": {
+          "default": "./assets/bob-cap-default.glb",
+          "ombre": "./assets/bob-cap-ombre.glb"
+        },
+        "beanie": {
+          "default": "./assets/bob-cap-default.glb",
+          "ombre": "./assets/bob-cap-ombre.glb"
+        },
+        "bucket": {
+          "default": "./assets/bob-bucket-default.glb",
+          "ombre": "./assets/bob-bucket-ombre.glb"
+        },
+        "cowboy": {
+          "default": "./assets/bob-cap-default.glb",
+          "ombre": "./assets/bob-cap-ombre.glb"
+        },
+        "headband": {
+          "default": "./assets/bob-none-default.glb",
+          "ombre": "./assets/bob-none-ombre.glb"
+        },
+        "ears": {
+          "default": "./assets/bob-none-default.glb",
+          "ombre": "./assets/bob-none-ombre.glb"
+        },
+        "pashmina": {
+          "default": "./assets/bob-pashmina-default.glb",
+          "ombre": "./assets/bob-pashmina-ombre.glb"
+        }
+      }
+    },
+    "straight": {
+      "label": "Straight",
+      "note": "Shaped locks with a tucked inner edge.",
+      "fits": {
+        "none": {
+          "default": "./assets/straight-none-default.glb",
+          "ombre": "./assets/straight-none-ombre.glb"
+        },
+        "cap": {
+          "default": "./assets/straight-cap-default.glb",
+          "ombre": "./assets/straight-cap-ombre.glb"
+        },
+        "beanie": {
+          "default": "./assets/straight-beanie-default.glb",
+          "ombre": "./assets/straight-beanie-ombre.glb"
+        },
+        "bucket": {
+          "default": "./assets/straight-bucket-default.glb",
+          "ombre": "./assets/straight-bucket-ombre.glb"
+        },
+        "cowboy": {
+          "default": "./assets/straight-beanie-default.glb",
+          "ombre": "./assets/straight-beanie-ombre.glb"
+        },
+        "headband": {
+          "default": "./assets/straight-none-default.glb",
+          "ombre": "./assets/straight-none-ombre.glb"
+        },
+        "ears": {
+          "default": "./assets/straight-ears-default.glb",
+          "ombre": "./assets/straight-ears-ombre.glb"
+        },
+        "pashmina": {
+          "default": "./assets/straight-pashmina-default.glb",
+          "ombre": "./assets/straight-pashmina-ombre.glb"
+        }
+      }
+    },
+    "curls": {
+      "label": "Curls",
+      "note": "Shaped locks with a tucked inner edge.",
+      "fits": {
+        "none": {
+          "default": "./assets/curls-none-default.glb",
+          "ombre": "./assets/curls-none-ombre.glb"
+        },
+        "cap": {
+          "default": "./assets/curls-cap-default.glb",
+          "ombre": "./assets/curls-cap-ombre.glb"
+        },
+        "beanie": {
+          "default": "./assets/curls-beanie-default.glb",
+          "ombre": "./assets/curls-beanie-ombre.glb"
+        },
+        "bucket": {
+          "default": "./assets/curls-bucket-default.glb",
+          "ombre": "./assets/curls-bucket-ombre.glb"
+        },
+        "cowboy": {
+          "default": "./assets/curls-beanie-default.glb",
+          "ombre": "./assets/curls-beanie-ombre.glb"
+        },
+        "headband": {
+          "default": "./assets/curls-none-default.glb",
+          "ombre": "./assets/curls-none-ombre.glb"
+        },
+        "ears": {
+          "default": "./assets/curls-ears-default.glb",
+          "ombre": "./assets/curls-ears-ombre.glb"
+        },
+        "pashmina": {
+          "default": "./assets/curls-pashmina-default.glb",
+          "ombre": "./assets/curls-pashmina-ombre.glb"
+        }
+      }
+    },
+    "box-braids": {
+      "label": "Box braids",
+      "note": "Woven braids with a closer rear fall.",
+      "fits": {
+        "none": {
+          "default": "./assets/box-braids-none-default.glb",
+          "ombre": "./assets/box-braids-none-ombre.glb"
+        },
+        "cap": {
+          "default": "./assets/box-braids-cap-default.glb",
+          "ombre": "./assets/box-braids-cap-ombre.glb"
+        },
+        "beanie": {
+          "default": "./assets/box-braids-cap-default.glb",
+          "ombre": "./assets/box-braids-cap-ombre.glb"
+        },
+        "bucket": {
+          "default": "./assets/box-braids-bucket-default.glb",
+          "ombre": "./assets/box-braids-bucket-ombre.glb"
+        },
+        "cowboy": {
+          "default": "./assets/box-braids-cap-default.glb",
+          "ombre": "./assets/box-braids-cap-ombre.glb"
+        },
+        "headband": {
+          "default": "./assets/box-braids-none-default.glb",
+          "ombre": "./assets/box-braids-none-ombre.glb"
+        },
+        "ears": {
+          "default": "./assets/box-braids-none-default.glb",
+          "ombre": "./assets/box-braids-none-ombre.glb"
+        },
+        "pashmina": {
+          "default": "./assets/box-braids-pashmina-default.glb",
+          "ombre": "./assets/box-braids-pashmina-ombre.glb"
+        }
+      }
+    }
+  },
+  "Masculine": {
+    "flow": {
+      "label": "Flow",
+      "note": "Layered side flow with a covered cap fit.",
+      "fits": {
+        "cap": {
+          "default": "./assets/flow-cap-default.glb",
+          "ombre": "./assets/flow-cap-ombre.glb"
+        }
+      }
+    }
+  }
+}
