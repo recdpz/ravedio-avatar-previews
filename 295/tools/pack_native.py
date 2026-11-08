@@ -1,4 +1,4 @@
-"""Package the selected 295 artwork for the two existing Development avatar labs."""
+"""Package the selected artwork for the two existing Development avatar labs."""
 import hashlib
 import json
 import math
@@ -139,7 +139,7 @@ def diagnostic_camera(scene, angle):
             "clip_start": scene.camera.data.clip_start, "clip_end": scene.camera.data.clip_end}
 
 
-def stage(build, row, out, browser):
+def stage(build, row, out, browser, art_revision):
     target = out / build
     (target / "components").mkdir(parents=True)
     packed, components = {}, {}
@@ -156,8 +156,8 @@ def stage(build, row, out, browser):
                not {"KHR_materials_transmission", "KHR_materials_volume"}.intersection(m.get("extensions", {}))
                for m in components["lenses"]["materials"])
     scene, studio = load_studio(build, packed)
-    scene.name = f"Ravedio 295 {build}"
-    scene["avatar_revision"] = "295"
+    scene.name = f"Ravedio {art_revision} {build}"
+    scene["avatar_revision"] = str(art_revision)
     overrides = material_overrides(build)
     apply_materials(scene, overrides)
     depth = configure(scene)
@@ -192,7 +192,7 @@ def stage(build, row, out, browser):
                 "color": color.relative_to(out).as_posix(), "depth": exr.relative_to(out).as_posix(),
                 "web_comparison": web.relative_to(out).as_posix(),
             })
-            print("REFERENCE295", build, name, flush=True)
+            print(f"REFERENCE{art_revision}", build, name, flush=True)
     diagnostics = []
     skin_tone(1)
     for angle in ("rightprofile", "rear"):
@@ -213,25 +213,28 @@ def stage(build, row, out, browser):
             "web_comparison": web.relative_to(out).as_posix(),
         })
     return {
-        "id": FIXTURE_IDS[build], "features": row["features"], "tones": [0, 3],
+        "id": FIXTURE_IDS[build].replace("r295-", f"r{art_revision}-", 1), "features": row["features"], "tones": [0, 3],
         "scene": reference.relative_to(out).as_posix(), "scene_skin": 0,
         "studio_source_sha256": sha(studio), "studio": info,
         "components": components, "appearance_overrides": overrides, "references": pairs, "diagnostics": diagnostics,
     }
 
 
-def pack(receipt, out):
+def pack(receipt, out, art_revision=295, stage_extra=None):
     report = json.loads(receipt.read_text(encoding="utf8"))
-    assert report["revision"] == "295"
+    assert report["revision"] == str(art_revision)
     out.mkdir(parents=True, exist_ok=False)
-    fixtures = {build: stage(build, row, out, receipt.parent) for build, row in report["fixtures"].items()}
+    fixtures = {build: stage(build, row, out, receipt.parent, art_revision) for build, row in report["fixtures"].items()}
     shutil.copyfile(PALETTE, out / "palette.json")
-    shutil.copyfile(REV / "NATIVE-HANDOFF.md", out / "README.md")
+    source_revision = ROOT / str(art_revision)
+    shutil.copyfile(source_revision / "NATIVE-HANDOFF.md", out / "README.md")
     shutil.copyfile(REV / "tools/verify_archive.py", out / "verify_archive.py")
+    if stage_extra is not None:
+        stage_extra(out, fixtures)
     hashes = {p.relative_to(out).as_posix(): sha(p) for p in sorted(out.rglob("*")) if p.is_file()}
     manifest = {
-        "schema": "ravedio-native-art-fixtures-1", "revision": 295,
-        "source_catalogue": {"file": "295/hair-fits.json", "sha256": sha(REV / "hair-fits.json")},
+        "schema": "ravedio-native-art-fixtures-1", "revision": art_revision,
+        "source_catalogue": {"file": f"{art_revision}/hair-fits.json", "sha256": sha(source_revision / "hair-fits.json")},
         "coordinates": "glTF +Y up and +Z forward. Preserve authored node transforms.",
         "web_comparison": {"studio": "270 viewer", "viewer_sha256": sha(ROOT / "270/viewer.js"),
                            "exposure": .95, "tone_mapping": "ACESFilmic",
@@ -239,9 +242,12 @@ def pack(receipt, out):
                            "camera": "front, span 1.35, target y=1.90"},
         "fixtures": fixtures, "files": hashes,
     }
+    if art_revision != 295:
+        scarf = source_revision / "pashmina-fits.json"
+        manifest["scarf_catalogue"] = {"file": f"{art_revision}/pashmina-fits.json", "sha256": sha(scarf)}
     (out / "manifest.json").write_text(json.dumps(manifest, indent=2) + "\n", encoding="utf8", newline="\n")
     archive = Path(shutil.make_archive(str(out), "zip", root_dir=out))
-    print("PACK295", archive, sha(archive), flush=True)
+    print(f"PACK{art_revision}", archive, sha(archive), flush=True)
 
 
 if __name__ == "__main__":

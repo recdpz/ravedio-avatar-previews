@@ -1,0 +1,22 @@
+{
+  "file": "Ravedio298-native.zip",
+  "revision": 298,
+  "artwork_commit": "f4a69ba",
+  "sha256": "0714b1b6d87079c1856d5da9117051794ce0cd134fd0b3fd862a5301d330f2a7",
+  "bytes": 82556858,
+  "fixtures": 2,
+  "components": 22,
+  "matched_color_depth_pairs": 20,
+  "mobile_stage_sha256": "b5778eb093a948eaf47876839e5a4796ada6c96c69463dba20df866bfefe310c",
+  "seeded_rows": 16,
+  "distinct_appearances": 4,
+  "changed_components_since_295": {
+    "Feminine": [
+      "hair",
+      "headgear"
+    ],
+    "Masculine": []
+  },
+  "native_runtime_staging": "pending",
+  "physical_phone_comparison": "pending"
+}

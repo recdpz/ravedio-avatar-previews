@@ -7,11 +7,11 @@ import zipfile
 from pathlib import Path
 
 
-def verify(path):
+def verify(path, revision=295):
     with zipfile.ZipFile(path) as archive:
         manifest = json.loads(archive.read("manifest.json"))
         assert manifest["schema"] == "ravedio-native-art-fixtures-1"
-        assert manifest["revision"] == 295
+        assert manifest["revision"] == revision
         hashes = manifest["files"]
         files = [entry.filename for entry in archive.infolist() if not entry.is_dir()]
         assert len(set(files)) == len(files)
@@ -54,4 +54,4 @@ def verify(path):
 
 
 if __name__ == "__main__":
-    verify(Path(sys.argv[1]))
+    verify(Path(sys.argv[1]), int(sys.argv[2]) if len(sys.argv) == 3 else 295)

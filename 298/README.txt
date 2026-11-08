@@ -32,5 +32,15 @@ preview assets. Use Node, Playwright, Blender 5.2, and Python with Pillow.
    blender -b --python-exit-code 1 --python 298/tools/check.py -- <baseline/review.json> <review/review.json>
    python 298/tools/boards.py <baseline> <review> 298/verification
 
-Generated GLBs live locally under assets/. The separate iOS and Android
-handoff remains pinned to 295.
+Generated GLBs live locally under assets/. The revision 298 native ZIP
+is on the D: work volume under Ravedio-Avatar-Work/native298/delivery.
+See NATIVE-HANDOFF.md and verification/native-archive.json. Runtime
+staging and physical iOS and Android measurements are pending.
+
+To reproduce the package, set ART_REVISION=298 and CAPTURE_DIR to a
+new fixture capture directory. Run node 295/tools/capture.cjs --fixtures-only.
+Use the verified 295 ZIP at 295/handoff/Ravedio295-native.zip as the
+control. Choose a fresh output directory on a volume with space.
+
+   blender -b --python-exit-code 1 --python 298/tools/pack_native.py -- <fixture-capture/review.json> <output-directory>
+   python 295/tools/verify_archive.py <output-directory>.zip 298
