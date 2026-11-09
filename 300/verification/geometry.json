@@ -1,0 +1,1572 @@
+{
+  "assemblies": [
+    {
+      "build": "Feminine",
+      "hair": "bob",
+      "top": "bandeau",
+      "sha256": "d6935adb15c906235305cfa77d765908bb211fa93918ec56f0ae14ea74da47e3",
+      "triangles": 126412,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "bob",
+      "top": "triangle",
+      "sha256": "22eb7e237535309ec7fc32b85aa2e8c26acf20dfa2c9ace0c8f2e28eb1736683",
+      "triangles": 126412,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "bob",
+      "top": "strappy",
+      "sha256": "613bf9113d472ddb44ee963dcd22c41fdae8b45ad5b967c5c945939256db525b",
+      "triangles": 126412,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "bob",
+      "top": "tshirt",
+      "sha256": "fd845b16b6230609ec655050fae143361e23ed222e5e532053aed3276a702190",
+      "triangles": 126412,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "bob",
+      "top": "jersey",
+      "sha256": "93b6a431b99b47b1a626b43d5f5ff6cfad6b0799433b5ffe52719b6156b48349",
+      "triangles": 126412,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "bob",
+      "top": "open",
+      "sha256": "74b3c8e833d954a761679f88a948d0fd8a1e180a60328e2e172126ffc31adbef",
+      "triangles": 126412,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "bob",
+      "top": "tank",
+      "sha256": "e54ee5522092461a1ce9ad222fc14ded271e7e6e2a842f87f6babe50b757bd8f",
+      "triangles": 126412,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "bob",
+      "top": "sweatshirt",
+      "sha256": "43ac5ae548a91a35e97df8e44a60d9b5a81c16cb72f68c870b30d29bd322d09c",
+      "triangles": 126412,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "ponytail",
+      "top": "bandeau",
+      "sha256": "17c895b47789cfce4588f824da698a615ab98dafcf87dc8b5939f3c3420689f0",
+      "triangles": 125860,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "ponytail",
+      "top": "triangle",
+      "sha256": "8f86d83bd965f4c21d26e4b15ab2a83fe013a6b70f1d5029ff00059325e690fa",
+      "triangles": 125860,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "ponytail",
+      "top": "strappy",
+      "sha256": "a74610d30bff533ef2f8ef4f862789e2e5a9c3786111a93c371296e0348d7448",
+      "triangles": 125860,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "ponytail",
+      "top": "tshirt",
+      "sha256": "4f82b11c8e0e1895b98e83da965fdb3e6c786c5c3e7e3bf865c060eaf28d4221",
+      "triangles": 125860,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "ponytail",
+      "top": "jersey",
+      "sha256": "476a2609fb8e495e1d9e157f035ea33f8c70f1346a886eae791e1186d87401b6",
+      "triangles": 125860,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "ponytail",
+      "top": "open",
+      "sha256": "6cfa94c7a4244b8231f012fc6d3e1db3f771ac41f542e999dea6c77cdf0929e1",
+      "triangles": 125860,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "ponytail",
+      "top": "tank",
+      "sha256": "4efa01f885d64fbe243f71b1aa919df74189e50d409bcb741886245600d1b29a",
+      "triangles": 125860,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "ponytail",
+      "top": "sweatshirt",
+      "sha256": "9d1d78669e76a5bcc071cc17795b23c5ef59b4f96c18eb3d0ed4d400c71258cf",
+      "triangles": 125860,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "straight",
+      "top": "bandeau",
+      "sha256": "96baafafe718b219570f6c43a784db1575841fe30d0095d58a91697ad8ad1f97",
+      "triangles": 125968,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "straight",
+      "top": "triangle",
+      "sha256": "fd7ac2c9e3ebf6e0e4da97ed599b5e55d6bf4a388af834b528ee823ec17d480f",
+      "triangles": 125964,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "straight",
+      "top": "strappy",
+      "sha256": "3ba31d968d8b4840d6b41f46581433c53b6d978d40aa1a1497ebb83fa191287b",
+      "triangles": 125968,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "straight",
+      "top": "tshirt",
+      "sha256": "6cb406b22b5c4bb5db06b7be2b005c6fb328daeaa85d985de8b1004155b3bfd2",
+      "triangles": 125968,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "straight",
+      "top": "jersey",
+      "sha256": "2fa21be2a48b6f93ce13a475804a4a0980120c2f8d40ed631a5774413ee2e2bf",
+      "triangles": 125964,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "straight",
+      "top": "open",
+      "sha256": "eece6937146d84560113107fc8bb3781cedbaca0db78f994c208163b18a5a14f",
+      "triangles": 125964,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "straight",
+      "top": "tank",
+      "sha256": "01d2e5b11bbea372eb203a82915f40ebf46adadb826da386bf4b27f6e274cf7f",
+      "triangles": 125968,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "straight",
+      "top": "sweatshirt",
+      "sha256": "adddbce66daf8149cb5a67ed4a7d2f4977a2029b05fae1e6c37689af883a5da0",
+      "triangles": 125968,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "curls",
+      "top": "bandeau",
+      "sha256": "93a3fc19a9808f6a33f4b85292bb9f01722ce6e0f337976979207e5ea75bcc9d",
+      "triangles": 126940,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "curls",
+      "top": "triangle",
+      "sha256": "05049a491e17c94f1dbe0771da5420f93387d6f34d36a5ef7e60d8fbbb1060a7",
+      "triangles": 126560,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "curls",
+      "top": "strappy",
+      "sha256": "ee5b5a7930f04c8c507e132e9419392ee6b4b4a817a48847dfd5e90624a10596",
+      "triangles": 126560,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "curls",
+      "top": "tshirt",
+      "sha256": "e909287201976c6d1af5ea5823a681638a1dd63a493d3871fa6ac359393bede1",
+      "triangles": 126560,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "curls",
+      "top": "jersey",
+      "sha256": "cef01b52c70757d24a49e4b846c8f50d0a06bf5acb409cc9dc824ce49059fe7b",
+      "triangles": 126560,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "curls",
+      "top": "open",
+      "sha256": "d9b5ad8707f5f5cfa48ce9b4ff1ce044999747e604cf027d171025d8ad93eed5",
+      "triangles": 126560,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "curls",
+      "top": "tank",
+      "sha256": "45bead8bf7394c52f7a672a594c61acff82a607783967ebaa238fc33fd71a5e9",
+      "triangles": 126560,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "curls",
+      "top": "sweatshirt",
+      "sha256": "e2f43aa02e5db6c2928e257fe1dec2adf8325a49a65e38c6839ed6b78b3374c5",
+      "triangles": 126560,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "side-sweep",
+      "top": "bandeau",
+      "sha256": "bab08db6ebc480d2dc53605338c5f7bd1d76ad173586186cec3a344767e46609",
+      "triangles": 125548,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "side-sweep",
+      "top": "triangle",
+      "sha256": "a4cb7722380e34d49fccddb5eaa737334d982effe2d8e079c8e342b1f21292d9",
+      "triangles": 125548,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "side-sweep",
+      "top": "strappy",
+      "sha256": "6ba037097163a940fd7691cf801b79926f09b76757d7ef37cb168d59151a6b3c",
+      "triangles": 125548,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "side-sweep",
+      "top": "tshirt",
+      "sha256": "81881928de89d524269b4cc73f9db9ed230c3605b0aef856ad4e1187b22ba3d7",
+      "triangles": 125548,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "side-sweep",
+      "top": "jersey",
+      "sha256": "07e9f0faafd2df443ee1de016362de715f2bf9c4a48df5faa9c96132da214e22",
+      "triangles": 125548,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "side-sweep",
+      "top": "open",
+      "sha256": "c248f7307f0bf41dd968667911e199159c3b8764320c05f554351d84817e8ffe",
+      "triangles": 125548,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "side-sweep",
+      "top": "tank",
+      "sha256": "02a053e5eca449748af027083e2f7614293ca87335db8c4f738dd82857ccdb6b",
+      "triangles": 125548,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "side-sweep",
+      "top": "sweatshirt",
+      "sha256": "df749d8dd59833ad58063d31d4210ed2757add9729faa4e6c9765ebc9c50407a",
+      "triangles": 125548,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "space-buns",
+      "top": "bandeau",
+      "sha256": "7ad766bc305690eca0e31aa5b1689ac818ae6d8262225863599c9071bb4f2a2b",
+      "triangles": 125324,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "space-buns",
+      "top": "triangle",
+      "sha256": "9b68c6be74c5de95feff509a7b96b4627470fe21a5d5087ae0d99e46f60e5f66",
+      "triangles": 125324,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "space-buns",
+      "top": "strappy",
+      "sha256": "352a88462f686244417671d27e5eb0158ca07573c95a34625a84c2473719a6d3",
+      "triangles": 125324,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "space-buns",
+      "top": "tshirt",
+      "sha256": "9f7735fd8d9e5a43801d98d0290b52bb39189f567d631ad40be1257b03a0a8e9",
+      "triangles": 125324,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "space-buns",
+      "top": "jersey",
+      "sha256": "9388020834e6e8dd798d4434658362a1bb3c099c00cffd957a61bac19c9ccd40",
+      "triangles": 125324,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "space-buns",
+      "top": "open",
+      "sha256": "e56e5d212ef74ccc59813155dfbf3bea6ff39ef1e5239d32a0f978d053523717",
+      "triangles": 125324,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "space-buns",
+      "top": "tank",
+      "sha256": "eaefbecf4be58bd1a7f2f1241f3c80542136858907bacc2ae244f00e24693e8b",
+      "triangles": 125324,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "space-buns",
+      "top": "sweatshirt",
+      "sha256": "df8560e8121bd8fe76f53997314ec6a444813f48160099928ff6326aab8a74dc",
+      "triangles": 125324,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "twin-braids",
+      "top": "bandeau",
+      "sha256": "f07eaff823bcc23860341b1b76189f021258a04991ab32f9b9d047d7a9c16b25",
+      "triangles": 124980,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0,
+        "hairLengths": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "twin-braids",
+      "top": "triangle",
+      "sha256": "bd893dc5e94baed13ea98a1d30647a69433209beae4d18135de7e1c2ebea3411",
+      "triangles": 124980,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0,
+        "hairLengths": 6
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "twin-braids",
+      "top": "strappy",
+      "sha256": "769451fe3020188daef0de1cacfdfb0f4c0a192813437b7724fb830e372b7f72",
+      "triangles": 124980,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0,
+        "hairLengths": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "twin-braids",
+      "top": "tshirt",
+      "sha256": "e06193e38fb1de8eb8ebc7fc2a1853649b7c040f67f1908cd71db3260647bef9",
+      "triangles": 124980,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0,
+        "hairLengths": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "twin-braids",
+      "top": "jersey",
+      "sha256": "40df760ed86365eafa8d49575261cbb88dec088ea22d752e58121d4bfe9cf93d",
+      "triangles": 124980,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0,
+        "hairLengths": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "twin-braids",
+      "top": "open",
+      "sha256": "2fce75cb8fae104fb3477b857bea9847d2e4f736e36111bd4706cad572654b1b",
+      "triangles": 124980,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0,
+        "hairLengths": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "twin-braids",
+      "top": "tank",
+      "sha256": "6ecd45b05164909fb2398ee4f41b73ce397710a96d630e364b2e1db6a0c965f6",
+      "triangles": 124980,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0,
+        "hairLengths": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "twin-braids",
+      "top": "sweatshirt",
+      "sha256": "42a507b07eefef52537f071027fde99deef343382b6dde4dd5387d8ae73d648e",
+      "triangles": 124980,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0,
+        "hairLengths": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "box-braids",
+      "top": "bandeau",
+      "sha256": "3ea775a6314be9c131bc9b4ef60ba73cf68bab36182728e76ca3d8500f0c435c",
+      "triangles": 125600,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 3
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "box-braids",
+      "top": "triangle",
+      "sha256": "4e2b51a0f02c20079d9fa7cef26c117cc24f28fdd2195d117e6193576ecabe49",
+      "triangles": 125600,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 11
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "box-braids",
+      "top": "strappy",
+      "sha256": "4ca57824358d0b1385bda105cebfb32b75a7648890c423498dfd7a607da345a2",
+      "triangles": 125600,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 2
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "box-braids",
+      "top": "tshirt",
+      "sha256": "727be79439d06766545b6a740d946653965a12414b12be8310360505d00a0e2e",
+      "triangles": 125600,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "box-braids",
+      "top": "jersey",
+      "sha256": "fecede84948f8d255d5b9a0742309342900aa67b17c72fa218e6f5f16b8a8344",
+      "triangles": 125592,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "box-braids",
+      "top": "open",
+      "sha256": "d078043f7121840b2fc374d3cdfef436d11090fe5dce5591080c6c4ce48ac1ce",
+      "triangles": 125600,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "box-braids",
+      "top": "tank",
+      "sha256": "ea072d27bb35b7faa7a7f21e730791d7baf3b488b9192e7f8ee421451f12552e",
+      "triangles": 125600,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 2
+      }
+    },
+    {
+      "build": "Feminine",
+      "hair": "box-braids",
+      "top": "sweatshirt",
+      "sha256": "3802343501e12742679b725e371b557a5776f343792766521c0eb19f0dbd3e67",
+      "triangles": 125600,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "sidepart",
+      "top": "shirtless",
+      "sha256": "d0709cdc0ea21f4e128e69b658a8dc4e6f2b52e0de1915d7fd78e6367b010ca7",
+      "triangles": 125268,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "sidepart",
+      "top": "tank",
+      "sha256": "615ef5153fe73c9a78b0d27dd4ae4e7bc7195476c1f76ca178ec9bce7f930f9d",
+      "triangles": 125268,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "sidepart",
+      "top": "tshirt",
+      "sha256": "b22e780d127528a9d28af857db9d25f46ee138abc37e03e0de30c03487ef42d3",
+      "triangles": 125268,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "sidepart",
+      "top": "jersey",
+      "sha256": "bcc4827fb6ab1db0dc2a48cd33a26e6f5dd65aa9122006e72448c3895bc1ab4d",
+      "triangles": 125264,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "sidepart",
+      "top": "buttonup",
+      "sha256": "14ad933cf8ee78a6249b482f7daa082016f98df9d933bef72a773c2de35d3b14",
+      "triangles": 125268,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "sidepart",
+      "top": "sweatshirt",
+      "sha256": "42a9245a935dca1c1bce64e35d7f6309b24e5aa40020acb6bf79325adc1f4e2b",
+      "triangles": 125268,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "taper",
+      "top": "shirtless",
+      "sha256": "189c70533ed4f0d95c6c8416f10dd30e99fae9a3319b883ffb71726317b95084",
+      "triangles": 125248,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "taper",
+      "top": "tank",
+      "sha256": "efacadf411b7335049b9c23ded8363e52052cf115ae1f1bb8c41ffd76c407cdf",
+      "triangles": 125248,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "taper",
+      "top": "tshirt",
+      "sha256": "25fc0cc1d79e595c7a560d997c6f33e573cffd59dae2e070b635a42335a8cf03",
+      "triangles": 125248,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "taper",
+      "top": "jersey",
+      "sha256": "aa95d43f7e9f00530ad875a3275cb50977b05f4c5cfa04174eff4205f9193627",
+      "triangles": 125248,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "taper",
+      "top": "buttonup",
+      "sha256": "8eedfcd30f2c01b35223d63212295ea59130bd682e59b4ee85fec1c04b48285d",
+      "triangles": 125248,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "taper",
+      "top": "sweatshirt",
+      "sha256": "df3258268e4da48fc6b34e1279ef106b1a83ee10283293c57fa36fb6246c3fc8",
+      "triangles": 125248,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "buzz",
+      "top": "shirtless",
+      "sha256": "9a3dabfd4101c0174805607f353132114368d3d8735d7d7de08fe6e73088cd87",
+      "triangles": 125236,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "buzz",
+      "top": "tank",
+      "sha256": "ff42c7d20f67d92859ac415b88a83e0a2f295ee1136ab2b3afb67202b26b2958",
+      "triangles": 125236,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "buzz",
+      "top": "tshirt",
+      "sha256": "beff319da4e833010c960c334ba05f06058ee00ec14b41df51194939ec509440",
+      "triangles": 125236,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "buzz",
+      "top": "jersey",
+      "sha256": "479ca3fb3d9ff4760f834aa5350fdbbaa288630902d9f5572bb03fabd1697324",
+      "triangles": 125232,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "buzz",
+      "top": "buttonup",
+      "sha256": "71a001c70b6772981230206279b50e8e5ba3f9517e52dda3a57ab4d0aeb6864f",
+      "triangles": 125236,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "buzz",
+      "top": "sweatshirt",
+      "sha256": "0276f8294e1a0e59d6251f2275fa044e073b52c0b7f68cb6dd3066bbd80012be",
+      "triangles": 125236,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "curly-top",
+      "top": "shirtless",
+      "sha256": "7cde2a55065d1ed9224f3ff0d1d973994b240a3779fc33377ecfa74d93478c81",
+      "triangles": 125280,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "curly-top",
+      "top": "tank",
+      "sha256": "3cce23e1ae32273d0d0c994aaeb940bdb583f234dc211cb212bb9e7bd971ba30",
+      "triangles": 125280,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "curly-top",
+      "top": "tshirt",
+      "sha256": "19aa561b9aadf1ef4c3feab85c5779ba7deeb092d98da1c4164ab6267db03ab9",
+      "triangles": 125280,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "curly-top",
+      "top": "jersey",
+      "sha256": "e88338b05e7504dad56b4d52d5f572b82a9fea89015319fc03c6fb37a27f328a",
+      "triangles": 125280,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "curly-top",
+      "top": "buttonup",
+      "sha256": "20437aca3f1818537c4c359874709d4f3c342023b396d2451cb8f2154a06e4f2",
+      "triangles": 125280,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "curly-top",
+      "top": "sweatshirt",
+      "sha256": "0d8dbb8e0a4715368c09bcad434d2efadad765c978d879b4cbf3a232c612d949",
+      "triangles": 125280,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "afro",
+      "top": "shirtless",
+      "sha256": "e2682ecda69415e9e6e0d2893f82d48128a6ebcdbbcc9305f7c04093fa27ecad",
+      "triangles": 125512,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "afro",
+      "top": "tank",
+      "sha256": "9d8f9ecf4b9e40ba7616756a073c358749020afed0d0dddcca6730245ac7a6af",
+      "triangles": 125512,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "afro",
+      "top": "tshirt",
+      "sha256": "ce808cfcfcdf673c14c12fe000595bb4904192a8e0043af2249fb509762b3134",
+      "triangles": 125512,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "afro",
+      "top": "jersey",
+      "sha256": "d2c1a4d76d6190528e5ae85a89da60f67036580c70743504d67dec3260cc7e71",
+      "triangles": 125512,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "afro",
+      "top": "buttonup",
+      "sha256": "3284c22ccb3504dd5d2365b9b35c7b5207416ace2cb487b54d85102ba44db1c3",
+      "triangles": 125512,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "afro",
+      "top": "sweatshirt",
+      "sha256": "432136ac6626d07046e85dde958f9c7fd401fa1cf5d424101cbadb70df57dd92",
+      "triangles": 125512,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "flow",
+      "top": "shirtless",
+      "sha256": "b8cb37d1ca03653c175b2040dbd2877a7d72a117139d6e83680f27d141397055",
+      "triangles": 125880,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "flow",
+      "top": "tank",
+      "sha256": "6f04e8abe32832c4eeb31db2541df9c7c2d409dd9de5d3385287b8a71218dc16",
+      "triangles": 125880,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "flow",
+      "top": "tshirt",
+      "sha256": "5efbd46c4d666708227199b6476285a7c2b312e2517942aab34cfb152aab2972",
+      "triangles": 125880,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "flow",
+      "top": "jersey",
+      "sha256": "48f015151f4385a05b4a206cedecd1e7f923bdb0ded92d222f159194775177c3",
+      "triangles": 125880,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "flow",
+      "top": "buttonup",
+      "sha256": "a7792d023a532cbaeb00a26a26cdd93a177081b6791222e5e9b899401cc4a2bd",
+      "triangles": 125880,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "flow",
+      "top": "sweatshirt",
+      "sha256": "b976c491d36888df4b8efe599fbf848a7dac8c7980651ca3c1edc7ddd3c1bfce",
+      "triangles": 125880,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "locs",
+      "top": "shirtless",
+      "sha256": "c9bbd24b67667d7f5881892d5b23fc72edaa4c872a1c66c24fb6d05dbdc1dd1d",
+      "triangles": 125440,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "locs",
+      "top": "tank",
+      "sha256": "e59492582efe2930eb0da0246be354c4117cdea3e0edd3dd8037fd9fb75d4526",
+      "triangles": 125440,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "locs",
+      "top": "tshirt",
+      "sha256": "75afe8493dd80efd662dc26ff6a2b667e72fffb337d67437c52f31d7b9565680",
+      "triangles": 125440,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "locs",
+      "top": "jersey",
+      "sha256": "f5c5a62083ca46aa92056b4db617e14aeb6a1a47dba8a75b55764a465b880b06",
+      "triangles": 125440,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "locs",
+      "top": "buttonup",
+      "sha256": "b2b8ab1cbcf4b1d4ccab449df58e51f3a9eaa2318b75cdf488110662f3b02c28",
+      "triangles": 125440,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "locs",
+      "top": "sweatshirt",
+      "sha256": "92e800b6e877ffebe113ecdd69501acf66adff1d416a9a7a8306293d9a70da42",
+      "triangles": 125440,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "middle-part",
+      "top": "shirtless",
+      "sha256": "7f983e70a8b7ae982d09a344d23798413d0601cc57060301660750402735b503",
+      "triangles": 125408,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "middle-part",
+      "top": "tank",
+      "sha256": "648f6e92acea2c4f2d11b0aeb71dbab75099e8620b3470faf056ea741eca7f5b",
+      "triangles": 125408,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "middle-part",
+      "top": "tshirt",
+      "sha256": "f7d4a6b182232adcc81ebb9ef1aba91dc547b6131783b27c682351d6de26b05f",
+      "triangles": 125408,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "middle-part",
+      "top": "jersey",
+      "sha256": "ad8537193f524b24df8a001e4090870e27423dc20f4c3d8ff218d4f57475911c",
+      "triangles": 125408,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "middle-part",
+      "top": "buttonup",
+      "sha256": "d8c40c7a3975fd575b0e803d92908fe9b7f33433a6447c22859f05bb8eb1a0ab",
+      "triangles": 125408,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    },
+    {
+      "build": "Masculine",
+      "hair": "middle-part",
+      "top": "sweatshirt",
+      "sha256": "31657719426d1389903ee75744b7f2c37ee1c69c80c430db1e628b1e74c89250",
+      "triangles": 125408,
+      "lower_self_contact_pairs": 0,
+      "rear_contact_vertices": 0,
+      "neighbor_contact_triangles": {
+        "base": 0,
+        "top": 0,
+        "hair": 0
+      }
+    }
+  ]
+}

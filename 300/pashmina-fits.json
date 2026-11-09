@@ -1,0 +1,150 @@
+{
+  "Feminine": {
+    "bob": {
+      "bandeau": "./assets/feminine-bob-bandeau.glb",
+      "triangle": "./assets/feminine-bob-triangle.glb",
+      "strappy": "./assets/feminine-bob-strappy.glb",
+      "tshirt": "./assets/feminine-bob-tshirt.glb",
+      "jersey": "./assets/feminine-bob-jersey.glb",
+      "open": "./assets/feminine-bob-open.glb",
+      "tank": "./assets/feminine-bob-tank.glb",
+      "sweatshirt": "./assets/feminine-bob-sweatshirt.glb"
+    },
+    "ponytail": {
+      "bandeau": "./assets/feminine-ponytail-bandeau.glb",
+      "triangle": "./assets/feminine-ponytail-triangle.glb",
+      "strappy": "./assets/feminine-ponytail-strappy.glb",
+      "tshirt": "./assets/feminine-ponytail-tshirt.glb",
+      "jersey": "./assets/feminine-ponytail-jersey.glb",
+      "open": "./assets/feminine-ponytail-open.glb",
+      "tank": "./assets/feminine-ponytail-tank.glb",
+      "sweatshirt": "./assets/feminine-ponytail-sweatshirt.glb"
+    },
+    "straight": {
+      "bandeau": "./assets/feminine-straight-bandeau.glb",
+      "triangle": "./assets/feminine-straight-triangle.glb",
+      "strappy": "./assets/feminine-straight-strappy.glb",
+      "tshirt": "./assets/feminine-straight-tshirt.glb",
+      "jersey": "./assets/feminine-straight-jersey.glb",
+      "open": "./assets/feminine-straight-open.glb",
+      "tank": "./assets/feminine-straight-tank.glb",
+      "sweatshirt": "./assets/feminine-straight-sweatshirt.glb"
+    },
+    "curls": {
+      "bandeau": "./assets/feminine-curls-bandeau.glb",
+      "triangle": "./assets/feminine-curls-triangle.glb",
+      "strappy": "./assets/feminine-curls-strappy.glb",
+      "tshirt": "./assets/feminine-curls-tshirt.glb",
+      "jersey": "./assets/feminine-curls-jersey.glb",
+      "open": "./assets/feminine-curls-open.glb",
+      "tank": "./assets/feminine-curls-tank.glb",
+      "sweatshirt": "./assets/feminine-curls-sweatshirt.glb"
+    },
+    "side-sweep": {
+      "bandeau": "./assets/feminine-side-sweep-bandeau.glb",
+      "triangle": "./assets/feminine-side-sweep-triangle.glb",
+      "strappy": "./assets/feminine-side-sweep-strappy.glb",
+      "tshirt": "./assets/feminine-side-sweep-tshirt.glb",
+      "jersey": "./assets/feminine-side-sweep-jersey.glb",
+      "open": "./assets/feminine-side-sweep-open.glb",
+      "tank": "./assets/feminine-side-sweep-tank.glb",
+      "sweatshirt": "./assets/feminine-side-sweep-sweatshirt.glb"
+    },
+    "space-buns": {
+      "bandeau": "./assets/feminine-space-buns-bandeau.glb",
+      "triangle": "./assets/feminine-space-buns-triangle.glb",
+      "strappy": "./assets/feminine-space-buns-strappy.glb",
+      "tshirt": "./assets/feminine-space-buns-tshirt.glb",
+      "jersey": "./assets/feminine-space-buns-jersey.glb",
+      "open": "./assets/feminine-space-buns-open.glb",
+      "tank": "./assets/feminine-space-buns-tank.glb",
+      "sweatshirt": "./assets/feminine-space-buns-sweatshirt.glb"
+    },
+    "twin-braids": {
+      "bandeau": "./assets/feminine-twin-braids-bandeau.glb",
+      "triangle": "./assets/feminine-twin-braids-triangle.glb",
+      "strappy": "./assets/feminine-twin-braids-strappy.glb",
+      "tshirt": "./assets/feminine-twin-braids-tshirt.glb",
+      "jersey": "./assets/feminine-twin-braids-jersey.glb",
+      "open": "./assets/feminine-twin-braids-open.glb",
+      "tank": "./assets/feminine-twin-braids-tank.glb",
+      "sweatshirt": "./assets/feminine-twin-braids-sweatshirt.glb"
+    },
+    "box-braids": {
+      "bandeau": "./assets/feminine-box-braids-bandeau.glb",
+      "triangle": "./assets/feminine-box-braids-triangle.glb",
+      "strappy": "./assets/feminine-box-braids-strappy.glb",
+      "tshirt": "./assets/feminine-box-braids-tshirt.glb",
+      "jersey": "./assets/feminine-box-braids-jersey.glb",
+      "open": "./assets/feminine-box-braids-open.glb",
+      "tank": "./assets/feminine-box-braids-tank.glb",
+      "sweatshirt": "./assets/feminine-box-braids-sweatshirt.glb"
+    }
+  },
+  "Masculine": {
+    "sidepart": {
+      "shirtless": "./assets/masculine-sidepart-shirtless.glb",
+      "tank": "./assets/masculine-sidepart-tank.glb",
+      "tshirt": "./assets/masculine-sidepart-tshirt.glb",
+      "jersey": "./assets/masculine-sidepart-jersey.glb",
+      "buttonup": "./assets/masculine-sidepart-buttonup.glb",
+      "sweatshirt": "./assets/masculine-sidepart-sweatshirt.glb"
+    },
+    "taper": {
+      "shirtless": "./assets/masculine-taper-shirtless.glb",
+      "tank": "./assets/masculine-taper-tank.glb",
+      "tshirt": "./assets/masculine-taper-tshirt.glb",
+      "jersey": "./assets/masculine-taper-jersey.glb",
+      "buttonup": "./assets/masculine-taper-buttonup.glb",
+      "sweatshirt": "./assets/masculine-taper-sweatshirt.glb"
+    },
+    "buzz": {
+      "shirtless": "./assets/masculine-buzz-shirtless.glb",
+      "tank": "./assets/masculine-buzz-tank.glb",
+      "tshirt": "./assets/masculine-buzz-tshirt.glb",
+      "jersey": "./assets/masculine-buzz-jersey.glb",
+      "buttonup": "./assets/masculine-buzz-buttonup.glb",
+      "sweatshirt": "./assets/masculine-buzz-sweatshirt.glb"
+    },
+    "curly-top": {
+      "shirtless": "./assets/masculine-curly-top-shirtless.glb",
+      "tank": "./assets/masculine-curly-top-tank.glb",
+      "tshirt": "./assets/masculine-curly-top-tshirt.glb",
+      "jersey": "./assets/masculine-curly-top-jersey.glb",
+      "buttonup": "./assets/masculine-curly-top-buttonup.glb",
+      "sweatshirt": "./assets/masculine-curly-top-sweatshirt.glb"
+    },
+    "afro": {
+      "shirtless": "./assets/masculine-afro-shirtless.glb",
+      "tank": "./assets/masculine-afro-tank.glb",
+      "tshirt": "./assets/masculine-afro-tshirt.glb",
+      "jersey": "./assets/masculine-afro-jersey.glb",
+      "buttonup": "./assets/masculine-afro-buttonup.glb",
+      "sweatshirt": "./assets/masculine-afro-sweatshirt.glb"
+    },
+    "flow": {
+      "shirtless": "./assets/masculine-flow-shirtless.glb",
+      "tank": "./assets/masculine-flow-tank.glb",
+      "tshirt": "./assets/masculine-flow-tshirt.glb",
+      "jersey": "./assets/masculine-flow-jersey.glb",
+      "buttonup": "./assets/masculine-flow-buttonup.glb",
+      "sweatshirt": "./assets/masculine-flow-sweatshirt.glb"
+    },
+    "locs": {
+      "shirtless": "./assets/masculine-locs-shirtless.glb",
+      "tank": "./assets/masculine-locs-tank.glb",
+      "tshirt": "./assets/masculine-locs-tshirt.glb",
+      "jersey": "./assets/masculine-locs-jersey.glb",
+      "buttonup": "./assets/masculine-locs-buttonup.glb",
+      "sweatshirt": "./assets/masculine-locs-sweatshirt.glb"
+    },
+    "middle-part": {
+      "shirtless": "./assets/masculine-middle-part-shirtless.glb",
+      "tank": "./assets/masculine-middle-part-tank.glb",
+      "tshirt": "./assets/masculine-middle-part-tshirt.glb",
+      "jersey": "./assets/masculine-middle-part-jersey.glb",
+      "buttonup": "./assets/masculine-middle-part-buttonup.glb",
+      "sweatshirt": "./assets/masculine-middle-part-sweatshirt.glb"
+    }
+  }
+}
