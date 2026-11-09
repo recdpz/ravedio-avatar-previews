@@ -1,0 +1,352 @@
+{
+  "hats": {
+    "Feminine/bob": {
+      "meanHemChange": -0.02322,
+      "meanCuffChange": -0.02774,
+      "minCuffChange": -0.048
+    },
+    "Feminine/ponytail": {
+      "meanHemChange": -0.0297,
+      "meanCuffChange": -0.03422,
+      "minCuffChange": -0.048
+    },
+    "Feminine/straight": {
+      "meanHemChange": -0.02419,
+      "meanCuffChange": -0.02871,
+      "minCuffChange": -0.048
+    },
+    "Feminine/curls": {
+      "meanHemChange": -0.02054,
+      "meanCuffChange": -0.02506,
+      "minCuffChange": -0.048
+    },
+    "Feminine/side-sweep": {
+      "meanHemChange": -0.02574,
+      "meanCuffChange": -0.03027,
+      "minCuffChange": -0.048
+    },
+    "Feminine/space-buns": {
+      "meanHemChange": -0.02643,
+      "meanCuffChange": -0.03102,
+      "minCuffChange": -0.048
+    },
+    "Feminine/twin-braids": {
+      "meanHemChange": -0.0226,
+      "meanCuffChange": -0.02719,
+      "minCuffChange": -0.048
+    },
+    "Feminine/box-braids": {
+      "meanHemChange": -0.02221,
+      "meanCuffChange": -0.02684,
+      "minCuffChange": -0.048
+    },
+    "Masculine/sidepart": {
+      "meanHemChange": -0.02947,
+      "meanCuffChange": -0.03399,
+      "minCuffChange": -0.048
+    },
+    "Masculine/taper": {
+      "meanHemChange": -0.02996,
+      "meanCuffChange": -0.03448,
+      "minCuffChange": -0.048
+    },
+    "Masculine/buzz": {
+      "meanHemChange": -0.02729,
+      "meanCuffChange": -0.03181,
+      "minCuffChange": -0.048
+    },
+    "Masculine/curly-top": {
+      "meanHemChange": -0.02996,
+      "meanCuffChange": -0.03448,
+      "minCuffChange": -0.048
+    },
+    "Masculine/afro": {
+      "meanHemChange": -0.02568,
+      "meanCuffChange": -0.0302,
+      "minCuffChange": -0.048
+    },
+    "Masculine/flow": {
+      "meanHemChange": -0.01719,
+      "meanCuffChange": -0.02173,
+      "minCuffChange": -0.048
+    },
+    "Masculine/locs": {
+      "meanHemChange": -0.01633,
+      "meanCuffChange": -0.02086,
+      "minCuffChange": -0.048
+    },
+    "Masculine/middle-part": {
+      "meanHemChange": -0.0227,
+      "meanCuffChange": -0.02749,
+      "minCuffChange": -0.048
+    }
+  },
+  "braids": {
+    "none/bandeau/default": {
+      "strength": 1.0,
+      "shoulderEase": 0.0
+    },
+    "none/bandeau/ombre": {
+      "strength": 1.0,
+      "shoulderEase": 0.0
+    },
+    "none/triangle/default": {
+      "strength": 1.0,
+      "shoulderEase": 0.0
+    },
+    "none/triangle/ombre": {
+      "strength": 1.0,
+      "shoulderEase": 0.0
+    },
+    "none/strappy/default": {
+      "strength": 1.0,
+      "shoulderEase": 0.0
+    },
+    "none/strappy/ombre": {
+      "strength": 1.0,
+      "shoulderEase": 0.0
+    },
+    "none/tshirt/default": {
+      "strength": 1.0,
+      "shoulderEase": 0.0
+    },
+    "none/tshirt/ombre": {
+      "strength": 1.0,
+      "shoulderEase": 0.0
+    },
+    "none/jersey/default": {
+      "strength": 1.0,
+      "shoulderEase": 0.0
+    },
+    "none/jersey/ombre": {
+      "strength": 1.0,
+      "shoulderEase": 0.0
+    },
+    "none/open/default": {
+      "strength": 1.0,
+      "shoulderEase": 0.0
+    },
+    "none/open/ombre": {
+      "strength": 1.0,
+      "shoulderEase": 0.0
+    },
+    "none/tank/default": {
+      "strength": 1.0,
+      "shoulderEase": 0.0
+    },
+    "none/tank/ombre": {
+      "strength": 1.0,
+      "shoulderEase": 0.0
+    },
+    "none/sweatshirt/default": {
+      "strength": 1.0,
+      "shoulderEase": 0.0
+    },
+    "none/sweatshirt/ombre": {
+      "strength": 1.0,
+      "shoulderEase": 0.0
+    }
+  },
+  "assets": {
+    "beanie-feminine-bob.glb": {
+      "bytes": 1101476,
+      "sha256": "1742b2a4cfbed9a488754282fd368b4dc2bc65bca02129c3e93caa99873c1691"
+    },
+    "beanie-feminine-box-braids.glb": {
+      "bytes": 1101476,
+      "sha256": "2d7177f85c03c712241311ad48388bc703c0299201330443286323bd83f83b2a"
+    },
+    "beanie-feminine-curls.glb": {
+      "bytes": 1101476,
+      "sha256": "74b764c188cc7321de72bd23be684d1c49c8383f7d1918d415ed0c8769b3342b"
+    },
+    "beanie-feminine-ponytail.glb": {
+      "bytes": 1101476,
+      "sha256": "c8048a0e9b3eaf5c627eb74b30b6cd23d6f24583d07520c62fb726dc9cc68e03"
+    },
+    "beanie-feminine-side-sweep.glb": {
+      "bytes": 1101476,
+      "sha256": "fea501b7f295617b8f99772a8c9478574a295a3b2d4fdde9c6913720be7f1398"
+    },
+    "beanie-feminine-space-buns.glb": {
+      "bytes": 1101476,
+      "sha256": "b8d8f14495b6bc2712ae2eef15b3081c516ce855dbd0544d6387f074ff441c1f"
+    },
+    "beanie-feminine-straight.glb": {
+      "bytes": 1101476,
+      "sha256": "73b9b0b4a19111095996527ad25202ef75287adfb7e61f20a9f68ff5ba5bc503"
+    },
+    "beanie-feminine-twin-braids.glb": {
+      "bytes": 1101476,
+      "sha256": "d0a98653df1c9b16aa5fb4d267a2e871ff9e408431d5752433b8563328cf7950"
+    },
+    "beanie-masculine-afro.glb": {
+      "bytes": 1101480,
+      "sha256": "11f1181cf5e8acbe902fd204209e9af9d8b793bd8fe5cd852cc5099cc1d9a10e"
+    },
+    "beanie-masculine-buzz.glb": {
+      "bytes": 1101476,
+      "sha256": "e9dc130c9d83b9716ecfe1851414c254d5f215f1e87e6ed95386934a9beae690"
+    },
+    "beanie-masculine-curly-top.glb": {
+      "bytes": 1101476,
+      "sha256": "4398c3437b36deade61947b6fc857458ccd029958a00eeae8c3d95bb5fd1fd6b"
+    },
+    "beanie-masculine-flow.glb": {
+      "bytes": 1101476,
+      "sha256": "f87974a38e65da0896b108bee959145c4eb1c8fdf0977e07a2f1346ffa892f53"
+    },
+    "beanie-masculine-locs.glb": {
+      "bytes": 1101476,
+      "sha256": "c684ecd7f32e6699fe0f8df6f28ca489f2d21ff2e2939d9632f57d32e899b6b0"
+    },
+    "beanie-masculine-middle-part.glb": {
+      "bytes": 1101476,
+      "sha256": "c46ebdd6e49dfe73d025cd7a3f17f893e545e6218489a8d0ad6070da1ffd82eb"
+    },
+    "beanie-masculine-sidepart.glb": {
+      "bytes": 1101476,
+      "sha256": "edfe8c6f1a7196500783e7393a263ad681238d83fb1e4e16302673cf2f1c54f1"
+    },
+    "beanie-masculine-taper.glb": {
+      "bytes": 1101476,
+      "sha256": "7880f57dc7c40f1760d493c1a32b86ac01a5a7704ac4135fb5ec0da7d0ce694c"
+    },
+    "beanie-sprout-feminine-bob.glb": {
+      "bytes": 152404,
+      "sha256": "2067aa16e267d453c7045b67284e03bc1277324f59676594ea252c9e187acc7b"
+    },
+    "beanie-sprout-feminine-box-braids.glb": {
+      "bytes": 152432,
+      "sha256": "9d51964c3190d5a8fc11d57ce69e4159695227843d42aa400ea1364902b384b2"
+    },
+    "beanie-sprout-feminine-curls.glb": {
+      "bytes": 152408,
+      "sha256": "88c36c410cc2ffa603fbbdc0a317c9b77497a8c063a3d88d882fab82c58ce098"
+    },
+    "beanie-sprout-feminine-ponytail.glb": {
+      "bytes": 152412,
+      "sha256": "22285f25a9345b57c10296bec29803d12ba0b78b4f2a407925486b3bd3aa7a6c"
+    },
+    "beanie-sprout-feminine-side-sweep.glb": {
+      "bytes": 152412,
+      "sha256": "f8305e8e4c550162e1732e782ca57a70feae8df6d6168e8eb4d5ae9b110dbc22"
+    },
+    "beanie-sprout-feminine-space-buns.glb": {
+      "bytes": 152412,
+      "sha256": "24a3b211cb01a140552ed9246072c4f8b25a2a65bb72e2156154d73711a4f1d9"
+    },
+    "beanie-sprout-feminine-straight.glb": {
+      "bytes": 152412,
+      "sha256": "2c8e3356085e2faa74a4d410c9157fd9429e81da31643ea0c7c581da51774bd2"
+    },
+    "beanie-sprout-feminine-twin-braids.glb": {
+      "bytes": 152412,
+      "sha256": "a30e75e25296e52cba11fa25f55f84eb9434ccd555303d942d9b5d4f157bf862"
+    },
+    "beanie-sprout-masculine-afro.glb": {
+      "bytes": 150288,
+      "sha256": "a5d2df36dfaff4e828676b972341d5e762db11e46575eff9fc69b1e61c196042"
+    },
+    "beanie-sprout-masculine-buzz.glb": {
+      "bytes": 150268,
+      "sha256": "eef2915621634bd973000658debda26e48de5192cfc8c4dd8e6805eaa93966fe"
+    },
+    "beanie-sprout-masculine-curly-top.glb": {
+      "bytes": 150276,
+      "sha256": "cd904d9fcdf263b5a4424f5ab79fc7dc5cdcb8f525ec94eb1021e84523190806"
+    },
+    "beanie-sprout-masculine-flow.glb": {
+      "bytes": 150252,
+      "sha256": "86645ab94afd1d953bc84d6476327ffce5e4525c535b44d6d8fbda3a96672594"
+    },
+    "beanie-sprout-masculine-locs.glb": {
+      "bytes": 150288,
+      "sha256": "4ba24c02427b258d483910745e1cea681911aaa87a1fd534c12099ebfea2477a"
+    },
+    "beanie-sprout-masculine-middle-part.glb": {
+      "bytes": 150260,
+      "sha256": "e16c2c7b83f4b119fdaf1aed19a62afa3498bdd756368fc31855f9febd958e4b"
+    },
+    "beanie-sprout-masculine-sidepart.glb": {
+      "bytes": 150272,
+      "sha256": "483d68b8c7a504b566cd2282859c9c354fe741a3adc11e7cfad10530767154f0"
+    },
+    "beanie-sprout-masculine-taper.glb": {
+      "bytes": 150272,
+      "sha256": "280ac4f9ef12f4647c461b1a761d89f70938e760efb915cb3adc93d4bf474d1a"
+    },
+    "ponytail-cuff-default.glb": {
+      "bytes": 1759360,
+      "sha256": "d20ae910a7aefd970c140a94c9a3cddef20e8f9e1ce373e65b07bb6020a8bc80"
+    },
+    "ponytail-cuff-ombre.glb": {
+      "bytes": 2314888,
+      "sha256": "74d00f3f3a87bcc62a458f7953b290398adc3f95b5108cde710f6b3a3ac31173"
+    },
+    "twins-none-bandeau-default.glb": {
+      "bytes": 324992,
+      "sha256": "3d322ce5210715c3562645a1226b9f1ae21f60d1548f1baff0f978380fb7d086"
+    },
+    "twins-none-bandeau-ombre.glb": {
+      "bytes": 549044,
+      "sha256": "3c19dc9243ade48b4c7b3c56b1cd0d5ece47ec49d9dc97fffc8fcef328591cd1"
+    },
+    "twins-none-jersey-default.glb": {
+      "bytes": 324992,
+      "sha256": "c2373bc4b0edf439352fcad1d133d5b7f8a98de64743a6a2f0a48eafd7c3edbf"
+    },
+    "twins-none-jersey-ombre.glb": {
+      "bytes": 549044,
+      "sha256": "26539b4078ce59ca1918a17b6713a848f3a3f37f56b3c93c326ada6eec223ff4"
+    },
+    "twins-none-open-default.glb": {
+      "bytes": 324996,
+      "sha256": "50812c949a0c0fda64570e86313441d7f444cacd0ebfcecb0dac09519717527c"
+    },
+    "twins-none-open-ombre.glb": {
+      "bytes": 549048,
+      "sha256": "522d0cc82ae08b8aba99c611c84939d6b66cfb7cf786f9675b461062f2dca751"
+    },
+    "twins-none-strappy-default.glb": {
+      "bytes": 324992,
+      "sha256": "32b544eded3160d6b78a5b86eee6914f94343d9a2ec9051068fa6511552260d5"
+    },
+    "twins-none-strappy-ombre.glb": {
+      "bytes": 549044,
+      "sha256": "936c1c9939e8ea81cd4203c2d08485f3da7e17dfe7db3cdfc14a8f225c98ec0c"
+    },
+    "twins-none-sweatshirt-default.glb": {
+      "bytes": 324992,
+      "sha256": "9f501272db94d1e03392d92063832fb62058f2fc9fee0e6a2e78c09e079d4009"
+    },
+    "twins-none-sweatshirt-ombre.glb": {
+      "bytes": 549044,
+      "sha256": "7c0859684d91c9364baf78ac24c63b38ce0967da1bb40568a0b6670ce554f92e"
+    },
+    "twins-none-tank-default.glb": {
+      "bytes": 324996,
+      "sha256": "83bc147ccfd1a0a8e6950f99968aef4bedebae125b9222b4c9da73974639a055"
+    },
+    "twins-none-tank-ombre.glb": {
+      "bytes": 549048,
+      "sha256": "e11476c9903873ba99d2b6b846d8f0a1c61ad0eac81cf94584dbf1d6b96afdc8"
+    },
+    "twins-none-triangle-default.glb": {
+      "bytes": 324996,
+      "sha256": "72ebdaa56ecacf1e2e55624eebd77b63a79aae53a16b783affea0f13fd3b6bcd"
+    },
+    "twins-none-triangle-ombre.glb": {
+      "bytes": 549048,
+      "sha256": "a556e6c0728f10053b9498b960b116ac597280ae006118076506b5c5819a4ffb"
+    },
+    "twins-none-tshirt-default.glb": {
+      "bytes": 324996,
+      "sha256": "1e9020a333bd7387e75c9e4f9b08cdeb42847ab2f038181fa9136af948617dd3"
+    },
+    "twins-none-tshirt-ombre.glb": {
+      "bytes": 549048,
+      "sha256": "d4e54d4a346317109fc6b56f825b2d25d86223c90d7ec3f93008e3a93a3f035c"
+    }
+  }
+}
