@@ -1,0 +1,472 @@
+{
+  "Feminine": {
+    "space-buns": {
+      "label": "Space Buns",
+      "note": "Half-up buns with loose waves behind the shoulders.",
+      "fits": {
+        "none": {
+          "default": "../276/assets/space-buns-none.glb",
+          "ombre": "../276/assets/space-buns-none-ombre.glb"
+        },
+        "cap": {
+          "default": "../276/assets/space-buns-cap.glb",
+          "ombre": "../276/assets/space-buns-cap-ombre.glb"
+        },
+        "beanie": {
+          "default": "../276/assets/space-buns-beanie.glb",
+          "ombre": "../276/assets/space-buns-beanie-ombre.glb"
+        },
+        "bucket": {
+          "default": "../276/assets/space-buns-bucket.glb",
+          "ombre": "../276/assets/space-buns-bucket-ombre.glb"
+        },
+        "cowboy": {
+          "default": "../276/assets/space-buns-cowboy.glb",
+          "ombre": "../276/assets/space-buns-cowboy-ombre.glb"
+        },
+        "headband": {
+          "default": "../276/assets/space-buns-headband.glb",
+          "ombre": "../276/assets/space-buns-headband-ombre.glb"
+        },
+        "ears": {
+          "default": "../276/assets/space-buns-ears.glb",
+          "ombre": "../276/assets/space-buns-ears-ombre.glb"
+        },
+        "pashmina": {
+          "default": "../296/assets/feminine-space-buns-pashmina-default.glb",
+          "ombre": "../296/assets/feminine-space-buns-pashmina-ombre.glb"
+        }
+      }
+    },
+    "side-sweep": {
+      "label": "Long Bangs",
+      "note": "Rounded bangs with longer, separated layers behind the shoulders.",
+      "fits": {
+        "none": {
+          "default": "../293/assets/long-none.glb",
+          "ombre": "../293/assets/long-none-ombre.glb"
+        },
+        "cap": {
+          "default": "../293/assets/long-cap.glb",
+          "ombre": "../293/assets/long-cap-ombre.glb"
+        },
+        "beanie": {
+          "default": "../293/assets/long-beanie.glb",
+          "ombre": "../293/assets/long-beanie-ombre.glb"
+        },
+        "bucket": {
+          "default": "../293/assets/long-bucket.glb",
+          "ombre": "../293/assets/long-bucket-ombre.glb"
+        },
+        "cowboy": {
+          "default": "../293/assets/long-cowboy.glb",
+          "ombre": "../293/assets/long-cowboy-ombre.glb"
+        },
+        "headband": {
+          "default": "../293/assets/long-headband.glb",
+          "ombre": "../293/assets/long-headband-ombre.glb"
+        },
+        "ears": {
+          "default": "../293/assets/long-ears.glb",
+          "ombre": "../293/assets/long-ears-ombre.glb"
+        },
+        "pashmina": {
+          "default": "../296/assets/feminine-side-sweep-pashmina-default.glb",
+          "ombre": "../296/assets/feminine-side-sweep-pashmina-ombre.glb"
+        }
+      }
+    },
+    "bob": {
+      "label": "Bob",
+      "note": "Jaw-length layers with soft face framing.",
+      "fits": {
+        "none": {
+          "default": "../298/assets/bob-none-default.glb",
+          "ombre": "../298/assets/bob-none-ombre.glb"
+        },
+        "cap": {
+          "default": "../298/assets/bob-cap-default.glb",
+          "ombre": "../298/assets/bob-cap-ombre.glb"
+        },
+        "beanie": {
+          "default": "../298/assets/bob-cap-default.glb",
+          "ombre": "../298/assets/bob-cap-ombre.glb"
+        },
+        "bucket": {
+          "default": "../298/assets/bob-bucket-default.glb",
+          "ombre": "../298/assets/bob-bucket-ombre.glb"
+        },
+        "cowboy": {
+          "default": "../298/assets/bob-cap-default.glb",
+          "ombre": "../298/assets/bob-cap-ombre.glb"
+        },
+        "headband": {
+          "default": "../298/assets/bob-none-default.glb",
+          "ombre": "../298/assets/bob-none-ombre.glb"
+        },
+        "ears": {
+          "default": "../298/assets/bob-none-default.glb",
+          "ombre": "../298/assets/bob-none-ombre.glb"
+        },
+        "pashmina": {
+          "default": "../300/assets/bob-covered-default.glb",
+          "ombre": "../300/assets/bob-covered-ombre.glb"
+        }
+      }
+    },
+    "straight": {
+      "label": "Straight",
+      "note": "Straight lengths with a soft inward taper at the ends.",
+      "fits": {
+        "none": {
+          "default": "../297/assets/straight-none-default.glb",
+          "ombre": "../297/assets/straight-none-ombre.glb"
+        },
+        "cap": {
+          "default": "../297/assets/straight-cap-default.glb",
+          "ombre": "../297/assets/straight-cap-ombre.glb"
+        },
+        "beanie": {
+          "default": "../297/assets/straight-beanie-default.glb",
+          "ombre": "../297/assets/straight-beanie-ombre.glb"
+        },
+        "bucket": {
+          "default": "../297/assets/straight-bucket-default.glb",
+          "ombre": "../297/assets/straight-bucket-ombre.glb"
+        },
+        "cowboy": {
+          "default": "../297/assets/straight-beanie-default.glb",
+          "ombre": "../297/assets/straight-beanie-ombre.glb"
+        },
+        "headband": {
+          "default": "../297/assets/straight-none-default.glb",
+          "ombre": "../297/assets/straight-none-ombre.glb"
+        },
+        "ears": {
+          "default": "../297/assets/straight-ears-default.glb",
+          "ombre": "../297/assets/straight-ears-ombre.glb"
+        },
+        "pashmina": {
+          "default": "../300/assets/straight-covered-default.glb",
+          "ombre": "../300/assets/straight-covered-ombre.glb"
+        }
+      }
+    },
+    "curls": {
+      "label": "Curls",
+      "note": "Sculpted curls with rounded turns from the temples down.",
+      "fits": {
+        "none": {
+          "default": "../298/assets/curls-none-default.glb",
+          "ombre": "../298/assets/curls-none-ombre.glb"
+        },
+        "cap": {
+          "default": "../298/assets/curls-cap-default.glb",
+          "ombre": "../298/assets/curls-cap-ombre.glb"
+        },
+        "beanie": {
+          "default": "../298/assets/curls-beanie-default.glb",
+          "ombre": "../298/assets/curls-beanie-ombre.glb"
+        },
+        "bucket": {
+          "default": "../298/assets/curls-bucket-default.glb",
+          "ombre": "../298/assets/curls-bucket-ombre.glb"
+        },
+        "cowboy": {
+          "default": "../298/assets/curls-beanie-default.glb",
+          "ombre": "../298/assets/curls-beanie-ombre.glb"
+        },
+        "headband": {
+          "default": "../298/assets/curls-headband-default.glb",
+          "ombre": "../298/assets/curls-headband-ombre.glb"
+        },
+        "ears": {
+          "default": "../298/assets/curls-ears-default.glb",
+          "ombre": "../298/assets/curls-ears-ombre.glb"
+        },
+        "pashmina": {
+          "default": "../300/assets/curls-covered-default.glb",
+          "ombre": "../300/assets/curls-covered-ombre.glb"
+        }
+      }
+    },
+    "box-braids": {
+      "label": "Box braids",
+      "note": "Woven braids with a closer, softer rear fall.",
+      "fits": {
+        "none": {
+          "default": "../304/assets/box-braids-none-default.glb",
+          "ombre": "../304/assets/box-braids-none-ombre.glb"
+        },
+        "cap": {
+          "default": "../298/assets/box-braids-cap-default.glb",
+          "ombre": "../298/assets/box-braids-cap-ombre.glb"
+        },
+        "beanie": {
+          "default": "../298/assets/box-braids-cap-default.glb",
+          "ombre": "../298/assets/box-braids-cap-ombre.glb"
+        },
+        "bucket": {
+          "default": "../298/assets/box-braids-bucket-default.glb",
+          "ombre": "../298/assets/box-braids-bucket-ombre.glb"
+        },
+        "cowboy": {
+          "default": "../298/assets/box-braids-cap-default.glb",
+          "ombre": "../298/assets/box-braids-cap-ombre.glb"
+        },
+        "headband": {
+          "default": "../298/assets/box-braids-none-default.glb",
+          "ombre": "../298/assets/box-braids-none-ombre.glb"
+        },
+        "ears": {
+          "default": "../298/assets/box-braids-none-default.glb",
+          "ombre": "../298/assets/box-braids-none-ombre.glb"
+        },
+        "pashmina": {
+          "default": "../304/assets/box-braids-pashmina-default.glb",
+          "ombre": "../304/assets/box-braids-pashmina-ombre.glb"
+        }
+      }
+    },
+    "ponytail": {
+      "label": "Ponytail",
+      "note": "",
+      "fits": {
+        "pashmina": {
+          "default": "../301/assets/9e4fbe795fd06a108d-hair.glb",
+          "ombre": "../304/assets/ponytail-pashmina-ombre.glb"
+        },
+        "none": {
+          "ombre": "../304/assets/ponytail-none-ombre.glb",
+          "default": "../301/assets/5719a620541f67df18-hair.glb"
+        },
+        "cap": {
+          "ombre": "../304/assets/ponytail-cap-ombre.glb",
+          "default": "../301/assets/4afca1f5949d407b41-hair.glb"
+        },
+        "beanie": {
+          "ombre": "./assets/ponytail-beanie-crown-ombre.glb",
+          "default": "./assets/ponytail-beanie-crown-default.glb",
+          "lengths": {
+            "bandeau": {
+              "default": "./assets/ponytail-beanie-tail-default.glb",
+              "ombre": "./assets/ponytail-beanie-tail-ombre.glb"
+            },
+            "triangle": {
+              "default": "./assets/ponytail-beanie-tail-default.glb",
+              "ombre": "./assets/ponytail-beanie-tail-ombre.glb"
+            },
+            "strappy": {
+              "default": "./assets/ponytail-beanie-tail-default.glb",
+              "ombre": "./assets/ponytail-beanie-tail-ombre.glb"
+            },
+            "tshirt": {
+              "default": "./assets/ponytail-beanie-tail-default.glb",
+              "ombre": "./assets/ponytail-beanie-tail-ombre.glb"
+            },
+            "jersey": {
+              "default": "./assets/ponytail-beanie-tail-default.glb",
+              "ombre": "./assets/ponytail-beanie-tail-ombre.glb"
+            },
+            "open": {
+              "default": "./assets/ponytail-beanie-tail-default.glb",
+              "ombre": "./assets/ponytail-beanie-tail-ombre.glb"
+            },
+            "tank": {
+              "default": "./assets/ponytail-beanie-tail-default.glb",
+              "ombre": "./assets/ponytail-beanie-tail-ombre.glb"
+            },
+            "sweatshirt": {
+              "default": "./assets/ponytail-beanie-tail-default.glb",
+              "ombre": "./assets/ponytail-beanie-tail-ombre.glb"
+            }
+          }
+        },
+        "bucket": {
+          "ombre": "../304/assets/ponytail-bucket-ombre.glb",
+          "default": "../301/assets/a656b4ed03fcd1637f-hair.glb"
+        },
+        "cowboy": {
+          "ombre": "../304/assets/ponytail-cowboy-ombre.glb",
+          "default": "../301/assets/831c98494e158d8275-hair.glb"
+        },
+        "headband": {
+          "ombre": "../304/assets/ponytail-headband-ombre.glb",
+          "default": "../302/assets/ponytail-default.glb"
+        },
+        "ears": {
+          "ombre": "../304/assets/ponytail-ears-ombre.glb",
+          "default": "../301/assets/5719a620541f67df18-hair.glb"
+        }
+      }
+    },
+    "twin-braids": {
+      "label": "Twin braids",
+      "note": "Twin plaits settle over the shoulders and turn around the lower pashmina edge.",
+      "fits": {
+        "pashmina": {
+          "default": "../301/assets/7924688e4975cbfea7-hair.glb",
+          "ombre": "../296/assets/feminine-twin-braids-pashmina-ombre.glb",
+          "lengths": {
+            "bandeau": {
+              "default": "./assets/twins-pashmina-bandeau-default.glb",
+              "ombre": "./assets/twins-pashmina-bandeau-ombre.glb"
+            },
+            "triangle": {
+              "default": "./assets/twins-pashmina-triangle-default.glb",
+              "ombre": "./assets/twins-pashmina-triangle-ombre.glb"
+            },
+            "strappy": {
+              "default": "./assets/twins-pashmina-strappy-default.glb",
+              "ombre": "./assets/twins-pashmina-strappy-ombre.glb"
+            },
+            "tshirt": {
+              "default": "./assets/twins-pashmina-tshirt-default.glb",
+              "ombre": "./assets/twins-pashmina-tshirt-ombre.glb"
+            },
+            "jersey": {
+              "default": "./assets/twins-pashmina-jersey-default.glb",
+              "ombre": "./assets/twins-pashmina-jersey-ombre.glb"
+            },
+            "open": {
+              "default": "./assets/twins-pashmina-open-default.glb",
+              "ombre": "./assets/twins-pashmina-open-ombre.glb"
+            },
+            "tank": {
+              "default": "./assets/twins-pashmina-tank-default.glb",
+              "ombre": "./assets/twins-pashmina-tank-ombre.glb"
+            },
+            "sweatshirt": {
+              "default": "./assets/twins-pashmina-sweatshirt-default.glb",
+              "ombre": "./assets/twins-pashmina-sweatshirt-ombre.glb"
+            }
+          }
+        },
+        "none": {
+          "lengths": {
+            "bandeau": {
+              "default": "./assets/twins-none-bandeau-default.glb",
+              "ombre": "./assets/twins-none-bandeau-ombre.glb"
+            },
+            "triangle": {
+              "default": "./assets/twins-none-triangle-default.glb",
+              "ombre": "./assets/twins-none-triangle-ombre.glb"
+            },
+            "strappy": {
+              "default": "./assets/twins-none-strappy-default.glb",
+              "ombre": "./assets/twins-none-strappy-ombre.glb"
+            },
+            "tshirt": {
+              "default": "./assets/twins-none-tshirt-default.glb",
+              "ombre": "./assets/twins-none-tshirt-ombre.glb"
+            },
+            "jersey": {
+              "default": "./assets/twins-none-jersey-default.glb",
+              "ombre": "./assets/twins-none-jersey-ombre.glb"
+            },
+            "open": {
+              "default": "./assets/twins-none-open-default.glb",
+              "ombre": "./assets/twins-none-open-ombre.glb"
+            },
+            "tank": {
+              "default": "./assets/twins-none-tank-default.glb",
+              "ombre": "./assets/twins-none-tank-ombre.glb"
+            },
+            "sweatshirt": {
+              "default": "./assets/twins-none-sweatshirt-default.glb",
+              "ombre": "./assets/twins-none-sweatshirt-ombre.glb"
+            }
+          },
+          "default": "../301/assets/f8438a5394ee50b0b5-hair.glb",
+          "ombre": "../270/generated/6aa77355a126788d411f6ccd-braid.glb"
+        }
+      }
+    }
+  },
+  "Masculine": {
+    "flow": {
+      "label": "Flow",
+      "note": "Layered side flow with a covered cap fit.",
+      "fits": {
+        "cap": {
+          "default": "../294/assets/flow-cap-default.glb",
+          "ombre": "../294/assets/flow-cap-ombre.glb"
+        },
+        "pashmina": {
+          "default": "../296/assets/masculine-flow-pashmina-default.glb",
+          "ombre": "../296/assets/masculine-flow-pashmina-ombre.glb"
+        }
+      }
+    },
+    "sidepart": {
+      "label": "Crop",
+      "note": "Crop: crown-to-front flow with slight diagonal drift, varied rounded fringe clumps and shorter sides.",
+      "fits": {
+        "pashmina": {
+          "default": "../296/assets/masculine-sidepart-pashmina-default.glb",
+          "ombre": "../296/assets/masculine-sidepart-pashmina-ombre.glb"
+        }
+      }
+    },
+    "taper": {
+      "label": "Taper",
+      "note": "Shorter rounded side banks; upper sweep retained. Curved directional fade detail uses214 as the reference.",
+      "fits": {
+        "pashmina": {
+          "default": "../296/assets/masculine-taper-pashmina-default.glb",
+          "ombre": "../296/assets/masculine-taper-pashmina-ombre.glb"
+        }
+      }
+    },
+    "buzz": {
+      "label": "Buzz",
+      "note": "Near-bald close cut with a clean, bounded hairline and dense fine surface texture.",
+      "fits": {
+        "pashmina": {
+          "default": "../296/assets/masculine-buzz-pashmina-default.glb",
+          "ombre": "../296/assets/masculine-buzz-pashmina-ombre.glb"
+        }
+      }
+    },
+    "curly-top": {
+      "label": "Curly top",
+      "note": "Retained curly crown with the same curved directional side treatment as Taper.",
+      "fits": {
+        "pashmina": {
+          "default": "../296/assets/masculine-curly-top-pashmina-default.glb",
+          "ombre": "../296/assets/masculine-curly-top-pashmina-ombre.glb"
+        }
+      }
+    },
+    "afro": {
+      "label": "Afro",
+      "note": "Slightly lower crown; width and lower coverage retained.",
+      "fits": {
+        "pashmina": {
+          "default": "../296/assets/masculine-afro-pashmina-default.glb",
+          "ombre": "../296/assets/masculine-afro-pashmina-ombre.glb"
+        }
+      }
+    },
+    "locs": {
+      "label": "Locs",
+      "note": "Fuller mature loc sections with compact fiber relief and rounded ends.",
+      "fits": {
+        "pashmina": {
+          "default": "../296/assets/masculine-locs-pashmina-default.glb",
+          "ombre": "../296/assets/masculine-locs-pashmina-ombre.glb"
+        }
+      }
+    },
+    "middle-part": {
+      "label": "Middle part",
+      "note": "Continuous recessed scalp coverage; stray support edges removed.",
+      "fits": {
+        "pashmina": {
+          "default": "../296/assets/masculine-middle-part-pashmina-default.glb",
+          "ombre": "../296/assets/masculine-middle-part-pashmina-ombre.glb"
+        }
+      }
+    }
+  }
+}
