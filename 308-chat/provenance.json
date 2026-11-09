@@ -1,0 +1,22 @@
+{
+  "source": "Ravedio308-chat-portrait-review.zip",
+  "art_revision": 308,
+  "source_art_commit": "7298fc4",
+  "recipe_commit": "e32a6d569",
+  "source_manifest_sha256": "39a1a9bc5ea034b7782e22d00341fd019c797948b3a6a9ce129f5bd3b53e9a6d",
+  "published_portraits": 128,
+  "display": {
+    "angles_degrees": [
+      15,
+      20
+    ],
+    "pixels": [
+      48,
+      64
+    ],
+    "plates": {
+      "white": "#FFFFFF",
+      "cool": "#F1F4FA"
+    }
+  }
+}
