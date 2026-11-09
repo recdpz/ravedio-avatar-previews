@@ -1,0 +1,48 @@
+{
+  "pitch": -0.48,
+  "yaw": -0.1,
+  "elastic": [
+    -0.08533975315606272,
+    2.034785883585328,
+    -0.3298092519299805
+  ],
+  "knot": [
+    -0.07833975315606272,
+    1.955785883585328,
+    -0.382
+  ],
+  "scalp_attachment": 480,
+  "cloth_contacts": {
+    "triangular": {
+      "scalp": 0,
+      "tail": 0
+    },
+    "returning fold": {
+      "scalp": 0,
+      "tail": 0
+    },
+    "hanging end": {
+      "scalp": 0,
+      "tail": 0
+    },
+    "under-tail knot": {
+      "scalp": 0,
+      "tail": 0
+    }
+  },
+  "total_tail_contacts": 0,
+  "fabric_joins": {
+    "-1": {
+      "scarf_to_fold": 46,
+      "fold_to_knot": 86,
+      "knot_to_end": 106
+    },
+    "1": {
+      "scarf_to_fold": 52,
+      "fold_to_knot": 76,
+      "knot_to_end": 94
+    }
+  },
+  "sprout_shift": -0.007276638564728764,
+  "cloth_self_contact_pairs": 2
+}
