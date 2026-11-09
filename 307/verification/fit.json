@@ -1,0 +1,88 @@
+{
+  "browser_selections": 188,
+  "restored_box_braid_selections": 44,
+  "twin_braid_checks": {
+    "none": {
+      "selections": 16,
+      "lower_body_contacts": 0,
+      "top_contacts": 0,
+      "maximum_existing_hat_contacts": 0
+    },
+    "cap": {
+      "selections": 16,
+      "lower_body_contacts": 0,
+      "top_contacts": 0,
+      "maximum_existing_hat_contacts": 628
+    },
+    "beanie": {
+      "selections": 16,
+      "lower_body_contacts": 0,
+      "top_contacts": 0,
+      "maximum_existing_hat_contacts": 624
+    },
+    "bucket": {
+      "selections": 16,
+      "lower_body_contacts": 0,
+      "top_contacts": 0,
+      "maximum_existing_hat_contacts": 235
+    },
+    "cowboy": {
+      "selections": 16,
+      "lower_body_contacts": 0,
+      "top_contacts": 0,
+      "maximum_existing_hat_contacts": 8
+    },
+    "headband": {
+      "selections": 16,
+      "lower_body_contacts": 0,
+      "top_contacts": 0,
+      "maximum_existing_hat_contacts": 0
+    },
+    "ears": {
+      "selections": 16,
+      "lower_body_contacts": 0,
+      "top_contacts": 0,
+      "maximum_existing_hat_contacts": 0
+    },
+    "pashmina": {
+      "selections": 16,
+      "lower_body_contacts": 0,
+      "top_contacts": 0,
+      "maximum_existing_hat_contacts": 0
+    }
+  },
+  "asset_sha256": {
+    "twins-none-bandeau-default.glb": "9cb309ef750c7feb22dc601f90c411b079413f6e19bf3b768b49b438a9c5c93c",
+    "twins-none-triangle-default.glb": "de9dbfc3a4832cb939abc70ee135ada193ab2156ba90e3be250458c1cba74665",
+    "twins-none-strappy-default.glb": "bbadb86d4d22f3de73565b8c554b77475e661ea41fab2476b0fc7144a3254880",
+    "twins-none-tshirt-default.glb": "fab8485ba53389b73dffef94da4f405c5f6760e30c3155ee84a1748744002137",
+    "twins-none-jersey-default.glb": "7f200c0cf15235ed00de99ce751d9a1776765233ee49ef568e8a793795eb2789",
+    "twins-none-open-default.glb": "bd5b99e804d197d2321c47525964d73552559788b335129f6d3569251dfde818",
+    "twins-none-tank-default.glb": "4bbed862c8da1320aa26dcbd3ba8bbe27661a65e9da0e150fcccb5f9cdee684f",
+    "twins-none-sweatshirt-default.glb": "2749977b89e284df4d2d71f671dfb7287ec77d84ba230a1db1c62bf166ac822b",
+    "twins-none-bandeau-ombre.glb": "a65f72295f2bb3441713b5bd3f9ee6e276884b5401aba3b6a7e68f9786546f73",
+    "twins-none-triangle-ombre.glb": "8d370a09ad8bec328ef5edab30af2de9294048b0551de2f429a9c9352048b352",
+    "twins-none-strappy-ombre.glb": "be520e1a0fd5e78c1630bec2f5136d2b6e6450e1f1a03e3ea64b59b59e300a5e",
+    "twins-none-tshirt-ombre.glb": "d3706d5b82741938fdee996c1c41cec1fa49e3d5d80c47a75eaf8a04e42d1aac",
+    "twins-none-jersey-ombre.glb": "9a1ae287b29d16af96064ae17cbc5a8dd5c1ce81bec7090e7d45e7ac22e30900",
+    "twins-none-open-ombre.glb": "43bd574a836e1ce7303ea441a58b4950585266b5fcabdaad4ea040074f7fe1f6",
+    "twins-none-tank-ombre.glb": "0f7da2dce5e796c4d52f1f12a9f358b503f3db69143b222b95b1121eb9d1d9a2",
+    "twins-none-sweatshirt-ombre.glb": "a1358a60ffff466ebac659ee01d613e34eb92aaf77dcea2f8a0b32cf75617e3a",
+    "twins-pashmina-bandeau-default.glb": "65b489cc557481432c40db8d875ae7ed8aa267d4ddd9015d82a16fcb456a3daa",
+    "twins-pashmina-triangle-default.glb": "078f1834690c1b52d53829d0ccc4cd237834c92d903d50d098c170f259a198d3",
+    "twins-pashmina-strappy-default.glb": "749cdf7e7ca26df6b5ec3ede0e00a469efaed69a6c5665c0d25ebee31a1028f3",
+    "twins-pashmina-tshirt-default.glb": "751c1253a7ab49af6e9e53d0b388d31b9ff7ce634f71994e487400537e95f81b",
+    "twins-pashmina-jersey-default.glb": "94310bab9a690a0ff3b7544f0a9611c53a26e9f01232f53a7c77494257d2b760",
+    "twins-pashmina-open-default.glb": "b1b120fb3986fc9d39b97a250caa6bac46e4307fb95f8f406a0880a557b1cd1d",
+    "twins-pashmina-tank-default.glb": "946f9fa119fe1f3eff7da399dddd934d8b5bc86dad674295690f1070cc894b9b",
+    "twins-pashmina-sweatshirt-default.glb": "2ecbc44cf10f2b951838f4ad7e8e8570922f83ff0655968fee0e426370e4dc80",
+    "twins-pashmina-bandeau-ombre.glb": "6843fc4fae7601d0bb84b531da31a9ed2d19ca0f0d15aaaff468424bf4749770",
+    "twins-pashmina-triangle-ombre.glb": "06447b5306aafec82a8844952a49da1848df9e67b6fb290d201250f9761b2872",
+    "twins-pashmina-strappy-ombre.glb": "0df9bcdece0abdc780397980aa1ef4bb57ae5e3473cd6c0f512d8924eed7c81f",
+    "twins-pashmina-tshirt-ombre.glb": "5a0f7f9b20df168e8e1ab2fa8680959df48d37c6ebe090ba619f8a893db53d0b",
+    "twins-pashmina-jersey-ombre.glb": "a7a934300224f16db2ea6bcd6e3ef275a9d69436ff931950884330e9f0438804",
+    "twins-pashmina-open-ombre.glb": "eef92c2c9faeb604d332b579858f5f40d031d7408745e1c6c158e5d475785682",
+    "twins-pashmina-tank-ombre.glb": "fbf0717e254fa0ab0550381b35d4d8552070cae114d6b842a67841809a021977",
+    "twins-pashmina-sweatshirt-ombre.glb": "9f700588e3991c3c3082c958f833bea9a6c6006494d2fed7ed35f5a74ab29e53"
+  }
+}
