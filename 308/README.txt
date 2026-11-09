@@ -24,3 +24,18 @@ the 213 jersey scene in Blender background mode and run fit_jersey.py
 with the default atlas, GLB destination, and .blend destination after --.
 Run review.cjs with CAPTURE_DIR to capture 307 and 308 at matched
 angles, then run verify.py in Blender with the review.json receipt.
+
+Native rendering handoff
+
+See NATIVE-HANDOFF.md and verification/native-archive.json. Both
+archives were verified with tools/verify_mobile.py. The four packed
+scenes reopened with their textures, and replaying the selector delta
+reproduced all 1,792 resolved selections and eight groom selections.
+The references compare the original Cycles studio and the browser,
+including visible differences in lighting and chin reflections.
+
+To rebuild, serve 298 and 308 on the preview root, set CAPTURE_DIR,
+and run node 308/tools/native_capture.cjs. Run Blender in background
+mode with 308/tools/pack_mobile.py, passing the capture directory,
+a fresh delivery directory and the verified 298 ZIP after --. Run
+verify_mobile.py with both resulting archive paths.
