@@ -1,0 +1,270 @@
+{
+  "fits": {
+    "none/default": {
+      "yawDegrees": 57.579,
+      "pitchDegrees": 0.0,
+      "fromX": -0.11729,
+      "toX": 0.082,
+      "oldHatContacts": 0,
+      "hatContacts": 0,
+      "bundleToCrownContacts": 1637,
+      "rootCoverageBefore": [
+        73,
+        -0.0038
+      ],
+      "rootCoverageAfter": [
+        0,
+        0.004185
+      ]
+    },
+    "none/ombre": {
+      "yawDegrees": 57.579,
+      "pitchDegrees": 0.0,
+      "fromX": -0.11729,
+      "toX": 0.082,
+      "oldHatContacts": 0,
+      "hatContacts": 0,
+      "bundleToCrownContacts": 1637,
+      "rootCoverageBefore": [
+        73,
+        -0.0038
+      ],
+      "rootCoverageAfter": [
+        0,
+        0.004185
+      ]
+    },
+    "ears/default": {
+      "yawDegrees": 57.579,
+      "pitchDegrees": 0.0,
+      "fromX": -0.11729,
+      "toX": 0.082,
+      "oldHatContacts": 0,
+      "hatContacts": 0,
+      "bundleToCrownContacts": 1637,
+      "rootCoverageBefore": [
+        73,
+        -0.0038
+      ],
+      "rootCoverageAfter": [
+        0,
+        0.004185
+      ]
+    },
+    "ears/ombre": {
+      "yawDegrees": 57.579,
+      "pitchDegrees": 0.0,
+      "fromX": -0.11729,
+      "toX": 0.082,
+      "oldHatContacts": 0,
+      "hatContacts": 0,
+      "bundleToCrownContacts": 1637,
+      "rootCoverageBefore": [
+        73,
+        -0.0038
+      ],
+      "rootCoverageAfter": [
+        0,
+        0.004185
+      ]
+    },
+    "beanie/default": {
+      "yawDegrees": 44.726,
+      "pitchDegrees": 0.0,
+      "fromX": -0.19424,
+      "toX": 0.119,
+      "oldHatContacts": 0,
+      "hatContacts": 0,
+      "bundleToCrownContacts": 298,
+      "rootCoverageBefore": [
+        0,
+        0.004495
+      ],
+      "rootCoverageAfter": [
+        0,
+        0.004347
+      ],
+      "fringe": {
+        "maxCuffSeat": 0.053112908417362624,
+        "maxRemainingBreach": 2.47198095326695e-17
+      }
+    },
+    "beanie/ombre": {
+      "yawDegrees": 44.726,
+      "pitchDegrees": 0.0,
+      "fromX": -0.19424,
+      "toX": 0.119,
+      "oldHatContacts": 0,
+      "hatContacts": 0,
+      "bundleToCrownContacts": 298,
+      "rootCoverageBefore": [
+        0,
+        0.004495
+      ],
+      "rootCoverageAfter": [
+        0,
+        0.004347
+      ],
+      "fringe": {
+        "maxCuffSeat": 0.053112908417362624,
+        "maxRemainingBreach": 2.47198095326695e-17
+      }
+    },
+    "cap/default": {
+      "yawDegrees": 15.632,
+      "pitchDegrees": 0.0,
+      "fromX": -0.04074,
+      "toX": 0.06,
+      "oldHatContacts": 0,
+      "hatContacts": 0,
+      "bundleToCrownContacts": 1619,
+      "rootCoverageBefore": [
+        31,
+        -0.001278
+      ],
+      "rootCoverageAfter": [
+        0,
+        0.004179
+      ]
+    },
+    "cap/ombre": {
+      "yawDegrees": 15.632,
+      "pitchDegrees": 0.0,
+      "fromX": -0.04074,
+      "toX": 0.06,
+      "oldHatContacts": 0,
+      "hatContacts": 0,
+      "bundleToCrownContacts": 1619,
+      "rootCoverageBefore": [
+        31,
+        -0.001278
+      ],
+      "rootCoverageAfter": [
+        0,
+        0.004179
+      ]
+    },
+    "headband/default": {
+      "yawDegrees": 25.478,
+      "pitchDegrees": 0.0,
+      "fromX": -0.08504,
+      "toX": 0.064,
+      "oldHatContacts": 0,
+      "hatContacts": 0,
+      "bundleToCrownContacts": 401,
+      "rootCoverageBefore": [
+        0,
+        0.003514
+      ],
+      "rootCoverageAfter": [
+        0,
+        0.004225
+      ]
+    },
+    "headband/ombre": {
+      "yawDegrees": 25.478,
+      "pitchDegrees": 0.0,
+      "fromX": -0.08504,
+      "toX": 0.064,
+      "oldHatContacts": 0,
+      "hatContacts": 0,
+      "bundleToCrownContacts": 401,
+      "rootCoverageBefore": [
+        0,
+        0.003514
+      ],
+      "rootCoverageAfter": [
+        0,
+        0.004225
+      ]
+    },
+    "bucket/default": {
+      "yawDegrees": 11.899,
+      "pitchDegrees": -3.667,
+      "fromX": 0.0,
+      "toX": 0.08113,
+      "oldHatContacts": 1060,
+      "hatContacts": 0,
+      "bundleToCrownContacts": 194,
+      "rootCoverageBefore": [
+        0,
+        0.00422
+      ],
+      "rootCoverageAfter": [
+        0,
+        0.004272
+      ]
+    },
+    "bucket/ombre": {
+      "yawDegrees": 11.899,
+      "pitchDegrees": -3.667,
+      "fromX": 0.0,
+      "toX": 0.08113,
+      "oldHatContacts": 1060,
+      "hatContacts": 0,
+      "bundleToCrownContacts": 194,
+      "rootCoverageBefore": [
+        0,
+        0.00422
+      ],
+      "rootCoverageAfter": [
+        0,
+        0.004272
+      ]
+    },
+    "cowboy/default": {
+      "yawDegrees": 11.871,
+      "pitchDegrees": 0.0,
+      "fromX": -0.0,
+      "toX": 0.08,
+      "oldHatContacts": 0,
+      "hatContacts": 0,
+      "bundleToCrownContacts": 240,
+      "rootCoverageBefore": [
+        0,
+        0.004219
+      ],
+      "rootCoverageAfter": [
+        0,
+        0.004326
+      ]
+    },
+    "cowboy/ombre": {
+      "yawDegrees": 11.871,
+      "pitchDegrees": 0.0,
+      "fromX": -0.0,
+      "toX": 0.08,
+      "oldHatContacts": 0,
+      "hatContacts": 0,
+      "bundleToCrownContacts": 240,
+      "rootCoverageBefore": [
+        0,
+        0.004219
+      ],
+      "rootCoverageAfter": [
+        0,
+        0.004326
+      ]
+    }
+  },
+  "assets": {
+    "ponytail-bandana-sprout.glb": "9fd7c31af995f20d6da6684d952b0759df464f0eeba6b795f5b61e9ad291adbc",
+    "ponytail-bandana.glb": "5c3f3e985ab7be1876d107ed5f77ee17eaa8677554b77a50b7d72866a604559e",
+    "ponytail-beanie-default.glb": "1c639eef3de7d4460eebb58ee3401c569172b2aa32a637ae77720008169f7cd0",
+    "ponytail-beanie-fringe-default.glb": "a1204cafd9d3237b8ed954aa65214095cddad9475ee86a9f489cf6b9addfe493",
+    "ponytail-beanie-fringe-ombre.glb": "2ada54f143a3609eff6b6579c3838cf4ea1526c5d47c62911beab65a1588295c",
+    "ponytail-beanie-ombre.glb": "c4dc4781f4ad3cc9504210088b03a71f581a0d912a9979cb69050320e18fc168",
+    "ponytail-bucket-default.glb": "db744588da51974a86a36f7ae5741ae26087b428553261527585f048cd5805f1",
+    "ponytail-bucket-ombre.glb": "8508666b084d30370a6969d59e58942d94e3dbfc42d6021448b5a06392c67da9",
+    "ponytail-cap-default.glb": "393281dc2f9010c2441ef219d51d2ac96c1d77850b66ee78d9071041308a3d8f",
+    "ponytail-cap-ombre.glb": "e3ec577d573cd4a350dafa090bac665ed151f7de07cce882e091abe644370804",
+    "ponytail-cowboy-default.glb": "bf0693f25f439ceda5f5b7505d5673784808b26d44a98aa842117f8f2ef87b30",
+    "ponytail-cowboy-ombre.glb": "afebb5b8ea2ec85096ea6dbc0445bacf370007bae80d8ec153400b6224076950",
+    "ponytail-ears-default.glb": "18de17d08e5a4f0955f3ffac3c06667912d59175f3cb77de62ace3ee022e440e",
+    "ponytail-ears-ombre.glb": "7e3f95c73424ab4f7c185e452cfbb83f25c55d39d14a0ba29057260c91598940",
+    "ponytail-headband-default.glb": "701448b59c9f5da1ecf11f3285016b2442790985ea5f0d86303b57a30ff45e51",
+    "ponytail-headband-ombre.glb": "e70c5fa651fda000804f99fdfa2deb7f22412fb71e556db21ad770ff63429600",
+    "ponytail-none-default.glb": "18de17d08e5a4f0955f3ffac3c06667912d59175f3cb77de62ace3ee022e440e",
+    "ponytail-none-ombre.glb": "7e3f95c73424ab4f7c185e452cfbb83f25c55d39d14a0ba29057260c91598940"
+  }
+}
