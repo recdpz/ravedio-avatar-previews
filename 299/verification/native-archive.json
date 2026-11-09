@@ -1,0 +1,39 @@
+{
+  "revision": 299,
+  "control": 298,
+  "zip": "Ravedio299-native.zip",
+  "sha256": "f94e3f287961f716b48769cb7a14849d5c30afec96fae3fb41ba1578768b15cd",
+  "bytes": 91610654,
+  "verified_files": 129,
+  "matched_pairs": 40,
+  "pinned_mobile_base": "d3066eec374cfa05fdba235adf66eca02332b5ed",
+  "source_art": {
+    "revision": 299,
+    "control": 298,
+    "mobile_base": "d3066eec374cfa05fdba235adf66eca02332b5ed",
+    "assemblies": {
+      "r298-curls-pashmina": {
+        "fixture": "r299-curls-pashmina",
+        "changed": {
+          "hair": {
+            "before": "d5b460b2621d807a6e6f31e02770c16ba6e5d2dce55410bf5576ac0feb7398c0",
+            "after": "488198de37fd86378cc8316acae13321002c0f4ea1051c86d1eda7e522a95066",
+            "file": "Feminine/components/hair.glb",
+            "source": "299/assets/curls-pashmina-default.glb"
+          },
+          "headgear": {
+            "before": "ed29f0b6f9a304f337860b72f4086d755283c12c3d79e3cf9f5f14d6c6c72935",
+            "after": "c1fb925b46d44243aba671716733f223de6ac57ad59c9dd22c0897f2ede09d20",
+            "file": "Feminine/components/headgear.glb",
+            "source": "299/assets/scarf-curls-open.glb"
+          }
+        }
+      },
+      "r298-flow-cap": {
+        "fixture": "r299-flow-cap",
+        "changed": {}
+      }
+    }
+  },
+  "status": "Local handoff ready for native staging and device review"
+}

@@ -77,6 +77,8 @@ function assembledPaths(state=choices(), model=build) {
   if (fit) {
     const color = state.hairColor === 'ombre' ? 'ombre' : 'default';
     parts.hair = new URL(fit[color], hairUrl).href;
+    const lengths = fit.lengths?.[state.top]?.[color];
+    if (lengths) parts.hairLengths = new URL(lengths, hairUrl).href;
   }
   const scarf = state.headwear === 'pashmina' ? pashminaFits?.[model]?.[state.hair]?.[state.top] : null;
   if (scarf) parts.headgear = new URL(scarf, pashminaUrl).href;
