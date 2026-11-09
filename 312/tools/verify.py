@@ -25,12 +25,12 @@ def tail(path):
     return mesh,anchor
 
 
-def verify(before,after,wardrobe_before,wardrobe):
+def verify(before,after,wardrobe_before,wardrobe, *, revision=REV, ranges=None):
     assert before.keys()==after.keys() and len(after)==16
     assert wardrobe_before.keys()==wardrobe.keys() and len(wardrobe)==128
-    report = read(REV/"verification/fit.json")
+    report = read(revision/"verification/fit.json")
     for name,digest in report["assets"].items():
-        assert sha256((REV/"assets"/name).read_bytes()).hexdigest()==digest
+        assert sha256((revision/"assets"/name).read_bytes()).hexdigest()==digest
     for key,parts in after.items():
         previous = before[key]
         head,finish = key.split("/")
@@ -46,7 +46,8 @@ def verify(before,after,wardrobe_before,wardrobe):
         checks = report["fits"][key]
         role = "hairLengths" if head=="beanie" else "hair"
         bundle,anchor = tail(parts[role])
-        assert .052<anchor[0]<.125 and abs(anchor[0]-checks["toX"])<1e-5,key
+        lower,upper = ranges[head] if ranges is not None else (.052,.125)
+        assert lower<anchor[0]<upper and abs(anchor[0]-checks["toX"])<1e-5,(key,anchor[0])
         if "headgear" in parts:
             assert not bundle.overlap(ordinary(parts["headgear"])),key
         crown = updos.surface(ROOT/parts["hair"],lambda n:"roots220" in n)
@@ -94,7 +95,7 @@ def verify(before,after,wardrobe_before,wardrobe):
         for layer in ("top","extra"):
             assert not bundle.overlap(ordinary(parts[layer])),(key,layer)
         checked += 1
-    write(REV/"verification/checks.json",{"headwearAndFinishSelections":len(after),
+    write(revision/"verification/checks.json",{"headwearAndFinishSelections":len(after),
           "outfitSelections":len(wardrobe),"repositionedTailClearanceChecks":checked})
     print("Verified",len(after),"headwear/finish selections and",len(wardrobe),
           "outfits including the sprout and all eight tops",flush=True)

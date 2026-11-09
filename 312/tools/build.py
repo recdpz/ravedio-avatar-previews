@@ -11,7 +11,6 @@ import numpy as np
 
 REV = Path(__file__).resolve().parents[1]
 ROOT = REV.parent
-OUT = REV/"assets"
 spec = importlib.util.spec_from_file_location("pony311",ROOT/"311/tools/build.py")
 previous = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(previous)
@@ -285,7 +284,7 @@ def turn_fringe(crown,uncovered,default_crown,hat):
     return {"maxCuffSeat":max(peaks),"maxRemainingBreach":float(residual.max())}
 
 
-def refit(key,parts,uncovered,default_crown,forced_pose=None):
+def refit(key,parts,uncovered,default_crown,target_x,output_dir,forced_pose=None):
     head,finish = key.split("/")
     split = "hairLengths" in parts
     source = ROOT/parts["hair"]
@@ -302,7 +301,7 @@ def refit(key,parts,uncovered,default_crown,forced_pose=None):
     anchor = elastic[0][1].mean(0)
     theta = float(angles(anchor[None,:])[0])
     radius = np.linalg.norm((anchor-CENTER)[[0,2]])
-    desired = math.asin(RIGHT[head]/radius)-theta
+    desired = math.asin(target_x/radius)-theta
     n = max(1,int(math.ceil(abs(desired)/.055)))
     angles_to_try = np.linspace(desired,0,n+1)
     pitches = (0.,-.032,-.064,-.096,-.128,-.16,-.192) if head=="bucket" else (0.,)
@@ -374,13 +373,13 @@ def refit(key,parts,uncovered,default_crown,forced_pose=None):
             points = m.world
             warp = lambda p:rear_wrap(p,anchor,delta)
             m.update(warp(points),warp_normals(warp,points,m.nor@m.rotation.T))
-        write_glb(OUT/"ponytail-bandana.glb",*drape)
+        write_glb(output_dir/"ponytail-bandana.glb",*drape)
     if split:
         result["fringe"] = turn_fringe(crown,uncovered,default_crown,hat)
-        output = OUT/f"ponytail-beanie-fringe-{finish}.glb"
+        output = output_dir/f"ponytail-beanie-fringe-{finish}.glb"
         write_glb(output,*crown)
         tail_name = f"ponytail-beanie-{finish}.glb"
-        write_glb(OUT/tail_name,*tail)
+        write_glb(output_dir/tail_name,*tail)
         return output.name,tail_name,result,(float(delta),float(pitch))
     if head=="cap":
         # The compressed radial roots in the cap window catch a pin-point
@@ -391,23 +390,24 @@ def refit(key,parts,uncovered,default_crown,forced_pose=None):
         material = doc["materials"][primitive["material"]]
         material["pbrMetallicRoughness"]["roughnessFactor"] = .38
         material["extensions"]["KHR_materials_clearcoat"]["clearcoatFactor"] = .22
-    output = OUT/f"ponytail-{head}-{finish}.glb"
+    output = output_dir/f"ponytail-{head}-{finish}.glb"
     write_glb(output,*crown)
     return output.name,None,result,(float(delta),float(pitch))
 
 
-def main(rows):
+def main(rows, *, revision=REV, targets=RIGHT):
+    output_dir = revision/"assets"
     art,hair_fits = (json.loads((ROOT/"311"/file).read_text().replace('"./assets/','"../311/assets/'))
                     for file in ("art.json","hair-fits.json"))
     fits = hair_fits["Feminine"]["ponytail"]["fits"]
     receipt = {}
-    for head in RIGHT:
+    for head,target_x in targets.items():
         delta = None
         for finish in ("default","ombre"):
             key = head+"/"+finish
             source = ROOT/rows["none/default"]["hair"]
             reference = ROOT/rows["beanie/default"]["hair"]
-            hair,tail,receipt[key],delta = refit(key,rows[key],source,reference,delta)
+            hair,tail,receipt[key],delta = refit(key,rows[key],source,reference,target_x,output_dir,delta)
             fits[head][finish] = "./assets/"+hair
             if tail:
                 art["beanie"]["Feminine"]["ponytail"]["tail"][finish] = "./assets/"+tail
@@ -415,21 +415,21 @@ def main(rows):
     bandanas = json.loads((ROOT/"303/bandana-fits.json").read_text().replace('"./assets/','"../303/assets/'))
     bandana = bandanas["Feminine-ponytail"]
     bandana["headgear"] = "./assets/ponytail-bandana.glb"
-    bandana["headgear_sha256"] = sha256((OUT/"ponytail-bandana.glb").read_bytes()).hexdigest()
+    bandana["headgear_sha256"] = sha256((output_dir/"ponytail-bandana.glb").read_bytes()).hexdigest()
     bandana["fittedHair"] = {color:fits["headband"][color] for color in ("default","ombre")}
-    bandana["fittedHairSha256"] = {color:sha256((REV/path).read_bytes()).hexdigest()
+    bandana["fittedHairSha256"] = {color:sha256((revision/path).read_bytes()).hexdigest()
                                  for color,path in bandana["fittedHair"].items()}
     old_hat = updos.surface(ROOT/rows["headband/default"]["headgear"])
-    new_hat = updos.surface(OUT/"ponytail-bandana.glb")
-    clip = OUT/"ponytail-bandana-sprout.glb"
-    knit.seat_sprout(REV/bandana["sprout"],clip,old_hat,new_hat)
+    new_hat = updos.surface(output_dir/"ponytail-bandana.glb")
+    clip = output_dir/"ponytail-bandana-sprout.glb"
+    knit.seat_sprout(revision/bandana["sprout"],clip,old_hat,new_hat)
     bandana["sprout"] = "./assets/"+clip.name
     bandana["sprout_sha256"] = sha256(clip.read_bytes()).hexdigest()
-    write(REV/"art.json",art)
-    write(REV/"hair-fits.json",hair_fits)
-    write(REV/"bandana-fits.json",bandanas)
-    write(REV/"verification/fit.json",{"fits":receipt,"assets":{
-        p.name:sha256(p.read_bytes()).hexdigest() for p in sorted(OUT.glob("*.glb"))}})
+    write(revision/"art.json",art)
+    write(revision/"hair-fits.json",hair_fits)
+    write(revision/"bandana-fits.json",bandanas)
+    write(revision/"verification/fit.json",{"fits":receipt,"assets":{
+        p.name:sha256(p.read_bytes()).hexdigest() for p in sorted(output_dir.glob("*.glb"))}})
 
 
 if __name__=="__main__":
