@@ -1,0 +1,17 @@
+{
+  "knot": [
+    -0.014339753241771391,
+    1.8737858833842114,
+    -0.413
+  ],
+  "scalp_intersections": 0,
+  "crown_to_knot_contacts": 602,
+  "tail_intersections": {
+    "default": 0,
+    "ombre": 0
+  },
+  "ends": {
+    "-1": 256,
+    "1": 250
+  }
+}
