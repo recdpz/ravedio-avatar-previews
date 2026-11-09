@@ -1,0 +1,182 @@
+{
+  "fringe": {
+    "default": {
+      "bareFringe": "301/assets/5719a620541f67df18-hair.glb",
+      "vertices": 12196,
+      "verticesTuckedAtShell": 1210,
+      "maxInwardShift": 0.05633719492224128
+    },
+    "ombre": {
+      "bareFringe": "304/assets/ponytail-none-ombre.glb",
+      "vertices": 12196,
+      "verticesTuckedAtShell": 1210,
+      "maxInwardShift": 0.05633719492224128
+    }
+  },
+  "ties": {
+    "beanie/default": {
+      "section": 0.07291666666666667,
+      "width": 0.021,
+      "center": [
+        -0.1939460597932339,
+        1.8343944668769836,
+        -0.380484025818961
+      ],
+      "axis": [
+        -0.24039195043434963,
+        0.6136332190990808,
+        -0.7521076934751225
+      ],
+      "bundleContacts": 576
+    },
+    "beanie/ombre": {
+      "section": 0.07291666666666667,
+      "width": 0.021,
+      "center": [
+        -0.1939460597932339,
+        1.8343944668769836,
+        -0.380484025818961
+      ],
+      "axis": [
+        -0.24039195043434963,
+        0.6136332190990808,
+        -0.7521076934751225
+      ],
+      "bundleContacts": 576
+    },
+    "none/default": {
+      "section": 0.0625,
+      "width": 0.021,
+      "center": [
+        -0.1170014503811087,
+        2.1601213932037355,
+        -0.18685168283326284
+      ],
+      "axis": [
+        -0.09843344395494649,
+        0.7792468456036221,
+        -0.6189387778512291
+      ],
+      "bundleContacts": 588
+    },
+    "none/ombre": {
+      "section": 0.0625,
+      "width": 0.021,
+      "center": [
+        -0.1170014503811087,
+        2.1601213932037355,
+        -0.18685168283326284
+      ],
+      "axis": [
+        -0.09843344395494649,
+        0.7792468456036221,
+        -0.6189387778512291
+      ],
+      "bundleContacts": 588
+    },
+    "cap/default": {
+      "section": 0.041666666666666664,
+      "width": 0.021,
+      "center": [
+        -0.04055202790269894,
+        1.9621459024293082,
+        -0.3833720349839756
+      ],
+      "axis": [
+        -0.03628196620760432,
+        0.5592879427348132,
+        -0.8281790965966062
+      ],
+      "bundleContacts": 626
+    },
+    "cap/ombre": {
+      "section": 0.041666666666666664,
+      "width": 0.021,
+      "center": [
+        -0.04055202790269894,
+        1.9621459024293082,
+        -0.3833720349839756
+      ],
+      "axis": [
+        -0.03628196620760432,
+        0.5592879427348132,
+        -0.8281790965966062
+      ],
+      "bundleContacts": 626
+    },
+    "headband/default": {
+      "section": 0.0625,
+      "width": 0.021,
+      "center": [
+        -0.08474473540804217,
+        2.040429931027549,
+        -0.34234616096530646
+      ],
+      "axis": [
+        -0.007209541004005977,
+        0.40537563234744006,
+        -0.9141217748294942
+      ],
+      "bundleContacts": 586
+    },
+    "headband/ombre": {
+      "section": 0.0625,
+      "width": 0.021,
+      "center": [
+        -0.08474473540804217,
+        2.040429931027549,
+        -0.34234616096530646
+      ],
+      "axis": [
+        -0.007209541004005977,
+        0.40537563234744006,
+        -0.9141217748294942
+      ],
+      "bundleContacts": 586
+    },
+    "ears/default": {
+      "section": 0.0625,
+      "width": 0.021,
+      "center": [
+        -0.1170014503811087,
+        2.1601213932037355,
+        -0.18685168283326284
+      ],
+      "axis": [
+        -0.09843344395494649,
+        0.7792468456036221,
+        -0.6189387778512291
+      ],
+      "bundleContacts": 588
+    },
+    "ears/ombre": {
+      "section": 0.0625,
+      "width": 0.021,
+      "center": [
+        -0.1170014503811087,
+        2.1601213932037355,
+        -0.18685168283326284
+      ],
+      "axis": [
+        -0.09843344395494649,
+        0.7792468456036221,
+        -0.6189387778512291
+      ],
+      "bundleContacts": 588
+    }
+  },
+  "assets": {
+    "ponytail-beanie-default.glb": "c66efd80131937ec78b56a83d2404666bdca490283002e74b2ff6fbb401aff0a",
+    "ponytail-beanie-fringe-default.glb": "89b2798f80a870e77331980eef9765e78fc0e1d103418ff541cc97c923cc4a6e",
+    "ponytail-beanie-fringe-ombre.glb": "b79ed8442df7aaea214aadd281b93f592b13186b3b479bdf1a6db5def205f7e5",
+    "ponytail-beanie-ombre.glb": "7ea36308ddb12f189ea623d509b84e17ae1dab00cba395def7acde16aef4d029",
+    "ponytail-cap-default.glb": "7e1c0f1dd67cc5f0a4974233d8683e9ad4204a9459a8ba2c315a91b251fe770e",
+    "ponytail-cap-ombre.glb": "fdd826dc4908bf42fc994a11c89b9951a9b3acfa3a2c45c3d656dcd11f698634",
+    "ponytail-ears-default.glb": "6affffd97a86a39c4ba6bb9983c70693f6b7585b063b9b3a0e2a7869cdd13efc",
+    "ponytail-ears-ombre.glb": "af17a5d0fb075196f0fa20c45f0ae5f67d439628a67d3611b1217c752ef5f113",
+    "ponytail-headband-default.glb": "138160202ccd3fed4d93d282f8cd7db58dc01838b22070c0dea9ec047caeaa51",
+    "ponytail-headband-ombre.glb": "5cb4e00e9394a0950e38654d1c1843281a50140f8e40ec0ebe528a56617becbd",
+    "ponytail-none-default.glb": "6affffd97a86a39c4ba6bb9983c70693f6b7585b063b9b3a0e2a7869cdd13efc",
+    "ponytail-none-ombre.glb": "af17a5d0fb075196f0fa20c45f0ae5f67d439628a67d3611b1217c752ef5f113"
+  }
+}
