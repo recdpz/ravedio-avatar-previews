@@ -1,0 +1,95 @@
+{
+  "darkLensOpacity": 0.74,
+  "eyes": {
+    "Feminine": {
+      "bean": "./assets/feminine-eyes-bean.glb",
+      "hooded": "./assets/feminine-eyes-hooded.glb",
+      "original": "./assets/feminine-eyes-original.glb",
+      "tapered": "./assets/feminine-eyes-tapered.glb"
+    },
+    "Masculine": {
+      "bean": "./assets/masculine-eyes-bean.glb",
+      "hooded": "./assets/masculine-eyes-hooded.glb",
+      "original": "./assets/masculine-eyes-original.glb",
+      "tapered": "./assets/masculine-eyes-tapered.glb"
+    }
+  },
+  "mouth": {
+    "Feminine": "./assets/feminine-smile.glb",
+    "Masculine": "./assets/masculine-smile.glb"
+  },
+  "beanie": {
+    "Feminine": {
+      "bob": {
+        "headgear": "./assets/knit-beanie.glb",
+        "sprout": "./assets/beanie-sprout-feminine-bob.glb"
+      },
+      "ponytail": {
+        "headgear": "./assets/knit-beanie.glb",
+        "sprout": "./assets/beanie-sprout-feminine-ponytail.glb",
+        "tail": {
+          "default": "./assets/beanie-ponytail-default.glb",
+          "ombre": "./assets/beanie-ponytail-ombre.glb"
+        }
+      },
+      "straight": {
+        "headgear": "./assets/knit-beanie.glb",
+        "sprout": "./assets/beanie-sprout-feminine-straight.glb"
+      },
+      "curls": {
+        "headgear": "./assets/knit-beanie.glb",
+        "sprout": "./assets/beanie-sprout-feminine-curls.glb"
+      },
+      "side-sweep": {
+        "headgear": "./assets/knit-beanie.glb",
+        "sprout": "./assets/beanie-sprout-feminine-side-sweep.glb"
+      },
+      "space-buns": {
+        "headgear": "./assets/knit-beanie.glb",
+        "sprout": "./assets/beanie-sprout-feminine-space-buns.glb"
+      },
+      "twin-braids": {
+        "headgear": "./assets/knit-beanie.glb",
+        "sprout": "./assets/beanie-sprout-feminine-twin-braids.glb"
+      },
+      "box-braids": {
+        "headgear": "./assets/knit-beanie.glb",
+        "sprout": "./assets/beanie-sprout-feminine-box-braids.glb"
+      }
+    },
+    "Masculine": {
+      "sidepart": {
+        "headgear": "./assets/knit-beanie.glb",
+        "sprout": "./assets/beanie-sprout-masculine-sidepart.glb"
+      },
+      "taper": {
+        "headgear": "./assets/knit-beanie.glb",
+        "sprout": "./assets/beanie-sprout-masculine-taper.glb"
+      },
+      "buzz": {
+        "headgear": "./assets/knit-beanie.glb",
+        "sprout": "./assets/beanie-sprout-masculine-buzz.glb"
+      },
+      "curly-top": {
+        "headgear": "./assets/knit-beanie.glb",
+        "sprout": "./assets/beanie-sprout-masculine-curly-top.glb"
+      },
+      "afro": {
+        "headgear": "./assets/knit-beanie.glb",
+        "sprout": "./assets/beanie-sprout-masculine-afro.glb"
+      },
+      "flow": {
+        "headgear": "./assets/knit-beanie.glb",
+        "sprout": "./assets/beanie-sprout-masculine-flow.glb"
+      },
+      "locs": {
+        "headgear": "./assets/knit-beanie.glb",
+        "sprout": "./assets/beanie-sprout-masculine-locs.glb"
+      },
+      "middle-part": {
+        "headgear": "./assets/knit-beanie.glb",
+        "sprout": "./assets/beanie-sprout-masculine-middle-part.glb"
+      }
+    }
+  }
+}

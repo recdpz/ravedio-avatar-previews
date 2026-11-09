@@ -1,0 +1,100 @@
+{
+  "headwear": {
+    "Feminine": {
+      "bob": {
+        "headgear": "270/generated/01600fd9122299d634ee2cba-rigid.glb",
+        "extra": "270/generated/5676dc1044aa2908afa36c90-sprout.glb"
+      },
+      "ponytail": {
+        "headgear": "270/generated/80c49f27987f001eaab80452-rigid.glb",
+        "extra": "270/generated/feefb0da66f94cadcdc79a1a-sprout.glb"
+      },
+      "straight": {
+        "headgear": "270/generated/c79925b74eec0eaf98b7be08-rigid.glb",
+        "extra": "270/generated/07db2fe90288a462d71368bd-sprout.glb"
+      },
+      "curls": {
+        "headgear": "270/generated/05e9a91a49dd85f201ec0f7f-rigid.glb",
+        "extra": "270/generated/62c30d8eb3f80a1aa0aff52c-sprout.glb"
+      },
+      "side-sweep": {
+        "headgear": "270/generated/9569766a22dee089c6881e54-rigid.glb",
+        "extra": "270/generated/f2fc205544f721bf4aeb7c13-sprout.glb"
+      },
+      "space-buns": {
+        "headgear": "270/generated/fa46773005cde3916a994156-rigid.glb",
+        "extra": "270/generated/e93af32867d19ccb3d4b9b91-sprout.glb"
+      },
+      "twin-braids": {
+        "headgear": "270/generated/2a55098461821d0eb81b6b61-rigid.glb",
+        "extra": "270/generated/b4e1c27b7855cf131672220d-sprout.glb"
+      },
+      "box-braids": {
+        "headgear": "270/generated/042471e7e384c4eb656ca23a-rigid.glb",
+        "extra": "270/generated/41acd1ab49a7a9be5dcf18cf-sprout.glb"
+      }
+    },
+    "Masculine": {
+      "sidepart": {
+        "headgear": "270/generated/f7ca19960419c35ddf664835-rigid.glb",
+        "extra": "270/generated/471df040b74fafb4a3a2a2e0-sprout.glb"
+      },
+      "taper": {
+        "headgear": "270/generated/e93ab91957e9afcaa2e3ed03-rigid.glb",
+        "extra": "270/generated/71776a9fdd082a88e111edf3-sprout.glb"
+      },
+      "buzz": {
+        "headgear": "270/generated/91955776c135e298661c5163-rigid.glb",
+        "extra": "270/generated/69d2cb981bd6caa34bc6f760-sprout.glb"
+      },
+      "curly-top": {
+        "headgear": "270/generated/6f3241a78a9929d41d3b41ee-rigid.glb",
+        "extra": "270/generated/21fe0ad34b71ab607e159b8b-sprout.glb"
+      },
+      "afro": {
+        "headgear": "270/generated/6690293cecc5b882c3d387ea-rigid.glb",
+        "extra": "270/generated/5aa36b052d304b21468a9949-sprout.glb"
+      },
+      "flow": {
+        "headgear": "270/generated/cc8f8a00251941d28f4f41f3-rigid.glb",
+        "extra": "270/generated/14773a008c502e5b066b1fa1-sprout.glb"
+      },
+      "locs": {
+        "headgear": "270/generated/1bacf2f9b6527e4b590a80b8-rigid.glb",
+        "extra": "270/generated/24020f42be7e7141289752e9-sprout.glb"
+      },
+      "middle-part": {
+        "headgear": "270/generated/ff7f9596ac95162e124b2b38-rigid.glb",
+        "extra": "270/generated/0b266307d8851e232ae3765e-sprout.glb"
+      }
+    }
+  },
+  "eyes": {
+    "Feminine": {
+      "bean": "269/assets/Feminine-Feminine-eyes-bean-79354f4c.glb",
+      "hooded": "269/assets/Feminine-Feminine-eyes-hooded-1096c1e2.glb",
+      "original": "269/assets/Feminine-Feminine-eyes-original-b08a82ec.glb",
+      "tapered": "269/assets/Feminine-Feminine-eyes-tapered-1f60a1db.glb"
+    },
+    "Masculine": {
+      "bean": "269/assets/Masculine-Masculine-eyes-bean-e412c8c0.glb",
+      "hooded": "269/assets/Masculine-Masculine-eyes-hooded-425d2a38.glb",
+      "original": "269/assets/Masculine-Masculine-eyes-original-92732458.glb",
+      "tapered": "269/assets/Masculine-Masculine-eyes-tapered-e82a58bc.glb"
+    }
+  },
+  "mouth": {
+    "Feminine": "269/assets/Feminine-Feminine-mouth-line-9b6f83b8.glb",
+    "Masculine": "269/assets/Masculine-Masculine-mouth-line-663a5e81.glb"
+  },
+  "ponytail": {
+    "default": {
+      "bare": "301/assets/5719a620541f67df18-hair.glb",
+      "covered": "305/assets/ponytail-beanie-crown-default.glb"
+    },
+    "ombre": {
+      "bare": "304/assets/ponytail-none-ombre.glb",
+      "covered": "305/assets/ponytail-beanie-crown-ombre.glb"
+    }
+  }
+}

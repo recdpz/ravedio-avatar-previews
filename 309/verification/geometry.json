@@ -1,0 +1,132 @@
+{
+  "ponytail": {
+    "tieCenter": [
+      -0.18996550737736265,
+      1.8222800538213522,
+      -0.36652356620642595
+    ],
+    "tiePitch": -1.08,
+    "tailPitch": -0.2,
+    "yaw": 0.2,
+    "roll": 0.0,
+    "scalpContacts": 418
+  },
+  "assets": {
+    "feminine-eyes-bean.glb": {
+      "bytes": 289040,
+      "sha256": "6f3ae7a8b6cec31128ef9c58005e6b633c7ca9f08919c40612e7689d8df3a8e7"
+    },
+    "feminine-eyes-hooded.glb": {
+      "bytes": 282860,
+      "sha256": "4e38ee35334316d9519f9617b014570ff786ffec40e3f82cdb2571fa527d5bd1"
+    },
+    "feminine-eyes-original.glb": {
+      "bytes": 179224,
+      "sha256": "be1e39a5266911dbbd52502a7e1b13bd529ca54eb32dc7cccbbb57bdbae7a2fd"
+    },
+    "feminine-eyes-tapered.glb": {
+      "bytes": 282864,
+      "sha256": "9515f4b0aea2f582b525b81ebb0f10fd6ff31ea90e3ac51dda3eb494b6f63322"
+    },
+    "feminine-smile.glb": {
+      "bytes": 42820,
+      "sha256": "7c87a282f042fb08c62f6f157e520ff20247617c55c063645ec50cc1ba7b87dc"
+    },
+    "masculine-eyes-bean.glb": {
+      "bytes": 286884,
+      "sha256": "cd42004e84a022a6d4977dd998718c48aebea6e0f53b317f0f1452d1517a3db7"
+    },
+    "masculine-eyes-hooded.glb": {
+      "bytes": 280708,
+      "sha256": "00e230c2d50ed83f8fbf984b2b3698f1c787860479223f3b2098ae5e24afce55"
+    },
+    "masculine-eyes-original.glb": {
+      "bytes": 179220,
+      "sha256": "741ab56c38d9f11fb84a359c85313f3dde3d1d1771483491a049e88e58e0c7a4"
+    },
+    "masculine-eyes-tapered.glb": {
+      "bytes": 280708,
+      "sha256": "b007d903aef03629d961d3fbb7160274f610c6dd352375d6d9d8148bb0efeace"
+    },
+    "masculine-smile.glb": {
+      "bytes": 42820,
+      "sha256": "58db6d4ab411dab6c67ce043a387fa0b28ba45f4dbd0c0cf005d9b67d0873783"
+    },
+    "knit-beanie.glb": {
+      "bytes": 634636,
+      "sha256": "dbf3c1c189d76eef9cb1d4d41dda1680f26851abfe2c22e2d58fc8c2cc293d15"
+    },
+    "beanie-sprout-feminine-bob.glb": {
+      "bytes": 152404,
+      "sha256": "2067aa16e267d453c7045b67284e03bc1277324f59676594ea252c9e187acc7b"
+    },
+    "beanie-sprout-feminine-ponytail.glb": {
+      "bytes": 152412,
+      "sha256": "22285f25a9345b57c10296bec29803d12ba0b78b4f2a407925486b3bd3aa7a6c"
+    },
+    "beanie-sprout-feminine-straight.glb": {
+      "bytes": 152412,
+      "sha256": "2c8e3356085e2faa74a4d410c9157fd9429e81da31643ea0c7c581da51774bd2"
+    },
+    "beanie-sprout-feminine-curls.glb": {
+      "bytes": 152408,
+      "sha256": "88c36c410cc2ffa603fbbdc0a317c9b77497a8c063a3d88d882fab82c58ce098"
+    },
+    "beanie-sprout-feminine-side-sweep.glb": {
+      "bytes": 152412,
+      "sha256": "f8305e8e4c550162e1732e782ca57a70feae8df6d6168e8eb4d5ae9b110dbc22"
+    },
+    "beanie-sprout-feminine-space-buns.glb": {
+      "bytes": 152412,
+      "sha256": "24a3b211cb01a140552ed9246072c4f8b25a2a65bb72e2156154d73711a4f1d9"
+    },
+    "beanie-sprout-feminine-twin-braids.glb": {
+      "bytes": 152412,
+      "sha256": "a30e75e25296e52cba11fa25f55f84eb9434ccd555303d942d9b5d4f157bf862"
+    },
+    "beanie-sprout-feminine-box-braids.glb": {
+      "bytes": 152432,
+      "sha256": "9d51964c3190d5a8fc11d57ce69e4159695227843d42aa400ea1364902b384b2"
+    },
+    "beanie-sprout-masculine-sidepart.glb": {
+      "bytes": 150272,
+      "sha256": "483d68b8c7a504b566cd2282859c9c354fe741a3adc11e7cfad10530767154f0"
+    },
+    "beanie-sprout-masculine-taper.glb": {
+      "bytes": 150272,
+      "sha256": "280ac4f9ef12f4647c461b1a761d89f70938e760efb915cb3adc93d4bf474d1a"
+    },
+    "beanie-sprout-masculine-buzz.glb": {
+      "bytes": 150272,
+      "sha256": "001c4758045d07a6a5603d70ade9702faf41ddf7b26a5767d48efc51f483c589"
+    },
+    "beanie-sprout-masculine-curly-top.glb": {
+      "bytes": 150276,
+      "sha256": "cd904d9fcdf263b5a4424f5ab79fc7dc5cdcb8f525ec94eb1021e84523190806"
+    },
+    "beanie-sprout-masculine-afro.glb": {
+      "bytes": 150288,
+      "sha256": "a5d2df36dfaff4e828676b972341d5e762db11e46575eff9fc69b1e61c196042"
+    },
+    "beanie-sprout-masculine-flow.glb": {
+      "bytes": 150252,
+      "sha256": "86645ab94afd1d953bc84d6476327ffce5e4525c535b44d6d8fbda3a96672594"
+    },
+    "beanie-sprout-masculine-locs.glb": {
+      "bytes": 150288,
+      "sha256": "4ba24c02427b258d483910745e1cea681911aaa87a1fd534c12099ebfea2477a"
+    },
+    "beanie-sprout-masculine-middle-part.glb": {
+      "bytes": 150260,
+      "sha256": "e16c2c7b83f4b119fdaf1aed19a62afa3498bdd756368fc31855f9febd958e4b"
+    },
+    "beanie-ponytail-default.glb": {
+      "bytes": 514620,
+      "sha256": "2e004e69736f55720fea1e46ef1d2293cece9cc2795eaf8a56b8a9a51c656f52"
+    },
+    "beanie-ponytail-ombre.glb": {
+      "bytes": 837844,
+      "sha256": "577dbc2913a686da8069dbf3b8da0f8a4f45e9ea5721a45a6fdb683e05dbc445"
+    }
+  }
+}
