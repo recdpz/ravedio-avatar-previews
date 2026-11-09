@@ -1,0 +1,17 @@
+{
+  "Feminine": {
+    "jersey": {
+      "path": "./assets/Feminine-jersey.glb",
+      "atlases": {
+        "black": "./assets/jersey-black.png",
+        "white": "./assets/jersey-white.png",
+        "blue": "./assets/jersey-blue.png",
+        "teal": "./assets/jersey-teal.png",
+        "purple": "./assets/jersey-purple.png",
+        "pink": "./assets/jersey-pink.png",
+        "red": "./assets/jersey-red.png",
+        "lime": "./assets/jersey-lime.png"
+      }
+    }
+  }
+}

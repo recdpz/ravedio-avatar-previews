@@ -3,7 +3,7 @@ import {GLTFLoader} from '../227/vendor/loaders/GLTFLoader.js';
 const $=id=>document.getElementById(id),hero=$('hero'),catalogue=await(await fetch('../263/catalogue263.json')).json(),palette=await(await fetch('../235/face-palette209.json')).json();
 const manifestUrl = new URL('./assets.json', import.meta.url);
 const manifest = await (await fetch(manifestUrl)).json();
-const {bandanaFits: bandanaFile, hairFits: hairFile, pashminaFits: pashminaFile, materialAssets: materialFile, artRevision} = document.documentElement.dataset;
+const {bandanaFits: bandanaFile, hairFits: hairFile, pashminaFits: pashminaFile, materialAssets: materialFile, wardrobeFits: wardrobeFile, artRevision} = document.documentElement.dataset;
 const bandanaUrl = bandanaFile ? new URL(bandanaFile, document.baseURI) : null;
 const bandanaFits = bandanaUrl ? await (await fetch(bandanaUrl)).json() : null;
 const hairUrl = hairFile ? new URL(hairFile, document.baseURI) : null;
@@ -12,6 +12,8 @@ const pashminaUrl = pashminaFile ? new URL(pashminaFile, document.baseURI) : nul
 const pashminaFits = pashminaUrl ? await (await fetch(pashminaUrl)).json() : null;
 const materialUrl = materialFile ? new URL(materialFile, document.baseURI) : null;
 const materialAssets = materialUrl ? await (await fetch(materialUrl)).json() : null;
+const wardrobeUrl = wardrobeFile ? new URL(wardrobeFile, document.baseURI) : null;
+const wardrobeFits = wardrobeUrl ? await (await fetch(wardrobeUrl)).json() : null;
 const materialPaths = new Map(Object.entries(materialAssets?.components ?? {}).map(([source, target]) =>
   [new URL(source, materialUrl).href, new URL(target, materialUrl).href]));
 if (materialAssets) {
@@ -72,6 +74,8 @@ function resolvedComponent(slot, original) {
 function assembledPaths(state=choices(), model=build) {
   const parts = Object.fromEntries(Object.entries(paths(state, model)).map(([slot, original]) =>
     [slot, resolvedComponent(slot, original)]));
+  const fittedTop = wardrobeFits?.[model]?.[state.top];
+  if (fittedTop) parts.top = new URL(fittedTop.path, wardrobeUrl).href;
   const bandana = bandanaFit(model, state);
   if (bandana) {
     parts.headgear = new URL(bandana.headgear, bandanaUrl).href;
@@ -102,7 +106,7 @@ function component(path){if(!cache.has(path))cache.set(path,new Promise((resolve
 function clone(part,slot){const c=part.clone(true);c.traverse(o=>{if(o.isMesh){o.userData.slot263=slot;o.material=Array.isArray(o.material)?o.material.map(m=>m.clone()):o.material.clone()}});return c}
 function release(part){part?.traverse(o=>{if(o.isMesh)for(const m of Array.isArray(o.material)?o.material:[o.material]){if(m.userData.ownedClothMap263)m.map?.dispose();m.dispose()}if(o.userData.ownedGeometry263)o.geometry.dispose()})}
 function prune(parts){const active=new Set(Object.values(parts));for(const [path,p] of cache){if(cache.size<=18)break;if(active.has(path))continue;cache.delete(path);p.then(g=>g.traverse(o=>{if(o.isMesh){o.geometry.dispose();for(const m of Array.isArray(o.material)?o.material:[o.material])m.dispose()}}))}}
-function texture(path){if(!textureCache.has(path))textureCache.set(path,new Promise((resolve,reject)=>new THREE.TextureLoader().load('../213/colors/'+path,t=>{t.colorSpace=THREE.SRGBColorSpace;t.flipY=false;t.wrapS=t.wrapT=THREE.RepeatWrapping;resolve(t)},undefined,reject)));return textureCache.get(path)}
+function texture(path){if(!textureCache.has(path))textureCache.set(path,new Promise((resolve,reject)=>new THREE.TextureLoader().load(path,t=>{t.colorSpace=THREE.SRGBColorSpace;t.flipY=false;t.wrapS=t.wrapT=THREE.RepeatWrapping;resolve(t)},undefined,reject)));return textureCache.get(path)}
 function pick(f,id){const c=catalogue.colors[f].find(c=>c[0]===id);return c?.[2]?new THREE.Color(c[2]):null}
 function clothColor(source, target, isPashmina) {
   const canvas = document.createElement('canvas');
@@ -140,7 +144,11 @@ function tint(role, id, state, model) {
   if (id === authoredKey(role, state, model) && (!materialAssets || role === 'hair')) return null;
   return pick(role, id);
 }
-async function colors(target,s,b){const hair=s.hairColor==='ombre'?new THREE.Color().setRGB(.145,.062,.034):tint('hair',s.hairColor,s,b),hat=tint('headgear',s.headgearColor,s,b),top=tint('top',s.topColor,s,b),bottom=tint('bottom',s.bottomColor,s,b);let tex={};if(s.top==='jersey'&&top){for(const kind of ['pattern','atlas'])tex[kind]=await texture('jersey-'+s.topColor+'-'+kind+'.png');if(top.r*.2126+top.g*.7152+top.b*.0722>.35)for(const side of ['front','back'])tex[side]=await texture('jersey-'+side+'-dark.png');}
+async function colors(target,s,b){const hair=s.hairColor==='ombre'?new THREE.Color().setRGB(.145,.062,.034):tint('hair',s.hairColor,s,b),hat=tint('headgear',s.headgearColor,s,b),top=tint('top',s.topColor,s,b),bottom=tint('bottom',s.bottomColor,s,b);let tex={};if(s.top==='jersey'&&top){const atlas = wardrobeFits?.[b]?.[s.top]?.atlases?.[s.topColor];
+  tex.pattern = await texture('../213/colors/jersey-' + s.topColor + '-pattern.png');
+  tex.atlas = await texture(atlas ? new URL(atlas, wardrobeUrl).href : '../213/colors/jersey-' + s.topColor + '-atlas.png');
+  if (!atlas && top.r*.2126+top.g*.7152+top.b*.0722>.35) for (const side of ['front','back'])
+    tex[side] = await texture('../213/colors/jersey-' + side + '-dark.png');}
 target.traverse(o=>{if(!o.isMesh)return;const slot=o.userData.slot263;for(const m of Array.isArray(o.material)?o.material:[o.material]){const n=m.name;let k=n.startsWith('Skin')?'skin':n.startsWith('Groom / stubble209')?'stubble':n.startsWith('Face / ink209')?'ink':n.startsWith('Face / lip209')?'lip':null;if(k)m.color.setRGB(...palette[k][s.skin]);if(n.startsWith('Chest / shade191')){const f=Number(n.split(' ').pop());m.color.setRGB(...palette.skin[s.skin].map(x=>x*f))}if((slot==='hair'||slot==='hairLengths'||slot==='groom')&&hair&&!(s.hairColor==='ombre'&&slot!=='groom')&&!/tie|band|Skin|metal|elastic/i.test(n)){
  if(!o.userData.colorFixed263){const col=o.geometry.getAttribute('color');if(col){const geom=o.geometry.clone(),out=new Float32Array(col.count*col.itemSize);let mean=0;for(let i=0;i<col.count;i++)mean+=.2126*col.getX(i)+.7152*col.getY(i)+.0722*col.getZ(i);mean/=col.count;for(let i=0;i<col.count;i++){const l=.2126*col.getX(i)+.7152*col.getY(i)+.0722*col.getZ(i),shade=Math.max(.70,Math.min(1.18,Math.sqrt(l/Math.max(.001,mean))));out[i*col.itemSize]=out[i*col.itemSize+1]=out[i*col.itemSize+2]=shade;if(col.itemSize===4)out[i*4+3]=col.getW(i)}geom.setAttribute('color',new THREE.BufferAttribute(out,col.itemSize));o.geometry=geom;o.userData.ownedGeometry263=true}o.userData.colorFixed263=true}
  m.color.copy(hair).multiplyScalar((slot==='groom'?.82:1.0)*(m.userData.hairShade258??1));
@@ -160,7 +168,7 @@ target.traverse(o=>{if(!o.isMesh)return;const slot=o.userData.slot263;for(const 
   }
   if(slot==='bottom'&&bottom&&!/button|metal|stitch|zip|skin/i.test(n))m.color.copy(bottom);if(slot==='top'&&top){if(n.includes('Jersey / flat')){const side=n.includes('back')?'back':'front';if(tex[side])m.map=tex[side]}else if((n.includes('Top / jersey')||n.includes('jersey binding'))&&m.map){m.map=tex[n.includes('jersey atlas')?'atlas':'pattern'];m.color.setRGB(1,1,1)}else if(/Top \/|Button-up \/ fabric|Pasties \/ black/.test(n))m.color.copy(top);else if (materialAssets && /^Hoodie \/ (cavity|facing)215/.test(n)) {
     m.color.copy(top).multiplyScalar(n.includes('cavity') ? .48 : .78);
-  } else if(/^Hoodie \/ (lining|soft cavity lining|rolled edge|folded mouth facing|lip seam)/.test(n))m.color.copy(top).multiplyScalar(n.includes('cavity')?.43:n.includes('lining')?.72:.88);else if(/^Sleeve \/ (ribbed cuff|cuff fabric)/.test(n))m.color.copy(top).multiplyScalar(.9);}if(n.includes("bandana cotton271")&&m.map){m.map.anisotropy=Math.min(8,renderer.capabilities.getMaxAnisotropy());m.map.needsUpdate=true;}m.envMapIntensity=.7;}})}
+  } else if(/^Hoodie \/ (lining|soft cavity lining|rolled edge|folded mouth facing|lip seam)/.test(n))m.color.copy(top).multiplyScalar(n.includes('cavity')?.43:n.includes('lining')?.72:.88);else if(/^Sleeve \/ (ribbed cuff|cuff fabric)/.test(n))m.color.copy(top).multiplyScalar(.9);}if(m.map&&(n.includes("bandana cotton271")||(slot==="top"&&wardrobeFits?.[b]?.[s.top]&&n.includes("jersey atlas")))){m.map.anisotropy=Math.min(8,renderer.capabilities.getMaxAnisotropy());m.map.needsUpdate=true;}m.envMapIntensity=.7;}})}
 function draw(size){const w=size||hero.clientWidth,h=size||hero.clientHeight;renderer.setSize(w,h,false);const span=(mode==='chat'?(choices().headwear==='cowboy'?1.75:1.35):mode==='face'?1.5:2.7)/zoom,y=mode==='chat'?1.90:mode==='face'?1.88:1.28;camera.left=-span*w/h/2;camera.right=span*w/h/2;camera.top=span/2;camera.bottom=-span/2;camera.updateProjectionMatrix();camera.position.set(6*Math.sin(yaw)*Math.cos(pitch),y+6*Math.sin(pitch),6*Math.cos(yaw)*Math.cos(pitch));camera.lookAt(0,y,0);renderer.render(scene,camera)}
 function orient(){yaw={rearquarter:-2.498,front:0,threequarter:-.464,profile:-Math.PI/2,rightprofile:Math.PI/2,rear:Math.PI,top:0,underside:0}[angle];pitch=angle==='top'?1.07:angle==='underside'?-1.05:0;zoom=1;draw()}
 function visibility(){root?.traverse(o=>{if(!o.isMesh)return;o.visible=true;const arm=/swept.*arm/i.test(o.name),sleeve=o.name.startsWith('Sleeve')||o.userData.partRole262==='sleeve';if(arm||sleeve)o.visible=$('show-arms').checked;if(clothInspectable()&&!$('show-cloth').checked&&(o.userData.slot263==='headgear'||(o.userData.slot263==='extra'&&choices().detail==='sprout')))o.visible=false;if(o.userData.slot263==='lenses')o.visible=$('show-lenses').checked});draw()}

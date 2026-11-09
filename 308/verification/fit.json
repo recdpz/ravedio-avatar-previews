@@ -1,0 +1,78 @@
+{
+  "browser_cases_per_revision": 8,
+  "retained_meshes": [
+    "Shirt / flush hem201",
+    "Sleeve / full fabric wrap201 1",
+    "Sleeve / full fabric wrap201 -1",
+    "Sleeve / sewn cuff201 1",
+    "Sleeve / sewn cuff201 -1"
+  ],
+  "neckline_gap_at_center_sample": 0.024078965187072754,
+  "tested_scarf_fits": 3,
+  "top_sha256": "1511f40d6087df33294179335cc7f1a2d8bc6771aae3b2fea8780f0a70eb7653",
+  "atlases": {
+    "default": {
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "sha256": "b24a1c37dc205583192ae458a9255df713b5f521f3324656a4be8af5c38f1847"
+    },
+    "black": {
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "sha256": "1cecb8e0d9e3f1bfb4eb88305cd5a529b0123892b4df4bdfd4147e3d245df3f0"
+    },
+    "white": {
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "sha256": "7128a4dc3d4c5ae00791ffa9c52a4dbd27cb1a2f38443e891c04bce186683b9f"
+    },
+    "blue": {
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "sha256": "c4fb37c6044b6a208da2fb12e6b7be330b5133910833d51e05795d3e27b02962"
+    },
+    "teal": {
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "sha256": "6a5f9a703d2b5169ffef65a65251e1936cad9011085f0682cc5cf730bf716ca3"
+    },
+    "purple": {
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "sha256": "fef95db10e8cb34b3a0105161fe0b5deddc1f63174f60d397ad1a82364740742"
+    },
+    "pink": {
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "sha256": "82a33296193c5fb195b2f186956efe807b4cdad54bfdbeddde88c3f140c790c7"
+    },
+    "red": {
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "sha256": "2a1cd4f18c212960e97bc290dc65bb0689dde94e1e06406fc236bc9824c56e24"
+    },
+    "lime": {
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "sha256": "5bf10d4a9fe88c45151b6b68795d065761d4d266f55516624d933e63cd6902dc"
+    }
+  }
+}
