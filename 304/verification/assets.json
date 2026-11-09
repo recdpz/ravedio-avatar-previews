@@ -1,0 +1,264 @@
+{
+  "sha256": {
+    "box-braids-none-default.glb": "20b69242426c2002eb1bcd06f9f1efdbc1bb62734032c49e70ff99ff26bc4a04",
+    "box-braids-none-ombre.glb": "85185d8b7ed3b3ad9c8a7028182787a7688f5ee75d1a37b10d2f5bbecaa3624c",
+    "box-braids-pashmina-default.glb": "03cee4ebb775d266b485c819c516a13243117f0db027cab3bfc26060f98533f5",
+    "box-braids-pashmina-ombre.glb": "853d11a9d72b94486dcbe4398217bbb9736f58e0c1f71afa3f4d22678ea31dd8",
+    "ponytail-none-ombre.glb": "5d62653f04af273b746215542b0fe8f54cd7acc5256612968d050e42351d75ea",
+    "ponytail-cap-ombre.glb": "d4f03736b2f66d30627ae7fd65d0bda83bda0c88650091fb81e40d51605a55e3",
+    "ponytail-beanie-ombre.glb": "5bbea33db12b8ae1f71e62cf524284a8de8b0fd6518178141dd9231619f43fcb",
+    "ponytail-bucket-ombre.glb": "85648b8e12a83d716c949942745566f33054f4ca9634dacb330e6a8e9bc5b1de",
+    "ponytail-cowboy-ombre.glb": "4a1ec36a8158c24f475818e69330aa5d35440ce66a33c3dbeff0c7aaee91e559",
+    "ponytail-headband-ombre.glb": "c2892195131831be4c201cae4c7152ea56946927817d98276474fb657f603ea9",
+    "ponytail-ears-ombre.glb": "5d62653f04af273b746215542b0fe8f54cd7acc5256612968d050e42351d75ea",
+    "ponytail-pashmina-ombre.glb": "1be6e1007fe55112a7f4d6c8f37560578270d8c0840ccd11760e4776d664b26b"
+  },
+  "pony_progress": {
+    "none": {
+      "Hair / adjustable front216 1": [
+        0.0,
+        0.288,
+        0.604
+      ],
+      "Hair / adjustable front216 -1": [
+        0.0,
+        0.288,
+        0.604
+      ],
+      "Hair / rounded tail220 0": [
+        0.223,
+        0.539,
+        0.823
+      ],
+      "Hair / rounded tail220 1": [
+        0.177,
+        0.461,
+        0.777
+      ],
+      "Hair / rounded tail220 2": [
+        0.185,
+        0.474,
+        0.785
+      ],
+      "Hair / rounded tail220 3": [
+        0.192,
+        0.487,
+        0.792
+      ],
+      "Hair / rounded tail220 4": [
+        0.2,
+        0.5,
+        0.8
+      ],
+      "Hair / swept roots220": [
+        0.0,
+        0.021,
+        0.15
+      ]
+    },
+    "cap": {
+      "Hair / adjustable front216 1": [
+        0.0,
+        0.288,
+        0.604
+      ],
+      "Hair / adjustable front216 -1": [
+        0.0,
+        0.288,
+        0.604
+      ],
+      "Hair / rounded tail220 0": [
+        0.223,
+        0.539,
+        0.823
+      ],
+      "Hair / rounded tail220 1": [
+        0.177,
+        0.461,
+        0.777
+      ],
+      "Hair / rounded tail220 2": [
+        0.185,
+        0.474,
+        0.785
+      ],
+      "Hair / rounded tail220 3": [
+        0.192,
+        0.487,
+        0.792
+      ],
+      "Hair / rounded tail220 4": [
+        0.2,
+        0.5,
+        0.8
+      ],
+      "Hair / swept roots220": [
+        0.0,
+        0.009,
+        0.107
+      ]
+    },
+    "beanie": {
+      "226 hair / Hair / chestnut226.001": [
+        0.056,
+        0.317,
+        0.836
+      ],
+      "226 hair / Hair / crisp pulled roots220.002": [
+        0.0,
+        0.021,
+        0.15
+      ],
+      "226 hair / Hair / sculpted front locks222.002": [
+        0.0,
+        0.288,
+        0.604
+      ]
+    },
+    "bucket": {
+      "226 hair / Hair / chestnut226.001": [
+        0.061,
+        0.317,
+        0.838
+      ],
+      "226 hair / Hair / crisp pulled roots220.002": [
+        0.0,
+        0.021,
+        0.15
+      ],
+      "226 hair / Hair / sculpted front locks222.002": [
+        0.0,
+        0.288,
+        0.604
+      ]
+    },
+    "cowboy": {
+      "226 hair / Hair / chestnut226": [
+        0.065,
+        0.323,
+        0.838
+      ],
+      "226 hair / Hair / crisp pulled roots220.001": [
+        0.0,
+        0.021,
+        0.15
+      ],
+      "226 hair / Hair / sculpted front locks222.001": [
+        0.0,
+        0.288,
+        0.604
+      ]
+    },
+    "headband": {
+      "Hair / adjustable front216 1": [
+        0.0,
+        0.288,
+        0.604
+      ],
+      "Hair / adjustable front216 -1": [
+        0.0,
+        0.288,
+        0.604
+      ],
+      "Hair / rounded tail220 0": [
+        0.223,
+        0.539,
+        0.823
+      ],
+      "Hair / rounded tail220 1": [
+        0.177,
+        0.461,
+        0.777
+      ],
+      "Hair / rounded tail220 2": [
+        0.185,
+        0.474,
+        0.785
+      ],
+      "Hair / rounded tail220 3": [
+        0.192,
+        0.487,
+        0.792
+      ],
+      "Hair / rounded tail220 4": [
+        0.2,
+        0.5,
+        0.8
+      ],
+      "Hair / swept roots220": [
+        0.0,
+        0.021,
+        0.15
+      ]
+    },
+    "ears": {
+      "Hair / adjustable front216 1": [
+        0.0,
+        0.288,
+        0.604
+      ],
+      "Hair / adjustable front216 -1": [
+        0.0,
+        0.288,
+        0.604
+      ],
+      "Hair / rounded tail220 0": [
+        0.223,
+        0.539,
+        0.823
+      ],
+      "Hair / rounded tail220 1": [
+        0.177,
+        0.461,
+        0.777
+      ],
+      "Hair / rounded tail220 2": [
+        0.185,
+        0.474,
+        0.785
+      ],
+      "Hair / rounded tail220 3": [
+        0.192,
+        0.487,
+        0.792
+      ],
+      "Hair / rounded tail220 4": [
+        0.2,
+        0.5,
+        0.8
+      ],
+      "Hair / swept roots220": [
+        0.0,
+        0.021,
+        0.15
+      ]
+    },
+    "pashmina": {
+      "226 hair / Hair / chestnut212 0": [
+        0.221,
+        0.539,
+        0.825
+      ],
+      "226 hair / Hair / chestnut212 1": [
+        0.175,
+        0.461,
+        0.779
+      ],
+      "226 hair / Hair / chestnut212 2": [
+        0.185,
+        0.474,
+        0.785
+      ],
+      "226 hair / Hair / crisp pulled roots220": [
+        0.0,
+        0.021,
+        0.15
+      ],
+      "226 hair / Hair / sculpted front locks222": [
+        0.0,
+        0.288,
+        0.604
+      ]
+    }
+  }
+}
