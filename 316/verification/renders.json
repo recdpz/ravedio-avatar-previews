@@ -1,0 +1,21 @@
+{
+  "matched_renders": 32,
+  "small_portraits": 64,
+  "source_glbs": 29,
+  "material_revisions": 20,
+  "minimum_alpha_silhouette_overlap": 1.0,
+  "blender_scenes": {
+    "curls-pashmina.blend": {
+      "sha256": "3f150f69714cc6830ebad34082aec7ee0550b04cef093f1a1aeea2fd2f77300b",
+      "packed_images": 1
+    },
+    "flow-cap.blend": {
+      "sha256": "25a1022c3c4594d9186163136f9ceac8de2aedc98741baeffe438052bfa75c67",
+      "packed_images": 2
+    },
+    "ponytail-beanie-jersey.blend": {
+      "sha256": "5bd495460f9d1044dba079d078b85345e6a0e7ecce58eb03eefd67ef40365d3b",
+      "packed_images": 6
+    }
+  }
+}

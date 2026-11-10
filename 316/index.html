@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ravedio · Aero Gloss source comparison</title>
+<style>
+*{box-sizing:border-box}
+:root{--ink:#13293e;--muted:#4b6276;--line:#c6d2df;--plate:#f1f4fa}
+body{margin:0;background:#f7f9fc;color:var(--ink);font:16px/1.5 "Segoe UI",system-ui,sans-serif}
+main{width:min(1000px,100% - 40px);margin:auto;padding:26px 0 48px}
+.kicker{font-size:.78rem;text-transform:uppercase;letter-spacing:.13em;font-weight:700;color:#2d637b}
+h1{font-size:clamp(2rem,6vw,3.7rem);letter-spacing:-.05em;line-height:1.05;margin:5px 0 9px}
+p{margin:0;color:var(--muted)}h2{font-size:1.4rem;margin:0 0 6px}
+.controls{display:grid;grid-template-columns:2fr 1fr 1fr 1fr;gap:10px;margin:19px 0 5px}
+label{font-size:.8rem;font-weight:650;display:grid;gap:3px}
+select{font:inherit;font-size:.94rem;color:var(--ink);background:#fff;border:1px solid var(--line);border-radius:8px;min-height:44px;padding:5px 8px;width:100%;min-width:0}
+select:focus-visible,a:focus-visible{outline:3px solid #2486ab;outline-offset:2px}
+.note{font-size:.78rem;margin:6px 0 12px}
+.pair{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+figure{margin:0}
+.large{width:100%;display:block;background:var(--plate);aspect-ratio:1;border:1px solid var(--line);border-radius:12px}
+figcaption{font-size:.86rem;margin:5px 0;color:var(--muted)}
+strong{color:var(--ink)}
+section+section{border-top:1px solid var(--line);margin-top:20px;padding-top:14px}
+.chat{display:flex;gap:10px;align-items:center;min-width:0;flex-wrap:wrap;margin-top:8px}
+.chat span{display:grid;justify-items:center;gap:4px;font-size:.75rem;color:var(--muted)}
+.chat img{display:block;background:var(--plate);border-radius:50%;max-width:none}
+a{color:#135c79;text-underline-offset:2px}
+.links{display:flex;flex-wrap:wrap;gap:8px 14px;margin-top:9px}
+@media(max-width:650px){main{width:calc(100% - 24px);padding-top:17px}.controls{grid-template-columns:1fr 1fr}.pair{gap:8px}}
+</style>
+</head>
+<body><main>
+<header>
+<div class="kicker">Ravedio · Source review 316</div>
+<h1>Aero Gloss</h1>
+<p>314 versus revised source materials, with the same shapes, camera and plain background.</p>
+</header>
+<div class="controls">
+<label>Avatar<select id="look">
+  <option value="curls-pashmina">Curls · Clear glasses</option>
+  <option value="flow-cap">Flow · Sunglasses</option>
+  <option value="flow-cap-bare-eyes">Flow · Bare eyes</option>
+  <option value="ponytail-beanie-jersey">Ponytail · Beanie and sprout</option>
+</select></label>
+<label>Skin tone<select id="skin">
+  <option value="0">Tone 1</option><option value="1">Tone 2</option><option value="2">Tone 3</option><option value="3" selected>Deep · Tone 4</option>
+</select></label>
+<label>View<select id="view" aria-describedby="angle-note">
+  <option value="chat">15° close-up</option><option value="front">Front</option><option value="profile">Three-quarter</option><option value="side">Side</option><option value="rear">Rear</option>
+</select></label>
+<label>Background<select id="plate">
+  <option value="#f1f4fa">Cool white</option><option value="#ffffff">White</option><option value="#dedfe2">Light gray</option>
+</select></label>
+</div>
+<p id="angle-note" class="note">The close-up has all four skin tones. Other angles are shown on the deep tone.</p>
+<section class="pair" aria-label="Source render comparison">
+<figure><img class="large" id="large-314" width="512" height="512" alt=""><figcaption><strong>314</strong> · Reference</figcaption></figure>
+<figure><img class="large" id="large-316" width="512" height="512" alt=""><figcaption><strong>316</strong> · Aero Gloss</figcaption></figure>
+</section>
+<section aria-label="Chat portraits">
+<h2>At chat size</h2>
+<p>15° crop, shown at actual 48 and 64 CSS pixels.</p>
+<div class="pair">
+<div class="chat" id="chat-314"><span><img width="48" height="48" alt="">48 px</span><span><img width="64" height="64" alt="">64 px</span></div>
+<div class="chat" id="chat-316"><span><img width="48" height="48" alt="">48 px</span><span><img width="64" height="64" alt="">64 px</span></div>
+</div>
+</section>
+<section aria-label="Source files">
+<h2>Source files</h2>
+<p>Each 316 render uses GLBs with the revised materials embedded. The Blender files include the studio lights and packed textures.</p>
+<div class="links">
+  <a href="./files/blender/curls-pashmina.blend">Curls Blender scene</a>
+  <a href="./files/blender/flow-cap.blend">Flow Blender scene</a>
+  <a href="./files/blender/ponytail-beanie-jersey.blend">Ponytail Blender scene</a>
+  <a href="./files/source-receipt.json">GLB index</a>
+  <a href="./finish.json">Finish values</a>
+  <a href="./studio.json">Light rig</a>
+</div>
+</section>
+</main><script src="./preview.js"></script></body>
+</html>
