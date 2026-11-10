@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>321 · Rounded Bean portrait review</title>
+<style>
+:root{font:16px/1.4 system-ui,sans-serif;color:#142638;background:#e5edf4}
+body{max-width:640px;min-height:calc(100vh - 32px);margin:auto;padding:16px}h1{font-size:1.55rem}
+label,button{margin-right:.6rem}select{font:inherit;margin-bottom:.6rem}
+table{border-collapse:collapse;width:100%;margin-top:1rem}th,td{padding:.65rem .35rem;text-align:left;vertical-align:top;border-bottom:1px solid #8293a4}
+.sizes{display:flex;flex-wrap:wrap;align-items:end;gap:.4rem}.sizes span{display:grid;justify-items:center;font-size:.75rem}
+img{display:block;border-radius:50%}a{color:inherit}body.dark{color:#f1f4fa;background:#141c2a}
+</style>
+</head>
+<body>
+<main>
+<h1>Rounded Bean in chat</h1>
+<p>Compare 320 and 321 at 48 and 64 pixels. Select a portrait to see it at 120 pixels.</p>
+<label>Skin
+<select id="skin">
+<option value="0">Fair</option><option value="1">Light warm</option><option value="2">Tan</option><option value="3" selected>Deep</option>
+</select></label>
+<label><input id="theme" type="checkbox"> Dark chat</label>
+<table><thead><tr><th scope="col">Look</th><th scope="col">320</th><th scope="col">321</th></tr></thead>
+<tbody id="portraits"></tbody></table>
+</main>
+<script>
+const skin=document.querySelector("#skin"), theme=document.querySelector("#theme");
+const table=document.querySelector("#portraits");
+const looks=[["ponytail-jersey","Ponytail + Jersey"],["flow-long-beard","Flow + Long Beard"]];
+for (const [id,name] of looks) {
+  const row=table.insertRow();
+  const title=document.createElement("th");
+  title.scope="row";
+  title.textContent=name;
+  row.append(title);
+  for (const revision of [320,321]) {
+    const sizes=document.createElement("div");
+    row.insertCell().append(sizes);
+    sizes.className="sizes";
+    for (const size of [48,64]) {
+      const label=document.createElement("span");
+      const link=document.createElement("a");
+      const portrait=new Image(size,size);
+      portrait.alt=name+", revision "+revision+", "+size+" pixels";
+      portrait.dataset.fixture="r"+revision+"-"+id;
+      link.append(portrait);
+      label.append(link,size+" px");
+      sizes.append(label);
+    }
+  }
+}
+function update() {
+  for (const image of table.querySelectorAll("img")) {
+    const stem="references/"+image.dataset.fixture+"-skin"+skin.value+"-cool-";
+    image.src=stem+image.width+".png";
+    image.parentElement.href=stem+"120.png";
+  }
+}
+skin.addEventListener("change",update);
+theme.addEventListener("change",()=>document.body.classList.toggle("dark",theme.checked));
+update();
+</script>
+</body>
+</html>
