@@ -1,0 +1,69 @@
+{
+  "art_revision": 314,
+  "artwork_commit": "ab3af975b5981627ed97b0d3309ad227d64ec12e",
+  "catalogue": {
+    "catalogue_app_run": false,
+    "changed_fit_rows": 416,
+    "fit_rows": 1792,
+    "new_glbs": 74,
+    "workload_looks": 128,
+    "workload_messages": 512
+  },
+  "catalogue_base_sha256": "4f1646c67e144404231494976240fb4b8ab3be6fd665044d8622c0594f0a8d9d",
+  "catalogue_delta": {
+    "bytes": 37980593,
+    "file": "Ravedio314-catalogue-delta.zip",
+    "sha256": "efb14ebc4c720f8afb61b823ce4178716605472c0cd0cf6ffd1844504cbb9ffd"
+  },
+  "mobile_base_commit": "7d6c7a7a9c24114bc154ca01c6fc979d978ee2f0",
+  "mobile_commit": "4500e79ed05500d1350a0b49de66b19158d09f99",
+  "native": {
+    "assemblies": 4,
+    "layer_groups": 148,
+    "layer_pack_bytes": 8331444,
+    "layer_pack_sha256": "9c4266fa3485b0a59deedfd67e0f96a86045697eebfde3dfa295f419ddc05a42",
+    "looks": 16,
+    "rows": 64
+  },
+  "native_runtime_sha256": "9cd464b67f38f572dbe0b0f826065f7e01028508bf954f897dfbdbd69dca23e6",
+  "phone_handoff": {
+    "bytes": 84246709,
+    "file": "Ravedio314-phone-handoff.zip",
+    "sha256": "d34a2ac4ca891a2278e928229c6f36dfdd1394b8480e87c50df57f8c60e6cfa5"
+  },
+  "references": {
+    "matched_pairs": 48,
+    "minimum_color_depth_overlap": 0.999454,
+    "plate_srgb": [
+      241,
+      244,
+      250
+    ],
+    "yaw_degrees": 15
+  },
+  "schema": "ravedio-mobile-handoff-receipt-1",
+  "verification": {
+    "android_development_debug_build": true,
+    "android_lab_debug_build": true,
+    "android_lab_unit_tests": 19,
+    "android_layers_pixel_hashes_matched": {
+      "308": 64,
+      "314": 64
+    },
+    "ios_xcode_build": false,
+    "physical_android": false,
+    "physical_ios": false,
+    "preview_css_px": [
+      48,
+      64
+    ],
+    "preview_skin_choices": 4,
+    "preview_themes": 2,
+    "python_avatar_tests": 28,
+    "python_release_profile_tests": 10,
+    "staged": [
+      308,
+      314
+    ]
+  }
+}
