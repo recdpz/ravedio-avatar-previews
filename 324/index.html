@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ravedio · Simple chat icons</title>
+<style>
+  :root { color-scheme: dark; font: 16px system-ui; background: #11151d; color: #eef1f8; --icon-size: 24px; }
+  * { box-sizing: border-box; }
+  body { margin: 0; }
+  main { max-width: 35rem; margin: auto; padding: 1.25rem 1rem; }
+  h1 { font-size: 1.55rem; margin: 0; }
+  p { color: #b9c3d5; line-height: 1.45; }
+  a { color: #b6d1ff; }
+  button { font: inherit; color: inherit; padding: .4rem .75rem; background: #242e3f; border: 1px solid #75859d; border-radius: 6px; }
+  button[aria-pressed=true] { color: #151a22; background: #d1e0f9; }
+  table { border-collapse: collapse; width: 100%; margin: .9rem 0; }
+  th, td { padding: .5rem .25rem; text-align: center; border-bottom: 1px solid #343c4b; }
+  th:first-child { text-align: left; }
+  tbody th { font-size: .9rem; font-weight: 500; }
+  img { display: block; margin: auto; width: var(--icon-size); height: var(--icon-size); border-radius: 50%; }
+  small { color: #b9c3d5; }
+</style>
+<main>
+  <h1>Simple chat icons</h1>
+  <p>Same avatar models, rendered with soft graphic shading and a closer crop. The hair and accessories carry the identity at chat size.</p>
+  <div role="group" aria-label="Icon display size">
+    <button type="button" data-size="24" aria-pressed="true">24 px · Chat</button>
+    <button type="button" data-size="56" aria-pressed="false">56 px · Inspect</button>
+  </div>
+  <div id="status" role="status"></div>
+  <table>
+    <thead><tr><th scope="col">Look</th><th scope="col">Studio</th><th scope="col">Simple</th></tr></thead>
+    <tbody></tbody>
+  </table>
+  <p><small>Space buns and box braids use the same skin tone. The pashmina, cap and beanie also share a skin tone.</small></p>
+  <p><a href="files/comparison.png">Open comparison sheet</a></p>
+</main>
+<script type="module">
+  const status = document.querySelector("#status");
+  try {
+    const response = await fetch("files/looks.json");
+    if (!response.ok) throw new Error("Portrait list is missing.");
+    const rows = document.querySelector("tbody");
+    for (const look of await response.json()) {
+      const row = rows.insertRow();
+      const title = document.createElement("th");
+      title.scope = "row";
+      title.textContent = look.label;
+      row.append(title);
+      for (const mode of ["studio", "icon"]) {
+        const img = new Image();
+        img.alt = look.label;
+        img.dataset.stem = "files/portraits/" + look.id + "-" + mode;
+        row.insertCell().append(img);
+      }
+    }
+    const buttons = document.querySelectorAll("button[data-size]");
+    const setSize = size => {
+      document.documentElement.style.setProperty("--icon-size", size + "px");
+      for (const img of rows.querySelectorAll("img")) {
+        const base = img.dataset.stem;
+        img.src = base + "-" + (size === "24" ? "24" : "120") + ".png";
+        img.srcset = size === "24" ? base + "-48.png 2x, " + base + "-72.png 3x" : "";
+      }
+      for (const button of buttons) button.setAttribute("aria-pressed", button.dataset.size === size);
+    };
+    for (const button of buttons) button.addEventListener("click", () => setSize(button.dataset.size));
+    setSize("24");
+  } catch (error) {
+    status.textContent = error.message;
+  }
+</script>
