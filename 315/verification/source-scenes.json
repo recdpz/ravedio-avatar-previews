@@ -1,0 +1,53 @@
+{
+  "art_revision": 315,
+  "cases": {
+    "curls-pashmina": {
+      "packed_scene_sha256": "c0a524810b86561d65e9e492186c39389bc9ce56cf9d389e8dd64b1e34c848b2",
+      "parts": {
+        "base": "5731ff78232c8c8d4268a70c5f4dc2c505fdbc00ba8840742d6686fb0c5578dc",
+        "hair": "f773570ceadf8911e6bc3bf58db606941adba049ce625a96536e2477d37f8fac",
+        "eyes": "27fd81fd61d7d8bc6741052ec8664d3fa59584ce9f8fb644a2fbee61bfa983b4",
+        "mouth": "51f0c71651646b8cc3288691f3735444a9dcc8ef66c1cdfa4f62e6829a163657",
+        "top": "6aef699305592e73e68a0ffac7ad9900409f89e44276648533d4f13a1c5902eb",
+        "bottom": "7e450437a86ccd5a41259daf82bd3ccd3521942ea3fd97fa7256685151846f39",
+        "lashes": "6bd375895f22a064d48c31c2f5db09d9f7230a20918e13c6d712ed947f25da74",
+        "headgear": "1e03e57bbefebb00ee5298d12e403a244c2876e32169dc300b99fe4c49859a04",
+        "glasses": "4db2d6a61e5a2adcc384b6ef1660688cb95b661ddaad6eb673798dd166d6254b",
+        "lenses": "b06178f21aab99c77e8c0f1994b36b1fe2fdeb5d162d283c13b087822f1ff4f1",
+        "extra": "c7ee843cf765a20f26b52d40a8055a9794b199b626afc682a3be0b48caacccab"
+      },
+      "packed_texture_images": 2
+    },
+    "flow-cap": {
+      "packed_scene_sha256": "795100c04c60ecf792a52e472b46bd528653c87f8d9d8929fd01a03e859842ec",
+      "parts": {
+        "base": "0635940738e6048c6027cf8717b311941e0690aba9af119016dfef9beb26f31e",
+        "hair": "f18009decbe6d758d99abeff27fb528adf1bf6f35c96d6d41d246f033e042169",
+        "eyes": "ad8b16bf8ff730d5625682799c5f69941307fb179e8655033f8ddd5d978dd272",
+        "mouth": "531c2751f2ea2d1cee80610d177d9bca3753c8b18134516900bedab9c879d171",
+        "groom": "0184ea62ba37d501ed8884cb220a8c3d8e0c4aa47db57b335ab6133012a92062",
+        "top": "5c1d758ea14fa28b12a507d9dbb75b98c0c9f8dfd2930ae569f19a4fa53c0d47",
+        "bottom": "b2e0ba0634763173c368643181eec15aa316111512021325b5534b91eca7022c",
+        "headgear": "b34c5508d5b1ee0778595b5380c759927a55fc048933b33e5dc19c8fb45613b1",
+        "glasses": "ec3156a9c96fb83e359ee7e64ff41284696bb943970ce111bba7d562082194ce",
+        "lenses": "bf36c529567a2f92d0edf79a23fc52f50c83162fa253e69794b314508bb37355",
+        "extra": "b11a1b3c05722f80451c7e4cc9e5c7d74cea0c7c9ba227e963d5da29f4fd850c"
+      },
+      "packed_texture_images": 4
+    },
+    "twin-jersey-bare": {
+      "packed_scene_sha256": "d88e2b89f39b916b258e29f0f2707121b0839540ac2c48178120fda3f2f6bf73",
+      "parts": {
+        "base": "5731ff78232c8c8d4268a70c5f4dc2c505fdbc00ba8840742d6686fb0c5578dc",
+        "hair": "30f94c6e9b07947872c5ff8e77dcb3ff54d842edb497aba884f44d1c9605fa49",
+        "eyes": "a27d5a1519c2df13017474a47428b701215867e20e47b0a8ab2c31640d7b2c00",
+        "mouth": "51f0c71651646b8cc3288691f3735444a9dcc8ef66c1cdfa4f62e6829a163657",
+        "top": "0d1b797aa8594b33b68347932f46dcc9ffc158a60a286695d8de84870c84ca46",
+        "bottom": "7e450437a86ccd5a41259daf82bd3ccd3521942ea3fd97fa7256685151846f39",
+        "lashes": "79f7611240a826b4c4daeff8d4db719fbd2b8f0c804d4ecc85709016f298de62",
+        "hairLengths": "7db17ddefa13a569a373af58502abe34e59a73020d18c3a8cd69f7290fb55532"
+      },
+      "packed_texture_images": 3
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "revision": 315,
+  "looks": 16,
+  "angles": [
+    "front",
+    "threequarter",
+    "profile",
+    "rightprofile",
+    "rearquarter",
+    "rear",
+    "top",
+    "underside"
+  ],
+  "geometryMatches": 16,
+  "imageCount": 144,
+  "coverage": [
+    "curls",
+    "ponytail",
+    "straight",
+    "box-braids",
+    "bob",
+    "side-sweep",
+    "space-buns",
+    "twin-braids",
+    "flow",
+    "taper",
+    "buzz",
+    "curly-top",
+    "afro",
+    "locs",
+    "middle-part",
+    "sidepart"
+  ],
+  "lensTintSwap": true
+}
