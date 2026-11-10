@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>318 · Connected beards</title>
+<style>
+:root{font:16px system-ui,sans-serif;color:#142638;background:#e5edf4}
+body{max-width:960px;margin:auto;padding:16px}h1{font-size:1.6rem;margin:0}
+.controls,.portraits,.chat{display:flex;gap:12px;flex-wrap:wrap}.controls{margin:18px 0}
+label{display:grid;gap:3px}select{font:inherit;padding:6px}
+article{flex:1 1 285px;min-width:0;background:#fff;padding:10px;border-radius:8px}
+article h2{font-size:1rem;margin:0 0 6px}.face{width:100%;height:auto;display:block}
+.chat{align-items:end;margin-top:10px}.chat span{display:grid;font-size:.8rem;text-align:center}
+</style>
+<main>
+<h1>318 · Connected beards</h1>
+<p>Matched 15° portraits, plus four angles for the revised beard. Select a portrait to zoom.</p>
+<div class="controls">
+<label>Facial hair<select id="groom"><option value="short">Short beard</option><option value="long">Long beard</option></select></label>
+<label>Skin<select id="skin"><option value="0">Light warm</option><option value="3">Deep</option></select></label>
+<label>318 angle<select id="angle"><option value="chat">15° portrait</option><option value="front">Front</option><option value="turn">Three-quarter</option><option value="profile">Profile</option><option value="opposite">Opposite three-quarter</option></select></label>
+</div>
+<div class="portraits">
+<article data-revision="317"><h2>317 · Separate mustache</h2><a><img class="face" width="464" height="464"></a><div class="chat"><span><img width="48" height="48">48 px</span><span><img width="64" height="64">64 px</span></div></article>
+<article data-revision="318"><h2>318 · Connected mustache</h2><a><img class="face" width="464" height="464"></a><div class="chat"><span><img width="48" height="48">48 px</span><span><img width="64" height="64">64 px</span></div></article>
+</div>
+<p><a href="./files/review/comparison.jpg">Close-up comparison sheet</a></p>
+</main>
+<script>
+const groom=document.getElementById("groom"), skin=document.getElementById("skin"), angle=document.getElementById("angle");
+function update(){
+  for(const card of document.querySelectorAll("article")){
+    const revision=card.dataset.revision;
+    const prefix="./files/review/"+revision+"-"+groom.value+"-skin"+skin.value;
+    const image=card.querySelector(".face");
+    image.src=prefix+"-"+(revision==="318"?angle.value:"chat")+".png";
+    image.alt=card.querySelector("h2").textContent+" portrait";
+    card.querySelector("a").href=image.src;
+    for(const small of card.querySelectorAll(".chat img")){
+      small.src=prefix+"-"+small.width+".png";
+      small.alt=revision+" chat portrait at "+small.width+" pixels";
+    }
+  }
+}
+for(const field of [groom,skin,angle]) field.addEventListener("change",update);
+update();
+</script>
+</html>
