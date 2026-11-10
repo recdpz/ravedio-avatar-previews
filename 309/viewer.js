@@ -36,6 +36,11 @@ for (const [model, styles] of Object.entries(hairFits ?? {})) {
     Object.assign(catalogue.builds[model].hair[style], {label: entry.label, note: entry.note});
   }
 }
+for (const [model, styles] of Object.entries(overlay?.hairLabels ?? {})) {
+  for (const [style, text] of Object.entries(styles)) {
+    Object.assign(catalogue.builds[model].hair[style], text);
+  }
+}
 const controlKey = 'ravedio-controls' + revision;
 function bandanaFit(model, selection) {
   return selection.headwear === 'headband' ? bandanaFits?.[model + '-' + selection.hair] : null;
