@@ -1,0 +1,357 @@
+{
+  "revision": 317,
+  "baseline": 316,
+  "beanie_fits": {
+    "feminine-bob": {
+      "lowering": 0.044,
+      "rear_tuck": 0.016,
+      "crown_blend_start": 2.045,
+      "rear_only": false,
+      "vertices": 10728,
+      "crown_contacts_before": [
+        0,
+        0
+      ],
+      "crown_contacts_after": [
+        0,
+        0
+      ],
+      "hat_sha256": "eca789720ccf40d80169592f5192c97a6570a524a8452509a4f18307be02bf87",
+      "sprout_sha256": "c03f19a6f53a3decf9824cdced210ecb0359ea64cfa9988c3a643b7428794712"
+    },
+    "feminine-ponytail": {
+      "lowering": 0.044,
+      "rear_tuck": 0.016,
+      "crown_blend_start": 2.045,
+      "rear_only": false,
+      "vertices": 10728,
+      "crown_contacts_before": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "crown_contacts_after": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hat_sha256": "77b398184d4c8f24dc1918cdad7866a062a5cd72500a6fa6d03b985ebbe7fb33",
+      "sprout_sha256": "e9c14bae4b03cd55ba5ef0d6461781c3b782c51b089d062c46d2a8f1261298ef"
+    },
+    "feminine-straight": {
+      "lowering": 0.044,
+      "rear_tuck": 0.016,
+      "crown_blend_start": 2.045,
+      "rear_only": false,
+      "vertices": 10728,
+      "crown_contacts_before": [
+        0,
+        0
+      ],
+      "crown_contacts_after": [
+        0,
+        0
+      ],
+      "hat_sha256": "413b1e0b71ef560b423db4ef2185b9b03ab416517362764818be5b448a1f9d80",
+      "sprout_sha256": "5ac8c256767b3207a0482b1b536e4eef9e7b25dafa20293357c67fe034ca0904"
+    },
+    "feminine-curls": {
+      "lowering": 0.044,
+      "rear_tuck": 0.016,
+      "crown_blend_start": 2.045,
+      "rear_only": false,
+      "vertices": 10728,
+      "crown_contacts_before": [
+        0,
+        0
+      ],
+      "crown_contacts_after": [
+        0,
+        0
+      ],
+      "hat_sha256": "02cb3264a07bdf899879b8b349b07ca83e87d037f467aa0a94a43ca3338ead22",
+      "sprout_sha256": "b4a3b9637a028495baec8b060ca2193d938a0d1a86d420d3323f2c95022370c0"
+    },
+    "feminine-side-sweep": {
+      "lowering": 0.044,
+      "rear_tuck": 0.016,
+      "crown_blend_start": 2.045,
+      "rear_only": false,
+      "vertices": 10728,
+      "crown_contacts_before": [
+        0,
+        0
+      ],
+      "crown_contacts_after": [
+        0,
+        0
+      ],
+      "hat_sha256": "82abd7d3312ed4244329f3cd7632581d6f31fe61acf6dfad117c0da3aac8bfef",
+      "sprout_sha256": "3fe749cf65a4b77c5a9fb13368c05f824de8df461e79219d2af4a639cb2c5629"
+    },
+    "feminine-space-buns": {
+      "lowering": 0.044,
+      "rear_tuck": 0.016,
+      "crown_blend_start": 2.045,
+      "rear_only": false,
+      "vertices": 10728,
+      "crown_contacts_before": [
+        0,
+        0
+      ],
+      "crown_contacts_after": [
+        0,
+        0
+      ],
+      "hat_sha256": "759fbc352efb0b621153d42d931b8a1d6aaaf0e2650671e09a7d0b11d2a49a5a",
+      "sprout_sha256": "d69482e28af897c9bc74eaf5d126a2df24aeeb4f9cbd57efcddbc5633634a139"
+    },
+    "feminine-twin-braids": {
+      "lowering": 0.044,
+      "rear_tuck": 0.016,
+      "crown_blend_start": 2.045,
+      "rear_only": false,
+      "vertices": 10728,
+      "crown_contacts_before": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "crown_contacts_after": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hat_sha256": "a5be67efac39b5606eba9576c0a8c280e1b61acdba6b2c74eb29ad6b4807e6fc",
+      "sprout_sha256": "5eaf40468115fc18792ba8c53d986e9532a0b38f90d3ba165f2705bdc8927f3c"
+    },
+    "feminine-box-braids": {
+      "lowering": 0.044,
+      "rear_tuck": 0.016,
+      "crown_blend_start": 2.045,
+      "rear_only": false,
+      "vertices": 10728,
+      "crown_contacts_before": [
+        0,
+        0
+      ],
+      "crown_contacts_after": [
+        0,
+        0
+      ],
+      "hat_sha256": "83d5f61f9d3167f6c372f5d3a96e0bba74d92713f73ba28d5b812d29d3a984e5",
+      "sprout_sha256": "a5a1447489979f3fcca871c7e5cd0e2952ed0041b766f07c7274ce48eed65129"
+    },
+    "masculine-sidepart": {
+      "lowering": 0.044,
+      "rear_tuck": 0.016,
+      "crown_blend_start": 2.16,
+      "rear_only": false,
+      "vertices": 7645,
+      "crown_contacts_before": [
+        0,
+        0
+      ],
+      "crown_contacts_after": [
+        0,
+        0
+      ],
+      "hat_sha256": "5d8913af34b40dffd4804f8861f119c847742c85c291d1cc200f23e7259b0edb",
+      "sprout_sha256": "d0357ded7751f3bef7e290852bfe9ab0912c7320fdce2f6ba7b7fe50169cc992"
+    },
+    "masculine-taper": {
+      "lowering": 0.024,
+      "rear_tuck": 0.016,
+      "crown_blend_start": 2.185,
+      "rear_only": false,
+      "vertices": 6879,
+      "crown_contacts_before": [
+        0,
+        0
+      ],
+      "crown_contacts_after": [
+        0,
+        0
+      ],
+      "hat_sha256": "718d5a3debfda53decde562ab2938c646f1949a2aae16d9a980ada76b8797473",
+      "sprout_sha256": "e6708672df3f6de88c4fc441a39c40ebadc5b644832931509734bb94a4103ed7"
+    },
+    "masculine-buzz": {
+      "lowering": 0.044,
+      "rear_tuck": 0.016,
+      "crown_blend_start": 2.045,
+      "rear_only": false,
+      "vertices": 10728,
+      "crown_contacts_before": [
+        0,
+        0
+      ],
+      "crown_contacts_after": [
+        0,
+        0
+      ],
+      "hat_sha256": "ac4a43b3c7b1c3e5cd569e57248c03dc06ca6c7bdb7bc9f4d321a98461809539",
+      "sprout_sha256": "99987214819e49b832d0085aafd4027946ad246ea87b1f86bd7acb153d964232"
+    },
+    "masculine-curly-top": {
+      "lowering": 0.044,
+      "rear_tuck": 0.018,
+      "crown_blend_start": 2.07,
+      "rear_only": true,
+      "vertices": 3528,
+      "crown_contacts_before": [
+        0,
+        0
+      ],
+      "crown_contacts_after": [
+        0,
+        0
+      ],
+      "hat_sha256": "9efc4b4cdfaaf3061bdc6edaad847c14b6fc9eb11130dff0c2bf0385dcaa324b",
+      "sprout_sha256": "fa5862877d47522af0b6925142b19dc25bb7a15edb441c289cfd181fb1806d7a"
+    },
+    "masculine-afro": {
+      "lowering": 0.044,
+      "rear_tuck": 0.016,
+      "crown_blend_start": 2.045,
+      "rear_only": false,
+      "vertices": 10728,
+      "crown_contacts_before": [
+        0,
+        0
+      ],
+      "crown_contacts_after": [
+        0,
+        0
+      ],
+      "hat_sha256": "e91fc3406bd8dd5b5296a25a6e45a6c5bf363176fb0df07490519878946b7196",
+      "sprout_sha256": "09f97e5ce91bc83f92dd855892af96000805614de162fbb5f2648152f4edb970"
+    },
+    "masculine-flow": {
+      "lowering": 0.044,
+      "rear_tuck": 0.016,
+      "crown_blend_start": 2.045,
+      "rear_only": false,
+      "vertices": 10728,
+      "crown_contacts_before": [
+        0,
+        0
+      ],
+      "crown_contacts_after": [
+        0,
+        0
+      ],
+      "hat_sha256": "8f989d6ac7ff6820c3ec494342c72b27b44ec4f6726e8aaea4b787ded3e2a634",
+      "sprout_sha256": "a5691072ae0a13bbe4ba44ce0d20446066c09e4addee650a5b9b9337ac00a5fd"
+    },
+    "masculine-locs": {
+      "lowering": 0.044,
+      "rear_tuck": 0.016,
+      "crown_blend_start": 2.045,
+      "rear_only": false,
+      "vertices": 10728,
+      "crown_contacts_before": [
+        0,
+        0
+      ],
+      "crown_contacts_after": [
+        0,
+        0
+      ],
+      "hat_sha256": "4d0ee02e6d17c1569ec29b3efb63c2b30678d4d85b98a3b044ff98534897db3d",
+      "sprout_sha256": "f763d63138fb6fd5182eaa8b3e3418e66b2644b62da952ecb6537dcd321668fa"
+    },
+    "masculine-middle-part": {
+      "lowering": 0.044,
+      "rear_tuck": 0.016,
+      "crown_blend_start": 2.045,
+      "rear_only": false,
+      "vertices": 10728,
+      "crown_contacts_before": [
+        0,
+        0
+      ],
+      "crown_contacts_after": [
+        0,
+        0
+      ],
+      "hat_sha256": "90b18f5ffb78fbb9edc1416a3e63b100e51a79d4f7353797dad554d1bad7cc32",
+      "sprout_sha256": "5be4433395f57bfa9d2255121dffaf49f4ee582c3c85d1cfffd8383bfb9cdfed"
+    }
+  },
+  "groom_styles": {
+    "mustache": {
+      "changed_mustache_vertices": 8338,
+      "sha256": "446d85749c9c2dead52beb0e9b07e4f84204393bab740c8e01f45f23ad938aa5"
+    },
+    "patch": {
+      "changed_mustache_vertices": 8338,
+      "sha256": "877b61d0d70c4aa451e4a3106adc7827f722462cfd5fd591f28b9a885374e013"
+    },
+    "goatee": {
+      "changed_mustache_vertices": 8338,
+      "sha256": "65719747e46f4470358c7658f045212474d8921789bd56d7920d8e6af4e487a1"
+    },
+    "short": {
+      "changed_mustache_vertices": 8338,
+      "sha256": "eced5de93f09f5a850f6a6c072e413572f413c2433ebc1b964471d265d49bf2c"
+    },
+    "long": {
+      "changed_mustache_vertices": 8338,
+      "sha256": "ea095cf05cf86e9cb4c21903d666df2a94448835a2b7d9a861a3cc2f1e8f2196"
+    }
+  },
+  "replacement_glbs": 37,
+  "render_pairs": 38,
+  "chat_crops": 256,
+  "crops": {
+    "original": {
+      "span": 1.16,
+      "target_z": 1.85,
+      "box": [
+        88,
+        20,
+        552,
+        484
+      ]
+    },
+    "chat": {
+      "span": 1.25,
+      "target_z": 1.805,
+      "box": [
+        70,
+        20,
+        570,
+        520
+      ]
+    },
+    "profile": {
+      "span": 1.36,
+      "target_z": 1.75,
+      "box": [
+        48,
+        20,
+        592,
+        564
+      ]
+    }
+  },
+  "packed_blender_scenes": {
+    "flow-cap-bare-eyes.blend": {
+      "sha256": "bfd539e651de13442662345d2e10c3c94a9e60aafc6bd5d87cb91bd60af7b074",
+      "packed_images": 2
+    },
+    "ponytail-beanie-jersey.blend": {
+      "sha256": "d8c83341949d9f14e01c10e1818f43e7b8ce7842bb4c9720fd1e6d3ef4910448",
+      "packed_images": 6
+    },
+    "flow-long.blend": {
+      "sha256": "7973b7440593e02a29ba2ed24dbdc368cdd97fcd791f51a33271a3aabcf7402b",
+      "packed_images": 1
+    }
+  }
+}

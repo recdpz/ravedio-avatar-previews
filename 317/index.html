@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ravedio · 317 fit and framing</title>
+<style>
+*{box-sizing:border-box}
+:root{--ink:#13293e;--muted:#4b6276;--line:#c6d2df;--plate:#f1f4fa}
+body{margin:0;background:#f7f9fc;color:var(--ink);font:16px/1.5 "Segoe UI",system-ui,sans-serif}
+main{width:min(1000px,100% - 40px);margin:auto;padding:26px 0 48px}
+.kicker{font-size:.78rem;text-transform:uppercase;letter-spacing:.13em;font-weight:700;color:#2d637b}
+h1{font-size:clamp(2rem,6vw,3.7rem);letter-spacing:-.05em;line-height:1.05;margin:5px 0 9px}
+p{margin:0;color:var(--muted)}h2{font-size:1.4rem;margin:0 0 6px}
+.controls{display:grid;grid-template-columns:2fr 1fr 1fr 1fr;gap:10px;margin:19px 0 5px}
+label{font-size:.8rem;font-weight:650;display:grid;gap:3px}
+select{font:inherit;font-size:.94rem;color:var(--ink);background:#fff;border:1px solid var(--line);border-radius:8px;min-height:44px;padding:5px 8px;width:100%;min-width:0}
+select:focus-visible,a:focus-visible{outline:3px solid #2486ab;outline-offset:2px}
+.match{display:flex;align-items:center;gap:7px;min-height:38px}
+.match input{width:17px;height:17px;accent-color:#146d91}
+.note{font-size:.78rem;margin:6px 0 12px}
+.pair{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+figure{margin:0}
+.large{width:100%;display:block;background:var(--plate);aspect-ratio:1;border:1px solid var(--line);border-radius:12px}
+figcaption{font-size:.86rem;margin:5px 0;color:var(--muted)}
+strong{color:var(--ink)}
+section+section{border-top:1px solid var(--line);margin-top:20px;padding-top:14px}
+.chat{display:flex;gap:10px;align-items:center;min-width:0;flex-wrap:wrap;margin-top:8px}
+.chat span{display:grid;justify-items:center;gap:4px;font-size:.75rem;color:var(--muted)}
+.chat img{display:block;background:var(--plate);border-radius:50%;max-width:none}
+a{color:#135c79;text-underline-offset:2px}
+.links{display:flex;flex-wrap:wrap;gap:8px 14px;margin-top:9px}
+@media(max-width:650px){main{width:calc(100% - 24px);padding-top:17px}.controls{grid-template-columns:1fr 1fr}.pair{gap:8px}}
+</style>
+</head>
+<body><main>
+<header>
+<div class="kicker">Ravedio · Source review 317</div>
+<h1>Fit and framing</h1>
+<p>Lower beanie, a softer mustache, and more room for the shirt. The comparison uses the same Aero Gloss lighting and Cool white plate.</p>
+</header>
+<div class="controls">
+<label>Avatar<select id="look">
+  <option value="ponytail-beanie-jersey">Ponytail · Beanie and sprout</option>
+  <option value="flow-cap-bare-eyes">Flow · Short beard</option>
+  <option value="flow-mustache">Flow · Mustache</option>
+  <option value="flow-patch">Flow · Mustache and patch</option>
+  <option value="flow-goatee">Flow · Goatee</option>
+  <option value="flow-long">Flow · Long beard</option>
+  <option value="flow-cap">Flow · Short beard and sunglasses</option>
+  <option value="curls-pashmina">Curls · Clear glasses</option>
+</select></label>
+<label>Skin tone<select id="skin">
+  <option value="0">Tone 1</option><option value="1">Tone 2</option><option value="2">Tone 3</option><option value="3" selected>Deep · Tone 4</option>
+</select></label>
+<label>View<select id="view" aria-describedby="angle-note">
+  <option value="front">15° portrait</option><option value="side">Side</option><option value="rear">Rear three-quarter</option>
+</select></label>
+<label>Framing<select id="crop">
+  <option value="profile">New profile</option><option value="chat">New chat</option><option value="original">Original crop</option>
+</select></label>
+</div>
+<label class="match"><input type="checkbox" id="match" checked> Match framing across both sides</label>
+<p id="angle-note" class="note">Side and rear views are available on the deep tone for Beanie, Short Beard and Long Beard.</p>
+<section class="pair" aria-label="Source render comparison">
+<figure><a id="zoom-316" href="#" target="_blank" rel="noopener"><img class="large" id="large-316" width="512" height="512" alt=""></a><figcaption id="caption-316"><strong>316</strong> · Reference</figcaption></figure>
+<figure><a id="zoom-317" href="#" target="_blank" rel="noopener"><img class="large" id="large-317" width="512" height="512" alt=""></a><figcaption id="caption-317"><strong>317</strong> · Revised</figcaption></figure>
+</section>
+<section aria-label="Chat portraits">
+<h2>At chat size</h2>
+<p>Original chat crop on the left, new chat crop on the right. Shown at 48 and 64 CSS pixels.</p>
+<div class="pair">
+<div class="chat" id="chat-316"><span><img width="48" height="48" alt="">48 px</span><span><img width="64" height="64" alt="">64 px</span></div>
+<div class="chat" id="chat-317"><span><img width="48" height="48" alt="">48 px</span><span><img width="64" height="64" alt="">64 px</span></div>
+</div>
+</section>
+<section aria-label="Source files">
+<h2>Source files</h2>
+<p>317 renders use the updated beanie and grooming GLBs with the 316 finish. The source index records every fitted replacement.</p>
+<div class="links">
+  <a href="./files/blender/ponytail-beanie-jersey.blend">Ponytail Blender scene</a>
+  <a href="./files/blender/flow-cap-bare-eyes.blend">Short Beard Blender scene</a>
+  <a href="./files/blender/flow-long.blend">Long Beard Blender scene</a>
+  <a href="./files/source.json">GLB index</a>
+  <a href="./verification/comparison.jpg">Fit comparison</a>
+  <a href="./verification/framing.jpg">Framing comparison</a>
+  <a href="./verification/mouth.jpg">Mouth close-ups</a>
+</div>
+</section>
+</main><script src="./preview.js"></script></body>
+</html>
