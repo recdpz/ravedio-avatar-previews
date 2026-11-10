@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>320 · Chestnut comparison</title>
+<style>
+:root{font:16px system-ui,sans-serif;color:#142638;background:#e5edf4}
+body{max-width:960px;margin:auto;padding:16px}h1{font-size:1.6rem;margin:0}
+.controls,.portraits,.chat{display:flex;gap:12px;flex-wrap:wrap}.controls{margin:18px 0}
+label{display:grid;gap:3px}select{font:inherit;padding:6px}
+article{flex:1 1 285px;min-width:0;background:#fff;padding:10px;border-radius:8px}
+article h2{font-size:1rem;margin:0 0 6px}.face{width:100%;height:auto;display:block}
+.chat{align-items:end;margin-top:10px}.chat span{display:grid;font-size:.8rem;text-align:center}
+</style>
+<main>
+<h1>320 · Chestnut comparison</h1>
+<p>The source renders share a camera and lighting. The small portraits show the exact 48 and 64 px chat crops.</p>
+<div class="controls">
+
+<label>Look<select id="look"><option value="taper">Taper + stubble</option><option value="buzz">Buzz</option><option value="long-beard">Flow + long beard</option><option value="long-bangs">Long bangs</option><option value="curls-pashmina">Curls + pashmina</option><option value="ponytail-bare-ombre">Ombr&eacute; ponytail</option><option value="ponytail-ombre">Ombré ponytail + beanie</option></select></label>
+<label>Skin<select id="skin"><option value="3">Deep</option><option value="2">Tan</option></select></label>
+<label>Angle<select id="angle"><option value="chat">15° portrait</option><option value="side">Side</option><option value="opposite">Opposite three-quarter</option></select></label>
+</div>
+<div class="portraits">
+<article data-revision="0"><h2>Previous brown</h2><a><img class="face" width="464" height="464"></a><div class="chat"><span><img width="48" height="48">48 px</span><span><img width="64" height="64">64 px</span></div></article>
+<article data-revision="1"><h2>Chestnut</h2><a><img class="face" width="464" height="464"></a><div class="chat"><span><img width="48" height="48">48 px</span><span><img width="64" height="64">64 px</span></div></article>
+</div>
+<p><a href="./files/review/comparison.jpg">Comparison sheet</a> · <a href="./">Rotatable catalogue</a></p>
+</main>
+<script>
+const look=document.getElementById("look"), skin=document.getElementById("skin"), angle=document.getElementById("angle");
+function update(){
+  angle.disabled=skin.value==="2";
+  if(angle.disabled) angle.value="chat";
+  for(const card of document.querySelectorAll("article")){
+    const revision=card.dataset.revision;
+    const prefix="./files/review/"+look.value+"-"+revision+"-skin"+skin.value;
+    const image=card.querySelector(".face");
+    image.src=prefix+"-"+angle.value+".png";
+    image.alt=card.querySelector("h2").textContent+" portrait";
+    card.querySelector("a").href=image.src;
+    for(const small of card.querySelectorAll(".chat img")){
+      small.src=prefix+"-"+small.width+".png";
+      small.alt=card.querySelector("h2").textContent+" at "+small.width+" pixels";
+    }
+  }
+}
+for(const field of [look,skin,angle]) field.addEventListener("change",update);
+update();
+</script>
+</html>

@@ -21,11 +21,14 @@ const aeroUrl = document.documentElement.dataset.aeroCatalogue
 const aeroRoot = aeroUrl ? new URL("../",aeroUrl).pathname : null;
 const aeroAssets = aeroUrl ? await (await fetch(aeroUrl)).json() : null;
 const aeroStudio = aeroUrl ? await (await fetch(new URL("studio.json", aeroUrl))).json() : null;
+const overlayFile = document.documentElement.dataset.aeroOverlay;
+const overlayUrl = overlayFile ? new URL(overlayFile,document.baseURI) : null;
+const overlay = overlayUrl ? await (await fetch(overlayUrl)).json() : null;
 const materialPaths = new Map(Object.entries(materialAssets?.components ?? {}).map(([source, target]) =>
   [new URL(source, materialUrl).href, new URL(target, materialUrl).href]));
 if (materialAssets) {
   catalogue.colors.hair.find(([key]) => key === 'default')[1] = 'Original (Brown)';
-  catalogue.colors.hair.find(([key]) => key === 'darkbrown')[2] = materialAssets.brownSrgb;
+  catalogue.colors.hair.find(([key]) => key === 'darkbrown')[2] = overlay?.brownSrgb ?? materialAssets.brownSrgb;
 }
 const revision = Number(artRevision || (bandanaFits ? 271 : 270));
 for (const [model, styles] of Object.entries(hairFits ?? {})) {
@@ -85,7 +88,7 @@ for(const [color,power,p] of [[0xfff0dd,.85,[-3,5,4]],[0xe1d7f0,.25,[4,3,-2]],[0
 const cache=new Map(),loader=new GLTFLoader(),errors=[],textureCache=new Map();
 let showLashes=true;
 let root=null,generation=0,committedGeneration=0,renderedSelection=null,loading=false,angle='threequarter',mode='body',yaw=-.464,pitch=0,zoom=1;
-const defaults=b=>({hair:b==='Feminine'?'ponytail':'taper',headwear:'none',glasses:'none',detail:'none',eyes:'original',nose:'none',mouth:'line',groom:b==='Masculine'?'stubble':'none',top:b==='Feminine'?'open':'tank',bottom:b==='Feminine'?'skirt':'shorts',skin:1,hairColor:'default',headgearColor:'default',topColor:'default',bottomColor:'default',frameColor:'black',lensTint:'dark'});
+const defaults=b=>({hair:b==='Feminine'?'ponytail':'taper',headwear:'none',glasses:'none',detail:'none',eyes:'original',nose:'none',mouth:'line',groom:b==='Masculine'?'stubble':'none',top:b==='Feminine'?'open':'tank',bottom:b==='Feminine'?'skirt':'shorts',skin:overlay ? 3 : 1,hairColor:'default',headgearColor:'default',topColor:'default',bottomColor:'default',frameColor:'black',lensTint:'dark'});
 let build='Feminine',memory={Feminine:defaults('Feminine'),Masculine:defaults('Masculine')};
 const fields={hair:'hair',eyes:'eyes',nose:'noses',mouth:'mouths',groom:'grooms',top:'tops',bottom:'bottoms'};
 function choices(){return memory[build]}
@@ -153,6 +156,12 @@ function assembledPaths(state=choices(), model=build) {
       const componentUrl = new URL(path,document.baseURI);
       if (!componentUrl.pathname.startsWith(aeroRoot)) throw new Error("Aero source outside catalogue root: "+path);
       const source = decodeURIComponent(componentUrl.pathname.slice(aeroRoot.length));
+      const replacement = role === "mouth" && model === "Masculine"
+        ? overlay?.groomMouth[state.groom] : overlay?.components[source];
+      if (replacement) {
+        parts[role] = new URL("assets/"+replacement+".glb",overlayUrl).href;
+        continue;
+      }
       const exported = aeroAssets.components[source];
       const digest = role === "lenses" ? exported?.[state.lensTint] : exported;
       if (!digest) throw new Error("Missing Aero export for "+role+": "+source);
@@ -203,7 +212,7 @@ function tint(role, id, state, model) {
   if (id === authoredKey(role, state, model) && (!materialAssets || role === 'hair')) return null;
   return pick(role, id);
 }
-async function colors(target,s,b){const hair=s.hairColor==='ombre'?new THREE.Color().setRGB(.145,.062,.034):tint('hair',s.hairColor,s,b),hat=tint('headgear',s.headgearColor,s,b),top=tint('top',s.topColor,s,b),bottom=tint('bottom',s.bottomColor,s,b);let tex={};if(s.top==='jersey'&&top){const atlas = wardrobeFits?.[b]?.[s.top]?.atlases?.[s.topColor];
+async function colors(target,s,b){const hair=s.hairColor==='ombre'?(overlay ? null : new THREE.Color().setRGB(.145,.062,.034)):tint('hair',s.hairColor,s,b),hat=tint('headgear',s.headgearColor,s,b),top=tint('top',s.topColor,s,b),bottom=tint('bottom',s.bottomColor,s,b);let tex={};if(s.top==='jersey'&&top){const atlas = wardrobeFits?.[b]?.[s.top]?.atlases?.[s.topColor];
   tex.pattern = await texture('../213/colors/jersey-' + s.topColor + '-pattern.png');
   tex.atlas = await texture(atlas ? new URL(atlas, wardrobeUrl).href : '../213/colors/jersey-' + s.topColor + '-atlas.png');
   if (!atlas && top.r*.2126+top.g*.7152+top.b*.0722>.35) for (const side of ['front','back'])
