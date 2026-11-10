@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ravedio · Chat crop review</title>
+<style>
+  :root { color-scheme: dark; font: 16px system-ui; background: #11151d; color: #eef1f8; }
+  body { max-width: 44rem; margin: auto; padding: 1rem; }
+  h1 { font-size: 1.55rem; margin: 0; }
+  p { color: #b9c3d5; line-height: 1.45; }
+  button { font: inherit; color: inherit; padding: .4rem .75rem; background: #242e3f; border: 1px solid #75859d; border-radius: 6px; }
+  button[aria-pressed=true] { color: #151a22; background: #d1e0f9; }
+  table { border-collapse: collapse; width: 100%; margin-top: 1rem; }
+  th, td { padding: .55rem .25rem; text-align: center; border-bottom: 1px solid #343c4b; }
+  th:first-child { text-align: left; }
+  img { display: block; margin: auto; width: var(--size, 24px); aspect-ratio: 1; border-radius: 50%; }
+</style>
+<main>
+  <h1>Chat crop review</h1>
+  <p>Same Blender artwork at 15° on cool white. The tighter crop makes the face about 19% larger. The native Development sample also includes the standard pixel-art avatar.</p>
+  <div role="group" aria-label="Display size">
+    <button type="button" data-size="24" aria-pressed="true">24 · Chat</button>
+    <button type="button" data-size="48" aria-pressed="false">48</button>
+    <button type="button" data-size="120" aria-pressed="false">120</button>
+  </div>
+  <p id="status" role="status"></p>
+  <table>
+    <thead><tr><th scope="col">Sample</th><th scope="col">Current</th><th scope="col">Tighter</th></tr></thead>
+    <tbody></tbody>
+  </table>
+</main>
+<script type="module">
+  const status = document.querySelector("#status");
+  try {
+    const response = await fetch("files/mobile-portraits.json");
+    if (!response.ok) throw new Error("Missing portrait bundle");
+    const { appearances } = await response.json();
+    const rows = document.querySelector("tbody");
+    for (const look of appearances) {
+      const row = rows.insertRow();
+      const title = document.createElement("th");
+      title.scope = "row";
+      const style = look.build === "Feminine" ? "Ponytail" : look.groom === "short" ? "Short beard" : "Long beard";
+      title.textContent = style + " · " + ["Fair", "Light warm", "Tan", "Deep"][look.skin];
+      row.append(title);
+      for (const mode of ["current", "tight"]) {
+        const img = new Image();
+        img.alt = title.textContent;
+        const base = "files/" + mode + "/" + look.id;
+        img.src = base + ".png";
+        img.dataset.base = base;
+        row.insertCell().append(img);
+      }
+    }
+    const buttons = document.querySelectorAll("button[data-size]");
+    const setSize = size => {
+      document.documentElement.style.setProperty("--size", size + "px");
+      for (const img of rows.querySelectorAll("img")) {
+        const base = img.dataset.base;
+        img.sizes = size + "px";
+        img.srcset = base + "-48.png 48w, " + base + "-72.png 72w, " + base + ".png 120w";
+      }
+      for (const button of buttons) button.setAttribute("aria-pressed", button.dataset.size === size);
+    };
+    for (const button of buttons) button.addEventListener("click", () => setSize(button.dataset.size));
+    setSize("24");
+  } catch (error) {
+    status.textContent = "Could not load the review portraits. " + error.message;
+  }
+</script>
