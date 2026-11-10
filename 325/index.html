@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ravedio · Studio portraits in chat</title>
+<style>
+  :root { color-scheme: dark; font: 16px system-ui; color: #eef1f8; background: #13161b; --avatar: 24px; }
+  body { margin: 0; }
+  main { max-width: 44rem; margin: auto; padding: 1.25rem 1rem; }
+  h1 { font-size: 1.5rem; margin: 0; }
+  p { color: #b9c3d5; line-height: 1.45; }
+  a { color: #bfd5fc; }
+  button { font: inherit; color: inherit; padding: .4rem .7rem; background: #212c3a; border: 1px solid #74849a; border-radius: 6px; }
+  button[aria-pressed=true] { color: #141b24; background: #c4dcfa; }
+  .thread { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); column-gap: .7rem; margin-top: 1rem; }
+  h2 { font-size: .95rem; color: #dbe7fa; margin: 0; padding: .55rem 0; border-bottom: 1px solid #354353; }
+  .message { min-width: 0; padding: .55rem 0; }
+  .sender { display: flex; align-items: center; gap: .42rem; color: #c6cbd2; font-size: .83rem; font-weight: 600; }
+  img { display: block; flex: none; width: var(--avatar); height: var(--avatar); border-radius: 50%; }
+  .bubble { display: inline-block; border: 1px solid #323942; border-radius: 1rem; padding: .45rem .65rem; margin: .24rem 0 0; color: #eef1f8; font-size: .86rem; }
+</style>
+<main>
+  <h1>Studio portraits in chat</h1>
+  <p>Same avatars, same crop, same cool-white background. The chat version moves the key light higher and adds soft fill to the face.</p>
+  <div role="group" aria-label="Portrait display size">
+    <button type="button" data-size="24" aria-pressed="true">24 px · Chat</button>
+    <button type="button" data-size="56" aria-pressed="false">56 px · Inspect</button>
+  </div>
+  <p id="status" role="status" hidden></p>
+  <div class="thread" aria-label="Side-by-side chat comparison">
+    <h2>Current studio</h2>
+    <h2>Chat lighting</h2>
+  </div>
+  <p><a href="files/comparison.png">Open all eight portraits side by side</a></p>
+</main>
+<script type="module">
+  const thread = document.querySelector(".thread");
+  const names = ["Ari", "Maya", "Rae", "Jules", "Inez", "Eli", "Malik", "Sam"];
+  const messages = ["Meet at the Garden stage?", "Near the lights on the left.", "That last set was unreal.", "Want to grab water first?", "Save us a spot!", "Be there in five.", "I can see the green lasers.", "Found you!"];
+  try {
+    const response = await fetch("files/looks.json");
+    if (!response.ok) throw new Error("Portraits are unavailable.");
+    const looks = await response.json();
+    for (const [index, look] of looks.entries()) {
+      for (const mode of ["studio", "chat"]) {
+        const row = document.createElement("article");
+        row.className = "message";
+        const sender = document.createElement("div");
+        sender.className = "sender";
+        const avatar = new Image();
+        avatar.alt = look.label;
+        avatar.dataset.stem = "files/portraits/" + look.id + "-" + mode;
+        sender.append(avatar, names[index]);
+        const bubble = document.createElement("p");
+        bubble.className = "bubble";
+        bubble.textContent = messages[index];
+        row.append(sender, bubble);
+        thread.append(row);
+      }
+    }
+    const buttons = document.querySelectorAll("button[data-size]");
+    const setSize = size => {
+      document.documentElement.style.setProperty("--avatar", size + "px");
+      for (const img of thread.querySelectorAll("img")) {
+        const base = img.dataset.stem;
+        img.src = base + "-" + (size === "24" ? "24" : "120") + ".png";
+        img.srcset = size === "24" ? base + "-48.png 2x, " + base + "-72.png 3x" : "";
+      }
+      for (const button of buttons) button.setAttribute("aria-pressed", button.dataset.size === size);
+    };
+    for (const button of buttons) button.addEventListener("click", () => setSize(button.dataset.size));
+    setSize("24");
+  } catch (error) {
+    const status = document.querySelector("#status");
+    status.hidden = false;
+    status.textContent = error.message;
+  }
+</script>

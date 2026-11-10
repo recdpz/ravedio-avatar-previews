@@ -11,7 +11,7 @@ PLATE = [241, 244, 250]
 SIZES = (24, 48, 72, 120)
 
 
-def bake(root, tools):
+def bake(root, tools, variant="icon", label="Simple"):
     sys.path.insert(0, str(tools))
     from alpha_pack import Q, plate_transfer
 
@@ -20,7 +20,7 @@ def bake(root, tools):
     portraits = root / "portraits"
     portraits.mkdir(exist_ok=True)
     for look in rows:
-        for mode in ("studio", "icon"):
+        for mode in ("studio", variant):
             stem = f"{look['id']}-{mode}"
             with Image.open(root / "raw" / f"{stem}.png") as source:
                 assert source.size == (384, 384) and source.mode == "RGBA"
@@ -43,12 +43,12 @@ def bake(root, tools):
     font = ImageFont.load_default(size=14)
     draw.text((250, 13), "24 px", font=font, fill="white")
     draw.text((438, 13), "Enlarged", font=font, fill="white")
-    for x, caption in ((205, "Studio"), (273, "Simple"), (399, "Studio"), (492, "Simple")):
+    for x, caption in ((205, "Studio"), (273, label), (399, "Studio"), (492, label)):
         draw.text((x, 37), caption, font=font, fill="#b9c3d5")
     for index, look in enumerate(rows):
         y = 61 + index * 69
         draw.text((12, y + 22), look["label"], font=font, fill="white")
-        for mode, x, size in (("studio", 213, 24), ("icon", 282, 24), ("studio", 390, 60), ("icon", 486, 60)):
+        for mode, x, size in (("studio", 213, 24), (variant, 282, 24), ("studio", 390, 60), (variant, 486, 60)):
             source = 24 if size == 24 else 120
             tile = Image.open(portraits / f"{look['id']}-{mode}-{source}.png")
             if tile.width != size:
@@ -63,5 +63,7 @@ if __name__ == "__main__":
     parser = ArgumentParser(description=__doc__)
     parser.add_argument("root", type=Path)
     parser.add_argument("tools", type=Path)
+    parser.add_argument("--variant", default="icon")
+    parser.add_argument("--label", default="Simple")
     args = parser.parse_args()
-    bake(args.root, args.tools)
+    bake(args.root, args.tools, args.variant, args.label)

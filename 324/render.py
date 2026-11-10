@@ -94,7 +94,19 @@ def simple_material(material, role):
     links.new(final, output.inputs["Surface"])
 
 
-def main():
+def icon_studio(scene, materials):
+    for material, role in materials.items():
+        simple_material(material, role)
+    scene.view_settings.view_transform = "Standard"
+    scene.view_settings.look = "None"
+    scene.view_settings.exposure = 0
+    scene.view_settings.gamma = 1
+    scene.camera.data.ortho_scale = ICON_SPAN
+    # Raise the orthographic framing without changing the face angle.
+    scene.camera.location.z += ICON_Z - 1.805
+
+
+def main(variant="icon", configure=icon_studio):
     parser = ArgumentParser(description=__doc__)
     for key in ("work", "tools", "output"):
         parser.add_argument(key, type=Path)
@@ -156,17 +168,9 @@ def main():
         scene.render.image_settings.color_mode = "RGBA"
         scene.cycles.device = device
         scene.cycles.samples = 24
-        for mode in ("studio", "icon"):
-            if mode == "icon":
-                for material, role in materials.items():
-                    simple_material(material, role)
-                scene.view_settings.view_transform = "Standard"
-                scene.view_settings.look = "None"
-                scene.view_settings.exposure = 0
-                scene.view_settings.gamma = 1
-                scene.camera.data.ortho_scale = ICON_SPAN
-                # Raise the orthographic framing without changing the face angle.
-                scene.camera.location.z += ICON_Z - 1.805
+        for mode in ("studio", variant):
+            if mode == variant:
+                configure(scene, materials)
             scene.render.filepath = str(output / "raw" / f"{name}-{mode}.png")
             bpy.ops.render.render(write_still=True)
         rows.append(dict(id=name, label=label, selector=selector, skin=skin, groom=groom, glasses=glasses, parts=fitted))
