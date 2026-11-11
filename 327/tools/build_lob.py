@@ -64,13 +64,13 @@ def keep_head_room(before, after):
     return cartesian(angle, y, radius)
 
 
-def package(base, output, *, revision=327, label="Lob",
-            note="Collarbone-length layers with a soft outward turn.", sculpt=None):
+def package(base, output, *, base_revision=322, revision=327, label="Lob",
+            note="Collarbone-length layers with a soft outward turn.", sculpt=None, edit_asset=None):
     if sculpt is None:
         def sculpt(points, scarf, free_crown):
             return shape(points, scarf)
     catalogue = load(base / "catalogue.json")
-    assert catalogue["revision"] == 322
+    assert catalogue["revision"] == base_revision
     overlay = load(base / "overlay.json")
     components = catalogue["components"]
     rows = {key: row for key, row in catalogue["fit_rows"].items() if key.startswith("Feminine/bob/")}
@@ -78,16 +78,30 @@ def package(base, output, *, revision=327, label="Lob",
     bare = {row["hair"] for key, row in rows.items() if key.split("/")[2] == "none"}
     assets = output / "assets"
     assets.mkdir(parents=True, exist_ok=True)
-    # Use the torso and all eight tops as clearance surfaces.
     def part(digest):
         return base / components[digest]["file"]
-    style = catalogue["independent_roles"]["Feminine"]
-    bodies = {entry["clothed"] for entry in style["bases"].values()}
-    tops = {row["top"] for row in rows.values()}
-    garments = [(part(digest), lambda name: "torso" in name.lower()) for digest in sorted(bodies)]
-    garments.extend((part(digest), lambda name: not any(token in name.lower() for token in ("sleeve", "cuff", "cord", "string")))
-                    for digest in sorted(tops))
-    clearance = soften_field(garment_envelope(garments), 8)
+
+    if edit_asset is None:
+        # Use the torso and all eight tops as clearance surfaces.
+        style = catalogue["independent_roles"]["Feminine"]
+        bodies = {entry["clothed"] for entry in style["bases"].values()}
+        tops = {row["top"] for row in rows.values()}
+        garments = [(part(digest), lambda name: "torso" in name.lower()) for digest in sorted(bodies)]
+        garments.extend((part(digest), lambda name: not any(token in name.lower() for token in ("sleeve", "cuff", "cord", "string")))
+                        for digest in sorted(tops))
+        clearance = soften_field(garment_envelope(garments), 8)
+
+        def edit_asset(source, pending, scarf, free_crown):
+            def warp(points):
+                moved = keep_head_room(points, sculpt(points, scarf, free_crown))
+                if scarf:
+                    return moved
+                return keep_shoulder_room(clearance, points, moved)
+
+            distance = deform(source, pending, warp)
+            assert distance > (.02 if revision == 327 else .01)
+            return distance
+
     changes = {}
     for key, row in rows.items():
         digest = row["hair"]
@@ -96,13 +110,7 @@ def package(base, output, *, revision=327, label="Lob",
             source = part(digest)
             assert sha(source) == digest
             pending = output / "hair-pending.glb"
-            def warp(points):
-                moved = keep_head_room(points, sculpt(points, scarf, digest in bare))
-                if scarf:
-                    return moved
-                return keep_shoulder_room(clearance, points, moved)
-            distance = deform(source, pending, warp)
-            assert distance > (.02 if revision == 327 else .01)
+            distance = edit_asset(source, pending, scarf, digest in bare)
             revised = sha(pending)
             file = assets / (revised + ".glb")
             pending.replace(file)
@@ -139,7 +147,7 @@ def package(base, output, *, revision=327, label="Lob",
     overlay["hairLabels"] = {"Feminine": {"bob": {"label":label, "note":note}}}
     write(output / "catalogue.json", catalogue)
     write(output / "overlay.json", overlay)
-    write(output / "receipt.json", {"revision":revision, "base_revision":322, "style_id":"bob", "label":label,
+    write(output / "receipt.json", {"revision":revision, "base_revision":base_revision, "style_id":"bob", "label":label,
                                      "fit_rows":len(rows), "replacements":changes})
     print(f"Updated {len(rows)} fitted rows using {len(changes)} new {label} GLBs", flush=True)
 

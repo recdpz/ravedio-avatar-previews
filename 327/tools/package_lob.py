@@ -32,13 +32,14 @@ def package(base, root):
     catalogue = json.loads((root / "catalogue.json").read_bytes())
     receipt = json.loads((root / "receipt.json").read_bytes())
     revision = catalogue["revision"]
+    base_revision = receipt["base_revision"]
     label = receipt["label"]
     scene = f"Ravedio{revision}-{label}.blend"
     angles = ("front","threequarter","profile","rear")
     labels = ("Front","Three-quarter","Left","Back")
     sheet(root, "comparison.jpg", [
         [(f"{title} · {label}", f"{number}-none-default-{angle}") for angle, label in zip(angles, labels)]
-        for number, title in ((322,"Original Bob"),(revision,label))
+        for number, title in ((base_revision,"Previous Bob" if base_revision != 322 else "Original Bob"),(revision,label))
     ], 290)
     sheet(root, "angles.jpg", [
         [(label, f"{revision}-none-default-" + angle) for angle, label in zip(angles, labels)],
@@ -64,14 +65,14 @@ def package(base, root):
     digests = {name: sha(root / name) for name in files}
     for name in updated:
         assert digests[name] == Path(name).stem
-    manifest = dict(revision=revision, base_revision=322, base_catalogue_sha256=sha(base/"catalogue.json"),
+    manifest = dict(revision=revision, base_revision=base_revision, base_catalogue_sha256=sha(base/"catalogue.json"),
                     replaced_paths=removed, files=digests)
     readme = f"""# Revision {revision} {label} source update
 
 Apply the eight new GLBs and catalogue.json over a copy of the extracted
-revision 322 full catalogue. Validate the base catalogue digest against
+revision {base_revision} catalogue. Validate the base catalogue digest against
 delta-manifest.json before replacing it. Use the updated catalogue.json
-to resolve the new {label} bindings. The manifest.json shipped with 322
+to resolve the new {label} bindings. The manifest.json shipped with the base
 describes that original archive. The delta manifest covers this update.
 
 {scene} is the packed editable studio model with the new bare

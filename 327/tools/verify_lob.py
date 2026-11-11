@@ -32,8 +32,13 @@ def main(base, candidate):
         start = base / source["components"][original]["file"]
         end = candidate / lob["components"][data["sha256"]]["file"]
         a, b = positions(start), positions(end)
-        above = a[:, 1] >= 1.90
-        if not data.get("free_crown"):
+        if receipt["base_revision"] == 328:
+            fixed = a[:, 1] >= 1.70
+            if data["pashmina"]:
+                fixed[:] = True
+            assert np.array_equal(a[fixed], b[fixed]), "Covered or upper hair geometry changed"
+        elif not data.get("free_crown"):
+            above = a[:, 1] >= 1.90
             assert np.array_equal(a[above], b[above]), "Fitted crown vertices changed"
         outside = np.linalg.norm(a - CENTER, axis=1) >= .3845
         assert np.min(np.linalg.norm(b[outside] - CENTER, axis=1)) >= .38395, "Hair penetrates the head"
