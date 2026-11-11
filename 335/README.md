@@ -1,5 +1,10 @@
 # Wavy bob catalogue integration
 
+For another computer, use [the complete 335 download/setup instructions](../handoffs/catalogue335/GETTING-335.md).
+The public release contains the full catalogue, packed scenes and standalone
+render script. A repository checkout alone does not include `335/files`.
+The Pages preview is not deployed while hosted Actions are paused.
+
 Revision 335 integrates the owner-approved actual B source from revision 334
 into the existing Feminine `bob` slot. The uncovered default GLB is copied
 byte for byte from the approved asset. The approval, base source and all

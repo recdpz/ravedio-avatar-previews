@@ -1,5 +1,10 @@
 # Catalogue 335: mobile asset-selection handoff
 
+**Fresh computer:** first follow [Getting the complete 335 artwork](GETTING-335.md).
+The handoff ZIP contains metadata and selection code; the separate full source
+ZIP contains the model files. `git pull` does not populate the ignored
+`335/files` directory. The setup script retrieves and validates both packages.
+
 This is an **asset handoff**, not authorization to change firmware, BLE, LoRa,
 cloud profile columns, production codecs or migration policy. It publishes the
 source artwork through `f7a01d2` and a named rendering-settings interface.
