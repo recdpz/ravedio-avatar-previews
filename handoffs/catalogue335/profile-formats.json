@@ -1,0 +1,396 @@
+{
+  "current": {
+    "id": "legacy-typed-profile3",
+    "status": "implemented-legacy-sprite-format",
+    "wireBytes": 3,
+    "inBandVersionField": null,
+    "localCloudReservedByte": {
+      "index": 3,
+      "requiredValue": 0,
+      "transmitted": false
+    },
+    "absence": "An omitted update is distinct from an explicitly present zero clear; it is not encoded as a one-byte clear.",
+    "fields": [
+      {
+        "name": "type",
+        "byte": 0,
+        "msb": 7,
+        "lsb": 6
+      },
+      {
+        "name": "skin",
+        "byte": 0,
+        "msb": 5,
+        "lsb": 4
+      },
+      {
+        "name": "hair",
+        "byte": 0,
+        "msb": 3,
+        "lsb": 1
+      },
+      {
+        "name": "hairColor-high",
+        "byte": 0,
+        "msb": 0,
+        "lsb": 0
+      },
+      {
+        "name": "hairColor-low",
+        "byte": 1,
+        "msb": 7,
+        "lsb": 6
+      },
+      {
+        "name": "headgear",
+        "byte": 1,
+        "msb": 5,
+        "lsb": 3
+      },
+      {
+        "name": "gearColor",
+        "byte": 1,
+        "msb": 2,
+        "lsb": 0
+      },
+      {
+        "name": "glasses",
+        "byte": 2,
+        "msb": 7,
+        "lsb": 5
+      },
+      {
+        "name": "build",
+        "byte": 2,
+        "msb": 4,
+        "lsb": 4
+      },
+      {
+        "name": "extra",
+        "byte": 2,
+        "msb": 3,
+        "lsb": 2
+      },
+      {
+        "name": "face",
+        "byte": 2,
+        "msb": 1,
+        "lsb": 0
+      }
+    ],
+    "hairColorIndexFormula": "((byte0 & 1) << 2) | (byte1 >> 6)",
+    "types": {
+      "0": "none; canonical clear is 00 00 00",
+      "1": "avatar; all payload bit values used",
+      "2": "flag reserved for future presentation; current native initials fallback",
+      "3": "social mode reserved for future presentation; current native initials fallback"
+    },
+    "unusedAvatarPayloadBits": 0,
+    "reservedAvatarEnumValues": [],
+    "tables": {
+      "build": [
+        "a",
+        "b"
+      ],
+      "skin": [
+        "porcelain",
+        "golden",
+        "bronze",
+        "cocoa"
+      ],
+      "hairColor": [
+        "midnight",
+        "chestnut",
+        "sand",
+        "ember",
+        "cloud",
+        "flamingo",
+        "voltage",
+        "ultraviolet"
+      ],
+      "headgear": [
+        "none",
+        "cap",
+        "beanie",
+        "cowboy",
+        "bucket",
+        "bandana",
+        "animalEars",
+        "hoodie"
+      ],
+      "gearColor": [
+        "onyx",
+        "crimson",
+        "tangerine",
+        "sunbeam",
+        "jungle",
+        "lagoon",
+        "cobalt",
+        "magenta"
+      ],
+      "glasses": [
+        "none",
+        "round",
+        "shade",
+        "rect",
+        "wayfarer",
+        "aviator",
+        "cateye",
+        "sport"
+      ],
+      "extra": [
+        "none",
+        "freckles",
+        "earrings",
+        "faceGems"
+      ],
+      "face": [
+        "none",
+        "detail1",
+        "detail2",
+        "detail3"
+      ],
+      "hair": [
+        "none",
+        "style1",
+        "style2",
+        "style3",
+        "style4",
+        "style5",
+        "style6",
+        "style7"
+      ]
+    },
+    "contextualHairLabels": {
+      "a": [
+        "Shaved/bald",
+        "Taper",
+        "Curls",
+        "Fringe",
+        "Buzz cut",
+        "Side part",
+        "Man bun",
+        "Rounded afro"
+      ],
+      "b": [
+        "Shaved/bald",
+        "Bob",
+        "Long waves",
+        "High ponytail",
+        "Pixie",
+        "Lob",
+        "Box braids",
+        "Curls"
+      ]
+    },
+    "contextualFaceLabels": {
+      "a": [
+        "Clean",
+        "Stubble",
+        "Mustache",
+        "Full beard"
+      ],
+      "b": [
+        "Soft",
+        "Lashes",
+        "Blush",
+        "Lashes + blush"
+      ]
+    },
+    "defaults": {
+      "build": 0,
+      "skin": 1,
+      "hair": 2,
+      "hairColor": 0,
+      "headgear": 0,
+      "gearColor": 5,
+      "glasses": 0,
+      "extra": 0,
+      "face": 0
+    },
+    "defaultBytes": [
+      84,
+      5,
+      0
+    ],
+    "zeroAvatarPayload": "40 00 00 is a valid avatar, not clear",
+    "catalogue335Mapping": null,
+    "sourceEvidence": {
+      "mobile/lib/models/avatar_spec.dart": {
+        "sha256": "31a49e3a76942b25158088b7037b6249a2c5a15c8c37885b7f321c04cb6ea939",
+        "repository": "ravedio/mobile",
+        "commit": "b7457bcd2ca98f8e2b907d6d4de7aa1f267c6cf4",
+        "path": "lib/models/avatar_spec.dart",
+        "source_url": "https://github.com/ravedio/mobile/blob/b7457bcd2ca98f8e2b907d6d4de7aa1f267c6cf4/lib/models/avatar_spec.dart",
+        "source_contents_in_public_art_handoff": false
+      },
+      "mobile/lib/models/profile_update.dart": {
+        "sha256": "b02887c2722a3d9605b5292a4458efb6a25b46f610ccde268e208cfcc800437a",
+        "repository": "ravedio/mobile",
+        "commit": "b7457bcd2ca98f8e2b907d6d4de7aa1f267c6cf4",
+        "path": "lib/models/profile_update.dart",
+        "source_url": "https://github.com/ravedio/mobile/blob/b7457bcd2ca98f8e2b907d6d4de7aa1f267c6cf4/lib/models/profile_update.dart",
+        "source_contents_in_public_art_handoff": false
+      },
+      "mobile/apps/ios/Modules/Sources/RavedioDesignSystem/RavedioUserAvatar.swift": {
+        "sha256": "166e68e444e6b4eee8b7d99ee2158a25e85db9e88b394874726c8a1c8c867fcd",
+        "repository": "ravedio/mobile",
+        "commit": "b7457bcd2ca98f8e2b907d6d4de7aa1f267c6cf4",
+        "path": "apps/ios/Modules/Sources/RavedioDesignSystem/RavedioUserAvatar.swift",
+        "source_url": "https://github.com/ravedio/mobile/blob/b7457bcd2ca98f8e2b907d6d4de7aa1f267c6cf4/apps/ios/Modules/Sources/RavedioDesignSystem/RavedioUserAvatar.swift",
+        "source_contents_in_public_art_handoff": false
+      },
+      "mobile/apps/android/core/designsystem/src/main/java/com/ravedio/designsystem/RavedioUserAvatar.kt": {
+        "sha256": "3c9e78c877a37ea36e27b854d0be8d24a425a1e7f3580a248b49b01a7c333409",
+        "repository": "ravedio/mobile",
+        "commit": "b7457bcd2ca98f8e2b907d6d4de7aa1f267c6cf4",
+        "path": "apps/android/core/designsystem/src/main/java/com/ravedio/designsystem/RavedioUserAvatar.kt",
+        "source_url": "https://github.com/ravedio/mobile/blob/b7457bcd2ca98f8e2b907d6d4de7aa1f267c6cf4/apps/android/core/designsystem/src/main/java/com/ravedio/designsystem/RavedioUserAvatar.kt",
+        "source_contents_in_public_art_handoff": false
+      },
+      "firmware/src/RavedioCore.h": {
+        "sha256": "217f111985407efb62e710acd266d87a4b9ae28e9dafde4cabdc1a10fcab51f5",
+        "repository": "ravedio/firmware",
+        "commit": "85f545b79198defce028a92873a3ebc2360ec5b4",
+        "path": "src/RavedioCore.h",
+        "source_url": "https://github.com/ravedio/firmware/blob/85f545b79198defce028a92873a3ebc2360ec5b4/src/RavedioCore.h",
+        "source_contents_in_public_art_handoff": false
+      }
+    }
+  },
+  "sixByteProposal": {
+    "status": "PROPOSED-NOT-FINALIZED-NOT-IMPLEMENTED",
+    "avatarBytes": 6,
+    "source": "PROPOSED-six-byte-handoff169.md",
+    "sourceSha256": "5fd35bb5d991a3e3ebc6fa88d31b51fec6d43e6480a4cc6a64c4658a88abd2f1",
+    "fields": [
+      {
+        "name": "type",
+        "byte": 0,
+        "msb": 7,
+        "lsb": 6
+      },
+      {
+        "name": "headwear",
+        "byte": 0,
+        "msb": 5,
+        "lsb": 3
+      },
+      {
+        "name": "headwearColor",
+        "byte": 0,
+        "msb": 2,
+        "lsb": 0
+      },
+      {
+        "name": "build",
+        "byte": 1,
+        "msb": 7,
+        "lsb": 7
+      },
+      {
+        "name": "hair",
+        "byte": 1,
+        "msb": 6,
+        "lsb": 3
+      },
+      {
+        "name": "hairColor",
+        "byte": 1,
+        "msb": 2,
+        "lsb": 0
+      },
+      {
+        "name": "skin",
+        "byte": 2,
+        "msb": 7,
+        "lsb": 6
+      },
+      {
+        "name": "top",
+        "byte": 2,
+        "msb": 5,
+        "lsb": 3
+      },
+      {
+        "name": "topColor",
+        "byte": 2,
+        "msb": 2,
+        "lsb": 0
+      },
+      {
+        "name": "eyes",
+        "byte": 3,
+        "msb": 7,
+        "lsb": 6
+      },
+      {
+        "name": "faceDetails",
+        "byte": 3,
+        "msb": 5,
+        "lsb": 3
+      },
+      {
+        "name": "extra",
+        "byte": 3,
+        "msb": 2,
+        "lsb": 0
+      },
+      {
+        "name": "glasses",
+        "byte": 4,
+        "msb": 7,
+        "lsb": 5
+      },
+      {
+        "name": "frameColor",
+        "byte": 4,
+        "msb": 4,
+        "lsb": 3
+      },
+      {
+        "name": "ageBracket",
+        "byte": 4,
+        "msb": 2,
+        "lsb": 0
+      },
+      {
+        "name": "bottom",
+        "byte": 5,
+        "msb": 7,
+        "lsb": 6
+      },
+      {
+        "name": "bottomColor",
+        "byte": 5,
+        "msb": 5,
+        "lsb": 3
+      },
+      {
+        "name": "reserved",
+        "byte": 5,
+        "msb": 2,
+        "lsb": 0
+      }
+    ],
+    "reservedBits": "byte5 bits2..0 must be zero if this proposal is later adopted",
+    "optionValueAssignments": "NOT FROZEN for current artwork; no approved full enum map",
+    "inBandVersionField": null,
+    "typesAndLengths": {
+      "0": "proposed one-byte clear 00",
+      "1": "proposed six-byte avatar",
+      "2": "proposed two-byte country flag; country IDs unresolved",
+      "3": "reserved, payload and length unresolved"
+    },
+    "structuralVectorsOnly": [
+      "40 00 00 00 00 00",
+      "7F FF FF FF FF F8"
+    ],
+    "doNot": "Do not enable this in a native/firmware codec or infer length heuristically."
+  },
+  "fiveByteExplorer": {
+    "status": "DESIGN-EXPLORER-NOT-WIRE-AUTHORITY",
+    "sourceSha256": "d7f1211a9b51c93caa4ac4e512ab9d25d7a96f1e69b5a078b42ae0191d411f7a",
+    "note": "Presets and saved slider state do not establish a reviewed layout or enum contract."
+  }
+}

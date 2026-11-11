@@ -1,0 +1,52 @@
+{
+  "source": "Exact catalogue-335 viewer material behavior; no wire fields",
+  "shaderDefaults": "Preserve each selected GLB's authored PBR factors, maps and vertex colors unless a rule below applies.",
+  "colors": "Palette hex is sRGB; convert to linear RGB before assigning shader factors. Skin/ink/stubble/lip palette arrays are already linear.",
+  "pigments": [
+    {"materialPrefix":"Skin","palette":"skin"},
+    {"materialPrefix":"Groom / stubble209","palette":"stubble"},
+    {"materialPrefix":"Face / ink209","palette":"ink"},
+    {"materialPrefix":"Face / lip209","palette":"lip"},
+    {"materialPrefix":"Chest / shade191","rule":"Multiply selected skin by the numeric final token in the material name."}
+  ],
+  "hair": {
+    "roles":["hair","hairLengths","groom"],
+    "excludeMaterialRegex":"tie|band|Skin|metal|elastic",
+    "defaultAndBrownAlias":"Preserve authored pigment and vertex colors.",
+    "ombre":"Use fitted ombre GLBs for hair/hairLengths, preserve baked vertex colors and authored groom root pigment.",
+    "solidColor":"For non-authored solid colors, neutralize existing vertex colors into luminance shading using material_recipes.mjs, then multiply the target linear factor by hairShade258 (default 1) and by 0.82 for groom.",
+    "normalAndRoughnessMaps":"Preserve for every color. Clone geometry before neutralizing shared vertex colors."
+  },
+  "frames": {
+    "role":"glasses","metallic":{"silver":0.72,"gold":0.72,"other":0.08},
+    "tortoise":"Use drawTortoise64 plus frame pigment; repeat wrapping. If UVs are absent, u=position.x*12 and v=position.y*12.",
+    "roughness":"Preserve Aero GLB. Do not replace lens or frame roughness indiscriminately."
+  },
+  "lenses": {
+    "role":"lenses","transmission":0,"ior":1,"thickness":0,"transparent":true,
+    "depthWrite":false,"side":"front","renderOrder":5,
+    "alphaAndSurface":"Preserve the chosen clear/dark GLB. Current finish recipe has clear alpha 0.075 and dark alpha 0.74.",
+    "warning":"Alpha blending is not refraction/transmission. Do not infer glass behavior from alphaMode alone."
+  },
+  "headgear": {
+    "excludeMaterialRegex":"logo|emblem|stitch|metal|lining|pink|white|gold",
+    "cowboyException":"Preserve Hair / root226 ribbon-band material.",
+    "patternedCloth":"If a pashmina/bandana material has a base-color map, dye its cool dark ground using dyeClothRgba; preserve print, weave, UV orientation and wrap modes. Set factor to white after dye.",
+    "Beanie / rolled cuff":0.88,
+    "seam226":1.18,
+    "subtle sewing212":0.78,
+    "other":"Apply selected linear factor; preserve other PBR inputs."
+  },
+  "bottom": {"excludeMaterialRegex":"button|metal|stitch|zip|skin","other":"Apply selected linear factor."},
+  "top": {
+    "jersey":"Use packaged dye pattern and atlas maps. Feminine uses feminine_jersey_dyes; Masculine uses shared jersey atlases and dark front/back art for light targets with linear luminance > 0.35. Set mapped jersey factors to white.",
+    "uniformMaterialRegex":"Top /|Button-up / fabric|Pasties / black",
+    "Hoodie / cavity215":0.48,"Hoodie / facing215":0.78,
+    "hoodieCavityLining":0.43,"hoodieOtherLining":0.72,"hoodieRolledEdgeAndFacingAndLip":0.88,
+    "sleeveRibbedCuffAndCuffFabric":0.9,
+    "protectedDetails":"Preserve buttons, printing and other unmatched authored materials."
+  },
+  "environmentMapIntensity":0.7,
+  "exactBrowserReference":"viewer335.js functions colors, clothColor, tortoiseTexture, tint and authoredKey. Their order is significant.",
+  "blenderDifferences":"Cycles studio/world, color management, disabled glossy-ray visibility on clothing and camera are scene settings rather than ordinary GLB material data."
+}

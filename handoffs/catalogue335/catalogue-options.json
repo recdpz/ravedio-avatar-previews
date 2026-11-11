@@ -1,0 +1,467 @@
+{
+  "builds": {
+    "Feminine": {
+      "bottoms": {
+        "bikini": "Bikini bottoms",
+        "pants": "Pants",
+        "shorts": "Shorts",
+        "skirt": "Skirt"
+      },
+      "eyes": {
+        "bean": "Rounded bean",
+        "hooded": "Soft hooded",
+        "original": "Original",
+        "tapered": "Tapered oval"
+      },
+      "grooms": {
+        "none": "None"
+      },
+      "hair": {
+        "bob": "Wavy bob",
+        "box-braids": "Box braids",
+        "curls": "Curls",
+        "ponytail": "Ponytail",
+        "side-sweep": "Long Bangs",
+        "space-buns": "Space Buns",
+        "straight": "Straight",
+        "twin-braids": "Twin braids"
+      },
+      "tops": {
+        "bandeau": "Pasties",
+        "jersey": "Jersey",
+        "open": "Button-up",
+        "strappy": "Strappy crop",
+        "sweatshirt": "Hoodie",
+        "tank": "Tank",
+        "triangle": "Triangle top",
+        "tshirt": "T-shirt"
+      }
+    },
+    "Masculine": {
+      "bottoms": {
+        "pants": "Pants",
+        "shorts": "Shorts"
+      },
+      "eyes": {
+        "bean": "Rounded bean",
+        "hooded": "Soft hooded",
+        "original": "Original",
+        "tapered": "Tapered oval"
+      },
+      "grooms": {
+        "goatee": "Goatee",
+        "long": "Long beard",
+        "mustache": "Mustache",
+        "none": "None",
+        "patch": "Mustache + patch",
+        "short": "Short beard",
+        "stubble": "Stubble"
+      },
+      "hair": {
+        "afro": "Afro",
+        "buzz": "Buzz",
+        "curly-top": "Curly top",
+        "flow": "Flow",
+        "locs": "Locs",
+        "middle-part": "Middle part",
+        "sidepart": "Crop",
+        "taper": "Taper"
+      },
+      "tops": {
+        "buttonup": "Button-up",
+        "jersey": "Jersey",
+        "shirtless": "Shirtless",
+        "sweatshirt": "Hoodie",
+        "tank": "Tank",
+        "tshirt": "T-shirt"
+      }
+    }
+  },
+  "color_aliases": {
+    "bottom": {
+      "Feminine": {
+        "bikini": "black",
+        "pants": "black",
+        "shorts": "black",
+        "skirt": "black"
+      },
+      "Masculine": {
+        "pants": "black",
+        "shorts": "black"
+      }
+    },
+    "hair": {
+      "Feminine": "darkbrown",
+      "Masculine": "darkbrown"
+    },
+    "headgear": {
+      "Feminine": {
+        "beanie": "blue",
+        "bucket": "gray",
+        "cap": "red",
+        "cowboy": "khaki",
+        "ears": "gray",
+        "headband": "black",
+        "none": null,
+        "pashmina": "black"
+      },
+      "Masculine": {
+        "beanie": "blue",
+        "bucket": "gray",
+        "cap": "navy",
+        "cowboy": "khaki",
+        "ears": "gray",
+        "headband": "black",
+        "none": null,
+        "pashmina": "black"
+      }
+    },
+    "top": {
+      "Feminine": {
+        "bandeau": "black",
+        "jersey": "black",
+        "open": "purple",
+        "strappy": "pink",
+        "sweatshirt": "purple",
+        "tank": "teal",
+        "triangle": "teal",
+        "tshirt": "teal"
+      },
+      "Masculine": {
+        "buttonup": "blue",
+        "jersey": "black",
+        "shirtless": null,
+        "sweatshirt": "purple",
+        "tank": "teal",
+        "tshirt": "teal"
+      }
+    }
+  },
+  "colors": {
+    "bottom": [
+      [
+        "default",
+        "Original (review)",
+        null
+      ],
+      [
+        "black",
+        "Black",
+        "#22242A"
+      ],
+      [
+        "white",
+        "White",
+        "#EAE8E3"
+      ],
+      [
+        "gray",
+        "Gray",
+        "#85878C"
+      ],
+      [
+        "navy",
+        "Navy",
+        "#25354F"
+      ],
+      [
+        "blue",
+        "Blue",
+        "#3C6A9C"
+      ],
+      [
+        "khaki",
+        "Khaki",
+        "#B7A17A"
+      ],
+      [
+        "red",
+        "Red",
+        "#B83546"
+      ],
+      [
+        "pink",
+        "Pink",
+        "#D46D9C"
+      ]
+    ],
+    "frames": [
+      [
+        "black",
+        "Black",
+        "#181B22"
+      ],
+      [
+        "tortoise",
+        "Tortoise",
+        "#775137"
+      ],
+      [
+        "silver",
+        "Silver",
+        "#B9BEC5"
+      ],
+      [
+        "gold",
+        "Gold",
+        "#BA9458"
+      ]
+    ],
+    "hair": [
+      [
+        "default",
+        "Original (Brown)",
+        "#594033"
+      ],
+      [
+        "black",
+        "Black",
+        "#303030"
+      ],
+      [
+        "ombre",
+        "Ombr\u00e9",
+        null
+      ],
+      [
+        "darkbrown",
+        "Brown",
+        "#594033"
+      ],
+      [
+        "auburn",
+        "Auburn",
+        "#984A30"
+      ],
+      [
+        "blonde",
+        "Blonde",
+        "#B78F51"
+      ],
+      [
+        "platinum",
+        "Platinum",
+        "#CCC2B0"
+      ],
+      [
+        "pink",
+        "Pink",
+        "#B75C88"
+      ],
+      [
+        "purple",
+        "Purple",
+        "#725887"
+      ]
+    ],
+    "headgear": [
+      [
+        "default",
+        "Original (review)",
+        null
+      ],
+      [
+        "black",
+        "Black",
+        "#22242A"
+      ],
+      [
+        "white",
+        "White",
+        "#EAE8E3"
+      ],
+      [
+        "gray",
+        "Gray",
+        "#85878C"
+      ],
+      [
+        "navy",
+        "Navy",
+        "#25354F"
+      ],
+      [
+        "blue",
+        "Blue",
+        "#3C6A9C"
+      ],
+      [
+        "khaki",
+        "Khaki",
+        "#B7A17A"
+      ],
+      [
+        "red",
+        "Red",
+        "#B83546"
+      ],
+      [
+        "pink",
+        "Pink",
+        "#D46D9C"
+      ]
+    ],
+    "lenses": [
+      [
+        "dark",
+        "Dark"
+      ],
+      [
+        "clear",
+        "Clear"
+      ]
+    ],
+    "top": [
+      [
+        "default",
+        "Original (review)",
+        null
+      ],
+      [
+        "black",
+        "Black",
+        "#24252C"
+      ],
+      [
+        "white",
+        "White",
+        "#EBE8E3"
+      ],
+      [
+        "blue",
+        "Blue",
+        "#366EBA"
+      ],
+      [
+        "teal",
+        "Teal",
+        "#368F91"
+      ],
+      [
+        "purple",
+        "Purple",
+        "#8C62BD"
+      ],
+      [
+        "pink",
+        "Pink",
+        "#D57FA9"
+      ],
+      [
+        "red",
+        "Red",
+        "#C3485C"
+      ],
+      [
+        "lime",
+        "Lime",
+        "#A6BB57"
+      ]
+    ]
+  },
+  "details": {
+    "hot": "HOT sticker",
+    "none": "None",
+    "sprout": "Sprout"
+  },
+  "glasses": {
+    "cat-eye": "Cat eye",
+    "heart": "Heart",
+    "kaleidoscope": "Faceted frames",
+    "none": "None",
+    "reading": "Reading",
+    "rectangular": "Rectangular",
+    "wayfarer": "Wayfarer",
+    "wraparound": "Sport"
+  },
+  "headwear": {
+    "beanie": "Beanie",
+    "bucket": "Bucket hat",
+    "cap": "Cap",
+    "cowboy": "Cowboy hat",
+    "ears": "Animal ears",
+    "headband": "Bandana",
+    "none": "None",
+    "pashmina": "Pashmina"
+  },
+  "lens_defaults": {
+    "cat-eye": "dark",
+    "heart": "dark",
+    "kaleidoscope": "dark",
+    "reading": "clear",
+    "rectangular": "dark",
+    "wayfarer": "dark",
+    "wraparound": "dark"
+  },
+  "skin": [
+    {
+      "id": 0,
+      "label": "Fair"
+    },
+    {
+      "id": 1,
+      "label": "Light warm"
+    },
+    {
+      "id": 2,
+      "label": "Tan"
+    },
+    {
+      "id": 3,
+      "label": "Deep"
+    }
+  ],
+  "nose": {
+    "none": "No nose"
+  },
+  "mouth": {
+    "line": "Regular smile"
+  },
+  "defaults": {
+    "Feminine": {
+      "schemaVersion": 1,
+      "catalogueRevision": 335,
+      "skin": 2,
+      "hairColor": "default",
+      "headwear": "none",
+      "headgearColor": "default",
+      "eyes": "bean",
+      "nose": "none",
+      "mouth": "line",
+      "groom": "none",
+      "glasses": "none",
+      "frameColor": "black",
+      "lensTint": "dark",
+      "detail": "none",
+      "top": "jersey",
+      "topColor": "default",
+      "bottom": "pants",
+      "bottomColor": "default",
+      "build": "Feminine",
+      "hair": "bob"
+    },
+    "Masculine": {
+      "schemaVersion": 1,
+      "catalogueRevision": 335,
+      "skin": 3,
+      "hairColor": "default",
+      "headwear": "none",
+      "headgearColor": "default",
+      "eyes": "original",
+      "nose": "none",
+      "mouth": "line",
+      "groom": "stubble",
+      "glasses": "none",
+      "frameColor": "black",
+      "lensTint": "dark",
+      "detail": "none",
+      "top": "tank",
+      "topColor": "default",
+      "bottom": "shorts",
+      "bottomColor": "default",
+      "build": "Masculine",
+      "hair": "taper"
+    }
+  },
+  "numericWireIds": "UNASSIGNED for this 3D artwork; IDs below are named asset selectors only"
+}

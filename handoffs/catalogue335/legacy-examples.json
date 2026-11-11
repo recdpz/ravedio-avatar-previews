@@ -1,0 +1,285 @@
+[
+  {
+    "id": "canonical-clear",
+    "hex": "00 00 00",
+    "decoded": {
+      "format": "legacy-typed-profile3",
+      "profileBytes": [
+        0,
+        0,
+        0
+      ],
+      "type": "none",
+      "canonicalClear": true,
+      "catalogue335Mapping": null,
+      "payload22": 0,
+      "presentation": "initials-fallback"
+    }
+  },
+  {
+    "id": "constructor-default",
+    "hex": "54 05 00",
+    "decoded": {
+      "format": "legacy-typed-profile3",
+      "profileBytes": [
+        84,
+        5,
+        0
+      ],
+      "type": "avatar",
+      "canonicalClear": false,
+      "catalogue335Mapping": null,
+      "values": {
+        "build": 0,
+        "skin": 1,
+        "hair": 2,
+        "hairColor": 0,
+        "headgear": 0,
+        "gearColor": 5,
+        "glasses": 0,
+        "extra": 0,
+        "face": 0
+      },
+      "names": {
+        "build": "a",
+        "skin": "golden",
+        "hair": "style2",
+        "hairColor": "midnight",
+        "headgear": "none",
+        "gearColor": "lagoon",
+        "glasses": "none",
+        "extra": "none",
+        "face": "none",
+        "hairLabel": "Curls",
+        "faceLabel": "Clean"
+      },
+      "legacySpriteLayers": [
+        {
+          "sprite": "headSprite",
+          "palette": "skinPalettes[1]"
+        },
+        {
+          "sprite": "hairSprites.a2",
+          "palette": "hairPalettes.a2[0]"
+        }
+      ],
+      "presentation": "legacy-sprite"
+    }
+  },
+  {
+    "id": "legacy-feminine-bob-cap-rect-gems",
+    "hex": "42 49 7D",
+    "decoded": {
+      "format": "legacy-typed-profile3",
+      "profileBytes": [
+        66,
+        73,
+        125
+      ],
+      "type": "avatar",
+      "canonicalClear": false,
+      "catalogue335Mapping": null,
+      "values": {
+        "build": 1,
+        "skin": 0,
+        "hair": 1,
+        "hairColor": 1,
+        "headgear": 1,
+        "gearColor": 1,
+        "glasses": 3,
+        "extra": 3,
+        "face": 1
+      },
+      "names": {
+        "build": "b",
+        "skin": "porcelain",
+        "hair": "style1",
+        "hairColor": "chestnut",
+        "headgear": "cap",
+        "gearColor": "crimson",
+        "glasses": "rect",
+        "extra": "faceGems",
+        "face": "detail1",
+        "hairLabel": "Bob",
+        "faceLabel": "Lashes"
+      },
+      "legacySpriteLayers": [
+        {
+          "sprite": "headSpriteB",
+          "palette": "skinPalettes[0]"
+        },
+        {
+          "sprite": "lashSprite",
+          "palette": "inkColor"
+        },
+        {
+          "sprite": "gemSprite",
+          "palette": "gemPalette"
+        },
+        {
+          "sprite": "hairSprites.b1",
+          "palette": "hairPalettes.b1[1]"
+        },
+        {
+          "sprite": "glassesSprites[2]",
+          "palette": "glassesPalettes[2]"
+        },
+        {
+          "sprite": "hatSprites[0]",
+          "palette": "gearPalettes[1]"
+        }
+      ],
+      "presentation": "legacy-sprite"
+    }
+  },
+  {
+    "id": "zero-avatar-payload",
+    "hex": "40 00 00",
+    "decoded": {
+      "format": "legacy-typed-profile3",
+      "profileBytes": [
+        64,
+        0,
+        0
+      ],
+      "type": "avatar",
+      "canonicalClear": false,
+      "catalogue335Mapping": null,
+      "values": {
+        "build": 0,
+        "skin": 0,
+        "hair": 0,
+        "hairColor": 0,
+        "headgear": 0,
+        "gearColor": 0,
+        "glasses": 0,
+        "extra": 0,
+        "face": 0
+      },
+      "names": {
+        "build": "a",
+        "skin": "porcelain",
+        "hair": "none",
+        "hairColor": "midnight",
+        "headgear": "none",
+        "gearColor": "onyx",
+        "glasses": "none",
+        "extra": "none",
+        "face": "none",
+        "hairLabel": "Shaved/bald",
+        "faceLabel": "Clean"
+      },
+      "legacySpriteLayers": [
+        {
+          "sprite": "headSprite",
+          "palette": "skinPalettes[0]"
+        }
+      ],
+      "presentation": "legacy-sprite"
+    }
+  },
+  {
+    "id": "maximum-avatar-payload",
+    "hex": "7F FF FF",
+    "decoded": {
+      "format": "legacy-typed-profile3",
+      "profileBytes": [
+        127,
+        255,
+        255
+      ],
+      "type": "avatar",
+      "canonicalClear": false,
+      "catalogue335Mapping": null,
+      "values": {
+        "build": 1,
+        "skin": 3,
+        "hair": 7,
+        "hairColor": 7,
+        "headgear": 7,
+        "gearColor": 7,
+        "glasses": 7,
+        "extra": 3,
+        "face": 3
+      },
+      "names": {
+        "build": "b",
+        "skin": "cocoa",
+        "hair": "style7",
+        "hairColor": "ultraviolet",
+        "headgear": "hoodie",
+        "gearColor": "magenta",
+        "glasses": "sport",
+        "extra": "faceGems",
+        "face": "detail3",
+        "hairLabel": "Curls",
+        "faceLabel": "Lashes + blush"
+      },
+      "legacySpriteLayers": [
+        {
+          "sprite": "headSpriteB",
+          "palette": "skinPalettes[3]"
+        },
+        {
+          "sprite": "lashSprite",
+          "palette": "inkColor"
+        },
+        {
+          "sprite": "blushSprite",
+          "palette": "blushColors[3]"
+        },
+        {
+          "sprite": "gemSprite",
+          "palette": "gemPalette"
+        },
+        {
+          "sprite": "hairSprites.b7",
+          "palette": "hairPalettes.b7[7]"
+        },
+        {
+          "sprite": "glassesSprites[6]",
+          "palette": "glassesPalettes[6]"
+        },
+        {
+          "sprite": "hatSprites[6]",
+          "palette": "gearPalettes[7]"
+        }
+      ],
+      "presentation": "legacy-sprite"
+    }
+  },
+  {
+    "id": "reserved-flag",
+    "hex": "80 00 00",
+    "decoded": {
+      "format": "legacy-typed-profile3",
+      "profileBytes": [
+        128,
+        0,
+        0
+      ],
+      "type": "flag",
+      "canonicalClear": false,
+      "catalogue335Mapping": null,
+      "payload22": 0,
+      "presentation": "initials-fallback"
+    }
+  },
+  {
+    "id": "reserved-social",
+    "hex": "C0 00 00",
+    "decoded": {
+      "format": "legacy-typed-profile3",
+      "profileBytes": [
+        192,
+        0,
+        0
+      ],
+      "type": "socialMode",
+      "canonicalClear": false,
+      "catalogue335Mapping": null,
+      "payload22": 0,
+      "presentation": "initials-fallback"
+    }
+  }
+]

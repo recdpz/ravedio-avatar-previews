@@ -1,0 +1,318 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:ravedio:avatar-settings:1",
+  "title": "Catalogue 335 named rendering settings; not a radio profile",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "bottom",
+    "bottomColor",
+    "build",
+    "catalogueRevision",
+    "detail",
+    "eyes",
+    "frameColor",
+    "glasses",
+    "groom",
+    "hair",
+    "hairColor",
+    "headgearColor",
+    "headwear",
+    "lensTint",
+    "mouth",
+    "nose",
+    "schemaVersion",
+    "skin",
+    "top",
+    "topColor"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "type": "integer",
+      "const": 1
+    },
+    "catalogueRevision": {
+      "type": "integer",
+      "const": 335
+    },
+    "build": {
+      "type": "string",
+      "enum": [
+        "Feminine",
+        "Masculine"
+      ]
+    },
+    "skin": {
+      "type": "integer",
+      "enum": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    "nose": {
+      "const": "none"
+    },
+    "mouth": {
+      "const": "line"
+    },
+    "hairColor": {
+      "type": "string",
+      "enum": [
+        "default",
+        "black",
+        "ombre",
+        "darkbrown",
+        "auburn",
+        "blonde",
+        "platinum",
+        "pink",
+        "purple"
+      ]
+    },
+    "headgearColor": {
+      "type": "string",
+      "enum": [
+        "default",
+        "black",
+        "white",
+        "gray",
+        "navy",
+        "blue",
+        "khaki",
+        "red",
+        "pink"
+      ]
+    },
+    "topColor": {
+      "type": "string",
+      "enum": [
+        "default",
+        "black",
+        "white",
+        "blue",
+        "teal",
+        "purple",
+        "pink",
+        "red",
+        "lime"
+      ]
+    },
+    "bottomColor": {
+      "type": "string",
+      "enum": [
+        "default",
+        "black",
+        "white",
+        "gray",
+        "navy",
+        "blue",
+        "khaki",
+        "red",
+        "pink"
+      ]
+    },
+    "frameColor": {
+      "type": "string",
+      "enum": [
+        "black",
+        "tortoise",
+        "silver",
+        "gold"
+      ]
+    },
+    "lensTint": {
+      "type": "string",
+      "enum": [
+        "dark",
+        "clear"
+      ]
+    },
+    "headwear": {
+      "type": "string",
+      "enum": [
+        "beanie",
+        "bucket",
+        "cap",
+        "cowboy",
+        "ears",
+        "headband",
+        "none",
+        "pashmina"
+      ]
+    },
+    "glasses": {
+      "type": "string",
+      "enum": [
+        "cat-eye",
+        "heart",
+        "kaleidoscope",
+        "none",
+        "reading",
+        "rectangular",
+        "wayfarer",
+        "wraparound"
+      ]
+    },
+    "detail": {
+      "type": "string",
+      "enum": [
+        "hot",
+        "none",
+        "sprout"
+      ]
+    },
+    "hair": {
+      "type": "string"
+    },
+    "eyes": {
+      "type": "string"
+    },
+    "groom": {
+      "type": "string"
+    },
+    "top": {
+      "type": "string"
+    },
+    "bottom": {
+      "type": "string"
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "build": {
+            "const": "Feminine"
+          }
+        },
+        "required": [
+          "build"
+        ]
+      },
+      "then": {
+        "properties": {
+          "hair": {
+            "type": "string",
+            "enum": [
+              "bob",
+              "box-braids",
+              "curls",
+              "ponytail",
+              "side-sweep",
+              "space-buns",
+              "straight",
+              "twin-braids"
+            ]
+          },
+          "eyes": {
+            "type": "string",
+            "enum": [
+              "bean",
+              "hooded",
+              "original",
+              "tapered"
+            ]
+          },
+          "groom": {
+            "type": "string",
+            "enum": [
+              "none"
+            ]
+          },
+          "top": {
+            "type": "string",
+            "enum": [
+              "bandeau",
+              "jersey",
+              "open",
+              "strappy",
+              "sweatshirt",
+              "tank",
+              "triangle",
+              "tshirt"
+            ]
+          },
+          "bottom": {
+            "type": "string",
+            "enum": [
+              "bikini",
+              "pants",
+              "shorts",
+              "skirt"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "build": {
+            "const": "Masculine"
+          }
+        },
+        "required": [
+          "build"
+        ]
+      },
+      "then": {
+        "properties": {
+          "hair": {
+            "type": "string",
+            "enum": [
+              "afro",
+              "buzz",
+              "curly-top",
+              "flow",
+              "locs",
+              "middle-part",
+              "sidepart",
+              "taper"
+            ]
+          },
+          "eyes": {
+            "type": "string",
+            "enum": [
+              "bean",
+              "hooded",
+              "original",
+              "tapered"
+            ]
+          },
+          "groom": {
+            "type": "string",
+            "enum": [
+              "goatee",
+              "long",
+              "mustache",
+              "none",
+              "patch",
+              "short",
+              "stubble"
+            ]
+          },
+          "top": {
+            "type": "string",
+            "enum": [
+              "buttonup",
+              "jersey",
+              "shirtless",
+              "sweatshirt",
+              "tank",
+              "tshirt"
+            ]
+          },
+          "bottom": {
+            "type": "string",
+            "enum": [
+              "pants",
+              "shorts"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
