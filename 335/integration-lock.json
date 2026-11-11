@@ -1,0 +1,46 @@
+{
+  "schema": 1,
+  "revision": 335,
+  "review": "self",
+  "status": "integrated-source-catalogue",
+  "approved_artwork_commit": "7f4ae47986253d3f5ee1471c17665c4a2797da2c",
+  "approval": "approvals/bob334-waves.json",
+  "existing_style_id": "Feminine/bob",
+  "base_catalogue_revision": 330,
+  "base_catalogue_sha256": "47f3a24c1de55578e2833ad813059b9a4a5e5f0a25f91f0389ba805f5cd33f4e",
+  "catalogue_sha256": "55a9409b199b46e313c2aa67e28b21789805f06292cac1f9933e1c1db15c7bfc",
+  "context_fits_sha256": "fa77c54c425d383276a7fd790a09d0db5234c9d508ab5da095e468a6097c6fcc",
+  "fit_review_sha256": "8653a00db91b1c4e7331891b505b3ff61e43862e68c1c8f6554967faa5d0a462",
+  "approved_uncovered_glb_sha256": "11d48c7724811723ab949384de379f6115d4dd646c79bb66cee8fafa673b3edf",
+  "portable_renderer_sha256": "341511e2f98a2ebe7dc1fcd0a8ad004e92f29ab73b32bd18c8c627c6a47befd1",
+  "fit_rows": 128,
+  "unique_hair_exports": 16,
+  "studio_combinations": 512,
+  "browser_checks": {
+    "live_color_cases": 72,
+    "top_specific_pashminas": 8,
+    "catalogue_styles": 16,
+    "mobile_width": 390,
+    "errors": []
+  },
+  "archives": {
+    "revision": 335,
+    "full": {
+      "file": "delivery/Ravedio335-full-source-catalogue.zip",
+      "bytes": 1197016866,
+      "sha256": "4130f4500777b0457a3159cdf636b393ec2a3b61f6910cda5aa6238d3439e322"
+    },
+    "delta": {
+      "file": "delivery/Ravedio335-wavy-bob-source.zip",
+      "bytes": 168677050,
+      "sha256": "9aa154aa5242815719804bc67693907e6c59a5850fc805ec62936df16f8536db"
+    }
+  },
+  "output_directory": "D:\\Ravedio-Avatar-Work\\native335",
+  "profile_wire_change": false,
+  "native_app_code_change": false,
+  "remaining_work": [
+    "Optimized mobile derivatives and portrait/depth rebake together.",
+    "Physical iOS and Android performance qualification."
+  ]
+}
