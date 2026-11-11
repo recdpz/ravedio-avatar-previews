@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ravedio · Bob end treatments</title>
+  <style>
+    * { box-sizing: border-box; }
+    body { margin: 0; background: #101923; color: #edf2f7; font: 15px/1.5 system-ui, sans-serif; }
+    main { width: min(100% - 32px, 1050px); margin: 36px auto; }
+    h1 { font-size: clamp(26px, 5vw, 38px); line-height: 1.15; margin: 0 0 20px; }
+    .controls { display: flex; flex-wrap: wrap; gap: 14px 24px; align-items: flex-end; }
+    label { display: grid; gap: 5px; }
+    select { background: #243343; color: #f3f6fa; border: 1px solid #607389; border-radius: 8px; font: inherit; padding: 8px 12px; min-width: 155px; }
+    select:focus-visible, a:focus-visible { outline: 2px solid #a7eadd; outline-offset: 3px; }
+    .pair { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 16px 0; }
+    figure { margin: 0; min-width: 0; }
+    figcaption { font-weight: 600; margin-bottom: 6px; }
+    figure a { display: block; border: 1px solid #42586d; border-radius: 12px; overflow: hidden; }
+    figure img { display: block; width: 100%; height: auto; background: #202b36; }
+    p { color: #c5d3e1; }
+    nav { display: flex; flex-wrap: wrap; gap: 10px 24px; }
+    a { color: #a7eadd; }
+    @media (max-width: 520px) { main { margin-top: 24px; } .pair { gap: 8px; } .controls { gap: 10px 16px; } }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Bob end treatments</h1>
+    <div class="controls">
+      <label>Direction
+        <select id="style">
+          <option value="feathered">A · Feathered</option>
+          <option value="flipped">B · Flipped</option>
+          <option value="tucked">C · Tucked</option>
+        </select>
+      </label>
+      <label>Angle
+        <select id="angle">
+          <option value="threequarter">Three-quarter</option>
+          <option value="front">Front</option>
+          <option value="profile">Left side</option>
+          <option value="rightprofile">Right side</option>
+          <option value="rear">Back</option>
+          <option value="rearquarter">Rear three-quarter</option>
+          <option value="above">Above</option>
+          <option value="underneath">Underneath</option>
+        </select>
+      </label>
+    </div>
+    <p id="description" aria-live="polite"></p>
+    <div class="pair">
+      <figure>
+        <figcaption>Current · 330</figcaption>
+        <a id="baselineLink" href="files/review/current-threequarter.png"><img id="baseline" width="600" height="600" src="files/review/current-threequarter.png" alt="Current bob, three-quarter view"></a>
+      </figure>
+      <figure>
+        <figcaption id="label">A · Feathered</figcaption>
+        <a id="candidateLink" href="files/review/feathered-threequarter.png"><img id="candidate" width="600" height="600" src="files/review/feathered-threequarter.png" alt="Feathered bob, three-quarter view"></a>
+      </figure>
+    </div>
+    <nav>
+      <a href="files/comparison.jpg">All three directions</a>
+      <a id="model" href="files/Ravedio331-feathered.blend" download>Editable Blender scene</a>
+    </nav>
+  </main>
+  <script>
+    const styles = {
+      feathered: "Thinner, beveled ends with shallow grooves that follow the existing wave. The sheen is softer where the broad locks catch the light.",
+      flipped: "Thinner edges roll out and up at different angles, giving the bob a bouncier profile and more movement at the nape.",
+      tucked: "A closer-fitting, more even edge curves toward the jaw. The ends taper in depth to keep the outline clean."
+    };
+    const style = document.querySelector("#style");
+    const angle = document.querySelector("#angle");
+    function update() {
+      const name = style.selectedOptions[0].textContent;
+      const view = angle.selectedOptions[0].textContent;
+      document.querySelector("#label").textContent = name;
+      document.querySelector("#description").textContent = styles[style.value];
+      document.querySelector("#model").href = "files/Ravedio331-" + style.value + ".blend";
+      for (const [id, direction, label] of [["baseline", "current", "Current"], ["candidate", style.value, name]]) {
+        const image = document.querySelector("#" + id);
+        const path = "files/review/" + direction + "-" + angle.value + ".png";
+        image.src = path;
+        image.alt = label + " bob, " + view.toLowerCase() + " view";
+        document.querySelector("#" + id + "Link").href = path;
+      }
+    }
+    style.addEventListener("change", update);
+    angle.addEventListener("change", update);
+    update();
+  </script>
+</body>
+</html>
