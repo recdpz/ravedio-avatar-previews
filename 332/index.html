@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ravedio · Bob shapes and textures</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#101923;color:#edf2f7;font:15px/1.5 system-ui,sans-serif}main{width:min(100% - 32px,1100px);margin:32px auto}h1{font-size:clamp(25px,5vw,36px);line-height:1.15;margin:0 0 22px}.controls{display:flex;flex-wrap:wrap;gap:12px 22px}label{display:grid;gap:5px}select{font:inherit;color:#eef4f9;background:#253647;border:1px solid #607389;padding:8px 12px;border-radius:8px;min-width:150px}.pair{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin:18px 0}figure{margin:0;min-width:0}figcaption{font-weight:600;margin-bottom:6px}figure a{display:block;border:1px solid #42586d;border-radius:12px;overflow:hidden}img{display:block;width:100%;height:auto;background:#202b36}p{color:#c5d3e1;margin:12px 0}nav{display:flex;flex-wrap:wrap;gap:12px 24px}a{color:#a7eadd}a:focus-visible,select:focus-visible{outline:2px solid #a7eadd;outline-offset:3px}@media(max-width:520px){main{margin-top:22px}.controls{gap:10px}.controls label{flex:1}select{width:100%;min-width:0}.pair{gap:8px}figcaption{font-size:13px}}
+</style>
+</head>
+<body><main>
+<h1>Bob shapes and textures</h1>
+<div class="controls">
+<label>Shape<select id="shape"><option value="tucked">Tucked</option><option value="volume">Rounded volume</option><option value="side-tuck">One-sided tuck</option></select></label>
+<label>Texture<select id="texture"><option value="smooth">Smooth</option><option value="brushed" selected>Brushed</option><option value="channels">Sculpted channels</option></select></label>
+<label>Angle<select id="angle"><option value="threequarter">Three-quarter</option><option value="front">Front</option><option value="profile">Left side</option><option value="rightprofile">Right side</option><option value="rear">Back</option><option value="rearquarter">Rear three-quarter</option><option value="above">Above</option><option value="underneath">Underneath</option></select></label>
+</div>
+<p id="description" aria-live="polite"></p>
+<div class="pair">
+<figure><figcaption>Tucked · Smooth</figcaption><a id="baseLink" href="files/review/tucked-smooth-threequarter.png"><img id="base" src="files/review/tucked-smooth-threequarter.png" width="600" height="600" alt="Tucked bob with a smooth surface, three-quarter view"></a></figure>
+<figure><figcaption id="name">Tucked · Brushed</figcaption><a id="chosenLink" href="files/review/tucked-brushed-threequarter.png"><img id="chosen" src="files/review/tucked-brushed-threequarter.png" width="600" height="600" alt="Tucked bob with brushed texture, three-quarter view"></a></figure>
+</div>
+<nav><a href="files/shapes.jpg">Shape comparisons</a><a href="files/textures.jpg">Texture comparisons</a><a id="source" href="files/Ravedio332-tucked.blend" download>Editable Blender scene</a></nav>
+</main>
+<script>
+const shape = document.querySelector("#shape");
+const texture = document.querySelector("#texture");
+const angle = document.querySelector("#angle");
+const shapes = {
+tucked:"The selected tucked ends with the existing jaw-length silhouette.",
+volume:"A fuller rounded contour through the sides and back, with the ends turning inward.",
+"side-tuck":"One side sweeps back to expose more of the face, while the other keeps a fuller face-framing section."
+};
+const textures = {
+smooth:"Smooth sculpted surfaces provide the gloss comparison.",
+brushed:"Fine lengthwise grooves and varied roughness follow each lock from its root to its tip.",
+channels:"Wider sculpted channels break up the broad surfaces, with finer brushing inside the sections."
+};
+function update() {
+const name = shape.selectedOptions[0].textContent + " · " + texture.selectedOptions[0].textContent;
+document.querySelector("#description").textContent = shapes[shape.value] + " " + textures[texture.value];
+document.querySelector("#name").textContent = name;
+document.querySelector("#source").href = "files/Ravedio332-" + shape.value + ".blend";
+for(const [id,key,label] of [["base","tucked-smooth","Tucked · Smooth"],["chosen",shape.value+"-"+texture.value,name]]) {
+const file="files/review/"+key+"-"+angle.value+".png";
+const image=document.querySelector("#"+id);
+image.src=file;
+image.alt=label+", "+angle.selectedOptions[0].textContent.toLowerCase()+" view";
+document.querySelector("#"+id+"Link").href=file;
+}
+}
+const requested = new URLSearchParams(location.search);
+for(const field of [shape,texture,angle]) {
+const value = requested.get(field.id);
+if([...field.options].some(option => option.value === value)) field.value = value;
+field.addEventListener("change",() => {
+update();
+const selected = new URLSearchParams({shape:shape.value,texture:texture.value,angle:angle.value});
+history.replaceState(null,"","?"+selected);
+});
+}
+update();
+</script></body></html>
