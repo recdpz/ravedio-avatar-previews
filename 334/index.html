@@ -1,0 +1,44 @@
+<!doctype html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Ravedio · Bob directions</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#f0f3f7;color:#24313e;font:15px/1.5 system-ui,sans-serif}main{width:min(100% - 32px,1120px);margin:30px auto}h1{font-size:clamp(27px,5vw,38px);line-height:1.15;margin:0 0 12px}p{color:#495a69}.controls{display:flex;flex-wrap:wrap;gap:14px 24px}label{display:grid;gap:5px}select{font:inherit;background:#fff;color:#24313e;border:1px solid #98a7b4;border-radius:8px;padding:8px 12px}.pair{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin:18px 0}figure{margin:0;min-width:0}figcaption{font-weight:650;margin-bottom:6px;min-height:3em}.frame{display:block;position:relative;aspect-ratio:1;overflow:hidden;background:#f1f2f5;border:1px solid #b8c2cb;border-radius:12px}.frame img.model{display:block;width:100%;height:100%;object-fit:contain}.frame img.concept{position:absolute;display:block;max-width:none;width:300%;height:auto;left:0;top:0}nav{display:flex;flex-wrap:wrap;gap:12px 24px}a{color:#155f69}a:focus-visible,select:focus-visible{outline:2px solid #147b8b;outline-offset:3px}details{margin:22px 0}summary{cursor:pointer}details img{display:block;width:100%;height:auto;border-radius:10px;margin-top:12px}.note{font-size:13px}@media(max-width:560px){main{margin-top:22px}.pair{gap:8px}figcaption{font-size:13px}.controls{gap:10px}.controls label{flex:1}select{width:100%;min-width:0}}
+</style></head><body><main>
+<h1>Bob directions</h1>
+<div class="controls">
+<label>Direction<select id="style"><option value="blowout">A · Blowout bob</option><option value="waves">B · Wavy bob &amp; curtain fringe</option><option value="asymmetric">C · Asymmetric bob</option></select></label>
+<label>Model view<select id="angle"><option value="threequarter">Three-quarter</option><option value="front">Front</option><option value="profile">Left side</option><option value="rightprofile">Right side</option><option value="rear">Back</option><option value="rearquarter">Rear three-quarter</option><option value="above">Above</option><option value="underneath">Underneath</option></select></label>
+</div>
+<p id="description" aria-live="polite"></p>
+<div class="pair">
+<figure><figcaption id="referenceCaption">Concept target · ImageGen</figcaption><a class="frame" href="files/concept.png"><img class="concept" id="reference" src="files/concept.png" width="1536" height="1024" alt="ImageGen concept A, blowout bob"></a></figure>
+<figure><figcaption>Blender model</figcaption><a class="frame" id="modelLink" href="files/review/blowout-threequarter.png"><img class="model" id="model" src="files/review/blowout-threequarter.png" width="600" height="600" alt="Blender blowout bob, three-quarter view"></a></figure>
+</div>
+<nav><a href="files/comparison.jpg">Compare the source models</a><a href="files/angles.jpg">All angles</a><a id="blend" href="files/Ravedio334-blowout.blend" download>Blender source</a><a id="glb" href="files/blowout.glb" download>Hair GLB</a><a href="../332/?shape=tucked&amp;texture=brushed">Chosen Tucked + Brushed</a></nav>
+<details><summary>Full concept sheet</summary><img src="files/concept.png" width="1536" height="1024" alt="The three ImageGen concepts from three-quarter and rear three-quarter views"></details>
+<p class="note">The reference image has three-quarter and rear three-quarter views. The model selector includes eight rendered viewpoints.</p>
+</main><script>
+const style=document.querySelector("#style"),angle=document.querySelector("#angle");
+const data={
+blowout:{column:0,text:"A lifted side sweep, rounded volume and ends turning inward around the jaw."},
+waves:{column:1,text:"A wavy jaw-length cut with curtain fringe and a softer outline around the cheeks."},
+asymmetric:{column:2,text:"A diagonal fringe with a longer front section and a shorter graduated nape."}
+};
+const requested=new URLSearchParams(location.search);
+for(const field of [style,angle]){const value=requested.get(field.id);if([...field.options].some(o=>o.value===value))field.value=value}
+function update(){
+const direction=data[style.value],rear=["rear","rearquarter"].includes(angle.value);
+const reference=document.querySelector("#reference");
+reference.style.left=(-100*direction.column)+"%";reference.style.top=rear?"-106%":"0";
+reference.alt="ImageGen concept "+style.selectedOptions[0].textContent+", "+(rear?"rear three-quarter":"three-quarter")+" view";
+document.querySelector("#referenceCaption").textContent="Concept target · "+(rear?"Rear three-quarter":"Three-quarter");
+document.querySelector("#description").textContent=direction.text;
+const file="files/review/"+style.value+"-"+angle.value+".png";
+const model=document.querySelector("#model");model.src=file;model.alt=style.selectedOptions[0].textContent+", "+angle.selectedOptions[0].textContent.toLowerCase()+" Blender view";
+document.querySelector("#modelLink").href=file;
+document.querySelector("#blend").href="files/Ravedio334-"+style.value+".blend";
+document.querySelector("#glb").href="files/"+style.value+".glb";
+}
+for(const field of [style,angle])field.addEventListener("change",()=>{update();history.replaceState(null,"","?"+new URLSearchParams({style:style.value,angle:angle.value}))});
+update();
+</script></body></html>
