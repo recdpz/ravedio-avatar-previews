@@ -1,0 +1,47 @@
+{
+  "release": "https://github.com/recdpz/ravedio-avatar-previews/releases/tag/avatar-art335-source",
+  "tag": "avatar-art335-source",
+  "publishedAt": "2026-11-11T05:37:17Z",
+  "artworkCommit": "f7a01d28eb3784310ace9c38af2f00e6df68af52",
+  "selectionCodeCommit": "32372004794a5fed8ad3df0fc498ba9fe4e22e70",
+  "publicHandoffDownloadVerified": true,
+  "allAssetSizesAndServerDigestsVerified": true,
+  "assets": [
+    {
+      "name": "Ravedio335-full-source-catalogue.zip",
+      "size": 1197016866,
+      "digest": "sha256:4130f4500777b0457a3159cdf636b393ec2a3b61f6910cda5aa6238d3439e322",
+      "browser_download_url": "https://github.com/recdpz/ravedio-avatar-previews/releases/download/avatar-art335-source/Ravedio335-full-source-catalogue.zip"
+    },
+    {
+      "name": "Ravedio335-full-source-catalogue.zip.sha256",
+      "size": 104,
+      "digest": "sha256:a71e2335e554d932a123e5543cb1fc1c93b420624ff441eda132fc76471c6c21",
+      "browser_download_url": "https://github.com/recdpz/ravedio-avatar-previews/releases/download/avatar-art335-source/Ravedio335-full-source-catalogue.zip.sha256"
+    },
+    {
+      "name": "Ravedio335-mobile-selection-handoff.zip",
+      "size": 204636,
+      "digest": "sha256:46402f6291fc5ddf9e5d9d88934a26144263754271c9e0f68e8d8222d42bb87e",
+      "browser_download_url": "https://github.com/recdpz/ravedio-avatar-previews/releases/download/avatar-art335-source/Ravedio335-mobile-selection-handoff.zip"
+    },
+    {
+      "name": "Ravedio335-mobile-selection-handoff.zip.sha256",
+      "size": 107,
+      "digest": "sha256:a403c54dfb75a19c40d4a806c38f99f9ad36bdb8b04489ce722bb42691a13e49",
+      "browser_download_url": "https://github.com/recdpz/ravedio-avatar-previews/releases/download/avatar-art335-source/Ravedio335-mobile-selection-handoff.zip.sha256"
+    },
+    {
+      "name": "Ravedio335-wavy-bob-source.zip",
+      "size": 168677050,
+      "digest": "sha256:9aa154aa5242815719804bc67693907e6c59a5850fc805ec62936df16f8536db",
+      "browser_download_url": "https://github.com/recdpz/ravedio-avatar-previews/releases/download/avatar-art335-source/Ravedio335-wavy-bob-source.zip"
+    },
+    {
+      "name": "Ravedio335-wavy-bob-source.zip.sha256",
+      "size": 98,
+      "digest": "sha256:7e25a5073cee2d8a0835a6ad255a7e0b522284401b8f8571c2a1e4abac9fd894",
+      "browser_download_url": "https://github.com/recdpz/ravedio-avatar-previews/releases/download/avatar-art335-source/Ravedio335-wavy-bob-source.zip.sha256"
+    }
+  ]
+}
