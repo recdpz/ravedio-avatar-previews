@@ -29,55 +29,58 @@ def sheet(root, filename, rows, size):
 
 
 def package(base, root):
+    catalogue = json.loads((root / "catalogue.json").read_bytes())
+    receipt = json.loads((root / "receipt.json").read_bytes())
+    revision = catalogue["revision"]
+    label = receipt["label"]
+    scene = f"Ravedio{revision}-{label}.blend"
     angles = ("front","threequarter","profile","rear")
     labels = ("Front","Three-quarter","Left","Back")
     sheet(root, "comparison.jpg", [
-        [(f"{title} · {label}", f"{revision}-none-default-{angle}") for angle, label in zip(angles, labels)]
-        for revision, title in ((322,"Bob"),(327,"Lob"))
+        [(f"{title} · {label}", f"{number}-none-default-{angle}") for angle, label in zip(angles, labels)]
+        for number, title in ((322,"Original Bob"),(revision,label))
     ], 290)
     sheet(root, "angles.jpg", [
-        [(label, "327-none-default-" + angle) for angle, label in zip(angles, labels)],
-        [(label, "327-none-default-" + angle) for angle, label in (
+        [(label, f"{revision}-none-default-" + angle) for angle, label in zip(angles, labels)],
+        [(label, f"{revision}-none-default-" + angle) for angle, label in (
             ("rightprofile","Right"),("rearquarter","Rear three-quarter"),("above","Above"),("underneath","Underneath"))],
     ], 265)
     hats = (("cap","Cap"),("beanie","Beanie"),("bucket","Bucket hat"),("cowboy","Cowboy hat"),
             ("ears","Animal ears"),("headband","Bandana"),("pashmina","Pashmina"))
     sheet(root, "headwear.jpg", [
-        [(label, f"327-{hat}-default-{angle}") for hat, label in hats]
+        [(label, f"{revision}-{hat}-default-{angle}") for hat, label in hats]
         for angle in ("threequarter","rearquarter")
     ], 240)
     sheet(root, "ombre.jpg", [
-        [(label, f"327-{hat}-ombre-{angle}") for hat, angle, label in (
+        [(label, f"{revision}-{hat}-ombre-{angle}") for hat, angle, label in (
             ("none","threequarter","Ombre · Front"),("none","rear","Ombre · Back"),
             ("pashmina","threequarter","Ombre · Pashmina"))]
     ], 310)
 
-    catalogue = json.loads((root / "catalogue.json").read_bytes())
-    receipt = json.loads((root / "receipt.json").read_bytes())
     source = json.loads((base / "catalogue.json").read_bytes())
     updated = [catalogue["components"][row["sha256"]]["file"] for row in receipt["replacements"].values()]
     removed = [source["components"][digest]["file"] for digest in receipt["replacements"]]
-    files = ["catalogue.json", "overlay.json", "receipt.json", "fit-review.json", "Ravedio327-Lob.blend", *updated]
+    files = ["catalogue.json", "overlay.json", "receipt.json", "fit-review.json", scene, *updated]
     digests = {name: sha(root / name) for name in files}
     for name in updated:
         assert digests[name] == Path(name).stem
-    manifest = dict(revision=327, base_revision=322, base_catalogue_sha256=sha(base/"catalogue.json"),
+    manifest = dict(revision=revision, base_revision=322, base_catalogue_sha256=sha(base/"catalogue.json"),
                     replaced_paths=removed, files=digests)
-    readme = """# Revision 327 Lob source update
+    readme = f"""# Revision {revision} {label} source update
 
 Apply the eight new GLBs and catalogue.json over a copy of the extracted
 revision 322 full catalogue. Validate the base catalogue digest against
 delta-manifest.json before replacing it. Use the updated catalogue.json
-to resolve the new Lob bindings. The manifest.json shipped with 322
+to resolve the new {label} bindings. The manifest.json shipped with 322
 describes that original archive. The delta manifest covers this update.
 
-Ravedio327-Lob.blend is the packed editable studio model with the new bare
-Lob and a feminine jersey. Both fitted hair finishes and the pashmina
+{scene} is the packed editable studio model with the new bare
+{label} and a feminine jersey. Both fitted hair finishes and the pashmina
 version are included in the eight source GLBs. The fit-review report
 records checks against the original fitted garments and headwear.
 """
     (root / "delivery").mkdir(exist_ok=True)
-    archive_path = root / "delivery/Ravedio327-lob-source.zip"
+    archive_path = root / f"delivery/Ravedio{revision}-{label.lower()}-source.zip"
     with ZipFile(archive_path, "w", ZIP_DEFLATED, compresslevel=3) as archive:
         for name in files:
             archive.write(root / name, name)

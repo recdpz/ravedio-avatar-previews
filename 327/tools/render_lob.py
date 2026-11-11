@@ -46,12 +46,13 @@ def main():
     for directory in (args.base, args.revised):
         catalogue = load(directory / "catalogue.json")
         revision = catalogue["revision"]
+        label = catalogue["options"]["builds"]["Feminine"]["hair"]["bob"]
         bare_angles = ("front", "threequarter", "profile", "rear") if args.quick else tuple(ANGLES)
         if args.quick:
             cases = [("none", "default", "jersey", bare_angles), ("pashmina", "default", "jersey", ("threequarter", "rearquarter"))]
         else:
             cases = [("none", "default", "jersey", bare_angles)]
-            if revision == 327:
+            if directory == args.revised:
                 cases += [(hat, "default", "open", ("threequarter", "rearquarter"))
                           for hat in ("cap","beanie","bucket","cowboy","ears","headband","pashmina")]
                 cases += [("none","ombre","sweatshirt",("threequarter","rear")),
@@ -84,10 +85,10 @@ def main():
                 scene.camera.location = target + 8 * Vector((math.sin(yaw)*math.cos(pitch),
                     -math.cos(yaw)*math.cos(pitch), math.sin(pitch)))
                 scene.camera.rotation_euler = (target - scene.camera.location).to_track_quat("-Z", "Y").to_euler()
-                if revision == 327 and hat=="none" and finish=="default" and angle=="threequarter" and not args.quick:
-                    scene.render.filepath = "//review/lob.png"
+                if directory == args.revised and hat=="none" and finish=="default" and angle=="threequarter" and not args.quick:
+                    scene.render.filepath = f"//review/{label.lower()}.png"
                     bpy.ops.file.pack_all()
-                    bpy.ops.wm.save_as_mainfile(filepath=str(args.revised / "Ravedio327-Lob.blend"))
+                    bpy.ops.wm.save_as_mainfile(filepath=str(args.revised / f"Ravedio{revision}-{label}.blend"))
                 scene.render.filepath = str(output / f"{revision}-{hat}-{finish}-{angle}.png")
                 bpy.ops.render.render(write_still=True)
 

@@ -64,16 +64,21 @@ def keep_head_room(before, after):
     return cartesian(angle, y, radius)
 
 
-def package(base, output):
+def package(base, output, *, revision=327, label="Lob",
+            note="Collarbone-length layers with a soft outward turn.", sculpt=None):
+    if sculpt is None:
+        def sculpt(points, scarf, free_crown):
+            return shape(points, scarf)
     catalogue = load(base / "catalogue.json")
     assert catalogue["revision"] == 322
     overlay = load(base / "overlay.json")
     components = catalogue["components"]
     rows = {key: row for key, row in catalogue["fit_rows"].items() if key.startswith("Feminine/bob/")}
     assert len(rows) == 128
+    bare = {row["hair"] for key, row in rows.items() if key.split("/")[2] == "none"}
     assets = output / "assets"
     assets.mkdir(parents=True, exist_ok=True)
-    # Use the torso and all eight tops as clearance surfaces at the new length.
+    # Use the torso and all eight tops as clearance surfaces.
     def part(digest):
         return base / components[digest]["file"]
     style = catalogue["independent_roles"]["Feminine"]
@@ -90,18 +95,20 @@ def package(base, output):
         if digest not in changes:
             source = part(digest)
             assert sha(source) == digest
-            pending = output / "lob-pending.glb"
+            pending = output / "hair-pending.glb"
             def warp(points):
-                moved = keep_head_room(points, shape(points, scarf))
+                moved = keep_head_room(points, sculpt(points, scarf, digest in bare))
                 if scarf:
                     return moved
                 return keep_shoulder_room(clearance, points, moved)
             distance = deform(source, pending, warp)
-            assert distance > .02
+            assert distance > (.02 if revision == 327 else .01)
             revised = sha(pending)
             file = assets / (revised + ".glb")
             pending.replace(file)
             changes[digest] = dict(sha256=revised, pashmina=scarf, max_displacement=distance)
+            if revision != 327:
+                changes[digest]["free_crown"] = digest in bare
             components[revised] = {"file": "assets/" + file.name, "bytes": file.stat().st_size}
         assert changes[digest]["pashmina"] == scarf
         row["hair"] = changes[digest]["sha256"]
@@ -127,14 +134,14 @@ def package(base, output):
         shutil.copyfile(base / path, output / path)
     dyes = catalogue["shared_jersey_dyes_dir"]
     shutil.copytree(base / dyes, output / dyes, dirs_exist_ok=True)
-    catalogue["revision"] = 327
-    catalogue["options"]["builds"]["Feminine"]["hair"]["bob"] = "Lob"
-    overlay["hairLabels"] = {"Feminine": {"bob": {"label":"Lob", "note":"Collarbone-length layers with a soft outward turn."}}}
+    catalogue["revision"] = revision
+    catalogue["options"]["builds"]["Feminine"]["hair"]["bob"] = label
+    overlay["hairLabels"] = {"Feminine": {"bob": {"label":label, "note":note}}}
     write(output / "catalogue.json", catalogue)
     write(output / "overlay.json", overlay)
-    write(output / "receipt.json", {"revision":327, "base_revision":322, "style_id":"bob", "label":"Lob",
+    write(output / "receipt.json", {"revision":revision, "base_revision":322, "style_id":"bob", "label":label,
                                      "fit_rows":len(rows), "replacements":changes})
-    print(f"Updated {len(rows)} fitted rows using {len(changes)} new Lob GLBs", flush=True)
+    print(f"Updated {len(rows)} fitted rows using {len(changes)} new {label} GLBs", flush=True)
 
 
 if __name__ == "__main__":

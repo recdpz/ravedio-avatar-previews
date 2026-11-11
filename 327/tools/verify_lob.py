@@ -33,9 +33,10 @@ def main(base, candidate):
         end = candidate / lob["components"][data["sha256"]]["file"]
         a, b = positions(start), positions(end)
         above = a[:, 1] >= 1.90
-        assert np.array_equal(a[above], b[above]), "Crown vertices changed"
+        if not data.get("free_crown"):
+            assert np.array_equal(a[above], b[above]), "Fitted crown vertices changed"
         outside = np.linalg.norm(a - CENTER, axis=1) >= .3845
-        assert np.min(np.linalg.norm(b[outside] - CENTER, axis=1)) >= .38395, "Lob penetrates the head"
+        assert np.min(np.linalg.norm(b[outside] - CENTER, axis=1)) >= .38395, "Hair penetrates the head"
         verified[original] = {"minimum_tip_height_before":float(a[:,1].min()),
                               "minimum_tip_height_after":float(b[:,1].min())}
 
@@ -78,7 +79,7 @@ def main(base, candidate):
     for key,role,before,after in counts:
         print(key,role,before,after)
     if counts:
-        raise ValueError("The Lob introduced a new fit intersection")
+        raise ValueError("The hair introduced a new fit intersection")
 
 
 if __name__ == "__main__":
