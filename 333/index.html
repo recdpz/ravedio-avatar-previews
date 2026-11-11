@@ -1,0 +1,29 @@
+<!doctype html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Ravedio · Curtain bob</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#101923;color:#edf2f7;font:15px/1.5 system-ui,sans-serif}main{width:min(100% - 32px,1100px);margin:32px auto}h1{font-size:clamp(26px,5vw,38px);line-height:1.15;margin:0 0 14px}p{color:#c5d3e1}label{display:grid;gap:5px;width:max-content}select{font:inherit;background:#253647;color:#eef4f9;border:1px solid #607389;border-radius:8px;padding:8px 12px}.pair{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin:18px 0}figure{margin:0;min-width:0}figcaption{font-weight:600;margin-bottom:6px}figure a{display:block;border:1px solid #42586d;border-radius:12px;overflow:hidden}img{display:block;width:100%;height:auto;background:#202b36}nav{display:flex;flex-wrap:wrap;gap:12px 24px}a{color:#a7eadd}a:focus-visible,select:focus-visible{outline:2px solid #a7eadd;outline-offset:3px}@media(max-width:520px){main{margin-top:22px}.pair{gap:8px}figcaption{font-size:13px}}
+</style></head><body><main>
+<h1>Curtain bob</h1>
+<p>A new cut with a center part, paired face-framing sections and an inward curve near the jaw. Both models use the selected brushed finish.</p>
+<label>Angle<select id="angle"><option value="front">Front</option><option value="threequarter">Three-quarter</option><option value="profile">Left side</option><option value="rightprofile">Right side</option><option value="rear">Back</option><option value="rearquarter">Rear three-quarter</option><option value="above">Above</option><option value="underneath">Underneath</option></select></label>
+<div class="pair">
+<figure><figcaption>Chosen · Tucked + Brushed</figcaption><a id="chosenLink" href="files/review/chosen-front.png"><img id="chosen" src="files/review/chosen-front.png" width="600" height="600" alt="Chosen tucked bob from the front"></a></figure>
+<figure><figcaption>New · Curtain bob</figcaption><a id="curtainLink" href="files/review/curtain-front.png"><img id="curtain" src="files/review/curtain-front.png" width="600" height="600" alt="New curtain bob from the front"></a></figure>
+</div>
+<nav><a href="files/comparison.jpg">Front, side and back comparison</a><a href="files/angles.jpg">All angles</a><a href="files/Ravedio333-curtain-bob.blend" download>Blender source</a><a href="files/curtain-bob.glb" download>Hair GLB</a></nav>
+</main><script>
+const angle=document.querySelector("#angle");
+const requested=new URLSearchParams(location.search).get("angle");
+if([...angle.options].some(o=>o.value===requested))angle.value=requested;
+function update(){
+for(const id of ["chosen","curtain"]){
+const file="files/review/"+id+"-"+angle.value+".png";
+const image=document.querySelector("#"+id);
+image.src=file;image.alt=(id==="chosen"?"Chosen tucked bob":"New curtain bob")+", "+angle.selectedOptions[0].textContent.toLowerCase()+" view";
+document.querySelector("#"+id+"Link").href=file;
+}
+}
+angle.addEventListener("change",()=>{update();history.replaceState(null,"","?angle="+angle.value)});
+update();
+</script></body></html>
