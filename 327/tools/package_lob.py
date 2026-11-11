@@ -69,16 +69,16 @@ def package(base, root):
                     replaced_paths=removed, files=digests)
     readme = f"""# Revision {revision} {label} source update
 
-Apply the eight new GLBs and catalogue.json over a copy of the extracted
+Apply the {len(updated)} revised GLBs and catalogue.json over a copy of the extracted
 revision {base_revision} catalogue. Validate the base catalogue digest against
 delta-manifest.json before replacing it. Use the updated catalogue.json
 to resolve the new {label} bindings. The manifest.json shipped with the base
 describes that original archive. The delta manifest covers this update.
 
 {scene} is the packed editable studio model with the new bare
-{label} and a feminine jersey. Both fitted hair finishes and the pashmina
-version are included in the eight source GLBs. The fit-review report
-records checks against the original fitted garments and headwear.
+{label} and a feminine jersey. The source GLBs cover the changed fits
+in both hair finishes. The fit-review report records checks against
+the base revision's fitted garments and headwear.
 """
     (root / "delivery").mkdir(exist_ok=True)
     archive_path = root / f"delivery/Ravedio{revision}-{label.lower()}-source.zip"

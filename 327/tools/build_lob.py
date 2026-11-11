@@ -103,14 +103,20 @@ def package(base, output, *, base_revision=322, revision=327, label="Lob",
             return distance
 
     changes = {}
+    unchanged = set()
     for key, row in rows.items():
         digest = row["hair"]
         scarf = key.split("/")[2] == "pashmina"
+        if digest in unchanged:
+            continue
         if digest not in changes:
             source = part(digest)
             assert sha(source) == digest
             pending = output / "hair-pending.glb"
             distance = edit_asset(source, pending, scarf, digest in bare)
+            if distance is None:
+                unchanged.add(digest)
+                continue
             revised = sha(pending)
             file = assets / (revised + ".glb")
             pending.replace(file)

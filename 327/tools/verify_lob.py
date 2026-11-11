@@ -51,7 +51,9 @@ def main(base, candidate):
     for key, old in source["fit_rows"].items():
         new = lob["fit_rows"][key]
         if key.startswith("Feminine/bob/"):
-            assert new == {**old,"hair":receipt["replacements"][old["hair"]]["sha256"]}
+            replacement = receipt["replacements"].get(old["hair"])
+            expected = {**old, "hair": replacement["sha256"]} if replacement else old
+            assert new == expected
             changed += 1
         else:
             assert new == old
