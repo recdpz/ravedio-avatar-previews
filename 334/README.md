@@ -1,9 +1,12 @@
 # Bob directions source review
 
-The selected baseline is revision 332, Tucked + Brushed. Revision 334
-compares three additional artistic directions against an ImageGen concept
-sheet. Each direction has eight actual Blender renders, an editable source
-scene and an ordinary GLB containing its hair component.
+The owner approved B, Wavy bob and curtain fringe, on November 10, 2026.
+The approved artwork is the actual revision 334 Blender model and its GLB,
+not the ImageGen concept. Checksums and the exact owner statement are in
+`../approvals/bob334-waves.json`. B is now the selected bob direction;
+revision 332, Tucked + Brushed, remains preserved as the earlier baseline.
+Each direction has eight actual Blender renders, an editable source scene
+and an ordinary GLB containing its hair component. A and C were not selected.
 
 The three directions are Blowout bob, Wavy bob with curtain fringe, and
 Asymmetric bob. The cuts use directly authored continuous coverage surfaces,
@@ -24,13 +27,15 @@ revision 332 Tucked + Brushed avatar. The concept is an artistic target.
 The PNGs in review and all three Blender scenes are the modeled results.
 
 The underlying head, face and body geometry is retained in shared
-coordinates. The new cuts remain under review. Headwear fits, other hair
-colors, optimization and catalogue integration are pending selection.
+coordinates. Approval freezes B's present bare-hair geometry and finish.
+Headwear fits, other hair colors, optimization and catalogue integration
+remain implementation work; they have not been qualified by this approval.
 The concept sheet is not a Blender render and is not evidence of an exact
-3D match. Compare it directly with the source renders before selecting a cut.
+3D match. The approved model and its recorded checksums are the artwork
+authority; the concept remains a comparison reference.
 The modeled hair is still broader and more structured than the generated
-reference, particularly in its lower sections. These are source candidates,
-not approved replacements or optimized mobile catalogue assets.
+reference, particularly in its lower sections. B is approved source artwork;
+it is not yet an optimized or integrated mobile catalogue asset.
 
 The local output directory is `D:/Ravedio-Avatar-Work/native334`. The
 `334/files` junction points there. Verification reports are source-review.json

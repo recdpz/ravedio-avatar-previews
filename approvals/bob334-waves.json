@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "id": "owner-bob334-waves-approved-2026-11-10",
+  "date": "2026-11-10",
+  "owner_statement": "good job. i approve B wavy bob and curtain fringe.",
+  "scope": "Actual revision 334 B, Wavy bob and curtain fringe, for the Feminine bob hairstyle",
+  "status": "approved",
+  "source": "Direct owner response to revision 334 in this chat",
+  "approved_artwork_commit": "7f4ae47986253d3f5ee1471c17665c4a2797da2c",
+  "approved_assets": {
+    "Feminine-bob": {
+      "asset": "334/files/waves.glb",
+      "sha256": "11d48c7724811723ab949384de379f6115d4dd646c79bb66cee8fafa673b3edf",
+      "source": "D:/Ravedio-Avatar-Work/native334/Ravedio334-waves.blend",
+      "source_sha256": "e69d68cb0f287b79939779446b3be0f97d3fbe3391b36ef0ec0be5676765b9a3"
+    }
+  },
+  "retained_decisions": [
+    "The approved artwork is the actual modeled B source, not the ImageGen concept.",
+    "B supersedes 332 Tucked + Brushed as the selected bob direction; preserve the earlier source.",
+    "A and C are unselected alternatives.",
+    "Record approval without changing the approved geometry or finish."
+  ],
+  "remaining_work": [
+    "Integrate into the existing Feminine bob catalogue slot.",
+    "Author and review headwear fit variants while preserving the approved uncovered look.",
+    "Verify hair palette and ombre on the integrated hairstyle.",
+    "Optimize and package the integrated catalogue for the native apps."
+  ],
+  "no_profile_wire_or_native_qualification_change": true,
+  "recorded_utc": "2026-11-11T02:57:46.1523969Z"
+}

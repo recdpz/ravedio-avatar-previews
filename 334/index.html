@@ -6,15 +6,16 @@
 </style></head><body><main>
 <h1>Bob directions</h1>
 <div class="controls">
-<label>Direction<select id="style"><option value="blowout">A · Blowout bob</option><option value="waves">B · Wavy bob &amp; curtain fringe</option><option value="asymmetric">C · Asymmetric bob</option></select></label>
+<label>Direction<select id="style"><option value="blowout">A · Blowout bob</option><option value="waves" selected>B · Wavy bob &amp; curtain fringe</option><option value="asymmetric">C · Asymmetric bob</option></select></label>
 <label>Model view<select id="angle"><option value="threequarter">Three-quarter</option><option value="front">Front</option><option value="profile">Left side</option><option value="rightprofile">Right side</option><option value="rear">Back</option><option value="rearquarter">Rear three-quarter</option><option value="above">Above</option><option value="underneath">Underneath</option></select></label>
 </div>
 <p id="description" aria-live="polite"></p>
+<p id="approvalNote" class="note" aria-live="polite">Approved · B, Wavy bob and curtain fringe.</p>
 <div class="pair">
-<figure><figcaption id="referenceCaption">Concept target · ImageGen</figcaption><a class="frame" href="files/concept.png"><img class="concept" id="reference" src="files/concept.png" width="1536" height="1024" alt="ImageGen concept A, blowout bob"></a></figure>
-<figure><figcaption>Blender model</figcaption><a class="frame" id="modelLink" href="files/review/blowout-threequarter.png"><img class="model" id="model" src="files/review/blowout-threequarter.png" width="600" height="600" alt="Blender blowout bob, three-quarter view"></a></figure>
+<figure><figcaption id="referenceCaption">Concept target · ImageGen</figcaption><a class="frame" href="files/concept.png"><img class="concept" id="reference" src="files/concept.png" width="1536" height="1024" alt="ImageGen concept B, wavy bob and curtain fringe"></a></figure>
+<figure><figcaption>Blender model</figcaption><a class="frame" id="modelLink" href="files/review/waves-threequarter.png"><img class="model" id="model" src="files/review/waves-threequarter.png" width="600" height="600" alt="Blender wavy bob, three-quarter view"></a></figure>
 </div>
-<nav><a href="files/comparison.jpg">Compare the source models</a><a href="files/angles.jpg">All angles</a><a id="blend" href="files/Ravedio334-blowout.blend" download>Blender source</a><a id="glb" href="files/blowout.glb" download>Hair GLB</a><a href="../332/?shape=tucked&amp;texture=brushed">Chosen Tucked + Brushed</a></nav>
+<nav><a href="files/comparison.jpg">Compare the source models</a><a href="files/angles.jpg">All angles</a><a id="blend" href="files/Ravedio334-waves.blend" download>Blender source</a><a id="glb" href="files/waves.glb" download>Hair GLB</a><a href="../332/?shape=tucked&amp;texture=brushed">Previous Tucked + Brushed</a></nav>
 <details><summary>Full concept sheet</summary><img src="files/concept.png" width="1536" height="1024" alt="The three ImageGen concepts from three-quarter and rear three-quarter views"></details>
 <p class="note">The reference image has three-quarter and rear three-quarter views. The model selector includes eight rendered viewpoints.</p>
 </main><script>
@@ -33,6 +34,7 @@ reference.style.left=(-100*direction.column)+"%";reference.style.top=rear?"-106%
 reference.alt="ImageGen concept "+style.selectedOptions[0].textContent+", "+(rear?"rear three-quarter":"three-quarter")+" view";
 document.querySelector("#referenceCaption").textContent="Concept target · "+(rear?"Rear three-quarter":"Three-quarter");
 document.querySelector("#description").textContent=direction.text;
+document.querySelector("#approvalNote").textContent=style.value==="waves"?"Approved · B, Wavy bob and curtain fringe. Catalogue and headwear integration pending.":"Unselected direction. B, Wavy bob and curtain fringe, remains the approved choice.";
 const file="files/review/"+style.value+"-"+angle.value+".png";
 const model=document.querySelector("#model");model.src=file;model.alt=style.selectedOptions[0].textContent+", "+angle.selectedOptions[0].textContent.toLowerCase()+" Blender view";
 document.querySelector("#modelLink").href=file;
